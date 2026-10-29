@@ -7,4 +7,7 @@ captures/
 .cxx/
 *.apk
 *.aab
+*.jks
+*.keystore
+keystore.properties
 .DS_Store
