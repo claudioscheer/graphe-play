@@ -1,0 +1,226 @@
+{
+  "cards": [
+    {
+      "id": "LAM.1.subject.1",
+      "bookNumber": 310,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Como a cidade populosa de Jerusalém ficou?",
+      "answer": "Ficou sozinha, como viúva, e virou escrava.",
+      "reference": "Lm 1:1"
+    },
+    {
+      "id": "LAM.1.place.1",
+      "bookNumber": 310,
+      "chapter": 1,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Por que os caminhos de Sião choravam?",
+      "answer": "Porque ninguém vinha às festas, e as portas ficaram vazias.",
+      "reference": "Lm 1:4"
+    },
+    {
+      "id": "LAM.1.curiosity.1",
+      "bookNumber": 310,
+      "chapter": 1,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Por que Deus afligiu Jerusalém?",
+      "answer": "Por causa dos muitos pecados dela.",
+      "reference": "Lm 1:5"
+    },
+    {
+      "id": "LAM.1.curiosity.2",
+      "bookNumber": 310,
+      "chapter": 1,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que o povo de Jerusalém trocava por comida?",
+      "answer": "Os próprios bens, para conseguir sobreviver.",
+      "reference": "Lm 1:11"
+    },
+    {
+      "id": "LAM.2.subject.1",
+      "bookNumber": 310,
+      "chapter": 2,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Como Deus se voltou contra Israel na queda de Jerusalém?",
+      "answer": "Ficou como inimigo e derrubou palácios e fortalezas.",
+      "reference": "Lm 2:5"
+    },
+    {
+      "id": "LAM.2.place.1",
+      "bookNumber": 310,
+      "chapter": 2,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "O que Deus fez esquecer em Sião?",
+      "answer": "As festas e os sábados.",
+      "reference": "Lm 2:6"
+    },
+    {
+      "id": "LAM.2.curiosity.1",
+      "bookNumber": 310,
+      "chapter": 2,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Como os anciãos de Sião ficaram no chão?",
+      "answer": "Calados, com pó na cabeça e pano de saco.",
+      "reference": "Lm 2:10"
+    },
+    {
+      "id": "LAM.2.curiosity.2",
+      "bookNumber": 310,
+      "chapter": 2,
+      "verseStart": 11,
+      "verseEnd": 12,
+      "kind": "curiosity",
+      "prompt": "O que as crianças pediam às mães em Jerusalém?",
+      "answer": "Trigo e vinho, já desmaiando nas ruas.",
+      "reference": "Lm 2:11-12"
+    },
+    {
+      "id": "LAM.3.subject.1",
+      "bookNumber": 310,
+      "chapter": 3,
+      "verseStart": 22,
+      "verseEnd": 23,
+      "kind": "subject",
+      "prompt": "O que o homem aflito em Jerusalém diz da misericórdia de Deus?",
+      "answer": "Que ela não acaba, se renova toda manhã, e a fidelidade dele é grande.",
+      "reference": "Lm 3:22-23"
+    },
+    {
+      "id": "LAM.3.place.1",
+      "bookNumber": 310,
+      "chapter": 3,
+      "verseStart": 55,
+      "kind": "place",
+      "prompt": "De onde o homem aflito em Jerusalém chamou por Deus?",
+      "answer": "De uma cova profunda.",
+      "reference": "Lm 3:55"
+    },
+    {
+      "id": "LAM.3.curiosity.1",
+      "bookNumber": 310,
+      "chapter": 3,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que Deus fez do homem aflito em Jerusalém?",
+      "answer": "Fez dele um alvo de flecha.",
+      "reference": "Lm 3:12"
+    },
+    {
+      "id": "LAM.3.curiosity.2",
+      "bookNumber": 310,
+      "chapter": 3,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Com o que Deus quebrou os dentes do homem aflito em Jerusalém?",
+      "answer": "Com cascalho, e o cobriu de cinzas.",
+      "reference": "Lm 3:16"
+    },
+    {
+      "id": "LAM.4.subject.1",
+      "bookNumber": 310,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Como os filhos preciosos de Sião passaram a ser vistos?",
+      "answer": "Como potes de barro, e não mais como ouro puro.",
+      "reference": "Lm 4:2"
+    },
+    {
+      "id": "LAM.4.place.1",
+      "bookNumber": 310,
+      "chapter": 4,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "O castigo de Jerusalém superou o pecado de qual cidade?",
+      "answer": "O de Sodoma, destruída de uma vez.",
+      "reference": "Lm 4:6"
+    },
+    {
+      "id": "LAM.4.curiosity.1",
+      "bookNumber": 310,
+      "chapter": 4,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que as mulheres bondosas fizeram com os filhos em Sião?",
+      "answer": "Cozinharam os próprios filhos para comê-los.",
+      "reference": "Lm 4:10"
+    },
+    {
+      "id": "LAM.4.curiosity.2",
+      "bookNumber": 310,
+      "chapter": 4,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "O que aconteceu com o ungido de Deus em Jerusalém?",
+      "answer": "Foi preso nas covas.",
+      "reference": "Lm 4:20"
+    },
+    {
+      "id": "LAM.5.subject.1",
+      "bookNumber": 310,
+      "chapter": 5,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "O que caiu da cabeça do povo de Jerusalém?",
+      "answer": "A coroa, e o povo lamenta porque pecou.",
+      "reference": "Lm 5:16"
+    },
+    {
+      "id": "LAM.5.place.1",
+      "bookNumber": 310,
+      "chapter": 5,
+      "verseStart": 18,
+      "kind": "place",
+      "prompt": "O que anda no monte de Sião desolado?",
+      "answer": "Raposas.",
+      "reference": "Lm 5:18"
+    },
+    {
+      "id": "LAM.5.curiosity.1",
+      "bookNumber": 310,
+      "chapter": 5,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que o povo de Jerusalém passou a pagar?",
+      "answer": "A água de beber e a lenha.",
+      "reference": "Lm 5:4"
+    },
+    {
+      "id": "LAM.5.curiosity.2",
+      "bookNumber": 310,
+      "chapter": 5,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Como a fome deixou a pele do povo de Jerusalém?",
+      "answer": "Escura, da cor de um forno.",
+      "reference": "Lm 5:10"
+    },
+    {
+      "id": "LAM.0.curiosity.1",
+      "bookNumber": 310,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Lamentações?",
+      "answer": "Jeremias, pela tradição.",
+      "reference": "Lamentações"
+    },
+    {
+      "id": "LAM.0.curiosity.2",
+      "bookNumber": 310,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Lamentações?",
+      "answer": "Depois da queda de Jerusalém, em 586 antes de Cristo.",
+      "reference": "Lamentações"
+    }
+  ]
+}

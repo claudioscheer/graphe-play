@@ -1,0 +1,104 @@
+{
+  "cards": [
+    {
+      "id": "HAG.1.subject.1",
+      "bookNumber": 440,
+      "chapter": 1,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "O que o povo começou a fazer na casa de Deus, em Ageu?",
+      "answer": "A obra de reconstruir a casa.",
+      "reference": "Ag 1:14"
+    },
+    {
+      "id": "HAG.1.name.1",
+      "bookNumber": 440,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem governava Judá quando Ageu falou?",
+      "answer": "Zorobabel, filho de Sealtiel.",
+      "reference": "Ag 1:1"
+    },
+    {
+      "id": "HAG.1.name.2",
+      "bookNumber": 440,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem era o sumo sacerdote no tempo de Ageu?",
+      "answer": "Josué, filho de Jeozadaque.",
+      "reference": "Ag 1:1"
+    },
+    {
+      "id": "HAG.1.curiosity.1",
+      "bookNumber": 440,
+      "chapter": 1,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Onde o salário do trabalhador ia parar, em Ageu?",
+      "answer": "Numa bolsa furada.",
+      "reference": "Ag 1:6"
+    },
+    {
+      "id": "HAG.2.subject.1",
+      "bookNumber": 440,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Como será a glória da nova casa de Deus, em Ageu?",
+      "answer": "Maior do que a glória da primeira.",
+      "reference": "Ag 2:9"
+    },
+    {
+      "id": "HAG.2.name.1",
+      "bookNumber": 440,
+      "chapter": 2,
+      "verseStart": 23,
+      "kind": "name",
+      "prompt": "Quem Ageu diz que Deus chama de servo escolhido?",
+      "answer": "Zorobabel, filho de Sealtiel.",
+      "reference": "Ag 2:23"
+    },
+    {
+      "id": "HAG.2.place.1",
+      "bookNumber": 440,
+      "chapter": 2,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "De que terra o povo tinha saído na aliança, em Ageu?",
+      "answer": "Do Egito.",
+      "reference": "Ag 2:5"
+    },
+    {
+      "id": "HAG.2.curiosity.1",
+      "bookNumber": 440,
+      "chapter": 2,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "A que objeto Deus compara Zorobabel?",
+      "answer": "A um anel de selar.",
+      "reference": "Ag 2:23"
+    },
+    {
+      "id": "HAG.0.curiosity.1",
+      "bookNumber": 440,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Ageu?",
+      "answer": "Ageu.",
+      "reference": "Ageu"
+    },
+    {
+      "id": "HAG.0.curiosity.2",
+      "bookNumber": 440,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Ageu?",
+      "answer": "Em 520 antes de Cristo.",
+      "reference": "Ageu"
+    }
+  ]
+}

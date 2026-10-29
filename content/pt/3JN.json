@@ -1,0 +1,75 @@
+{
+  "cards": [
+    {
+      "id": "3JN.1.subject.1",
+      "bookNumber": 710,
+      "chapter": 1,
+      "verseStart": 7,
+      "verseEnd": 8,
+      "kind": "subject",
+      "prompt": "Por que acolher quem partiu em viagem por causa do nome de Deus?",
+      "answer": "Para ser cooperador da verdade.",
+      "reference": "3Jo 1:7-8"
+    },
+    {
+      "id": "3JN.1.name.1",
+      "bookNumber": 710,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem é o amado a quem o ancião escreve?",
+      "answer": "Gaio.",
+      "reference": "3Jo 1:1"
+    },
+    {
+      "id": "3JN.1.name.2",
+      "bookNumber": 710,
+      "chapter": 1,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem queria mandar na igreja e rejeitava o ancião?",
+      "answer": "Diótrefes.",
+      "reference": "3Jo 1:9"
+    },
+    {
+      "id": "3JN.1.name.3",
+      "bookNumber": 710,
+      "chapter": 1,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem recebia bom testemunho de todos e da verdade?",
+      "answer": "Demétrio.",
+      "reference": "3Jo 1:12"
+    },
+    {
+      "id": "3JN.0.curiosity.1",
+      "bookNumber": 710,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 3 João?",
+      "answer": "João, o apóstolo.",
+      "reference": "3 João"
+    },
+    {
+      "id": "3JN.0.curiosity.2",
+      "bookNumber": 710,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 3 João?",
+      "answer": "No fim do século I.",
+      "reference": "3 João"
+    },
+    {
+      "id": "3JN.0.curiosity.3",
+      "bookNumber": 710,
+      "chapter": 0,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "A quem João escreve a terceira carta?",
+      "answer": "A Gaio, a quem ele amava na verdade.",
+      "reference": "3Jo 1:1"
+    }
+  ]
+}

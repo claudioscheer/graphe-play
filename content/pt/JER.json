@@ -1,0 +1,1305 @@
+{
+  "cards": [
+    {
+      "id": "JER.1.subject.1",
+      "bookNumber": 300,
+      "chapter": 1,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Quando Deus conheceu Jeremias, o profeta das nações?",
+      "answer": "Antes de formá-lo no ventre.",
+      "reference": "Jr 1:5"
+    },
+    {
+      "id": "JER.2.subject.1",
+      "bookNumber": 300,
+      "chapter": 2,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Que dois males o povo de Israel cometeu contra Deus?",
+      "answer": "Abandonou a fonte viva e cavou cisternas rachadas.",
+      "reference": "Jr 2:13"
+    },
+    {
+      "id": "JER.3.subject.1",
+      "bookNumber": 300,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que Deus deu à infiel Israel ao mandá-la embora?",
+      "answer": "A carta de divórcio.",
+      "reference": "Jr 3:8"
+    },
+    {
+      "id": "JER.4.subject.1",
+      "bookNumber": 300,
+      "chapter": 4,
+      "verseStart": 23,
+      "kind": "subject",
+      "prompt": "Como Jeremias viu a terra e os céus?",
+      "answer": "A terra sem forma e vazia, e os céus sem a luz deles.",
+      "reference": "Jr 4:23"
+    },
+    {
+      "id": "JER.5.subject.1",
+      "bookNumber": 300,
+      "chapter": 5,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que Deus faria se achasse um homem justo em Jerusalém?",
+      "answer": "Perdoaria a cidade.",
+      "reference": "Jr 5:1"
+    },
+    {
+      "id": "JER.6.subject.1",
+      "bookNumber": 300,
+      "chapter": 6,
+      "verseStart": 30,
+      "kind": "subject",
+      "prompt": "Por que o povo foi chamado de prata rejeitada, em Jeremias?",
+      "answer": "Porque Deus o rejeitou.",
+      "reference": "Jr 6:30"
+    },
+    {
+      "id": "JER.7.subject.1",
+      "bookNumber": 300,
+      "chapter": 7,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que Deus viu no templo de Jerusalém?",
+      "answer": "Uma caverna de assaltantes.",
+      "reference": "Jr 7:11"
+    },
+    {
+      "id": "JER.8.subject.1",
+      "bookNumber": 300,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 2,
+      "kind": "subject",
+      "prompt": "O que seria tirado das sepulturas dos reis de Judá?",
+      "answer": "Os ossos deles, expostos ao sol e à lua.",
+      "reference": "Jr 8:1-2"
+    },
+    {
+      "id": "JER.9.subject.1",
+      "bookNumber": 300,
+      "chapter": 9,
+      "verseStart": 24,
+      "kind": "subject",
+      "prompt": "O que Deus disse a Jeremias sobre o orgulho?",
+      "answer": "Orgulhe-se de conhecê-lo, que faz o bem, o juízo e a justiça.",
+      "reference": "Jr 9:24"
+    },
+    {
+      "id": "JER.10.subject.1",
+      "bookNumber": 300,
+      "chapter": 10,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "A que Jeremias comparou os ídolos mudos e imóveis?",
+      "answer": "A espantalhos no meio de uma plantação.",
+      "reference": "Jr 10:5"
+    },
+    {
+      "id": "JER.11.subject.1",
+      "bookNumber": 300,
+      "chapter": 11,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "O que os homens de Anatote queriam fazer com Jeremias?",
+      "answer": "Matá-lo, se ele não parasse de profetizar.",
+      "reference": "Jr 11:21"
+    },
+    {
+      "id": "JER.12.subject.1",
+      "bookNumber": 300,
+      "chapter": 12,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Que comparação Deus fez ao falar de corrida com Jeremias?",
+      "answer": "Se correr a pé já cansa, como seria com os cavalos.",
+      "reference": "Jr 12:5"
+    },
+    {
+      "id": "JER.13.subject.1",
+      "bookNumber": 300,
+      "chapter": 13,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Como Jeremias achou o cinto escondido no Eufrates?",
+      "answer": "Estava podre e não servia para nada.",
+      "reference": "Jr 13:7"
+    },
+    {
+      "id": "JER.14.subject.1",
+      "bookNumber": 300,
+      "chapter": 14,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Por que o chão se rachou durante a seca em Judá?",
+      "answer": "Porque a chuva não caiu na terra.",
+      "reference": "Jr 14:4"
+    },
+    {
+      "id": "JER.15.subject.1",
+      "bookNumber": 300,
+      "chapter": 15,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que Deus faria se Moisés e Samuel orassem pelo povo?",
+      "answer": "Não teria favor com o povo e o expulsaria da presença dele.",
+      "reference": "Jr 15:1"
+    },
+    {
+      "id": "JER.16.subject.1",
+      "bookNumber": 300,
+      "chapter": 16,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Deus proibiu a Jeremias sobre ter família?",
+      "answer": "Casar e ter filhos ou filhas naquele lugar.",
+      "reference": "Jr 16:2"
+    },
+    {
+      "id": "JER.17.subject.1",
+      "bookNumber": 300,
+      "chapter": 17,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Com que o pecado de Judá foi gravado?",
+      "answer": "Com um cinzel de ferro e uma ponta de diamante.",
+      "reference": "Jr 17:1"
+    },
+    {
+      "id": "JER.18.subject.1",
+      "bookNumber": 300,
+      "chapter": 18,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "A que Deus comparou a casa de Israel, em Jeremias?",
+      "answer": "Ao barro na mão de quem o modela.",
+      "reference": "Jr 18:6"
+    },
+    {
+      "id": "JER.19.subject.1",
+      "bookNumber": 300,
+      "chapter": 19,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Como Deus comparou o fim do povo ao vaso de oleiro, em Jeremias?",
+      "answer": "Ele o quebraria, e não haveria conserto.",
+      "reference": "Jr 19:11"
+    },
+    {
+      "id": "JER.20.subject.1",
+      "bookNumber": 300,
+      "chapter": 20,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Pasur fez com Jeremias na casa de Deus?",
+      "answer": "Bateu nele e o prendeu no tronco.",
+      "reference": "Jr 20:2"
+    },
+    {
+      "id": "JER.21.subject.1",
+      "bookNumber": 300,
+      "chapter": 21,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Quem sobreviveria ao cerco dos caldeus em Jerusalém?",
+      "answer": "Quem saísse da cidade e se entregasse aos caldeus.",
+      "reference": "Jr 21:9"
+    },
+    {
+      "id": "JER.22.subject.1",
+      "bookNumber": 300,
+      "chapter": 22,
+      "verseStart": 24,
+      "kind": "subject",
+      "prompt": "O que Deus faria se Conias fosse um anel na mão dele?",
+      "answer": "O arrancaria dali mesmo.",
+      "reference": "Jr 22:24"
+    },
+    {
+      "id": "JER.23.subject.1",
+      "bookNumber": 300,
+      "chapter": 23,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que Deus prometeu levantar para Davi?",
+      "answer": "Um rei justo, descendente de Davi, que reinaria.",
+      "reference": "Jr 23:5"
+    },
+    {
+      "id": "JER.24.subject.1",
+      "bookNumber": 300,
+      "chapter": 24,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Quem Deus comparou aos bons figos, em Jeremias?",
+      "answer": "Os cativos levados de Judá, para o bem deles.",
+      "reference": "Jr 24:5"
+    },
+    {
+      "id": "JER.25.subject.1",
+      "bookNumber": 300,
+      "chapter": 25,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Por quantos anos as nações serviriam ao rei da Babilônia?",
+      "answer": "Por setenta anos.",
+      "reference": "Jr 25:11"
+    },
+    {
+      "id": "JER.26.subject.1",
+      "bookNumber": 300,
+      "chapter": 26,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "O que os príncipes e o povo decidiram sobre Jeremias?",
+      "answer": "Que ele não merecia morrer, pois falou da parte de Deus.",
+      "reference": "Jr 26:16"
+    },
+    {
+      "id": "JER.27.subject.1",
+      "bookNumber": 300,
+      "chapter": 27,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Deus mandou Jeremias pôr no pescoço?",
+      "answer": "Amarras e jugos.",
+      "reference": "Jr 27:2"
+    },
+    {
+      "id": "JER.27.name.1",
+      "bookNumber": 300,
+      "chapter": 27,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem recebeu de Deus as terras e os animais do campo, em Jeremias?",
+      "answer": "Nabucodonosor, rei da Babilônia.",
+      "reference": "Jr 27:6"
+    },
+    {
+      "id": "JER.27.place.1",
+      "bookNumber": 300,
+      "chapter": 27,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Para onde Jeremias enviou os jugos?",
+      "answer": "Aos reis de Edom, Moabe, dos filhos de Amom, Tiro e Sidom.",
+      "reference": "Jr 27:3"
+    },
+    {
+      "id": "JER.27.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 27,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Por quanto tempo as nações serviriam à casa de Nabucodonosor?",
+      "answer": "Até o filho do filho dele.",
+      "reference": "Jr 27:7"
+    },
+    {
+      "id": "JER.28.subject.1",
+      "bookNumber": 300,
+      "chapter": 28,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Qual jugo Deus pôs nas nações para servirem a Nabucodonosor?",
+      "answer": "Um jugo de ferro.",
+      "reference": "Jr 28:14"
+    },
+    {
+      "id": "JER.28.name.1",
+      "bookNumber": 300,
+      "chapter": 28,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem era o profeta filho de Azur?",
+      "answer": "Hananias.",
+      "reference": "Jr 28:1"
+    },
+    {
+      "id": "JER.28.place.1",
+      "bookNumber": 300,
+      "chapter": 28,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Qual era a cidade do profeta Hananias?",
+      "answer": "Gibeom.",
+      "reference": "Jr 28:1"
+    },
+    {
+      "id": "JER.28.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 28,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Quando morreu o profeta Hananias?",
+      "answer": "No sétimo mês daquele mesmo ano.",
+      "reference": "Jr 28:17"
+    },
+    {
+      "id": "JER.29.subject.1",
+      "bookNumber": 300,
+      "chapter": 29,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que Deus pediu aos exilados sobre a cidade da Babilônia?",
+      "answer": "Que buscassem a paz dela e orassem por ela.",
+      "reference": "Jr 29:7"
+    },
+    {
+      "id": "JER.29.name.1",
+      "bookNumber": 300,
+      "chapter": 29,
+      "verseStart": 32,
+      "kind": "name",
+      "prompt": "Quem Deus castigou na carta aos exilados por falar rebelião, em Jeremias?",
+      "answer": "Semaías, o neelamita.",
+      "reference": "Jr 29:32"
+    },
+    {
+      "id": "JER.29.place.1",
+      "bookNumber": 300,
+      "chapter": 29,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Jeremias estava ao enviar a carta aos exilados?",
+      "answer": "Em Jerusalém, e a carta ia para a Babilônia.",
+      "reference": "Jr 29:1"
+    },
+    {
+      "id": "JER.29.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 29,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Quantos anos duraria o cativeiro na Babilônia?",
+      "answer": "Setenta anos, e depois o povo voltaria.",
+      "reference": "Jr 29:10"
+    },
+    {
+      "id": "JER.30.subject.1",
+      "bookNumber": 300,
+      "chapter": 30,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que Deus prometeu fazer com Israel e Judá?",
+      "answer": "Trazê-los de volta à terra que deu aos pais.",
+      "reference": "Jr 30:3"
+    },
+    {
+      "id": "JER.30.name.1",
+      "bookNumber": 300,
+      "chapter": 30,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Qual rei Israel serviria, além de Deus, após o cativeiro?",
+      "answer": "Davi, a quem Deus levantaria.",
+      "reference": "Jr 30:9"
+    },
+    {
+      "id": "JER.30.place.1",
+      "bookNumber": 300,
+      "chapter": 30,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Qual lugar chamaram de rejeitado, a quem ninguém busca, em Jeremias?",
+      "answer": "Sião.",
+      "reference": "Jr 30:17"
+    },
+    {
+      "id": "JER.30.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 30,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "O que Deus prometeu pôr outra vez no lugar de costume, em Jeremias?",
+      "answer": "O templo.",
+      "reference": "Jr 30:18"
+    },
+    {
+      "id": "JER.31.subject.1",
+      "bookNumber": 300,
+      "chapter": 31,
+      "verseStart": 33,
+      "kind": "subject",
+      "prompt": "Onde a lei ficaria no pacto de Deus com Israel?",
+      "answer": "No interior do povo, escrita no coração.",
+      "reference": "Jr 31:33"
+    },
+    {
+      "id": "JER.31.name.1",
+      "bookNumber": 300,
+      "chapter": 31,
+      "verseStart": 15,
+      "kind": "name",
+      "prompt": "Quem chorava pelos filhos em Ramá?",
+      "answer": "Raquel, que não aceitava consolo.",
+      "reference": "Jr 31:15"
+    },
+    {
+      "id": "JER.31.place.1",
+      "bookNumber": 300,
+      "chapter": 31,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Onde Israel voltaria a plantar vinhas?",
+      "answer": "Nos montes de Samaria.",
+      "reference": "Jr 31:5"
+    },
+    {
+      "id": "JER.31.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 31,
+      "verseStart": 29,
+      "kind": "curiosity",
+      "prompt": "Qual dito sobre pais e filhos deixaria de ser repetido, em Jeremias?",
+      "answer": "O de que os pais comiam uvas verdes e os filhos sofriam por isso.",
+      "reference": "Jr 31:29"
+    },
+    {
+      "id": "JER.32.subject.1",
+      "bookNumber": 300,
+      "chapter": 32,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "O que Deus disse que ainda se compraria em Judá durante o cerco?",
+      "answer": "Casas, campos e vinhas.",
+      "reference": "Jr 32:15"
+    },
+    {
+      "id": "JER.32.name.1",
+      "bookNumber": 300,
+      "chapter": 32,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem recebeu de Jeremias o documento da compra?",
+      "answer": "Baruque, filho de Nerias.",
+      "reference": "Jr 32:12"
+    },
+    {
+      "id": "JER.32.place.1",
+      "bookNumber": 300,
+      "chapter": 32,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Onde ficava a propriedade que Hanameel vendeu?",
+      "answer": "Na cidade de Anatote, terra de Benjamim.",
+      "reference": "Jr 32:8"
+    },
+    {
+      "id": "JER.32.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 32,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Quanto Jeremias pagou pela propriedade de Hanameel?",
+      "answer": "Dezessete siclos de prata.",
+      "reference": "Jr 32:9"
+    },
+    {
+      "id": "JER.33.subject.1",
+      "bookNumber": 300,
+      "chapter": 33,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "O que Deus faria brotar da família de Davi?",
+      "answer": "Um herdeiro justo, que faria justiça na terra.",
+      "reference": "Jr 33:15"
+    },
+    {
+      "id": "JER.33.name.1",
+      "bookNumber": 300,
+      "chapter": 33,
+      "verseStart": 17,
+      "kind": "name",
+      "prompt": "Quem nunca ficaria sem alguém no trono de Israel?",
+      "answer": "Davi.",
+      "reference": "Jr 33:17"
+    },
+    {
+      "id": "JER.33.place.1",
+      "bookNumber": 300,
+      "chapter": 33,
+      "verseStart": 16,
+      "kind": "place",
+      "prompt": "Qual cidade viveria em segurança quando Judá fosse salvo?",
+      "answer": "Jerusalém.",
+      "reference": "Jr 33:16"
+    },
+    {
+      "id": "JER.33.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 33,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Como chamariam Jerusalém quando ela estivesse segura?",
+      "answer": "Deus é a nossa justiça.",
+      "reference": "Jr 33:16"
+    },
+    {
+      "id": "JER.34.subject.1",
+      "bookNumber": 300,
+      "chapter": 34,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que fizeram com os servos hebreus depois de libertá-los, em Jeremias?",
+      "answer": "Mudaram de ideia e os escravizaram de novo.",
+      "reference": "Jr 34:11"
+    },
+    {
+      "id": "JER.34.name.1",
+      "bookNumber": 300,
+      "chapter": 34,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem Deus disse que não morreria pela espada, em Jeremias?",
+      "answer": "Zedequias, rei de Judá.",
+      "reference": "Jr 34:4"
+    },
+    {
+      "id": "JER.34.place.1",
+      "bookNumber": 300,
+      "chapter": 34,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Quais cidades fortificadas de Judá ainda resistiam?",
+      "answer": "Laquis e Azeca.",
+      "reference": "Jr 34:7"
+    },
+    {
+      "id": "JER.34.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 34,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Por quantos anos o hebreu servia antes de ser solto, em Jeremias?",
+      "answer": "Por seis anos.",
+      "reference": "Jr 34:14"
+    },
+    {
+      "id": "JER.35.subject.1",
+      "bookNumber": 300,
+      "chapter": 35,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "O que a obediência dos recabitas mostrou a Judá?",
+      "answer": "Que eles ouviam o pai, mas Judá não ouvia a Deus.",
+      "reference": "Jr 35:14"
+    },
+    {
+      "id": "JER.35.name.1",
+      "bookNumber": 300,
+      "chapter": 35,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem proibiu os recabitas de beber vinho, em Jeremias?",
+      "answer": "Jonadabe, filho de Recabe.",
+      "reference": "Jr 35:6"
+    },
+    {
+      "id": "JER.35.place.1",
+      "bookNumber": 300,
+      "chapter": 35,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Para onde os recabitas foram por causa dos caldeus, em Jeremias?",
+      "answer": "Para Jerusalém.",
+      "reference": "Jr 35:11"
+    },
+    {
+      "id": "JER.35.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 35,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Como os recabitas deviam morar, segundo Jonadabe?",
+      "answer": "Em tendas, sem casa, sem lavoura e sem vinha.",
+      "reference": "Jr 35:7"
+    },
+    {
+      "id": "JER.36.subject.1",
+      "bookNumber": 300,
+      "chapter": 36,
+      "verseStart": 23,
+      "kind": "subject",
+      "prompt": "O que Jeudi fez com o rolo depois de ler um trecho?",
+      "answer": "Rasgou-o e o queimou no braseiro.",
+      "reference": "Jr 36:23"
+    },
+    {
+      "id": "JER.36.name.1",
+      "bookNumber": 300,
+      "chapter": 36,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem escreveu no rolo o que Jeremias ditava?",
+      "answer": "Baruque, filho de Nerias.",
+      "reference": "Jr 36:4"
+    },
+    {
+      "id": "JER.36.place.1",
+      "bookNumber": 300,
+      "chapter": 36,
+      "verseStart": 22,
+      "kind": "place",
+      "prompt": "Onde Jeoaquim estava quando o rolo foi lido?",
+      "answer": "Na casa de inverno, diante de um braseiro aceso.",
+      "reference": "Jr 36:22"
+    },
+    {
+      "id": "JER.36.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 36,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "Quantas colunas Jeudi lia antes de cortar o rolo?",
+      "answer": "Três ou quatro.",
+      "reference": "Jr 36:23"
+    },
+    {
+      "id": "JER.37.subject.1",
+      "bookNumber": 300,
+      "chapter": 37,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Onde os príncipes prenderam Jeremias?",
+      "answer": "Na casa do escriba Jônatas, usada como prisão.",
+      "reference": "Jr 37:15"
+    },
+    {
+      "id": "JER.37.name.1",
+      "bookNumber": 300,
+      "chapter": 37,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "Quem prendeu Jeremias na porta de Benjamim?",
+      "answer": "Jerias, filho de Selemias.",
+      "reference": "Jr 37:13"
+    },
+    {
+      "id": "JER.37.place.1",
+      "bookNumber": 300,
+      "chapter": 37,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Para onde voltaria o exército do faraó, em Jeremias?",
+      "answer": "Para a terra do Egito.",
+      "reference": "Jr 37:7"
+    },
+    {
+      "id": "JER.37.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 37,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "O que Zedequias mandou dar a Jeremias cada dia?",
+      "answer": "Uma porção de pão da rua dos padeiros.",
+      "reference": "Jr 37:21"
+    },
+    {
+      "id": "JER.38.subject.1",
+      "bookNumber": 300,
+      "chapter": 38,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Como Jeremias ficou na cisterna de Malquias?",
+      "answer": "Atolado na lama, porque não havia água.",
+      "reference": "Jr 38:6"
+    },
+    {
+      "id": "JER.38.name.1",
+      "bookNumber": 300,
+      "chapter": 38,
+      "verseStart": 10,
+      "kind": "name",
+      "prompt": "Quem o rei encarregou de tirar Jeremias da cisterna?",
+      "answer": "Ebede-Meleque, o cuxita.",
+      "reference": "Jr 38:10"
+    },
+    {
+      "id": "JER.38.place.1",
+      "bookNumber": 300,
+      "chapter": 38,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Onde Zedequias falou em segredo com Jeremias?",
+      "answer": "Na terceira entrada da casa de Deus.",
+      "reference": "Jr 38:14"
+    },
+    {
+      "id": "JER.38.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 38,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Quantos homens o rei deu para tirar Jeremias da cisterna?",
+      "answer": "Trinta homens.",
+      "reference": "Jr 38:10"
+    },
+    {
+      "id": "JER.39.subject.1",
+      "bookNumber": 300,
+      "chapter": 39,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que os caldeus fizeram em Jerusalém depois de entrar?",
+      "answer": "Queimaram as casas e derrubaram os muros.",
+      "reference": "Jr 39:8"
+    },
+    {
+      "id": "JER.39.name.1",
+      "bookNumber": 300,
+      "chapter": 39,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Quem foi cegado e levado preso à Babilônia?",
+      "answer": "Zedequias.",
+      "reference": "Jr 39:7"
+    },
+    {
+      "id": "JER.39.place.1",
+      "bookNumber": 300,
+      "chapter": 39,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Onde Nabucodonosor sentenciou Zedequias?",
+      "answer": "Em Ribla, na terra de Hamate.",
+      "reference": "Jr 39:5"
+    },
+    {
+      "id": "JER.39.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 39,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que aconteceu aos filhos de Zedequias em Ribla?",
+      "answer": "Foram mortos diante dos olhos do pai.",
+      "reference": "Jr 39:6"
+    },
+    {
+      "id": "JER.40.subject.1",
+      "bookNumber": 300,
+      "chapter": 40,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Quem passou a chefiar as cidades de Judá, posto pela Babilônia?",
+      "answer": "Gedalias, filho de Aicã.",
+      "reference": "Jr 40:5"
+    },
+    {
+      "id": "JER.40.name.1",
+      "bookNumber": 300,
+      "chapter": 40,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem Baalis enviou para matar Gedalias?",
+      "answer": "Ismael, filho de Netanias.",
+      "reference": "Jr 40:14"
+    },
+    {
+      "id": "JER.40.place.1",
+      "bookNumber": 300,
+      "chapter": 40,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Onde Jeremias foi morar com Gedalias?",
+      "answer": "Em Mispá.",
+      "reference": "Jr 40:6"
+    },
+    {
+      "id": "JER.40.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 40,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que Gedalias disse do aviso contra Ismael?",
+      "answer": "Disse que o aviso era falso.",
+      "reference": "Jr 40:16"
+    },
+    {
+      "id": "JER.41.subject.1",
+      "bookNumber": 300,
+      "chapter": 41,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Ismael e os dez homens fizeram a Gedalias?",
+      "answer": "Mataram-no à espada.",
+      "reference": "Jr 41:2"
+    },
+    {
+      "id": "JER.41.name.1",
+      "bookNumber": 300,
+      "chapter": 41,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem trouxe de volta o povo levado por Ismael?",
+      "answer": "Joanã, filho de Careá.",
+      "reference": "Jr 41:16"
+    },
+    {
+      "id": "JER.41.place.1",
+      "bookNumber": 300,
+      "chapter": 41,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Perto de qual cidade o restante de Judá parou, a caminho do Egito?",
+      "answer": "Perto de Belém, em Gerute-Quimã.",
+      "reference": "Jr 41:17"
+    },
+    {
+      "id": "JER.41.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 41,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Quantos homens vinham de Siquém, Siló e Samaria?",
+      "answer": "Oitenta homens.",
+      "reference": "Jr 41:5"
+    },
+    {
+      "id": "JER.42.subject.1",
+      "bookNumber": 300,
+      "chapter": 42,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que Deus prometeu a quem ficasse em Judá, sem ir ao Egito?",
+      "answer": "Edificá-los e plantá-los, sem os destruir.",
+      "reference": "Jr 42:10"
+    },
+    {
+      "id": "JER.42.name.1",
+      "bookNumber": 300,
+      "chapter": 42,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem Jeremias chamou para ouvir a resposta de Deus?",
+      "answer": "Joanã, filho de Careá, e todo o povo.",
+      "reference": "Jr 42:8"
+    },
+    {
+      "id": "JER.42.place.1",
+      "bookNumber": 300,
+      "chapter": 42,
+      "verseStart": 19,
+      "kind": "place",
+      "prompt": "Para onde o restante de Judá não devia ir?",
+      "answer": "Para o Egito.",
+      "reference": "Jr 42:19"
+    },
+    {
+      "id": "JER.42.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 42,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Quantos dias Jeremias esperou pela resposta de Deus?",
+      "answer": "Dez dias.",
+      "reference": "Jr 42:7"
+    },
+    {
+      "id": "JER.43.subject.1",
+      "bookNumber": 300,
+      "chapter": 43,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Para onde o restante foi, desobedecendo a Deus, em Jeremias?",
+      "answer": "Para o Egito, até Tafnes.",
+      "reference": "Jr 43:7"
+    },
+    {
+      "id": "JER.43.name.1",
+      "bookNumber": 300,
+      "chapter": 43,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "De quem o povo acusou de incitar Jeremias?",
+      "answer": "De Baruque, filho de Nerias.",
+      "reference": "Jr 43:3"
+    },
+    {
+      "id": "JER.43.place.1",
+      "bookNumber": 300,
+      "chapter": 43,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Onde Jeremias escondeu as pedras grandes em Tafnes?",
+      "answer": "No barro do forno, à porta da casa do faraó.",
+      "reference": "Jr 43:9"
+    },
+    {
+      "id": "JER.43.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 43,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que Nabucodonosor poria sobre as pedras em Tafnes?",
+      "answer": "O trono dele e a tenda real.",
+      "reference": "Jr 43:10"
+    },
+    {
+      "id": "JER.44.subject.1",
+      "bookNumber": 300,
+      "chapter": 44,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "Quem os judeus no Egito insistiam em honrar com incenso?",
+      "answer": "À rainha dos céus.",
+      "reference": "Jr 44:17"
+    },
+    {
+      "id": "JER.44.name.1",
+      "bookNumber": 300,
+      "chapter": 44,
+      "verseStart": 30,
+      "kind": "name",
+      "prompt": "Qual rei do Egito Deus entregaria aos inimigos?",
+      "answer": "O faraó Ofra.",
+      "reference": "Jr 44:30"
+    },
+    {
+      "id": "JER.44.place.1",
+      "bookNumber": 300,
+      "chapter": 44,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde moravam os judeus a quem Jeremias falou no Egito?",
+      "answer": "Em Migdol, Tafnes, Nofe e Patros.",
+      "reference": "Jr 44:1"
+    },
+    {
+      "id": "JER.44.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 44,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que as mulheres faziam para a rainha dos céus, em Jeremias?",
+      "answer": "Bolos para o culto e ofertas de bebida.",
+      "reference": "Jr 44:19"
+    },
+    {
+      "id": "JER.45.subject.1",
+      "bookNumber": 300,
+      "chapter": 45,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que Deus disse a Baruque sobre buscar grandezas?",
+      "answer": "Que não buscasse, pois a vida dele seria guardada.",
+      "reference": "Jr 45:5"
+    },
+    {
+      "id": "JER.45.name.1",
+      "bookNumber": 300,
+      "chapter": 45,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem era o filho de Nerias que escrevia o livro?",
+      "answer": "Baruque.",
+      "reference": "Jr 45:1"
+    },
+    {
+      "id": "JER.45.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 45,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Quando Baruque escrevia as palavras de Jeremias?",
+      "answer": "No quinto ano de Jeoaquim, rei de Judá.",
+      "reference": "Jr 45:1"
+    },
+    {
+      "id": "JER.46.subject.1",
+      "bookNumber": 300,
+      "chapter": 46,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Quem derrotou o faraó Neco em Carquemis?",
+      "answer": "Nabucodonosor, rei da Babilônia.",
+      "reference": "Jr 46:2"
+    },
+    {
+      "id": "JER.46.name.1",
+      "bookNumber": 300,
+      "chapter": 46,
+      "verseStart": 25,
+      "kind": "name",
+      "prompt": "Quem Deus puniria em Nô, junto com o faraó?",
+      "answer": "Amom de Nô.",
+      "reference": "Jr 46:25"
+    },
+    {
+      "id": "JER.46.place.1",
+      "bookNumber": 300,
+      "chapter": 46,
+      "verseStart": 19,
+      "kind": "place",
+      "prompt": "Qual cidade do Egito ficaria sem morador?",
+      "answer": "Nofe.",
+      "reference": "Jr 46:19"
+    },
+    {
+      "id": "JER.46.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 46,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Qual rio serviu de imagem para o Egito na guerra?",
+      "answer": "Ao Nilo.",
+      "reference": "Jr 46:8"
+    },
+    {
+      "id": "JER.47.subject.1",
+      "bookNumber": 300,
+      "chapter": 47,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que Deus faria com os filisteus, segundo Jeremias?",
+      "answer": "Destruiria o restante vindo da ilha de Caftor.",
+      "reference": "Jr 47:4"
+    },
+    {
+      "id": "JER.47.place.1",
+      "bookNumber": 300,
+      "chapter": 47,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Contra qual cidade do litoral a espada foi enviada, em Jeremias?",
+      "answer": "Contra Ascalom.",
+      "reference": "Jr 47:7"
+    },
+    {
+      "id": "JER.47.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 47,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Onde começava a enchente anunciada contra os filisteus, em Jeremias?",
+      "answer": "No norte, como uma enchente.",
+      "reference": "Jr 47:2"
+    },
+    {
+      "id": "JER.48.subject.1",
+      "bookNumber": 300,
+      "chapter": 48,
+      "verseStart": 42,
+      "kind": "subject",
+      "prompt": "O que aconteceria a Moabe por se exaltar contra Deus?",
+      "answer": "Seria destruído e deixaria de ser povo.",
+      "reference": "Jr 48:42"
+    },
+    {
+      "id": "JER.48.name.1",
+      "bookNumber": 300,
+      "chapter": 48,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Quem iria ao cativeiro com os príncipes de Moabe?",
+      "answer": "Quemos, com os sacerdotes.",
+      "reference": "Jr 48:7"
+    },
+    {
+      "id": "JER.48.place.1",
+      "bookNumber": 300,
+      "chapter": 48,
+      "verseStart": 45,
+      "kind": "place",
+      "prompt": "Onde começou o fogo que atingiu Moabe?",
+      "answer": "Em Hesbom.",
+      "reference": "Jr 48:45"
+    },
+    {
+      "id": "JER.48.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 48,
+      "verseStart": 47,
+      "kind": "curiosity",
+      "prompt": "O que Deus prometeu a Moabe nos últimos dias?",
+      "answer": "Restaurá-lo do infortúnio.",
+      "reference": "Jr 48:47"
+    },
+    {
+      "id": "JER.49.subject.1",
+      "bookNumber": 300,
+      "chapter": 49,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "Como Edom ficaria para quem passasse por ela?",
+      "answer": "Seria motivo de espanto e de assobio.",
+      "reference": "Jr 49:17"
+    },
+    {
+      "id": "JER.49.name.1",
+      "bookNumber": 300,
+      "chapter": 49,
+      "verseStart": 28,
+      "kind": "name",
+      "prompt": "Quem feriu Quedar e os reinos de Hazor?",
+      "answer": "Nabucodonosor, rei da Babilônia.",
+      "reference": "Jr 49:28"
+    },
+    {
+      "id": "JER.49.place.1",
+      "bookNumber": 300,
+      "chapter": 49,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "O que seria de Rabá dos filhos de Amom, em Jeremias?",
+      "answer": "Um monte de ruínas, com as vilas queimadas.",
+      "reference": "Jr 49:2"
+    },
+    {
+      "id": "JER.49.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 49,
+      "verseStart": 35,
+      "kind": "curiosity",
+      "prompt": "O que Deus quebraria em Elão?",
+      "answer": "O arco, a força principal dele.",
+      "reference": "Jr 49:35"
+    },
+    {
+      "id": "JER.50.subject.1",
+      "bookNumber": 300,
+      "chapter": 50,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que devia ser anunciado sobre a Babilônia?",
+      "answer": "Que ela foi tomada, Bel humilhado e Merodaque quebrado.",
+      "reference": "Jr 50:2"
+    },
+    {
+      "id": "JER.50.name.1",
+      "bookNumber": 300,
+      "chapter": 50,
+      "verseStart": 17,
+      "kind": "name",
+      "prompt": "Quem quebrou os ossos de Israel por último?",
+      "answer": "Nabucodonosor, rei da Babilônia.",
+      "reference": "Jr 50:17"
+    },
+    {
+      "id": "JER.50.place.1",
+      "bookNumber": 300,
+      "chapter": 50,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Qual lugar Israel buscaria ao voltar da Babilônia?",
+      "answer": "Sião.",
+      "reference": "Jr 50:5"
+    },
+    {
+      "id": "JER.50.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 50,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "O que se quebrou na imagem da queda da Babilônia?",
+      "answer": "O martelo que dominava a terra toda.",
+      "reference": "Jr 50:23"
+    },
+    {
+      "id": "JER.51.subject.1",
+      "bookNumber": 300,
+      "chapter": 51,
+      "verseStart": 63,
+      "kind": "subject",
+      "prompt": "O que Seraías devia fazer com o livro sobre a Babilônia?",
+      "answer": "Amarrá-lo a uma pedra e lançá-lo no Eufrates.",
+      "reference": "Jr 51:63"
+    },
+    {
+      "id": "JER.51.name.1",
+      "bookNumber": 300,
+      "chapter": 51,
+      "verseStart": 59,
+      "kind": "name",
+      "prompt": "Quem levou o escrito de Jeremias à Babilônia?",
+      "answer": "Seraías, filho de Nerias.",
+      "reference": "Jr 51:59"
+    },
+    {
+      "id": "JER.51.place.1",
+      "bookNumber": 300,
+      "chapter": 51,
+      "verseStart": 27,
+      "kind": "place",
+      "prompt": "Quais reinos foram convocados contra a Babilônia?",
+      "answer": "Ararate, Mini e Asquenaz.",
+      "reference": "Jr 51:27"
+    },
+    {
+      "id": "JER.51.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 51,
+      "verseStart": 64,
+      "kind": "curiosity",
+      "prompt": "O que significava atirar o livro no Eufrates?",
+      "answer": "Que a Babilônia afundaria e não se levantaria.",
+      "reference": "Jr 51:64"
+    },
+    {
+      "id": "JER.52.subject.1",
+      "bookNumber": 300,
+      "chapter": 52,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que Nebuzaradã queimou em Jerusalém?",
+      "answer": "O templo, o palácio do rei e as casas grandes.",
+      "reference": "Jr 52:13"
+    },
+    {
+      "id": "JER.52.name.1",
+      "bookNumber": 300,
+      "chapter": 52,
+      "verseStart": 31,
+      "kind": "name",
+      "prompt": "Quem tirou o rei Joaquim da prisão?",
+      "answer": "Evil-Merodaque, rei da Babilônia.",
+      "reference": "Jr 52:31"
+    },
+    {
+      "id": "JER.52.place.1",
+      "bookNumber": 300,
+      "chapter": 52,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Onde Zedequias recebeu a sentença?",
+      "answer": "Em Ribla, na terra de Hamate.",
+      "reference": "Jr 52:9"
+    },
+    {
+      "id": "JER.52.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 52,
+      "verseStart": 30,
+      "kind": "curiosity",
+      "prompt": "Quantos judeus Jeremias diz que foram levados no total?",
+      "answer": "Quatro mil e seiscentas pessoas.",
+      "reference": "Jr 52:30"
+    },
+    {
+      "id": "JER.0.curiosity.1",
+      "bookNumber": 300,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Jeremias?",
+      "answer": "Jeremias.",
+      "reference": "Jeremias"
+    },
+    {
+      "id": "JER.0.curiosity.2",
+      "bookNumber": 300,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Jeremias?",
+      "answer": "Do fim do século VII ao século VI antes de Cristo.",
+      "reference": "Jeremias"
+    }
+  ]
+}

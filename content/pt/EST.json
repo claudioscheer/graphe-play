@@ -1,0 +1,414 @@
+{
+  "cards": [
+    {
+      "id": "EST.1.subject.1",
+      "bookNumber": 190,
+      "chapter": 1,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que a rainha Vasti fez ao ser chamada?",
+      "answer": "Recusou ir, e o rei Assuero ficou furioso.",
+      "reference": "Et 1:12"
+    },
+    {
+      "id": "EST.1.name.1",
+      "bookNumber": 190,
+      "chapter": 1,
+      "verseStart": 21,
+      "kind": "name",
+      "prompt": "O conselho de quem o rei Assuero seguiu?",
+      "answer": "O de Memucã.",
+      "reference": "Et 1:21"
+    },
+    {
+      "id": "EST.1.place.1",
+      "bookNumber": 190,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde ficava o trono do rei Assuero?",
+      "answer": "Na fortaleza de Susã.",
+      "reference": "Et 1:2"
+    },
+    {
+      "id": "EST.1.curiosity.1",
+      "bookNumber": 190,
+      "chapter": 1,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Por quantos dias Assuero exibiu as riquezas do reino?",
+      "answer": "Por cento e oitenta dias.",
+      "reference": "Et 1:4"
+    },
+    {
+      "id": "EST.2.subject.1",
+      "bookNumber": 190,
+      "chapter": 2,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "Quem Assuero coroou no lugar de Vasti?",
+      "answer": "Ester.",
+      "reference": "Et 2:17"
+    },
+    {
+      "id": "EST.2.name.1",
+      "bookNumber": 190,
+      "chapter": 2,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Quem era o judeu benjamita na fortaleza de Susã?",
+      "answer": "Mardoqueu, filho de Jair.",
+      "reference": "Et 2:5"
+    },
+    {
+      "id": "EST.2.curiosity.1",
+      "bookNumber": 190,
+      "chapter": 2,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Por que Ester escondeu o seu povo?",
+      "answer": "Porque Mardoqueu mandou que ela não contasse.",
+      "reference": "Et 2:10"
+    },
+    {
+      "id": "EST.2.curiosity.2",
+      "bookNumber": 190,
+      "chapter": 2,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "O que Mardoqueu fez ao descobrir o plano contra o rei?",
+      "answer": "Contou a Ester, e ela avisou o rei.",
+      "reference": "Et 2:22"
+    },
+    {
+      "id": "EST.3.subject.1",
+      "bookNumber": 190,
+      "chapter": 3,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Hamã quis fazer com o povo de Mardoqueu?",
+      "answer": "Exterminar os judeus de todo o reino.",
+      "reference": "Et 3:6"
+    },
+    {
+      "id": "EST.3.name.1",
+      "bookNumber": 190,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem Assuero pôs acima de todos os príncipes?",
+      "answer": "Hamã, filho de Hamedata, o agagita.",
+      "reference": "Et 3:1"
+    },
+    {
+      "id": "EST.3.place.1",
+      "bookNumber": 190,
+      "chapter": 3,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "Que cidade ficou confusa quando o decreto saiu, em Ester?",
+      "answer": "A cidade de Susã.",
+      "reference": "Et 3:15"
+    },
+    {
+      "id": "EST.3.curiosity.1",
+      "bookNumber": 190,
+      "chapter": 3,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Para qual mês caiu a sorte lançada por Hamã?",
+      "answer": "Para o mês de Adar.",
+      "reference": "Et 3:7"
+    },
+    {
+      "id": "EST.4.subject.1",
+      "bookNumber": 190,
+      "chapter": 4,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "O que Ester decidiu, mesmo contra a lei?",
+      "answer": "Ir ao rei, mesmo que viesse a morrer.",
+      "reference": "Et 4:16"
+    },
+    {
+      "id": "EST.4.place.1",
+      "bookNumber": 190,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Por que Mardoqueu não entrou pela porta do rei?",
+      "answer": "Porque ninguém de saco podia passar.",
+      "reference": "Et 4:2"
+    },
+    {
+      "id": "EST.4.curiosity.1",
+      "bookNumber": 190,
+      "chapter": 4,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "O que Mardoqueu disse se Ester ficasse calada?",
+      "answer": "O socorro viria de outro lugar, mas ela e a família pereceriam.",
+      "reference": "Et 4:14"
+    },
+    {
+      "id": "EST.4.curiosity.2",
+      "bookNumber": 190,
+      "chapter": 4,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Por quantos dias Ester pediu jejum em Susã?",
+      "answer": "Três dias, sem comer e sem beber.",
+      "reference": "Et 4:16"
+    },
+    {
+      "id": "EST.5.subject.1",
+      "bookNumber": 190,
+      "chapter": 5,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Quem Ester convidou para o banquete?",
+      "answer": "O rei e Hamã.",
+      "reference": "Et 5:4"
+    },
+    {
+      "id": "EST.5.name.1",
+      "bookNumber": 190,
+      "chapter": 5,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem aconselhou Hamã a fazer uma forca?",
+      "answer": "Zeres, a mulher dele, e os amigos.",
+      "reference": "Et 5:14"
+    },
+    {
+      "id": "EST.5.place.1",
+      "bookNumber": 190,
+      "chapter": 5,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Onde Hamã viu Mardoqueu e se irritou?",
+      "answer": "À porta do rei.",
+      "reference": "Et 5:9"
+    },
+    {
+      "id": "EST.5.curiosity.1",
+      "bookNumber": 190,
+      "chapter": 5,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Qual era a altura da forca contra Mardoqueu?",
+      "answer": "Cinquenta côvados de altura.",
+      "reference": "Et 5:14"
+    },
+    {
+      "id": "EST.6.subject.1",
+      "bookNumber": 190,
+      "chapter": 6,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que Hamã teve de fazer com Mardoqueu?",
+      "answer": "Levá-lo a cavalo pela cidade, anunciando a honra do rei.",
+      "reference": "Et 6:11"
+    },
+    {
+      "id": "EST.6.name.1",
+      "bookNumber": 190,
+      "chapter": 6,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "O que Zeres avisou a Hamã sobre Mardoqueu?",
+      "answer": "Que Hamã cairia diante dele.",
+      "reference": "Et 6:13"
+    },
+    {
+      "id": "EST.6.place.1",
+      "bookNumber": 190,
+      "chapter": 6,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Para onde Mardoqueu voltou após a honra?",
+      "answer": "Para a porta do rei.",
+      "reference": "Et 6:12"
+    },
+    {
+      "id": "EST.6.curiosity.1",
+      "bookNumber": 190,
+      "chapter": 6,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "O que o rei fez na noite sem sono, em Ester?",
+      "answer": "Mandou ler as crônicas do reino.",
+      "reference": "Et 6:1"
+    },
+    {
+      "id": "EST.7.subject.1",
+      "bookNumber": 190,
+      "chapter": 7,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "Onde Hamã acabou sendo morto?",
+      "answer": "Na forca feita para Mardoqueu.",
+      "reference": "Et 7:10"
+    },
+    {
+      "id": "EST.7.name.1",
+      "bookNumber": 190,
+      "chapter": 7,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem revelou ao rei a forca de Hamã?",
+      "answer": "Harbona, um dos eunucos.",
+      "reference": "Et 7:9"
+    },
+    {
+      "id": "EST.7.place.1",
+      "bookNumber": 190,
+      "chapter": 7,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Para onde o rei foi, irado, durante o banquete, em Ester?",
+      "answer": "Para o jardim do palácio.",
+      "reference": "Et 7:7"
+    },
+    {
+      "id": "EST.7.curiosity.1",
+      "bookNumber": 190,
+      "chapter": 7,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Onde estava Hamã quando o rei voltou?",
+      "answer": "No divã em que Ester se achava.",
+      "reference": "Et 7:8"
+    },
+    {
+      "id": "EST.8.subject.1",
+      "bookNumber": 190,
+      "chapter": 8,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que o novo decreto autorizou os judeus a fazer, em Ester?",
+      "answer": "Reunir-se para defender a própria vida.",
+      "reference": "Et 8:11"
+    },
+    {
+      "id": "EST.8.name.1",
+      "bookNumber": 190,
+      "chapter": 8,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem recebeu o anel real que Hamã usava?",
+      "answer": "Mardoqueu.",
+      "reference": "Et 8:2"
+    },
+    {
+      "id": "EST.8.place.1",
+      "bookNumber": 190,
+      "chapter": 8,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "De onde até onde se estendia o reino no novo decreto, em Ester?",
+      "answer": "Da Índia até Cuxe.",
+      "reference": "Et 8:9"
+    },
+    {
+      "id": "EST.8.curiosity.1",
+      "bookNumber": 190,
+      "chapter": 8,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Como Mardoqueu saiu da presença do rei?",
+      "answer": "Com roupa real azul e branca, e coroa de ouro.",
+      "reference": "Et 8:15"
+    },
+    {
+      "id": "EST.9.subject.1",
+      "bookNumber": 190,
+      "chapter": 9,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que ocorreu no dia em que queriam vencer os judeus, em Ester?",
+      "answer": "Aconteceu o inverso: os judeus venceram.",
+      "reference": "Et 9:1"
+    },
+    {
+      "id": "EST.9.place.1",
+      "bookNumber": 190,
+      "chapter": 9,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Em que fortaleza os judeus mataram quinhentos homens, em Ester?",
+      "answer": "Na fortaleza de Susã.",
+      "reference": "Et 9:6"
+    },
+    {
+      "id": "EST.9.curiosity.1",
+      "bookNumber": 190,
+      "chapter": 9,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "O que foi feito com os dez filhos de Hamã?",
+      "answer": "Foram enforcados.",
+      "reference": "Et 9:14"
+    },
+    {
+      "id": "EST.9.curiosity.2",
+      "bookNumber": 190,
+      "chapter": 9,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "De onde vem o nome Purim?",
+      "answer": "Da palavra Pur.",
+      "reference": "Et 9:26"
+    },
+    {
+      "id": "EST.10.subject.1",
+      "bookNumber": 190,
+      "chapter": 10,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Qual cargo Mardoqueu teve diante de Assuero?",
+      "answer": "Foi o segundo, logo abaixo do rei.",
+      "reference": "Et 10:3"
+    },
+    {
+      "id": "EST.10.place.1",
+      "bookNumber": 190,
+      "chapter": 10,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Sobre quais lugares Assuero pôs tributo?",
+      "answer": "Sobre a terra e as ilhas do mar.",
+      "reference": "Et 10:1"
+    },
+    {
+      "id": "EST.10.curiosity.1",
+      "bookNumber": 190,
+      "chapter": 10,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Onde ficou registrada a grandeza de Mardoqueu?",
+      "answer": "No livro oficial dos reis medos e persas.",
+      "reference": "Et 10:2"
+    },
+    {
+      "id": "EST.0.curiosity.1",
+      "bookNumber": 190,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Ester?",
+      "answer": "O livro não diz o autor.",
+      "reference": "Ester"
+    },
+    {
+      "id": "EST.0.curiosity.2",
+      "bookNumber": 190,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Ester?",
+      "answer": "No tempo da Pérsia, no século V antes de Cristo.",
+      "reference": "Ester"
+    }
+  ]
+}

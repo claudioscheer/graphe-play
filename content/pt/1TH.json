@@ -1,0 +1,234 @@
+{
+  "cards": [
+    {
+      "id": "1TH.1.subject.1",
+      "bookNumber": 590,
+      "chapter": 1,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que os tessalonicenses deixaram para servir a Deus?",
+      "answer": "Os ídolos, e passaram a servir o Deus vivo.",
+      "reference": "1Ts 1:9"
+    },
+    {
+      "id": "1TH.1.name.1",
+      "bookNumber": 590,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem escreve com Paulo à igreja de Tessalônica?",
+      "answer": "Silvano e Timóteo.",
+      "reference": "1Ts 1:1"
+    },
+    {
+      "id": "1TH.1.place.1",
+      "bookNumber": 590,
+      "chapter": 1,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Onde a fé dos tessalonicenses se espalhou, em 1 Tessalonicenses?",
+      "answer": "Na Macedônia, na Acaia e por toda parte.",
+      "reference": "1Ts 1:8"
+    },
+    {
+      "id": "1TH.1.curiosity.1",
+      "bookNumber": 590,
+      "chapter": 1,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "A quem os tessalonicenses esperam dos céus?",
+      "answer": "Jesus, a quem Deus ressuscitou e que livra da ira.",
+      "reference": "1Ts 1:10"
+    },
+    {
+      "id": "1TH.2.subject.1",
+      "bookNumber": 590,
+      "chapter": 2,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Como os tessalonicenses receberam a mensagem?",
+      "answer": "Como palavra de Deus, não como fala de homens.",
+      "reference": "1Ts 2:13"
+    },
+    {
+      "id": "1TH.2.name.1",
+      "bookNumber": 590,
+      "chapter": 2,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Quem impediu Paulo de visitar os tessalonicenses?",
+      "answer": "Satanás.",
+      "reference": "1Ts 2:18"
+    },
+    {
+      "id": "1TH.2.place.1",
+      "bookNumber": 590,
+      "chapter": 2,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde Paulo já tinha sido maltratado?",
+      "answer": "Em Filipos.",
+      "reference": "1Ts 2:2"
+    },
+    {
+      "id": "1TH.2.curiosity.1",
+      "bookNumber": 590,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Quando Paulo trabalhava para não ser peso?",
+      "answer": "Noite e dia, enquanto anunciava o evangelho.",
+      "reference": "1Ts 2:9"
+    },
+    {
+      "id": "1TH.3.subject.1",
+      "bookNumber": 590,
+      "chapter": 3,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Para que Paulo enviou Timóteo aos tessalonicenses?",
+      "answer": "Para fortalecer e animar a fé deles.",
+      "reference": "1Ts 3:2"
+    },
+    {
+      "id": "1TH.3.name.1",
+      "bookNumber": 590,
+      "chapter": 3,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem Paulo enviou para cuidar da fé em Tessalônica?",
+      "answer": "Timóteo, cooperador no evangelho.",
+      "reference": "1Ts 3:2"
+    },
+    {
+      "id": "1TH.3.place.1",
+      "bookNumber": 590,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Paulo decidiu ficar sozinho?",
+      "answer": "Em Atenas.",
+      "reference": "1Ts 3:1"
+    },
+    {
+      "id": "1TH.3.curiosity.1",
+      "bookNumber": 590,
+      "chapter": 3,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Que notícia Timóteo trouxe de Tessalônica?",
+      "answer": "Boa notícia da fé e do amor deles.",
+      "reference": "1Ts 3:6"
+    },
+    {
+      "id": "1TH.4.subject.1",
+      "bookNumber": 590,
+      "chapter": 4,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Quem ressuscita primeiro quando Jesus descer?",
+      "answer": "Os mortos que estão em Cristo.",
+      "reference": "1Ts 4:16"
+    },
+    {
+      "id": "1TH.4.place.1",
+      "bookNumber": 590,
+      "chapter": 4,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Para onde os vivos e os mortos vão encontrar Jesus?",
+      "answer": "Às nuvens, para ficar com ele para sempre.",
+      "reference": "1Ts 4:17"
+    },
+    {
+      "id": "1TH.4.curiosity.1",
+      "bookNumber": 590,
+      "chapter": 4,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Qual é a vontade de Deus para os tessalonicenses?",
+      "answer": "A santidade, afastando-se do pecado sexual.",
+      "reference": "1Ts 4:3"
+    },
+    {
+      "id": "1TH.4.curiosity.2",
+      "bookNumber": 590,
+      "chapter": 4,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que Paulo manda fazer com as próprias mãos?",
+      "answer": "Trabalhar, vivendo em paz e cuidando da própria vida.",
+      "reference": "1Ts 4:11"
+    },
+    {
+      "id": "1TH.5.subject.1",
+      "bookNumber": 590,
+      "chapter": 5,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Como Paulo descreve a chegada do dia final?",
+      "answer": "De repente, como ladrão durante a noite.",
+      "reference": "1Ts 5:2"
+    },
+    {
+      "id": "1TH.5.curiosity.1",
+      "bookNumber": 590,
+      "chapter": 5,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "De que se veste quem pertence ao dia?",
+      "answer": "Couraça de fé e amor, e capacete da esperança de salvação.",
+      "reference": "1Ts 5:8"
+    },
+    {
+      "id": "1TH.5.curiosity.2",
+      "bookNumber": 590,
+      "chapter": 5,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Com que frequência Paulo manda orar?",
+      "answer": "Sem parar.",
+      "reference": "1Ts 5:17"
+    },
+    {
+      "id": "1TH.5.curiosity.3",
+      "bookNumber": 590,
+      "chapter": 5,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que não se deve fazer com o Espírito?",
+      "answer": "Não o apague.",
+      "reference": "1Ts 5:19"
+    },
+    {
+      "id": "1TH.0.curiosity.1",
+      "bookNumber": 590,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 1 Tessalonicenses?",
+      "answer": "Paulo.",
+      "reference": "1 Tessalonicenses"
+    },
+    {
+      "id": "1TH.0.curiosity.2",
+      "bookNumber": 590,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 1 Tessalonicenses?",
+      "answer": "Por volta do ano 51.",
+      "reference": "1 Tessalonicenses"
+    },
+    {
+      "id": "1TH.0.curiosity.3",
+      "bookNumber": 590,
+      "chapter": 0,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Para quem Paulo escreveu 1 Tessalonicenses?",
+      "answer": "Para a igreja dos tessalonicenses.",
+      "reference": "1Ts 1:1"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "cards": [
+    {
+      "id": "2JN.1.subject.1",
+      "bookNumber": 700,
+      "chapter": 1,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Quem são os enganadores que surgiram no mundo, em 2 João?",
+      "answer": "Os que não afirmam que Jesus Cristo veio como homem.",
+      "reference": "2Jo 1:7"
+    },
+    {
+      "id": "2JN.1.name.1",
+      "bookNumber": 700,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem é a destinatária do ancião, com os filhos dela?",
+      "answer": "A senhora eleita.",
+      "reference": "2Jo 1:1"
+    },
+    {
+      "id": "2JN.1.curiosity.1",
+      "bookNumber": 700,
+      "chapter": 1,
+      "verseStart": 9,
+      "verseEnd": 10,
+      "kind": "curiosity",
+      "prompt": "O que não se deve fazer com quem não traz a doutrina de Cristo?",
+      "answer": "Não o receber em casa nem cumprimentá-lo.",
+      "reference": "2Jo 1:9-10"
+    },
+    {
+      "id": "2JN.1.curiosity.2",
+      "bookNumber": 700,
+      "chapter": 1,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Com o que o ancião não quis escrever o restante?",
+      "answer": "Com papel e tinta; preferiu falar cara a cara.",
+      "reference": "2Jo 1:12"
+    },
+    {
+      "id": "2JN.0.curiosity.1",
+      "bookNumber": 700,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 2 João?",
+      "answer": "João, o apóstolo.",
+      "reference": "2 João"
+    },
+    {
+      "id": "2JN.0.curiosity.2",
+      "bookNumber": 700,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 2 João?",
+      "answer": "No fim do século I.",
+      "reference": "2 João"
+    },
+    {
+      "id": "2JN.0.curiosity.3",
+      "bookNumber": 700,
+      "chapter": 0,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "A quem João escreve a segunda carta?",
+      "answer": "À senhora eleita e aos filhos dela.",
+      "reference": "2Jo 1:1"
+    }
+  ]
+}

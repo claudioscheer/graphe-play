@@ -1,0 +1,364 @@
+{
+  "cards": [
+    {
+      "id": "AMO.1.subject.1",
+      "bookNumber": 370,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "De onde vem o bramido de Deus em Amós?",
+      "answer": "De Sião, e a voz desde Jerusalém.",
+      "reference": "Am 1:2"
+    },
+    {
+      "id": "AMO.1.name.1",
+      "bookNumber": 370,
+      "chapter": 1,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "A casa de quem o fogo consome em Damasco?",
+      "answer": "A casa de Hazael.",
+      "reference": "Am 1:4"
+    },
+    {
+      "id": "AMO.1.place.1",
+      "bookNumber": 370,
+      "chapter": 1,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Para onde vai cativo o povo da Síria?",
+      "answer": "Para Quir.",
+      "reference": "Am 1:5"
+    },
+    {
+      "id": "AMO.1.curiosity.1",
+      "bookNumber": 370,
+      "chapter": 1,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Com que Damasco maltratou Gileade?",
+      "answer": "Com trilhos de ferro.",
+      "reference": "Am 1:3"
+    },
+    {
+      "id": "AMO.2.subject.1",
+      "bookNumber": 370,
+      "chapter": 2,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Por que o castigo de Israel não é cancelado?",
+      "answer": "Vendem o justo por prata e o pobre por sandálias.",
+      "reference": "Am 2:6"
+    },
+    {
+      "id": "AMO.2.place.1",
+      "bookNumber": 370,
+      "chapter": 2,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "De onde Deus fez Israel sair, em Amós?",
+      "answer": "Da terra do Egito.",
+      "reference": "Am 2:10"
+    },
+    {
+      "id": "AMO.2.curiosity.1",
+      "bookNumber": 370,
+      "chapter": 2,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Por quantos anos Israel andou no deserto?",
+      "answer": "Por quarenta anos.",
+      "reference": "Am 2:10"
+    },
+    {
+      "id": "AMO.2.curiosity.2",
+      "bookNumber": 370,
+      "chapter": 2,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que deram de beber aos nazireus, em Amós?",
+      "answer": "Vinho, e mandaram os profetas calar.",
+      "reference": "Am 2:12"
+    },
+    {
+      "id": "AMO.3.subject.1",
+      "bookNumber": 370,
+      "chapter": 3,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Por que Deus cobra Israel entre todos os povos?",
+      "answer": "Porque foi o único povo que ele conheceu de perto.",
+      "reference": "Am 3:2"
+    },
+    {
+      "id": "AMO.3.place.1",
+      "bookNumber": 370,
+      "chapter": 3,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Em que cidade as pontas do altar caem, em Amós?",
+      "answer": "Em Betel.",
+      "reference": "Am 3:14"
+    },
+    {
+      "id": "AMO.3.curiosity.1",
+      "bookNumber": 370,
+      "chapter": 3,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Que resto o pastor tira da boca do leão, em Amós?",
+      "answer": "Duas pernas ou um pedaço da orelha.",
+      "reference": "Am 3:12"
+    },
+    {
+      "id": "AMO.4.subject.1",
+      "bookNumber": 370,
+      "chapter": 4,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Para que encontro Israel deve se preparar?",
+      "answer": "Para o encontro com Deus.",
+      "reference": "Am 4:12"
+    },
+    {
+      "id": "AMO.4.place.1",
+      "bookNumber": 370,
+      "chapter": 4,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Com quais cidades Amós compara o desastre?",
+      "answer": "Com Sodoma e Gomorra.",
+      "reference": "Am 4:11"
+    },
+    {
+      "id": "AMO.4.curiosity.1",
+      "bookNumber": 370,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Em que Amós diz que Israel será levado?",
+      "answer": "Em ganchos e em anzóis.",
+      "reference": "Am 4:2"
+    },
+    {
+      "id": "AMO.5.subject.1",
+      "bookNumber": 370,
+      "chapter": 5,
+      "verseStart": 24,
+      "kind": "subject",
+      "prompt": "O que deve correr como água em Israel?",
+      "answer": "O juízo, e a justiça como corrente forte.",
+      "reference": "Am 5:24"
+    },
+    {
+      "id": "AMO.5.name.1",
+      "bookNumber": 370,
+      "chapter": 5,
+      "verseStart": 26,
+      "kind": "name",
+      "prompt": "Que ídolo estrela acompanhava Sicute?",
+      "answer": "Quium.",
+      "reference": "Am 5:26"
+    },
+    {
+      "id": "AMO.5.place.1",
+      "bookNumber": 370,
+      "chapter": 5,
+      "verseStart": 27,
+      "kind": "place",
+      "prompt": "Para além de qual cidade Israel será exilado?",
+      "answer": "Para além de Damasco.",
+      "reference": "Am 5:27"
+    },
+    {
+      "id": "AMO.5.curiosity.1",
+      "bookNumber": 370,
+      "chapter": 5,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Quais grupos de estrelas Amós diz que Deus fez?",
+      "answer": "As Plêiades e Órion.",
+      "reference": "Am 5:8"
+    },
+    {
+      "id": "AMO.6.subject.1",
+      "bookNumber": 370,
+      "chapter": 6,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "A quem Amós censura por viver folgado demais?",
+      "answer": "A quem está à vontade em Sião e confia em Samaria.",
+      "reference": "Am 6:1"
+    },
+    {
+      "id": "AMO.6.name.1",
+      "bookNumber": 370,
+      "chapter": 6,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "A quem os folgados imitam nos instrumentos, em Amós?",
+      "answer": "A Davi.",
+      "reference": "Am 6:5"
+    },
+    {
+      "id": "AMO.6.place.1",
+      "bookNumber": 370,
+      "chapter": 6,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Até onde chega a nação que oprime Israel, em Amós?",
+      "answer": "Desde Hamate até o ribeiro Arabá.",
+      "reference": "Am 6:14"
+    },
+    {
+      "id": "AMO.6.curiosity.1",
+      "bookNumber": 370,
+      "chapter": 6,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Em que cama Amós vê os que vivem no luxo?",
+      "answer": "Em cama de marfim.",
+      "reference": "Am 6:4"
+    },
+    {
+      "id": "AMO.7.subject.1",
+      "bookNumber": 370,
+      "chapter": 7,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que Deus apoia no meio de Israel?",
+      "answer": "Um prumo, e diz que não aguenta mais.",
+      "reference": "Am 7:8"
+    },
+    {
+      "id": "AMO.7.name.1",
+      "bookNumber": 370,
+      "chapter": 7,
+      "verseStart": 10,
+      "kind": "name",
+      "prompt": "Quem acusou Amós ao rei Jeroboão?",
+      "answer": "Amazias, sacerdote de Betel.",
+      "reference": "Am 7:10"
+    },
+    {
+      "id": "AMO.7.place.1",
+      "bookNumber": 370,
+      "chapter": 7,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "O que Amazias diz que há em Betel?",
+      "answer": "O santuário real e também o palácio.",
+      "reference": "Am 7:13"
+    },
+    {
+      "id": "AMO.7.curiosity.1",
+      "bookNumber": 370,
+      "chapter": 7,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Que trabalho Amós fazia antes de ser profeta?",
+      "answer": "Criava gado e apanhava fruta de sicômoro.",
+      "reference": "Am 7:14"
+    },
+    {
+      "id": "AMO.8.subject.1",
+      "bookNumber": 370,
+      "chapter": 8,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que o cesto de frutas maduras anunciava a Amós?",
+      "answer": "O fim de Israel; Deus não ia aguentar mais.",
+      "reference": "Am 8:2"
+    },
+    {
+      "id": "AMO.8.place.1",
+      "bookNumber": 370,
+      "chapter": 8,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Em nome de quais lugares o povo jurava, em Amós?",
+      "answer": "Do deus de Dã e do caminho de Berseba.",
+      "reference": "Am 8:14"
+    },
+    {
+      "id": "AMO.8.curiosity.1",
+      "bookNumber": 370,
+      "chapter": 8,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Que fome Deus manda, que não é de pão, em Amós?",
+      "answer": "Fome de ouvir a palavra dele.",
+      "reference": "Am 8:11"
+    },
+    {
+      "id": "AMO.8.curiosity.2",
+      "bookNumber": 370,
+      "chapter": 8,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que os vendedores fazem com preço e medida, em Amós?",
+      "answer": "Aumentam o preço e encolhem a medida.",
+      "reference": "Am 8:5"
+    },
+    {
+      "id": "AMO.9.subject.1",
+      "bookNumber": 370,
+      "chapter": 9,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que Deus fará com a tenda caída de Davi?",
+      "answer": "Vai erguê-la de novo e fechar as brechas.",
+      "reference": "Am 9:11"
+    },
+    {
+      "id": "AMO.9.place.1",
+      "bookNumber": 370,
+      "chapter": 9,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Até que monte Deus alcança quem tenta se esconder, em Amós?",
+      "answer": "Até no topo do Carmelo.",
+      "reference": "Am 9:3"
+    },
+    {
+      "id": "AMO.9.curiosity.1",
+      "bookNumber": 370,
+      "chapter": 9,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Quem o lavrador alcança na restauração de Amós?",
+      "answer": "Quem está colhendo, de tanta fartura.",
+      "reference": "Am 9:13"
+    },
+    {
+      "id": "AMO.9.curiosity.2",
+      "bookNumber": 370,
+      "chapter": 9,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Por quanto tempo Israel ficará plantado na terra?",
+      "answer": "Para sempre, sem ser arrancado outra vez.",
+      "reference": "Am 9:15"
+    },
+    {
+      "id": "AMO.0.curiosity.1",
+      "bookNumber": 370,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Amós?",
+      "answer": "Amós.",
+      "reference": "Amós"
+    },
+    {
+      "id": "AMO.0.curiosity.2",
+      "bookNumber": 370,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Amós?",
+      "answer": "No século VIII antes de Cristo.",
+      "reference": "Amós"
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "cards": [
+    {
+      "id": "HIS.0.curiosity.1",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde a igreja de Cristo começou?",
+      "answer": "No Pentecostes, em Jerusalém, por volta do ano 30.",
+      "reference": "Pentecostes"
+    },
+    {
+      "id": "HIS.0.curiosity.2",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Cristo fundou a Igreja de Roma com um papa?",
+      "answer": "Não. Cristo fundou a igreja. O papado veio séculos depois.",
+      "reference": "Reforma"
+    },
+    {
+      "id": "HIS.0.curiosity.3",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando a Igreja Católica Romana foi fundada?",
+      "answer": "Não houve fundação por Cristo. O cisma com o Oriente foi em 1054.",
+      "reference": "1054"
+    },
+    {
+      "id": "HIS.0.curiosity.4",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Em que ano Roma e Constantinopla se separaram?",
+      "answer": "Em 1054, no Grande Cisma.",
+      "reference": "1054"
+    },
+    {
+      "id": "HIS.0.curiosity.5",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O Édito de Milão, em 313, fundou a igreja?",
+      "answer": "Não. Só deu liberdade ao culto cristão no Império.",
+      "reference": "313"
+    },
+    {
+      "id": "HIS.0.curiosity.6",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Constantino?",
+      "answer": "Imperador romano que favoreceu a igreja. Não foi o fundador dela.",
+      "reference": "Constantino"
+    },
+    {
+      "id": "HIS.0.curiosity.7",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "A igreja criou a Bíblia?",
+      "answer": "Não. Ela reconheceu os livros que Deus já tinha dado.",
+      "reference": "Cânon"
+    },
+    {
+      "id": "HIS.0.curiosity.8",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "A tradição da igreja manda mais que a Bíblia?",
+      "answer": "Não. A Bíblia é a regra final da fé.",
+      "reference": "Sola Scriptura"
+    },
+    {
+      "id": "HIS.0.curiosity.9",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que os cinco solas resumem?",
+      "answer": "Somente a Escritura, a fé, a graça, Cristo e a glória de Deus.",
+      "reference": "Cinco solas"
+    },
+    {
+      "id": "HIS.0.curiosity.10",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é sola Scriptura?",
+      "answer": "A Bíblia é a regra final da fé, acima da tradição.",
+      "reference": "Sola Scriptura"
+    },
+    {
+      "id": "HIS.0.curiosity.11",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é sola fide?",
+      "answer": "O pecador é aceito por Deus somente pela fé em Cristo.",
+      "reference": "Sola fide"
+    },
+    {
+      "id": "HIS.0.curiosity.12",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é sola gratia?",
+      "answer": "A salvação é só pela graça de Deus, não por mérito humano.",
+      "reference": "Sola gratia"
+    },
+    {
+      "id": "HIS.0.curiosity.13",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é solus Christus?",
+      "answer": "Só Cristo é o mediador entre Deus e os homens.",
+      "reference": "Solus Christus"
+    },
+    {
+      "id": "HIS.0.curiosity.14",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é soli Deo gloria?",
+      "answer": "Toda a glória da salvação pertence a Deus.",
+      "reference": "Soli Deo gloria"
+    },
+    {
+      "id": "HIS.0.curiosity.15",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O papa é o cabeça da igreja?",
+      "answer": "Não. O cabeça da igreja é Cristo.",
+      "reference": "Cristo"
+    },
+    {
+      "id": "HIS.0.curiosity.16",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Maria intercede pelos salvos?",
+      "answer": "Não. Há um só mediador entre Deus e os homens: Jesus.",
+      "reference": "1 Timóteo 2"
+    },
+    {
+      "id": "HIS.0.curiosity.17",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quais são os cinco pontos do calvinismo?",
+      "answer": "Depravação total, eleição incondicional, expiação limitada, graça irresistível e perseverança dos santos.",
+      "reference": "Dort"
+    },
+    {
+      "id": "HIS.0.curiosity.18",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a depravação total?",
+      "answer": "O pecado atingiu a pessoa inteira, e sem graça ela não busca a Deus.",
+      "reference": "Dort"
+    },
+    {
+      "id": "HIS.0.curiosity.19",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a eleição incondicional?",
+      "answer": "Deus escolhe salvar por sua vontade, não por um mérito que previu.",
+      "reference": "Dort"
+    },
+    {
+      "id": "HIS.0.curiosity.20",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a expiação limitada?",
+      "answer": "Cristo morreu para salvar de fato o seu povo.",
+      "reference": "Dort"
+    },
+    {
+      "id": "HIS.0.curiosity.21",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a graça irresistível?",
+      "answer": "Quando Deus chama de verdade, o pecador vem a Cristo.",
+      "reference": "Dort"
+    },
+    {
+      "id": "HIS.0.curiosity.22",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a perseverança dos santos?",
+      "answer": "Quem Deus salvou, ele guarda até o fim.",
+      "reference": "Dort"
+    },
+    {
+      "id": "HIS.0.curiosity.23",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde os cinco pontos foram afirmados?",
+      "answer": "No Sínodo de Dort, em 1618 e 1619.",
+      "reference": "Dort, 1619"
+    },
+    {
+      "id": "HIS.0.curiosity.24",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Contra quem o Sínodo de Dort respondeu?",
+      "answer": "Contra os remonstrantes, seguidores de Armínio.",
+      "reference": "Dort, 1619"
+    },
+    {
+      "id": "HIS.0.curiosity.25",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Armínio?",
+      "answer": "Teólogo holandês (1560–1609). Ensinou que a graça pode ser resistida.",
+      "reference": "Armínio"
+    },
+    {
+      "id": "HIS.0.curiosity.26",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Clemente de Roma?",
+      "answer": "Bispo de Roma no fim do século I. Escreveu uma carta aos coríntios.",
+      "reference": "Clemente"
+    },
+    {
+      "id": "HIS.0.curiosity.27",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Inácio de Antioquia?",
+      "answer": "Bispo e mártir no começo do século II. Escreveu cartas às igrejas.",
+      "reference": "Inácio"
+    },
+    {
+      "id": "HIS.0.curiosity.28",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Policarpo?",
+      "answer": "Bispo de Esmirna e mártir. Conheceu o apóstolo João.",
+      "reference": "Policarpo"
+    },
+    {
+      "id": "HIS.0.curiosity.29",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Justino Mártir?",
+      "answer": "Defensor da fé no século II. Escreveu as Apologias e morreu mártir.",
+      "reference": "Justino"
+    },
+    {
+      "id": "HIS.0.curiosity.30",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Irineu de Lyon?",
+      "answer": "Bispo do século II. Escreveu Contra as heresias.",
+      "reference": "Irineu"
+    },
+    {
+      "id": "HIS.0.curiosity.31",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Tertuliano?",
+      "answer": "Escritor do norte da África, nos séculos II e III.",
+      "reference": "Tertuliano"
+    },
+    {
+      "id": "HIS.0.curiosity.32",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Atanásio?",
+      "answer": "Bispo de Alexandria. Defendeu que Jesus é Deus.",
+      "reference": "Atanásio"
+    },
+    {
+      "id": "HIS.0.curiosity.33",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que o Concílio de Niceia afirmou em 325?",
+      "answer": "Que o Filho é da mesma essência que o Pai.",
+      "reference": "Niceia, 325"
+    },
+    {
+      "id": "HIS.0.curiosity.34",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que o Concílio de Calcedônia afirmou em 451?",
+      "answer": "Que Cristo é uma pessoa, verdadeiramente Deus e homem.",
+      "reference": "Calcedônia, 451"
+    },
+    {
+      "id": "HIS.0.curiosity.35",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Agostinho?",
+      "answer": "Bispo de Hipona (354–430). Escreveu as Confissões e A cidade de Deus.",
+      "reference": "Agostinho"
+    },
+    {
+      "id": "HIS.0.curiosity.36",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que Agostinho ensinou sobre a graça?",
+      "answer": "Que o pecador depende da graça de Deus para crer e ser salvo.",
+      "reference": "Agostinho"
+    },
+    {
+      "id": "HIS.0.curiosity.37",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Jerônimo?",
+      "answer": "Estudioso que traduziu a Bíblia para o latim. Essa tradução é a Vulgata.",
+      "reference": "Jerônimo"
+    },
+    {
+      "id": "HIS.0.curiosity.38",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi João Crisóstomo?",
+      "answer": "Grande pregador de Constantinopla, no fim do século IV.",
+      "reference": "Crisóstomo"
+    },
+    {
+      "id": "HIS.0.curiosity.39",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi João Wycliffe?",
+      "answer": "Professor inglês do século XIV. Defendeu a Bíblia acima do papa.",
+      "reference": "Wycliffe"
+    },
+    {
+      "id": "HIS.0.curiosity.40",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi João Hus?",
+      "answer": "Pregador da Boêmia. Foi queimado em 1415 por criticar Roma.",
+      "reference": "Hus, 1415"
+    },
+    {
+      "id": "HIS.0.curiosity.41",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Martinho Lutero?",
+      "answer": "Monge alemão (1483–1546). Iniciou a Reforma em 1517.",
+      "reference": "Lutero"
+    },
+    {
+      "id": "HIS.0.curiosity.42",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que Lutero publicou em Wittenberg, em 1517?",
+      "answer": "As 95 teses, contra a venda de indulgências.",
+      "reference": "1517"
+    },
+    {
+      "id": "HIS.0.curiosity.43",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Como o pecador é justificado, segundo a Reforma?",
+      "answer": "Somente pela fé, por causa de Cristo, não pelas obras.",
+      "reference": "Sola fide"
+    },
+    {
+      "id": "HIS.0.curiosity.44",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Ulrico Zuínglio?",
+      "answer": "Reformador de Zurique. Morreu em 1531.",
+      "reference": "Zuínglio"
+    },
+    {
+      "id": "HIS.0.curiosity.45",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi João Calvino?",
+      "answer": "Reformador de Genebra (1509–1564). Escreveu as Institutas.",
+      "reference": "Calvino"
+    },
+    {
+      "id": "HIS.0.curiosity.46",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando Calvino publicou as Institutas?",
+      "answer": "Em 1536.",
+      "reference": "1536"
+    },
+    {
+      "id": "HIS.0.curiosity.47",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Guilherme Tyndale?",
+      "answer": "Traduziu o Novo Testamento para o inglês. Morreu em 1536.",
+      "reference": "Tyndale"
+    },
+    {
+      "id": "HIS.0.curiosity.48",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi João Knox?",
+      "answer": "Reformador da Escócia, no século XVI.",
+      "reference": "Knox"
+    },
+    {
+      "id": "HIS.0.curiosity.49",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a Confissão de Westminster?",
+      "answer": "Confissão reformada escrita na Inglaterra em 1646.",
+      "reference": "1646"
+    },
+    {
+      "id": "HIS.0.curiosity.50",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é o Catecismo de Heidelberg?",
+      "answer": "Catecismo reformado de 1563, feito para ensinar a fé.",
+      "reference": "1563"
+    },
+    {
+      "id": "HIS.0.curiosity.51",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quantos sacramentos Cristo ordenou, segundo a Reforma?",
+      "answer": "Dois: o batismo e a ceia do Senhor.",
+      "reference": "Reforma"
+    }
+  ]
+}

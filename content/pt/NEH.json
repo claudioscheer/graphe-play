@@ -1,0 +1,544 @@
+{
+  "cards": [
+    {
+      "id": "NEH.1.subject.1",
+      "bookNumber": 160,
+      "chapter": 1,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Como estava Jerusalém no relato feito a Neemias?",
+      "answer": "Com o muro rachado e as portas queimadas.",
+      "reference": "Ne 1:3"
+    },
+    {
+      "id": "NEH.1.name.1",
+      "bookNumber": 160,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem trouxe notícias de Judá a Neemias?",
+      "answer": "Hanani, um dos irmãos dele.",
+      "reference": "Ne 1:2"
+    },
+    {
+      "id": "NEH.1.place.1",
+      "bookNumber": 160,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Em que fortaleza Neemias estava no mês de quisleu?",
+      "answer": "Na fortaleza de Susã.",
+      "reference": "Ne 1:1"
+    },
+    {
+      "id": "NEH.1.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 1,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que Neemias fez ao ouvir as notícias?",
+      "answer": "Chorou, jejuou e orou ao Deus dos céus.",
+      "reference": "Ne 1:4"
+    },
+    {
+      "id": "NEH.2.subject.1",
+      "bookNumber": 160,
+      "chapter": 2,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "O que Neemias pediu ao povo de Jerusalém?",
+      "answer": "Que reconstruíssem o muro da cidade.",
+      "reference": "Ne 2:17"
+    },
+    {
+      "id": "NEH.2.name.1",
+      "bookNumber": 160,
+      "chapter": 2,
+      "verseStart": 19,
+      "kind": "name",
+      "prompt": "Quem zombou da reconstrução do muro, em Neemias?",
+      "answer": "Sambalate, Tobias e Gesém.",
+      "reference": "Ne 2:19"
+    },
+    {
+      "id": "NEH.2.place.1",
+      "bookNumber": 160,
+      "chapter": 2,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Por qual porta Neemias saiu de noite?",
+      "answer": "Pela porta do Vale.",
+      "reference": "Ne 2:13"
+    },
+    {
+      "id": "NEH.2.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 2,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que o rei decidiu sobre a viagem de Neemias?",
+      "answer": "Aceitou enviá-lo depois de um prazo marcado.",
+      "reference": "Ne 2:6"
+    },
+    {
+      "id": "NEH.3.subject.1",
+      "bookNumber": 160,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Quem reconstruiu a porta das Ovelhas?",
+      "answer": "Eliasibe, o sumo sacerdote, e os sacerdotes.",
+      "reference": "Ne 3:1"
+    },
+    {
+      "id": "NEH.3.name.1",
+      "bookNumber": 160,
+      "chapter": 3,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem reparou o muro junto com as próprias filhas, em Neemias?",
+      "answer": "Salum, filho de Haloés.",
+      "reference": "Ne 3:12"
+    },
+    {
+      "id": "NEH.3.place.1",
+      "bookNumber": 160,
+      "chapter": 3,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Que porta o povo de Zanoa reparou?",
+      "answer": "A porta do Vale.",
+      "reference": "Ne 3:13"
+    },
+    {
+      "id": "NEH.3.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 3,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que os mais ilustres de Tecoa não quiseram fazer?",
+      "answer": "Servir na obra do chefe deles.",
+      "reference": "Ne 3:5"
+    },
+    {
+      "id": "NEH.4.subject.1",
+      "bookNumber": 160,
+      "chapter": 4,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "Como trabalhavam os homens no muro de Jerusalém?",
+      "answer": "Com uma das mãos na obra e a outra armada.",
+      "reference": "Ne 4:17"
+    },
+    {
+      "id": "NEH.4.name.1",
+      "bookNumber": 160,
+      "chapter": 4,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem se indignou ao saber que o muro de Jerusalém era reparado?",
+      "answer": "Sambalate.",
+      "reference": "Ne 4:1"
+    },
+    {
+      "id": "NEH.4.place.1",
+      "bookNumber": 160,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Diante de que exército Sambalate zombou dos judeus?",
+      "answer": "Do exército de Samaria.",
+      "reference": "Ne 4:2"
+    },
+    {
+      "id": "NEH.4.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 4,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que Tobias falou que uma raposa faria?",
+      "answer": "Derrubaria sozinha o muro de pedra.",
+      "reference": "Ne 4:3"
+    },
+    {
+      "id": "NEH.5.subject.1",
+      "bookNumber": 160,
+      "chapter": 5,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que os credores prometeram a Neemias?",
+      "answer": "Devolver tudo e não exigir mais nada.",
+      "reference": "Ne 5:12"
+    },
+    {
+      "id": "NEH.5.place.1",
+      "bookNumber": 160,
+      "chapter": 5,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Em que terra Neemias foi governador?",
+      "answer": "Na terra de Judá.",
+      "reference": "Ne 5:14"
+    },
+    {
+      "id": "NEH.5.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 5,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Por quantos anos Neemias recusou o pão de governador?",
+      "answer": "Por doze anos.",
+      "reference": "Ne 5:14"
+    },
+    {
+      "id": "NEH.5.curiosity.2",
+      "bookNumber": 160,
+      "chapter": 5,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "O que Neemias fez com a própria roupa?",
+      "answer": "Sacudiu a roupa e pediu o mesmo a quem falhasse.",
+      "reference": "Ne 5:13"
+    },
+    {
+      "id": "NEH.6.subject.1",
+      "bookNumber": 160,
+      "chapter": 6,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Em quanto tempo o muro de Jerusalém foi concluído?",
+      "answer": "Em cinquenta e dois dias.",
+      "reference": "Ne 6:15"
+    },
+    {
+      "id": "NEH.6.name.1",
+      "bookNumber": 160,
+      "chapter": 6,
+      "verseStart": 10,
+      "kind": "name",
+      "prompt": "Quem quis que Neemias se escondesse no templo?",
+      "answer": "Semaías, filho de Delaías.",
+      "reference": "Ne 6:10"
+    },
+    {
+      "id": "NEH.6.place.1",
+      "bookNumber": 160,
+      "chapter": 6,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde Sambalate marcou encontro com Neemias?",
+      "answer": "Nas aldeias do vale de Ono.",
+      "reference": "Ne 6:2"
+    },
+    {
+      "id": "NEH.6.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 6,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "De que Neemias foi acusado na obra do muro?",
+      "answer": "De querer ser rei dos judeus.",
+      "reference": "Ne 6:6"
+    },
+    {
+      "id": "NEH.7.subject.1",
+      "bookNumber": 160,
+      "chapter": 7,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Quem voltou do exílio para a própria cidade, em Neemias?",
+      "answer": "Os levados por Nabucodonosor a Babilônia.",
+      "reference": "Ne 7:6"
+    },
+    {
+      "id": "NEH.7.name.1",
+      "bookNumber": 160,
+      "chapter": 7,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem era o chefe fiel do palácio no tempo de Neemias?",
+      "answer": "Hananias.",
+      "reference": "Ne 7:2"
+    },
+    {
+      "id": "NEH.7.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 7,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Quando Neemias mandou abrir as portas de Jerusalém?",
+      "answer": "Só depois que o sol esquentasse.",
+      "reference": "Ne 7:3"
+    },
+    {
+      "id": "NEH.7.curiosity.2",
+      "bookNumber": 160,
+      "chapter": 7,
+      "verseStart": 66,
+      "kind": "curiosity",
+      "prompt": "Quantas pessoas havia na congregação que voltou do exílio, em Neemias?",
+      "answer": "42.360 pessoas.",
+      "reference": "Ne 7:66"
+    },
+    {
+      "id": "NEH.8.subject.1",
+      "bookNumber": 160,
+      "chapter": 8,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Que livro o povo pediu a Esdras?",
+      "answer": "A lei de Moisés, que Deus mandou a Israel.",
+      "reference": "Ne 8:1"
+    },
+    {
+      "id": "NEH.8.place.1",
+      "bookNumber": 160,
+      "chapter": 8,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde o povo se reuniu para ouvir Esdras?",
+      "answer": "Na praça da porta das Águas.",
+      "reference": "Ne 8:1"
+    },
+    {
+      "id": "NEH.8.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 8,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que foi chamado de força do povo, em Neemias?",
+      "answer": "A alegria que vem de Deus.",
+      "reference": "Ne 8:10"
+    },
+    {
+      "id": "NEH.8.curiosity.2",
+      "bookNumber": 160,
+      "chapter": 8,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Desde que época Israel não fazia tendas assim?",
+      "answer": "Desde o tempo de Josué, filho de Num.",
+      "reference": "Ne 8:17"
+    },
+    {
+      "id": "NEH.9.subject.1",
+      "bookNumber": 160,
+      "chapter": 9,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Israel confessou no jejum depois de erguer o muro?",
+      "answer": "Seus pecados e as injustiças dos pais.",
+      "reference": "Ne 9:2"
+    },
+    {
+      "id": "NEH.9.name.1",
+      "bookNumber": 160,
+      "chapter": 9,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Que nome Deus deu a Abrão?",
+      "answer": "Abraão.",
+      "reference": "Ne 9:7"
+    },
+    {
+      "id": "NEH.9.place.1",
+      "bookNumber": 160,
+      "chapter": 9,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "De onde Deus tirou Abrão?",
+      "answer": "De Ur dos caldeus.",
+      "reference": "Ne 9:7"
+    },
+    {
+      "id": "NEH.9.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 9,
+      "verseStart": 38,
+      "kind": "curiosity",
+      "prompt": "O que príncipes, levitas e sacerdotes selaram, em Neemias?",
+      "answer": "Uma aliança escrita e fiel.",
+      "reference": "Ne 9:38"
+    },
+    {
+      "id": "NEH.10.subject.1",
+      "bookNumber": 160,
+      "chapter": 10,
+      "verseStart": 29,
+      "kind": "subject",
+      "prompt": "A que o povo jurou obedecer, em Neemias?",
+      "answer": "À lei de Deus dada por meio de Moisés.",
+      "reference": "Ne 10:29"
+    },
+    {
+      "id": "NEH.10.name.1",
+      "bookNumber": 160,
+      "chapter": 10,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem encabeça os nomes que selaram o acordo, em Neemias?",
+      "answer": "O governador Neemias, filho de Hacalias.",
+      "reference": "Ne 10:1"
+    },
+    {
+      "id": "NEH.10.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 10,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "O que o povo prometeu não comprar no sábado, em Neemias?",
+      "answer": "Comida nem mercadoria dos povos vizinhos.",
+      "reference": "Ne 10:31"
+    },
+    {
+      "id": "NEH.10.curiosity.2",
+      "bookNumber": 160,
+      "chapter": 10,
+      "verseStart": 32,
+      "kind": "curiosity",
+      "prompt": "Que oferta anual marcaram para o templo no tempo de Neemias?",
+      "answer": "Um terço de siclo por pessoa.",
+      "reference": "Ne 10:32"
+    },
+    {
+      "id": "NEH.11.subject.1",
+      "bookNumber": 160,
+      "chapter": 11,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Como escolheram moradores para Jerusalém?",
+      "answer": "Sortearam um de cada dez.",
+      "reference": "Ne 11:1"
+    },
+    {
+      "id": "NEH.11.name.1",
+      "bookNumber": 160,
+      "chapter": 11,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem era o segundo no comando de Jerusalém no tempo de Neemias?",
+      "answer": "Judá, filho de Senua.",
+      "reference": "Ne 11:9"
+    },
+    {
+      "id": "NEH.11.place.1",
+      "bookNumber": 160,
+      "chapter": 11,
+      "verseStart": 21,
+      "kind": "place",
+      "prompt": "Onde moravam os servos do templo, em Neemias?",
+      "answer": "Em Ofel.",
+      "reference": "Ne 11:21"
+    },
+    {
+      "id": "NEH.11.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 11,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quantos filhos de Perez moravam em Jerusalém?",
+      "answer": "478 homens valentes.",
+      "reference": "Ne 11:6"
+    },
+    {
+      "id": "NEH.12.subject.1",
+      "bookNumber": 160,
+      "chapter": 12,
+      "verseStart": 27,
+      "kind": "subject",
+      "prompt": "Como foi a dedicação dos muros de Jerusalém?",
+      "answer": "Com alegria, gratidão, cânticos e música.",
+      "reference": "Ne 12:27"
+    },
+    {
+      "id": "NEH.12.name.1",
+      "bookNumber": 160,
+      "chapter": 12,
+      "verseStart": 36,
+      "kind": "name",
+      "prompt": "Quem ia à frente dos músicos com instrumentos de Davi?",
+      "answer": "O escriba Esdras.",
+      "reference": "Ne 12:36"
+    },
+    {
+      "id": "NEH.12.place.1",
+      "bookNumber": 160,
+      "chapter": 12,
+      "verseStart": 31,
+      "kind": "place",
+      "prompt": "Para que lado foi o primeiro coro no muro, em Neemias?",
+      "answer": "Pela direita, rumo à porta do Esterco.",
+      "reference": "Ne 12:31"
+    },
+    {
+      "id": "NEH.12.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 12,
+      "verseStart": 43,
+      "kind": "curiosity",
+      "prompt": "Até onde se ouviu a alegria de Jerusalém?",
+      "answer": "Até bem longe da cidade.",
+      "reference": "Ne 12:43"
+    },
+    {
+      "id": "NEH.13.subject.1",
+      "bookNumber": 160,
+      "chapter": 13,
+      "verseStart": 30,
+      "kind": "subject",
+      "prompt": "O que Neemias fez com os estrangeiros no povo?",
+      "answer": "Separou-os e reordenou o serviço sagrado.",
+      "reference": "Ne 13:30"
+    },
+    {
+      "id": "NEH.13.name.1",
+      "bookNumber": 160,
+      "chapter": 13,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Com quem o sacerdote Eliasibe era parente?",
+      "answer": "Com Tobias.",
+      "reference": "Ne 13:4"
+    },
+    {
+      "id": "NEH.13.place.1",
+      "bookNumber": 160,
+      "chapter": 13,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Onde Tobias tinha uma sala em Jerusalém?",
+      "answer": "Num cômodo nos pátios do templo.",
+      "reference": "Ne 13:7"
+    },
+    {
+      "id": "NEH.13.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 13,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que Neemias ordenou nas portas antes do sábado?",
+      "answer": "Fechar as portas e não abrir no sábado.",
+      "reference": "Ne 13:19"
+    },
+    {
+      "id": "NEH.0.curiosity.1",
+      "bookNumber": 160,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Neemias?",
+      "answer": "Neemias.",
+      "reference": "Neemias"
+    },
+    {
+      "id": "NEH.0.curiosity.2",
+      "bookNumber": 160,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Neemias?",
+      "answer": "No século V antes de Cristo.",
+      "reference": "Neemias"
+    }
+  ]
+}

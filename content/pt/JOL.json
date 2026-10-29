@@ -1,0 +1,144 @@
+{
+  "cards": [
+    {
+      "id": "JOL.1.subject.1",
+      "bookNumber": 360,
+      "chapter": 1,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que comeu a plantação na profecia de Joel?",
+      "answer": "Gafanhotos, em levas, até acabar o resto.",
+      "reference": "Jl 1:4"
+    },
+    {
+      "id": "JOL.1.name.1",
+      "bookNumber": 360,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "De quem Joel era filho?",
+      "answer": "De Petuel.",
+      "reference": "Jl 1:1"
+    },
+    {
+      "id": "JOL.1.place.1",
+      "bookNumber": 360,
+      "chapter": 1,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Onde o povo devia clamar por causa da praga, em Joel?",
+      "answer": "Na casa de Deus.",
+      "reference": "Jl 1:14"
+    },
+    {
+      "id": "JOL.1.curiosity.1",
+      "bookNumber": 360,
+      "chapter": 1,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que ficou branco na plantação devastada, em Joel?",
+      "answer": "Os ramos da videira.",
+      "reference": "Jl 1:7"
+    },
+    {
+      "id": "JOL.2.subject.1",
+      "bookNumber": 360,
+      "chapter": 2,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "O que Deus derrama sobre todas as pessoas em Joel?",
+      "answer": "O Espírito, e filhos e filhas profetizam.",
+      "reference": "Jl 2:28"
+    },
+    {
+      "id": "JOL.2.place.1",
+      "bookNumber": 360,
+      "chapter": 2,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde a trombeta anuncia o dia em Joel?",
+      "answer": "Em Sião.",
+      "reference": "Jl 2:1"
+    },
+    {
+      "id": "JOL.2.curiosity.1",
+      "bookNumber": 360,
+      "chapter": 2,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "O que Israel deve rasgar, segundo Joel?",
+      "answer": "O coração, e não as vestes.",
+      "reference": "Jl 2:13"
+    },
+    {
+      "id": "JOL.2.curiosity.2",
+      "bookNumber": 360,
+      "chapter": 2,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "Em que o sol e a lua se tornam antes do dia grande, em Joel?",
+      "answer": "O sol vira trevas e a lua vira sangue.",
+      "reference": "Jl 2:31"
+    },
+    {
+      "id": "JOL.3.subject.1",
+      "bookNumber": 360,
+      "chapter": 3,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Onde Deus se senta para julgar as nações, em Joel?",
+      "answer": "No vale de Josafá.",
+      "reference": "Jl 3:12"
+    },
+    {
+      "id": "JOL.3.place.1",
+      "bookNumber": 360,
+      "chapter": 3,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Quais povos costeiros Joel confronta?",
+      "answer": "Tiro, Sidom e a Filístia.",
+      "reference": "Jl 3:4"
+    },
+    {
+      "id": "JOL.3.curiosity.1",
+      "bookNumber": 360,
+      "chapter": 3,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Por que preço venderam os jovens de Judá?",
+      "answer": "Rapazes por prostitutas e moças por vinho.",
+      "reference": "Jl 3:3"
+    },
+    {
+      "id": "JOL.3.curiosity.2",
+      "bookNumber": 360,
+      "chapter": 3,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "O que corre dos montes quando Judá é restaurado, em Joel?",
+      "answer": "Suco doce, e leite dos morros.",
+      "reference": "Jl 3:18"
+    },
+    {
+      "id": "JOL.0.curiosity.1",
+      "bookNumber": 360,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Joel?",
+      "answer": "Joel.",
+      "reference": "Joel"
+    },
+    {
+      "id": "JOL.0.curiosity.2",
+      "bookNumber": 360,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Joel?",
+      "answer": "A data é incerta. Muitos a põem antes do exílio.",
+      "reference": "Joel"
+    }
+  ]
+}

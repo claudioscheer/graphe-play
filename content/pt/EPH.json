@@ -1,0 +1,264 @@
+{
+  "cards": [
+    {
+      "id": "EPH.1.subject.1",
+      "bookNumber": 560,
+      "chapter": 1,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que temos em Cristo por meio do sangue dele?",
+      "answer": "A libertação e o perdão dos pecados.",
+      "reference": "Ef 1:7"
+    },
+    {
+      "id": "EPH.1.place.1",
+      "bookNumber": 560,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde estavam os santos a quem Paulo escreve sobre a armadura de Deus?",
+      "answer": "Em Éfeso.",
+      "reference": "Ef 1:1"
+    },
+    {
+      "id": "EPH.1.curiosity.1",
+      "bookNumber": 560,
+      "chapter": 1,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Quando Deus escolheu os crentes em Cristo?",
+      "answer": "Antes de o mundo existir.",
+      "reference": "Ef 1:4"
+    },
+    {
+      "id": "EPH.1.curiosity.2",
+      "bookNumber": 560,
+      "chapter": 1,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Com o que os crentes foram selados?",
+      "answer": "Com o Espírito Santo prometido.",
+      "reference": "Ef 1:13"
+    },
+    {
+      "id": "EPH.2.subject.1",
+      "bookNumber": 560,
+      "chapter": 2,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "Como a pessoa é salva, se isso não vem dela?",
+      "answer": "Pela graça, por meio da fé, e isso é presente de Deus.",
+      "reference": "Ef 2:8"
+    },
+    {
+      "id": "EPH.2.name.1",
+      "bookNumber": 560,
+      "chapter": 2,
+      "verseStart": 20,
+      "kind": "name",
+      "prompt": "Quem é a pedra principal do edifício de Deus?",
+      "answer": "Jesus Cristo.",
+      "reference": "Ef 2:20"
+    },
+    {
+      "id": "EPH.2.curiosity.1",
+      "bookNumber": 560,
+      "chapter": 2,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "O que Cristo derrubou entre os dois povos?",
+      "answer": "O muro que os separava.",
+      "reference": "Ef 2:14"
+    },
+    {
+      "id": "EPH.2.curiosity.2",
+      "bookNumber": 560,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Por que a salvação não depende de obras?",
+      "answer": "Para que ninguém se orgulhe.",
+      "reference": "Ef 2:9"
+    },
+    {
+      "id": "EPH.3.subject.1",
+      "bookNumber": 560,
+      "chapter": 3,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Qual mistério Paulo diz que foi revelado?",
+      "answer": "Que os outros povos também herdam a promessa em Cristo.",
+      "reference": "Ef 3:6"
+    },
+    {
+      "id": "EPH.3.name.1",
+      "bookNumber": 560,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem se diz o menor dos santos?",
+      "answer": "Paulo.",
+      "reference": "Ef 3:8"
+    },
+    {
+      "id": "EPH.3.curiosity.1",
+      "bookNumber": 560,
+      "chapter": 3,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Como Paulo se põe diante do Pai para orar?",
+      "answer": "De joelhos.",
+      "reference": "Ef 3:14"
+    },
+    {
+      "id": "EPH.3.curiosity.2",
+      "bookNumber": 560,
+      "chapter": 3,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "O que Paulo quer que entendam do amor de Cristo?",
+      "answer": "A largura, o comprimento, a profundidade e a altura.",
+      "reference": "Ef 3:18"
+    },
+    {
+      "id": "EPH.4.subject.1",
+      "bookNumber": 560,
+      "chapter": 4,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que Paulo pede que se guarde entre os crentes?",
+      "answer": "A unidade do Espírito, ligada pela paz.",
+      "reference": "Ef 4:3"
+    },
+    {
+      "id": "EPH.4.curiosity.1",
+      "bookNumber": 560,
+      "chapter": 4,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Quantas fés e quantos batismos Paulo afirma?",
+      "answer": "Uma fé e um batismo.",
+      "reference": "Ef 4:5"
+    },
+    {
+      "id": "EPH.4.curiosity.2",
+      "bookNumber": 560,
+      "chapter": 4,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "O que não deve ocorrer com a ira ao fim do dia?",
+      "answer": "O sol não deve se pôr sobre ela.",
+      "reference": "Ef 4:26"
+    },
+    {
+      "id": "EPH.4.curiosity.3",
+      "bookNumber": 560,
+      "chapter": 4,
+      "verseStart": 28,
+      "kind": "curiosity",
+      "prompt": "O que quem furtava deve fazer em vez de furtar?",
+      "answer": "Trabalhar com as mãos e repartir com quem precisa.",
+      "reference": "Ef 4:28"
+    },
+    {
+      "id": "EPH.5.subject.1",
+      "bookNumber": 560,
+      "chapter": 5,
+      "verseStart": 25,
+      "kind": "subject",
+      "prompt": "Como o marido deve amar a esposa?",
+      "answer": "Do modo como Cristo amou a igreja, entregando-se por ela.",
+      "reference": "Ef 5:25"
+    },
+    {
+      "id": "EPH.5.curiosity.1",
+      "bookNumber": 560,
+      "chapter": 5,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "O que Paulo manda no lugar de ficar bêbado de vinho?",
+      "answer": "Encher-se do Espírito.",
+      "reference": "Ef 5:18"
+    },
+    {
+      "id": "EPH.5.curiosity.2",
+      "bookNumber": 560,
+      "chapter": 5,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "O que o homem e a mulher se tornam ao se unir?",
+      "answer": "Uma só carne.",
+      "reference": "Ef 5:31"
+    },
+    {
+      "id": "EPH.6.subject.1",
+      "bookNumber": 560,
+      "chapter": 6,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que vestir para ficar firme contra o diabo?",
+      "answer": "A armadura completa de Deus.",
+      "reference": "Ef 6:11"
+    },
+    {
+      "id": "EPH.6.name.1",
+      "bookNumber": 560,
+      "chapter": 6,
+      "verseStart": 21,
+      "kind": "name",
+      "prompt": "Quem Paulo enviou para contar como ele estava?",
+      "answer": "Tíquico, irmão querido e servidor fiel.",
+      "reference": "Ef 6:21"
+    },
+    {
+      "id": "EPH.6.curiosity.1",
+      "bookNumber": 560,
+      "chapter": 6,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Com o que se apagam as flechas de fogo do maligno?",
+      "answer": "Com o escudo da fé.",
+      "reference": "Ef 6:16"
+    },
+    {
+      "id": "EPH.6.curiosity.2",
+      "bookNumber": 560,
+      "chapter": 6,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que é a espada do Espírito?",
+      "answer": "A palavra de Deus.",
+      "reference": "Ef 6:17"
+    },
+    {
+      "id": "EPH.0.curiosity.1",
+      "bookNumber": 560,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Efésios?",
+      "answer": "Paulo.",
+      "reference": "Efésios"
+    },
+    {
+      "id": "EPH.0.curiosity.2",
+      "bookNumber": 560,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Efésios?",
+      "answer": "Na prisão, por volta do ano 60.",
+      "reference": "Efésios"
+    },
+    {
+      "id": "EPH.0.curiosity.3",
+      "bookNumber": 560,
+      "chapter": 0,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Para quem Paulo escreveu Efésios?",
+      "answer": "Para os santos que estavam em Éfeso.",
+      "reference": "Ef 1:1"
+    }
+  ]
+}

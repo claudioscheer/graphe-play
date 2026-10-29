@@ -1,0 +1,865 @@
+{
+  "cards": [
+    {
+      "id": "JDG.1.subject.1",
+      "bookNumber": 70,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Qual tribo Deus mandou subir contra os cananeus, em Juízes?",
+      "answer": "Judá.",
+      "reference": "Jz 1:2"
+    },
+    {
+      "id": "JDG.1.name.1",
+      "bookNumber": 70,
+      "chapter": 1,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Quem disse que Deus lhe pagou o que ele mesmo tinha feito, em Juízes?",
+      "answer": "Adoni-Bezeque.",
+      "reference": "Jz 1:7"
+    },
+    {
+      "id": "JDG.1.place.1",
+      "bookNumber": 70,
+      "chapter": 1,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Qual cidade Judá conquistou e incendiou?",
+      "answer": "Jerusalém.",
+      "reference": "Jz 1:8"
+    },
+    {
+      "id": "JDG.1.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 1,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Que castigo Adoni-Bezeque sofreu nas mãos e nos pés?",
+      "answer": "Perdeu os dedos polegares.",
+      "reference": "Jz 1:6"
+    },
+    {
+      "id": "JDG.2.subject.1",
+      "bookNumber": 70,
+      "chapter": 2,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Quem Deus levantava para salvar Israel dos saqueadores?",
+      "answer": "Juízes.",
+      "reference": "Jz 2:16"
+    },
+    {
+      "id": "JDG.2.place.1",
+      "bookNumber": 70,
+      "chapter": 2,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Que nome deram ao lugar onde o anjo falou a Israel?",
+      "answer": "Boquim.",
+      "reference": "Jz 2:5"
+    },
+    {
+      "id": "JDG.2.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 2,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "A quais deuses se voltou a geração depois de Josué?",
+      "answer": "A Baal e a Astarote.",
+      "reference": "Jz 2:13"
+    },
+    {
+      "id": "JDG.2.curiosity.2",
+      "bookNumber": 70,
+      "chapter": 2,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que a geração depois de Josué não conhecia?",
+      "answer": "Nem a Deus, nem as obras dele em favor de Israel.",
+      "reference": "Jz 2:10"
+    },
+    {
+      "id": "JDG.3.subject.1",
+      "bookNumber": 70,
+      "chapter": 3,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "Como Eúde matou Eglom, rei de Moabe?",
+      "answer": "Enfiou um punhal no ventre dele.",
+      "reference": "Jz 3:21"
+    },
+    {
+      "id": "JDG.3.name.1",
+      "bookNumber": 70,
+      "chapter": 3,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem foi o libertador irmão de Calebe?",
+      "answer": "Otniel, filho de Quenaz.",
+      "reference": "Jz 3:9"
+    },
+    {
+      "id": "JDG.3.place.1",
+      "bookNumber": 70,
+      "chapter": 3,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Qual cidade Eglom, rei de Moabe, tomou?",
+      "answer": "A cidade das palmeiras.",
+      "reference": "Jz 3:13"
+    },
+    {
+      "id": "JDG.3.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 3,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "Com o que Sangar derrubou seiscentos filisteus?",
+      "answer": "Com uma vara de conduzir bois.",
+      "reference": "Jz 3:31"
+    },
+    {
+      "id": "JDG.4.subject.1",
+      "bookNumber": 70,
+      "chapter": 4,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Quem Deus derrotou diante de Baraque?",
+      "answer": "Sísera, com os carros e o exército.",
+      "reference": "Jz 4:15"
+    },
+    {
+      "id": "JDG.4.name.1",
+      "bookNumber": 70,
+      "chapter": 4,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem era a profetisa que julgava Israel?",
+      "answer": "Débora, mulher de Lapidote.",
+      "reference": "Jz 4:4"
+    },
+    {
+      "id": "JDG.4.place.1",
+      "bookNumber": 70,
+      "chapter": 4,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "De que monte Baraque desceu para a batalha?",
+      "answer": "Do monte Tabor.",
+      "reference": "Jz 4:14"
+    },
+    {
+      "id": "JDG.4.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 4,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "Como Jael matou Sísera?",
+      "answer": "Cravou uma estaca de tenda na têmpora dele.",
+      "reference": "Jz 4:21"
+    },
+    {
+      "id": "JDG.5.subject.1",
+      "bookNumber": 70,
+      "chapter": 5,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "O que lutou do céu contra Sísera?",
+      "answer": "As estrelas.",
+      "reference": "Jz 5:20"
+    },
+    {
+      "id": "JDG.5.name.1",
+      "bookNumber": 70,
+      "chapter": 5,
+      "verseStart": 24,
+      "kind": "name",
+      "prompt": "Quem a canção de Débora chama de bendita entre as mulheres?",
+      "answer": "Jael, mulher de Héber.",
+      "reference": "Jz 5:24"
+    },
+    {
+      "id": "JDG.5.place.1",
+      "bookNumber": 70,
+      "chapter": 5,
+      "verseStart": 19,
+      "kind": "place",
+      "prompt": "Perto de que águas os reis de Canaã lutaram?",
+      "answer": "Das águas de Megido, em Taanaque.",
+      "reference": "Jz 5:19"
+    },
+    {
+      "id": "JDG.5.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 5,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "Por quantos anos a terra descansou após a vitória sobre Sísera?",
+      "answer": "Quarenta anos.",
+      "reference": "Jz 5:31"
+    },
+    {
+      "id": "JDG.6.subject.1",
+      "bookNumber": 70,
+      "chapter": 6,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Qual missão Deus deu a Gideão?",
+      "answer": "Salvar Israel do poder de Midiã.",
+      "reference": "Jz 6:14"
+    },
+    {
+      "id": "JDG.6.name.1",
+      "bookNumber": 70,
+      "chapter": 6,
+      "verseStart": 32,
+      "kind": "name",
+      "prompt": "Por que Gideão também foi chamado de Jerubaal?",
+      "answer": "Porque derrubou o altar de Baal.",
+      "reference": "Jz 6:32"
+    },
+    {
+      "id": "JDG.6.place.1",
+      "bookNumber": 70,
+      "chapter": 6,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Onde Gideão escondia o trigo dos midianitas?",
+      "answer": "No lagar, sob o carvalho em Ofra.",
+      "reference": "Jz 6:11"
+    },
+    {
+      "id": "JDG.6.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 6,
+      "verseStart": 38,
+      "kind": "curiosity",
+      "prompt": "O que Gideão espremeu do pedaço de lã?",
+      "answer": "Água bastante para encher um vaso.",
+      "reference": "Jz 6:38"
+    },
+    {
+      "id": "JDG.7.subject.1",
+      "bookNumber": 70,
+      "chapter": 7,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Com quantos homens Deus prometeu entregar Midiã a Gideão?",
+      "answer": "Com trezentos.",
+      "reference": "Jz 7:7"
+    },
+    {
+      "id": "JDG.7.name.1",
+      "bookNumber": 70,
+      "chapter": 7,
+      "verseStart": 25,
+      "kind": "name",
+      "prompt": "Quais chefes de Midiã foram capturados e mortos?",
+      "answer": "Orebe e Zeebe.",
+      "reference": "Jz 7:25"
+    },
+    {
+      "id": "JDG.7.place.1",
+      "bookNumber": 70,
+      "chapter": 7,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Perto de qual fonte Gideão acampou?",
+      "answer": "A fonte de Harode.",
+      "reference": "Jz 7:1"
+    },
+    {
+      "id": "JDG.7.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 7,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que havia dentro dos jarros dos trezentos, em Juízes?",
+      "answer": "Tochas acesas.",
+      "reference": "Jz 7:16"
+    },
+    {
+      "id": "JDG.8.subject.1",
+      "bookNumber": 70,
+      "chapter": 8,
+      "verseStart": 23,
+      "kind": "subject",
+      "prompt": "O que Gideão respondeu quando quiseram fazê-lo chefe?",
+      "answer": "Que não governaria, porque Deus é quem governa.",
+      "reference": "Jz 8:23"
+    },
+    {
+      "id": "JDG.8.name.1",
+      "bookNumber": 70,
+      "chapter": 8,
+      "verseStart": 21,
+      "kind": "name",
+      "prompt": "Quais reis de Midiã Gideão matou no fim da perseguição?",
+      "answer": "Zeba e Zalmuna.",
+      "reference": "Jz 8:21"
+    },
+    {
+      "id": "JDG.8.place.1",
+      "bookNumber": 70,
+      "chapter": 8,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Qual cidade zombou de Gideão e negou pão aos homens dele?",
+      "answer": "Sucote.",
+      "reference": "Jz 8:6"
+    },
+    {
+      "id": "JDG.8.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 8,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "O que o éfode feito por Gideão causou?",
+      "answer": "Virou um tropeço para ele e para a casa dele.",
+      "reference": "Jz 8:27"
+    },
+    {
+      "id": "JDG.9.subject.1",
+      "bookNumber": 70,
+      "chapter": 9,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que Abimeleque fez aos filhos de Jerubaal em Ofra?",
+      "answer": "Matou setenta irmãos sobre uma pedra.",
+      "reference": "Jz 9:5"
+    },
+    {
+      "id": "JDG.9.name.1",
+      "bookNumber": 70,
+      "chapter": 9,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Qual filho de Jerubaal sobreviveu escondido?",
+      "answer": "Jotão, o mais novo.",
+      "reference": "Jz 9:5"
+    },
+    {
+      "id": "JDG.9.place.1",
+      "bookNumber": 70,
+      "chapter": 9,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "De onde Jotão gritou para os homens de Siquém?",
+      "answer": "Do alto do monte Gerizim.",
+      "reference": "Jz 9:7"
+    },
+    {
+      "id": "JDG.9.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 9,
+      "verseStart": 53,
+      "kind": "curiosity",
+      "prompt": "O que uma mulher atirou na cabeça de Abimeleque?",
+      "answer": "Um pedaço de pedra de moinho.",
+      "reference": "Jz 9:53"
+    },
+    {
+      "id": "JDG.10.subject.1",
+      "bookNumber": 70,
+      "chapter": 10,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "A quem Deus entregou Israel depois da morte de Jair?",
+      "answer": "Aos filisteus e aos filhos de Amom.",
+      "reference": "Jz 10:7"
+    },
+    {
+      "id": "JDG.10.name.1",
+      "bookNumber": 70,
+      "chapter": 10,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem julgou Israel morando em Samir?",
+      "answer": "Tolá, filho de Puá.",
+      "reference": "Jz 10:1"
+    },
+    {
+      "id": "JDG.10.place.1",
+      "bookNumber": 70,
+      "chapter": 10,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Onde os amonitas armaram acampamento no tempo de Jefté?",
+      "answer": "Em Gileade.",
+      "reference": "Jz 10:17"
+    },
+    {
+      "id": "JDG.10.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 10,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Quantas vilas tinham o nome de Jair?",
+      "answer": "Trinta, na terra de Gileade.",
+      "reference": "Jz 10:4"
+    },
+    {
+      "id": "JDG.11.subject.1",
+      "bookNumber": 70,
+      "chapter": 11,
+      "verseStart": 34,
+      "kind": "subject",
+      "prompt": "Quem saiu ao encontro de Jefté quando ele voltou da guerra?",
+      "answer": "A filha única dele, dançando.",
+      "reference": "Jz 11:34"
+    },
+    {
+      "id": "JDG.11.name.1",
+      "bookNumber": 70,
+      "chapter": 11,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem Gileade escolheu como chefe e príncipe?",
+      "answer": "Jefté.",
+      "reference": "Jz 11:11"
+    },
+    {
+      "id": "JDG.11.place.1",
+      "bookNumber": 70,
+      "chapter": 11,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Onde Jefté falou diante de Deus ao assumir a liderança?",
+      "answer": "Em Mispá.",
+      "reference": "Jz 11:11"
+    },
+    {
+      "id": "JDG.11.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 11,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "O que Jefté prometeu se voltasse vencedor?",
+      "answer": "Oferecer em sacrifício queimado quem saísse da casa para recebê-lo.",
+      "reference": "Jz 11:31"
+    },
+    {
+      "id": "JDG.12.subject.1",
+      "bookNumber": 70,
+      "chapter": 12,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Que palavra os de Efraim não conseguiam pronunciar?",
+      "answer": "Chibolete; eles diziam Sibolete.",
+      "reference": "Jz 12:6"
+    },
+    {
+      "id": "JDG.12.name.1",
+      "bookNumber": 70,
+      "chapter": 12,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Quem julgou Israel e foi sepultado em Gileade?",
+      "answer": "Jefté.",
+      "reference": "Jz 12:7"
+    },
+    {
+      "id": "JDG.12.place.1",
+      "bookNumber": 70,
+      "chapter": 12,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Onde os de Gileade barraram a fuga de Efraim?",
+      "answer": "Nos vaus do Jordão.",
+      "reference": "Jz 12:5"
+    },
+    {
+      "id": "JDG.12.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 12,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quantos de Efraim morreram por não dizer Chibolete?",
+      "answer": "Quarenta e dois mil.",
+      "reference": "Jz 12:6"
+    },
+    {
+      "id": "JDG.13.subject.1",
+      "bookNumber": 70,
+      "chapter": 13,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que o anjo anunciou sobre o filho da mulher de Manoá?",
+      "answer": "Que seria nazireu e começaria a livrar Israel dos filisteus.",
+      "reference": "Jz 13:5"
+    },
+    {
+      "id": "JDG.13.name.1",
+      "bookNumber": 70,
+      "chapter": 13,
+      "verseStart": 24,
+      "kind": "name",
+      "prompt": "Que nome a mulher de Manoá deu ao filho?",
+      "answer": "Sansão.",
+      "reference": "Jz 13:24"
+    },
+    {
+      "id": "JDG.13.place.1",
+      "bookNumber": 70,
+      "chapter": 13,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "De onde era Manoá?",
+      "answer": "De Zorá, na tribo de Dã.",
+      "reference": "Jz 13:2"
+    },
+    {
+      "id": "JDG.13.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 13,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Como o anjo subiu diante de Manoá e da mulher?",
+      "answer": "No meio da chama do altar.",
+      "reference": "Jz 13:20"
+    },
+    {
+      "id": "JDG.14.subject.1",
+      "bookNumber": 70,
+      "chapter": 14,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Sansão fez com o leão, sem nenhuma arma?",
+      "answer": "Despedaçou o animal só com as mãos.",
+      "reference": "Jz 14:6"
+    },
+    {
+      "id": "JDG.14.place.1",
+      "bookNumber": 70,
+      "chapter": 14,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Sansão viu a mulher filisteia com quem quis casar?",
+      "answer": "Em Timna.",
+      "reference": "Jz 14:1"
+    },
+    {
+      "id": "JDG.14.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 14,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que Sansão achou no corpo do leão morto?",
+      "answer": "Mel guardado por um enxame de abelhas.",
+      "reference": "Jz 14:8"
+    },
+    {
+      "id": "JDG.14.curiosity.2",
+      "bookNumber": 70,
+      "chapter": 14,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Qual foi o enigma que Sansão propôs?",
+      "answer": "Comida saiu de quem devora, e doçura saiu da força.",
+      "reference": "Jz 14:14"
+    },
+    {
+      "id": "JDG.15.subject.1",
+      "bookNumber": 70,
+      "chapter": 15,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Que arma Sansão usou para ferir mil homens?",
+      "answer": "Uma queixada fresca de jumento.",
+      "reference": "Jz 15:15"
+    },
+    {
+      "id": "JDG.15.place.1",
+      "bookNumber": 70,
+      "chapter": 15,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Que nome Sansão deu ao lugar da queixada?",
+      "answer": "Ramate-Leí.",
+      "reference": "Jz 15:17"
+    },
+    {
+      "id": "JDG.15.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 15,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Quantas raposas Sansão amarrou com tochas?",
+      "answer": "Trezentas.",
+      "reference": "Jz 15:4"
+    },
+    {
+      "id": "JDG.15.curiosity.2",
+      "bookNumber": 70,
+      "chapter": 15,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que Deus fez sair quando Sansão teve sede?",
+      "answer": "Água, de uma cavidade em Leí.",
+      "reference": "Jz 15:19"
+    },
+    {
+      "id": "JDG.16.subject.1",
+      "bookNumber": 70,
+      "chapter": 16,
+      "verseStart": 30,
+      "kind": "subject",
+      "prompt": "Como Sansão morreu entre os filisteus?",
+      "answer": "A casa caiu sobre eles, e ele morreu junto.",
+      "reference": "Jz 16:30"
+    },
+    {
+      "id": "JDG.16.name.1",
+      "bookNumber": 70,
+      "chapter": 16,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "De quem Sansão gostou no vale de Soreque?",
+      "answer": "De Dalila.",
+      "reference": "Jz 16:4"
+    },
+    {
+      "id": "JDG.16.place.1",
+      "bookNumber": 70,
+      "chapter": 16,
+      "verseStart": 21,
+      "kind": "place",
+      "prompt": "Para onde levaram Sansão depois de cegá-lo?",
+      "answer": "Para Gaza, a fim de moer no cárcere.",
+      "reference": "Jz 16:21"
+    },
+    {
+      "id": "JDG.16.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 16,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que Sansão carregou no ombro para fora de Gaza?",
+      "answer": "As portas, os postes e a tranca.",
+      "reference": "Jz 16:3"
+    },
+    {
+      "id": "JDG.17.subject.1",
+      "bookNumber": 70,
+      "chapter": 17,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que fizeram com parte da prata na casa de Mica?",
+      "answer": "Fundiram uma imagem e a puseram na casa dele.",
+      "reference": "Jz 17:4"
+    },
+    {
+      "id": "JDG.17.name.1",
+      "bookNumber": 70,
+      "chapter": 17,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem Mica consagrou como sacerdote da casa?",
+      "answer": "Um jovem levita.",
+      "reference": "Jz 17:12"
+    },
+    {
+      "id": "JDG.17.place.1",
+      "bookNumber": 70,
+      "chapter": 17,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Em que região morava Mica?",
+      "answer": "No monte de Efraim.",
+      "reference": "Jz 17:1"
+    },
+    {
+      "id": "JDG.17.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 17,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que cada um fazia em Israel quando não havia rei?",
+      "answer": "O que achava melhor.",
+      "reference": "Jz 17:6"
+    },
+    {
+      "id": "JDG.18.subject.1",
+      "bookNumber": 70,
+      "chapter": 18,
+      "verseStart": 29,
+      "kind": "subject",
+      "prompt": "Como a cidade de Laís passou a se chamar?",
+      "answer": "Dã, pelo nome do pai da tribo.",
+      "reference": "Jz 18:29"
+    },
+    {
+      "id": "JDG.18.name.1",
+      "bookNumber": 70,
+      "chapter": 18,
+      "verseStart": 30,
+      "kind": "name",
+      "prompt": "Quem serviu como sacerdote da tribo de Dã?",
+      "answer": "Jônatas, filho de Gérson.",
+      "reference": "Jz 18:30"
+    },
+    {
+      "id": "JDG.18.place.1",
+      "bookNumber": 70,
+      "chapter": 18,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "De onde saíram os seiscentos guerreiros de Dã?",
+      "answer": "De Zorá e de Estaol.",
+      "reference": "Jz 18:11"
+    },
+    {
+      "id": "JDG.18.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 18,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "O que a tribo de Dã fez com o povo tranquilo de Laís?",
+      "answer": "Matou os moradores e queimou a cidade.",
+      "reference": "Jz 18:27"
+    },
+    {
+      "id": "JDG.19.subject.1",
+      "bookNumber": 70,
+      "chapter": 19,
+      "verseStart": 25,
+      "kind": "subject",
+      "prompt": "O que os homens de Gibeá fizeram à concubina do levita?",
+      "answer": "Abusaram dela por toda a noite.",
+      "reference": "Jz 19:25"
+    },
+    {
+      "id": "JDG.19.place.1",
+      "bookNumber": 70,
+      "chapter": 19,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Em qual cidade de Benjamim o sol se pôs para o levita?",
+      "answer": "Em Gibeá.",
+      "reference": "Jz 19:14"
+    },
+    {
+      "id": "JDG.19.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 19,
+      "verseStart": 29,
+      "kind": "curiosity",
+      "prompt": "Em quantos pedaços o levita dividiu a concubina, em Juízes?",
+      "answer": "Em doze, e mandou às regiões de Israel.",
+      "reference": "Jz 19:29"
+    },
+    {
+      "id": "JDG.19.curiosity.2",
+      "bookNumber": 70,
+      "chapter": 19,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo a concubina ficou na casa do pai, em Juízes?",
+      "answer": "Quatro meses.",
+      "reference": "Jz 19:2"
+    },
+    {
+      "id": "JDG.20.subject.1",
+      "bookNumber": 70,
+      "chapter": 20,
+      "verseStart": 35,
+      "kind": "subject",
+      "prompt": "Qual foi o desfecho da guerra contra Benjamim?",
+      "answer": "Deus feriu Benjamim, e Israel o derrotou.",
+      "reference": "Jz 20:35"
+    },
+    {
+      "id": "JDG.20.name.1",
+      "bookNumber": 70,
+      "chapter": 20,
+      "verseStart": 27,
+      "verseEnd": 28,
+      "kind": "name",
+      "prompt": "Quem servia diante da arca na guerra contra Benjamim?",
+      "answer": "Fineias, filho de Eleazar.",
+      "reference": "Jz 20:27-28"
+    },
+    {
+      "id": "JDG.20.place.1",
+      "bookNumber": 70,
+      "chapter": 20,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde todo Israel se reuniu, de Dã a Berseba?",
+      "answer": "Em Mispá.",
+      "reference": "Jz 20:1"
+    },
+    {
+      "id": "JDG.20.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 20,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que os setecentos canhotos de Benjamim faziam com a funda?",
+      "answer": "Acertavam o alvo sem errar.",
+      "reference": "Jz 20:16"
+    },
+    {
+      "id": "JDG.21.subject.1",
+      "bookNumber": 70,
+      "chapter": 21,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "O que cada homem de Benjamim deveria tomar em Siló?",
+      "answer": "Uma das moças que saíam dançando.",
+      "reference": "Jz 21:21"
+    },
+    {
+      "id": "JDG.21.place.1",
+      "bookNumber": 70,
+      "chapter": 21,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Qual cidade não foi à reunião em Mispá?",
+      "answer": "Jabes-Gileade.",
+      "reference": "Jz 21:8"
+    },
+    {
+      "id": "JDG.21.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 21,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Quantas moças de Jabes-Gileade foram levadas vivas?",
+      "answer": "Quatrocentas que ainda não tinham marido.",
+      "reference": "Jz 21:12"
+    },
+    {
+      "id": "JDG.21.curiosity.2",
+      "bookNumber": 70,
+      "chapter": 21,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "Como era a vida em Israel quando não havia rei?",
+      "answer": "Sem rei, e cada um fazia o que achava certo.",
+      "reference": "Jz 21:25"
+    },
+    {
+      "id": "JDG.0.curiosity.1",
+      "bookNumber": 70,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Juízes?",
+      "answer": "O livro não diz. A tradição aponta Samuel.",
+      "reference": "Juízes"
+    },
+    {
+      "id": "JDG.0.curiosity.2",
+      "bookNumber": 70,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Juízes?",
+      "answer": "No fim do tempo dos juízes, antes de Davi reinar.",
+      "reference": "Juízes"
+    }
+  ]
+}

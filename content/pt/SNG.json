@@ -1,0 +1,294 @@
+{
+  "cards": [
+    {
+      "id": "SNG.1.subject.1",
+      "bookNumber": 260,
+      "chapter": 1,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Como a amada se descreve às filhas de Jerusalém?",
+      "answer": "Morena como tenda de Quedar e bela como cortina de Salomão.",
+      "reference": "Ct 1:5"
+    },
+    {
+      "id": "SNG.1.name.1",
+      "bookNumber": 260,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "De quem é o cântico dos cânticos, em Cantares?",
+      "answer": "De Salomão.",
+      "reference": "Ct 1:1"
+    },
+    {
+      "id": "SNG.1.place.1",
+      "bookNumber": 260,
+      "chapter": 1,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Em que vinhas o amado é como um ramo de hena, em Cantares?",
+      "answer": "Nas vinhas de Engedi.",
+      "reference": "Ct 1:14"
+    },
+    {
+      "id": "SNG.1.curiosity.1",
+      "bookNumber": 260,
+      "chapter": 1,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "A que o amado compara a mulher querida, em Cantares?",
+      "answer": "Às éguas que puxam a carruagem do faraó.",
+      "reference": "Ct 1:9"
+    },
+    {
+      "id": "SNG.2.subject.1",
+      "bookNumber": 260,
+      "chapter": 2,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Que sinais de primavera o amado anuncia, em Cantares?",
+      "answer": "Flores na terra, tempo de cantar e a voz da rolinha.",
+      "reference": "Ct 2:12"
+    },
+    {
+      "id": "SNG.2.place.1",
+      "bookNumber": 260,
+      "chapter": 2,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "De onde é a rosa com que a amada se compara, em Cantares?",
+      "answer": "De Sarom, e ela é o lírio dos vales.",
+      "reference": "Ct 2:1"
+    },
+    {
+      "id": "SNG.2.curiosity.1",
+      "bookNumber": 260,
+      "chapter": 2,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Que bichos estragam as vinhas em flor, em Cantares?",
+      "answer": "As raposas, até as bem pequenas.",
+      "reference": "Ct 2:15"
+    },
+    {
+      "id": "SNG.3.subject.1",
+      "bookNumber": 260,
+      "chapter": 3,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Para onde a amada levou o amado ao achá-lo, em Cantares?",
+      "answer": "À casa da mãe dela, e não o soltou.",
+      "reference": "Ct 3:4"
+    },
+    {
+      "id": "SNG.3.name.1",
+      "bookNumber": 260,
+      "chapter": 3,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem a mãe coroou no dia do casamento, em Cantares?",
+      "answer": "O rei Salomão.",
+      "reference": "Ct 3:11"
+    },
+    {
+      "id": "SNG.3.place.1",
+      "bookNumber": 260,
+      "chapter": 3,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "De onde veio a madeira da liteira de Salomão?",
+      "answer": "Do Líbano.",
+      "reference": "Ct 3:9"
+    },
+    {
+      "id": "SNG.3.curiosity.1",
+      "bookNumber": 260,
+      "chapter": 3,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Quantos guerreiros rodeiam a cama de Salomão?",
+      "answer": "Sessenta, dos guerreiros de Israel.",
+      "reference": "Ct 3:7"
+    },
+    {
+      "id": "SNG.4.subject.1",
+      "bookNumber": 260,
+      "chapter": 4,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "A que o amado compara a esposa em Cantares?",
+      "answer": "A um jardim fechado e a uma fonte selada.",
+      "reference": "Ct 4:12"
+    },
+    {
+      "id": "SNG.4.place.1",
+      "bookNumber": 260,
+      "chapter": 4,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "De que montes o amado chama a esposa, em Cantares?",
+      "answer": "Do Líbano, de Amaná, de Senir e de Hermom.",
+      "reference": "Ct 4:8"
+    },
+    {
+      "id": "SNG.4.curiosity.1",
+      "bookNumber": 260,
+      "chapter": 4,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "A que se parece o pescoço da amada, em Cantares?",
+      "answer": "À torre de Davi, com mil escudos pendurados.",
+      "reference": "Ct 4:4"
+    },
+    {
+      "id": "SNG.5.subject.1",
+      "bookNumber": 260,
+      "chapter": 5,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que houve quando a amada de Cantares abriu a porta?",
+      "answer": "O amado já tinha ido embora.",
+      "reference": "Ct 5:6"
+    },
+    {
+      "id": "SNG.5.curiosity.1",
+      "bookNumber": 260,
+      "chapter": 5,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que os guardas da cidade fizeram à amada, em Cantares?",
+      "answer": "Bateram nela, a feriram e tiraram o véu.",
+      "reference": "Ct 5:7"
+    },
+    {
+      "id": "SNG.5.curiosity.2",
+      "bookNumber": 260,
+      "chapter": 5,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Entre quantos o amado de Cantares se destaca?",
+      "answer": "Entre dez mil.",
+      "reference": "Ct 5:10"
+    },
+    {
+      "id": "SNG.6.subject.1",
+      "bookNumber": 260,
+      "chapter": 6,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Como o amado chama a única filha da mãe, em Cantares?",
+      "answer": "De pomba perfeita.",
+      "reference": "Ct 6:9"
+    },
+    {
+      "id": "SNG.6.name.1",
+      "bookNumber": 260,
+      "chapter": 6,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "A quem as moças pedem que volte para ser vista, em Cantares?",
+      "answer": "À Sulamita.",
+      "reference": "Ct 6:13"
+    },
+    {
+      "id": "SNG.6.place.1",
+      "bookNumber": 260,
+      "chapter": 6,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "A que cidades a beleza da amada é comparada, em Cantares?",
+      "answer": "A Tirza e a Jerusalém.",
+      "reference": "Ct 6:4"
+    },
+    {
+      "id": "SNG.6.curiosity.1",
+      "bookNumber": 260,
+      "chapter": 6,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Quantas rainhas e concubinas o amado menciona, em Cantares?",
+      "answer": "Sessenta rainhas e oitenta concubinas.",
+      "reference": "Ct 6:8"
+    },
+    {
+      "id": "SNG.7.subject.1",
+      "bookNumber": 260,
+      "chapter": 7,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Para onde a amada de Cantares convida o amado?",
+      "answer": "Ao campo, para passar as noites nas aldeias.",
+      "reference": "Ct 7:11"
+    },
+    {
+      "id": "SNG.7.place.1",
+      "bookNumber": 260,
+      "chapter": 7,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "A que tanques os olhos da amada se parecem, em Cantares?",
+      "answer": "Aos viveiros de peixe que há em Hesbom.",
+      "reference": "Ct 7:4"
+    },
+    {
+      "id": "SNG.7.curiosity.1",
+      "bookNumber": 260,
+      "chapter": 7,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Que planta solta perfume junto às portas, em Cantares?",
+      "answer": "As mandrágoras. Há também frutos novos e velhos.",
+      "reference": "Ct 7:13"
+    },
+    {
+      "id": "SNG.8.subject.1",
+      "bookNumber": 260,
+      "chapter": 8,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Com o que o amor se iguala em força, em Cantares?",
+      "answer": "Com a morte. O ciúme é duro como a sepultura.",
+      "reference": "Ct 8:6"
+    },
+    {
+      "id": "SNG.8.place.1",
+      "bookNumber": 260,
+      "chapter": 8,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Onde Salomão tinha uma vinha?",
+      "answer": "Em Baal-Hamom.",
+      "reference": "Ct 8:11"
+    },
+    {
+      "id": "SNG.8.curiosity.1",
+      "bookNumber": 260,
+      "chapter": 8,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Como se repartem as moedas da vinha de Salomão?",
+      "answer": "Mil ficam com Salomão e duzentas com os guardas.",
+      "reference": "Ct 8:12"
+    },
+    {
+      "id": "SNG.0.curiosity.1",
+      "bookNumber": 260,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Cantares?",
+      "answer": "Salomão.",
+      "reference": "Cantares"
+    },
+    {
+      "id": "SNG.0.curiosity.2",
+      "bookNumber": 260,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Cantares?",
+      "answer": "No século X antes de Cristo.",
+      "reference": "Cantares"
+    }
+  ]
+}

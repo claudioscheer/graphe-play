@@ -1,0 +1,585 @@
+{
+  "cards": [
+    {
+      "id": "1CO.1.subject.1",
+      "bookNumber": 530,
+      "chapter": 1,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "Como a mensagem da cruz soa para quem se perde?",
+      "answer": "Como loucura. Para quem se salva, é poder de Deus.",
+      "reference": "1Co 1:18"
+    },
+    {
+      "id": "1CO.1.name.1",
+      "bookNumber": 530,
+      "chapter": 1,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem avisou Paulo das brigas na igreja?",
+      "answer": "Os da casa de Cloé.",
+      "reference": "1Co 1:11"
+    },
+    {
+      "id": "1CO.1.place.1",
+      "bookNumber": 530,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Em que cidade estava a igreja dividida a quem Paulo escreve?",
+      "answer": "Em Corinto.",
+      "reference": "1Co 1:2"
+    },
+    {
+      "id": "1CO.1.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 1,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Quais homens Paulo lembra que batizou, além da casa de Estéfanas?",
+      "answer": "Crispo e Gaio.",
+      "reference": "1Co 1:14"
+    },
+    {
+      "id": "1CO.2.subject.1",
+      "bookNumber": 530,
+      "chapter": 2,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Paulo resolveu saber entre os coríntios?",
+      "answer": "Só Jesus Cristo, e ele na cruz.",
+      "reference": "1Co 2:2"
+    },
+    {
+      "id": "1CO.2.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "A fala de Paulo convencia pela sabedoria humana?",
+      "answer": "Não. Pela ação do Espírito e do poder.",
+      "reference": "1Co 2:4"
+    },
+    {
+      "id": "1CO.2.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Alguém viu o que Deus preparou para quem o ama?",
+      "answer": "Não. Olho nenhum viu, e isso não subiu ao coração.",
+      "reference": "1Co 2:9"
+    },
+    {
+      "id": "1CO.3.subject.1",
+      "bookNumber": 530,
+      "chapter": 3,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O plantio e a rega fazem a igreja crescer?",
+      "answer": "Não. Quem faz crescer é Deus.",
+      "reference": "1Co 3:6"
+    },
+    {
+      "id": "1CO.3.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 3,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Qual fundamento Paulo diz que já está posto?",
+      "answer": "Jesus Cristo. Não dá para pôr outro.",
+      "reference": "1Co 3:11"
+    },
+    {
+      "id": "1CO.3.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 3,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que é a igreja onde mora o Espírito de Deus?",
+      "answer": "O templo de Deus.",
+      "reference": "1Co 3:16"
+    },
+    {
+      "id": "1CO.4.subject.1",
+      "bookNumber": 530,
+      "chapter": 4,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "O reino de Deus se resume a discurso?",
+      "answer": "Não. Ele se mostra em poder.",
+      "reference": "1Co 4:20"
+    },
+    {
+      "id": "1CO.4.name.1",
+      "bookNumber": 530,
+      "chapter": 4,
+      "verseStart": 17,
+      "kind": "name",
+      "prompt": "Quem Paulo enviou para lembrar os caminhos dele?",
+      "answer": "Timóteo, a quem chama de filho amado e fiel.",
+      "reference": "1Co 4:17"
+    },
+    {
+      "id": "1CO.4.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 4,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Como Paulo descreve a vida dos apóstolos?",
+      "answer": "Com fome, sede, sem roupa, espancados e sem casa.",
+      "reference": "1Co 4:11"
+    },
+    {
+      "id": "1CO.5.subject.1",
+      "bookNumber": 530,
+      "chapter": 5,
+      "verseStart": 1,
+      "verseEnd": 2,
+      "kind": "subject",
+      "prompt": "O que Paulo manda fazer com quem tomou a mulher do pai?",
+      "answer": "Tirar essa pessoa do meio, sem a igreja se orgulhar.",
+      "reference": "1Co 5:1-2"
+    },
+    {
+      "id": "1CO.5.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 5,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que faz um pouco de fermento na massa?",
+      "answer": "Faz a massa toda crescer.",
+      "reference": "1Co 5:6"
+    },
+    {
+      "id": "1CO.5.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 5,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Quem foi oferecido como o cordeiro da páscoa, em 1 Coríntios?",
+      "answer": "Cristo, em favor do povo.",
+      "reference": "1Co 5:7"
+    },
+    {
+      "id": "1CO.6.subject.1",
+      "bookNumber": 530,
+      "chapter": 6,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "De quem é o corpo de quem crê?",
+      "answer": "De Deus. É templo do Espírito, e a pessoa não é dona dele.",
+      "reference": "1Co 6:19"
+    },
+    {
+      "id": "1CO.6.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 6,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Paulo aprova irmão processando irmão diante de gente injusta?",
+      "answer": "Não. A causa devia ficar entre o povo de Deus.",
+      "reference": "1Co 6:1"
+    },
+    {
+      "id": "1CO.6.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 6,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Por que honrar a Deus com o corpo?",
+      "answer": "Porque a pessoa foi comprada por um preço alto.",
+      "reference": "1Co 6:20"
+    },
+    {
+      "id": "1CO.7.subject.1",
+      "bookNumber": 530,
+      "chapter": 7,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Por causa do sexo fora do casamento, o que Paulo manda?",
+      "answer": "Que cada um tenha a própria esposa, e cada uma o próprio marido.",
+      "reference": "1Co 7:2"
+    },
+    {
+      "id": "1CO.7.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 7,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "O que é melhor para quem não consegue se controlar?",
+      "answer": "Casar, em vez de ficar queimando de desejo.",
+      "reference": "1Co 7:9"
+    },
+    {
+      "id": "1CO.7.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 7,
+      "verseStart": 39,
+      "kind": "curiosity",
+      "prompt": "Quando a mulher fica livre para casar de novo?",
+      "answer": "Se o marido morrer, com quem ela quiser, desde que siga a Deus.",
+      "reference": "1Co 7:39"
+    },
+    {
+      "id": "1CO.8.subject.1",
+      "bookNumber": 530,
+      "chapter": 8,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que Paulo faz se a comida derruba o irmão?",
+      "answer": "Para de comer carne, para não fazê-lo cair.",
+      "reference": "1Co 8:13"
+    },
+    {
+      "id": "1CO.8.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 8,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "O saber e o amor produzem o mesmo efeito?",
+      "answer": "Não. O saber enche de orgulho, e o amor faz crescer.",
+      "reference": "1Co 8:1"
+    },
+    {
+      "id": "1CO.8.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 8,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O ídolo é um deus de verdade?",
+      "answer": "Não. Ele não é nada, e só existe um Deus.",
+      "reference": "1Co 8:4"
+    },
+    {
+      "id": "1CO.9.subject.1",
+      "bookNumber": 530,
+      "chapter": 9,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "Por que Paulo se tornou tudo para todos?",
+      "answer": "Para salvar pelo menos algumas pessoas.",
+      "reference": "1Co 9:22"
+    },
+    {
+      "id": "1CO.9.name.1",
+      "bookNumber": 530,
+      "chapter": 9,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem Paulo cita consigo sobre o direito de não trabalhar?",
+      "answer": "Barnabé.",
+      "reference": "1Co 9:6"
+    },
+    {
+      "id": "1CO.9.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 9,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "O que a lei não permite fazer com o boi que debulha?",
+      "answer": "Amarrar a boca dele.",
+      "reference": "1Co 9:9"
+    },
+    {
+      "id": "1CO.9.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 9,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "Que coroa os cristãos buscam, diferente da dos outros?",
+      "answer": "Uma que não se acaba.",
+      "reference": "1Co 9:25"
+    },
+    {
+      "id": "1CO.10.subject.1",
+      "bookNumber": 530,
+      "chapter": 10,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "A pessoa pode ficar na mesa de Jesus e na mesa dos demônios?",
+      "answer": "Não. Não dá para participar das duas.",
+      "reference": "1Co 10:21"
+    },
+    {
+      "id": "1CO.10.place.1",
+      "bookNumber": 530,
+      "chapter": 10,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Onde ficaram os antepassados de quem Deus não gostou, em 1 Coríntios?",
+      "answer": "No deserto.",
+      "reference": "1Co 10:5"
+    },
+    {
+      "id": "1CO.10.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 10,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Quantos Paulo diz que caíram num único dia por pecado sexual?",
+      "answer": "Vinte e três mil.",
+      "reference": "1Co 10:8"
+    },
+    {
+      "id": "1CO.10.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 10,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Deus deixa a prova maior do que a pessoa aguenta?",
+      "answer": "Não. Ele é fiel e abre uma saída.",
+      "reference": "1Co 10:13"
+    },
+    {
+      "id": "1CO.11.subject.1",
+      "bookNumber": 530,
+      "chapter": 11,
+      "verseStart": 26,
+      "kind": "subject",
+      "prompt": "Para que serve comer o pão e beber o copo?",
+      "answer": "Para anunciar a morte de Jesus até ele voltar.",
+      "reference": "1Co 11:26"
+    },
+    {
+      "id": "1CO.11.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 11,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "O cabelo comprido envergonha a mulher?",
+      "answer": "Não. É honra, e lhe serve de cobertura.",
+      "reference": "1Co 11:15"
+    },
+    {
+      "id": "1CO.11.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 11,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "O que Jesus disse que o pão é?",
+      "answer": "O corpo dele, partido em favor do povo.",
+      "reference": "1Co 11:24"
+    },
+    {
+      "id": "1CO.11.curiosity.3",
+      "bookNumber": 530,
+      "chapter": 11,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "O que Jesus disse que o copo é?",
+      "answer": "A nova aliança, no sangue dele.",
+      "reference": "1Co 11:25"
+    },
+    {
+      "id": "1CO.12.subject.1",
+      "bookNumber": 530,
+      "chapter": 12,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Como é o corpo que Paulo compara a Cristo?",
+      "answer": "É um só, embora tenha muitos membros.",
+      "reference": "1Co 12:12"
+    },
+    {
+      "id": "1CO.12.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 12,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Se o corpo inteiro fosse só olho, o que faltaria?",
+      "answer": "O ouvido.",
+      "reference": "1Co 12:17"
+    },
+    {
+      "id": "1CO.12.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 12,
+      "verseStart": 28,
+      "kind": "curiosity",
+      "prompt": "Quem Deus pôs em primeiro, segundo e terceiro na igreja?",
+      "answer": "Apóstolos, profetas e mestres.",
+      "reference": "1Co 12:28"
+    },
+    {
+      "id": "1CO.13.subject.1",
+      "bookNumber": 530,
+      "chapter": 13,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Qual é o maior: a fé, a esperança ou o amor?",
+      "answer": "O amor.",
+      "reference": "1Co 13:13"
+    },
+    {
+      "id": "1CO.13.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 13,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "O que a pessoa vira se fala língua até de anjo, sem amor?",
+      "answer": "Barulho de metal ou de sino.",
+      "reference": "1Co 13:1"
+    },
+    {
+      "id": "1CO.13.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 13,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O amor é apressado e invejoso?",
+      "answer": "Não. Tem paciência, é bondoso, e não inveja nem se acha.",
+      "reference": "1Co 13:4"
+    },
+    {
+      "id": "1CO.14.subject.1",
+      "bookNumber": 530,
+      "chapter": 14,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Paulo prefere línguas ou profecia na igreja?",
+      "answer": "Profecia, pois ela faz a igreja inteira crescer.",
+      "reference": "1Co 14:5"
+    },
+    {
+      "id": "1CO.14.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 14,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Quantas palavras claras Paulo prefere na igreja?",
+      "answer": "Cinco, que ensinam, em vez de dez mil numa língua estranha.",
+      "reference": "1Co 14:19"
+    },
+    {
+      "id": "1CO.14.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 14,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "Quantas pessoas podem falar em língua numa reunião, em 1 Coríntios?",
+      "answer": "No máximo três, uma por vez, com quem traduza.",
+      "reference": "1Co 14:27"
+    },
+    {
+      "id": "1CO.15.subject.1",
+      "bookNumber": 530,
+      "chapter": 15,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "Cristo ficou entre os mortos?",
+      "answer": "Não. Ele ressuscitou e é o primeiro dos que morreram.",
+      "reference": "1Co 15:20"
+    },
+    {
+      "id": "1CO.15.name.1",
+      "bookNumber": 530,
+      "chapter": 15,
+      "verseStart": 22,
+      "kind": "name",
+      "prompt": "Quem Paulo coloca ao lado de Cristo na morte de todos?",
+      "answer": "Adão. Nele todos morrem; em Cristo, todos viverão.",
+      "reference": "1Co 15:22"
+    },
+    {
+      "id": "1CO.15.place.1",
+      "bookNumber": 530,
+      "chapter": 15,
+      "verseStart": 32,
+      "kind": "place",
+      "prompt": "Onde Paulo diz que lutou contra feras?",
+      "answer": "Em Éfeso.",
+      "reference": "1Co 15:32"
+    },
+    {
+      "id": "1CO.15.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 15,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Em que dia Cristo ressuscitou?",
+      "answer": "No terceiro dia.",
+      "reference": "1Co 15:4"
+    },
+    {
+      "id": "1CO.15.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 15,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quantos irmãos viram Jesus de uma só vez?",
+      "answer": "Mais de quinhentos, e a maior parte ainda vivia.",
+      "reference": "1Co 15:6"
+    },
+    {
+      "id": "1CO.16.subject.1",
+      "bookNumber": 530,
+      "chapter": 16,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que cada um deve fazer no primeiro dia da semana?",
+      "answer": "Separar uma oferta, conforme o que tiver.",
+      "reference": "1Co 16:2"
+    },
+    {
+      "id": "1CO.16.name.1",
+      "bookNumber": 530,
+      "chapter": 16,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem Paulo pediu que fosse a Corinto, mas não quis ir agora?",
+      "answer": "Apolo.",
+      "reference": "1Co 16:12"
+    },
+    {
+      "id": "1CO.16.place.1",
+      "bookNumber": 530,
+      "chapter": 16,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Onde Paulo ficaria até a festa de Pentecostes?",
+      "answer": "Em Éfeso.",
+      "reference": "1Co 16:8"
+    },
+    {
+      "id": "1CO.16.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 16,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Como os irmãos deviam se saudar?",
+      "answer": "Com um beijo santo.",
+      "reference": "1Co 16:20"
+    },
+    {
+      "id": "1CO.0.curiosity.1",
+      "bookNumber": 530,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 1 Coríntios?",
+      "answer": "Paulo.",
+      "reference": "1 Coríntios"
+    },
+    {
+      "id": "1CO.0.curiosity.2",
+      "bookNumber": 530,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 1 Coríntios?",
+      "answer": "Por volta do ano 55.",
+      "reference": "1 Coríntios"
+    },
+    {
+      "id": "1CO.0.curiosity.3",
+      "bookNumber": 530,
+      "chapter": 0,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Para quem Paulo escreveu 1 Coríntios?",
+      "answer": "Para a igreja de Deus em Corinto.",
+      "reference": "1Co 1:2"
+    }
+  ]
+}

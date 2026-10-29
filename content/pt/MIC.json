@@ -1,0 +1,304 @@
+{
+  "cards": [
+    {
+      "id": "MIC.1.subject.1",
+      "bookNumber": 400,
+      "chapter": 1,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Em que Samaria vai ser transformada?",
+      "answer": "Em ruína no campo e em vinhas.",
+      "reference": "Mq 1:6"
+    },
+    {
+      "id": "MIC.1.name.1",
+      "bookNumber": 400,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Em que reinados Miquéias falou?",
+      "answer": "Jotão, Acaz e Ezequias, em Judá.",
+      "reference": "Mq 1:1"
+    },
+    {
+      "id": "MIC.1.place.1",
+      "bookNumber": 400,
+      "chapter": 1,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Quais cidades Miquéias aponta como foco do pecado?",
+      "answer": "Samaria, por Jacó, e Jerusalém, por Judá.",
+      "reference": "Mq 1:5"
+    },
+    {
+      "id": "MIC.1.curiosity.1",
+      "bookNumber": 400,
+      "chapter": 1,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Como Miquéias diz que vai chorar o desastre?",
+      "answer": "Descalço, nu, com uivo de chacal.",
+      "reference": "Mq 1:8"
+    },
+    {
+      "id": "MIC.2.subject.1",
+      "bookNumber": 400,
+      "chapter": 2,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que os poderosos de Israel fazem com campos e casas, em Miquéias?",
+      "answer": "Cobiçam e tomam a terra e a moradia alheia.",
+      "reference": "Mq 2:2"
+    },
+    {
+      "id": "MIC.2.name.1",
+      "bookNumber": 400,
+      "chapter": 2,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem Deus promete reunir como ovelhas, em Miquéias?",
+      "answer": "Jacó inteiro, o que restou de Israel.",
+      "reference": "Mq 2:12"
+    },
+    {
+      "id": "MIC.2.place.1",
+      "bookNumber": 400,
+      "chapter": 2,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Com ovelhas de qual lugar o rebanho é comparado, em Miquéias?",
+      "answer": "Com as de Bosra.",
+      "reference": "Mq 2:12"
+    },
+    {
+      "id": "MIC.2.curiosity.1",
+      "bookNumber": 400,
+      "chapter": 2,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Que bebida o profeta mentiroso promete, em Miquéias?",
+      "answer": "Vinho e bebida forte.",
+      "reference": "Mq 2:11"
+    },
+    {
+      "id": "MIC.3.subject.1",
+      "bookNumber": 400,
+      "chapter": 3,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "No que Sião vai se tornar, segundo Miquéias?",
+      "answer": "Num campo lavrado.",
+      "reference": "Mq 3:12"
+    },
+    {
+      "id": "MIC.3.place.1",
+      "bookNumber": 400,
+      "chapter": 3,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "Quais cidades Miquéias diz que foram erguidas com crime?",
+      "answer": "Sião e Jerusalém.",
+      "reference": "Mq 3:10"
+    },
+    {
+      "id": "MIC.3.curiosity.1",
+      "bookNumber": 400,
+      "chapter": 3,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Quando o profeta, em Miquéias, anuncia paz?",
+      "answer": "Quando ganha comida; se não, anuncia guerra.",
+      "reference": "Mq 3:5"
+    },
+    {
+      "id": "MIC.3.curiosity.2",
+      "bookNumber": 400,
+      "chapter": 3,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Por que juízes, sacerdotes e profetas de Miquéias julgam, ensinam e adivinham?",
+      "answer": "Por suborno, pagamento e dinheiro.",
+      "reference": "Mq 3:11"
+    },
+    {
+      "id": "MIC.4.subject.1",
+      "bookNumber": 400,
+      "chapter": 4,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Em que as nações vão transformar as armas, em Miquéias?",
+      "answer": "Em enxadas e foices, e acaba o treino de guerra.",
+      "reference": "Mq 4:3"
+    },
+    {
+      "id": "MIC.4.place.1",
+      "bookNumber": 400,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "De onde virão a lei e a palavra para as nações, em Miquéias?",
+      "answer": "A lei de Sião e a palavra de Jerusalém.",
+      "reference": "Mq 4:2"
+    },
+    {
+      "id": "MIC.4.curiosity.1",
+      "bookNumber": 400,
+      "chapter": 4,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Debaixo de quais plantas o povo descansa sem medo, em Miquéias?",
+      "answer": "Da videira e da figueira de cada um.",
+      "reference": "Mq 4:4"
+    },
+    {
+      "id": "MIC.4.curiosity.2",
+      "bookNumber": 400,
+      "chapter": 4,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Para onde a filha de Sião vai antes de ser liberta?",
+      "answer": "Para a Babilônia.",
+      "reference": "Mq 4:10"
+    },
+    {
+      "id": "MIC.5.subject.1",
+      "bookNumber": 400,
+      "chapter": 5,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "De qual cidade pequena sai o governante de Israel?",
+      "answer": "De Belém Efrata.",
+      "reference": "Mq 5:2"
+    },
+    {
+      "id": "MIC.5.name.1",
+      "bookNumber": 400,
+      "chapter": 5,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "A terra de quem cai junto com a Assíria?",
+      "answer": "A terra de Ninrode.",
+      "reference": "Mq 5:6"
+    },
+    {
+      "id": "MIC.5.place.1",
+      "bookNumber": 400,
+      "chapter": 5,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Quem invade a terra quando se anuncia paz, em Miquéias?",
+      "answer": "A Assíria.",
+      "reference": "Mq 5:5"
+    },
+    {
+      "id": "MIC.5.curiosity.1",
+      "bookNumber": 400,
+      "chapter": 5,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Quantos líderes se levantam contra a Assíria?",
+      "answer": "Sete pastores e oito príncipes.",
+      "reference": "Mq 5:5"
+    },
+    {
+      "id": "MIC.6.subject.1",
+      "bookNumber": 400,
+      "chapter": 6,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que Deus pede do ser humano em Miquéias?",
+      "answer": "Justiça, amor à bondade e um andar humilde.",
+      "reference": "Mq 6:8"
+    },
+    {
+      "id": "MIC.6.name.1",
+      "bookNumber": 400,
+      "chapter": 6,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem Miquéias diz que foi na frente de Israel ao sair do Egito?",
+      "answer": "Moisés, Arão e Miriã.",
+      "reference": "Mq 6:4"
+    },
+    {
+      "id": "MIC.6.place.1",
+      "bookNumber": 400,
+      "chapter": 6,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "De Sitim, o caminho lembrado segue até onde?",
+      "answer": "Até Gilgal.",
+      "reference": "Mq 6:5"
+    },
+    {
+      "id": "MIC.6.curiosity.1",
+      "bookNumber": 400,
+      "chapter": 6,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Que ofertas enormes Miquéias põe em dúvida?",
+      "answer": "Milhares de carneiros e dez mil rios de azeite.",
+      "reference": "Mq 6:7"
+    },
+    {
+      "id": "MIC.7.subject.1",
+      "bookNumber": 400,
+      "chapter": 7,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "Como o Deus de Miquéias trata a maldade?",
+      "answer": "Perdoa, e não segura a ira para sempre.",
+      "reference": "Mq 7:18"
+    },
+    {
+      "id": "MIC.7.name.1",
+      "bookNumber": 400,
+      "chapter": 7,
+      "verseStart": 20,
+      "kind": "name",
+      "prompt": "A quem Deus guarda fidelidade e bondade, em Miquéias?",
+      "answer": "Fidelidade a Jacó e bondade a Abraão.",
+      "reference": "Mq 7:20"
+    },
+    {
+      "id": "MIC.7.place.1",
+      "bookNumber": 400,
+      "chapter": 7,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Em quais pastos o rebanho de Deus volta a comer, em Miquéias?",
+      "answer": "Em Basã e em Gileade.",
+      "reference": "Mq 7:14"
+    },
+    {
+      "id": "MIC.7.curiosity.1",
+      "bookNumber": 400,
+      "chapter": 7,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Onde Deus joga os pecados do povo, em Miquéias?",
+      "answer": "No fundo do mar.",
+      "reference": "Mq 7:19"
+    },
+    {
+      "id": "MIC.0.curiosity.1",
+      "bookNumber": 400,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Miquéias?",
+      "answer": "Miquéias.",
+      "reference": "Miquéias"
+    },
+    {
+      "id": "MIC.0.curiosity.2",
+      "bookNumber": 400,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Miquéias?",
+      "answer": "No século VIII antes de Cristo.",
+      "reference": "Miquéias"
+    }
+  ]
+}

@@ -1,0 +1,2344 @@
+{
+  "cards": [
+    {
+      "id": "ISA.1.subject.1",
+      "bookNumber": 290,
+      "chapter": 1,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "O que Deus faria com pecados escarlates em Judá?",
+      "answer": "Os deixaria brancos como a neve.",
+      "reference": "Is 1:18"
+    },
+    {
+      "id": "ISA.1.name.1",
+      "bookNumber": 290,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem viu a mensagem sobre Judá e Jerusalém?",
+      "answer": "Isaías, filho de Amoz.",
+      "reference": "Is 1:1"
+    },
+    {
+      "id": "ISA.1.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 1,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Quais animais conhecem o dono, ao contrário de Israel?",
+      "answer": "O boi e o jumento.",
+      "reference": "Is 1:3"
+    },
+    {
+      "id": "ISA.1.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 1,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "A que Israel se pareceria sem sobreviventes?",
+      "answer": "A Sodoma e a Gomorra.",
+      "reference": "Is 1:9"
+    },
+    {
+      "id": "ISA.2.subject.1",
+      "bookNumber": 290,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que as nações fariam com espadas e lanças, em Isaías?",
+      "answer": "Virariam ferramentas de lavoura e parariam de guerrear.",
+      "reference": "Is 2:4"
+    },
+    {
+      "id": "ISA.2.place.1",
+      "bookNumber": 290,
+      "chapter": 2,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Para onde as nações correriam nos últimos dias, em Isaías?",
+      "answer": "Ao monte da casa de Deus, acima dos outros montes.",
+      "reference": "Is 2:2"
+    },
+    {
+      "id": "ISA.2.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 2,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "O que seria feito dos ídolos quando o povo se escondesse nas cavernas, em Isaías?",
+      "answer": "Seriam jogados para as toupeiras e os morcegos.",
+      "reference": "Is 2:20"
+    },
+    {
+      "id": "ISA.3.subject.1",
+      "bookNumber": 290,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que Deus tiraria de Jerusalém e de Judá?",
+      "answer": "O apoio, o sustento, a comida e a água.",
+      "reference": "Is 3:1"
+    },
+    {
+      "id": "ISA.3.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 3,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Quem passaria a governar Jerusalém e Judá?",
+      "answer": "Garotos no lugar de príncipes, e rapazes no comando.",
+      "reference": "Is 3:4"
+    },
+    {
+      "id": "ISA.3.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 3,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que Deus poria na cabeça das filhas de Sião?",
+      "answer": "Feridas no alto da cabeça.",
+      "reference": "Is 3:17"
+    },
+    {
+      "id": "ISA.4.subject.1",
+      "bookNumber": 290,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Quem seria belo e glorioso para os salvos de Israel?",
+      "answer": "O Renovo de Deus.",
+      "reference": "Is 4:2"
+    },
+    {
+      "id": "ISA.4.place.1",
+      "bookNumber": 290,
+      "chapter": 4,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Onde os restantes seriam chamados santos, em Isaías?",
+      "answer": "Em Sião e em Jerusalém.",
+      "reference": "Is 4:3"
+    },
+    {
+      "id": "ISA.4.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 4,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Quantas mulheres tomariam um só homem no juízo de Isaías?",
+      "answer": "Sete, pedindo só que o nome dele as cobrisse.",
+      "reference": "Is 4:1"
+    },
+    {
+      "id": "ISA.4.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 4,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que cobriria o monte de Sião de dia e de noite?",
+      "answer": "Nuvem durante o dia e clarão de fogo à noite.",
+      "reference": "Is 4:5"
+    },
+    {
+      "id": "ISA.5.subject.1",
+      "bookNumber": 290,
+      "chapter": 5,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que Deus achou na vinha, que é a casa de Israel?",
+      "answer": "Opressão, quando esperava justiça.",
+      "reference": "Is 5:7"
+    },
+    {
+      "id": "ISA.5.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 5,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Quanto dariam dez jeiras de vinha, em Isaías?",
+      "answer": "Apenas um bato.",
+      "reference": "Is 5:10"
+    },
+    {
+      "id": "ISA.5.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 5,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "O que alguns faziam com o mal e com o bem, em Isaías?",
+      "answer": "Tratavam o mal como se fosse bom, e o bom como mal.",
+      "reference": "Is 5:20"
+    },
+    {
+      "id": "ISA.6.subject.1",
+      "bookNumber": 290,
+      "chapter": 6,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Até quando Isaías deveria falar ao povo, depois de ver o Senhor?",
+      "answer": "Até as cidades ficarem sem gente e a terra arruinada.",
+      "reference": "Is 6:11"
+    },
+    {
+      "id": "ISA.6.name.1",
+      "bookNumber": 290,
+      "chapter": 6,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Qual rei tinha morrido quando Isaías viu Deus?",
+      "answer": "Uzias.",
+      "reference": "Is 6:1"
+    },
+    {
+      "id": "ISA.6.place.1",
+      "bookNumber": 290,
+      "chapter": 6,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Isaías viu Deus num trono alto?",
+      "answer": "No templo, com o manto enchendo o lugar.",
+      "reference": "Is 6:1"
+    },
+    {
+      "id": "ISA.6.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 6,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quantas asas tinha cada serafim, em Isaías?",
+      "answer": "Seis: duas no rosto, duas nos pés e duas para voar.",
+      "reference": "Is 6:2"
+    },
+    {
+      "id": "ISA.7.subject.1",
+      "bookNumber": 290,
+      "chapter": 7,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Qual sinal Deus daria à casa de Davi?",
+      "answer": "Uma virgem teria um filho, de nome Emanuel.",
+      "reference": "Is 7:14"
+    },
+    {
+      "id": "ISA.7.name.1",
+      "bookNumber": 290,
+      "chapter": 7,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem guerreou contra Jerusalém nos dias de Acaz?",
+      "answer": "O sírio Rezim e Peca, rei de Israel.",
+      "reference": "Is 7:1"
+    },
+    {
+      "id": "ISA.7.place.1",
+      "bookNumber": 290,
+      "chapter": 7,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Onde Isaías foi encontrar o rei Acaz?",
+      "answer": "No aqueduto do tanque de cima.",
+      "reference": "Is 7:3"
+    },
+    {
+      "id": "ISA.7.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 7,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Quando Efraim deixaria de ser povo?",
+      "answer": "Depois de sessenta e cinco anos.",
+      "reference": "Is 7:8"
+    },
+    {
+      "id": "ISA.8.subject.1",
+      "bookNumber": 290,
+      "chapter": 8,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que cairia antes de o filho da profetisa dizer pai ou mãe, em Isaías?",
+      "answer": "Damasco e Samaria, diante do rei da Assíria.",
+      "reference": "Is 8:4"
+    },
+    {
+      "id": "ISA.8.name.1",
+      "bookNumber": 290,
+      "chapter": 8,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Qual nome recebeu o filho da profetisa, em Isaías?",
+      "answer": "Maer-Salal-Has-Baz.",
+      "reference": "Is 8:3"
+    },
+    {
+      "id": "ISA.8.place.1",
+      "bookNumber": 290,
+      "chapter": 8,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Qual água o povo rejeitou, alegre com Resim?",
+      "answer": "A de Siloé, que corre mansa.",
+      "reference": "Is 8:6"
+    },
+    {
+      "id": "ISA.8.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 8,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Por que o plano das nações contra Judá não se firmaria?",
+      "answer": "Porque Deus está com o povo.",
+      "reference": "Is 8:10"
+    },
+    {
+      "id": "ISA.9.subject.1",
+      "bookNumber": 290,
+      "chapter": 9,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Até quando duraria a paz no trono de Davi?",
+      "answer": "Não teria fim, e seria firmada com justiça.",
+      "reference": "Is 9:7"
+    },
+    {
+      "id": "ISA.9.name.1",
+      "bookNumber": 290,
+      "chapter": 9,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quais títulos Isaías deu ao menino que nasceu?",
+      "answer": "Deus Forte, Pai da Eternidade e Príncipe da Paz.",
+      "reference": "Is 9:6"
+    },
+    {
+      "id": "ISA.9.place.1",
+      "bookNumber": 290,
+      "chapter": 9,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Qual região além do Jordão seria honrada?",
+      "answer": "A Galileia das nações.",
+      "reference": "Is 9:1"
+    },
+    {
+      "id": "ISA.9.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 9,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que apareceu para o povo que andava nas trevas, em Isaías?",
+      "answer": "Uma grande luz.",
+      "reference": "Is 9:2"
+    },
+    {
+      "id": "ISA.10.subject.1",
+      "bookNumber": 290,
+      "chapter": 10,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Por que a Assíria não podia se gabar contra Deus?",
+      "answer": "Porque era só o machado, não quem corta.",
+      "reference": "Is 10:15"
+    },
+    {
+      "id": "ISA.10.place.1",
+      "bookNumber": 290,
+      "chapter": 10,
+      "verseStart": 26,
+      "kind": "place",
+      "prompt": "Onde foi a matança de Midiã citada contra a Assíria?",
+      "answer": "Junto à rocha de Orebe.",
+      "reference": "Is 10:26"
+    },
+    {
+      "id": "ISA.10.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 10,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "Quem de Israel se converteria, mesmo numeroso como a areia?",
+      "answer": "Apenas o restante.",
+      "reference": "Is 10:22"
+    },
+    {
+      "id": "ISA.11.subject.1",
+      "bookNumber": 290,
+      "chapter": 11,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Por que não haveria dano no monte santo, no reino vindo de Jessé?",
+      "answer": "Porque o conhecimento de Deus cobriria a terra como a água cobre o mar.",
+      "reference": "Is 11:9"
+    },
+    {
+      "id": "ISA.11.name.1",
+      "bookNumber": 290,
+      "chapter": 11,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "De quem brotaria a vara do novo rei, em Isaías?",
+      "answer": "Do tronco de Jessé.",
+      "reference": "Is 11:1"
+    },
+    {
+      "id": "ISA.11.place.1",
+      "bookNumber": 290,
+      "chapter": 11,
+      "verseStart": 16,
+      "kind": "place",
+      "prompt": "Onde começaria o caminho dos restantes de Israel?",
+      "answer": "Na Assíria, como no dia da saída do Egito.",
+      "reference": "Is 11:16"
+    },
+    {
+      "id": "ISA.11.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 11,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que o lobo faria com o cordeiro no reino vindo de Jessé?",
+      "answer": "Moraria com ele, e uma criança guiaria os bichos.",
+      "reference": "Is 11:6"
+    },
+    {
+      "id": "ISA.12.subject.1",
+      "bookNumber": 290,
+      "chapter": 12,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Por que Israel agradeceria a Deus no cântico de Isaías?",
+      "answer": "Porque a ira tinha passado e veio consolo.",
+      "reference": "Is 12:1"
+    },
+    {
+      "id": "ISA.12.place.1",
+      "bookNumber": 290,
+      "chapter": 12,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Onde o Santo de Israel se mostraria grande?",
+      "answer": "No meio de Sião.",
+      "reference": "Is 12:6"
+    },
+    {
+      "id": "ISA.12.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 12,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Onde o povo tiraria água com alegria, em Isaías?",
+      "answer": "Nas fontes da salvação.",
+      "reference": "Is 12:3"
+    },
+    {
+      "id": "ISA.13.subject.1",
+      "bookNumber": 290,
+      "chapter": 13,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "Qual seria o fim da Babilônia, orgulho dos caldeus?",
+      "answer": "Ruína como a de Sodoma e Gomorra.",
+      "reference": "Is 13:19"
+    },
+    {
+      "id": "ISA.13.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 13,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que aconteceria com o sol e a lua no juízo da Babilônia?",
+      "answer": "O sol sairia sem claridade, e a lua ficaria apagada.",
+      "reference": "Is 13:10"
+    },
+    {
+      "id": "ISA.13.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 13,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "O que moraria nas ruínas da Babilônia?",
+      "answer": "Bichos do deserto, corujas e bodes selvagens.",
+      "reference": "Is 13:21"
+    },
+    {
+      "id": "ISA.14.subject.1",
+      "bookNumber": 290,
+      "chapter": 14,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que aconteceria ao luminoso, filho do amanhecer, em Isaías?",
+      "answer": "Cairia do céu e seria cortado até a terra.",
+      "reference": "Is 14:12"
+    },
+    {
+      "id": "ISA.14.name.1",
+      "bookNumber": 290,
+      "chapter": 14,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Contra quem o povo diria o cântico de zombaria, em Isaías?",
+      "answer": "Contra o rei da Babilônia.",
+      "reference": "Is 14:4"
+    },
+    {
+      "id": "ISA.14.place.1",
+      "bookNumber": 290,
+      "chapter": 14,
+      "verseStart": 32,
+      "kind": "place",
+      "prompt": "O que se diria aos mensageiros sobre Sião?",
+      "answer": "Que Deus a fundou, refúgio de quem é oprimido.",
+      "reference": "Is 14:32"
+    },
+    {
+      "id": "ISA.14.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 14,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Onde o rei da Babilônia queria pôr o próprio trono?",
+      "answer": "Por cima das estrelas de Deus.",
+      "reference": "Is 14:13"
+    },
+    {
+      "id": "ISA.15.subject.1",
+      "bookNumber": 290,
+      "chapter": 15,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que uma noite faria com Ar e Quir, em Moabe?",
+      "answer": "Destruiria e devastaria as duas.",
+      "reference": "Is 15:1"
+    },
+    {
+      "id": "ISA.15.place.1",
+      "bookNumber": 290,
+      "chapter": 15,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "O que houve com as águas de Ninrim?",
+      "answer": "Acabaram, e a vegetação secou.",
+      "reference": "Is 15:6"
+    },
+    {
+      "id": "ISA.15.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 15,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Como Moabe mostrou luto por Nebo e Medeba?",
+      "answer": "Com a cabeça careca e a barba raspada.",
+      "reference": "Is 15:2"
+    },
+    {
+      "id": "ISA.16.subject.1",
+      "bookNumber": 290,
+      "chapter": 16,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Quando a glória de Moabe ficaria desprezível?",
+      "answer": "Em três anos, e sobraria pouca gente sem força.",
+      "reference": "Is 16:14"
+    },
+    {
+      "id": "ISA.16.place.1",
+      "bookNumber": 290,
+      "chapter": 16,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "De onde Moabe enviaria cordeiros ao monte de Sião?",
+      "answer": "De Sela, atravessando o deserto.",
+      "reference": "Is 16:1"
+    },
+    {
+      "id": "ISA.16.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 16,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Quem se sentaria na tenda de Davi?",
+      "answer": "Um juiz fiel, apressado em fazer justiça.",
+      "reference": "Is 16:5"
+    },
+    {
+      "id": "ISA.17.subject.1",
+      "bookNumber": 290,
+      "chapter": 17,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que seria de Damasco, segundo Isaías?",
+      "answer": "Deixaria de ser cidade e viraria um monte de ruínas.",
+      "reference": "Is 17:1"
+    },
+    {
+      "id": "ISA.17.place.1",
+      "bookNumber": 290,
+      "chapter": 17,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "O que seria das cidades de Aroer?",
+      "answer": "Ficariam para os rebanhos, sem ninguém os espantar.",
+      "reference": "Is 17:2"
+    },
+    {
+      "id": "ISA.17.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 17,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quantas azeitonas restariam na ponta dos ramos, em Isaías?",
+      "answer": "Duas ou três na ponta, e quatro ou cinco nos galhos.",
+      "reference": "Is 17:6"
+    },
+    {
+      "id": "ISA.18.subject.1",
+      "bookNumber": 290,
+      "chapter": 18,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Quem levaria um presente a Sião, da terra do zumbido de asas?",
+      "answer": "Um povo alto e temido, de terra cortada por rios.",
+      "reference": "Is 18:7"
+    },
+    {
+      "id": "ISA.18.place.1",
+      "bookNumber": 290,
+      "chapter": 18,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde ficava a terra do zumbido de asas, em Isaías?",
+      "answer": "Além dos rios de Cuxe.",
+      "reference": "Is 18:1"
+    },
+    {
+      "id": "ISA.18.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 18,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que levava os mensageiros pelo mar, em Isaías?",
+      "answer": "Navios de junco.",
+      "reference": "Is 18:2"
+    },
+    {
+      "id": "ISA.19.subject.1",
+      "bookNumber": 290,
+      "chapter": 19,
+      "verseStart": 25,
+      "kind": "subject",
+      "prompt": "Como Deus chamaria Egito, Assíria e Israel?",
+      "answer": "O Egito, povo dele; a Assíria, obra sua; Israel, sua herança.",
+      "reference": "Is 19:25"
+    },
+    {
+      "id": "ISA.19.place.1",
+      "bookNumber": 290,
+      "chapter": 19,
+      "verseStart": 23,
+      "kind": "place",
+      "prompt": "O que ligaria o Egito e a Assíria, em Isaías?",
+      "answer": "Uma estrada, e os dois cultuariam juntos.",
+      "reference": "Is 19:23"
+    },
+    {
+      "id": "ISA.19.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 19,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "Quantas cidades do Egito falariam a língua de Canaã?",
+      "answer": "Cinco, e jurariam a Deus.",
+      "reference": "Is 19:18"
+    },
+    {
+      "id": "ISA.19.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 19,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que haveria no meio da terra do Egito?",
+      "answer": "Um altar a Deus, e uma coluna na fronteira.",
+      "reference": "Is 19:19"
+    },
+    {
+      "id": "ISA.20.subject.1",
+      "bookNumber": 290,
+      "chapter": 20,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Como o rei da Assíria levaria o Egito e Cuxe?",
+      "answer": "Presos, sem roupa e descalços, para humilhar o Egito.",
+      "reference": "Is 20:4"
+    },
+    {
+      "id": "ISA.20.name.1",
+      "bookNumber": 290,
+      "chapter": 20,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem enviou o general que tomou Asdode?",
+      "answer": "Sargom, rei da Assíria.",
+      "reference": "Is 20:1"
+    },
+    {
+      "id": "ISA.20.place.1",
+      "bookNumber": 290,
+      "chapter": 20,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Qual cidade o general enviado por Sargom conquistou?",
+      "answer": "Asdode.",
+      "reference": "Is 20:1"
+    },
+    {
+      "id": "ISA.20.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 20,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Como Isaías serviu de sinal ao Egito e a Cuxe?",
+      "answer": "Andando sem roupa e descalço.",
+      "reference": "Is 20:3"
+    },
+    {
+      "id": "ISA.21.subject.1",
+      "bookNumber": 290,
+      "chapter": 21,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que o vigia anunciou sobre a Babilônia?",
+      "answer": "Que ela ruiu e os ídolos foram quebrados no chão.",
+      "reference": "Is 21:9"
+    },
+    {
+      "id": "ISA.21.name.1",
+      "bookNumber": 290,
+      "chapter": 21,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem a visão sobre a Babilônia chamou para o cerco?",
+      "answer": "Elão e a Média.",
+      "reference": "Is 21:2"
+    },
+    {
+      "id": "ISA.21.place.1",
+      "bookNumber": 290,
+      "chapter": 21,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Onde alguém gritava ao guarda, na palavra sobre Dumá?",
+      "answer": "Em Seir.",
+      "reference": "Is 21:11"
+    },
+    {
+      "id": "ISA.21.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 21,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Quando a glória de Quedar seria arruinada?",
+      "answer": "Dentro de um ano, contado como ano de trabalhador.",
+      "reference": "Is 21:16"
+    },
+    {
+      "id": "ISA.22.subject.1",
+      "bookNumber": 290,
+      "chapter": 22,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que Jerusalém dizia na festa, em vez de chorar?",
+      "answer": "Que comessem e bebessem, pois morreriam no dia seguinte.",
+      "reference": "Is 22:13"
+    },
+    {
+      "id": "ISA.22.name.1",
+      "bookNumber": 290,
+      "chapter": 22,
+      "verseStart": 20,
+      "kind": "name",
+      "prompt": "Qual servo, filho de Hilquias, Deus chamaria?",
+      "answer": "Eliaquim.",
+      "reference": "Is 22:20"
+    },
+    {
+      "id": "ISA.22.place.1",
+      "bookNumber": 290,
+      "chapter": 22,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Sobre qual lugar é a revelação da cidade tumultuada, em Isaías?",
+      "answer": "O vale da visão.",
+      "reference": "Is 22:1"
+    },
+    {
+      "id": "ISA.22.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 22,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "O que Eliaquim levaria sobre o ombro?",
+      "answer": "A chave da família de Davi.",
+      "reference": "Is 22:22"
+    },
+    {
+      "id": "ISA.23.subject.1",
+      "bookNumber": 290,
+      "chapter": 23,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Quanto tempo Tiro ficaria esquecida?",
+      "answer": "Setenta anos, como o tempo de um rei.",
+      "reference": "Is 23:15"
+    },
+    {
+      "id": "ISA.23.place.1",
+      "bookNumber": 290,
+      "chapter": 23,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "De onde vinha o cereal do comércio de Tiro?",
+      "answer": "Da colheita do Nilo, o Sior.",
+      "reference": "Is 23:3"
+    },
+    {
+      "id": "ISA.23.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 23,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "Quem ficaria com o comércio de Tiro no fim?",
+      "answer": "Os que moram diante de Deus, para comida e roupa.",
+      "reference": "Is 23:18"
+    },
+    {
+      "id": "ISA.24.subject.1",
+      "bookNumber": 290,
+      "chapter": 24,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que os moradores da terra fizeram com a aliança eterna, em Isaías?",
+      "answer": "Mudaram as leis e desfizeram essa aliança.",
+      "reference": "Is 24:5"
+    },
+    {
+      "id": "ISA.24.place.1",
+      "bookNumber": 290,
+      "chapter": 24,
+      "verseStart": 23,
+      "kind": "place",
+      "prompt": "Onde Deus reinaria, com o sol humilhado, em Isaías?",
+      "answer": "No monte de Sião, em Jerusalém.",
+      "reference": "Is 24:23"
+    },
+    {
+      "id": "ISA.24.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 24,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Como a terra andaria no juízo descrito por Isaías?",
+      "answer": "Cambaleando como bêbada, até cair de vez.",
+      "reference": "Is 24:20"
+    },
+    {
+      "id": "ISA.25.subject.1",
+      "bookNumber": 290,
+      "chapter": 25,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que Deus faria com a morte e com as lágrimas, em Isaías?",
+      "answer": "Acabaria com a morte para sempre e secaria todo choro.",
+      "reference": "Is 25:8"
+    },
+    {
+      "id": "ISA.25.place.1",
+      "bookNumber": 290,
+      "chapter": 25,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "O que a mão de Deus faria com Moabe?",
+      "answer": "O esmagaria como palha pisada no esterco.",
+      "reference": "Is 25:10"
+    },
+    {
+      "id": "ISA.25.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 25,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Qual banquete Deus daria a todos os povos, em Isaías?",
+      "answer": "Carnes gordas e vinhos finos, bem purificados.",
+      "reference": "Is 25:6"
+    },
+    {
+      "id": "ISA.26.subject.1",
+      "bookNumber": 290,
+      "chapter": 26,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "O que aconteceria com os mortos de Deus, em Isaías?",
+      "answer": "Viveriam de novo, e a terra faria nascer os seus mortos.",
+      "reference": "Is 26:19"
+    },
+    {
+      "id": "ISA.26.place.1",
+      "bookNumber": 290,
+      "chapter": 26,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde se cantaria o cântico da cidade forte, em Isaías?",
+      "answer": "Na terra de Judá.",
+      "reference": "Is 26:1"
+    },
+    {
+      "id": "ISA.26.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 26,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "A quem Deus guardaria em paz completa, em Isaías?",
+      "answer": "A quem confia nele com firmeza.",
+      "reference": "Is 26:3"
+    },
+    {
+      "id": "ISA.27.subject.1",
+      "bookNumber": 290,
+      "chapter": 27,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Como voltariam os perdidos da Assíria e do Egito?",
+      "answer": "Ao toque de uma trombeta, para adorar em Jerusalém.",
+      "reference": "Is 27:13"
+    },
+    {
+      "id": "ISA.27.place.1",
+      "bookNumber": 290,
+      "chapter": 27,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Onde Deus colheria Israel, um por um?",
+      "answer": "Entre o Eufrates e o córrego do Egito.",
+      "reference": "Is 27:12"
+    },
+    {
+      "id": "ISA.27.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 27,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "A quem Deus feriria com a espada forte, em Isaías?",
+      "answer": "Ao Leviatã e ao dragão do mar.",
+      "reference": "Is 27:1"
+    },
+    {
+      "id": "ISA.28.subject.1",
+      "bookNumber": 290,
+      "chapter": 28,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "O que Deus fundaria em Sião para quem crê?",
+      "answer": "Uma pedra de canto já provada, para ninguém sair fugindo.",
+      "reference": "Is 28:16"
+    },
+    {
+      "id": "ISA.28.place.1",
+      "bookNumber": 290,
+      "chapter": 28,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "De quem era a coroa de orgulho que murchava, em Isaías?",
+      "answer": "Dos bêbados de Efraim, sobre o vale fértil.",
+      "reference": "Is 28:1"
+    },
+    {
+      "id": "ISA.28.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 28,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Com quem os zombadores de Jerusalém diziam ter trato?",
+      "answer": "Com a morte e também com o lugar dos mortos.",
+      "reference": "Is 28:15"
+    },
+    {
+      "id": "ISA.29.subject.1",
+      "bookNumber": 290,
+      "chapter": 29,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Por que o culto de Jerusalém não agradava a Deus, em Isaías?",
+      "answer": "A boca se aproximava, mas o coração ficava longe.",
+      "reference": "Is 29:13"
+    },
+    {
+      "id": "ISA.29.place.1",
+      "bookNumber": 290,
+      "chapter": 29,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Qual nome tinha a cidade em que Davi acampou?",
+      "answer": "Ariel.",
+      "reference": "Is 29:1"
+    },
+    {
+      "id": "ISA.29.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 29,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Como seria o ataque das nações ao monte de Sião?",
+      "answer": "Como comida e bebida que só existem no sonho.",
+      "reference": "Is 29:8"
+    },
+    {
+      "id": "ISA.29.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 29,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Por que o leitor não lia o livro da visão, em Isaías?",
+      "answer": "Porque estava selado.",
+      "reference": "Is 29:11"
+    },
+    {
+      "id": "ISA.30.subject.1",
+      "bookNumber": 290,
+      "chapter": 30,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Como Judá ficaria livre e forte, em vez de ir ao Egito?",
+      "answer": "Com arrependimento, calma e confiança, mas não quis.",
+      "reference": "Is 30:15"
+    },
+    {
+      "id": "ISA.30.place.1",
+      "bookNumber": 290,
+      "chapter": 30,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Onde estavam os príncipes e os enviados do Egito?",
+      "answer": "Os príncipes em Zoã, e os enviados em Hanes.",
+      "reference": "Is 30:4"
+    },
+    {
+      "id": "ISA.30.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 30,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Qual apelido Deus deu ao Egito, que não ajuda?",
+      "answer": "Raabe, que nada faz.",
+      "reference": "Is 30:7"
+    },
+    {
+      "id": "ISA.30.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 30,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "Quantas vezes a luz do sol aumentaria na cura do povo, em Isaías?",
+      "answer": "Sete vezes, igual à claridade de uma semana.",
+      "reference": "Is 30:26"
+    },
+    {
+      "id": "ISA.31.subject.1",
+      "bookNumber": 290,
+      "chapter": 31,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Como Deus defenderia Jerusalém?",
+      "answer": "Como aves em volta do ninho, ele a salvaria.",
+      "reference": "Is 31:5"
+    },
+    {
+      "id": "ISA.31.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 31,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Por qual espada a Assíria cairia?",
+      "answer": "Por uma espada que não é de gente.",
+      "reference": "Is 31:8"
+    },
+    {
+      "id": "ISA.31.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 31,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "O que o povo buscava ao descer ao Egito?",
+      "answer": "Cavalos, muitos carros e cavaleiros fortes.",
+      "reference": "Is 31:1"
+    },
+    {
+      "id": "ISA.32.subject.1",
+      "bookNumber": 290,
+      "chapter": 32,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Como reinariam o rei e os príncipes, em Isaías?",
+      "answer": "O rei com justiça, e os príncipes julgando certo.",
+      "reference": "Is 32:1"
+    },
+    {
+      "id": "ISA.32.place.1",
+      "bookNumber": 290,
+      "chapter": 32,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "O que seria do palácio e da cidade barulhenta, em Isaías?",
+      "answer": "Ficariam vazios, pasto de jumentos selvagens.",
+      "reference": "Is 32:14"
+    },
+    {
+      "id": "ISA.32.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 32,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Quando as mulheres confiantes seriam abaladas, em Isaías?",
+      "answer": "Em pouco mais de um ano, quando a colheita falhasse.",
+      "reference": "Is 32:10"
+    },
+    {
+      "id": "ISA.32.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 32,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Qual seria o fruto da justiça, em Isaías?",
+      "answer": "Paz, com sossego e segurança sem fim.",
+      "reference": "Is 32:17"
+    },
+    {
+      "id": "ISA.33.subject.1",
+      "bookNumber": 290,
+      "chapter": 33,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "O que Deus seria para o povo de Sião diante do assolador?",
+      "answer": "Juiz, legislador e rei, e ele os salvaria.",
+      "reference": "Is 33:22"
+    },
+    {
+      "id": "ISA.33.place.1",
+      "bookNumber": 290,
+      "chapter": 33,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "O que enchia Sião, onde Deus habita no alto?",
+      "answer": "Juízo e justiça.",
+      "reference": "Is 33:5"
+    },
+    {
+      "id": "ISA.33.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 33,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quem rejeita o lucro da opressão e o suborno, em Isaías?",
+      "answer": "Quem anda certo, fala o que é reto e recusa o pago injusto.",
+      "reference": "Is 33:15"
+    },
+    {
+      "id": "ISA.33.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 33,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Por que nenhum morador de Sião diria que está doente?",
+      "answer": "Porque o povo que morasse ali seria perdoado.",
+      "reference": "Is 33:24"
+    },
+    {
+      "id": "ISA.34.subject.1",
+      "bookNumber": 290,
+      "chapter": 34,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que acontecerá com a terra de Edom, em Isaías?",
+      "answer": "Os rios virarão piche, e o solo, enxofre em chama.",
+      "reference": "Is 34:9"
+    },
+    {
+      "id": "ISA.34.place.1",
+      "bookNumber": 290,
+      "chapter": 34,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Em que cidade de Edom Deus terá um sacrifício?",
+      "answer": "Em Bozra.",
+      "reference": "Is 34:6"
+    },
+    {
+      "id": "ISA.34.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 34,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Até quando a fumaça da terra de Edom subirá?",
+      "answer": "Para sempre, sem apagar de dia nem de noite.",
+      "reference": "Is 34:10"
+    },
+    {
+      "id": "ISA.35.subject.1",
+      "bookNumber": 290,
+      "chapter": 35,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que o deserto seco fará na promessa de Deus, em Isaías?",
+      "answer": "Vai se alegrar e abrir flor, como uma rosa.",
+      "reference": "Is 35:1"
+    },
+    {
+      "id": "ISA.35.place.1",
+      "bookNumber": 290,
+      "chapter": 35,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "Para onde voltarão os resgatados por Deus, em Isaías?",
+      "answer": "Para Sião, com alegria que não termina.",
+      "reference": "Is 35:10"
+    },
+    {
+      "id": "ISA.35.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 35,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que acontecerá com os cegos e os surdos, em Isaías?",
+      "answer": "Os cegos vão ver, e os surdos vão ouvir.",
+      "reference": "Is 35:5"
+    },
+    {
+      "id": "ISA.35.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 35,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Como se chamará o caminho em que o impuro não passa, em Isaías?",
+      "answer": "Caminho da santidade.",
+      "reference": "Is 35:8"
+    },
+    {
+      "id": "ISA.36.subject.1",
+      "bookNumber": 290,
+      "chapter": 36,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "O que Rabsaqué desafiou sobre Jerusalém?",
+      "answer": "Duvidou que Deus a livrasse das mãos dele.",
+      "reference": "Is 36:20"
+    },
+    {
+      "id": "ISA.36.name.1",
+      "bookNumber": 290,
+      "chapter": 36,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem o rei da Assíria mandou de Laquis a Jerusalém?",
+      "answer": "Rabsaqué, à frente de um grande exército.",
+      "reference": "Is 36:2"
+    },
+    {
+      "id": "ISA.36.place.1",
+      "bookNumber": 290,
+      "chapter": 36,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde Rabsaqué parou ao chegar diante de Jerusalém?",
+      "answer": "Junto ao tanque de cima, no caminho do lavandeiro.",
+      "reference": "Is 36:2"
+    },
+    {
+      "id": "ISA.36.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 36,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "Por que os oficiais de Ezequias não responderam a Rabsaqué?",
+      "answer": "O rei tinha ordenado que ficassem calados.",
+      "reference": "Is 36:21"
+    },
+    {
+      "id": "ISA.37.subject.1",
+      "bookNumber": 290,
+      "chapter": 37,
+      "verseStart": 36,
+      "kind": "subject",
+      "prompt": "O que o anjo de Deus fez no acampamento da Assíria?",
+      "answer": "Matou cento e oitenta mil, achados mortos ao amanhecer.",
+      "reference": "Is 37:36"
+    },
+    {
+      "id": "ISA.37.name.1",
+      "bookNumber": 290,
+      "chapter": 37,
+      "verseStart": 38,
+      "kind": "name",
+      "prompt": "Quem feriu Senaqueribe na casa do deus Nisroque?",
+      "answer": "Os filhos Adrameleque e Sarezer, com a espada.",
+      "reference": "Is 37:38"
+    },
+    {
+      "id": "ISA.37.place.1",
+      "bookNumber": 290,
+      "chapter": 37,
+      "verseStart": 37,
+      "kind": "place",
+      "prompt": "Para onde Senaqueribe, rei da Assíria, voltou?",
+      "answer": "Para Nínive.",
+      "reference": "Is 37:37"
+    },
+    {
+      "id": "ISA.37.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 37,
+      "verseStart": 33,
+      "kind": "curiosity",
+      "prompt": "O que o rei da Assíria não faria contra Jerusalém?",
+      "answer": "Não entraria, não atiraria flecha nem montaria cerco.",
+      "reference": "Is 37:33"
+    },
+    {
+      "id": "ISA.38.subject.1",
+      "bookNumber": 290,
+      "chapter": 38,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Quantos anos Deus acrescentou à vida de Ezequias?",
+      "answer": "Quinze anos.",
+      "reference": "Is 38:5"
+    },
+    {
+      "id": "ISA.38.name.1",
+      "bookNumber": 290,
+      "chapter": 38,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem Isaías mandou pôr a casa em ordem, porque morreria?",
+      "answer": "Ezequias, rei de Judá.",
+      "reference": "Is 38:1"
+    },
+    {
+      "id": "ISA.38.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 38,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Quantos degraus o sol voltou na escadaria de Acaz?",
+      "answer": "Dez degraus.",
+      "reference": "Is 38:8"
+    },
+    {
+      "id": "ISA.38.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 38,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "O que Isaías mandou pôr na ferida de Ezequias?",
+      "answer": "Uma pasta de figos, para a inflamação sarar.",
+      "reference": "Is 38:21"
+    },
+    {
+      "id": "ISA.39.subject.1",
+      "bookNumber": 290,
+      "chapter": 39,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Isaías disse sobre os tesouros de Ezequias?",
+      "answer": "Tudo da casa dele seria levado à Babilônia, e nada ficaria.",
+      "reference": "Is 39:6"
+    },
+    {
+      "id": "ISA.39.name.1",
+      "bookNumber": 290,
+      "chapter": 39,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem mandou mensageiros com um presente ao rei Ezequias?",
+      "answer": "Merodaque-Baladã, rei da Babilônia.",
+      "reference": "Is 39:1"
+    },
+    {
+      "id": "ISA.39.place.1",
+      "bookNumber": 290,
+      "chapter": 39,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "De onde Ezequias disse que os visitantes tinham vindo?",
+      "answer": "De uma terra distante, a Babilônia.",
+      "reference": "Is 39:3"
+    },
+    {
+      "id": "ISA.39.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 39,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que seria feito dos filhos de Ezequias?",
+      "answer": "Serviriam como eunucos no palácio real de lá.",
+      "reference": "Is 39:7"
+    },
+    {
+      "id": "ISA.40.subject.1",
+      "bookNumber": 290,
+      "chapter": 40,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Que recado Deus manda dar a Jerusalém?",
+      "answer": "A guerra acabou, e a culpa dela foi perdoada.",
+      "reference": "Is 40:2"
+    },
+    {
+      "id": "ISA.40.place.1",
+      "bookNumber": 290,
+      "chapter": 40,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Onde clama a voz que manda preparar o caminho de Deus, em Isaías?",
+      "answer": "No deserto.",
+      "reference": "Is 40:3"
+    },
+    {
+      "id": "ISA.40.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 40,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que fica firme quando a erva seca e a flor cai, em Isaías?",
+      "answer": "A palavra de Deus, que permanece para sempre.",
+      "reference": "Is 40:8"
+    },
+    {
+      "id": "ISA.40.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 40,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "O que ganha quem confia em Deus, mesmo cansado, em Isaías?",
+      "answer": "Forças novas, e sobe como as águias, sem se esgotar.",
+      "reference": "Is 40:31"
+    },
+    {
+      "id": "ISA.41.subject.1",
+      "bookNumber": 290,
+      "chapter": 41,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que Deus diz a Israel para ele não ter medo?",
+      "answer": "Que está com ele, o fortalece e o segura pela mão direita.",
+      "reference": "Is 41:10"
+    },
+    {
+      "id": "ISA.41.name.1",
+      "bookNumber": 290,
+      "chapter": 41,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Como Deus chama Abraão ao falar com Israel?",
+      "answer": "Meu amigo.",
+      "reference": "Is 41:8"
+    },
+    {
+      "id": "ISA.41.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 41,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "A que Deus compara Israel para enfrentar os montes?",
+      "answer": "A um debulhador novo, de dentes pontudos.",
+      "reference": "Is 41:15"
+    },
+    {
+      "id": "ISA.42.subject.1",
+      "bookNumber": 290,
+      "chapter": 42,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que o servo escolhido levará às nações, em Isaías?",
+      "answer": "Justiça, com o Espírito de Deus sobre ele.",
+      "reference": "Is 42:1"
+    },
+    {
+      "id": "ISA.42.place.1",
+      "bookNumber": 290,
+      "chapter": 42,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "De que região são as aldeias do deserto que devem cantar, em Isaías?",
+      "answer": "De Quedar.",
+      "reference": "Is 42:11"
+    },
+    {
+      "id": "ISA.42.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 42,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que o servo fará com a cana rachada, em Isaías?",
+      "answer": "Não vai quebrá-la, nem apagar o pavio que ainda fumega.",
+      "reference": "Is 42:3"
+    },
+    {
+      "id": "ISA.43.subject.1",
+      "bookNumber": 290,
+      "chapter": 43,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Deus promete a Israel na água e no fogo?",
+      "answer": "Estará junto, e nem a corrente nem a chama o destruirão.",
+      "reference": "Is 43:2"
+    },
+    {
+      "id": "ISA.43.place.1",
+      "bookNumber": 290,
+      "chapter": 43,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Que terras Deus deu como resgate no lugar de Israel?",
+      "answer": "O Egito, Cuxe e Seba.",
+      "reference": "Is 43:3"
+    },
+    {
+      "id": "ISA.43.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 43,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Que novidade Deus fará no deserto por Israel?",
+      "answer": "Abrirá uma estrada e fará correr água na terra seca.",
+      "reference": "Is 43:19"
+    },
+    {
+      "id": "ISA.43.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 43,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "O que Deus faz com as transgressões de Israel?",
+      "answer": "Ele as apaga por causa de si e esquece os pecados.",
+      "reference": "Is 43:25"
+    },
+    {
+      "id": "ISA.44.subject.1",
+      "bookNumber": 290,
+      "chapter": 44,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "Por que Deus manda Israel voltar para ele?",
+      "answer": "Porque já o resgatou e dissipa os pecados como nuvem.",
+      "reference": "Is 44:22"
+    },
+    {
+      "id": "ISA.44.name.1",
+      "bookNumber": 290,
+      "chapter": 44,
+      "verseStart": 28,
+      "kind": "name",
+      "prompt": "Quem Deus chama de pastor para edificar Jerusalém?",
+      "answer": "Ciro.",
+      "reference": "Is 44:28"
+    },
+    {
+      "id": "ISA.44.place.1",
+      "bookNumber": 290,
+      "chapter": 44,
+      "verseStart": 28,
+      "kind": "place",
+      "prompt": "Que cidade Ciro deveria mandar edificar?",
+      "answer": "Jerusalém, e o templo receberia o alicerce.",
+      "reference": "Is 44:28"
+    },
+    {
+      "id": "ISA.44.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 44,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que o homem faz com o resto da madeira, em Isaías?",
+      "answer": "Esculpe um deus, ajoelha e pede que esse deus o livre.",
+      "reference": "Is 44:17"
+    },
+    {
+      "id": "ISA.45.subject.1",
+      "bookNumber": 290,
+      "chapter": 45,
+      "verseStart": 23,
+      "kind": "subject",
+      "prompt": "O que Deus jurou que toda pessoa faria, em Isaías?",
+      "answer": "Dobrar o joelho e jurar lealdade com a língua.",
+      "reference": "Is 45:23"
+    },
+    {
+      "id": "ISA.45.name.1",
+      "bookNumber": 290,
+      "chapter": 45,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem Deus ungiu para submeter nações e abrir portas, em Isaías?",
+      "answer": "Ciro.",
+      "reference": "Is 45:1"
+    },
+    {
+      "id": "ISA.45.place.1",
+      "bookNumber": 290,
+      "chapter": 45,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Que povos virão presos e dirão que Deus está com Israel?",
+      "answer": "Gente do Egito, de Cuxe e de Sabá.",
+      "reference": "Is 45:14"
+    },
+    {
+      "id": "ISA.45.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 45,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que Deus afirma formar e criar, em Isaías?",
+      "answer": "A claridade e a escuridão, a paz e a desgraça.",
+      "reference": "Is 45:7"
+    },
+    {
+      "id": "ISA.46.subject.1",
+      "bookNumber": 290,
+      "chapter": 46,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Até quando Deus promete carregar Israel?",
+      "answer": "Até a velhice, quando os cabelos ficarem brancos.",
+      "reference": "Is 46:4"
+    },
+    {
+      "id": "ISA.46.name.1",
+      "bookNumber": 290,
+      "chapter": 46,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quais ídolos se curvam e são carregados por animais, em Isaías?",
+      "answer": "Bel e Nebo.",
+      "reference": "Is 46:1"
+    },
+    {
+      "id": "ISA.46.place.1",
+      "bookNumber": 290,
+      "chapter": 46,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Onde Deus diz que porá a salvação, em Isaías?",
+      "answer": "Em Sião, e a glória será de Israel.",
+      "reference": "Is 46:13"
+    },
+    {
+      "id": "ISA.46.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 46,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que o ídolo carregado nos ombros não consegue fazer, em Isaías?",
+      "answer": "Não sai do lugar, não responde e não livra da aflição.",
+      "reference": "Is 46:7"
+    },
+    {
+      "id": "ISA.47.subject.1",
+      "bookNumber": 290,
+      "chapter": 47,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que cairá sobre a Babilônia num único dia?",
+      "answer": "A perda dos filhos e a viuvez, por tanta feitiçaria.",
+      "reference": "Is 47:9"
+    },
+    {
+      "id": "ISA.47.place.1",
+      "bookNumber": 290,
+      "chapter": 47,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde a filha da Babilônia deve se sentar?",
+      "answer": "No pó, porque o trono já não existe.",
+      "reference": "Is 47:1"
+    },
+    {
+      "id": "ISA.47.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 47,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "A que ficam os adivinhos em quem a Babilônia confiou?",
+      "answer": "Como palha que o fogo queima, sem salvar a própria vida.",
+      "reference": "Is 47:14"
+    },
+    {
+      "id": "ISA.48.subject.1",
+      "bookNumber": 290,
+      "chapter": 48,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "Que ordem Deus dá ao povo sobre a Babilônia?",
+      "answer": "Sair de lá e anunciar que ele resgatou Jacó.",
+      "reference": "Is 48:20"
+    },
+    {
+      "id": "ISA.48.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 48,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Em qual fornalha Deus diz que escolheu Israel?",
+      "answer": "Na fornalha da aflição, sem refiná-lo como prata.",
+      "reference": "Is 48:10"
+    },
+    {
+      "id": "ISA.48.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 48,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "O que Deus diz que os perversos não terão, quando Israel sair da Babilônia?",
+      "answer": "Não haverá paz para eles.",
+      "reference": "Is 48:22"
+    },
+    {
+      "id": "ISA.49.subject.1",
+      "bookNumber": 290,
+      "chapter": 49,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Deus deu ao servo além de restaurar Israel?",
+      "answer": "Ser luz das nações e salvação até o fim da terra.",
+      "reference": "Is 49:6"
+    },
+    {
+      "id": "ISA.49.place.1",
+      "bookNumber": 290,
+      "chapter": 49,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Além do norte e do ocidente, de onde mais virão os filhos, em Isaías?",
+      "answer": "Da terra de Sinim.",
+      "reference": "Is 49:12"
+    },
+    {
+      "id": "ISA.49.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 49,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Deus esqueceria Sião, ainda que uma mãe esquecesse o filho?",
+      "answer": "Não, pois mesmo assim ele não a esqueceria.",
+      "reference": "Is 49:15"
+    },
+    {
+      "id": "ISA.49.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 49,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Onde Deus diz que escreveu Sião?",
+      "answer": "Nas palmas das mãos dele.",
+      "reference": "Is 49:16"
+    },
+    {
+      "id": "ISA.50.subject.1",
+      "bookNumber": 290,
+      "chapter": 50,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que o servo ofereceu a quem o feria, em Isaías?",
+      "answer": "As costas aos golpes e o rosto à humilhação e às cuspidas.",
+      "reference": "Is 50:6"
+    },
+    {
+      "id": "ISA.50.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 50,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "A que o servo comparou o próprio rosto, em Isaías?",
+      "answer": "A uma pedra muito dura, porque Deus o ajudava.",
+      "reference": "Is 50:7"
+    },
+    {
+      "id": "ISA.50.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 50,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que recebe quem acende o próprio fogo e anda nele, em Isaías?",
+      "answer": "Andará entre as chamas e jazerá em tormento.",
+      "reference": "Is 50:11"
+    },
+    {
+      "id": "ISA.51.subject.1",
+      "bookNumber": 290,
+      "chapter": 51,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "A que Deus fará o deserto de Sião se parecer?",
+      "answer": "Ao Éden e ao jardim de Deus, com alegria e canto.",
+      "reference": "Is 51:3"
+    },
+    {
+      "id": "ISA.51.name.1",
+      "bookNumber": 290,
+      "chapter": 51,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Para quem Deus manda o povo olhar como origem, em Isaías?",
+      "answer": "Para Abraão, que estava só, e para Sara.",
+      "reference": "Is 51:2"
+    },
+    {
+      "id": "ISA.51.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 51,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "O que Deus tira da mão de Jerusalém?",
+      "answer": "O cálice que a fazia cambalear, para ela não beber mais.",
+      "reference": "Is 51:22"
+    },
+    {
+      "id": "ISA.52.subject.1",
+      "bookNumber": 290,
+      "chapter": 52,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Que boa notícia o mensageiro anuncia a Sião?",
+      "answer": "Paz e salvação, e que o Deus dela reina.",
+      "reference": "Is 52:7"
+    },
+    {
+      "id": "ISA.52.place.1",
+      "bookNumber": 290,
+      "chapter": 52,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Para onde o povo de Deus desceu para viver como peregrino, em Isaías?",
+      "answer": "Para o Egito.",
+      "reference": "Is 52:4"
+    },
+    {
+      "id": "ISA.52.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 52,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Por quanto o povo de Sião será resgatado?",
+      "answer": "Sem dinheiro, pois também foi entregue de graça.",
+      "reference": "Is 52:3"
+    },
+    {
+      "id": "ISA.52.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 52,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Como ficou o aspecto do servo diante das nações, em Isaías?",
+      "answer": "Tão desfigurado que já não parecia um homem comum.",
+      "reference": "Is 52:14"
+    },
+    {
+      "id": "ISA.53.subject.1",
+      "bookNumber": 290,
+      "chapter": 53,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Por que o servo foi ferido e esmagado, em Isaías?",
+      "answer": "Pelas transgressões do povo, e pelas feridas dele houve cura.",
+      "reference": "Is 53:5"
+    },
+    {
+      "id": "ISA.53.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 53,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Como o servo se portou ao ser levado à morte, em Isaías?",
+      "answer": "Ficou calado, como ovelha muda na tosquia.",
+      "reference": "Is 53:7"
+    },
+    {
+      "id": "ISA.53.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 53,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Com quem puseram a sepultura do servo, em Isaías?",
+      "answer": "Com os perversos e com um homem rico.",
+      "reference": "Is 53:9"
+    },
+    {
+      "id": "ISA.54.subject.1",
+      "bookNumber": 290,
+      "chapter": 54,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "A que Deus compara a paz que promete a Sião?",
+      "answer": "Igual ao juramento de Noé: a terra não seria coberta de novo.",
+      "reference": "Is 54:9"
+    },
+    {
+      "id": "ISA.54.name.1",
+      "bookNumber": 290,
+      "chapter": 54,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem Deus cita ao jurar que não se irará mais com Sião?",
+      "answer": "Noé.",
+      "reference": "Is 54:9"
+    },
+    {
+      "id": "ISA.54.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 54,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "De que serão as portas da cidade oprimida, em Isaías?",
+      "answer": "De carbúnculos, e os limites, de pedras preciosas.",
+      "reference": "Is 54:12"
+    },
+    {
+      "id": "ISA.54.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 54,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que falha contra os servos de Deus, em Isaías?",
+      "answer": "Nenhuma arma feita contra eles terá sucesso.",
+      "reference": "Is 54:17"
+    },
+    {
+      "id": "ISA.55.subject.1",
+      "bookNumber": 290,
+      "chapter": 55,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que Deus oferece a quem tem sede e não tem dinheiro, em Isaías?",
+      "answer": "Água, vinho e leite, sem cobrar nada.",
+      "reference": "Is 55:1"
+    },
+    {
+      "id": "ISA.55.name.1",
+      "bookNumber": 290,
+      "chapter": 55,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "De quem são as bondades da aliança eterna, em Isaías?",
+      "answer": "De Davi.",
+      "reference": "Is 55:3"
+    },
+    {
+      "id": "ISA.55.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 55,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "O que crescerá no lugar do espinheiro e da urtiga, em Isaías?",
+      "answer": "O cipreste e a murta, como sinal eterno.",
+      "reference": "Is 55:13"
+    },
+    {
+      "id": "ISA.56.subject.1",
+      "bookNumber": 290,
+      "chapter": 56,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Como Deus quer que a casa dele seja chamada, em Isaías?",
+      "answer": "Um lugar de oração aberto a todos os povos.",
+      "reference": "Is 56:7"
+    },
+    {
+      "id": "ISA.56.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 56,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que os eunucos fiéis ao sábado ganham na casa de Deus, em Isaías?",
+      "answer": "Um nome eterno, mais valioso que filhos e filhas.",
+      "reference": "Is 56:5"
+    },
+    {
+      "id": "ISA.56.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 56,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Como Isaías descreve os vigilantes do povo?",
+      "answer": "São cegos, como cães mudos que só querem dormir.",
+      "reference": "Is 56:10"
+    },
+    {
+      "id": "ISA.57.subject.1",
+      "bookNumber": 290,
+      "chapter": 57,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Com quem habita o Deus alto, cujo nome é santo, em Isaías?",
+      "answer": "Com o espírito abatido e o coração contrito, para os reviver.",
+      "reference": "Is 57:15"
+    },
+    {
+      "id": "ISA.57.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 57,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que os idólatras sacrificavam nos vales, em Isaías?",
+      "answer": "Os próprios filhos, debaixo dos penhascos.",
+      "reference": "Is 57:5"
+    },
+    {
+      "id": "ISA.57.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 57,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "A que Deus compara os perversos que não têm paz, em Isaías?",
+      "answer": "Ao mar agitado, que não consegue sossegar.",
+      "reference": "Is 57:20"
+    },
+    {
+      "id": "ISA.58.subject.1",
+      "bookNumber": 290,
+      "chapter": 58,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Qual jejum Deus escolhe, em Isaías?",
+      "answer": "Soltar os oprimidos, desfazer as amarras e quebrar o jugo.",
+      "reference": "Is 58:6"
+    },
+    {
+      "id": "ISA.58.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 58,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que Deus pede em favor do faminto e de quem está nu, em Isaías?",
+      "answer": "Repartir o pão, acolher o pobre e cobrir o nu.",
+      "reference": "Is 58:7"
+    },
+    {
+      "id": "ISA.58.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 58,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Como se deve tratar o sábado, segundo Isaías?",
+      "answer": "Como dia agradável e santo, sem seguir a própria vontade.",
+      "reference": "Is 58:13"
+    },
+    {
+      "id": "ISA.59.subject.1",
+      "bookNumber": 290,
+      "chapter": 59,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "O que Deus fez quando viu que ninguém intercedia, em Isaías?",
+      "answer": "O próprio braço dele trouxe a salvação.",
+      "reference": "Is 59:16"
+    },
+    {
+      "id": "ISA.59.place.1",
+      "bookNumber": 290,
+      "chapter": 59,
+      "verseStart": 20,
+      "kind": "place",
+      "prompt": "Para onde virá o Redentor de quem se arrepende?",
+      "answer": "Para Sião, ao povo de Jacó que deixa a transgressão.",
+      "reference": "Is 59:20"
+    },
+    {
+      "id": "ISA.59.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 59,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Com que Deus se vestiu para agir, em Isaías?",
+      "answer": "Com a justiça como armadura e o capacete da salvação.",
+      "reference": "Is 59:17"
+    },
+    {
+      "id": "ISA.60.subject.1",
+      "bookNumber": 290,
+      "chapter": 60,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Quem virá quando a luz raiar sobre Sião?",
+      "answer": "As nações e os reis, atraídos por essa claridade.",
+      "reference": "Is 60:3"
+    },
+    {
+      "id": "ISA.60.place.1",
+      "bookNumber": 290,
+      "chapter": 60,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Que navios trarão de longe os filhos de Sião?",
+      "answer": "Os navios de Társis, com prata e ouro.",
+      "reference": "Is 60:9"
+    },
+    {
+      "id": "ISA.60.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 60,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Quando as portas de Sião ficarão fechadas?",
+      "answer": "Nunca: permanecem abertas dia e noite.",
+      "reference": "Is 60:11"
+    },
+    {
+      "id": "ISA.60.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 60,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que iluminará Sião no lugar do sol e da lua?",
+      "answer": "O próprio Deus, como luz que não se apaga.",
+      "reference": "Is 60:19"
+    },
+    {
+      "id": "ISA.61.subject.1",
+      "bookNumber": 290,
+      "chapter": 61,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Para que Deus ungiu o mensageiro, em Isaías?",
+      "answer": "Para levar boa notícia aos mansos e liberdade aos presos.",
+      "reference": "Is 61:1"
+    },
+    {
+      "id": "ISA.61.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 61,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Que tempo o ungido veio anunciar, em Isaías?",
+      "answer": "Um ano de bondade de Deus e o dia em que ele vinga.",
+      "reference": "Is 61:2"
+    },
+    {
+      "id": "ISA.61.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 61,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que os tristes de Sião recebem no lugar da cinza?",
+      "answer": "Enfeite, óleo de alegria e roupa de louvor.",
+      "reference": "Is 61:3"
+    },
+    {
+      "id": "ISA.62.subject.1",
+      "bookNumber": 290,
+      "chapter": 62,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Até quando Deus diz que não ficará calado por Sião?",
+      "answer": "Até a justiça brilhar e a salvação arder como tocha.",
+      "reference": "Is 62:1"
+    },
+    {
+      "id": "ISA.62.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 62,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Como Sião e a terra dela passarão a ser chamadas?",
+      "answer": "Nela está meu prazer, e a terra, A casada.",
+      "reference": "Is 62:4"
+    },
+    {
+      "id": "ISA.62.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 62,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que os guardas dos muros de Jerusalém não farão?",
+      "answer": "Não se calarão, nem de dia nem de noite.",
+      "reference": "Is 62:6"
+    },
+    {
+      "id": "ISA.63.subject.1",
+      "bookNumber": 290,
+      "chapter": 63,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Como foi pisada a prensa no dia da vingança, em Isaías?",
+      "answer": "Sozinho, e o sangue dos povos manchou a roupa dele.",
+      "reference": "Is 63:3"
+    },
+    {
+      "id": "ISA.63.name.1",
+      "bookNumber": 290,
+      "chapter": 63,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem o povo chama de Pai, já que Abraão não o conhece?",
+      "answer": "Deus, o Redentor desde os tempos antigos.",
+      "reference": "Is 63:16"
+    },
+    {
+      "id": "ISA.63.place.1",
+      "bookNumber": 290,
+      "chapter": 63,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "De onde vem o guerreiro de roupa vermelha, em Isaías?",
+      "answer": "De Edom e de Bozra.",
+      "reference": "Is 63:1"
+    },
+    {
+      "id": "ISA.63.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 63,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Quem salvou Israel nas angústias antigas, segundo Isaías?",
+      "answer": "O anjo da presença de Deus.",
+      "reference": "Is 63:9"
+    },
+    {
+      "id": "ISA.64.subject.1",
+      "bookNumber": 290,
+      "chapter": 64,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que o povo pede que Deus faça com os céus, em Isaías?",
+      "answer": "Que os abra e desça, até os montes tremerem.",
+      "reference": "Is 64:1"
+    },
+    {
+      "id": "ISA.64.place.1",
+      "bookNumber": 290,
+      "chapter": 64,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "O que o fogo fez com a casa em que os pais adoravam, em Isaías?",
+      "answer": "Queimou a casa santa, e o que era precioso virou ruína.",
+      "reference": "Is 64:11"
+    },
+    {
+      "id": "ISA.64.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 64,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "A que o povo compara as próprias justiças, em Isaías?",
+      "answer": "A roupa contaminada, e a si mesmo a uma folha que cai.",
+      "reference": "Is 64:6"
+    },
+    {
+      "id": "ISA.64.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 64,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Como o povo se descreve ao chamar Deus de Pai, em Isaías?",
+      "answer": "Eles são o barro, e Deus é o oleiro.",
+      "reference": "Is 64:8"
+    },
+    {
+      "id": "ISA.65.subject.1",
+      "bookNumber": 290,
+      "chapter": 65,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "O que Deus diz que vai criar, em Isaías?",
+      "answer": "Céus novos e uma terra nova, sem memória do passado.",
+      "reference": "Is 65:17"
+    },
+    {
+      "id": "ISA.65.place.1",
+      "bookNumber": 290,
+      "chapter": 65,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "Onde o rebanho do povo de Deus vai pastar e descansar, em Isaías?",
+      "answer": "Em Sarom, as ovelhas, e no vale de Acor, o gado.",
+      "reference": "Is 65:10"
+    },
+    {
+      "id": "ISA.65.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 65,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Com quantos anos morre quem ainda é jovem, em Isaías?",
+      "answer": "Aos cem anos.",
+      "reference": "Is 65:20"
+    },
+    {
+      "id": "ISA.65.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 65,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "O que o lobo e o cordeiro farão na nova terra, em Isaías?",
+      "answer": "Vão comer juntos, e o leão come palha como o boi.",
+      "reference": "Is 65:25"
+    },
+    {
+      "id": "ISA.66.subject.1",
+      "bookNumber": 290,
+      "chapter": 66,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Como Deus promete consolar o povo em Jerusalém?",
+      "answer": "Como uma mãe que acalma o próprio filho.",
+      "reference": "Is 66:13"
+    },
+    {
+      "id": "ISA.66.place.1",
+      "bookNumber": 290,
+      "chapter": 66,
+      "verseStart": 20,
+      "kind": "place",
+      "prompt": "Para onde as nações levarão os irmãos de Israel?",
+      "answer": "Ao monte santo, em Jerusalém, como oferta a Deus.",
+      "reference": "Is 66:20"
+    },
+    {
+      "id": "ISA.66.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 66,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo Sião levou para ter os filhos?",
+      "answer": "Eles nasceram assim que o parto começou.",
+      "reference": "Is 66:8"
+    },
+    {
+      "id": "ISA.66.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 66,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "O que não acaba nos mortos que se rebelaram contra Deus, em Isaías?",
+      "answer": "O verme segue vivo, e a chama deles não se apaga.",
+      "reference": "Is 66:24"
+    },
+    {
+      "id": "ISA.0.curiosity.1",
+      "bookNumber": 290,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Isaías?",
+      "answer": "Isaías.",
+      "reference": "Isaías"
+    },
+    {
+      "id": "ISA.0.curiosity.2",
+      "bookNumber": 290,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Isaías?",
+      "answer": "No século VIII antes de Cristo.",
+      "reference": "Isaías"
+    }
+  ]
+}

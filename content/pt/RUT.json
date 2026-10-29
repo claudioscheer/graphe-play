@@ -1,0 +1,184 @@
+{
+  "cards": [
+    {
+      "id": "RUT.1.subject.1",
+      "bookNumber": 80,
+      "chapter": 1,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "O que Rute prometeu a Noemi?",
+      "answer": "Ir com ela, e ter o mesmo povo e o mesmo Deus.",
+      "reference": "Rt 1:16"
+    },
+    {
+      "id": "RUT.1.name.1",
+      "bookNumber": 80,
+      "chapter": 1,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem beijou Noemi e não seguiu viagem com ela?",
+      "answer": "Orfa.",
+      "reference": "Rt 1:14"
+    },
+    {
+      "id": "RUT.1.place.1",
+      "bookNumber": 80,
+      "chapter": 1,
+      "verseStart": 22,
+      "kind": "place",
+      "prompt": "Para onde Noemi e Rute chegaram, vindas de Moabe?",
+      "answer": "Para Belém, no começo da colheita de cevada.",
+      "reference": "Rt 1:22"
+    },
+    {
+      "id": "RUT.1.curiosity.1",
+      "bookNumber": 80,
+      "chapter": 1,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Como Noemi pediu para ser chamada em Belém?",
+      "answer": "Mara, porque a vida dela tinha amargado.",
+      "reference": "Rt 1:20"
+    },
+    {
+      "id": "RUT.2.subject.1",
+      "bookNumber": 80,
+      "chapter": 2,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que Boaz pediu que Rute não fizesse?",
+      "answer": "Que não fosse colher espigas em outro campo.",
+      "reference": "Rt 2:8"
+    },
+    {
+      "id": "RUT.2.name.1",
+      "bookNumber": 80,
+      "chapter": 2,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem era o parente rico da família de Elimeleque?",
+      "answer": "Boaz.",
+      "reference": "Rt 2:1"
+    },
+    {
+      "id": "RUT.2.place.1",
+      "bookNumber": 80,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "De que cidade Boaz chegou ao campo?",
+      "answer": "De Belém.",
+      "reference": "Rt 2:4"
+    },
+    {
+      "id": "RUT.2.curiosity.1",
+      "bookNumber": 80,
+      "chapter": 2,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Quanta cevada Rute juntou no dia em que achou Boaz?",
+      "answer": "Cerca de um efa.",
+      "reference": "Rt 2:17"
+    },
+    {
+      "id": "RUT.3.subject.1",
+      "bookNumber": 80,
+      "chapter": 3,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que Rute pediu a Boaz, parente da família?",
+      "answer": "Que a cobrisse com a capa, por ser parente próximo.",
+      "reference": "Rt 3:9"
+    },
+    {
+      "id": "RUT.3.name.1",
+      "bookNumber": 80,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem buscava um futuro seguro para Rute?",
+      "answer": "Noemi, a sogra dela.",
+      "reference": "Rt 3:1"
+    },
+    {
+      "id": "RUT.3.place.1",
+      "bookNumber": 80,
+      "chapter": 3,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Para onde Rute desceu a fim de falar com Boaz?",
+      "answer": "Para o terreiro da colheita.",
+      "reference": "Rt 3:6"
+    },
+    {
+      "id": "RUT.3.curiosity.1",
+      "bookNumber": 80,
+      "chapter": 3,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quantas medidas de cevada Boaz entregou a Rute?",
+      "answer": "Seis.",
+      "reference": "Rt 3:15"
+    },
+    {
+      "id": "RUT.4.subject.1",
+      "bookNumber": 80,
+      "chapter": 4,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "Quem é o filho nascido para Noemi, antepassado de Davi?",
+      "answer": "Obede.",
+      "reference": "Rt 4:17"
+    },
+    {
+      "id": "RUT.4.name.1",
+      "bookNumber": 80,
+      "chapter": 4,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "Quem se casou com Rute?",
+      "answer": "Boaz.",
+      "reference": "Rt 4:13"
+    },
+    {
+      "id": "RUT.4.place.1",
+      "bookNumber": 80,
+      "chapter": 4,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Boaz tratou do resgate com o outro parente?",
+      "answer": "Na porta da cidade.",
+      "reference": "Rt 4:1"
+    },
+    {
+      "id": "RUT.4.curiosity.1",
+      "bookNumber": 80,
+      "chapter": 4,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que o parente tirou ao ceder o direito a Boaz?",
+      "answer": "O sapato.",
+      "reference": "Rt 4:8"
+    },
+    {
+      "id": "RUT.0.curiosity.1",
+      "bookNumber": 80,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Rute?",
+      "answer": "O livro não diz o autor.",
+      "reference": "Rute"
+    },
+    {
+      "id": "RUT.0.curiosity.2",
+      "bookNumber": 80,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Rute?",
+      "answer": "Depois do tempo dos juízes. A história chega até Davi.",
+      "reference": "Rute"
+    }
+  ]
+}

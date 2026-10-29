@@ -1,0 +1,935 @@
+{
+  "cards": [
+    {
+      "id": "JOS.1.subject.1",
+      "bookNumber": 60,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Deus mandou Josué fazer depois da morte de Moisés?",
+      "answer": "Passar o Jordão com todo o povo, para a terra que Deus lhes dava.",
+      "reference": "Js 1:2"
+    },
+    {
+      "id": "JOS.1.name.1",
+      "bookNumber": 60,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "A quem Deus falou depois que Moisés morreu?",
+      "answer": "Josué, filho de Num.",
+      "reference": "Js 1:1"
+    },
+    {
+      "id": "JOS.1.place.1",
+      "bookNumber": 60,
+      "chapter": 1,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Até qual grande rio ia a terra que Deus dava a Israel?",
+      "answer": "Até o Eufrates.",
+      "reference": "Js 1:4"
+    },
+    {
+      "id": "JOS.1.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 1,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Em quantos dias o povo deveria atravessar o Jordão?",
+      "answer": "Em três dias.",
+      "reference": "Js 1:11"
+    },
+    {
+      "id": "JOS.2.subject.1",
+      "bookNumber": 60,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que Raabe fez com os espias que o rei procurava?",
+      "answer": "Escondeu os dois e negou saber de onde vinham.",
+      "reference": "Js 2:4"
+    },
+    {
+      "id": "JOS.2.name.1",
+      "bookNumber": 60,
+      "chapter": 2,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem hospedou os espias de Israel em Jericó?",
+      "answer": "Raabe.",
+      "reference": "Js 2:1"
+    },
+    {
+      "id": "JOS.2.place.1",
+      "bookNumber": 60,
+      "chapter": 2,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "Onde ficava a casa de Raabe?",
+      "answer": "No muro da cidade.",
+      "reference": "Js 2:15"
+    },
+    {
+      "id": "JOS.2.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 2,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "O que Raabe deveria amarrar na janela?",
+      "answer": "Um cordão vermelho.",
+      "reference": "Js 2:18"
+    },
+    {
+      "id": "JOS.3.subject.1",
+      "bookNumber": 60,
+      "chapter": 3,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "Como o povo de Israel passou pelo Jordão?",
+      "answer": "Todo o povo passou em chão seco.",
+      "reference": "Js 3:17"
+    },
+    {
+      "id": "JOS.3.name.1",
+      "bookNumber": 60,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem saiu de Sitim com Israel em direção ao Jordão?",
+      "answer": "Josué.",
+      "reference": "Js 3:1"
+    },
+    {
+      "id": "JOS.3.place.1",
+      "bookNumber": 60,
+      "chapter": 3,
+      "verseStart": 16,
+      "kind": "place",
+      "prompt": "Diante de qual cidade o povo atravessou o rio, em Josué?",
+      "answer": "Diante de Jericó.",
+      "reference": "Js 3:16"
+    },
+    {
+      "id": "JOS.3.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 3,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Quantos homens foram escolhidos, um de cada tribo, em Josué?",
+      "answer": "Doze.",
+      "reference": "Js 3:12"
+    },
+    {
+      "id": "JOS.4.subject.1",
+      "bookNumber": 60,
+      "chapter": 4,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "O que Josué levantou em Gilgal?",
+      "answer": "As doze pedras trazidas do Jordão.",
+      "reference": "Js 4:20"
+    },
+    {
+      "id": "JOS.4.place.1",
+      "bookNumber": 60,
+      "chapter": 4,
+      "verseStart": 19,
+      "kind": "place",
+      "prompt": "Onde Israel acampou depois de atravessar o Jordão?",
+      "answer": "Em Gilgal, a leste de Jericó.",
+      "reference": "Js 4:19"
+    },
+    {
+      "id": "JOS.4.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 4,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Por que Israel guardaria as pedras do Jordão?",
+      "answer": "Como memorial da passagem da arca pelo Jordão.",
+      "reference": "Js 4:7"
+    },
+    {
+      "id": "JOS.4.curiosity.2",
+      "bookNumber": 60,
+      "chapter": 4,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Quantos guerreiros armados passaram à frente ao cruzar o Jordão?",
+      "answer": "Cerca de quarenta mil.",
+      "reference": "Js 4:13"
+    },
+    {
+      "id": "JOS.5.subject.1",
+      "bookNumber": 60,
+      "chapter": 5,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Por que Josué circuncidou a geração nova?",
+      "answer": "Porque ainda não tinham sido circuncidados no caminho.",
+      "reference": "Js 5:7"
+    },
+    {
+      "id": "JOS.5.name.1",
+      "bookNumber": 60,
+      "chapter": 5,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem se apresentou a Josué como chefe do exército de Deus?",
+      "answer": "O príncipe do exército de Deus.",
+      "reference": "Js 5:14"
+    },
+    {
+      "id": "JOS.5.place.1",
+      "bookNumber": 60,
+      "chapter": 5,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Que nome recebeu o lugar onde a vergonha do Egito foi tirada?",
+      "answer": "Gilgal.",
+      "reference": "Js 5:9"
+    },
+    {
+      "id": "JOS.5.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 5,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que deixou de vir quando Israel comeu o fruto da terra?",
+      "answer": "O maná.",
+      "reference": "Js 5:12"
+    },
+    {
+      "id": "JOS.6.subject.1",
+      "bookNumber": 60,
+      "chapter": 6,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "O que aconteceu quando o povo gritou em Jericó?",
+      "answer": "O muro caiu e a cidade foi tomada.",
+      "reference": "Js 6:20"
+    },
+    {
+      "id": "JOS.6.name.1",
+      "bookNumber": 60,
+      "chapter": 6,
+      "verseStart": 25,
+      "kind": "name",
+      "prompt": "Quem Josué deixou viver em Jericó?",
+      "answer": "Raabe e a família do pai dela.",
+      "reference": "Js 6:25"
+    },
+    {
+      "id": "JOS.6.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 6,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quantas vezes rodearam Jericó no sétimo dia?",
+      "answer": "Sete vezes.",
+      "reference": "Js 6:15"
+    },
+    {
+      "id": "JOS.6.curiosity.2",
+      "bookNumber": 60,
+      "chapter": 6,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "O que Josué declarou sobre quem reconstruísse Jericó?",
+      "answer": "Que seria maldito, perdendo o filho mais velho e o mais novo.",
+      "reference": "Js 6:26"
+    },
+    {
+      "id": "JOS.7.subject.1",
+      "bookNumber": 60,
+      "chapter": 7,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que aconteceu na primeira batalha de Israel contra Ai?",
+      "answer": "Cerca de trinta e seis foram feridos, e o povo desanimou.",
+      "reference": "Js 7:5"
+    },
+    {
+      "id": "JOS.7.name.1",
+      "bookNumber": 60,
+      "chapter": 7,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Quem foi apontado por sorte na tribo de Judá?",
+      "answer": "Acã, filho de Carmi.",
+      "reference": "Js 7:18"
+    },
+    {
+      "id": "JOS.7.place.1",
+      "bookNumber": 60,
+      "chapter": 7,
+      "verseStart": 26,
+      "kind": "place",
+      "prompt": "Qual nome ficou no lugar onde Acã foi punido?",
+      "answer": "Vale de Acor.",
+      "reference": "Js 7:26"
+    },
+    {
+      "id": "JOS.7.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 7,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "O que Acã confessou ter pegado e escondido?",
+      "answer": "Um manto da Babilônia, além de prata e de ouro.",
+      "reference": "Js 7:21"
+    },
+    {
+      "id": "JOS.8.subject.1",
+      "bookNumber": 60,
+      "chapter": 8,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "O que os homens da emboscada fizeram em Ai?",
+      "answer": "Tomaram a cidade e lhe puseram fogo.",
+      "reference": "Js 8:19"
+    },
+    {
+      "id": "JOS.8.place.1",
+      "bookNumber": 60,
+      "chapter": 8,
+      "verseStart": 30,
+      "kind": "place",
+      "prompt": "Em que monte Josué edificou um altar?",
+      "answer": "No monte Ebal.",
+      "reference": "Js 8:30"
+    },
+    {
+      "id": "JOS.8.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 8,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "Quantos moradores de Ai caíram quando Josué tomou a cidade?",
+      "answer": "Doze mil.",
+      "reference": "Js 8:25"
+    },
+    {
+      "id": "JOS.9.subject.1",
+      "bookNumber": 60,
+      "chapter": 9,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "O que Josué concordou com os homens de Gibeão?",
+      "answer": "Fez as pazes e garantiu que eles viveriam.",
+      "reference": "Js 9:15"
+    },
+    {
+      "id": "JOS.9.place.1",
+      "bookNumber": 60,
+      "chapter": 9,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Onde os gibeonitas encontraram Josué?",
+      "answer": "No acampamento de Gilgal.",
+      "reference": "Js 9:6"
+    },
+    {
+      "id": "JOS.9.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 9,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "Qual trabalho Josué impôs aos gibeonitas?",
+      "answer": "Cortar lenha e carregar água para o altar.",
+      "reference": "Js 9:27"
+    },
+    {
+      "id": "JOS.10.subject.1",
+      "bookNumber": 60,
+      "chapter": 10,
+      "verseStart": 12,
+      "verseEnd": 13,
+      "kind": "subject",
+      "prompt": "O que Josué pediu ao sol na batalha de Gibeão?",
+      "answer": "Que parasse, e o sol quase não se pôs o dia todo.",
+      "reference": "Js 10:12-13"
+    },
+    {
+      "id": "JOS.10.name.1",
+      "bookNumber": 60,
+      "chapter": 10,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Quem chamou outros reis para atacar Gibeão?",
+      "answer": "Adoni-Zedeque, rei de Jerusalém.",
+      "reference": "Js 10:3"
+    },
+    {
+      "id": "JOS.10.place.1",
+      "bookNumber": 60,
+      "chapter": 10,
+      "verseStart": 16,
+      "kind": "place",
+      "prompt": "Onde os cinco reis foram se esconder de Josué?",
+      "answer": "Numa cova em Maquedá.",
+      "reference": "Js 10:16"
+    },
+    {
+      "id": "JOS.10.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 10,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que matou mais fugitivos do que a espada, perto de Bete-Horom?",
+      "answer": "As pedras de granizo que caíram do céu.",
+      "reference": "Js 10:11"
+    },
+    {
+      "id": "JOS.11.subject.1",
+      "bookNumber": 60,
+      "chapter": 11,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que aconteceu com a cidade de Hazor?",
+      "answer": "Os moradores foram mortos e a cidade foi queimada.",
+      "reference": "Js 11:11"
+    },
+    {
+      "id": "JOS.11.name.1",
+      "bookNumber": 60,
+      "chapter": 11,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem era o rei de Hazor que mandou chamar os outros?",
+      "answer": "Jabim.",
+      "reference": "Js 11:1"
+    },
+    {
+      "id": "JOS.11.place.1",
+      "bookNumber": 60,
+      "chapter": 11,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Onde os reis acamparam para lutar contra Israel?",
+      "answer": "Nas águas de Merom.",
+      "reference": "Js 11:5"
+    },
+    {
+      "id": "JOS.11.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 11,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "O que Josué fez aos cavalos e aos carros inimigos?",
+      "answer": "Aleijou os cavalos e queimou os carros.",
+      "reference": "Js 11:9"
+    },
+    {
+      "id": "JOS.12.subject.1",
+      "bookNumber": 60,
+      "chapter": 12,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "De quem é a lista dos reis vencidos a oeste do Jordão?",
+      "answer": "Dos reis que Josué derrotou com Israel.",
+      "reference": "Js 12:7"
+    },
+    {
+      "id": "JOS.12.name.1",
+      "bookNumber": 60,
+      "chapter": 12,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem reinava em Hesbom sobre os amorreus?",
+      "answer": "Seom.",
+      "reference": "Js 12:2"
+    },
+    {
+      "id": "JOS.12.place.1",
+      "bookNumber": 60,
+      "chapter": 12,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "De onde até onde ia a terra dos reis do leste, em Josué?",
+      "answer": "Do ribeiro de Arnom ao monte Hermom.",
+      "reference": "Js 12:1"
+    },
+    {
+      "id": "JOS.12.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 12,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Quantos reis derrotados a lista de Josué soma no fim?",
+      "answer": "Trinta e um.",
+      "reference": "Js 12:24"
+    },
+    {
+      "id": "JOS.13.subject.1",
+      "bookNumber": 60,
+      "chapter": 13,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que ainda restava quando Josué já era velho?",
+      "answer": "Muita terra para possuir.",
+      "reference": "Js 13:1"
+    },
+    {
+      "id": "JOS.13.name.1",
+      "bookNumber": 60,
+      "chapter": 13,
+      "verseStart": 22,
+      "kind": "name",
+      "prompt": "Qual adivinho Israel matou à espada?",
+      "answer": "Balaão, filho de Beor.",
+      "reference": "Js 13:22"
+    },
+    {
+      "id": "JOS.13.place.1",
+      "bookNumber": 60,
+      "chapter": 13,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Em que lado do Jordão Moisés tinha dado herança?",
+      "answer": "No lado leste.",
+      "reference": "Js 13:8"
+    },
+    {
+      "id": "JOS.13.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 13,
+      "verseStart": 33,
+      "kind": "curiosity",
+      "prompt": "Qual era a herança da tribo de Levi?",
+      "answer": "O próprio Deus de Israel, e não um território.",
+      "reference": "Js 13:33"
+    },
+    {
+      "id": "JOS.14.subject.1",
+      "bookNumber": 60,
+      "chapter": 14,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Por que Calebe ficou com Hebrom?",
+      "answer": "Porque seguiu a Deus de Israel com fidelidade.",
+      "reference": "Js 14:14"
+    },
+    {
+      "id": "JOS.14.name.1",
+      "bookNumber": 60,
+      "chapter": 14,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem lembrou Josué da promessa feita em Cades-Barneia?",
+      "answer": "Calebe, filho de Jefoné.",
+      "reference": "Js 14:6"
+    },
+    {
+      "id": "JOS.14.place.1",
+      "bookNumber": 60,
+      "chapter": 14,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "Como Hebrom se chamava antes?",
+      "answer": "Quiriate-Arba.",
+      "reference": "Js 14:15"
+    },
+    {
+      "id": "JOS.14.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 14,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Que idade Calebe disse ter ao pedir Hebrom?",
+      "answer": "Oitenta e cinco anos.",
+      "reference": "Js 14:10"
+    },
+    {
+      "id": "JOS.15.subject.1",
+      "bookNumber": 60,
+      "chapter": 15,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "A qual tribo coube a terra do sul, na divisa de Edom?",
+      "answer": "À tribo de Judá.",
+      "reference": "Js 15:1"
+    },
+    {
+      "id": "JOS.15.name.1",
+      "bookNumber": 60,
+      "chapter": 15,
+      "verseStart": 17,
+      "kind": "name",
+      "prompt": "Quem casou com Acsa, filha de Calebe?",
+      "answer": "Otniel, filho de Quenaz.",
+      "reference": "Js 15:17"
+    },
+    {
+      "id": "JOS.15.place.1",
+      "bookNumber": 60,
+      "chapter": 15,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Qual era o limite oeste da terra de Judá?",
+      "answer": "O mar Grande.",
+      "reference": "Js 15:12"
+    },
+    {
+      "id": "JOS.15.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 15,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que Acsa pediu ao pai além da terra seca?",
+      "answer": "Fontes de água, em cima e embaixo.",
+      "reference": "Js 15:19"
+    },
+    {
+      "id": "JOS.16.subject.1",
+      "bookNumber": 60,
+      "chapter": 16,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "De quem é a herança de Efraim e de Manassés?",
+      "answer": "Dos filhos de José.",
+      "reference": "Js 16:4"
+    },
+    {
+      "id": "JOS.16.place.1",
+      "bookNumber": 60,
+      "chapter": 16,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "Que cidade cananeia permaneceu no meio de Efraim?",
+      "answer": "Gezer.",
+      "reference": "Js 16:10"
+    },
+    {
+      "id": "JOS.16.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 16,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que os cananeus de Gezer passaram a ser?",
+      "answer": "Tributários.",
+      "reference": "Js 16:10"
+    },
+    {
+      "id": "JOS.17.subject.1",
+      "bookNumber": 60,
+      "chapter": 17,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que as filhas de Zelofeade conseguiram?",
+      "answer": "Uma parte na herança da família do pai.",
+      "reference": "Js 17:4"
+    },
+    {
+      "id": "JOS.17.name.1",
+      "bookNumber": 60,
+      "chapter": 17,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Quem teve filhas e nenhum filho homem, em Josué?",
+      "answer": "Zelofeade.",
+      "reference": "Js 17:3"
+    },
+    {
+      "id": "JOS.17.place.1",
+      "bookNumber": 60,
+      "chapter": 17,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Maquir, filho de Manassés, recebeu terra?",
+      "answer": "Em Gileade e em Basã.",
+      "reference": "Js 17:1"
+    },
+    {
+      "id": "JOS.17.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 17,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que a casa de José disse que havia no vale?",
+      "answer": "Carros de ferro dos cananeus.",
+      "reference": "Js 17:16"
+    },
+    {
+      "id": "JOS.18.subject.1",
+      "bookNumber": 60,
+      "chapter": 18,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "Como a terra que ainda faltava foi repartida em Siló?",
+      "answer": "Josué lançou sortes diante de Deus.",
+      "reference": "Js 18:10"
+    },
+    {
+      "id": "JOS.18.place.1",
+      "bookNumber": 60,
+      "chapter": 18,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde a congregação armou o tabernáculo em Canaã?",
+      "answer": "Em Siló.",
+      "reference": "Js 18:1"
+    },
+    {
+      "id": "JOS.18.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 18,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quantas tribos ainda não tinham recebido terra, em Josué?",
+      "answer": "Sete.",
+      "reference": "Js 18:2"
+    },
+    {
+      "id": "JOS.18.curiosity.2",
+      "bookNumber": 60,
+      "chapter": 18,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Qual tribo recebeu a faixa de terra entre Judá e José?",
+      "answer": "Benjamim.",
+      "reference": "Js 18:11"
+    },
+    {
+      "id": "JOS.19.subject.1",
+      "bookNumber": 60,
+      "chapter": 19,
+      "verseStart": 51,
+      "kind": "subject",
+      "prompt": "O que Eleazar e Josué concluíram em Siló?",
+      "answer": "A divisão da terra entre as tribos.",
+      "reference": "Js 19:51"
+    },
+    {
+      "id": "JOS.19.name.1",
+      "bookNumber": 60,
+      "chapter": 19,
+      "verseStart": 49,
+      "kind": "name",
+      "prompt": "Quem recebeu herança depois que as tribos já tinham a delas, em Josué?",
+      "answer": "Josué, filho de Num.",
+      "reference": "Js 19:49"
+    },
+    {
+      "id": "JOS.19.place.1",
+      "bookNumber": 60,
+      "chapter": 19,
+      "verseStart": 47,
+      "kind": "place",
+      "prompt": "Que nome a tribo de Dã deu à cidade de Lesém?",
+      "answer": "Dã, o nome do pai da tribo.",
+      "reference": "Js 19:47"
+    },
+    {
+      "id": "JOS.19.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 19,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Por que a parte de Simeão saiu de dentro de Judá?",
+      "answer": "Porque a porção de Judá era grande demais.",
+      "reference": "Js 19:9"
+    },
+    {
+      "id": "JOS.20.subject.1",
+      "bookNumber": 60,
+      "chapter": 20,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Para quem eram as cidades de refúgio, em Josué?",
+      "answer": "Para quem matasse alguém sem querer.",
+      "reference": "Js 20:3"
+    },
+    {
+      "id": "JOS.20.place.1",
+      "bookNumber": 60,
+      "chapter": 20,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Que cidades de refúgio ficavam em Naftali, Efraim e Judá?",
+      "answer": "Quedes, Siquém e Hebrom.",
+      "reference": "Js 20:7"
+    },
+    {
+      "id": "JOS.20.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 20,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quando o homicida podia voltar para casa, em Josué?",
+      "answer": "Depois que morresse o sumo sacerdote.",
+      "reference": "Js 20:6"
+    },
+    {
+      "id": "JOS.21.subject.1",
+      "bookNumber": 60,
+      "chapter": 21,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que as tribos entregaram aos levitas, em Josué?",
+      "answer": "Cidades para morar, com campos em volta.",
+      "reference": "Js 21:3"
+    },
+    {
+      "id": "JOS.21.place.1",
+      "bookNumber": 60,
+      "chapter": 21,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde os levitas pediram vilas para habitar, em Josué?",
+      "answer": "Em Siló.",
+      "reference": "Js 21:2"
+    },
+    {
+      "id": "JOS.21.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 21,
+      "verseStart": 41,
+      "kind": "curiosity",
+      "prompt": "Quantas cidades os levitas receberam no total, em Josué?",
+      "answer": "Quarenta e oito.",
+      "reference": "Js 21:41"
+    },
+    {
+      "id": "JOS.21.curiosity.2",
+      "bookNumber": 60,
+      "chapter": 21,
+      "verseStart": 45,
+      "kind": "curiosity",
+      "prompt": "O que falhou das boas promessas de Deus a Israel?",
+      "answer": "Nada: todas se cumpriram.",
+      "reference": "Js 21:45"
+    },
+    {
+      "id": "JOS.22.subject.1",
+      "bookNumber": 60,
+      "chapter": 22,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que Rúben, Gade e meia tribo de Manassés edificaram junto ao Jordão?",
+      "answer": "Um altar bem visível.",
+      "reference": "Js 22:10"
+    },
+    {
+      "id": "JOS.22.name.1",
+      "bookNumber": 60,
+      "chapter": 22,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "Quem liderou a delegação enviada a Gileade?",
+      "answer": "Fineias, filho do sacerdote Eleazar.",
+      "reference": "Js 22:13"
+    },
+    {
+      "id": "JOS.22.place.1",
+      "bookNumber": 60,
+      "chapter": 22,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "De onde Rúben e Gade partiram ao voltar para casa?",
+      "answer": "De Siló, em Canaã.",
+      "reference": "Js 22:9"
+    },
+    {
+      "id": "JOS.22.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 22,
+      "verseStart": 34,
+      "kind": "curiosity",
+      "prompt": "Por que o altar do Jordão se chamou Ede?",
+      "answer": "Porque era um testemunho entre as tribos.",
+      "reference": "Js 22:34"
+    },
+    {
+      "id": "JOS.23.subject.1",
+      "bookNumber": 60,
+      "chapter": 23,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Josué mandou Israel cumprir com todo o cuidado?",
+      "answer": "A lei de Moisés, sem desviar para nenhum lado.",
+      "reference": "Js 23:6"
+    },
+    {
+      "id": "JOS.23.place.1",
+      "bookNumber": 60,
+      "chapter": 23,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "De onde até onde ia a herança que Josué repartiu?",
+      "answer": "Do Jordão até o mar Grande.",
+      "reference": "Js 23:4"
+    },
+    {
+      "id": "JOS.23.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 23,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Quantos inimigos um só homem de Israel perseguiria?",
+      "answer": "Mil.",
+      "reference": "Js 23:10"
+    },
+    {
+      "id": "JOS.24.subject.1",
+      "bookNumber": 60,
+      "chapter": 24,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Que escolha Josué anunciou para a própria casa?",
+      "answer": "Ele e a casa dele serviriam a Deus.",
+      "reference": "Js 24:15"
+    },
+    {
+      "id": "JOS.24.name.1",
+      "bookNumber": 60,
+      "chapter": 24,
+      "verseStart": 32,
+      "kind": "name",
+      "prompt": "De quem eram os ossos enterrados em Siquém?",
+      "answer": "De José.",
+      "reference": "Js 24:32"
+    },
+    {
+      "id": "JOS.24.place.1",
+      "bookNumber": 60,
+      "chapter": 24,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Josué reuniu todas as tribos de Israel?",
+      "answer": "Em Siquém.",
+      "reference": "Js 24:1"
+    },
+    {
+      "id": "JOS.24.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 24,
+      "verseStart": 29,
+      "kind": "curiosity",
+      "prompt": "Quantos anos Josué tinha quando morreu?",
+      "answer": "Cento e dez anos.",
+      "reference": "Js 24:29"
+    },
+    {
+      "id": "JOS.0.curiosity.1",
+      "bookNumber": 60,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Josué?",
+      "answer": "Josué.",
+      "reference": "Josué"
+    },
+    {
+      "id": "JOS.0.curiosity.2",
+      "bookNumber": 60,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Josué?",
+      "answer": "Depois da conquista, ainda no século XV antes de Cristo.",
+      "reference": "Josué"
+    }
+  ]
+}

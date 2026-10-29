@@ -1,0 +1,986 @@
+{
+  "cards": [
+    {
+      "id": "1CH.1.subject.1",
+      "bookNumber": 130,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "De quem é a primeira genealogia de 1 Crônicas?",
+      "answer": "Da linhagem que começa em Adão.",
+      "reference": "1Cr 1:1"
+    },
+    {
+      "id": "1CH.1.name.1",
+      "bookNumber": 130,
+      "chapter": 1,
+      "verseStart": 27,
+      "kind": "name",
+      "prompt": "Que outro nome Abrão recebeu?",
+      "answer": "Abraão.",
+      "reference": "1Cr 1:27"
+    },
+    {
+      "id": "1CH.1.place.1",
+      "bookNumber": 130,
+      "chapter": 1,
+      "verseStart": 43,
+      "kind": "place",
+      "prompt": "Onde houve reis antes de Israel ter um rei?",
+      "answer": "Na terra de Edom.",
+      "reference": "1Cr 1:43"
+    },
+    {
+      "id": "1CH.1.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 1,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Quem, filho de Cuxe, se tornou forte na terra?",
+      "answer": "Ninrode.",
+      "reference": "1Cr 1:10"
+    },
+    {
+      "id": "1CH.2.subject.1",
+      "bookNumber": 130,
+      "chapter": 2,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "De quem são os filhos Rúben, Simeão, Levi e Judá?",
+      "answer": "De Israel.",
+      "reference": "1Cr 2:1"
+    },
+    {
+      "id": "1CH.2.name.1",
+      "bookNumber": 130,
+      "chapter": 2,
+      "verseStart": 13,
+      "verseEnd": 15,
+      "kind": "name",
+      "prompt": "Quem foi o sétimo filho de Jessé?",
+      "answer": "Davi.",
+      "reference": "1Cr 2:13-15"
+    },
+    {
+      "id": "1CH.2.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 2,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Quem, filho de Carmi, atrapalhou Israel?",
+      "answer": "Acar.",
+      "reference": "1Cr 2:7"
+    },
+    {
+      "id": "1CH.3.subject.1",
+      "bookNumber": 130,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "De quem são Amnom e Daniel, nascidos em Hebrom?",
+      "answer": "De Davi.",
+      "reference": "1Cr 3:1"
+    },
+    {
+      "id": "1CH.3.name.1",
+      "bookNumber": 130,
+      "chapter": 3,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Quem nasceu de Bate-Sua em Jerusalém, com Natã?",
+      "answer": "Salomão.",
+      "reference": "1Cr 3:5"
+    },
+    {
+      "id": "1CH.3.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 3,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Por quantos anos Davi reinou em Jerusalém?",
+      "answer": "Trinta e três anos.",
+      "reference": "1Cr 3:4"
+    },
+    {
+      "id": "1CH.4.subject.1",
+      "bookNumber": 130,
+      "chapter": 4,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "De quem são os filhos Perez e Hezrom?",
+      "answer": "De Judá.",
+      "reference": "1Cr 4:1"
+    },
+    {
+      "id": "1CH.4.name.1",
+      "bookNumber": 130,
+      "chapter": 4,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem foi mais respeitado que os irmãos e nasceu com dor, em 1 Crônicas?",
+      "answer": "Jabez.",
+      "reference": "1Cr 4:9"
+    },
+    {
+      "id": "1CH.4.place.1",
+      "bookNumber": 130,
+      "chapter": 4,
+      "verseStart": 42,
+      "kind": "place",
+      "prompt": "Para onde foram quinhentos homens de Simeão?",
+      "answer": "Para o monte de Seir.",
+      "reference": "1Cr 4:42"
+    },
+    {
+      "id": "1CH.4.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 4,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que Deus fez com o pedido de Jabez?",
+      "answer": "Concedeu o que ele tinha pedido.",
+      "reference": "1Cr 4:10"
+    },
+    {
+      "id": "1CH.5.subject.1",
+      "bookNumber": 130,
+      "chapter": 5,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "De quem eram os guerreiros do leste, com arco e escudo, em 1 Crônicas?",
+      "answer": "De Rúben, de Gade e de metade de Manassés.",
+      "reference": "1Cr 5:18"
+    },
+    {
+      "id": "1CH.5.place.1",
+      "bookNumber": 130,
+      "chapter": 5,
+      "verseStart": 26,
+      "kind": "place",
+      "prompt": "Para onde a Assíria levou Rúben, Gade e metade de Manassés?",
+      "answer": "Para Hala, Habor, Hara e o rio Gozã.",
+      "reference": "1Cr 5:26"
+    },
+    {
+      "id": "1CH.5.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 5,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Por que Rúben perdeu o direito de primogênito?",
+      "answer": "Porque profanou o leito do pai; o direito passou a José.",
+      "reference": "1Cr 5:1"
+    },
+    {
+      "id": "1CH.6.subject.1",
+      "bookNumber": 130,
+      "chapter": 6,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "De quem são os filhos Gérson, Coate e Merari?",
+      "answer": "De Levi.",
+      "reference": "1Cr 6:1"
+    },
+    {
+      "id": "1CH.6.name.1",
+      "bookNumber": 130,
+      "chapter": 6,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Quem, filho de Anrão, teve Nadabe, Abiú, Eleazar e Itamar?",
+      "answer": "Arão.",
+      "reference": "1Cr 6:3"
+    },
+    {
+      "id": "1CH.6.place.1",
+      "bookNumber": 130,
+      "chapter": 6,
+      "verseStart": 57,
+      "kind": "place",
+      "prompt": "Que cidade de refúgio os filhos de Arão receberam, junto com Libna?",
+      "answer": "Hebrom.",
+      "reference": "1Cr 6:57"
+    },
+    {
+      "id": "1CH.6.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 6,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "Para que serviço Davi separou levitas depois que a arca parou?",
+      "answer": "Para a música na casa de Deus.",
+      "reference": "1Cr 6:31"
+    },
+    {
+      "id": "1CH.7.subject.1",
+      "bookNumber": 130,
+      "chapter": 7,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "De quem são os filhos Tolá, Pua, Jasube e Sinrom?",
+      "answer": "De Issacar.",
+      "reference": "1Cr 7:1"
+    },
+    {
+      "id": "1CH.7.name.1",
+      "bookNumber": 130,
+      "chapter": 7,
+      "verseStart": 27,
+      "kind": "name",
+      "prompt": "Quem foi o filho de Num na lista de Crônicas?",
+      "answer": "Josué.",
+      "reference": "1Cr 7:27"
+    },
+    {
+      "id": "1CH.7.place.1",
+      "bookNumber": 130,
+      "chapter": 7,
+      "verseStart": 28,
+      "verseEnd": 29,
+      "kind": "place",
+      "prompt": "Onde habitaram os filhos de José?",
+      "answer": "Em Betel, em Siquém e em outras cidades com aldeias.",
+      "reference": "1Cr 7:28-29"
+    },
+    {
+      "id": "1CH.7.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 7,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "Por que Efraim chamou o filho de Berias?",
+      "answer": "Porque a desgraça tinha caído sobre a casa dele.",
+      "reference": "1Cr 7:23"
+    },
+    {
+      "id": "1CH.8.subject.1",
+      "bookNumber": 130,
+      "chapter": 8,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "De quem é a lista que começa com Belá, Asbel e Aará?",
+      "answer": "De Benjamim.",
+      "reference": "1Cr 8:1"
+    },
+    {
+      "id": "1CH.8.name.1",
+      "bookNumber": 130,
+      "chapter": 8,
+      "verseStart": 33,
+      "kind": "name",
+      "prompt": "Quem Quis gerou, pai de Jônatas?",
+      "answer": "Saul.",
+      "reference": "1Cr 8:33"
+    },
+    {
+      "id": "1CH.8.place.1",
+      "bookNumber": 130,
+      "chapter": 8,
+      "verseStart": 28,
+      "kind": "place",
+      "prompt": "Onde moravam os chefes de Benjamim na lista que começa com Belá?",
+      "answer": "Em Jerusalém.",
+      "reference": "1Cr 8:28"
+    },
+    {
+      "id": "1CH.8.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 8,
+      "verseStart": 40,
+      "kind": "curiosity",
+      "prompt": "Quantos filhos e netos os filhos de Ulão tiveram?",
+      "answer": "Cento e cinquenta.",
+      "reference": "1Cr 8:40"
+    },
+    {
+      "id": "1CH.9.subject.1",
+      "bookNumber": 130,
+      "chapter": 9,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Quem foram os primeiros a voltar às próprias cidades, em 1 Crônicas?",
+      "answer": "Israelitas, sacerdotes, levitas e servos do templo.",
+      "reference": "1Cr 9:2"
+    },
+    {
+      "id": "1CH.9.place.1",
+      "bookNumber": 130,
+      "chapter": 9,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Em que cidade moraram gente de Judá, Benjamim, Efraim e Manassés?",
+      "answer": "Em Jerusalém.",
+      "reference": "1Cr 9:3"
+    },
+    {
+      "id": "1CH.9.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 9,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "Quantos porteiros escolhidos foram registrados, em 1 Crônicas?",
+      "answer": "Duzentos e doze.",
+      "reference": "1Cr 9:22"
+    },
+    {
+      "id": "1CH.10.subject.1",
+      "bookNumber": 130,
+      "chapter": 10,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que houve com Saul e os três filhos dele?",
+      "answer": "Morreram, e a casa dele acabou junto.",
+      "reference": "1Cr 10:6"
+    },
+    {
+      "id": "1CH.10.name.1",
+      "bookNumber": 130,
+      "chapter": 10,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem recebeu o reino depois que Saul morreu?",
+      "answer": "Davi, filho de Jessé.",
+      "reference": "1Cr 10:14"
+    },
+    {
+      "id": "1CH.10.place.1",
+      "bookNumber": 130,
+      "chapter": 10,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde os homens de Israel caíram diante dos filisteus?",
+      "answer": "No monte de Gilboa.",
+      "reference": "1Cr 10:1"
+    },
+    {
+      "id": "1CH.10.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 10,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Como Saul morreu?",
+      "answer": "Atirou-se sobre a própria espada.",
+      "reference": "1Cr 10:4"
+    },
+    {
+      "id": "1CH.11.subject.1",
+      "bookNumber": 130,
+      "chapter": 11,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que Israel fez com Davi em Hebrom?",
+      "answer": "Fez aliança com ele e o ungiu rei.",
+      "reference": "1Cr 11:3"
+    },
+    {
+      "id": "1CH.11.name.1",
+      "bookNumber": 130,
+      "chapter": 11,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem subiu primeiro contra os jebuseus e virou comandante, em 1 Crônicas?",
+      "answer": "Joabe, filho de Zeruia.",
+      "reference": "1Cr 11:6"
+    },
+    {
+      "id": "1CH.11.place.1",
+      "bookNumber": 130,
+      "chapter": 11,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Que fortaleza Davi tomou em Jerusalém?",
+      "answer": "A fortaleza de Sião, a cidade dele.",
+      "reference": "1Cr 11:5"
+    },
+    {
+      "id": "1CH.11.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 11,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "O que Davi fez com a água do poço de Belém?",
+      "answer": "Não bebeu; derramou-a para Deus.",
+      "reference": "1Cr 11:18"
+    },
+    {
+      "id": "1CH.12.subject.1",
+      "bookNumber": 130,
+      "chapter": 12,
+      "verseStart": 38,
+      "kind": "subject",
+      "prompt": "Por que os guerreiros foram a Davi em Hebrom?",
+      "answer": "Para fazê-lo rei de todo o Israel.",
+      "reference": "1Cr 12:38"
+    },
+    {
+      "id": "1CH.12.place.1",
+      "bookNumber": 130,
+      "chapter": 12,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde guerreiros acharam Davi, ainda escondido de Saul?",
+      "answer": "Em Ziclague.",
+      "reference": "1Cr 12:1"
+    },
+    {
+      "id": "1CH.12.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 12,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quando os gaditas atravessaram o Jordão até Davi?",
+      "answer": "No primeiro mês, com o rio transbordando.",
+      "reference": "1Cr 12:15"
+    },
+    {
+      "id": "1CH.13.subject.1",
+      "bookNumber": 130,
+      "chapter": 13,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que aconteceu com Uzá ao segurar a arca?",
+      "answer": "Deus o feriu, e ele morreu ali.",
+      "reference": "1Cr 13:10"
+    },
+    {
+      "id": "1CH.13.place.1",
+      "bookNumber": 130,
+      "chapter": 13,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Para a casa de quem Davi desviou a arca?",
+      "answer": "Para a de Obede-Edom.",
+      "reference": "1Cr 13:13"
+    },
+    {
+      "id": "1CH.13.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 13,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo a arca ficou com Obede-Edom?",
+      "answer": "Três meses.",
+      "reference": "1Cr 13:14"
+    },
+    {
+      "id": "1CH.14.subject.1",
+      "bookNumber": 130,
+      "chapter": 14,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que Davi fez aos filisteus em Baal-Perazim?",
+      "answer": "Venceu os inimigos naquele lugar.",
+      "reference": "1Cr 14:11"
+    },
+    {
+      "id": "1CH.14.place.1",
+      "bookNumber": 130,
+      "chapter": 14,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Onde os filisteus se instalaram contra Davi?",
+      "answer": "No vale de Refaim.",
+      "reference": "1Cr 14:9"
+    },
+    {
+      "id": "1CH.14.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 14,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que Davi mandou fazer com os deuses dos filisteus?",
+      "answer": "Queimá-los no fogo.",
+      "reference": "1Cr 14:12"
+    },
+    {
+      "id": "1CH.15.subject.1",
+      "bookNumber": 130,
+      "chapter": 15,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Como os levitas carregaram a arca quando Davi a trouxe de novo?",
+      "answer": "Nas varas, sobre os ombros, como Moisés tinha ordenado.",
+      "reference": "1Cr 15:15"
+    },
+    {
+      "id": "1CH.15.name.1",
+      "bookNumber": 130,
+      "chapter": 15,
+      "verseStart": 29,
+      "kind": "name",
+      "prompt": "Quem desprezou Davi ao vê-lo dançar diante da arca?",
+      "answer": "Mical, filha de Saul.",
+      "reference": "1Cr 15:29"
+    },
+    {
+      "id": "1CH.15.place.1",
+      "bookNumber": 130,
+      "chapter": 15,
+      "verseStart": 25,
+      "kind": "place",
+      "prompt": "De onde a arca subiu com alegria depois que Uzá morreu?",
+      "answer": "Da casa de Obede-Edom.",
+      "reference": "1Cr 15:25"
+    },
+    {
+      "id": "1CH.15.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 15,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "Quantos animais sacrificaram porque Deus ajudava os levitas, em 1 Crônicas?",
+      "answer": "Sete bois e sete carneiros.",
+      "reference": "1Cr 15:26"
+    },
+    {
+      "id": "1CH.16.subject.1",
+      "bookNumber": 130,
+      "chapter": 16,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Onde Davi pôs a arca de Deus quando a trouxe?",
+      "answer": "Na tenda que Davi tinha armado para ela.",
+      "reference": "1Cr 16:1"
+    },
+    {
+      "id": "1CH.16.place.1",
+      "bookNumber": 130,
+      "chapter": 16,
+      "verseStart": 39,
+      "kind": "place",
+      "prompt": "Onde Zadoque e os sacerdotes continuaram a oferecer?",
+      "answer": "No alto de Gibeão, junto ao tabernáculo.",
+      "reference": "1Cr 16:39"
+    },
+    {
+      "id": "1CH.16.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 16,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que Davi deu a cada israelita quando a arca chegou?",
+      "answer": "Pão, uma porção de carne e passas.",
+      "reference": "1Cr 16:3"
+    },
+    {
+      "id": "1CH.17.subject.1",
+      "bookNumber": 130,
+      "chapter": 17,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que Deus prometeu sobre o filho de Davi?",
+      "answer": "Que ele construiria a casa e o trono ficaria firme para sempre.",
+      "reference": "1Cr 17:12"
+    },
+    {
+      "id": "1CH.17.name.1",
+      "bookNumber": 130,
+      "chapter": 17,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "A qual profeta Davi contou que queria uma casa para a arca?",
+      "answer": "A Natã.",
+      "reference": "1Cr 17:1"
+    },
+    {
+      "id": "1CH.17.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 17,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "De onde Deus tirou Davi para ser príncipe de Israel?",
+      "answer": "Do curral, de trás do rebanho.",
+      "reference": "1Cr 17:7"
+    },
+    {
+      "id": "1CH.18.subject.1",
+      "bookNumber": 130,
+      "chapter": 18,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que Davi fez aos filisteus ao ampliar o reino, no relato de Crônicas?",
+      "answer": "Venceu-os e tomou Gate com os povoados.",
+      "reference": "1Cr 18:1"
+    },
+    {
+      "id": "1CH.18.place.1",
+      "bookNumber": 130,
+      "chapter": 18,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Até que rio Hadadezer queria estender o poder?",
+      "answer": "Até o Eufrates.",
+      "reference": "1Cr 18:3"
+    },
+    {
+      "id": "1CH.18.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 18,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Quantos carros Davi tomou de Hadadezer, no relato de Crônicas?",
+      "answer": "Mil; dos cavalos, deixou só os de cem carros.",
+      "reference": "1Cr 18:4"
+    },
+    {
+      "id": "1CH.19.subject.1",
+      "bookNumber": 130,
+      "chapter": 19,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que Hanã fez com os mensageiros de Davi?",
+      "answer": "Rapou-os, cortou a roupa no meio e os mandou embora.",
+      "reference": "1Cr 19:4"
+    },
+    {
+      "id": "1CH.19.place.1",
+      "bookNumber": 130,
+      "chapter": 19,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Diante de qual cidade os aliados de Amom acamparam?",
+      "answer": "Diante de Medeba.",
+      "reference": "1Cr 19:7"
+    },
+    {
+      "id": "1CH.19.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 19,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "Quantos sírios Davi derrubou na guerra dos amonitas, no relato de Crônicas?",
+      "answer": "Sete mil dos carros e quarenta mil a pé.",
+      "reference": "1Cr 19:18"
+    },
+    {
+      "id": "1CH.20.subject.1",
+      "bookNumber": 130,
+      "chapter": 20,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que puseram na cabeça de Davi em Rabá?",
+      "answer": "A coroa de ouro do rei, com pedras preciosas.",
+      "reference": "1Cr 20:2"
+    },
+    {
+      "id": "1CH.20.place.1",
+      "bookNumber": 130,
+      "chapter": 20,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Que cidade dos amonitas Joabe cercou e tomou?",
+      "answer": "Rabá.",
+      "reference": "1Cr 20:1"
+    },
+    {
+      "id": "1CH.20.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 20,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quantos dedos tinha o homem enorme de Gate?",
+      "answer": "Vinte e quatro: um a mais em cada mão e cada pé.",
+      "reference": "1Cr 20:6"
+    },
+    {
+      "id": "1CH.21.subject.1",
+      "bookNumber": 130,
+      "chapter": 21,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "O que veio sobre Israel depois do censo de Davi?",
+      "answer": "Uma peste, e caíram setenta mil homens.",
+      "reference": "1Cr 21:14"
+    },
+    {
+      "id": "1CH.21.name.1",
+      "bookNumber": 130,
+      "chapter": 21,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem incitou Davi a contar Israel?",
+      "answer": "Satanás.",
+      "reference": "1Cr 21:1"
+    },
+    {
+      "id": "1CH.21.place.1",
+      "bookNumber": 130,
+      "chapter": 21,
+      "verseStart": 18,
+      "kind": "place",
+      "prompt": "Onde Davi devia construir o altar?",
+      "answer": "Na eira de Ornã, o jebuseu.",
+      "reference": "1Cr 21:18"
+    },
+    {
+      "id": "1CH.21.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 21,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "Quanto Davi pagou a Ornã pelo terreno, no relato de Crônicas?",
+      "answer": "Seiscentos siclos de ouro.",
+      "reference": "1Cr 21:25"
+    },
+    {
+      "id": "1CH.22.subject.1",
+      "bookNumber": 130,
+      "chapter": 22,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Davi mandou o filho Salomão construir?",
+      "answer": "A casa de Deus de Israel.",
+      "reference": "1Cr 22:6"
+    },
+    {
+      "id": "1CH.22.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 22,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Por que o filho de Davi se chamaria Salomão?",
+      "answer": "Porque Deus daria paz a Israel nos dias dele.",
+      "reference": "1Cr 22:9"
+    },
+    {
+      "id": "1CH.22.curiosity.2",
+      "bookNumber": 130,
+      "chapter": 22,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Quanto ouro Davi disse a Salomão que já tinha preparado para a casa?",
+      "answer": "Cem mil talentos.",
+      "reference": "1Cr 22:14"
+    },
+    {
+      "id": "1CH.23.subject.1",
+      "bookNumber": 130,
+      "chapter": 23,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "De quem eram os turnos que Davi organizou?",
+      "answer": "Dos levitas: Gérson, Coate e Merari.",
+      "reference": "1Cr 23:6"
+    },
+    {
+      "id": "1CH.23.name.1",
+      "bookNumber": 130,
+      "chapter": 23,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem Davi pôs como rei quando já estava velho?",
+      "answer": "Salomão, o filho dele.",
+      "reference": "1Cr 23:1"
+    },
+    {
+      "id": "1CH.23.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 23,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Quantos levitas de trinta anos para cima foram contados, em 1 Crônicas?",
+      "answer": "Trinta e oito mil.",
+      "reference": "1Cr 23:3"
+    },
+    {
+      "id": "1CH.24.subject.1",
+      "bookNumber": 130,
+      "chapter": 24,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Como dividiram os turnos dos filhos de Arão?",
+      "answer": "Por sorteio, entre as famílias de Eleazar e de Itamar.",
+      "reference": "1Cr 24:5"
+    },
+    {
+      "id": "1CH.24.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 24,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Quantas chefias de família havia entre os filhos de Eleazar?",
+      "answer": "Dezesseis.",
+      "reference": "1Cr 24:4"
+    },
+    {
+      "id": "1CH.25.subject.1",
+      "bookNumber": 130,
+      "chapter": 25,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Quem Davi separou para cantar com harpas e címbalos?",
+      "answer": "Os filhos de Asafe, de Hemã e de Jedutum.",
+      "reference": "1Cr 25:1"
+    },
+    {
+      "id": "1CH.25.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 25,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Quantos músicos aptos foram contados, em 1 Crônicas?",
+      "answer": "Duzentos e oitenta e oito.",
+      "reference": "1Cr 25:7"
+    },
+    {
+      "id": "1CH.25.curiosity.2",
+      "bookNumber": 130,
+      "chapter": 25,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Quantos filhos e filhas Deus deu a Hemã?",
+      "answer": "Catorze filhos e três filhas.",
+      "reference": "1Cr 25:5"
+    },
+    {
+      "id": "1CH.26.subject.1",
+      "bookNumber": 130,
+      "chapter": 26,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "De quem são os turnos dos porteiros, em 1 Crônicas?",
+      "answer": "Das famílias de Corá e de Merari.",
+      "reference": "1Cr 26:19"
+    },
+    {
+      "id": "1CH.26.place.1",
+      "bookNumber": 130,
+      "chapter": 26,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Qual porta caiu na sorte de Selemias?",
+      "answer": "A do leste.",
+      "reference": "1Cr 26:14"
+    },
+    {
+      "id": "1CH.26.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 26,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Como escolheram a porta de cada família, em 1 Crônicas?",
+      "answer": "Na sorte, misturando os mais novos e os chefes.",
+      "reference": "1Cr 26:13"
+    },
+    {
+      "id": "1CH.27.subject.1",
+      "bookNumber": 130,
+      "chapter": 27,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Como o exército servia Davi ao longo do ano?",
+      "answer": "Um grupo por mês, cada um com vinte e quatro mil.",
+      "reference": "1Cr 27:1"
+    },
+    {
+      "id": "1CH.27.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 27,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "Por que Davi não contou quem tinha menos de vinte anos?",
+      "answer": "Porque Deus tinha dito que multiplicaria Israel.",
+      "reference": "1Cr 27:23"
+    },
+    {
+      "id": "1CH.27.curiosity.2",
+      "bookNumber": 130,
+      "chapter": 27,
+      "verseStart": 34,
+      "kind": "curiosity",
+      "prompt": "Quem era o general do exército de Davi?",
+      "answer": "Joabe.",
+      "reference": "1Cr 27:34"
+    },
+    {
+      "id": "1CH.28.subject.1",
+      "bookNumber": 130,
+      "chapter": 28,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Deus escolheu Salomão para fazer?",
+      "answer": "Construir a casa e os pátios dele.",
+      "reference": "1Cr 28:6"
+    },
+    {
+      "id": "1CH.28.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 28,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Por que Davi não pôde construir a casa de Deus?",
+      "answer": "Porque era homem de guerra e tinha derramado muito sangue.",
+      "reference": "1Cr 28:3"
+    },
+    {
+      "id": "1CH.28.curiosity.2",
+      "bookNumber": 130,
+      "chapter": 28,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que Davi entregou a Salomão além da ordem de construir?",
+      "answer": "A planta do pórtico, das salas e do lugar do propiciatório.",
+      "reference": "1Cr 28:11"
+    },
+    {
+      "id": "1CH.29.subject.1",
+      "bookNumber": 130,
+      "chapter": 29,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "Como terminou a vida de Davi?",
+      "answer": "Morreu velho, rico e honrado, e Salomão reinou no lugar dele.",
+      "reference": "1Cr 29:28"
+    },
+    {
+      "id": "1CH.29.name.1",
+      "bookNumber": 130,
+      "chapter": 29,
+      "verseStart": 22,
+      "kind": "name",
+      "prompt": "Quem foi ungido príncipe, junto com o sacerdote Zadoque?",
+      "answer": "Salomão.",
+      "reference": "1Cr 29:22"
+    },
+    {
+      "id": "1CH.29.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 29,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Como o povo contribuiu para a casa de Deus no tempo de Davi?",
+      "answer": "De livre vontade e com o coração inteiro.",
+      "reference": "1Cr 29:9"
+    },
+    {
+      "id": "1CH.29.curiosity.2",
+      "bookNumber": 130,
+      "chapter": 29,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "Por quantos anos Davi reinou sobre Israel?",
+      "answer": "Quarenta anos, sete deles em Hebrom.",
+      "reference": "1Cr 29:27"
+    },
+    {
+      "id": "1CH.0.curiosity.1",
+      "bookNumber": 130,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 1 Crônicas?",
+      "answer": "Esdras, pela tradição.",
+      "reference": "1 Crônicas"
+    },
+    {
+      "id": "1CH.0.curiosity.2",
+      "bookNumber": 130,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 1 Crônicas?",
+      "answer": "No século V antes de Cristo.",
+      "reference": "1 Crônicas"
+    }
+  ]
+}

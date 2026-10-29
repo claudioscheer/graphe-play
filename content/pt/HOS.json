@@ -1,0 +1,534 @@
+{
+  "cards": [
+    {
+      "id": "HOS.1.subject.1",
+      "bookNumber": 350,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Que esposa Deus mandou Oséias procurar?",
+      "answer": "Uma mulher ligada à prostituição.",
+      "reference": "Os 1:2"
+    },
+    {
+      "id": "HOS.1.name.1",
+      "bookNumber": 350,
+      "chapter": 1,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Como se chamava a mulher de Oséias?",
+      "answer": "Gômer, filha de Diblaim.",
+      "reference": "Os 1:3"
+    },
+    {
+      "id": "HOS.1.place.1",
+      "bookNumber": 350,
+      "chapter": 1,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Em que vale Deus quebraria o arco de Israel?",
+      "answer": "No vale de Jezreel.",
+      "reference": "Os 1:5"
+    },
+    {
+      "id": "HOS.1.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 1,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Que nome mostra que Israel não era mais o povo de Deus?",
+      "answer": "Não-Meu-Povo.",
+      "reference": "Os 1:9"
+    },
+    {
+      "id": "HOS.2.subject.1",
+      "bookNumber": 350,
+      "chapter": 2,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "Até quando Deus promete se casar com Israel?",
+      "answer": "Para sempre, com justiça e bondade.",
+      "reference": "Os 2:19"
+    },
+    {
+      "id": "HOS.2.name.1",
+      "bookNumber": 350,
+      "chapter": 2,
+      "verseStart": 23,
+      "kind": "name",
+      "prompt": "A quem Deus diz, em Oséias, que volta a ser o povo dele?",
+      "answer": "A Não-Meu-Povo.",
+      "reference": "Os 2:23"
+    },
+    {
+      "id": "HOS.2.place.1",
+      "bookNumber": 350,
+      "chapter": 2,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "Que vale Deus oferece como porta de esperança, em Oséias?",
+      "answer": "O vale de Acor.",
+      "reference": "Os 2:15"
+    },
+    {
+      "id": "HOS.2.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 2,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Que título Israel deixa de usar para Deus?",
+      "answer": "Baal; passa a dizer marido.",
+      "reference": "Os 2:16"
+    },
+    {
+      "id": "HOS.3.subject.1",
+      "bookNumber": 350,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Por que Oséias devia amar uma mulher adúltera?",
+      "answer": "Porque assim Deus ama Israel, apesar dos ídolos.",
+      "reference": "Os 3:1"
+    },
+    {
+      "id": "HOS.3.name.1",
+      "bookNumber": 350,
+      "chapter": 3,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Qual rei Israel voltará a buscar?",
+      "answer": "Davi, o rei deles.",
+      "reference": "Os 3:5"
+    },
+    {
+      "id": "HOS.3.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 3,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que Oséias pagou pela mulher?",
+      "answer": "Quinze peças de prata, mais cevada.",
+      "reference": "Os 3:2"
+    },
+    {
+      "id": "HOS.3.curiosity.2",
+      "bookNumber": 350,
+      "chapter": 3,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que faltará a Israel por muito tempo, em Oséias?",
+      "answer": "Rei, sacrifício, estátua e ídolo.",
+      "reference": "Os 3:4"
+    },
+    {
+      "id": "HOS.4.subject.1",
+      "bookNumber": 350,
+      "chapter": 4,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Por que Oséias diz que o povo de Israel é destruído?",
+      "answer": "Porque abandonou o conhecimento de Deus.",
+      "reference": "Os 4:6"
+    },
+    {
+      "id": "HOS.4.place.1",
+      "bookNumber": 350,
+      "chapter": 4,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "A que santuários Israel não devia subir, em Oséias?",
+      "answer": "A Gilgal e a Bete-Áven.",
+      "reference": "Os 4:15"
+    },
+    {
+      "id": "HOS.4.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 4,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "A que Efraim se prendeu?",
+      "answer": "Aos ídolos.",
+      "reference": "Os 4:17"
+    },
+    {
+      "id": "HOS.5.subject.1",
+      "bookNumber": 350,
+      "chapter": 5,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Quando Deus volta a ser achado por Israel, em Oséias?",
+      "answer": "Quando o povo admite a culpa e o busca.",
+      "reference": "Os 5:15"
+    },
+    {
+      "id": "HOS.5.place.1",
+      "bookNumber": 350,
+      "chapter": 5,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Onde Efraim buscou cura, sem conseguir?",
+      "answer": "Na Assíria.",
+      "reference": "Os 5:13"
+    },
+    {
+      "id": "HOS.5.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 5,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Como Deus age contra Efraim e Judá?",
+      "answer": "Como leão que despedaça e vai embora.",
+      "reference": "Os 5:14"
+    },
+    {
+      "id": "HOS.6.subject.1",
+      "bookNumber": 350,
+      "chapter": 6,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Deus pede a Israel mais que oferta?",
+      "answer": "Misericórdia e conhecimento dele.",
+      "reference": "Os 6:6"
+    },
+    {
+      "id": "HOS.6.name.1",
+      "bookNumber": 350,
+      "chapter": 6,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Como quem Israel quebrou a aliança?",
+      "answer": "Como Adão.",
+      "reference": "Os 6:7"
+    },
+    {
+      "id": "HOS.6.place.1",
+      "bookNumber": 350,
+      "chapter": 6,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Qual cidade Oséias chama de suja de sangue?",
+      "answer": "Gileade.",
+      "reference": "Os 6:8"
+    },
+    {
+      "id": "HOS.6.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 6,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Em que dia Israel espera ser levantado?",
+      "answer": "No terceiro dia.",
+      "reference": "Os 6:2"
+    },
+    {
+      "id": "HOS.7.subject.1",
+      "bookNumber": 350,
+      "chapter": 7,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Para onde Efraim voa sem pensar?",
+      "answer": "Chama o Egito e vai à Assíria.",
+      "reference": "Os 7:11"
+    },
+    {
+      "id": "HOS.7.place.1",
+      "bookNumber": 350,
+      "chapter": 7,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde as maldades de Efraim ficam expostas?",
+      "answer": "Em Samaria.",
+      "reference": "Os 7:1"
+    },
+    {
+      "id": "HOS.7.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 7,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "A que comida Efraim é comparado?",
+      "answer": "A um bolo que ninguém virou.",
+      "reference": "Os 7:8"
+    },
+    {
+      "id": "HOS.8.subject.1",
+      "bookNumber": 350,
+      "chapter": 8,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que Israel colhe depois de semear vento?",
+      "answer": "Tempestade, e a farinha não fica com ele.",
+      "reference": "Os 8:7"
+    },
+    {
+      "id": "HOS.8.place.1",
+      "bookNumber": 350,
+      "chapter": 8,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Para onde Efraim sobe sozinho?",
+      "answer": "Para a Assíria.",
+      "reference": "Os 8:9"
+    },
+    {
+      "id": "HOS.8.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 8,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que vale o bezerro feito em Samaria?",
+      "answer": "Nada: não é Deus e acaba em pedaços.",
+      "reference": "Os 8:6"
+    },
+    {
+      "id": "HOS.8.curiosity.2",
+      "bookNumber": 350,
+      "chapter": 8,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "De quem não vieram os reis feitos por Israel?",
+      "answer": "Não vieram de Deus.",
+      "reference": "Os 8:4"
+    },
+    {
+      "id": "HOS.9.subject.1",
+      "bookNumber": 350,
+      "chapter": 9,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Para onde Efraim vai em vez de ficar na terra?",
+      "answer": "Volta ao Egito e come coisa impura na Assíria.",
+      "reference": "Os 9:3"
+    },
+    {
+      "id": "HOS.9.place.1",
+      "bookNumber": 350,
+      "chapter": 9,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Qual cidade sepulta quem foge ao Egito?",
+      "answer": "Mênfis.",
+      "reference": "Os 9:6"
+    },
+    {
+      "id": "HOS.9.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 9,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que Deus fará com Israel por não ouvir, em Oséias?",
+      "answer": "Vai rejeitá-lo, e o povo anda sem direção entre as nações.",
+      "reference": "Os 9:17"
+    },
+    {
+      "id": "HOS.10.subject.1",
+      "bookNumber": 350,
+      "chapter": 10,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Que fim tem o rei de Israel ligado a Betel?",
+      "answer": "De manhã ele é eliminado.",
+      "reference": "Os 10:15"
+    },
+    {
+      "id": "HOS.10.name.1",
+      "bookNumber": 350,
+      "chapter": 10,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem arrasou Bete-Arbel com mães e filhos?",
+      "answer": "Salmã.",
+      "reference": "Os 10:14"
+    },
+    {
+      "id": "HOS.10.place.1",
+      "bookNumber": 350,
+      "chapter": 10,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Para onde o bezerro segue como presente, em Oséias?",
+      "answer": "Para a Assíria, ao rei poderoso.",
+      "reference": "Os 10:6"
+    },
+    {
+      "id": "HOS.10.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 10,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que o povo gritará aos montes, em Oséias?",
+      "answer": "Que os cubram, e que os morros caiam em cima.",
+      "reference": "Os 10:8"
+    },
+    {
+      "id": "HOS.11.subject.1",
+      "bookNumber": 350,
+      "chapter": 11,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Por que Deus não acaba com Efraim?",
+      "answer": "Porque ele é Deus, não um homem, e segura a ira.",
+      "reference": "Os 11:9"
+    },
+    {
+      "id": "HOS.11.place.1",
+      "bookNumber": 350,
+      "chapter": 11,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "De onde Deus chamou Israel menino?",
+      "answer": "Do Egito.",
+      "reference": "Os 11:1"
+    },
+    {
+      "id": "HOS.11.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 11,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Com que Deus puxou Israel para perto?",
+      "answer": "Com cordas de gente e de amor.",
+      "reference": "Os 11:4"
+    },
+    {
+      "id": "HOS.12.subject.1",
+      "bookNumber": 350,
+      "chapter": 12,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Jacó deve guardar diante de Deus, em Oséias?",
+      "answer": "Misericórdia, justiça e uma espera contínua.",
+      "reference": "Os 12:6"
+    },
+    {
+      "id": "HOS.12.name.1",
+      "bookNumber": 350,
+      "chapter": 12,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem fugiu para Arã por causa de uma mulher?",
+      "answer": "Jacó.",
+      "reference": "Os 12:12"
+    },
+    {
+      "id": "HOS.12.place.1",
+      "bookNumber": 350,
+      "chapter": 12,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Onde Oséias diz que foi achado quem lutou com o anjo?",
+      "answer": "Em Betel.",
+      "reference": "Os 12:4"
+    },
+    {
+      "id": "HOS.12.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 12,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que há de errado na balança do comerciante, em Oséias?",
+      "answer": "Ela é desonesta, pois ele gosta de oprimir.",
+      "reference": "Os 12:7"
+    },
+    {
+      "id": "HOS.13.subject.1",
+      "bookNumber": 350,
+      "chapter": 13,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Quem é o salvador de Israel desde o Egito?",
+      "answer": "Só Deus; não existe outro.",
+      "reference": "Os 13:4"
+    },
+    {
+      "id": "HOS.13.name.1",
+      "bookNumber": 350,
+      "chapter": 13,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Por qual deus Efraim se perdeu na culpa?",
+      "answer": "Por Baal.",
+      "reference": "Os 13:1"
+    },
+    {
+      "id": "HOS.13.place.1",
+      "bookNumber": 350,
+      "chapter": 13,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Em que terra Deus conheceu Israel?",
+      "answer": "No deserto, terra seca.",
+      "reference": "Os 13:5"
+    },
+    {
+      "id": "HOS.13.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 13,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Como Deus deu e retirou o rei de Israel?",
+      "answer": "Deu por ira e tirou por furor.",
+      "reference": "Os 13:11"
+    },
+    {
+      "id": "HOS.14.subject.1",
+      "bookNumber": 350,
+      "chapter": 14,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que Deus promete fazer com a rebelião de Israel, em Oséias?",
+      "answer": "Curá-la e amar por escolha dele.",
+      "reference": "Os 14:4"
+    },
+    {
+      "id": "HOS.14.place.1",
+      "bookNumber": 350,
+      "chapter": 14,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "As raízes de Israel se parecem com as de qual terra?",
+      "answer": "Com as do Líbano.",
+      "reference": "Os 14:5"
+    },
+    {
+      "id": "HOS.14.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 14,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Quem Oséias diz que não salvará mais o povo de Israel?",
+      "answer": "Os assírios.",
+      "reference": "Os 14:3"
+    },
+    {
+      "id": "HOS.14.curiosity.2",
+      "bookNumber": 350,
+      "chapter": 14,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "A que flor Israel vai se parecer?",
+      "answer": "Ao lírio.",
+      "reference": "Os 14:5"
+    },
+    {
+      "id": "HOS.0.curiosity.1",
+      "bookNumber": 350,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Oséias?",
+      "answer": "Oséias.",
+      "reference": "Oséias"
+    },
+    {
+      "id": "HOS.0.curiosity.2",
+      "bookNumber": 350,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Oséias?",
+      "answer": "No século VIII antes de Cristo.",
+      "reference": "Oséias"
+    }
+  ]
+}

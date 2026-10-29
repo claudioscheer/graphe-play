@@ -1,0 +1,434 @@
+{
+  "cards": [
+    {
+      "id": "EZR.1.subject.1",
+      "bookNumber": 150,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Deus mandou Ciro construir?",
+      "answer": "Uma casa em Jerusalém, na terra de Judá.",
+      "reference": "Ed 1:2"
+    },
+    {
+      "id": "EZR.1.name.1",
+      "bookNumber": 150,
+      "chapter": 1,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "A quem Mitridate entregou os objetos contados?",
+      "answer": "A Sesbazar, príncipe de Judá.",
+      "reference": "Ed 1:8"
+    },
+    {
+      "id": "EZR.1.place.1",
+      "bookNumber": 150,
+      "chapter": 1,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Para onde Sesbazar levou os utensílios?",
+      "answer": "Para Jerusalém, saindo da Babilônia.",
+      "reference": "Ed 1:11"
+    },
+    {
+      "id": "EZR.1.curiosity.1",
+      "bookNumber": 150,
+      "chapter": 1,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Quantos utensílios de ouro e prata Sesbazar levou?",
+      "answer": "Cinco mil e quatrocentos.",
+      "reference": "Ed 1:11"
+    },
+    {
+      "id": "EZR.2.subject.1",
+      "bookNumber": 150,
+      "chapter": 2,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Quem Esdras lista entre os que voltaram a Judá?",
+      "answer": "Os que Nabucodonosor tinha levado à Babilônia.",
+      "reference": "Ed 2:1"
+    },
+    {
+      "id": "EZR.2.name.1",
+      "bookNumber": 150,
+      "chapter": 2,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Com quem começa a lista de Esdras dos que voltaram?",
+      "answer": "Com Zorobabel e Jesua.",
+      "reference": "Ed 2:2"
+    },
+    {
+      "id": "EZR.2.curiosity.1",
+      "bookNumber": 150,
+      "chapter": 2,
+      "verseStart": 62,
+      "kind": "curiosity",
+      "prompt": "Por que alguns foram rejeitados do sacerdócio, em Esdras?",
+      "answer": "Porque o registro da família não foi achado.",
+      "reference": "Ed 2:62"
+    },
+    {
+      "id": "EZR.2.curiosity.2",
+      "bookNumber": 150,
+      "chapter": 2,
+      "verseStart": 64,
+      "kind": "curiosity",
+      "prompt": "Qual era o total da congregação que voltou, em Esdras?",
+      "answer": "42.360 pessoas.",
+      "reference": "Ed 2:64"
+    },
+    {
+      "id": "EZR.3.subject.1",
+      "bookNumber": 150,
+      "chapter": 3,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que os construtores fizeram no começo do templo após o exílio, em Esdras?",
+      "answer": "Puseram os alicerces da casa de Deus.",
+      "reference": "Ed 3:10"
+    },
+    {
+      "id": "EZR.3.name.1",
+      "bookNumber": 150,
+      "chapter": 3,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem pôs de pé o altar dos sacrifícios após o exílio, em Esdras?",
+      "answer": "Jesua, Zorobabel e os sacerdotes.",
+      "reference": "Ed 3:2"
+    },
+    {
+      "id": "EZR.3.place.1",
+      "bookNumber": 150,
+      "chapter": 3,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "De onde trouxeram madeira de cedro para a obra, em Esdras?",
+      "answer": "Do Líbano, pelo mar, até Jope.",
+      "reference": "Ed 3:7"
+    },
+    {
+      "id": "EZR.3.curiosity.1",
+      "bookNumber": 150,
+      "chapter": 3,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Como os idosos reagiram ao ver o novo alicerce, em Esdras?",
+      "answer": "Choravam forte, enquanto muitos gritavam de alegria.",
+      "reference": "Ed 3:12"
+    },
+    {
+      "id": "EZR.4.subject.1",
+      "bookNumber": 150,
+      "chapter": 4,
+      "verseStart": 23,
+      "kind": "subject",
+      "prompt": "O que a carta de Artaxerxes contra Jerusalém fez aos judeus?",
+      "answer": "Foram impedidos em Jerusalém com violência.",
+      "reference": "Ed 4:23"
+    },
+    {
+      "id": "EZR.4.name.1",
+      "bookNumber": 150,
+      "chapter": 4,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem escreveu a Artaxerxes contra Jerusalém?",
+      "answer": "Reum e Sinsai.",
+      "reference": "Ed 4:8"
+    },
+    {
+      "id": "EZR.4.place.1",
+      "bookNumber": 150,
+      "chapter": 4,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Onde viviam os aliados de Reum e de Sinsai?",
+      "answer": "Em Samaria.",
+      "reference": "Ed 4:17"
+    },
+    {
+      "id": "EZR.4.curiosity.1",
+      "bookNumber": 150,
+      "chapter": 4,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Até quando a reconstrução em Jerusalém ficou parada?",
+      "answer": "Até o segundo ano do rei Dario.",
+      "reference": "Ed 4:24"
+    },
+    {
+      "id": "EZR.5.subject.1",
+      "bookNumber": 150,
+      "chapter": 5,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Quem recomeçou a reconstrução do templo em Jerusalém?",
+      "answer": "Zorobabel e Jesua, com os profetas de Deus.",
+      "reference": "Ed 5:2"
+    },
+    {
+      "id": "EZR.5.name.1",
+      "bookNumber": 150,
+      "chapter": 5,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem profetizou aos judeus na reconstrução do templo, em Esdras?",
+      "answer": "Ageu e Zacarias.",
+      "reference": "Ed 5:1"
+    },
+    {
+      "id": "EZR.5.place.1",
+      "bookNumber": 150,
+      "chapter": 5,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Qual região Tatenai comandava?",
+      "answer": "A região do outro lado do rio.",
+      "reference": "Ed 5:3"
+    },
+    {
+      "id": "EZR.5.curiosity.1",
+      "bookNumber": 150,
+      "chapter": 5,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Por que a obra dos anciãos não parou diante de Tatenai?",
+      "answer": "Deus olhava por eles até o caso chegar a Dario.",
+      "reference": "Ed 5:5"
+    },
+    {
+      "id": "EZR.6.subject.1",
+      "bookNumber": 150,
+      "chapter": 6,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Quando o templo reconstruído em Jerusalém ficou pronto?",
+      "answer": "No dia três de Adar, no sexto ano de Dario.",
+      "reference": "Ed 6:15"
+    },
+    {
+      "id": "EZR.6.name.1",
+      "bookNumber": 150,
+      "chapter": 6,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem mandou vasculhar os arquivos na Babilônia?",
+      "answer": "O rei Dario.",
+      "reference": "Ed 6:1"
+    },
+    {
+      "id": "EZR.6.place.1",
+      "bookNumber": 150,
+      "chapter": 6,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde foi achado o livro do memorial, em Esdras?",
+      "answer": "Em Ecbatana, na província da Média.",
+      "reference": "Ed 6:2"
+    },
+    {
+      "id": "EZR.6.curiosity.1",
+      "bookNumber": 150,
+      "chapter": 6,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Quantos cabritos ofereceram na consagração da casa, em Esdras?",
+      "answer": "Doze, um por tribo de Israel.",
+      "reference": "Ed 6:17"
+    },
+    {
+      "id": "EZR.7.subject.1",
+      "bookNumber": 150,
+      "chapter": 7,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Quem subiu da Babilônia como conhecedor da lei?",
+      "answer": "Esdras, que dominava a lei de Moisés.",
+      "reference": "Ed 7:6"
+    },
+    {
+      "id": "EZR.7.name.1",
+      "bookNumber": 150,
+      "chapter": 7,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem entregou a carta ao escriba Esdras?",
+      "answer": "O rei Artaxerxes.",
+      "reference": "Ed 7:11"
+    },
+    {
+      "id": "EZR.7.place.1",
+      "bookNumber": 150,
+      "chapter": 7,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Aonde Esdras chegou no primeiro dia do quinto mês?",
+      "answer": "A Jerusalém.",
+      "reference": "Ed 7:9"
+    },
+    {
+      "id": "EZR.7.curiosity.1",
+      "bookNumber": 150,
+      "chapter": 7,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que Esdras decidiu no coração sobre a lei?",
+      "answer": "Buscá-la, praticá-la e ensiná-la em Israel.",
+      "reference": "Ed 7:10"
+    },
+    {
+      "id": "EZR.8.subject.1",
+      "bookNumber": 150,
+      "chapter": 8,
+      "verseStart": 31,
+      "kind": "subject",
+      "prompt": "O que Deus fez na viagem de Esdras a Jerusalém?",
+      "answer": "Livrou o grupo de inimigos e assaltantes.",
+      "reference": "Ed 8:31"
+    },
+    {
+      "id": "EZR.8.name.1",
+      "bookNumber": 150,
+      "chapter": 8,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Quem era o levita entendido que veio com Esdras?",
+      "answer": "Serebias.",
+      "reference": "Ed 8:18"
+    },
+    {
+      "id": "EZR.8.place.1",
+      "bookNumber": 150,
+      "chapter": 8,
+      "verseStart": 21,
+      "kind": "place",
+      "prompt": "Em que rio Esdras convocou um jejum?",
+      "answer": "No rio de Aava.",
+      "reference": "Ed 8:21"
+    },
+    {
+      "id": "EZR.8.curiosity.1",
+      "bookNumber": 150,
+      "chapter": 8,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "Quantos talentos de prata Esdras pesou?",
+      "answer": "Seiscentos e cinquenta.",
+      "reference": "Ed 8:26"
+    },
+    {
+      "id": "EZR.9.subject.1",
+      "bookNumber": 150,
+      "chapter": 9,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Qual foi a falta dos chefes de Israel no tempo de Esdras?",
+      "answer": "Foram os primeiros a casar com mulheres de outros povos.",
+      "reference": "Ed 9:2"
+    },
+    {
+      "id": "EZR.9.place.1",
+      "bookNumber": 150,
+      "chapter": 9,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Diante de quais reis Deus foi bondoso, na oração de Esdras?",
+      "answer": "Diante dos reis da Pérsia.",
+      "reference": "Ed 9:9"
+    },
+    {
+      "id": "EZR.9.curiosity.1",
+      "bookNumber": 150,
+      "chapter": 9,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que Esdras fez ao ouvir a notícia?",
+      "answer": "Rasgou a roupa e arrancou cabelos da barba.",
+      "reference": "Ed 9:3"
+    },
+    {
+      "id": "EZR.9.curiosity.2",
+      "bookNumber": 150,
+      "chapter": 9,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Até quando Esdras ficou sentado sem reação?",
+      "answer": "Até o sacrifício da tarde.",
+      "reference": "Ed 9:4"
+    },
+    {
+      "id": "EZR.10.subject.1",
+      "bookNumber": 150,
+      "chapter": 10,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que Esdras exigiu quanto às mulheres estrangeiras?",
+      "answer": "Que o povo se afastasse delas e dos outros povos.",
+      "reference": "Ed 10:11"
+    },
+    {
+      "id": "EZR.10.name.1",
+      "bookNumber": 150,
+      "chapter": 10,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem falou a Esdras que ainda havia esperança?",
+      "answer": "Secanias, filho de Jeiel.",
+      "reference": "Ed 10:2"
+    },
+    {
+      "id": "EZR.10.place.1",
+      "bookNumber": 150,
+      "chapter": 10,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Onde o povo se sentou, tremendo, na chuva, em Esdras?",
+      "answer": "Na praça do templo, em Jerusalém.",
+      "reference": "Ed 10:9"
+    },
+    {
+      "id": "EZR.10.curiosity.1",
+      "bookNumber": 150,
+      "chapter": 10,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "No tempo de Esdras, o que ocorria a quem não viesse em três dias?",
+      "answer": "Perdia os bens e era cortado do povo.",
+      "reference": "Ed 10:8"
+    },
+    {
+      "id": "EZR.0.curiosity.1",
+      "bookNumber": 150,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Esdras?",
+      "answer": "Esdras.",
+      "reference": "Esdras"
+    },
+    {
+      "id": "EZR.0.curiosity.2",
+      "bookNumber": 150,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Esdras?",
+      "answer": "No século V antes de Cristo.",
+      "reference": "Esdras"
+    },
+    {
+      "id": "EZR.0.curiosity.3",
+      "bookNumber": 150,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Em que línguas Esdras foi escrito?",
+      "answer": "Em hebraico e em aramaico.",
+      "reference": "Esdras"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "cards": [
+    {
+      "id": "JAS.1.subject.1",
+      "bookNumber": 660,
+      "chapter": 1,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "O que não basta fazer com a palavra?",
+      "answer": "Apenas ouvi-la; é preciso praticá-la.",
+      "reference": "Tg 1:22"
+    },
+    {
+      "id": "JAS.1.name.1",
+      "bookNumber": 660,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem saudou as doze tribos espalhadas?",
+      "answer": "Tiago.",
+      "reference": "Tg 1:1"
+    },
+    {
+      "id": "JAS.1.curiosity.1",
+      "bookNumber": 660,
+      "chapter": 1,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Qual prêmio recebe quem suporta a provação?",
+      "answer": "A coroa da vida.",
+      "reference": "Tg 1:12"
+    },
+    {
+      "id": "JAS.1.curiosity.2",
+      "bookNumber": 660,
+      "chapter": 1,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "Com o que se parece quem só ouve a palavra?",
+      "answer": "Com um homem que observa o rosto no espelho.",
+      "reference": "Tg 1:23"
+    },
+    {
+      "id": "JAS.2.subject.1",
+      "bookNumber": 660,
+      "chapter": 2,
+      "verseStart": 26,
+      "kind": "subject",
+      "prompt": "Como está a fé que não vem acompanhada de obras?",
+      "answer": "Está morta, como um corpo sem espírito.",
+      "reference": "Tg 2:26"
+    },
+    {
+      "id": "JAS.2.name.1",
+      "bookNumber": 660,
+      "chapter": 2,
+      "verseStart": 23,
+      "kind": "name",
+      "prompt": "Quem foi chamado amigo de Deus, em Tiago?",
+      "answer": "Abraão.",
+      "reference": "Tg 2:23"
+    },
+    {
+      "id": "JAS.2.name.2",
+      "bookNumber": 660,
+      "chapter": 2,
+      "verseStart": 25,
+      "kind": "name",
+      "prompt": "Qual mulher foi justificada ao acolher os mensageiros?",
+      "answer": "Raabe.",
+      "reference": "Tg 2:25"
+    },
+    {
+      "id": "JAS.2.curiosity.1",
+      "bookNumber": 660,
+      "chapter": 2,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que o rico usava ao entrar na reunião?",
+      "answer": "Anéis de ouro e roupa de alto valor.",
+      "reference": "Tg 2:2"
+    },
+    {
+      "id": "JAS.3.subject.1",
+      "bookNumber": 660,
+      "chapter": 3,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Qual membro pequeno se gaba de coisas grandes?",
+      "answer": "A língua.",
+      "reference": "Tg 3:5"
+    },
+    {
+      "id": "JAS.3.curiosity.1",
+      "bookNumber": 660,
+      "chapter": 3,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que se coloca na boca dos cavalos para guiá-los?",
+      "answer": "Um freio.",
+      "reference": "Tg 3:3"
+    },
+    {
+      "id": "JAS.3.curiosity.2",
+      "bookNumber": 660,
+      "chapter": 3,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Qual é a primeira qualidade da sabedoria lá de cima?",
+      "answer": "Ela é pura.",
+      "reference": "Tg 3:17"
+    },
+    {
+      "id": "JAS.4.subject.1",
+      "bookNumber": 660,
+      "chapter": 4,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Como Deus trata os soberbos e os humildes?",
+      "answer": "Resiste aos soberbos e dá graça aos humildes.",
+      "reference": "Tg 4:6"
+    },
+    {
+      "id": "JAS.4.curiosity.1",
+      "bookNumber": 660,
+      "chapter": 4,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que o diabo faz se alguém lhe resiste?",
+      "answer": "Ele foge.",
+      "reference": "Tg 4:7"
+    },
+    {
+      "id": "JAS.4.curiosity.2",
+      "bookNumber": 660,
+      "chapter": 4,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Com o que Tiago compara a vida humana?",
+      "answer": "Com um vapor que surge por pouco e desaparece.",
+      "reference": "Tg 4:14"
+    },
+    {
+      "id": "JAS.4.curiosity.3",
+      "bookNumber": 660,
+      "chapter": 4,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que faz quem conhece o bem e o deixa de lado?",
+      "answer": "Pratica o pecado.",
+      "reference": "Tg 4:17"
+    },
+    {
+      "id": "JAS.5.subject.1",
+      "bookNumber": 660,
+      "chapter": 5,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Até quando os irmãos devem ter paciência?",
+      "answer": "Até a vinda de Deus.",
+      "reference": "Tg 5:7"
+    },
+    {
+      "id": "JAS.5.name.1",
+      "bookNumber": 660,
+      "chapter": 5,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem é citado como exemplo de paciência no sofrimento?",
+      "answer": "Jó.",
+      "reference": "Tg 5:11"
+    },
+    {
+      "id": "JAS.5.curiosity.1",
+      "bookNumber": 660,
+      "chapter": 5,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Com o que os anciãos ungem quem está doente?",
+      "answer": "Com azeite, em nome de Deus.",
+      "reference": "Tg 5:14"
+    },
+    {
+      "id": "JAS.5.curiosity.2",
+      "bookNumber": 660,
+      "chapter": 5,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo a terra ficou sem chuva após a oração de Elias?",
+      "answer": "Três anos e seis meses.",
+      "reference": "Tg 5:17"
+    },
+    {
+      "id": "JAS.0.curiosity.1",
+      "bookNumber": 660,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Tiago?",
+      "answer": "Tiago, irmão do Senhor.",
+      "reference": "Tiago"
+    },
+    {
+      "id": "JAS.0.curiosity.2",
+      "bookNumber": 660,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Tiago?",
+      "answer": "Por volta do ano 45.",
+      "reference": "Tiago"
+    },
+    {
+      "id": "JAS.0.curiosity.3",
+      "bookNumber": 660,
+      "chapter": 0,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "A quem Tiago dirige a carta?",
+      "answer": "Às doze tribos espalhadas.",
+      "reference": "Tg 1:1"
+    }
+  ]
+}

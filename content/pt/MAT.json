@@ -1,0 +1,1104 @@
+{
+  "cards": [
+    {
+      "id": "MAT.1.subject.1",
+      "bookNumber": 470,
+      "chapter": 1,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "Por que o filho de Maria se chamaria Jesus?",
+      "answer": "Porque ele salvaria o povo dos pecados dele.",
+      "reference": "Mt 1:21"
+    },
+    {
+      "id": "MAT.1.name.1",
+      "bookNumber": 470,
+      "chapter": 1,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem era o marido de Maria, mãe de Jesus?",
+      "answer": "José.",
+      "reference": "Mt 1:16"
+    },
+    {
+      "id": "MAT.1.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 1,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Quantas gerações Mateus conta de Abraão até Davi?",
+      "answer": "Catorze gerações.",
+      "reference": "Mt 1:17"
+    },
+    {
+      "id": "MAT.1.curiosity.2",
+      "bookNumber": 470,
+      "chapter": 1,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "Que nome quer dizer Deus conosco, em Mateus?",
+      "answer": "Emanuel.",
+      "reference": "Mt 1:23"
+    },
+    {
+      "id": "MAT.2.subject.1",
+      "bookNumber": 470,
+      "chapter": 2,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que os magos fizeram ao achar o menino com Maria?",
+      "answer": "Adoraram o menino e entregaram ouro, incenso e mirra.",
+      "reference": "Mt 2:11"
+    },
+    {
+      "id": "MAT.2.name.1",
+      "bookNumber": 470,
+      "chapter": 2,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem mandou matar os meninos de Belém?",
+      "answer": "O rei Herodes.",
+      "reference": "Mt 2:16"
+    },
+    {
+      "id": "MAT.2.place.1",
+      "bookNumber": 470,
+      "chapter": 2,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Para onde José fugiu de noite com o menino e a mãe?",
+      "answer": "Para o Egito.",
+      "reference": "Mt 2:14"
+    },
+    {
+      "id": "MAT.2.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 2,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Até que idade Herodes mandou matar os meninos?",
+      "answer": "De dois anos para baixo.",
+      "reference": "Mt 2:16"
+    },
+    {
+      "id": "MAT.3.subject.1",
+      "bookNumber": 470,
+      "chapter": 3,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "O que desceu sobre Jesus depois do batismo?",
+      "answer": "O Espírito de Deus, em forma de pomba.",
+      "reference": "Mt 3:16"
+    },
+    {
+      "id": "MAT.3.name.1",
+      "bookNumber": 470,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem pregava no deserto da Judeia?",
+      "answer": "João Batista.",
+      "reference": "Mt 3:1"
+    },
+    {
+      "id": "MAT.3.place.1",
+      "bookNumber": 470,
+      "chapter": 3,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Onde João batizou Jesus, vindo da Galileia?",
+      "answer": "No Jordão.",
+      "reference": "Mt 3:13"
+    },
+    {
+      "id": "MAT.3.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 3,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "De que era feita a roupa de João Batista?",
+      "answer": "De pelos de camelo, com um cinto de couro.",
+      "reference": "Mt 3:4"
+    },
+    {
+      "id": "MAT.4.subject.1",
+      "bookNumber": 470,
+      "chapter": 4,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Para que o Espírito levou Jesus ao deserto?",
+      "answer": "Para que o diabo o tentasse.",
+      "reference": "Mt 4:1"
+    },
+    {
+      "id": "MAT.4.name.1",
+      "bookNumber": 470,
+      "chapter": 4,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Que pescadores Jesus chamou no mar da Galileia?",
+      "answer": "Simão Pedro e André, irmão dele.",
+      "reference": "Mt 4:18"
+    },
+    {
+      "id": "MAT.4.place.1",
+      "bookNumber": 470,
+      "chapter": 4,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Onde Jesus foi morar depois de deixar Nazaré?",
+      "answer": "Em Cafarnaum, cidade à beira do mar.",
+      "reference": "Mt 4:13"
+    },
+    {
+      "id": "MAT.4.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo Jesus jejuou no deserto?",
+      "answer": "Quarenta dias e quarenta noites.",
+      "reference": "Mt 4:2"
+    },
+    {
+      "id": "MAT.5.subject.1",
+      "bookNumber": 470,
+      "chapter": 5,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que Jesus prometeu aos humildes de espírito?",
+      "answer": "O Reino dos céus.",
+      "reference": "Mt 5:3"
+    },
+    {
+      "id": "MAT.5.place.1",
+      "bookNumber": 470,
+      "chapter": 5,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Jesus sentou para ensinar os humildes de espírito?",
+      "answer": "Num monte.",
+      "reference": "Mt 5:1"
+    },
+    {
+      "id": "MAT.5.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 5,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "A que Jesus comparou os discípulos, além do sal da terra?",
+      "answer": "À luz do mundo.",
+      "reference": "Mt 5:14"
+    },
+    {
+      "id": "MAT.5.curiosity.2",
+      "bookNumber": 470,
+      "chapter": 5,
+      "verseStart": 44,
+      "kind": "curiosity",
+      "prompt": "O que Jesus mandou fazer pelos inimigos?",
+      "answer": "Amá-los e orar por quem os persegue.",
+      "reference": "Mt 5:44"
+    },
+    {
+      "id": "MAT.6.subject.1",
+      "bookNumber": 470,
+      "chapter": 6,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Como Jesus ensinou a começar a oração?",
+      "answer": "Chamando a Deus de Pai nosso, que está nos céus.",
+      "reference": "Mt 6:9"
+    },
+    {
+      "id": "MAT.6.name.1",
+      "bookNumber": 470,
+      "chapter": 6,
+      "verseStart": 29,
+      "kind": "name",
+      "prompt": "Quem Jesus disse que não se vestiu como os lírios?",
+      "answer": "Salomão, nem na maior glória dele.",
+      "reference": "Mt 6:29"
+    },
+    {
+      "id": "MAT.6.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 6,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "A quem não se pode servir junto com Deus, em Mateus?",
+      "answer": "Às riquezas.",
+      "reference": "Mt 6:24"
+    },
+    {
+      "id": "MAT.6.curiosity.2",
+      "bookNumber": 470,
+      "chapter": 6,
+      "verseStart": 33,
+      "kind": "curiosity",
+      "prompt": "O que Jesus mandou buscar antes de tudo?",
+      "answer": "O Reino de Deus, junto com a justiça dele.",
+      "reference": "Mt 6:33"
+    },
+    {
+      "id": "MAT.7.subject.1",
+      "bookNumber": 470,
+      "chapter": 7,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Como Jesus resumiu a Lei e os Profetas, antes da porta estreita?",
+      "answer": "Fazer aos outros o que se quer receber deles.",
+      "reference": "Mt 7:12"
+    },
+    {
+      "id": "MAT.7.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 7,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Como Jesus descreveu a rota que conduz à vida?",
+      "answer": "Apertada, e pouca gente a encontra.",
+      "reference": "Mt 7:14"
+    },
+    {
+      "id": "MAT.7.curiosity.2",
+      "bookNumber": 470,
+      "chapter": 7,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Sobre o que o homem prudente firmou a casa, em Mateus?",
+      "answer": "Sobre a rocha.",
+      "reference": "Mt 7:24"
+    },
+    {
+      "id": "MAT.8.subject.1",
+      "bookNumber": 470,
+      "chapter": 8,
+      "verseStart": 26,
+      "kind": "subject",
+      "prompt": "O que Jesus fez quando a tormenta cobria o barco?",
+      "answer": "Repreendeu a ventania e o mar, e tudo se acalmou.",
+      "reference": "Mt 8:26"
+    },
+    {
+      "id": "MAT.8.name.1",
+      "bookNumber": 470,
+      "chapter": 8,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Quem pediu a cura do servo em Cafarnaum?",
+      "answer": "Um centurião.",
+      "reference": "Mt 8:5"
+    },
+    {
+      "id": "MAT.8.place.1",
+      "bookNumber": 470,
+      "chapter": 8,
+      "verseStart": 28,
+      "kind": "place",
+      "prompt": "Onde dois endemoninhados saíram ao encontro de Jesus?",
+      "answer": "Na terra dos gergesenos.",
+      "reference": "Mt 8:28"
+    },
+    {
+      "id": "MAT.8.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 8,
+      "verseStart": 32,
+      "kind": "curiosity",
+      "prompt": "Para onde se lançou a manada de porcos do precipício, em Mateus?",
+      "answer": "Despenhou-se de um precipício no mar e morreu.",
+      "reference": "Mt 8:32"
+    },
+    {
+      "id": "MAT.9.subject.1",
+      "bookNumber": 470,
+      "chapter": 9,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Jesus provou ao mandar o paralítico andar?",
+      "answer": "Que tinha poder na terra para perdoar pecados.",
+      "reference": "Mt 9:6"
+    },
+    {
+      "id": "MAT.9.name.1",
+      "bookNumber": 470,
+      "chapter": 9,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem Jesus chamou na coletoria de impostos?",
+      "answer": "Mateus, e ele se levantou e o seguiu.",
+      "reference": "Mt 9:9"
+    },
+    {
+      "id": "MAT.9.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 9,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Havia quanto tempo a mulher perdia sangue, em Mateus?",
+      "answer": "Havia doze anos.",
+      "reference": "Mt 9:20"
+    },
+    {
+      "id": "MAT.9.curiosity.2",
+      "bookNumber": 470,
+      "chapter": 9,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "O que Jesus fez à menina dada como morta?",
+      "answer": "Tomou-a pela mão, e ela se ergueu.",
+      "reference": "Mt 9:25"
+    },
+    {
+      "id": "MAT.10.subject.1",
+      "bookNumber": 470,
+      "chapter": 10,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "A quem Jesus enviou os doze primeiro?",
+      "answer": "Às ovelhas perdidas de Israel.",
+      "reference": "Mt 10:6"
+    },
+    {
+      "id": "MAT.10.name.1",
+      "bookNumber": 470,
+      "chapter": 10,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Qual dos doze traiu Jesus?",
+      "answer": "Judas Iscariotes.",
+      "reference": "Mt 10:4"
+    },
+    {
+      "id": "MAT.10.place.1",
+      "bookNumber": 470,
+      "chapter": 10,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Que caminho Jesus proibiu aos doze no início?",
+      "answer": "O dos gentios e as cidades dos samaritanos.",
+      "reference": "Mt 10:5"
+    },
+    {
+      "id": "MAT.10.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 10,
+      "verseStart": 29,
+      "kind": "curiosity",
+      "prompt": "Por quanto Jesus disse que se vendem dois pardais?",
+      "answer": "Por uma moeda pequena.",
+      "reference": "Mt 10:29"
+    },
+    {
+      "id": "MAT.11.subject.1",
+      "bookNumber": 470,
+      "chapter": 11,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "A quem Jesus prometeu descanso?",
+      "answer": "Aos cansados e aos que carregam peso demais.",
+      "reference": "Mt 11:28"
+    },
+    {
+      "id": "MAT.11.name.1",
+      "bookNumber": 470,
+      "chapter": 11,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem, da prisão, mandou perguntar se Jesus era o esperado?",
+      "answer": "João.",
+      "reference": "Mt 11:2"
+    },
+    {
+      "id": "MAT.11.place.1",
+      "bookNumber": 470,
+      "chapter": 11,
+      "verseStart": 21,
+      "kind": "place",
+      "prompt": "Que cidades Jesus censurou comparando-as a Tiro e Sidom?",
+      "answer": "Corazim e Betsaida.",
+      "reference": "Mt 11:21"
+    },
+    {
+      "id": "MAT.11.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 11,
+      "verseStart": 30,
+      "kind": "curiosity",
+      "prompt": "Como Jesus descreveu o jugo e a carga dele?",
+      "answer": "O jugo é suave, e a carga é leve.",
+      "reference": "Mt 11:30"
+    },
+    {
+      "id": "MAT.12.subject.1",
+      "bookNumber": 470,
+      "chapter": 12,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que houve quando o homem estendeu a mão atrofiada, em Mateus?",
+      "answer": "A mão foi restaurada e ficou sã.",
+      "reference": "Mt 12:13"
+    },
+    {
+      "id": "MAT.12.name.1",
+      "bookNumber": 470,
+      "chapter": 12,
+      "verseStart": 24,
+      "kind": "name",
+      "prompt": "Por quem os fariseus diziam que Jesus expulsava demônios?",
+      "answer": "Por Belzebu, o chefe deles.",
+      "reference": "Mt 12:24"
+    },
+    {
+      "id": "MAT.12.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 12,
+      "verseStart": 40,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo Jesus disse que ficaria sob a terra?",
+      "answer": "Três dias e três noites, como Jonas.",
+      "reference": "Mt 12:40"
+    },
+    {
+      "id": "MAT.13.subject.1",
+      "bookNumber": 470,
+      "chapter": 13,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Que parábola Jesus contou de quem saiu a lançar semente?",
+      "answer": "A do semeador.",
+      "reference": "Mt 13:3"
+    },
+    {
+      "id": "MAT.13.name.1",
+      "bookNumber": 470,
+      "chapter": 13,
+      "verseStart": 55,
+      "kind": "name",
+      "prompt": "Quem os vizinhos diziam ser a mãe de Jesus?",
+      "answer": "Maria.",
+      "reference": "Mt 13:55"
+    },
+    {
+      "id": "MAT.13.place.1",
+      "bookNumber": 470,
+      "chapter": 13,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Jesus se sentou ao sair de casa, no dia das parábolas?",
+      "answer": "Junto ao mar.",
+      "reference": "Mt 13:1"
+    },
+    {
+      "id": "MAT.13.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 13,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "A que semente Jesus comparou o Reino dos céus?",
+      "answer": "A um grão de mostarda.",
+      "reference": "Mt 13:31"
+    },
+    {
+      "id": "MAT.14.subject.1",
+      "bookNumber": 470,
+      "chapter": 14,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "O que Jesus fez com cinco pães e dois peixes?",
+      "answer": "Abençoou, partiu e deu aos discípulos para a multidão.",
+      "reference": "Mt 14:19"
+    },
+    {
+      "id": "MAT.14.name.1",
+      "bookNumber": 470,
+      "chapter": 14,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Por causa de quem Herodes prendeu João Batista?",
+      "answer": "Por causa de Herodias, mulher de Filipe.",
+      "reference": "Mt 14:3"
+    },
+    {
+      "id": "MAT.14.place.1",
+      "bookNumber": 470,
+      "chapter": 14,
+      "verseStart": 34,
+      "kind": "place",
+      "prompt": "A que terra Jesus chegou depois que Pedro andou sobre as águas?",
+      "answer": "À terra de Genesaré.",
+      "reference": "Mt 14:34"
+    },
+    {
+      "id": "MAT.14.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 14,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "Fora mulheres e crianças, quase quantos homens comeram dos cinco pães, em Mateus?",
+      "answer": "Cinco mil.",
+      "reference": "Mt 14:21"
+    },
+    {
+      "id": "MAT.15.subject.1",
+      "bookNumber": 470,
+      "chapter": 15,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "O que a fé da mulher cananeia conseguiu, em Mateus?",
+      "answer": "A filha dela ficou curada naquela hora.",
+      "reference": "Mt 15:28"
+    },
+    {
+      "id": "MAT.15.place.1",
+      "bookNumber": 470,
+      "chapter": 15,
+      "verseStart": 21,
+      "kind": "place",
+      "prompt": "Para os lados de que cidades Jesus se retirou?",
+      "answer": "De Tiro e de Sidom.",
+      "reference": "Mt 15:21"
+    },
+    {
+      "id": "MAT.15.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 15,
+      "verseStart": 34,
+      "kind": "curiosity",
+      "prompt": "Quantos pães havia para a multidão que já estava três dias com Jesus?",
+      "answer": "Sete, e mais uns poucos peixes.",
+      "reference": "Mt 15:34"
+    },
+    {
+      "id": "MAT.15.curiosity.2",
+      "bookNumber": 470,
+      "chapter": 15,
+      "verseStart": 38,
+      "kind": "curiosity",
+      "prompt": "Quantos homens comeram dos sete pães, sem mulheres e crianças, em Mateus?",
+      "answer": "Quatro mil.",
+      "reference": "Mt 15:38"
+    },
+    {
+      "id": "MAT.16.subject.1",
+      "bookNumber": 470,
+      "chapter": 16,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Quem Simão Pedro disse que Jesus era?",
+      "answer": "O Cristo e o Filho do Deus vivo.",
+      "reference": "Mt 16:16"
+    },
+    {
+      "id": "MAT.16.name.1",
+      "bookNumber": 470,
+      "chapter": 16,
+      "verseStart": 17,
+      "kind": "name",
+      "prompt": "De quem Jesus disse que Simão era filho?",
+      "answer": "De Jonas.",
+      "reference": "Mt 16:17"
+    },
+    {
+      "id": "MAT.16.place.1",
+      "bookNumber": 470,
+      "chapter": 16,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Onde Jesus perguntou quem o povo dizia que ele era?",
+      "answer": "Nas partes da Cesareia de Filipe.",
+      "reference": "Mt 16:13"
+    },
+    {
+      "id": "MAT.16.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 16,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que Jesus disse que daria a Pedro?",
+      "answer": "As chaves do Reino celestial.",
+      "reference": "Mt 16:19"
+    },
+    {
+      "id": "MAT.17.subject.1",
+      "bookNumber": 470,
+      "chapter": 17,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Como Jesus apareceu ao se transfigurar?",
+      "answer": "O rosto brilhou feito o sol, e a roupa ficou branca.",
+      "reference": "Mt 17:2"
+    },
+    {
+      "id": "MAT.17.name.1",
+      "bookNumber": 470,
+      "chapter": 17,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Quem apareceu conversando com Jesus no monte?",
+      "answer": "Moisés e Elias.",
+      "reference": "Mt 17:3"
+    },
+    {
+      "id": "MAT.17.place.1",
+      "bookNumber": 470,
+      "chapter": 17,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Aonde Jesus levou Pedro, Tiago e João na transfiguração?",
+      "answer": "A um monte alto, a sós.",
+      "reference": "Mt 17:1"
+    },
+    {
+      "id": "MAT.17.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 17,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "O que Pedro acharia na boca do primeiro peixe?",
+      "answer": "Uma moeda de quatro dracmas.",
+      "reference": "Mt 17:27"
+    },
+    {
+      "id": "MAT.18.subject.1",
+      "bookNumber": 470,
+      "chapter": 18,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "Até quantas vezes Jesus mandou Pedro perdoar?",
+      "answer": "Até setenta vezes sete.",
+      "reference": "Mt 18:22"
+    },
+    {
+      "id": "MAT.18.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 18,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Quantas ovelhas ficam enquanto uma é procurada, em Mateus?",
+      "answer": "Noventa e nove.",
+      "reference": "Mt 18:12"
+    },
+    {
+      "id": "MAT.18.curiosity.2",
+      "bookNumber": 470,
+      "chapter": 18,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Quanto o servo devia ao rei na parábola, em Mateus?",
+      "answer": "Dez mil talentos.",
+      "reference": "Mt 18:24"
+    },
+    {
+      "id": "MAT.19.subject.1",
+      "bookNumber": 470,
+      "chapter": 19,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "Por que o rapaz foi embora triste de Jesus?",
+      "answer": "Porque tinha muitos bens.",
+      "reference": "Mt 19:22"
+    },
+    {
+      "id": "MAT.19.name.1",
+      "bookNumber": 470,
+      "chapter": 19,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Quem os fariseus disseram que permitiu o divórcio, em Mateus?",
+      "answer": "Moisés.",
+      "reference": "Mt 19:7"
+    },
+    {
+      "id": "MAT.19.place.1",
+      "bookNumber": 470,
+      "chapter": 19,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Para onde Jesus foi ao sair da Galileia, antes do jovem rico?",
+      "answer": "Para a Judeia, além do Jordão.",
+      "reference": "Mt 19:1"
+    },
+    {
+      "id": "MAT.19.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 19,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "O que passa mais fácil que um rico no Reino de Deus?",
+      "answer": "Um camelo, pelo buraco de uma agulha.",
+      "reference": "Mt 19:24"
+    },
+    {
+      "id": "MAT.20.subject.1",
+      "bookNumber": 470,
+      "chapter": 20,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "O que Jesus disse dos últimos e dos primeiros?",
+      "answer": "Os de trás ficam na frente, e os da frente, atrás.",
+      "reference": "Mt 20:16"
+    },
+    {
+      "id": "MAT.20.name.1",
+      "bookNumber": 470,
+      "chapter": 20,
+      "verseStart": 20,
+      "kind": "name",
+      "prompt": "Quem pediu tronos para os filhos de Zebedeu?",
+      "answer": "A mãe deles.",
+      "reference": "Mt 20:20"
+    },
+    {
+      "id": "MAT.20.place.1",
+      "bookNumber": 470,
+      "chapter": 20,
+      "verseStart": 29,
+      "kind": "place",
+      "prompt": "De que cidade Jesus saía quando dois cegos clamaram?",
+      "answer": "De Jericó.",
+      "reference": "Mt 20:29"
+    },
+    {
+      "id": "MAT.20.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 20,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Que pagamento diário foi combinado na vinha, em Mateus?",
+      "answer": "Um denário.",
+      "reference": "Mt 20:2"
+    },
+    {
+      "id": "MAT.21.subject.1",
+      "bookNumber": 470,
+      "chapter": 21,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que a multidão clamava a Jesus no caminho?",
+      "answer": "Aclamava o Filho de Davi, que vinha da parte de Deus.",
+      "reference": "Mt 21:9"
+    },
+    {
+      "id": "MAT.21.place.1",
+      "bookNumber": 470,
+      "chapter": 21,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Perto de que monte fica Betfagé, antes de Jerusalém?",
+      "answer": "Do monte das Oliveiras.",
+      "reference": "Mt 21:1"
+    },
+    {
+      "id": "MAT.21.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 21,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que Jesus derrubou no Templo?",
+      "answer": "As mesas de quem trocava dinheiro e os bancos das pombas.",
+      "reference": "Mt 21:12"
+    },
+    {
+      "id": "MAT.21.curiosity.2",
+      "bookNumber": 470,
+      "chapter": 21,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que aconteceu à figueira que só tinha folhas, em Mateus?",
+      "answer": "Secou na mesma hora.",
+      "reference": "Mt 21:19"
+    },
+    {
+      "id": "MAT.22.subject.1",
+      "bookNumber": 470,
+      "chapter": 22,
+      "verseStart": 37,
+      "kind": "subject",
+      "prompt": "Como Jesus disse para amar a Deus?",
+      "answer": "Com o coração, a alma e o entendimento por inteiro.",
+      "reference": "Mt 22:37"
+    },
+    {
+      "id": "MAT.22.name.1",
+      "bookNumber": 470,
+      "chapter": 22,
+      "verseStart": 21,
+      "kind": "name",
+      "prompt": "De quem era a imagem na moeda do tributo, em Mateus?",
+      "answer": "De César.",
+      "reference": "Mt 22:21"
+    },
+    {
+      "id": "MAT.22.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 22,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Quem encheu a festa depois que os convidados recusaram, em Mateus?",
+      "answer": "Gente achada pelos caminhos, maus e bons.",
+      "reference": "Mt 22:10"
+    },
+    {
+      "id": "MAT.22.curiosity.2",
+      "bookNumber": 470,
+      "chapter": 22,
+      "verseStart": 30,
+      "kind": "curiosity",
+      "prompt": "Como serão as pessoas na ressurreição, em Mateus?",
+      "answer": "Como os anjos de Deus, sem se casarem.",
+      "reference": "Mt 22:30"
+    },
+    {
+      "id": "MAT.23.subject.1",
+      "bookNumber": 470,
+      "chapter": 23,
+      "verseStart": 27,
+      "kind": "subject",
+      "prompt": "A que Jesus comparou os escribas e fariseus?",
+      "answer": "A túmulos caiados, belos fora e impuros dentro.",
+      "reference": "Mt 23:27"
+    },
+    {
+      "id": "MAT.23.name.1",
+      "bookNumber": 470,
+      "chapter": 23,
+      "verseStart": 35,
+      "kind": "name",
+      "prompt": "De Abel até quem Jesus falou do sangue justo?",
+      "answer": "Até Zacarias, filho de Baraquias.",
+      "reference": "Mt 23:35"
+    },
+    {
+      "id": "MAT.23.place.1",
+      "bookNumber": 470,
+      "chapter": 23,
+      "verseStart": 37,
+      "kind": "place",
+      "prompt": "Que cidade Jesus disse que mata os profetas?",
+      "answer": "Jerusalém.",
+      "reference": "Mt 23:37"
+    },
+    {
+      "id": "MAT.23.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 23,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "O que os guias cegos coam e o que engolem, em Mateus?",
+      "answer": "Coam um mosquito e engolem um camelo.",
+      "reference": "Mt 23:24"
+    },
+    {
+      "id": "MAT.24.subject.1",
+      "bookNumber": 470,
+      "chapter": 24,
+      "verseStart": 30,
+      "kind": "subject",
+      "prompt": "Como as tribos verão o Filho do homem vir, em Mateus?",
+      "answer": "Sobre as nuvens, com poder e muita glória.",
+      "reference": "Mt 24:30"
+    },
+    {
+      "id": "MAT.24.name.1",
+      "bookNumber": 470,
+      "chapter": 24,
+      "verseStart": 37,
+      "kind": "name",
+      "prompt": "Aos dias de quem Jesus comparou a vinda dele?",
+      "answer": "Aos dias de Noé.",
+      "reference": "Mt 24:37"
+    },
+    {
+      "id": "MAT.24.place.1",
+      "bookNumber": 470,
+      "chapter": 24,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Onde os discípulos perguntaram pelo fim, em Mateus?",
+      "answer": "No monte das Oliveiras.",
+      "reference": "Mt 24:3"
+    },
+    {
+      "id": "MAT.24.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 24,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que Jesus disse das pedras do templo?",
+      "answer": "Nenhuma ficaria sobre a outra.",
+      "reference": "Mt 24:2"
+    },
+    {
+      "id": "MAT.25.subject.1",
+      "bookNumber": 470,
+      "chapter": 25,
+      "verseStart": 33,
+      "kind": "subject",
+      "prompt": "De que lado o Rei porá ovelhas e bodes?",
+      "answer": "As ovelhas à direita e os bodes à esquerda.",
+      "reference": "Mt 25:33"
+    },
+    {
+      "id": "MAT.25.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 25,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quantas das dez virgens eram prudentes, em Mateus?",
+      "answer": "Cinco. As outras cinco eram tolas.",
+      "reference": "Mt 25:2"
+    },
+    {
+      "id": "MAT.25.curiosity.2",
+      "bookNumber": 470,
+      "chapter": 25,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quantos talentos o homem entregou aos três servos, em Mateus?",
+      "answer": "Cinco, dois e um.",
+      "reference": "Mt 25:15"
+    },
+    {
+      "id": "MAT.26.subject.1",
+      "bookNumber": 470,
+      "chapter": 26,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "O que Jesus disse que o cálice era, na ceia?",
+      "answer": "O sangue da nova aliança, derramado para perdoar.",
+      "reference": "Mt 26:28"
+    },
+    {
+      "id": "MAT.26.name.1",
+      "bookNumber": 470,
+      "chapter": 26,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem foi entregar Jesus aos chefes dos sacerdotes?",
+      "answer": "Judas Iscariotes, um dos doze.",
+      "reference": "Mt 26:14"
+    },
+    {
+      "id": "MAT.26.place.1",
+      "bookNumber": 470,
+      "chapter": 26,
+      "verseStart": 36,
+      "kind": "place",
+      "prompt": "Onde Jesus orou com Pedro, Tiago e João antes da prisão?",
+      "answer": "Num lugar chamado Getsêmani.",
+      "reference": "Mt 26:36"
+    },
+    {
+      "id": "MAT.26.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 26,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Por quanto Judas combinou entregar Jesus?",
+      "answer": "Por trinta moedas de prata.",
+      "reference": "Mt 26:15"
+    },
+    {
+      "id": "MAT.27.subject.1",
+      "bookNumber": 470,
+      "chapter": 27,
+      "verseStart": 50,
+      "kind": "subject",
+      "prompt": "Como Jesus morreu na cruz?",
+      "answer": "Gritou bem alto e entregou o espírito.",
+      "reference": "Mt 27:50"
+    },
+    {
+      "id": "MAT.27.name.1",
+      "bookNumber": 470,
+      "chapter": 27,
+      "verseStart": 32,
+      "kind": "name",
+      "prompt": "Quem foi obrigado a carregar a cruz de Jesus?",
+      "answer": "Simão, homem de Cirene.",
+      "reference": "Mt 27:32"
+    },
+    {
+      "id": "MAT.27.place.1",
+      "bookNumber": 470,
+      "chapter": 27,
+      "verseStart": 33,
+      "kind": "place",
+      "prompt": "Como se chama o lugar onde Jesus foi crucificado?",
+      "answer": "Gólgota, o lugar da caveira.",
+      "reference": "Mt 27:33"
+    },
+    {
+      "id": "MAT.27.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 27,
+      "verseStart": 45,
+      "kind": "curiosity",
+      "prompt": "Em que horas houve trevas na crucificação, em Mateus?",
+      "answer": "Da hora sexta até a hora nona.",
+      "reference": "Mt 27:45"
+    },
+    {
+      "id": "MAT.28.subject.1",
+      "bookNumber": 470,
+      "chapter": 28,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que o anjo disse às mulheres no sepulcro, em Mateus?",
+      "answer": "Que Jesus tinha ressuscitado e não estava ali.",
+      "reference": "Mt 28:6"
+    },
+    {
+      "id": "MAT.28.name.1",
+      "bookNumber": 470,
+      "chapter": 28,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "No fim do sábado, quem foi ver o sepulcro ao clarear, em Mateus?",
+      "answer": "Madalena e a outra, também chamada Maria.",
+      "reference": "Mt 28:1"
+    },
+    {
+      "id": "MAT.28.place.1",
+      "bookNumber": 470,
+      "chapter": 28,
+      "verseStart": 16,
+      "kind": "place",
+      "prompt": "Aonde foram os onze receber a ordem de fazer discípulos, em Mateus?",
+      "answer": "A um monte na Galileia.",
+      "reference": "Mt 28:16"
+    },
+    {
+      "id": "MAT.28.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 28,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Em nome de quem Jesus mandou batizar?",
+      "answer": "No nome do Pai e do Filho, com o Espírito Santo.",
+      "reference": "Mt 28:19"
+    },
+    {
+      "id": "MAT.0.curiosity.1",
+      "bookNumber": 470,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Mateus?",
+      "answer": "Mateus.",
+      "reference": "Mateus"
+    },
+    {
+      "id": "MAT.0.curiosity.2",
+      "bookNumber": 470,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Mateus?",
+      "answer": "Antes do ano 70.",
+      "reference": "Mateus"
+    }
+  ]
+}

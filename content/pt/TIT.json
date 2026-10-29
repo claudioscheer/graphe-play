@@ -1,0 +1,134 @@
+{
+  "cards": [
+    {
+      "id": "TIT.1.subject.1",
+      "bookNumber": 630,
+      "chapter": 1,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Para que Paulo deixou Tito em Creta?",
+      "answer": "Para organizar o que faltava e nomear presbíteros.",
+      "reference": "Tt 1:5"
+    },
+    {
+      "id": "TIT.1.place.1",
+      "bookNumber": 630,
+      "chapter": 1,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Em que ilha Tito devia constituir presbíteros?",
+      "answer": "Em Creta, de cidade em cidade.",
+      "reference": "Tt 1:5"
+    },
+    {
+      "id": "TIT.1.curiosity.1",
+      "bookNumber": 630,
+      "chapter": 1,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que um profeta de Creta dizia do próprio povo?",
+      "answer": "Que eram mentirosos, bichos maus e preguiçosos para comer.",
+      "reference": "Tt 1:12"
+    },
+    {
+      "id": "TIT.2.subject.1",
+      "bookNumber": 630,
+      "chapter": 2,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Como a graça de Deus ensina a viver agora?",
+      "answer": "Com sobriedade, justiça e devoção, longe dos maus desejos.",
+      "reference": "Tt 2:12"
+    },
+    {
+      "id": "TIT.2.curiosity.1",
+      "bookNumber": 630,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que as mulheres idosas devem ensinar às moças?",
+      "answer": "A serem prudentes e a amar o marido e os filhos.",
+      "reference": "Tt 2:4"
+    },
+    {
+      "id": "TIT.2.curiosity.2",
+      "bookNumber": 630,
+      "chapter": 2,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "O que os crentes ficam aguardando?",
+      "answer": "A esperança feliz e a glória de Jesus Cristo.",
+      "reference": "Tt 2:13"
+    },
+    {
+      "id": "TIT.3.subject.1",
+      "bookNumber": 630,
+      "chapter": 3,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Como Deus salvou, se não foi pelas obras?",
+      "answer": "Pela misericórdia, no banho do novo nascimento.",
+      "reference": "Tt 3:5"
+    },
+    {
+      "id": "TIT.3.name.1",
+      "bookNumber": 630,
+      "chapter": 3,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "Quem Tito devia ajudar na viagem?",
+      "answer": "Zenas, entendido na lei, e Apolo.",
+      "reference": "Tt 3:13"
+    },
+    {
+      "id": "TIT.3.place.1",
+      "bookNumber": 630,
+      "chapter": 3,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Onde Paulo decidiu passar o inverno?",
+      "answer": "Em Nicópolis.",
+      "reference": "Tt 3:12"
+    },
+    {
+      "id": "TIT.3.curiosity.1",
+      "bookNumber": 630,
+      "chapter": 3,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Depois de quantas advertências se rejeita o rebelde?",
+      "answer": "Depois de duas.",
+      "reference": "Tt 3:10"
+    },
+    {
+      "id": "TIT.0.curiosity.1",
+      "bookNumber": 630,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Tito?",
+      "answer": "Paulo.",
+      "reference": "Tito"
+    },
+    {
+      "id": "TIT.0.curiosity.2",
+      "bookNumber": 630,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Tito?",
+      "answer": "Por volta do ano 63.",
+      "reference": "Tito"
+    },
+    {
+      "id": "TIT.0.curiosity.3",
+      "bookNumber": 630,
+      "chapter": 0,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Para quem Paulo escreveu Tito?",
+      "answer": "Para Tito, seu filho na fé.",
+      "reference": "Tt 1:4"
+    }
+  ]
+}

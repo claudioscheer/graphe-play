@@ -1,0 +1,1514 @@
+{
+  "cards": [
+    {
+      "id": "GEN.1.subject.1",
+      "bookNumber": 10,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que Deus fez no princípio?",
+      "answer": "Criou os céus e a terra.",
+      "reference": "Gn 1:1"
+    },
+    {
+      "id": "GEN.1.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 1,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "Como Deus viu tudo o que tinha feito?",
+      "answer": "Viu que era muito bom.",
+      "reference": "Gn 1:31"
+    },
+    {
+      "id": "GEN.1.curiosity.2",
+      "bookNumber": 10,
+      "chapter": 1,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "Quem Deus criou à sua imagem?",
+      "answer": "O ser humano, homem e mulher.",
+      "reference": "Gn 1:27"
+    },
+    {
+      "id": "GEN.2.subject.1",
+      "bookNumber": 10,
+      "chapter": 2,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Do que Deus formou o homem?",
+      "answer": "Do pó da terra, e lhe deu o fôlego de vida.",
+      "reference": "Gn 2:7"
+    },
+    {
+      "id": "GEN.2.place.1",
+      "bookNumber": 10,
+      "chapter": 2,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Onde Deus colocou Adão?",
+      "answer": "No jardim do Éden.",
+      "reference": "Gn 2:8"
+    },
+    {
+      "id": "GEN.2.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 2,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "De qual árvore Adão e Eva não podiam comer?",
+      "answer": "Da árvore do conhecimento do bem e do mal.",
+      "reference": "Gn 2:17"
+    },
+    {
+      "id": "GEN.3.subject.1",
+      "bookNumber": 10,
+      "chapter": 3,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Adão e a mulher comeram?",
+      "answer": "Do fruto da árvore proibida.",
+      "reference": "Gn 3:6"
+    },
+    {
+      "id": "GEN.3.name.1",
+      "bookNumber": 10,
+      "chapter": 3,
+      "verseStart": 20,
+      "kind": "name",
+      "prompt": "Que nome Adão deu à sua mulher?",
+      "answer": "Eva.",
+      "reference": "Gn 3:20"
+    },
+    {
+      "id": "GEN.3.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 3,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Quem guardou o caminho da árvore da vida, em Gênesis?",
+      "answer": "Querubins, ao oriente do Éden.",
+      "reference": "Gn 3:24"
+    },
+    {
+      "id": "GEN.3.curiosity.2",
+      "bookNumber": 10,
+      "chapter": 3,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quem ferirá a cabeça da serpente, em Gênesis?",
+      "answer": "A descendência da mulher.",
+      "reference": "Gn 3:15"
+    },
+    {
+      "id": "GEN.4.subject.1",
+      "bookNumber": 10,
+      "chapter": 4,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que Caim fez a Abel?",
+      "answer": "Matou o seu irmão.",
+      "reference": "Gn 4:8"
+    },
+    {
+      "id": "GEN.4.name.1",
+      "bookNumber": 10,
+      "chapter": 4,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem foi o primogênito de Adão e Eva?",
+      "answer": "Caim.",
+      "reference": "Gn 4:1"
+    },
+    {
+      "id": "GEN.4.place.1",
+      "bookNumber": 10,
+      "chapter": 4,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Que cidade Caim edificou?",
+      "answer": "Enoque, o nome do seu filho.",
+      "reference": "Gn 4:17"
+    },
+    {
+      "id": "GEN.5.subject.1",
+      "bookNumber": 10,
+      "chapter": 5,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "De quem começa a lista que chega até Noé?",
+      "answer": "De Adão.",
+      "reference": "Gn 5:1"
+    },
+    {
+      "id": "GEN.5.name.1",
+      "bookNumber": 10,
+      "chapter": 5,
+      "verseStart": 24,
+      "kind": "name",
+      "prompt": "Quem andou com Deus e foi tomado por ele, em Gênesis?",
+      "answer": "Enoque.",
+      "reference": "Gn 5:24"
+    },
+    {
+      "id": "GEN.5.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 5,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "Quantos anos viveu Matusalém?",
+      "answer": "Novecentos e sessenta e nove.",
+      "reference": "Gn 5:27"
+    },
+    {
+      "id": "GEN.6.subject.1",
+      "bookNumber": 10,
+      "chapter": 6,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "O que Deus mandou Noé construir?",
+      "answer": "Uma arca.",
+      "reference": "Gn 6:14"
+    },
+    {
+      "id": "GEN.6.name.1",
+      "bookNumber": 10,
+      "chapter": 6,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem achou graça diante do Senhor antes do dilúvio, em Gênesis?",
+      "answer": "Noé.",
+      "reference": "Gn 6:8"
+    },
+    {
+      "id": "GEN.6.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 6,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Quantos de cada espécie Deus ordenou primeiro a Noé?",
+      "answer": "Um casal de cada.",
+      "reference": "Gn 6:19"
+    },
+    {
+      "id": "GEN.7.subject.1",
+      "bookNumber": 10,
+      "chapter": 7,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Quem entrou na arca com Noé?",
+      "answer": "Sua família, com os animais.",
+      "reference": "Gn 7:7"
+    },
+    {
+      "id": "GEN.7.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 7,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Por quantos dias caiu a chuva do dilúvio, em Gênesis?",
+      "answer": "Quarenta dias e quarenta noites.",
+      "reference": "Gn 7:12"
+    },
+    {
+      "id": "GEN.7.curiosity.2",
+      "bookNumber": 10,
+      "chapter": 7,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Quem fechou a porta da arca, em Gênesis?",
+      "answer": "O Senhor.",
+      "reference": "Gn 7:16"
+    },
+    {
+      "id": "GEN.8.subject.1",
+      "bookNumber": 10,
+      "chapter": 8,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que a pomba trouxe a Noé?",
+      "answer": "Uma folha de oliveira.",
+      "reference": "Gn 8:11"
+    },
+    {
+      "id": "GEN.8.place.1",
+      "bookNumber": 10,
+      "chapter": 8,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Onde a arca de Noé repousou?",
+      "answer": "Sobre os montes de Ararate.",
+      "reference": "Gn 8:4"
+    },
+    {
+      "id": "GEN.8.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 8,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "O que Noé fez ao sair da arca?",
+      "answer": "Edificou um altar ao Senhor.",
+      "reference": "Gn 8:20"
+    },
+    {
+      "id": "GEN.9.subject.1",
+      "bookNumber": 10,
+      "chapter": 9,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Qual foi o sinal da aliança com Noé?",
+      "answer": "O arco nas nuvens.",
+      "reference": "Gn 9:13"
+    },
+    {
+      "id": "GEN.9.name.1",
+      "bookNumber": 10,
+      "chapter": 9,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Quem foram os três filhos de Noé?",
+      "answer": "Sem, Cam e Jafé.",
+      "reference": "Gn 9:18"
+    },
+    {
+      "id": "GEN.10.subject.1",
+      "bookNumber": 10,
+      "chapter": 10,
+      "verseStart": 32,
+      "kind": "subject",
+      "prompt": "O que a lista dos filhos de Noé apresenta?",
+      "answer": "As nações saídas dos filhos de Noé.",
+      "reference": "Gn 10:32"
+    },
+    {
+      "id": "GEN.10.name.1",
+      "bookNumber": 10,
+      "chapter": 10,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem foi um poderoso caçador, em Gênesis?",
+      "answer": "Ninrode.",
+      "reference": "Gn 10:9"
+    },
+    {
+      "id": "GEN.11.subject.1",
+      "bookNumber": 10,
+      "chapter": 11,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Por que a cidade se chamou Babel?",
+      "answer": "Porque ali o Senhor confundiu a língua.",
+      "reference": "Gn 11:9"
+    },
+    {
+      "id": "GEN.11.place.1",
+      "bookNumber": 10,
+      "chapter": 11,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Em que planície o povo de Babel se reuniu?",
+      "answer": "Na terra de Sinar.",
+      "reference": "Gn 11:2"
+    },
+    {
+      "id": "GEN.11.name.1",
+      "bookNumber": 10,
+      "chapter": 11,
+      "verseStart": 27,
+      "kind": "name",
+      "prompt": "Quem foi o pai de Abrão?",
+      "answer": "Tera.",
+      "reference": "Gn 11:27"
+    },
+    {
+      "id": "GEN.12.subject.1",
+      "bookNumber": 10,
+      "chapter": 12,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Para onde Deus chamou Abrão?",
+      "answer": "Para uma terra que lhe mostraria.",
+      "reference": "Gn 12:1"
+    },
+    {
+      "id": "GEN.12.place.1",
+      "bookNumber": 10,
+      "chapter": 12,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "Para onde Abrão desceu na fome?",
+      "answer": "Para o Egito.",
+      "reference": "Gn 12:10"
+    },
+    {
+      "id": "GEN.12.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 12,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Quem seria abençoado em Abrão?",
+      "answer": "Todas as famílias da terra.",
+      "reference": "Gn 12:3"
+    },
+    {
+      "id": "GEN.13.subject.1",
+      "bookNumber": 10,
+      "chapter": 13,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Que região Ló escolheu?",
+      "answer": "A campina do Jordão.",
+      "reference": "Gn 13:11"
+    },
+    {
+      "id": "GEN.13.place.1",
+      "bookNumber": 10,
+      "chapter": 13,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Perto de que cidade Ló armou as tendas?",
+      "answer": "Perto de Sodoma.",
+      "reference": "Gn 13:12"
+    },
+    {
+      "id": "GEN.13.name.1",
+      "bookNumber": 10,
+      "chapter": 13,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem se separou de Abrão?",
+      "answer": "Ló.",
+      "reference": "Gn 13:11"
+    },
+    {
+      "id": "GEN.14.subject.1",
+      "bookNumber": 10,
+      "chapter": 14,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "A quem Abrão resgatou dos reis?",
+      "answer": "A Ló.",
+      "reference": "Gn 14:16"
+    },
+    {
+      "id": "GEN.14.name.1",
+      "bookNumber": 10,
+      "chapter": 14,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Quem abençoou Abrão com pão e vinho?",
+      "answer": "Melquisedeque, rei de Salém.",
+      "reference": "Gn 14:18"
+    },
+    {
+      "id": "GEN.14.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 14,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Com quantos homens Abrão saiu à luta?",
+      "answer": "Trezentos e dezoito.",
+      "reference": "Gn 14:14"
+    },
+    {
+      "id": "GEN.15.subject.1",
+      "bookNumber": 10,
+      "chapter": 15,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Como Deus considerou a fé de Abrão?",
+      "answer": "Como justiça.",
+      "reference": "Gn 15:6"
+    },
+    {
+      "id": "GEN.15.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 15,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "A que Deus comparou a descendência de Abrão ao olhar o céu?",
+      "answer": "Às estrelas do céu.",
+      "reference": "Gn 15:5"
+    },
+    {
+      "id": "GEN.16.subject.1",
+      "bookNumber": 10,
+      "chapter": 16,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Como se chamou o filho de Agar?",
+      "answer": "Ismael.",
+      "reference": "Gn 16:15"
+    },
+    {
+      "id": "GEN.16.name.1",
+      "bookNumber": 10,
+      "chapter": 16,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem era a serva egípcia de Sarai?",
+      "answer": "Agar.",
+      "reference": "Gn 16:1"
+    },
+    {
+      "id": "GEN.16.place.1",
+      "bookNumber": 10,
+      "chapter": 16,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Onde o anjo achou Agar?",
+      "answer": "Junto à fonte no caminho de Sur.",
+      "reference": "Gn 16:7"
+    },
+    {
+      "id": "GEN.17.subject.1",
+      "bookNumber": 10,
+      "chapter": 17,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Que novo nome Abrão recebeu?",
+      "answer": "Abraão.",
+      "reference": "Gn 17:5"
+    },
+    {
+      "id": "GEN.17.name.1",
+      "bookNumber": 10,
+      "chapter": 17,
+      "verseStart": 15,
+      "kind": "name",
+      "prompt": "Que novo nome Sarai recebeu?",
+      "answer": "Sara.",
+      "reference": "Gn 17:15"
+    },
+    {
+      "id": "GEN.17.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 17,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Qual foi o sinal da aliança de Deus com Abraão?",
+      "answer": "A circuncisão.",
+      "reference": "Gn 17:10"
+    },
+    {
+      "id": "GEN.18.subject.1",
+      "bookNumber": 10,
+      "chapter": 18,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que os visitantes prometeram a Abraão sobre Sara?",
+      "answer": "Que Sara teria um filho.",
+      "reference": "Gn 18:10"
+    },
+    {
+      "id": "GEN.18.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 18,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Como Sara reagiu à promessa de um filho?",
+      "answer": "Riu, porque já era idosa.",
+      "reference": "Gn 18:12"
+    },
+    {
+      "id": "GEN.18.place.1",
+      "bookNumber": 10,
+      "chapter": 18,
+      "verseStart": 20,
+      "kind": "place",
+      "prompt": "Que cidades Deus disse a Abraão que ia julgar?",
+      "answer": "Sodoma e Gomorra.",
+      "reference": "Gn 18:20"
+    },
+    {
+      "id": "GEN.19.subject.1",
+      "bookNumber": 10,
+      "chapter": 19,
+      "verseStart": 26,
+      "kind": "subject",
+      "prompt": "No que se transformou a mulher de Ló?",
+      "answer": "Numa estátua de sal.",
+      "reference": "Gn 19:26"
+    },
+    {
+      "id": "GEN.19.place.1",
+      "bookNumber": 10,
+      "chapter": 19,
+      "verseStart": 24,
+      "kind": "place",
+      "prompt": "Que cidades o Senhor destruiu com fogo, em Gênesis?",
+      "answer": "Sodoma e Gomorra.",
+      "reference": "Gn 19:24"
+    },
+    {
+      "id": "GEN.19.name.1",
+      "bookNumber": 10,
+      "chapter": 19,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem recebeu os dois anjos em Sodoma?",
+      "answer": "Ló.",
+      "reference": "Gn 19:1"
+    },
+    {
+      "id": "GEN.20.subject.1",
+      "bookNumber": 10,
+      "chapter": 20,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Como Abraão apresentou Sara em Gerar?",
+      "answer": "Como sua irmã.",
+      "reference": "Gn 20:2"
+    },
+    {
+      "id": "GEN.20.name.1",
+      "bookNumber": 10,
+      "chapter": 20,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem era o rei de Gerar?",
+      "answer": "Abimeleque.",
+      "reference": "Gn 20:2"
+    },
+    {
+      "id": "GEN.20.place.1",
+      "bookNumber": 10,
+      "chapter": 20,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Para onde Abraão foi peregrinar na terra do Sul?",
+      "answer": "Para Gerar.",
+      "reference": "Gn 20:1"
+    },
+    {
+      "id": "GEN.21.subject.1",
+      "bookNumber": 10,
+      "chapter": 21,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Que nome teve o filho de Sara?",
+      "answer": "Isaque.",
+      "reference": "Gn 21:3"
+    },
+    {
+      "id": "GEN.21.place.1",
+      "bookNumber": 10,
+      "chapter": 21,
+      "verseStart": 31,
+      "kind": "place",
+      "prompt": "Como se chamou o poço do juramento, em Gênesis?",
+      "answer": "Berseba.",
+      "reference": "Gn 21:31"
+    },
+    {
+      "id": "GEN.21.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 21,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Quem Abraão despediu com pão e água?",
+      "answer": "Agar e o filho dela.",
+      "reference": "Gn 21:14"
+    },
+    {
+      "id": "GEN.22.subject.1",
+      "bookNumber": 10,
+      "chapter": 22,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que foi oferecido no lugar de Isaque?",
+      "answer": "Um carneiro preso num arbusto.",
+      "reference": "Gn 22:13"
+    },
+    {
+      "id": "GEN.22.place.1",
+      "bookNumber": 10,
+      "chapter": 22,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Para qual terra Abraão levou Isaque?",
+      "answer": "Para a terra de Moriá.",
+      "reference": "Gn 22:2"
+    },
+    {
+      "id": "GEN.22.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 22,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Que nome Abraão deu ao lugar do sacrifício de Isaque?",
+      "answer": "O Senhor proverá.",
+      "reference": "Gn 22:14"
+    },
+    {
+      "id": "GEN.23.subject.1",
+      "bookNumber": 10,
+      "chapter": 23,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "Onde Abraão sepultou Sara?",
+      "answer": "Na caverna de Macpela, em Hebrom.",
+      "reference": "Gn 23:19"
+    },
+    {
+      "id": "GEN.23.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 23,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Quantos anos viveu Sara?",
+      "answer": "Cento e vinte e sete.",
+      "reference": "Gn 23:1"
+    },
+    {
+      "id": "GEN.23.name.1",
+      "bookNumber": 10,
+      "chapter": 23,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem morreu em Quiriate-Arba, que é Hebrom?",
+      "answer": "Sara.",
+      "reference": "Gn 23:1"
+    },
+    {
+      "id": "GEN.24.subject.1",
+      "bookNumber": 10,
+      "chapter": 24,
+      "verseStart": 67,
+      "kind": "subject",
+      "prompt": "Quem se tornou mulher de Isaque?",
+      "answer": "Rebeca.",
+      "reference": "Gn 24:67"
+    },
+    {
+      "id": "GEN.24.name.1",
+      "bookNumber": 10,
+      "chapter": 24,
+      "verseStart": 15,
+      "kind": "name",
+      "prompt": "De quem Rebeca era filha?",
+      "answer": "De Betuel.",
+      "reference": "Gn 24:15"
+    },
+    {
+      "id": "GEN.24.place.1",
+      "bookNumber": 10,
+      "chapter": 24,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Onde o servo encontrou Rebeca?",
+      "answer": "Junto a um poço, ao anoitecer.",
+      "reference": "Gn 24:11"
+    },
+    {
+      "id": "GEN.25.subject.1",
+      "bookNumber": 10,
+      "chapter": 25,
+      "verseStart": 33,
+      "kind": "subject",
+      "prompt": "O que Esaú vendeu a Jacó?",
+      "answer": "O direito de primogenitura.",
+      "reference": "Gn 25:33"
+    },
+    {
+      "id": "GEN.25.name.1",
+      "bookNumber": 10,
+      "chapter": 25,
+      "verseStart": 25,
+      "kind": "name",
+      "prompt": "Quem nasceu primeiro, Esaú ou Jacó?",
+      "answer": "Esaú.",
+      "reference": "Gn 25:25"
+    },
+    {
+      "id": "GEN.25.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 25,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Quantos anos viveu Abraão?",
+      "answer": "Cento e setenta e cinco.",
+      "reference": "Gn 25:7"
+    },
+    {
+      "id": "GEN.26.subject.1",
+      "bookNumber": 10,
+      "chapter": 26,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que Deus confirmou a Isaque?",
+      "answer": "A promessa feita a Abraão, seu pai.",
+      "reference": "Gn 26:3"
+    },
+    {
+      "id": "GEN.26.place.1",
+      "bookNumber": 10,
+      "chapter": 26,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Onde Isaque acampou ao deixar a cidade de Gerar?",
+      "answer": "No vale de Gerar.",
+      "reference": "Gn 26:17"
+    },
+    {
+      "id": "GEN.26.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 26,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Quanto Isaque colheu no ano em que semeou em Gerar?",
+      "answer": "Cem por um.",
+      "reference": "Gn 26:12"
+    },
+    {
+      "id": "GEN.27.subject.1",
+      "bookNumber": 10,
+      "chapter": 27,
+      "verseStart": 23,
+      "kind": "subject",
+      "prompt": "Quem recebeu a bênção que Isaque destinava a Esaú?",
+      "answer": "Jacó, no lugar de Esaú.",
+      "reference": "Gn 27:23"
+    },
+    {
+      "id": "GEN.27.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 27,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que cobriu as mãos de Jacó ao enganar Isaque?",
+      "answer": "Peles dos cabritos.",
+      "reference": "Gn 27:16"
+    },
+    {
+      "id": "GEN.27.name.1",
+      "bookNumber": 10,
+      "chapter": 27,
+      "verseStart": 36,
+      "kind": "name",
+      "prompt": "O que Esaú disse que Jacó lhe tomou?",
+      "answer": "A primogenitura e a bênção.",
+      "reference": "Gn 27:36"
+    },
+    {
+      "id": "GEN.28.subject.1",
+      "bookNumber": 10,
+      "chapter": 28,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que Jacó viu no sonho, quando fugia de Esaú?",
+      "answer": "Uma escada entre a terra e o céu.",
+      "reference": "Gn 28:12"
+    },
+    {
+      "id": "GEN.28.place.1",
+      "bookNumber": 10,
+      "chapter": 28,
+      "verseStart": 19,
+      "kind": "place",
+      "prompt": "Que nome Jacó deu ao lugar onde sonhou, fugindo de Esaú?",
+      "answer": "Betel.",
+      "reference": "Gn 28:19"
+    },
+    {
+      "id": "GEN.28.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 28,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "O que Jacó prometeu depois do sonho, se Deus o guardasse?",
+      "answer": "Que o Senhor seria o seu Deus.",
+      "reference": "Gn 28:21"
+    },
+    {
+      "id": "GEN.29.subject.1",
+      "bookNumber": 10,
+      "chapter": 29,
+      "verseStart": 25,
+      "kind": "subject",
+      "prompt": "Quem Labão deu a Jacó em lugar de Raquel?",
+      "answer": "Leia.",
+      "reference": "Gn 29:25"
+    },
+    {
+      "id": "GEN.29.name.1",
+      "bookNumber": 10,
+      "chapter": 29,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem eram as filhas de Labão?",
+      "answer": "Leia e Raquel.",
+      "reference": "Gn 29:16"
+    },
+    {
+      "id": "GEN.29.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 29,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Como Jacó viu os sete anos por Raquel?",
+      "answer": "Como poucos dias, de tanto que a amava.",
+      "reference": "Gn 29:20"
+    },
+    {
+      "id": "GEN.30.subject.1",
+      "bookNumber": 10,
+      "chapter": 30,
+      "verseStart": 24,
+      "kind": "subject",
+      "prompt": "Que nome Raquel deu ao primeiro filho?",
+      "answer": "José.",
+      "reference": "Gn 30:24"
+    },
+    {
+      "id": "GEN.30.name.1",
+      "bookNumber": 10,
+      "chapter": 30,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem foi o primeiro filho de Bila?",
+      "answer": "Dã.",
+      "reference": "Gn 30:6"
+    },
+    {
+      "id": "GEN.30.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 30,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "O que Deus fez por Raquel, que ainda não tinha filho?",
+      "answer": "Lembrou-se dela, e ela teve um filho.",
+      "reference": "Gn 30:22"
+    },
+    {
+      "id": "GEN.31.subject.1",
+      "bookNumber": 10,
+      "chapter": 31,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Para onde Deus mandou Jacó voltar?",
+      "answer": "Para a terra de seus pais.",
+      "reference": "Gn 31:3"
+    },
+    {
+      "id": "GEN.31.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 31,
+      "verseStart": 41,
+      "kind": "curiosity",
+      "prompt": "Quantos anos Jacó serviu a Labão?",
+      "answer": "Vinte anos.",
+      "reference": "Gn 31:41"
+    },
+    {
+      "id": "GEN.31.place.1",
+      "bookNumber": 10,
+      "chapter": 31,
+      "verseStart": 49,
+      "kind": "place",
+      "prompt": "Que outro nome, além de Galeede, o montão de Jacó recebeu?",
+      "answer": "Mispá.",
+      "reference": "Gn 31:49"
+    },
+    {
+      "id": "GEN.32.subject.1",
+      "bookNumber": 10,
+      "chapter": 32,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "Que nome Jacó recebeu na luta?",
+      "answer": "Israel.",
+      "reference": "Gn 32:28"
+    },
+    {
+      "id": "GEN.32.place.1",
+      "bookNumber": 10,
+      "chapter": 32,
+      "verseStart": 30,
+      "kind": "place",
+      "prompt": "Que nome teve o lugar da luta de Jacó?",
+      "answer": "Peniel.",
+      "reference": "Gn 32:30"
+    },
+    {
+      "id": "GEN.32.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 32,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Até quando Jacó lutou com o homem?",
+      "answer": "Até o romper do dia.",
+      "reference": "Gn 32:24"
+    },
+    {
+      "id": "GEN.33.subject.1",
+      "bookNumber": 10,
+      "chapter": 33,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Como Esaú recebeu Jacó?",
+      "answer": "Abraçou-o e o beijou.",
+      "reference": "Gn 33:4"
+    },
+    {
+      "id": "GEN.33.place.1",
+      "bookNumber": 10,
+      "chapter": 33,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Onde Jacó fez cabanas para o gado, depois de ver Esaú?",
+      "answer": "Em Sucote.",
+      "reference": "Gn 33:17"
+    },
+    {
+      "id": "GEN.34.subject.1",
+      "bookNumber": 10,
+      "chapter": 34,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Siquém fez a Diná?",
+      "answer": "Humilhou a filha de Jacó.",
+      "reference": "Gn 34:2"
+    },
+    {
+      "id": "GEN.34.name.1",
+      "bookNumber": 10,
+      "chapter": 34,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem era a filha de Jacó e Leia?",
+      "answer": "Diná.",
+      "reference": "Gn 34:1"
+    },
+    {
+      "id": "GEN.34.place.1",
+      "bookNumber": 10,
+      "chapter": 34,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Em que cidade Diná foi humilhada?",
+      "answer": "Em Siquém.",
+      "reference": "Gn 34:2"
+    },
+    {
+      "id": "GEN.35.subject.1",
+      "bookNumber": 10,
+      "chapter": 35,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "Que nome Jacó deu ao filho que Raquel teve ao morrer?",
+      "answer": "Benjamim.",
+      "reference": "Gn 35:18"
+    },
+    {
+      "id": "GEN.35.name.1",
+      "bookNumber": 10,
+      "chapter": 35,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Que nome Raquel deu ao filho, antes de morrer?",
+      "answer": "Benoni.",
+      "reference": "Gn 35:18"
+    },
+    {
+      "id": "GEN.35.place.1",
+      "bookNumber": 10,
+      "chapter": 35,
+      "verseStart": 19,
+      "kind": "place",
+      "prompt": "Onde Raquel foi sepultada?",
+      "answer": "No caminho de Efrata, que é Belém.",
+      "reference": "Gn 35:19"
+    },
+    {
+      "id": "GEN.36.subject.1",
+      "bookNumber": 10,
+      "chapter": 36,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "De quem são as gerações do irmão de Jacó?",
+      "answer": "De Esaú, isto é, Edom.",
+      "reference": "Gn 36:1"
+    },
+    {
+      "id": "GEN.36.place.1",
+      "bookNumber": 10,
+      "chapter": 36,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Onde Esaú habitou depois de deixar Canaã?",
+      "answer": "No monte Seir.",
+      "reference": "Gn 36:8"
+    },
+    {
+      "id": "GEN.36.name.1",
+      "bookNumber": 10,
+      "chapter": 36,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Qual é o outro nome de Esaú?",
+      "answer": "Edom.",
+      "reference": "Gn 36:1"
+    },
+    {
+      "id": "GEN.37.subject.1",
+      "bookNumber": 10,
+      "chapter": 37,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "O que fizeram com José ao tirá-lo da cisterna?",
+      "answer": "Venderam-no, e ele foi levado ao Egito.",
+      "reference": "Gn 37:28"
+    },
+    {
+      "id": "GEN.37.name.1",
+      "bookNumber": 10,
+      "chapter": 37,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Qual filho Jacó amava mais?",
+      "answer": "José.",
+      "reference": "Gn 37:3"
+    },
+    {
+      "id": "GEN.37.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 37,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que Jacó deu de presente a José?",
+      "answer": "Uma túnica especial.",
+      "reference": "Gn 37:3"
+    },
+    {
+      "id": "GEN.37.curiosity.2",
+      "bookNumber": 10,
+      "chapter": 37,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quantos anos José tinha ao pastorear com os irmãos?",
+      "answer": "Dezessete.",
+      "reference": "Gn 37:2"
+    },
+    {
+      "id": "GEN.38.subject.1",
+      "bookNumber": 10,
+      "chapter": 38,
+      "verseStart": 29,
+      "kind": "subject",
+      "prompt": "Quem nasceu primeiro de Tamar?",
+      "answer": "Perez.",
+      "reference": "Gn 38:29"
+    },
+    {
+      "id": "GEN.38.name.1",
+      "bookNumber": 10,
+      "chapter": 38,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem era a nora de Judá?",
+      "answer": "Tamar.",
+      "reference": "Gn 38:6"
+    },
+    {
+      "id": "GEN.38.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 38,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "O que Judá deixou em penhor?",
+      "answer": "O selo, o cordão e o cajado.",
+      "reference": "Gn 38:18"
+    },
+    {
+      "id": "GEN.39.subject.1",
+      "bookNumber": 10,
+      "chapter": 39,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "Para onde Potifar mandou José depois da acusação?",
+      "answer": "Para a prisão.",
+      "reference": "Gn 39:20"
+    },
+    {
+      "id": "GEN.39.name.1",
+      "bookNumber": 10,
+      "chapter": 39,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Na casa de quem José serviu ao chegar ao Egito?",
+      "answer": "De Potifar, oficial de Faraó.",
+      "reference": "Gn 39:1"
+    },
+    {
+      "id": "GEN.39.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 39,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Por que José recusou trair Potifar?",
+      "answer": "Porque seria pecado contra Deus.",
+      "reference": "Gn 39:9"
+    },
+    {
+      "id": "GEN.40.subject.1",
+      "bookNumber": 10,
+      "chapter": 40,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "De quem são as interpretações, segundo José?",
+      "answer": "De Deus.",
+      "reference": "Gn 40:8"
+    },
+    {
+      "id": "GEN.40.name.1",
+      "bookNumber": 10,
+      "chapter": 40,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Os sonhos de quem José explicou na prisão?",
+      "answer": "Do copeiro e do padeiro.",
+      "reference": "Gn 40:5"
+    },
+    {
+      "id": "GEN.40.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 40,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Em quantos dias o copeiro seria restituído, em Gênesis?",
+      "answer": "Em três dias.",
+      "reference": "Gn 40:13"
+    },
+    {
+      "id": "GEN.41.subject.1",
+      "bookNumber": 10,
+      "chapter": 41,
+      "verseStart": 41,
+      "kind": "subject",
+      "prompt": "Que autoridade Faraó deu a José?",
+      "answer": "Governo sobre toda a terra do Egito.",
+      "reference": "Gn 41:41"
+    },
+    {
+      "id": "GEN.41.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 41,
+      "verseStart": 46,
+      "kind": "curiosity",
+      "prompt": "Quantos anos José tinha diante de Faraó?",
+      "answer": "Trinta.",
+      "reference": "Gn 41:46"
+    },
+    {
+      "id": "GEN.41.name.1",
+      "bookNumber": 10,
+      "chapter": 41,
+      "verseStart": 45,
+      "kind": "name",
+      "prompt": "Que nome egípcio José recebeu?",
+      "answer": "Zafenate-Panéia.",
+      "reference": "Gn 41:45"
+    },
+    {
+      "id": "GEN.41.curiosity.2",
+      "bookNumber": 10,
+      "chapter": 41,
+      "verseStart": 29,
+      "kind": "curiosity",
+      "prompt": "Quantos anos de fartura José anunciou?",
+      "answer": "Sete.",
+      "reference": "Gn 41:29"
+    },
+    {
+      "id": "GEN.42.subject.1",
+      "bookNumber": 10,
+      "chapter": 42,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "José reconheceu os irmãos, em Gênesis?",
+      "answer": "Sim, mas eles não o reconheceram.",
+      "reference": "Gn 42:8"
+    },
+    {
+      "id": "GEN.42.name.1",
+      "bookNumber": 10,
+      "chapter": 42,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem Jacó não deixou ir ao Egito?",
+      "answer": "Benjamim.",
+      "reference": "Gn 42:4"
+    },
+    {
+      "id": "GEN.42.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 42,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que os irmãos fizeram diante de José?",
+      "answer": "Inclinaram-se até a terra.",
+      "reference": "Gn 42:6"
+    },
+    {
+      "id": "GEN.43.subject.1",
+      "bookNumber": 10,
+      "chapter": 43,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Quem se fez fiador de Benjamim perante Jacó?",
+      "answer": "Judá.",
+      "reference": "Gn 43:9"
+    },
+    {
+      "id": "GEN.43.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 43,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que José mandou preparar ao ver Benjamim?",
+      "answer": "Um banquete para os irmãos.",
+      "reference": "Gn 43:16"
+    },
+    {
+      "id": "GEN.44.subject.1",
+      "bookNumber": 10,
+      "chapter": 44,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Onde acharam o copo de José?",
+      "answer": "No saco de Benjamim.",
+      "reference": "Gn 44:12"
+    },
+    {
+      "id": "GEN.44.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 44,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quem mandou pôr o copo no saco, em Gênesis?",
+      "answer": "José.",
+      "reference": "Gn 44:2"
+    },
+    {
+      "id": "GEN.44.name.1",
+      "bookNumber": 10,
+      "chapter": 44,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Quem intercedeu por Benjamim?",
+      "answer": "Judá.",
+      "reference": "Gn 44:18"
+    },
+    {
+      "id": "GEN.45.subject.1",
+      "bookNumber": 10,
+      "chapter": 45,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Como José se deu a conhecer?",
+      "answer": "Disse aos irmãos que era José.",
+      "reference": "Gn 45:4"
+    },
+    {
+      "id": "GEN.45.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 45,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Quem José disse que o enviara ao Egito?",
+      "answer": "Deus.",
+      "reference": "Gn 45:8"
+    },
+    {
+      "id": "GEN.45.place.1",
+      "bookNumber": 10,
+      "chapter": 45,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "Onde José queria assentar a família?",
+      "answer": "Na terra de Gósen.",
+      "reference": "Gn 45:10"
+    },
+    {
+      "id": "GEN.46.subject.1",
+      "bookNumber": 10,
+      "chapter": 46,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que Deus disse a Jacó sobre o medo de descer ao Egito?",
+      "answer": "Que não temesse descer para lá.",
+      "reference": "Gn 46:3"
+    },
+    {
+      "id": "GEN.46.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 46,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "Quantas pessoas da casa de Jacó entraram no Egito, segundo Gênesis?",
+      "answer": "Setenta.",
+      "reference": "Gn 46:27"
+    },
+    {
+      "id": "GEN.46.place.1",
+      "bookNumber": 10,
+      "chapter": 46,
+      "verseStart": 28,
+      "kind": "place",
+      "prompt": "Para onde Judá foi adiante do pai?",
+      "answer": "Para Gósen.",
+      "reference": "Gn 46:28"
+    },
+    {
+      "id": "GEN.47.subject.1",
+      "bookNumber": 10,
+      "chapter": 47,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Onde a família de Jacó morou no Egito?",
+      "answer": "Na terra de Gósen.",
+      "reference": "Gn 47:6"
+    },
+    {
+      "id": "GEN.47.name.1",
+      "bookNumber": 10,
+      "chapter": 47,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Diante de quem José apresentou Jacó no Egito?",
+      "answer": "Diante de Faraó.",
+      "reference": "Gn 47:7"
+    },
+    {
+      "id": "GEN.47.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 47,
+      "verseStart": 28,
+      "kind": "curiosity",
+      "prompt": "Quantos anos viveu Jacó?",
+      "answer": "Cento e quarenta e sete.",
+      "reference": "Gn 47:28"
+    },
+    {
+      "id": "GEN.48.subject.1",
+      "bookNumber": 10,
+      "chapter": 48,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Sobre quem Jacó pôs a mão direita?",
+      "answer": "Sobre Efraim, o mais novo.",
+      "reference": "Gn 48:14"
+    },
+    {
+      "id": "GEN.48.name.1",
+      "bookNumber": 10,
+      "chapter": 48,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quais filhos José apresentou a Jacó?",
+      "answer": "Manassés e Efraim.",
+      "reference": "Gn 48:1"
+    },
+    {
+      "id": "GEN.48.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 48,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que Jacó disse do mais novo dos filhos de José?",
+      "answer": "Que seria maior do que o irmão.",
+      "reference": "Gn 48:19"
+    },
+    {
+      "id": "GEN.49.subject.1",
+      "bookNumber": 10,
+      "chapter": 49,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "O que Jacó fez aos doze filhos?",
+      "answer": "Abençoou cada um.",
+      "reference": "Gn 49:28"
+    },
+    {
+      "id": "GEN.49.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 49,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "De qual filho o cetro não se afastaria, em Gênesis?",
+      "answer": "De Judá.",
+      "reference": "Gn 49:10"
+    },
+    {
+      "id": "GEN.49.place.1",
+      "bookNumber": 10,
+      "chapter": 49,
+      "verseStart": 29,
+      "kind": "place",
+      "prompt": "Onde Jacó pediu para ser sepultado?",
+      "answer": "Na caverna com seus pais.",
+      "reference": "Gn 49:29"
+    },
+    {
+      "id": "GEN.50.subject.1",
+      "bookNumber": 10,
+      "chapter": 50,
+      "verseStart": 26,
+      "kind": "subject",
+      "prompt": "Onde colocaram o corpo de José?",
+      "answer": "Num caixão, no Egito.",
+      "reference": "Gn 50:26"
+    },
+    {
+      "id": "GEN.50.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 50,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "O que José disse do mal dos irmãos?",
+      "answer": "Deus o tinha tornado em bem.",
+      "reference": "Gn 50:20"
+    },
+    {
+      "id": "GEN.50.curiosity.2",
+      "bookNumber": 10,
+      "chapter": 50,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "O que José pediu que levassem na saída do Egito?",
+      "answer": "Os seus ossos, para fora do Egito.",
+      "reference": "Gn 50:25"
+    },
+    {
+      "id": "GEN.50.place.1",
+      "bookNumber": 10,
+      "chapter": 50,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Onde sepultaram Jacó?",
+      "answer": "Na caverna de Macpela.",
+      "reference": "Gn 50:13"
+    },
+    {
+      "id": "GEN.0.curiosity.1",
+      "bookNumber": 10,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Gênesis?",
+      "answer": "Moisés.",
+      "reference": "Gênesis"
+    },
+    {
+      "id": "GEN.0.curiosity.2",
+      "bookNumber": 10,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Gênesis?",
+      "answer": "No século XV antes de Cristo.",
+      "reference": "Gênesis"
+    }
+  ]
+}

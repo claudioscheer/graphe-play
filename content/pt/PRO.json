@@ -1,0 +1,674 @@
+{
+  "cards": [
+    {
+      "id": "PRO.1.subject.1",
+      "bookNumber": 240,
+      "chapter": 1,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que é o princípio do conhecimento?",
+      "answer": "O temor a Deus.",
+      "reference": "Pv 1:7"
+    },
+    {
+      "id": "PRO.1.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 1,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que o filho deve fazer se pecadores tentarem convencê-lo?",
+      "answer": "Não se deixar convencer por eles.",
+      "reference": "Pv 1:10"
+    },
+    {
+      "id": "PRO.2.subject.1",
+      "bookNumber": 240,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "A que os provérbios comparam a busca da sabedoria?",
+      "answer": "À procura de prata e de tesouro escondido.",
+      "reference": "Pv 2:4"
+    },
+    {
+      "id": "PRO.2.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 2,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "De que mulher a sabedoria pode livrar o jovem?",
+      "answer": "Da mulher estranha, que fala para seduzir.",
+      "reference": "Pv 2:16"
+    },
+    {
+      "id": "PRO.3.subject.1",
+      "bookNumber": 240,
+      "chapter": 3,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Em quem se deve confiar de todo o coração?",
+      "answer": "Em Deus, e não no próprio entendimento.",
+      "reference": "Pv 3:5"
+    },
+    {
+      "id": "PRO.3.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 3,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "A quem Deus corrige do jeito de um pai?",
+      "answer": "A quem ele ama.",
+      "reference": "Pv 3:12"
+    },
+    {
+      "id": "PRO.4.subject.1",
+      "bookNumber": 240,
+      "chapter": 4,
+      "verseStart": 23,
+      "kind": "subject",
+      "prompt": "O que os provérbios mandam guardar acima de tudo?",
+      "answer": "O coração, porque dele procede a vida.",
+      "reference": "Pv 4:23"
+    },
+    {
+      "id": "PRO.4.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 4,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "A que se compara o caminho de quem é justo?",
+      "answer": "A uma luz que brilha cada vez mais.",
+      "reference": "Pv 4:18"
+    },
+    {
+      "id": "PRO.5.subject.1",
+      "bookNumber": 240,
+      "chapter": 5,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "De onde o homem deve beber água, nos provérbios, em Provérbios?",
+      "answer": "Da cisterna dele e do poço dele.",
+      "reference": "Pv 5:15"
+    },
+    {
+      "id": "PRO.5.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 5,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Como termina o caminho da mulher pervertida?",
+      "answer": "Fica mais amargo do que o absinto e corta feito espada.",
+      "reference": "Pv 5:4"
+    },
+    {
+      "id": "PRO.6.subject.1",
+      "bookNumber": 240,
+      "chapter": 6,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Quem o preguiçoso deve observar para aprender?",
+      "answer": "A formiga, para ficar sábio com o exemplo dela.",
+      "reference": "Pv 6:6"
+    },
+    {
+      "id": "PRO.6.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 6,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Quantas coisas a alma de Deus abomina, em Provérbios?",
+      "answer": "Sete. Ele também odeia outras seis.",
+      "reference": "Pv 6:16"
+    },
+    {
+      "id": "PRO.7.subject.1",
+      "bookNumber": 240,
+      "chapter": 7,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "A que se parece o jovem que segue a mulher estranha?",
+      "answer": "A um boi a caminho do matadouro.",
+      "reference": "Pv 7:22"
+    },
+    {
+      "id": "PRO.7.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 7,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "Para onde a casa da mulher sedutora conduz, em Provérbios?",
+      "answer": "Para a morte.",
+      "reference": "Pv 7:27"
+    },
+    {
+      "id": "PRO.8.subject.1",
+      "bookNumber": 240,
+      "chapter": 8,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que a sabedoria diz valer mais do que rubis?",
+      "answer": "Ela mesma. Nada que se deseja se compara a ela.",
+      "reference": "Pv 8:11"
+    },
+    {
+      "id": "PRO.8.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 8,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "Desde quando a sabedoria diz que Deus a possui?",
+      "answer": "Desde o início do caminho dele, antes das obras antigas.",
+      "reference": "Pv 8:22"
+    },
+    {
+      "id": "PRO.9.subject.1",
+      "bookNumber": 240,
+      "chapter": 9,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Quantas colunas a sabedoria lavrou na casa dela, em Provérbios?",
+      "answer": "Sete.",
+      "reference": "Pv 9:1"
+    },
+    {
+      "id": "PRO.9.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 9,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que a mulher tola diz das águas roubadas?",
+      "answer": "Que são doces, e que o pão escondido agrada.",
+      "reference": "Pv 9:17"
+    },
+    {
+      "id": "PRO.10.subject.1",
+      "bookNumber": 240,
+      "chapter": 10,
+      "verseStart": 26,
+      "kind": "subject",
+      "prompt": "A que se compara o preguiçoso para quem o manda?",
+      "answer": "Ao vinagre nos dentes e à fumaça nos olhos.",
+      "reference": "Pv 10:26"
+    },
+    {
+      "id": "PRO.10.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 10,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que o amor faz com as ofensas?",
+      "answer": "Cobre todas. O ódio só abre briga.",
+      "reference": "Pv 10:12"
+    },
+    {
+      "id": "PRO.11.subject.1",
+      "bookNumber": 240,
+      "chapter": 11,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "A que se compara a mulher bela sem discrição?",
+      "answer": "A um enfeite no focinho de uma porca.",
+      "reference": "Pv 11:22"
+    },
+    {
+      "id": "PRO.11.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 11,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Que tipo de balança Deus abomina?",
+      "answer": "A enganosa. O peso justo é o que lhe agrada.",
+      "reference": "Pv 11:1"
+    },
+    {
+      "id": "PRO.12.subject.1",
+      "bookNumber": 240,
+      "chapter": 12,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "Como o justo trata os animais dele?",
+      "answer": "Cuida da vida deles. A bondade do mau é cruel.",
+      "reference": "Pv 12:10"
+    },
+    {
+      "id": "PRO.12.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 12,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que a mulher virtuosa é para o marido?",
+      "answer": "A coroa dele. A que envergonha parece podridão nos ossos.",
+      "reference": "Pv 12:4"
+    },
+    {
+      "id": "PRO.13.subject.1",
+      "bookNumber": 240,
+      "chapter": 13,
+      "verseStart": 24,
+      "kind": "subject",
+      "prompt": "O que faz quem nunca usa a vara no filho?",
+      "answer": "Odeia o filho. Quem ama o corrige desde cedo.",
+      "reference": "Pv 13:24"
+    },
+    {
+      "id": "PRO.13.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 13,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que a esperança atrasada faz ao coração?",
+      "answer": "O enfraquece. O desejo cumprido parece árvore de vida.",
+      "reference": "Pv 13:12"
+    },
+    {
+      "id": "PRO.14.subject.1",
+      "bookNumber": 240,
+      "chapter": 14,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Como fica o depósito de grãos quando não há bois?",
+      "answer": "Limpo, mas a força do boi traz colheita farta.",
+      "reference": "Pv 14:4"
+    },
+    {
+      "id": "PRO.14.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 14,
+      "verseStart": 30,
+      "kind": "curiosity",
+      "prompt": "O que a inveja faz nos ossos?",
+      "answer": "É como podridão. O coração tranquilo é vida para o corpo.",
+      "reference": "Pv 14:30"
+    },
+    {
+      "id": "PRO.15.subject.1",
+      "bookNumber": 240,
+      "chapter": 15,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que uma resposta mansa faz com a raiva?",
+      "answer": "Desvia o furor. Uma palavra dura faz a ira crescer.",
+      "reference": "Pv 15:1"
+    },
+    {
+      "id": "PRO.15.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 15,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que é melhor do que boi gordo servido com ódio?",
+      "answer": "Um prato de verduras onde existe amor.",
+      "reference": "Pv 15:17"
+    },
+    {
+      "id": "PRO.16.subject.1",
+      "bookNumber": 240,
+      "chapter": 16,
+      "verseStart": 32,
+      "kind": "subject",
+      "prompt": "O que é melhor do que conquistar uma cidade?",
+      "answer": "Dominar o próprio espírito.",
+      "reference": "Pv 16:32"
+    },
+    {
+      "id": "PRO.16.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 16,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Como são as palavras agradáveis?",
+      "answer": "São favo de mel, doces na alma e remédio nos ossos.",
+      "reference": "Pv 16:24"
+    },
+    {
+      "id": "PRO.17.subject.1",
+      "bookNumber": 240,
+      "chapter": 17,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Quem é pior de encontrar do que uma ursa sem filhotes?",
+      "answer": "Um tolo no auge da loucura.",
+      "reference": "Pv 17:12"
+    },
+    {
+      "id": "PRO.17.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 17,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "O que é melhor do que festa com briga em casa?",
+      "answer": "Um naco seco, comido em paz.",
+      "reference": "Pv 17:1"
+    },
+    {
+      "id": "PRO.18.subject.1",
+      "bookNumber": 240,
+      "chapter": 18,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "O que tem poder de trazer morte ou vida?",
+      "answer": "A língua.",
+      "reference": "Pv 18:21"
+    },
+    {
+      "id": "PRO.18.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 18,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Quem pode ser mais chegado do que um irmão?",
+      "answer": "Um amigo.",
+      "reference": "Pv 18:24"
+    },
+    {
+      "id": "PRO.19.subject.1",
+      "bookNumber": 240,
+      "chapter": 19,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "A quem empresta quem ajuda o pobre?",
+      "answer": "A Deus, e ele paga a recompensa.",
+      "reference": "Pv 19:17"
+    },
+    {
+      "id": "PRO.19.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 19,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "O que o preguiçoso faz com a mão no prato?",
+      "answer": "Pousa a mão e não a levanta de novo.",
+      "reference": "Pv 19:24"
+    },
+    {
+      "id": "PRO.20.subject.1",
+      "bookNumber": 240,
+      "chapter": 20,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Como os provérbios descrevem o vinho?",
+      "answer": "Como zombador. A bebida forte causa confusão.",
+      "reference": "Pv 20:1"
+    },
+    {
+      "id": "PRO.20.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 20,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Como acaba o pão conseguido com mentira?",
+      "answer": "A boca se enche de pedrinhas.",
+      "reference": "Pv 20:17"
+    },
+    {
+      "id": "PRO.21.subject.1",
+      "bookNumber": 240,
+      "chapter": 21,
+      "verseStart": 31,
+      "kind": "subject",
+      "prompt": "De quem vem a vitória no dia da batalha?",
+      "answer": "De Deus, mesmo com o cavalo já preparado.",
+      "reference": "Pv 21:31"
+    },
+    {
+      "id": "PRO.21.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 21,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Onde é melhor morar do que com mulher briguenta, em Provérbios?",
+      "answer": "Num canto do terraço.",
+      "reference": "Pv 21:9"
+    },
+    {
+      "id": "PRO.22.subject.1",
+      "bookNumber": 240,
+      "chapter": 22,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que vale mais do que muita riqueza?",
+      "answer": "Um bom nome. Ser estimado vale mais que prata e ouro.",
+      "reference": "Pv 22:1"
+    },
+    {
+      "id": "PRO.22.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 22,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Até quando o menino bem ensinado segue o caminho?",
+      "answer": "Até envelhecer.",
+      "reference": "Pv 22:6"
+    },
+    {
+      "id": "PRO.23.subject.1",
+      "bookNumber": 240,
+      "chapter": 23,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que acontece se alguém não tira o olho do que não vale nada?",
+      "answer": "Aquilo cria asas e voa ao céu como uma águia.",
+      "reference": "Pv 23:5"
+    },
+    {
+      "id": "PRO.23.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 23,
+      "verseStart": 32,
+      "kind": "curiosity",
+      "prompt": "A que se parece o fim de quem bebe vinho?",
+      "answer": "À mordida de uma cobra e à picada da víbora.",
+      "reference": "Pv 23:32"
+    },
+    {
+      "id": "PRO.24.subject.1",
+      "bookNumber": 240,
+      "chapter": 24,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Quantas vezes o justo cai e volta a se erguer, em Provérbios?",
+      "answer": "Sete vezes, e mesmo assim ele se levanta.",
+      "reference": "Pv 24:16"
+    },
+    {
+      "id": "PRO.24.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 24,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "A quem se deve socorrer a caminho da morte?",
+      "answer": "A quem já foi agarrado para ser morto.",
+      "reference": "Pv 24:11"
+    },
+    {
+      "id": "PRO.25.subject.1",
+      "bookNumber": 240,
+      "chapter": 25,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "A que se compara a palavra dita na hora certa?",
+      "answer": "A maçãs de ouro sobre bandejas de prata.",
+      "reference": "Pv 25:11"
+    },
+    {
+      "id": "PRO.25.name.1",
+      "bookNumber": 240,
+      "chapter": 25,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem copiou outros provérbios de Salomão?",
+      "answer": "Os homens do rei Ezequias, de Judá.",
+      "reference": "Pv 25:1"
+    },
+    {
+      "id": "PRO.25.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 25,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "O que se deve dar a quem odeia, se ele tiver fome?",
+      "answer": "Pão. E água, se também tiver sede.",
+      "reference": "Pv 25:21"
+    },
+    {
+      "id": "PRO.26.subject.1",
+      "bookNumber": 240,
+      "chapter": 26,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "A que se parece o tolo que repete a loucura?",
+      "answer": "A um cão que volta ao que vomitou.",
+      "reference": "Pv 26:11"
+    },
+    {
+      "id": "PRO.26.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 26,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "A que se parece o preguiçoso na cama?",
+      "answer": "A uma porta girando nas dobradiças.",
+      "reference": "Pv 26:14"
+    },
+    {
+      "id": "PRO.27.subject.1",
+      "bookNumber": 240,
+      "chapter": 27,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "Como o amigo afia o companheiro?",
+      "answer": "Como o ferro afia outro ferro.",
+      "reference": "Pv 27:17"
+    },
+    {
+      "id": "PRO.27.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 27,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Como são as feridas que um amigo provoca?",
+      "answer": "São leais. Os beijos do inimigo enganam.",
+      "reference": "Pv 27:6"
+    },
+    {
+      "id": "PRO.28.subject.1",
+      "bookNumber": 240,
+      "chapter": 28,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que recebe quem confessa o erro e o deixa?",
+      "answer": "Misericórdia. Quem esconde a falta não prospera.",
+      "reference": "Pv 28:13"
+    },
+    {
+      "id": "PRO.28.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 28,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "A que se compara a coragem dos justos?",
+      "answer": "Ficam ousados como um leão. O mau foge sem ser perseguido.",
+      "reference": "Pv 28:1"
+    },
+    {
+      "id": "PRO.29.subject.1",
+      "bookNumber": 240,
+      "chapter": 29,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "Como fica o povo quando falta visão profética?",
+      "answer": "Fica confuso. Guardar a lei traz felicidade.",
+      "reference": "Pv 29:18"
+    },
+    {
+      "id": "PRO.29.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 29,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "O que o medo das pessoas prepara?",
+      "answer": "Uma armadilha. Confiar em Deus deixa seguro.",
+      "reference": "Pv 29:25"
+    },
+    {
+      "id": "PRO.30.subject.1",
+      "bookNumber": 240,
+      "chapter": 30,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que convém pedir, em vez de ser pobre ou rico?",
+      "answer": "Só o pão necessário, sem mentira nem o que não presta.",
+      "reference": "Pv 30:8"
+    },
+    {
+      "id": "PRO.30.name.1",
+      "bookNumber": 240,
+      "chapter": 30,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem fala a Itiel e a Ucal?",
+      "answer": "Agur, filho de Jaque.",
+      "reference": "Pv 30:1"
+    },
+    {
+      "id": "PRO.30.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 30,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Como se chamam as filhas da sanguessuga?",
+      "answer": "As duas têm o nome Dá.",
+      "reference": "Pv 30:15"
+    },
+    {
+      "id": "PRO.31.subject.1",
+      "bookNumber": 240,
+      "chapter": 31,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "Qual mulher vale muito mais do que os rubis?",
+      "answer": "A mulher virtuosa, rara de encontrar.",
+      "reference": "Pv 31:10"
+    },
+    {
+      "id": "PRO.31.name.1",
+      "bookNumber": 240,
+      "chapter": 31,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem ensinou o rei Lemuel?",
+      "answer": "A mãe dele.",
+      "reference": "Pv 31:1"
+    },
+    {
+      "id": "PRO.31.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 31,
+      "verseStart": 30,
+      "kind": "curiosity",
+      "prompt": "O que engana e passa, ao contrário do temor a Deus?",
+      "answer": "A beleza e a boa aparência. Quem teme a Deus é elogiada.",
+      "reference": "Pv 31:30"
+    },
+    {
+      "id": "PRO.0.curiosity.1",
+      "bookNumber": 240,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Provérbios?",
+      "answer": "Salomão, em grande parte. Também há ditos de Agur e Lemuel.",
+      "reference": "Provérbios"
+    },
+    {
+      "id": "PRO.0.curiosity.2",
+      "bookNumber": 240,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Provérbios?",
+      "answer": "No século X antes de Cristo, com acréscimos depois.",
+      "reference": "Provérbios"
+    }
+  ]
+}

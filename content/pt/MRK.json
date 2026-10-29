@@ -1,0 +1,654 @@
+{
+  "cards": [
+    {
+      "id": "MRK.1.subject.1",
+      "bookNumber": 480,
+      "chapter": 1,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que a voz do céu disse no batismo de Jesus?",
+      "answer": "Que ele é o Filho amado, e que Deus se agrada dele.",
+      "reference": "Mc 1:11"
+    },
+    {
+      "id": "MRK.1.name.1",
+      "bookNumber": 480,
+      "chapter": 1,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem batizava no deserto, pregando arrependimento, em Marcos?",
+      "answer": "João.",
+      "reference": "Mc 1:4"
+    },
+    {
+      "id": "MRK.1.place.1",
+      "bookNumber": 480,
+      "chapter": 1,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Onde João batizou Jesus de Nazaré?",
+      "answer": "No Jordão.",
+      "reference": "Mc 1:9"
+    },
+    {
+      "id": "MRK.1.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 1,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Quantos dias Jesus ficou no deserto?",
+      "answer": "Quarenta dias, tentado por Satanás.",
+      "reference": "Mc 1:13"
+    },
+    {
+      "id": "MRK.2.subject.1",
+      "bookNumber": 480,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Como o paralítico foi posto diante de Jesus?",
+      "answer": "Abriram o telhado e desceram o leito por um buraco.",
+      "reference": "Mc 2:4"
+    },
+    {
+      "id": "MRK.2.name.1",
+      "bookNumber": 480,
+      "chapter": 2,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem Jesus chamou no posto de impostos?",
+      "answer": "Levi, filho de Alfeu.",
+      "reference": "Mc 2:14"
+    },
+    {
+      "id": "MRK.2.place.1",
+      "bookNumber": 480,
+      "chapter": 2,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Em que cidade abriram o telhado para o paralítico, em Marcos?",
+      "answer": "Em Cafarnaum.",
+      "reference": "Mc 2:1"
+    },
+    {
+      "id": "MRK.2.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 2,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "Por causa de quem o sábado foi feito, em Marcos?",
+      "answer": "Por causa do ser humano, e não o contrário.",
+      "reference": "Mc 2:27"
+    },
+    {
+      "id": "MRK.3.subject.1",
+      "bookNumber": 480,
+      "chapter": 3,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Para que Jesus separou doze homens?",
+      "answer": "Para ficarem com ele e serem enviados a pregar.",
+      "reference": "Mc 3:14"
+    },
+    {
+      "id": "MRK.3.name.1",
+      "bookNumber": 480,
+      "chapter": 3,
+      "verseStart": 17,
+      "kind": "name",
+      "prompt": "Que apelido Jesus deu a Tiago e a João?",
+      "answer": "Boanerges, que quer dizer filhos do trovão.",
+      "reference": "Mc 3:17"
+    },
+    {
+      "id": "MRK.3.place.1",
+      "bookNumber": 480,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde estava o homem da mão atrofiada, em Marcos?",
+      "answer": "Na sinagoga.",
+      "reference": "Mc 3:1"
+    },
+    {
+      "id": "MRK.3.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 3,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que houve quando o homem da mão atrofiada a estendeu, em Marcos?",
+      "answer": "A mão ficou sã de novo.",
+      "reference": "Mc 3:5"
+    },
+    {
+      "id": "MRK.4.subject.1",
+      "bookNumber": 480,
+      "chapter": 4,
+      "verseStart": 39,
+      "kind": "subject",
+      "prompt": "O que Jesus fez à tempestade no mar?",
+      "answer": "Mandou o vento e o mar se aquietarem, e veio bonança.",
+      "reference": "Mc 4:39"
+    },
+    {
+      "id": "MRK.4.place.1",
+      "bookNumber": 480,
+      "chapter": 4,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "De onde Jesus ensinava as parábolas à multidão?",
+      "answer": "De um barco, no mar.",
+      "reference": "Mc 4:1"
+    },
+    {
+      "id": "MRK.4.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 4,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Quanto rendeu a boa terra na parábola do semeador, em Marcos?",
+      "answer": "Trinta, sessenta e cem por um.",
+      "reference": "Mc 4:8"
+    },
+    {
+      "id": "MRK.5.subject.1",
+      "bookNumber": 480,
+      "chapter": 5,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que a manada fez quando os demônios entraram nela, em Marcos?",
+      "answer": "Quase dois mil porcos se jogaram na água e morreram.",
+      "reference": "Mc 5:13"
+    },
+    {
+      "id": "MRK.5.name.1",
+      "bookNumber": 480,
+      "chapter": 5,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Que nome o espírito imundo deu a si, em Marcos?",
+      "answer": "Legião, porque eram muitos.",
+      "reference": "Mc 5:9"
+    },
+    {
+      "id": "MRK.5.place.1",
+      "bookNumber": 480,
+      "chapter": 5,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "À terra de quem Jesus chegou, onde o espírito se chamava Legião?",
+      "answer": "À terra dos gadarenos.",
+      "reference": "Mc 5:1"
+    },
+    {
+      "id": "MRK.5.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 5,
+      "verseStart": 42,
+      "kind": "curiosity",
+      "prompt": "Quantos anos tinha a menina que Jesus levantou?",
+      "answer": "Doze anos.",
+      "reference": "Mc 5:42"
+    },
+    {
+      "id": "MRK.6.subject.1",
+      "bookNumber": 480,
+      "chapter": 6,
+      "verseStart": 41,
+      "kind": "subject",
+      "prompt": "O que Jesus fez com cinco pães e dois peixes?",
+      "answer": "Abençoou, partiu e deu aos discípulos para servirem.",
+      "reference": "Mc 6:41"
+    },
+    {
+      "id": "MRK.6.name.1",
+      "bookNumber": 480,
+      "chapter": 6,
+      "verseStart": 17,
+      "kind": "name",
+      "prompt": "Por causa de quem Herodes prendeu João?",
+      "answer": "De Herodias, esposa do irmão dele, Filipe.",
+      "reference": "Mc 6:17"
+    },
+    {
+      "id": "MRK.6.place.1",
+      "bookNumber": 480,
+      "chapter": 6,
+      "verseStart": 45,
+      "kind": "place",
+      "prompt": "Para onde Marcos conta que Jesus mandou o barco seguir?",
+      "answer": "Para Betsaida, do outro lado.",
+      "reference": "Mc 6:45"
+    },
+    {
+      "id": "MRK.6.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 6,
+      "verseStart": 44,
+      "kind": "curiosity",
+      "prompt": "Quantos homens comeram os cinco pães, em Marcos?",
+      "answer": "Quase cinco mil.",
+      "reference": "Mc 6:44"
+    },
+    {
+      "id": "MRK.7.subject.1",
+      "bookNumber": 480,
+      "chapter": 7,
+      "verseStart": 35,
+      "kind": "subject",
+      "prompt": "O que aconteceu com o surdo que mal falava, em Marcos?",
+      "answer": "Os ouvidos se abriram e ele passou a falar bem.",
+      "reference": "Mc 7:35"
+    },
+    {
+      "id": "MRK.7.name.1",
+      "bookNumber": 480,
+      "chapter": 7,
+      "verseStart": 26,
+      "kind": "name",
+      "prompt": "De que origem era a mulher da filha endemoninhada, em Marcos?",
+      "answer": "Grega, de nacionalidade sirofenícia.",
+      "reference": "Mc 7:26"
+    },
+    {
+      "id": "MRK.7.place.1",
+      "bookNumber": 480,
+      "chapter": 7,
+      "verseStart": 24,
+      "kind": "place",
+      "prompt": "Para que região Jesus foi e tentou ficar escondido?",
+      "answer": "À região de Tiro e à de Sidom.",
+      "reference": "Mc 7:24"
+    },
+    {
+      "id": "MRK.7.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 7,
+      "verseStart": 34,
+      "kind": "curiosity",
+      "prompt": "Que palavra Jesus disse ao abrir os ouvidos do surdo?",
+      "answer": "Efatá, que significa abre.",
+      "reference": "Mc 7:34"
+    },
+    {
+      "id": "MRK.8.subject.1",
+      "bookNumber": 480,
+      "chapter": 8,
+      "verseStart": 29,
+      "kind": "subject",
+      "prompt": "Quem Pedro disse que Jesus era?",
+      "answer": "O Cristo.",
+      "reference": "Mc 8:29"
+    },
+    {
+      "id": "MRK.8.place.1",
+      "bookNumber": 480,
+      "chapter": 8,
+      "verseStart": 27,
+      "kind": "place",
+      "prompt": "Onde Jesus perguntou quem as pessoas diziam que ele era?",
+      "answer": "No caminho das aldeias de Cesareia de Filipe.",
+      "reference": "Mc 8:27"
+    },
+    {
+      "id": "MRK.8.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 8,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Quantos cestos sobraram dos sete pães, em Marcos?",
+      "answer": "Sete cestos.",
+      "reference": "Mc 8:8"
+    },
+    {
+      "id": "MRK.8.curiosity.2",
+      "bookNumber": 480,
+      "chapter": 8,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "O que o cego de Betsaida viu no primeiro olhar?",
+      "answer": "Pessoas parecidas com árvores que andavam.",
+      "reference": "Mc 8:24"
+    },
+    {
+      "id": "MRK.9.subject.1",
+      "bookNumber": 480,
+      "chapter": 9,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Como ficaram as roupas de Jesus no monte?",
+      "answer": "Brilharam, brancas como a neve, além de qualquer lavadeiro.",
+      "reference": "Mc 9:3"
+    },
+    {
+      "id": "MRK.9.name.1",
+      "bookNumber": 480,
+      "chapter": 9,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem apareceu falando com Jesus no monte?",
+      "answer": "Elias e Moisés.",
+      "reference": "Mc 9:4"
+    },
+    {
+      "id": "MRK.9.place.1",
+      "bookNumber": 480,
+      "chapter": 9,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Aonde Jesus levou Pedro, Tiago e João na transfiguração?",
+      "answer": "A um alto monte, só os três.",
+      "reference": "Mc 9:2"
+    },
+    {
+      "id": "MRK.9.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 9,
+      "verseStart": 29,
+      "kind": "curiosity",
+      "prompt": "Como Jesus disse que sai o espírito mudo do menino?",
+      "answer": "Com oração e jejum.",
+      "reference": "Mc 9:29"
+    },
+    {
+      "id": "MRK.10.subject.1",
+      "bookNumber": 480,
+      "chapter": 10,
+      "verseStart": 25,
+      "kind": "subject",
+      "prompt": "O que é mais fácil do que um rico entrar no Reino?",
+      "answer": "Um camelo atravessar o fundo de uma agulha.",
+      "reference": "Mc 10:25"
+    },
+    {
+      "id": "MRK.10.name.1",
+      "bookNumber": 480,
+      "chapter": 10,
+      "verseStart": 46,
+      "kind": "name",
+      "prompt": "Quem era o cego sentado à beira do caminho em Jericó?",
+      "answer": "Bartimeu, filho de Timeu.",
+      "reference": "Mc 10:46"
+    },
+    {
+      "id": "MRK.10.place.1",
+      "bookNumber": 480,
+      "chapter": 10,
+      "verseStart": 33,
+      "kind": "place",
+      "prompt": "Para onde Jesus disse que subia com os doze?",
+      "answer": "Para Jerusalém.",
+      "reference": "Mc 10:33"
+    },
+    {
+      "id": "MRK.10.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 10,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "De quem Jesus disse que é o Reino de Deus?",
+      "answer": "Das crianças.",
+      "reference": "Mc 10:14"
+    },
+    {
+      "id": "MRK.11.subject.1",
+      "bookNumber": 480,
+      "chapter": 11,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Sobre o que Jesus montou, por cima das roupas?",
+      "answer": "Sobre um jumentinho, em cima das roupas.",
+      "reference": "Mc 11:7"
+    },
+    {
+      "id": "MRK.11.place.1",
+      "bookNumber": 480,
+      "chapter": 11,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Junto a que monte ficam Betfagé e Betânia?",
+      "answer": "Ao monte das Oliveiras, perto de Jerusalém.",
+      "reference": "Mc 11:1"
+    },
+    {
+      "id": "MRK.11.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 11,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "O que Jesus revirou ao entrar no Templo?",
+      "answer": "As mesas de quem trocava moeda e as cadeiras das pombas.",
+      "reference": "Mc 11:15"
+    },
+    {
+      "id": "MRK.11.curiosity.2",
+      "bookNumber": 480,
+      "chapter": 11,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Como acharam a figueira que Jesus amaldiçoou, na manhã seguinte?",
+      "answer": "Seca a partir das raízes.",
+      "reference": "Mc 11:20"
+    },
+    {
+      "id": "MRK.12.subject.1",
+      "bookNumber": 480,
+      "chapter": 12,
+      "verseStart": 30,
+      "kind": "subject",
+      "prompt": "Como Jesus mandou amar a Deus?",
+      "answer": "Com coração, alma, entendimento e forças, por inteiro.",
+      "reference": "Mc 12:30"
+    },
+    {
+      "id": "MRK.12.name.1",
+      "bookNumber": 480,
+      "chapter": 12,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "De quem era a imagem e a inscrição da moeda, em Marcos?",
+      "answer": "De César.",
+      "reference": "Mc 12:16"
+    },
+    {
+      "id": "MRK.12.place.1",
+      "bookNumber": 480,
+      "chapter": 12,
+      "verseStart": 41,
+      "kind": "place",
+      "prompt": "Onde Jesus observou o povo lançar ofertas?",
+      "answer": "Sentado diante da arca do tesouro.",
+      "reference": "Mc 12:41"
+    },
+    {
+      "id": "MRK.12.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 12,
+      "verseStart": 42,
+      "kind": "curiosity",
+      "prompt": "Quanto a viúva pobre colocou na oferta, em Marcos?",
+      "answer": "Duas moedas mínimas.",
+      "reference": "Mc 12:42"
+    },
+    {
+      "id": "MRK.13.subject.1",
+      "bookNumber": 480,
+      "chapter": 13,
+      "verseStart": 32,
+      "kind": "subject",
+      "prompt": "Quem sabe o dia e a hora do fim, em Marcos?",
+      "answer": "Só o Pai. Nem os anjos nem o Filho sabem.",
+      "reference": "Mc 13:32"
+    },
+    {
+      "id": "MRK.13.name.1",
+      "bookNumber": 480,
+      "chapter": 13,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Que profeta falou da abominação da desolação, em Marcos?",
+      "answer": "Daniel.",
+      "reference": "Mc 13:14"
+    },
+    {
+      "id": "MRK.13.place.1",
+      "bookNumber": 480,
+      "chapter": 13,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Em que monte Pedro, Tiago, João e André falaram com Jesus?",
+      "answer": "No monte das Oliveiras, olhando o templo.",
+      "reference": "Mc 13:3"
+    },
+    {
+      "id": "MRK.13.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 13,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que Jesus disse dos grandes edifícios do templo?",
+      "answer": "Não ficaria pedra sobre pedra.",
+      "reference": "Mc 13:2"
+    },
+    {
+      "id": "MRK.14.subject.1",
+      "bookNumber": 480,
+      "chapter": 14,
+      "verseStart": 24,
+      "kind": "subject",
+      "prompt": "O que Jesus disse que era o copo da ceia?",
+      "answer": "O sangue da nova aliança, derramado em favor de muitos.",
+      "reference": "Mc 14:24"
+    },
+    {
+      "id": "MRK.14.name.1",
+      "bookNumber": 480,
+      "chapter": 14,
+      "verseStart": 10,
+      "kind": "name",
+      "prompt": "Quem foi aos chefes dos sacerdotes entregar Jesus?",
+      "answer": "Judas Iscariotes, um dos doze.",
+      "reference": "Mc 14:10"
+    },
+    {
+      "id": "MRK.14.place.1",
+      "bookNumber": 480,
+      "chapter": 14,
+      "verseStart": 32,
+      "kind": "place",
+      "prompt": "Onde Jesus orou com Pedro, Tiago e João antes da prisão?",
+      "answer": "Em Getsêmani.",
+      "reference": "Mc 14:32"
+    },
+    {
+      "id": "MRK.14.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 14,
+      "verseStart": 52,
+      "kind": "curiosity",
+      "prompt": "Como fugiu o rapaz que seguia Jesus na prisão?",
+      "answer": "Largou o lençol e correu sem roupa.",
+      "reference": "Mc 14:52"
+    },
+    {
+      "id": "MRK.15.subject.1",
+      "bookNumber": 480,
+      "chapter": 15,
+      "verseStart": 37,
+      "kind": "subject",
+      "prompt": "O que houve com Jesus ao dar o último grito?",
+      "answer": "Ele expirou.",
+      "reference": "Mc 15:37"
+    },
+    {
+      "id": "MRK.15.name.1",
+      "bookNumber": 480,
+      "chapter": 15,
+      "verseStart": 21,
+      "kind": "name",
+      "prompt": "Quem carregou a cruz de Jesus?",
+      "answer": "Simão de Cirene, pai de Alexandre e Rufo.",
+      "reference": "Mc 15:21"
+    },
+    {
+      "id": "MRK.15.place.1",
+      "bookNumber": 480,
+      "chapter": 15,
+      "verseStart": 22,
+      "kind": "place",
+      "prompt": "Onde crucificaram Jesus?",
+      "answer": "No Gólgota, o lugar da caveira.",
+      "reference": "Mc 15:22"
+    },
+    {
+      "id": "MRK.15.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 15,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "Em que hora crucificaram Jesus?",
+      "answer": "Na hora terceira.",
+      "reference": "Mc 15:25"
+    },
+    {
+      "id": "MRK.16.subject.1",
+      "bookNumber": 480,
+      "chapter": 16,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que o jovem anunciou sobre Jesus no sepulcro?",
+      "answer": "Que o Nazareno já tinha ressuscitado e não estava ali.",
+      "reference": "Mc 16:6"
+    },
+    {
+      "id": "MRK.16.name.1",
+      "bookNumber": 480,
+      "chapter": 16,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem comprou especiarias, passado o sábado, para ungir Jesus?",
+      "answer": "Madalena, Salomé e Maria, mãe de Tiago.",
+      "reference": "Mc 16:1"
+    },
+    {
+      "id": "MRK.16.place.1",
+      "bookNumber": 480,
+      "chapter": 16,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Para onde Jesus iria adiante dos discípulos?",
+      "answer": "Para a Galileia.",
+      "reference": "Mc 16:7"
+    },
+    {
+      "id": "MRK.16.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 16,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "De quantos demônios Jesus tinha libertado Maria Madalena?",
+      "answer": "De sete.",
+      "reference": "Mc 16:9"
+    },
+    {
+      "id": "MRK.0.curiosity.1",
+      "bookNumber": 480,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Marcos?",
+      "answer": "Marcos, com o testemunho de Pedro.",
+      "reference": "Marcos"
+    },
+    {
+      "id": "MRK.0.curiosity.2",
+      "bookNumber": 480,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Marcos?",
+      "answer": "Antes do ano 70.",
+      "reference": "Marcos"
+    }
+  ]
+}

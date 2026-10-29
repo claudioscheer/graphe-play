@@ -1,0 +1,204 @@
+{
+  "cards": [
+    {
+      "id": "2TI.1.subject.1",
+      "bookNumber": 620,
+      "chapter": 1,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Que espírito Deus deu, em vez do medo?",
+      "answer": "Força, amor e moderação.",
+      "reference": "2Tm 1:7"
+    },
+    {
+      "id": "2TI.1.name.1",
+      "bookNumber": 620,
+      "chapter": 1,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Em quem a fé de Timóteo morou primeiro?",
+      "answer": "Na avó Loide e na mãe Eunice.",
+      "reference": "2Tm 1:5"
+    },
+    {
+      "id": "2TI.1.place.1",
+      "bookNumber": 620,
+      "chapter": 1,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Onde Onesíforo procurou Paulo até achá-lo?",
+      "answer": "Em Roma.",
+      "reference": "2Tm 1:17"
+    },
+    {
+      "id": "2TI.1.curiosity.1",
+      "bookNumber": 620,
+      "chapter": 1,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que Timóteo deve fazer com o dom de Deus?",
+      "answer": "Reacendê-lo, pois veio pela imposição das mãos de Paulo.",
+      "reference": "2Tm 1:6"
+    },
+    {
+      "id": "2TI.2.subject.1",
+      "bookNumber": 620,
+      "chapter": 2,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "A quem Timóteo deve passar o que ouviu de Paulo?",
+      "answer": "A pessoas fiéis, capazes de ensinar outras.",
+      "reference": "2Tm 2:2"
+    },
+    {
+      "id": "2TI.2.name.1",
+      "bookNumber": 620,
+      "chapter": 2,
+      "verseStart": 17,
+      "kind": "name",
+      "prompt": "De quem a palavra se espalha como gangrena?",
+      "answer": "De Himeneu e de Fileto.",
+      "reference": "2Tm 2:17"
+    },
+    {
+      "id": "2TI.2.curiosity.1",
+      "bookNumber": 620,
+      "chapter": 2,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Quando o atleta recebe a coroa?",
+      "answer": "Somente se competir conforme as regras.",
+      "reference": "2Tm 2:5"
+    },
+    {
+      "id": "2TI.2.curiosity.2",
+      "bookNumber": 620,
+      "chapter": 2,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Além de ouro e prata, que utensílios há numa casa grande?",
+      "answer": "Os de madeira e os de barro.",
+      "reference": "2Tm 2:20"
+    },
+    {
+      "id": "2TI.3.subject.1",
+      "bookNumber": 620,
+      "chapter": 3,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Para que serve toda a Escritura?",
+      "answer": "Para ensinar, corrigir e educar na justiça.",
+      "reference": "2Tm 3:16"
+    },
+    {
+      "id": "2TI.3.name.1",
+      "bookNumber": 620,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem Paulo cita como opositores de Moisés?",
+      "answer": "Janes e Jambres.",
+      "reference": "2Tm 3:8"
+    },
+    {
+      "id": "2TI.3.place.1",
+      "bookNumber": 620,
+      "chapter": 3,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Onde Paulo foi perseguido e mesmo assim foi livrado?",
+      "answer": "Em Antioquia, Icônio e Listra.",
+      "reference": "2Tm 3:11"
+    },
+    {
+      "id": "2TI.3.curiosity.1",
+      "bookNumber": 620,
+      "chapter": 3,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Desde quando Timóteo conhece as Escrituras?",
+      "answer": "Desde a infância.",
+      "reference": "2Tm 3:15"
+    },
+    {
+      "id": "2TI.4.subject.1",
+      "bookNumber": 620,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Paulo pede que Timóteo faça com a palavra?",
+      "answer": "Que a pregue, haja tempo oportuno ou não.",
+      "reference": "2Tm 4:2"
+    },
+    {
+      "id": "2TI.4.name.1",
+      "bookNumber": 620,
+      "chapter": 4,
+      "verseStart": 10,
+      "kind": "name",
+      "prompt": "Quem abandonou Paulo por amar o tempo de agora?",
+      "answer": "Demas, e foi para Tessalônica.",
+      "reference": "2Tm 4:10"
+    },
+    {
+      "id": "2TI.4.place.1",
+      "bookNumber": 620,
+      "chapter": 4,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Em que casa Paulo deixou a capa?",
+      "answer": "Na casa de Carpo, na cidade de Trôade.",
+      "reference": "2Tm 4:13"
+    },
+    {
+      "id": "2TI.4.curiosity.1",
+      "bookNumber": 620,
+      "chapter": 4,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "O que Paulo pediu além da capa?",
+      "answer": "Os livros, principalmente os pergaminhos.",
+      "reference": "2Tm 4:13"
+    },
+    {
+      "id": "2TI.4.curiosity.2",
+      "bookNumber": 620,
+      "chapter": 4,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que Paulo diz que já completou?",
+      "answer": "A boa luta, a corrida e a guarda da fé.",
+      "reference": "2Tm 4:7"
+    },
+    {
+      "id": "2TI.0.curiosity.1",
+      "bookNumber": 620,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 2 Timóteo?",
+      "answer": "Paulo.",
+      "reference": "2 Timóteo"
+    },
+    {
+      "id": "2TI.0.curiosity.2",
+      "bookNumber": 620,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 2 Timóteo?",
+      "answer": "Perto da morte dele, por volta do ano 67.",
+      "reference": "2 Timóteo"
+    },
+    {
+      "id": "2TI.0.curiosity.3",
+      "bookNumber": 620,
+      "chapter": 0,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Para quem Paulo escreveu 2 Timóteo?",
+      "answer": "Para Timóteo, seu filho amado.",
+      "reference": "2Tm 1:2"
+    }
+  ]
+}

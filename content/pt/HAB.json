@@ -1,0 +1,144 @@
+{
+  "cards": [
+    {
+      "id": "HAB.1.subject.1",
+      "bookNumber": 420,
+      "chapter": 1,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Que nação Deus diz a Habacuque que vai levantar?",
+      "answer": "Os caldeus, povo amargo e veloz.",
+      "reference": "Hc 1:6"
+    },
+    {
+      "id": "HAB.1.name.1",
+      "bookNumber": 420,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem viu a revelação que abre Habacuque?",
+      "answer": "O profeta Habacuque.",
+      "reference": "Hc 1:1"
+    },
+    {
+      "id": "HAB.1.curiosity.1",
+      "bookNumber": 420,
+      "chapter": 1,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Os cavalos caldeus são mais velozes que qual bicho, em Habacuque?",
+      "answer": "Mais velozes que os leopardos.",
+      "reference": "Hc 1:8"
+    },
+    {
+      "id": "HAB.1.curiosity.2",
+      "bookNumber": 420,
+      "chapter": 1,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "A que o opressor oferece incenso, em Habacuque?",
+      "answer": "À própria rede.",
+      "reference": "Hc 1:16"
+    },
+    {
+      "id": "HAB.2.subject.1",
+      "bookNumber": 420,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Como o justo viverá, na resposta a Habacuque?",
+      "answer": "Por meio da fé.",
+      "reference": "Hc 2:4"
+    },
+    {
+      "id": "HAB.2.place.1",
+      "bookNumber": 420,
+      "chapter": 2,
+      "verseStart": 20,
+      "kind": "place",
+      "prompt": "Onde Habacuque diz que Deus está?",
+      "answer": "No templo santo dele.",
+      "reference": "Hc 2:20"
+    },
+    {
+      "id": "HAB.2.curiosity.1",
+      "bookNumber": 420,
+      "chapter": 2,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Onde Deus manda Habacuque registrar a visão?",
+      "answer": "Em tábuas, com letra bem clara.",
+      "reference": "Hc 2:2"
+    },
+    {
+      "id": "HAB.2.curiosity.2",
+      "bookNumber": 420,
+      "chapter": 2,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que grita da parede contra a casa injusta, em Habacuque?",
+      "answer": "A pedra.",
+      "reference": "Hc 2:11"
+    },
+    {
+      "id": "HAB.3.subject.1",
+      "bookNumber": 420,
+      "chapter": 3,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "Em quem Habacuque diz que vai se alegrar?",
+      "answer": "Em Deus, que é a salvação dele.",
+      "reference": "Hc 3:18"
+    },
+    {
+      "id": "HAB.3.place.1",
+      "bookNumber": 420,
+      "chapter": 3,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "De onde Deus veio na visão de Habacuque?",
+      "answer": "De Temã e do monte Parã.",
+      "reference": "Hc 3:3"
+    },
+    {
+      "id": "HAB.3.curiosity.1",
+      "bookNumber": 420,
+      "chapter": 3,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que o sol e a lua fizeram na visão de Habacuque?",
+      "answer": "Ficaram parados na morada deles.",
+      "reference": "Hc 3:11"
+    },
+    {
+      "id": "HAB.3.curiosity.2",
+      "bookNumber": 420,
+      "chapter": 3,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Com quais animais Deus compara os pés de Habacuque?",
+      "answer": "Com as corças.",
+      "reference": "Hc 3:19"
+    },
+    {
+      "id": "HAB.0.curiosity.1",
+      "bookNumber": 420,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Habacuque?",
+      "answer": "Habacuque.",
+      "reference": "Habacuque"
+    },
+    {
+      "id": "HAB.0.curiosity.2",
+      "bookNumber": 420,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Habacuque?",
+      "answer": "No fim do século VII antes de Cristo.",
+      "reference": "Habacuque"
+    }
+  ]
+}

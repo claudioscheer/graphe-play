@@ -1,0 +1,224 @@
+{
+  "cards": [
+    {
+      "id": "1PE.1.subject.1",
+      "bookNumber": 670,
+      "chapter": 1,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Como os crentes nasceram de novo para uma esperança viva?",
+      "answer": "Pela ressurreição de Jesus Cristo.",
+      "reference": "1Pe 1:3"
+    },
+    {
+      "id": "1PE.1.name.1",
+      "bookNumber": 670,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem escreveu aos forasteiros do Ponto e da Galácia?",
+      "answer": "Pedro, apóstolo de Jesus Cristo.",
+      "reference": "1Pe 1:1"
+    },
+    {
+      "id": "1PE.1.place.1",
+      "bookNumber": 670,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde estavam os forasteiros a quem Pedro escreveu?",
+      "answer": "No Ponto, na Galácia, na Capadócia, na Ásia e na Bitínia.",
+      "reference": "1Pe 1:1"
+    },
+    {
+      "id": "1PE.1.curiosity.1",
+      "bookNumber": 670,
+      "chapter": 1,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que vale menos do que a prova da fé?",
+      "answer": "O ouro, que se acaba mesmo no fogo.",
+      "reference": "1Pe 1:7"
+    },
+    {
+      "id": "1PE.2.subject.1",
+      "bookNumber": 670,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Qual identidade Pedro dá a quem crê?",
+      "answer": "Geração escolhida, sacerdócio real, nação santa e povo adquirido.",
+      "reference": "1Pe 2:9"
+    },
+    {
+      "id": "1PE.2.place.1",
+      "bookNumber": 670,
+      "chapter": 2,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Onde Deus coloca a pedra principal da construção, em 1 Pedro?",
+      "answer": "Em Sião.",
+      "reference": "1Pe 2:6"
+    },
+    {
+      "id": "1PE.2.curiosity.1",
+      "bookNumber": 670,
+      "chapter": 2,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "O que nunca se achou na boca de Cristo?",
+      "answer": "Engano.",
+      "reference": "1Pe 2:22"
+    },
+    {
+      "id": "1PE.2.curiosity.2",
+      "bookNumber": 670,
+      "chapter": 2,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Onde Cristo carregou os pecados no próprio corpo?",
+      "answer": "Sobre o madeiro.",
+      "reference": "1Pe 2:24"
+    },
+    {
+      "id": "1PE.3.subject.1",
+      "bookNumber": 670,
+      "chapter": 3,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "Por que Cristo sofreu uma vez?",
+      "answer": "O justo sofreu pelos injustos, para levar as pessoas a Deus.",
+      "reference": "1Pe 3:18"
+    },
+    {
+      "id": "1PE.3.name.1",
+      "bookNumber": 670,
+      "chapter": 3,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem obedecia a Abraão?",
+      "answer": "Sara.",
+      "reference": "1Pe 3:6"
+    },
+    {
+      "id": "1PE.3.curiosity.1",
+      "bookNumber": 670,
+      "chapter": 3,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Quantas pessoas foram salvas na arca, nos dias de Noé?",
+      "answer": "Oito.",
+      "reference": "1Pe 3:20"
+    },
+    {
+      "id": "1PE.3.curiosity.2",
+      "bookNumber": 670,
+      "chapter": 3,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "O que é o batismo, para além da limpeza do corpo?",
+      "answer": "Um pedido de boa consciência diante de Deus.",
+      "reference": "1Pe 3:21"
+    },
+    {
+      "id": "1PE.4.subject.1",
+      "bookNumber": 670,
+      "chapter": 4,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Como reagir ao sofrer por ser cristão?",
+      "answer": "Sem vergonha, dando glória a Deus por isso.",
+      "reference": "1Pe 4:16"
+    },
+    {
+      "id": "1PE.4.curiosity.1",
+      "bookNumber": 670,
+      "chapter": 4,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que Pedro diz que está perto?",
+      "answer": "O final de todas as coisas.",
+      "reference": "1Pe 4:7"
+    },
+    {
+      "id": "1PE.4.curiosity.2",
+      "bookNumber": 670,
+      "chapter": 4,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que o amor intenso cobre?",
+      "answer": "Uma multidão de pecados.",
+      "reference": "1Pe 4:8"
+    },
+    {
+      "id": "1PE.5.subject.1",
+      "bookNumber": 670,
+      "chapter": 5,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Como os anciãos devem cuidar do rebanho de Deus?",
+      "answer": "De livre vontade, sem obrigação e sem ganância.",
+      "reference": "1Pe 5:2"
+    },
+    {
+      "id": "1PE.5.name.1",
+      "bookNumber": 670,
+      "chapter": 5,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Por meio de quem Pedro disse ter escrito?",
+      "answer": "Por Silvano, um irmão fiel.",
+      "reference": "1Pe 5:12"
+    },
+    {
+      "id": "1PE.5.place.1",
+      "bookNumber": 670,
+      "chapter": 5,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Onde estava a comunidade escolhida que saúda com Marcos?",
+      "answer": "Na Babilônia.",
+      "reference": "1Pe 5:13"
+    },
+    {
+      "id": "1PE.5.curiosity.1",
+      "bookNumber": 670,
+      "chapter": 5,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Com qual animal Pedro compara o diabo?",
+      "answer": "Com um leão que ruge e procura quem devorar.",
+      "reference": "1Pe 5:8"
+    },
+    {
+      "id": "1PE.0.curiosity.1",
+      "bookNumber": 670,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 1 Pedro?",
+      "answer": "Pedro.",
+      "reference": "1 Pedro"
+    },
+    {
+      "id": "1PE.0.curiosity.2",
+      "bookNumber": 670,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 1 Pedro?",
+      "answer": "Por volta do ano 63.",
+      "reference": "1 Pedro"
+    },
+    {
+      "id": "1PE.0.curiosity.3",
+      "bookNumber": 670,
+      "chapter": 0,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "A quem Pedro escreve a primeira carta?",
+      "answer": "Aos cristãos espalhados por várias regiões.",
+      "reference": "1Pe 1:1"
+    }
+  ]
+}

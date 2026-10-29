@@ -1,0 +1,194 @@
+{
+  "cards": [
+    {
+      "id": "MAL.1.subject.1",
+      "bookNumber": 460,
+      "chapter": 1,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "Que animais defeituosos os sacerdotes trazem em Malaquias?",
+      "answer": "O cego, o manco e o doente.",
+      "reference": "Ml 1:8"
+    },
+    {
+      "id": "MAL.1.name.1",
+      "bookNumber": 460,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Qual irmão Deus diz que amou, em Malaquias?",
+      "answer": "Jacó.",
+      "reference": "Ml 1:2"
+    },
+    {
+      "id": "MAL.1.name.2",
+      "bookNumber": 460,
+      "chapter": 1,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Qual irmão Deus diz que odiou, em Malaquias?",
+      "answer": "Esaú.",
+      "reference": "Ml 1:3"
+    },
+    {
+      "id": "MAL.1.place.1",
+      "bookNumber": 460,
+      "chapter": 1,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Que povo será destruído se reconstruir as ruínas, em Malaquias?",
+      "answer": "Edom.",
+      "reference": "Ml 1:4"
+    },
+    {
+      "id": "MAL.1.curiosity.1",
+      "bookNumber": 460,
+      "chapter": 1,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Onde o nome de Deus será grande, em Malaquias?",
+      "answer": "Entre as nações, do leste até o oeste.",
+      "reference": "Ml 1:11"
+    },
+    {
+      "id": "MAL.2.subject.1",
+      "bookNumber": 460,
+      "chapter": 2,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "O que Malaquias diz que o Deus de Israel odeia?",
+      "answer": "O divórcio.",
+      "reference": "Ml 2:16"
+    },
+    {
+      "id": "MAL.2.name.1",
+      "bookNumber": 460,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Com quem a aliança deve ficar, em Malaquias?",
+      "answer": "Com Levi.",
+      "reference": "Ml 2:4"
+    },
+    {
+      "id": "MAL.2.curiosity.1",
+      "bookNumber": 460,
+      "chapter": 2,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que Deus espalhará no rosto dos sacerdotes, em Malaquias?",
+      "answer": "A sujeira das festas deles.",
+      "reference": "Ml 2:3"
+    },
+    {
+      "id": "MAL.2.curiosity.2",
+      "bookNumber": 460,
+      "chapter": 2,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Com quem Judá se casou de modo vergonhoso, em Malaquias?",
+      "answer": "Com a filha de um deus estranho.",
+      "reference": "Ml 2:11"
+    },
+    {
+      "id": "MAL.3.subject.1",
+      "bookNumber": 460,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Quem Malaquias diz que Deus enviará adiante?",
+      "answer": "O mensageiro dele.",
+      "reference": "Ml 3:1"
+    },
+    {
+      "id": "MAL.3.place.1",
+      "bookNumber": 460,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Aonde Malaquias diz que Deus virá de repente?",
+      "answer": "Ao templo dele.",
+      "reference": "Ml 3:1"
+    },
+    {
+      "id": "MAL.3.curiosity.1",
+      "bookNumber": 460,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Em que o povo rouba a Deus, em Malaquias?",
+      "answer": "Nos dízimos e nas ofertas.",
+      "reference": "Ml 3:8"
+    },
+    {
+      "id": "MAL.3.curiosity.2",
+      "bookNumber": 460,
+      "chapter": 3,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que foi escrito diante de Deus sobre quem o teme, em Malaquias?",
+      "answer": "Um livro de memória.",
+      "reference": "Ml 3:16"
+    },
+    {
+      "id": "MAL.4.subject.1",
+      "bookNumber": 460,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que nascerá para quem teme o nome de Deus, em Malaquias?",
+      "answer": "O Sol da justiça, com cura nas asas.",
+      "reference": "Ml 4:2"
+    },
+    {
+      "id": "MAL.4.name.1",
+      "bookNumber": 460,
+      "chapter": 4,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Quem Malaquias diz que virá antes do dia terrível?",
+      "answer": "O profeta Elias.",
+      "reference": "Ml 4:5"
+    },
+    {
+      "id": "MAL.4.place.1",
+      "bookNumber": 460,
+      "chapter": 4,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Onde Malaquias lembra que Moisés recebeu a lei?",
+      "answer": "Em Horebe.",
+      "reference": "Ml 4:4"
+    },
+    {
+      "id": "MAL.4.curiosity.1",
+      "bookNumber": 460,
+      "chapter": 4,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que Elias fará com pais e filhos?",
+      "answer": "Unirá o coração deles uns aos outros.",
+      "reference": "Ml 4:6"
+    },
+    {
+      "id": "MAL.0.curiosity.1",
+      "bookNumber": 460,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Malaquias?",
+      "answer": "Malaquias.",
+      "reference": "Malaquias"
+    },
+    {
+      "id": "MAL.0.curiosity.2",
+      "bookNumber": 460,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Malaquias?",
+      "answer": "No século V antes de Cristo.",
+      "reference": "Malaquias"
+    }
+  ]
+}

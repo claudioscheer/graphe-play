@@ -1,0 +1,64 @@
+{
+  "cards": [
+    {
+      "id": "OBA.1.subject.1",
+      "bookNumber": 380,
+      "chapter": 1,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "Por que Edom fica coberto de vergonha?",
+      "answer": "Pela violência feita ao irmão Jacó.",
+      "reference": "Ob 1:10"
+    },
+    {
+      "id": "OBA.1.name.1",
+      "bookNumber": 380,
+      "chapter": 1,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem Obadias mostra saqueado?",
+      "answer": "Esaú, que perdeu os tesouros.",
+      "reference": "Ob 1:6"
+    },
+    {
+      "id": "OBA.1.place.1",
+      "bookNumber": 380,
+      "chapter": 1,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Onde o povo de Jacó encontra livramento?",
+      "answer": "No monte Sião.",
+      "reference": "Ob 1:17"
+    },
+    {
+      "id": "OBA.1.curiosity.1",
+      "bookNumber": 380,
+      "chapter": 1,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Se Edom aninhar entre as estrelas, o que Deus faz?",
+      "answer": "Derruba Edom dali.",
+      "reference": "Ob 1:4"
+    },
+    {
+      "id": "OBA.0.curiosity.1",
+      "bookNumber": 380,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Obadias?",
+      "answer": "Obadias.",
+      "reference": "Obadias"
+    },
+    {
+      "id": "OBA.0.curiosity.2",
+      "bookNumber": 380,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Obadias?",
+      "answer": "A data é incerta. Muitos a põem depois de 586 antes de Cristo.",
+      "reference": "Obadias"
+    }
+  ]
+}

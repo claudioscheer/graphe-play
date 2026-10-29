@@ -1,0 +1,194 @@
+{
+  "cards": [
+    {
+      "id": "PHP.1.subject.1",
+      "bookNumber": 570,
+      "chapter": 1,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "O que é viver e o que é morrer, para Paulo?",
+      "answer": "Viver é Cristo, e morrer é ganho.",
+      "reference": "Fp 1:21"
+    },
+    {
+      "id": "PHP.1.place.1",
+      "bookNumber": 570,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde estavam os santos a quem Paulo escreve que viver é Cristo?",
+      "answer": "Em Filipos.",
+      "reference": "Fp 1:1"
+    },
+    {
+      "id": "PHP.1.curiosity.1",
+      "bookNumber": 570,
+      "chapter": 1,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Até quando Deus completa a boa obra nos filipenses?",
+      "answer": "Até o dia em que Jesus Cristo vier.",
+      "reference": "Fp 1:6"
+    },
+    {
+      "id": "PHP.1.curiosity.2",
+      "bookNumber": 570,
+      "chapter": 1,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "A quem ficou claro que Paulo estava preso por Cristo?",
+      "answer": "A toda a guarda do pretório e aos demais.",
+      "reference": "Fp 1:13"
+    },
+    {
+      "id": "PHP.2.subject.1",
+      "bookNumber": 570,
+      "chapter": 2,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "Até onde foi a obediência de Jesus?",
+      "answer": "Até morrer, e morte de cruz.",
+      "reference": "Fp 2:8"
+    },
+    {
+      "id": "PHP.2.name.1",
+      "bookNumber": 570,
+      "chapter": 2,
+      "verseStart": 25,
+      "kind": "name",
+      "prompt": "Quem Paulo enviou de volta aos filipenses?",
+      "answer": "Epafrodito, cooperador e companheiro de luta.",
+      "reference": "Fp 2:25"
+    },
+    {
+      "id": "PHP.2.place.1",
+      "bookNumber": 570,
+      "chapter": 2,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "Onde todo joelho se dobrará ao nome de Jesus?",
+      "answer": "No céu, na terra e também debaixo dela.",
+      "reference": "Fp 2:10"
+    },
+    {
+      "id": "PHP.2.curiosity.1",
+      "bookNumber": 570,
+      "chapter": 2,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "Quão doente Epafrodito chegou a ficar?",
+      "answer": "Quase morreu, mas Deus teve misericórdia.",
+      "reference": "Fp 2:27"
+    },
+    {
+      "id": "PHP.3.subject.1",
+      "bookNumber": 570,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "Por que Paulo tratou tudo o que tinha como perda?",
+      "answer": "Para ganhar Cristo e conhecê-lo.",
+      "reference": "Fp 3:8"
+    },
+    {
+      "id": "PHP.3.place.1",
+      "bookNumber": 570,
+      "chapter": 3,
+      "verseStart": 20,
+      "kind": "place",
+      "prompt": "De onde Paulo diz que os crentes são cidadãos?",
+      "answer": "Do céu, de onde esperam o Salvador.",
+      "reference": "Fp 3:20"
+    },
+    {
+      "id": "PHP.3.curiosity.1",
+      "bookNumber": 570,
+      "chapter": 3,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Em que dia Paulo foi circuncidado?",
+      "answer": "No oitavo dia.",
+      "reference": "Fp 3:5"
+    },
+    {
+      "id": "PHP.3.curiosity.2",
+      "bookNumber": 570,
+      "chapter": 3,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Para que alvo Paulo continua avançando?",
+      "answer": "O prêmio do chamado de Deus lá em cima.",
+      "reference": "Fp 3:14"
+    },
+    {
+      "id": "PHP.4.subject.1",
+      "bookNumber": 570,
+      "chapter": 4,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que fazer em vez de viver ansioso?",
+      "answer": "Levar os pedidos a Deus, com gratidão.",
+      "reference": "Fp 4:6"
+    },
+    {
+      "id": "PHP.4.name.1",
+      "bookNumber": 570,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem Paulo pede que pensem do mesmo modo?",
+      "answer": "Evódia e Síntique.",
+      "reference": "Fp 4:2"
+    },
+    {
+      "id": "PHP.4.place.1",
+      "bookNumber": 570,
+      "chapter": 4,
+      "verseStart": 22,
+      "kind": "place",
+      "prompt": "Onde estavam os santos que Paulo destaca na saudação?",
+      "answer": "Na casa de César.",
+      "reference": "Fp 4:22"
+    },
+    {
+      "id": "PHP.4.curiosity.1",
+      "bookNumber": 570,
+      "chapter": 4,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Em quem Paulo diz que pode todas as coisas?",
+      "answer": "Em Cristo, que lhe dá força.",
+      "reference": "Fp 4:13"
+    },
+    {
+      "id": "PHP.0.curiosity.1",
+      "bookNumber": 570,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Filipenses?",
+      "answer": "Paulo.",
+      "reference": "Filipenses"
+    },
+    {
+      "id": "PHP.0.curiosity.2",
+      "bookNumber": 570,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Filipenses?",
+      "answer": "Na prisão, por volta do ano 61.",
+      "reference": "Filipenses"
+    },
+    {
+      "id": "PHP.0.curiosity.3",
+      "bookNumber": 570,
+      "chapter": 0,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Para quem Paulo escreveu Filipenses?",
+      "answer": "Para os santos que estavam em Filipos.",
+      "reference": "Fp 1:1"
+    }
+  ]
+}

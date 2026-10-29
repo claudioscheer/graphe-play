@@ -1,0 +1,144 @@
+{
+  "cards": [
+    {
+      "id": "2PE.1.subject.1",
+      "bookNumber": 680,
+      "chapter": 1,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "Quem produziu a profecia da Escritura?",
+      "answer": "Homens santos conduzidos pelo Espírito Santo, não pela vontade humana.",
+      "reference": "2Pe 1:21"
+    },
+    {
+      "id": "2PE.1.name.1",
+      "bookNumber": 680,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem escreve aos que receberam uma fé igualmente preciosa?",
+      "answer": "Simão Pedro.",
+      "reference": "2Pe 1:1"
+    },
+    {
+      "id": "2PE.1.place.1",
+      "bookNumber": 680,
+      "chapter": 1,
+      "verseStart": 18,
+      "kind": "place",
+      "prompt": "Onde Pedro diz ter ouvido a voz vinda do céu?",
+      "answer": "No santo monte.",
+      "reference": "2Pe 1:18"
+    },
+    {
+      "id": "2PE.1.curiosity.1",
+      "bookNumber": 680,
+      "chapter": 1,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "O que Jesus Cristo revelou que estava perto para Pedro?",
+      "answer": "A saída da tenda em que ele vivia.",
+      "reference": "2Pe 1:14"
+    },
+    {
+      "id": "2PE.2.subject.1",
+      "bookNumber": 680,
+      "chapter": 2,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que os falsos instrutores farão com quem os comprou?",
+      "answer": "Vão negá-lo e trazer destruição rápida sobre si.",
+      "reference": "2Pe 2:1"
+    },
+    {
+      "id": "2PE.2.name.1",
+      "bookNumber": 680,
+      "chapter": 2,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Quem foi preservado quando veio o dilúvio, em 2 Pedro?",
+      "answer": "Noé, pregador da justiça, e mais sete.",
+      "reference": "2Pe 2:5"
+    },
+    {
+      "id": "2PE.2.place.1",
+      "bookNumber": 680,
+      "chapter": 2,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Quais cidades Deus destruiu até virarem cinza?",
+      "answer": "Sodoma e Gomorra.",
+      "reference": "2Pe 2:6"
+    },
+    {
+      "id": "2PE.2.curiosity.1",
+      "bookNumber": 680,
+      "chapter": 2,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Qual animal mudo falou com voz humana?",
+      "answer": "O animal de jugo.",
+      "reference": "2Pe 2:16"
+    },
+    {
+      "id": "2PE.3.subject.1",
+      "bookNumber": 680,
+      "chapter": 3,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que Pedro diz que a promessa manda aguardar?",
+      "answer": "Céus novos e uma terra nova, onde mora a justiça.",
+      "reference": "2Pe 3:13"
+    },
+    {
+      "id": "2PE.3.name.1",
+      "bookNumber": 680,
+      "chapter": 3,
+      "verseStart": 15,
+      "kind": "name",
+      "prompt": "Qual irmão escreveu sobre a paciência de Deus?",
+      "answer": "Paulo.",
+      "reference": "2Pe 3:15"
+    },
+    {
+      "id": "2PE.3.curiosity.1",
+      "bookNumber": 680,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que equivale a um dia para Deus?",
+      "answer": "Mil anos.",
+      "reference": "2Pe 3:8"
+    },
+    {
+      "id": "2PE.3.curiosity.2",
+      "bookNumber": 680,
+      "chapter": 3,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Como chegará o dia de Deus?",
+      "answer": "De surpresa, como ladrão à noite.",
+      "reference": "2Pe 3:10"
+    },
+    {
+      "id": "2PE.0.curiosity.1",
+      "bookNumber": 680,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 2 Pedro?",
+      "answer": "Pedro.",
+      "reference": "2 Pedro"
+    },
+    {
+      "id": "2PE.0.curiosity.2",
+      "bookNumber": 680,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 2 Pedro?",
+      "answer": "Pouco antes da morte dele, por volta do ano 67.",
+      "reference": "2 Pedro"
+    }
+  ]
+}

@@ -1,0 +1,1151 @@
+{
+  "cards": [
+    {
+      "id": "ACT.1.subject.1",
+      "bookNumber": 510,
+      "chapter": 1,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que aconteceu com Jesus depois de prometer o Espírito Santo?",
+      "answer": "Ele foi elevado, e uma nuvem o encobriu.",
+      "reference": "At 1:9"
+    },
+    {
+      "id": "ACT.1.name.1",
+      "bookNumber": 510,
+      "chapter": 1,
+      "verseStart": 26,
+      "kind": "name",
+      "prompt": "Quem a sorte indicou para ocupar o lugar de Judas?",
+      "answer": "Matias.",
+      "reference": "At 1:26"
+    },
+    {
+      "id": "ACT.1.place.1",
+      "bookNumber": 510,
+      "chapter": 1,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "De que monte os apóstolos voltaram para Jerusalém?",
+      "answer": "Do monte das Oliveiras.",
+      "reference": "At 1:12"
+    },
+    {
+      "id": "ACT.1.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 1,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Por quantos dias Jesus se mostrou vivo aos apóstolos?",
+      "answer": "Por quarenta dias.",
+      "reference": "At 1:3"
+    },
+    {
+      "id": "ACT.2.subject.1",
+      "bookNumber": 510,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que aconteceu com os discípulos no Pentecostes?",
+      "answer": "Ficaram cheios do Espírito Santo e falaram outras línguas.",
+      "reference": "At 2:4"
+    },
+    {
+      "id": "ACT.2.name.1",
+      "bookNumber": 510,
+      "chapter": 2,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem falou à multidão em Jerusalém no Pentecostes?",
+      "answer": "Pedro, de pé junto com os onze.",
+      "reference": "At 2:14"
+    },
+    {
+      "id": "ACT.2.place.1",
+      "bookNumber": 510,
+      "chapter": 2,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Em que cidade moravam os judeus devotos de toda nação, em Atos?",
+      "answer": "Em Jerusalém.",
+      "reference": "At 2:5"
+    },
+    {
+      "id": "ACT.2.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 2,
+      "verseStart": 41,
+      "kind": "curiosity",
+      "prompt": "Quantas pessoas foram batizadas no dia de Pentecostes?",
+      "answer": "Cerca de três mil.",
+      "reference": "At 2:41"
+    },
+    {
+      "id": "ACT.3.subject.1",
+      "bookNumber": 510,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que o homem coxo passou a fazer no templo de Jerusalém?",
+      "answer": "Entrou pulando e louvando a Deus.",
+      "reference": "At 3:8"
+    },
+    {
+      "id": "ACT.3.name.1",
+      "bookNumber": 510,
+      "chapter": 3,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem mandou o coxo da porta Formosa se levantar?",
+      "answer": "Pedro.",
+      "reference": "At 3:6"
+    },
+    {
+      "id": "ACT.3.place.1",
+      "bookNumber": 510,
+      "chapter": 3,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Em qual porta do templo o coxo pedia esmola, em Atos?",
+      "answer": "Na porta chamada Formosa.",
+      "reference": "At 3:2"
+    },
+    {
+      "id": "ACT.3.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 3,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Desde quando o homem da porta Formosa era coxo?",
+      "answer": "Desde o nascimento.",
+      "reference": "At 3:2"
+    },
+    {
+      "id": "ACT.4.subject.1",
+      "bookNumber": 510,
+      "chapter": 4,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que fizeram com Pedro e João em Jerusalém, já de noite?",
+      "answer": "Colocaram os dois na prisão até o outro dia.",
+      "reference": "At 4:3"
+    },
+    {
+      "id": "ACT.4.name.1",
+      "bookNumber": 510,
+      "chapter": 4,
+      "verseStart": 36,
+      "kind": "name",
+      "prompt": "Qual apelido os apóstolos deram a José, levita de Chipre?",
+      "answer": "Barnabé.",
+      "reference": "At 4:36"
+    },
+    {
+      "id": "ACT.4.place.1",
+      "bookNumber": 510,
+      "chapter": 4,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Em que cidade Pedro e João compareceram diante dos chefes?",
+      "answer": "Em Jerusalém.",
+      "reference": "At 4:5"
+    },
+    {
+      "id": "ACT.4.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 4,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Quantos homens crentes havia quando Pedro e João foram presos?",
+      "answer": "Cerca de cinco mil.",
+      "reference": "At 4:4"
+    },
+    {
+      "id": "ACT.5.subject.1",
+      "bookNumber": 510,
+      "chapter": 5,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "Quem tirou os apóstolos da prisão em Jerusalém?",
+      "answer": "Um anjo, que abriu as portas de noite.",
+      "reference": "At 5:19"
+    },
+    {
+      "id": "ACT.5.name.1",
+      "bookNumber": 510,
+      "chapter": 5,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem vendeu uma propriedade junto com Safira?",
+      "answer": "Ananias, marido dela.",
+      "reference": "At 5:1"
+    },
+    {
+      "id": "ACT.5.place.1",
+      "bookNumber": 510,
+      "chapter": 5,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Onde os apóstolos se reuniam com o povo em Jerusalém?",
+      "answer": "No pórtico de Salomão.",
+      "reference": "At 5:12"
+    },
+    {
+      "id": "ACT.5.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 5,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "O que esperavam da sombra de Pedro nas ruas?",
+      "answer": "Que ela cobrisse alguns doentes.",
+      "reference": "At 5:15"
+    },
+    {
+      "id": "ACT.6.subject.1",
+      "bookNumber": 510,
+      "chapter": 6,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que fizeram com Estêvão em Jerusalém?",
+      "answer": "Prenderam-no e o levaram ao conselho.",
+      "reference": "At 6:12"
+    },
+    {
+      "id": "ACT.6.name.1",
+      "bookNumber": 510,
+      "chapter": 6,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Quem era o prosélito de Antioquia entre os sete?",
+      "answer": "Nicolau.",
+      "reference": "At 6:5"
+    },
+    {
+      "id": "ACT.6.place.1",
+      "bookNumber": 510,
+      "chapter": 6,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "De que sinagoga saíram os que discutiam com Estêvão?",
+      "answer": "Da sinagoga dos libertos.",
+      "reference": "At 6:9"
+    },
+    {
+      "id": "ACT.6.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 6,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Como o conselho viu o rosto de Estêvão?",
+      "answer": "Parecia o rosto de um anjo.",
+      "reference": "At 6:15"
+    },
+    {
+      "id": "ACT.7.subject.1",
+      "bookNumber": 510,
+      "chapter": 7,
+      "verseStart": 58,
+      "verseEnd": 60,
+      "kind": "subject",
+      "prompt": "O que fizeram com Estêvão fora de Jerusalém?",
+      "answer": "Apedrejaram-no, e ele morreu.",
+      "reference": "At 7:58-60"
+    },
+    {
+      "id": "ACT.7.name.1",
+      "bookNumber": 510,
+      "chapter": 7,
+      "verseStart": 58,
+      "kind": "name",
+      "prompt": "Quem guardava as roupas dos que apedrejaram Estêvão?",
+      "answer": "Um jovem chamado Saulo.",
+      "reference": "At 7:58"
+    },
+    {
+      "id": "ACT.7.place.1",
+      "bookNumber": 510,
+      "chapter": 7,
+      "verseStart": 29,
+      "kind": "place",
+      "prompt": "Para onde Moisés foi viver como estrangeiro?",
+      "answer": "Para Midiã, onde teve dois filhos.",
+      "reference": "At 7:29"
+    },
+    {
+      "id": "ACT.7.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 7,
+      "verseStart": 55,
+      "kind": "curiosity",
+      "prompt": "O que Estêvão viu ao olhar para o céu?",
+      "answer": "A glória de Deus e Jesus à direita dele.",
+      "reference": "At 7:55"
+    },
+    {
+      "id": "ACT.8.subject.1",
+      "bookNumber": 510,
+      "chapter": 8,
+      "verseStart": 38,
+      "kind": "subject",
+      "prompt": "O que Filipe fez com o oficial etíope no caminho de Gaza?",
+      "answer": "Desceu com ele à água e o batizou.",
+      "reference": "At 8:38"
+    },
+    {
+      "id": "ACT.8.name.1",
+      "bookNumber": 510,
+      "chapter": 8,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem era o mago que impressionava o povo de Samaria?",
+      "answer": "Simão.",
+      "reference": "At 8:9"
+    },
+    {
+      "id": "ACT.8.place.1",
+      "bookNumber": 510,
+      "chapter": 8,
+      "verseStart": 26,
+      "kind": "place",
+      "prompt": "Para qual caminho o anjo mandou Filipe ir?",
+      "answer": "À estrada deserta entre Jerusalém e Gaza.",
+      "reference": "At 8:26"
+    },
+    {
+      "id": "ACT.8.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 8,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "O que Simão, o mago, ofereceu aos apóstolos?",
+      "answer": "Dinheiro, ao ver o Espírito ser dado.",
+      "reference": "At 8:18"
+    },
+    {
+      "id": "ACT.9.subject.1",
+      "bookNumber": 510,
+      "chapter": 9,
+      "verseStart": 3,
+      "verseEnd": 5,
+      "kind": "subject",
+      "prompt": "O que aconteceu com Saulo perto de Damasco?",
+      "answer": "Um clarão do céu o derrubou, e Jesus falou com ele.",
+      "reference": "At 9:3-5"
+    },
+    {
+      "id": "ACT.9.name.1",
+      "bookNumber": 510,
+      "chapter": 9,
+      "verseStart": 17,
+      "kind": "name",
+      "prompt": "Quem pôs as mãos sobre Saulo em Damasco?",
+      "answer": "Ananias.",
+      "reference": "At 9:17"
+    },
+    {
+      "id": "ACT.9.place.1",
+      "bookNumber": 510,
+      "chapter": 9,
+      "verseStart": 36,
+      "kind": "place",
+      "prompt": "Em que cidade morava Tabita, também chamada Dorcas?",
+      "answer": "Em Jope.",
+      "reference": "At 9:36"
+    },
+    {
+      "id": "ACT.9.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 9,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo Saulo ficou sem ver em Damasco?",
+      "answer": "Três dias, e nesse período ficou em jejum.",
+      "reference": "At 9:9"
+    },
+    {
+      "id": "ACT.10.subject.1",
+      "bookNumber": 510,
+      "chapter": 10,
+      "verseStart": 44,
+      "kind": "subject",
+      "prompt": "O que veio sobre os ouvintes na casa de Cornélio, em Cesareia?",
+      "answer": "O Espírito Santo, enquanto Pedro ainda falava.",
+      "reference": "At 10:44"
+    },
+    {
+      "id": "ACT.10.name.1",
+      "bookNumber": 510,
+      "chapter": 10,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Qual era o ofício de Cornélio em Cesareia?",
+      "answer": "Centurião do esquadrão Italiano.",
+      "reference": "At 10:1"
+    },
+    {
+      "id": "ACT.10.place.1",
+      "bookNumber": 510,
+      "chapter": 10,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "A qual cidade Cornélio enviou homens buscar Pedro?",
+      "answer": "A Jope.",
+      "reference": "At 10:5"
+    },
+    {
+      "id": "ACT.10.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 10,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Quantas vezes Pedro viu o lençol descer do céu?",
+      "answer": "Três vezes.",
+      "reference": "At 10:16"
+    },
+    {
+      "id": "ACT.11.subject.1",
+      "bookNumber": 510,
+      "chapter": 11,
+      "verseStart": 26,
+      "kind": "subject",
+      "prompt": "Em que cidade os discípulos ganharam o nome de cristãos, em Atos?",
+      "answer": "Em Antioquia, e foi a primeira vez.",
+      "reference": "At 11:26"
+    },
+    {
+      "id": "ACT.11.name.1",
+      "bookNumber": 510,
+      "chapter": 11,
+      "verseStart": 28,
+      "kind": "name",
+      "prompt": "Quem anunciou fome no tempo do imperador Cláudio?",
+      "answer": "O profeta Ágabo.",
+      "reference": "At 11:28"
+    },
+    {
+      "id": "ACT.11.place.1",
+      "bookNumber": 510,
+      "chapter": 11,
+      "verseStart": 25,
+      "kind": "place",
+      "prompt": "Onde Barnabé foi buscar Saulo?",
+      "answer": "Em Tarso.",
+      "reference": "At 11:25"
+    },
+    {
+      "id": "ACT.11.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 11,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "Por quanto tempo Barnabé e Saulo ensinaram em Antioquia?",
+      "answer": "Um ano inteiro.",
+      "reference": "At 11:26"
+    },
+    {
+      "id": "ACT.12.subject.1",
+      "bookNumber": 510,
+      "chapter": 12,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Quem libertou Pedro da prisão de Herodes?",
+      "answer": "Um anjo, que soltou as correntes de Pedro.",
+      "reference": "At 12:7"
+    },
+    {
+      "id": "ACT.12.name.1",
+      "bookNumber": 510,
+      "chapter": 12,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem Herodes mandou matar pela espada?",
+      "answer": "Tiago, irmão de João.",
+      "reference": "At 12:2"
+    },
+    {
+      "id": "ACT.12.place.1",
+      "bookNumber": 510,
+      "chapter": 12,
+      "verseStart": 19,
+      "kind": "place",
+      "prompt": "Para onde Herodes foi depois de não achar Pedro?",
+      "answer": "Para Cesareia.",
+      "reference": "At 12:19"
+    },
+    {
+      "id": "ACT.12.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 12,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "Como morreu o rei Herodes que prendeu Pedro?",
+      "answer": "Um anjo o feriu, e os vermes o consumiram.",
+      "reference": "At 12:23"
+    },
+    {
+      "id": "ACT.13.subject.1",
+      "bookNumber": 510,
+      "chapter": 13,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Quem foi separado para a missão em Antioquia?",
+      "answer": "Barnabé e Saulo.",
+      "reference": "At 13:2"
+    },
+    {
+      "id": "ACT.13.name.1",
+      "bookNumber": 510,
+      "chapter": 13,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem era o mago judeu encontrado em Pafo?",
+      "answer": "Barjesus, um falso profeta.",
+      "reference": "At 13:6"
+    },
+    {
+      "id": "ACT.13.place.1",
+      "bookNumber": 510,
+      "chapter": 13,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Para qual ilha Barnabé e Saulo navegaram primeiro?",
+      "answer": "Para o Chipre.",
+      "reference": "At 13:4"
+    },
+    {
+      "id": "ACT.13.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 13,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que aconteceu com o mago Elimas em Pafo?",
+      "answer": "Ficou sem ver e precisava de alguém que o guiasse.",
+      "reference": "At 13:11"
+    },
+    {
+      "id": "ACT.14.subject.1",
+      "bookNumber": 510,
+      "chapter": 14,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que queriam fazer com Paulo e Barnabé em Listra?",
+      "answer": "Oferecer um sacrifício de touros em honra deles.",
+      "reference": "At 14:13"
+    },
+    {
+      "id": "ACT.14.name.1",
+      "bookNumber": 510,
+      "chapter": 14,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem a multidão de Listra chamou de Mercúrio?",
+      "answer": "Paulo, pois era ele quem falava.",
+      "reference": "At 14:12"
+    },
+    {
+      "id": "ACT.14.place.1",
+      "bookNumber": 510,
+      "chapter": 14,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Em que cidade Paulo curou o homem coxo desde o nascimento?",
+      "answer": "Em Listra.",
+      "reference": "At 14:8"
+    },
+    {
+      "id": "ACT.14.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 14,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que fizeram com Paulo os judeus vindos de Antioquia e Icônio?",
+      "answer": "Apedrejaram-no e o largaram, achando que tinha morrido.",
+      "reference": "At 14:19"
+    },
+    {
+      "id": "ACT.15.subject.1",
+      "bookNumber": 510,
+      "chapter": 15,
+      "verseStart": 29,
+      "kind": "subject",
+      "prompt": "O que a carta dos apóstolos pediu que os gentios evitassem, em Atos?",
+      "answer": "Ídolos, sangue, carne sufocada e imoralidade sexual.",
+      "reference": "At 15:29"
+    },
+    {
+      "id": "ACT.15.name.1",
+      "bookNumber": 510,
+      "chapter": 15,
+      "verseStart": 22,
+      "kind": "name",
+      "prompt": "Quem foi junto de Paulo e de Barnabé até Antioquia?",
+      "answer": "Judas Barsabás e Silas.",
+      "reference": "At 15:22"
+    },
+    {
+      "id": "ACT.15.place.1",
+      "bookNumber": 510,
+      "chapter": 15,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Para onde Paulo e Barnabé subiram resolver a discussão?",
+      "answer": "Para Jerusalém, ao encontro dos apóstolos e dos anciãos.",
+      "reference": "At 15:2"
+    },
+    {
+      "id": "ACT.15.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 15,
+      "verseStart": 39,
+      "kind": "curiosity",
+      "prompt": "O que houve entre Paulo e Barnabé por causa de Marcos?",
+      "answer": "Separaram-se, e Barnabé levou Marcos ao Chipre.",
+      "reference": "At 15:39"
+    },
+    {
+      "id": "ACT.16.subject.1",
+      "bookNumber": 510,
+      "chapter": 16,
+      "verseStart": 26,
+      "kind": "subject",
+      "prompt": "O que aconteceu na prisão de Filipos com Paulo e Silas?",
+      "answer": "Um terremoto abriu as portas e soltou as correntes.",
+      "reference": "At 16:26"
+    },
+    {
+      "id": "ACT.16.name.1",
+      "bookNumber": 510,
+      "chapter": 16,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem era a vendedora de púrpura vinda de Tiatira?",
+      "answer": "Lídia.",
+      "reference": "At 16:14"
+    },
+    {
+      "id": "ACT.16.place.1",
+      "bookNumber": 510,
+      "chapter": 16,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "A que colônia da Macedônia Paulo chegou?",
+      "answer": "A Filipos.",
+      "reference": "At 16:12"
+    },
+    {
+      "id": "ACT.16.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 16,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "Como o carcereiro de Filipos seria salvo, segundo Paulo?",
+      "answer": "Crendo em Jesus Cristo, ele e toda a sua casa.",
+      "reference": "At 16:31"
+    },
+    {
+      "id": "ACT.17.subject.1",
+      "bookNumber": 510,
+      "chapter": 17,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "Para onde levaram Paulo em Atenas?",
+      "answer": "Ao Areópago, para ele explicar a mensagem.",
+      "reference": "At 17:19"
+    },
+    {
+      "id": "ACT.17.name.1",
+      "bookNumber": 510,
+      "chapter": 17,
+      "verseStart": 34,
+      "kind": "name",
+      "prompt": "Quem creu em Paulo no Areópago, em Atenas?",
+      "answer": "Dionísio, o areopagita, e também Dâmaris.",
+      "reference": "At 17:34"
+    },
+    {
+      "id": "ACT.17.place.1",
+      "bookNumber": 510,
+      "chapter": 17,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "Para onde Paulo e Silas foram de noite, saindo de Tessalônica?",
+      "answer": "Para Bereia.",
+      "reference": "At 17:10"
+    },
+    {
+      "id": "ACT.17.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 17,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "O que Paulo leu num altar em Atenas?",
+      "answer": "Uma dedicatória ao Deus que a cidade não conhecia.",
+      "reference": "At 17:23"
+    },
+    {
+      "id": "ACT.18.subject.1",
+      "bookNumber": 510,
+      "chapter": 18,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que muitos coríntios fizeram ao ouvir Paulo?",
+      "answer": "Creram na mensagem e receberam o batismo.",
+      "reference": "At 18:8"
+    },
+    {
+      "id": "ACT.18.name.1",
+      "bookNumber": 510,
+      "chapter": 18,
+      "verseStart": 24,
+      "kind": "name",
+      "prompt": "Quem era o judeu eloquente de Alexandria que chegou a Éfeso?",
+      "answer": "Apolo.",
+      "reference": "At 18:24"
+    },
+    {
+      "id": "ACT.18.place.1",
+      "bookNumber": 510,
+      "chapter": 18,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Para onde Paulo foi depois de sair de Atenas?",
+      "answer": "Para Corinto.",
+      "reference": "At 18:1"
+    },
+    {
+      "id": "ACT.18.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 18,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo Paulo ensinou em Corinto?",
+      "answer": "Um ano e meio.",
+      "reference": "At 18:11"
+    },
+    {
+      "id": "ACT.19.subject.1",
+      "bookNumber": 510,
+      "chapter": 19,
+      "verseStart": 29,
+      "kind": "subject",
+      "prompt": "O que a multidão fez no tumulto em Éfeso?",
+      "answer": "Invadiu o teatro, levando Gaio e Aristarco.",
+      "reference": "At 19:29"
+    },
+    {
+      "id": "ACT.19.name.1",
+      "bookNumber": 510,
+      "chapter": 19,
+      "verseStart": 24,
+      "kind": "name",
+      "prompt": "Quem era o ourives de prata do templo de Diana em Éfeso?",
+      "answer": "Demétrio.",
+      "reference": "At 19:24"
+    },
+    {
+      "id": "ACT.19.place.1",
+      "bookNumber": 510,
+      "chapter": 19,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Onde Paulo ensinava todos os dias em Éfeso?",
+      "answer": "Na escola de Tirano.",
+      "reference": "At 19:9"
+    },
+    {
+      "id": "ACT.19.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 19,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que aconteceu com os livros de magia em Éfeso?",
+      "answer": "Foram queimados, e o preço somava cinquenta mil em prata.",
+      "reference": "At 19:19"
+    },
+    {
+      "id": "ACT.20.subject.1",
+      "bookNumber": 510,
+      "chapter": 20,
+      "verseStart": 25,
+      "kind": "subject",
+      "prompt": "O que Paulo disse aos anciãos de Éfeso em Mileto?",
+      "answer": "Que eles não veriam mais o rosto dele.",
+      "reference": "At 20:25"
+    },
+    {
+      "id": "ACT.20.name.1",
+      "bookNumber": 510,
+      "chapter": 20,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem caiu da janela enquanto Paulo falava em Trôade?",
+      "answer": "Êutico, um jovem que dormiu.",
+      "reference": "At 20:9"
+    },
+    {
+      "id": "ACT.20.place.1",
+      "bookNumber": 510,
+      "chapter": 20,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "De onde Paulo chamou os anciãos da igreja de Éfeso?",
+      "answer": "De Mileto.",
+      "reference": "At 20:17"
+    },
+    {
+      "id": "ACT.20.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 20,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "Por quanto tempo Paulo alertou os anciãos de Éfeso?",
+      "answer": "Por três anos, de dia e de noite.",
+      "reference": "At 20:31"
+    },
+    {
+      "id": "ACT.21.subject.1",
+      "bookNumber": 510,
+      "chapter": 21,
+      "verseStart": 30,
+      "kind": "subject",
+      "prompt": "O que a multidão fez com Paulo no templo de Jerusalém?",
+      "answer": "Tirou-o para fora e fechou as portas.",
+      "reference": "At 21:30"
+    },
+    {
+      "id": "ACT.21.name.1",
+      "bookNumber": 510,
+      "chapter": 21,
+      "verseStart": 10,
+      "verseEnd": 11,
+      "kind": "name",
+      "prompt": "Quem anunciou a prisão de Paulo usando a cinta dele?",
+      "answer": "Ágabo, um profeta vindo da Judeia.",
+      "reference": "At 21:10-11"
+    },
+    {
+      "id": "ACT.21.place.1",
+      "bookNumber": 510,
+      "chapter": 21,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Em casa de quem Paulo se hospedou em Cesareia?",
+      "answer": "De Filipe, o evangelista, um dos sete.",
+      "reference": "At 21:8"
+    },
+    {
+      "id": "ACT.21.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 21,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Quantas filhas de Filipe, o evangelista, profetizavam?",
+      "answer": "Quatro.",
+      "reference": "At 21:9"
+    },
+    {
+      "id": "ACT.22.subject.1",
+      "bookNumber": 510,
+      "chapter": 22,
+      "verseStart": 29,
+      "kind": "subject",
+      "prompt": "Por que o comandante teve medo depois de prender Paulo em Jerusalém?",
+      "answer": "Porque Paulo era romano e já estava amarrado.",
+      "reference": "At 22:29"
+    },
+    {
+      "id": "ACT.22.name.1",
+      "bookNumber": 510,
+      "chapter": 22,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Aos pés de quem Paulo estudou a lei em Jerusalém?",
+      "answer": "De Gamaliel.",
+      "reference": "At 22:3"
+    },
+    {
+      "id": "ACT.22.place.1",
+      "bookNumber": 510,
+      "chapter": 22,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Onde Paulo nasceu?",
+      "answer": "Em Tarso, na Cilícia.",
+      "reference": "At 22:3"
+    },
+    {
+      "id": "ACT.22.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 22,
+      "verseStart": 28,
+      "kind": "curiosity",
+      "prompt": "Como Paulo tinha a cidadania romana?",
+      "answer": "Era romano desde o nascimento.",
+      "reference": "At 22:28"
+    },
+    {
+      "id": "ACT.23.subject.1",
+      "bookNumber": 510,
+      "chapter": 23,
+      "verseStart": 23,
+      "verseEnd": 24,
+      "kind": "subject",
+      "prompt": "Para onde mandaram levar Paulo de noite, sob escolta?",
+      "answer": "A Cesareia, ao governador Félix.",
+      "reference": "At 23:23-24"
+    },
+    {
+      "id": "ACT.23.name.1",
+      "bookNumber": 510,
+      "chapter": 23,
+      "verseStart": 26,
+      "kind": "name",
+      "prompt": "De quem era a carta dirigida ao governador Félix?",
+      "answer": "De Cláudio Lísias.",
+      "reference": "At 23:26"
+    },
+    {
+      "id": "ACT.23.place.1",
+      "bookNumber": 510,
+      "chapter": 23,
+      "verseStart": 31,
+      "kind": "place",
+      "prompt": "Até onde Paulo foi levado de noite, a caminho de Cesareia?",
+      "answer": "Até Antipátride.",
+      "reference": "At 23:31"
+    },
+    {
+      "id": "ACT.23.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 23,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Quantos homens fizeram o juramento contra Paulo?",
+      "answer": "Mais de quarenta.",
+      "reference": "At 23:13"
+    },
+    {
+      "id": "ACT.24.subject.1",
+      "bookNumber": 510,
+      "chapter": 24,
+      "verseStart": 27,
+      "kind": "subject",
+      "prompt": "Quanto tempo Félix deixou Paulo preso?",
+      "answer": "Dois anos, até Pórcio Festo assumir o posto.",
+      "reference": "At 24:27"
+    },
+    {
+      "id": "ACT.24.name.1",
+      "bookNumber": 510,
+      "chapter": 24,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem foi o orador que acusou Paulo diante de Félix?",
+      "answer": "Tértulo.",
+      "reference": "At 24:1"
+    },
+    {
+      "id": "ACT.24.place.1",
+      "bookNumber": 510,
+      "chapter": 24,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Diante de Félix, a que cidade Paulo disse ter subido para adorar?",
+      "answer": "A Jerusalém.",
+      "reference": "At 24:11"
+    },
+    {
+      "id": "ACT.24.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 24,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "O que Félix esperava ganhar de Paulo?",
+      "answer": "Dinheiro, para então soltá-lo.",
+      "reference": "At 24:26"
+    },
+    {
+      "id": "ACT.25.subject.1",
+      "bookNumber": 510,
+      "chapter": 25,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "A quem Paulo apelou no tribunal de Festo?",
+      "answer": "A César.",
+      "reference": "At 25:11"
+    },
+    {
+      "id": "ACT.25.name.1",
+      "bookNumber": 510,
+      "chapter": 25,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "Qual rei chegou a Cesareia com Berenice?",
+      "answer": "Agripa.",
+      "reference": "At 25:13"
+    },
+    {
+      "id": "ACT.25.place.1",
+      "bookNumber": 510,
+      "chapter": 25,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Onde seria a cilada contra Paulo pedida a Festo?",
+      "answer": "No caminho para Jerusalém.",
+      "reference": "At 25:3"
+    },
+    {
+      "id": "ACT.25.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 25,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "O que Festo concluiu sobre um crime de morte em Paulo?",
+      "answer": "Não achou nada que merecesse a morte.",
+      "reference": "At 25:25"
+    },
+    {
+      "id": "ACT.26.subject.1",
+      "bookNumber": 510,
+      "chapter": 26,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "O que o rei Agripa disse no fim da defesa de Paulo?",
+      "answer": "Que Paulo quase o convencia a se tornar cristão.",
+      "reference": "At 26:28"
+    },
+    {
+      "id": "ACT.26.name.1",
+      "bookNumber": 510,
+      "chapter": 26,
+      "verseStart": 24,
+      "kind": "name",
+      "prompt": "Quem disse que Paulo enlouqueceu ao se defender?",
+      "answer": "Festo.",
+      "reference": "At 26:24"
+    },
+    {
+      "id": "ACT.26.place.1",
+      "bookNumber": 510,
+      "chapter": 26,
+      "verseStart": 12,
+      "verseEnd": 13,
+      "kind": "place",
+      "prompt": "Para onde Paulo ia quando viu a luz ao meio-dia?",
+      "answer": "Para Damasco.",
+      "reference": "At 26:12-13"
+    },
+    {
+      "id": "ACT.26.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 26,
+      "verseStart": 32,
+      "kind": "curiosity",
+      "prompt": "O que impedia Paulo de ser solto, segundo Agripa?",
+      "answer": "O apelo que ele tinha feito a César.",
+      "reference": "At 26:32"
+    },
+    {
+      "id": "ACT.27.subject.1",
+      "bookNumber": 510,
+      "chapter": 27,
+      "verseStart": 44,
+      "kind": "subject",
+      "prompt": "O que aconteceu com todos do navio de Paulo rumo à Itália?",
+      "answer": "Todos chegaram vivos à terra.",
+      "reference": "At 27:44"
+    },
+    {
+      "id": "ACT.27.name.1",
+      "bookNumber": 510,
+      "chapter": 27,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem era o centurião da viagem de Paulo à Itália?",
+      "answer": "Júlio, da guarda imperial.",
+      "reference": "At 27:1"
+    },
+    {
+      "id": "ACT.27.place.1",
+      "bookNumber": 510,
+      "chapter": 27,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Qual porto ficava perto da cidade de Laseia?",
+      "answer": "Bons Portos.",
+      "reference": "At 27:8"
+    },
+    {
+      "id": "ACT.27.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 27,
+      "verseStart": 37,
+      "kind": "curiosity",
+      "prompt": "Quantas pessoas iam no navio com Paulo?",
+      "answer": "276 pessoas.",
+      "reference": "At 27:37"
+    },
+    {
+      "id": "ACT.28.subject.1",
+      "bookNumber": 510,
+      "chapter": 28,
+      "verseStart": 30,
+      "verseEnd": 31,
+      "kind": "subject",
+      "prompt": "O que Paulo fez nos dois anos em que morou em Roma?",
+      "answer": "Recebia as visitas e pregava o reino de Deus sem impedimento.",
+      "reference": "At 28:30-31"
+    },
+    {
+      "id": "ACT.28.name.1",
+      "bookNumber": 510,
+      "chapter": 28,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Quem hospedou os náufragos por três dias em Malta?",
+      "answer": "Públio, o principal da ilha.",
+      "reference": "At 28:7"
+    },
+    {
+      "id": "ACT.28.place.1",
+      "bookNumber": 510,
+      "chapter": 28,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Como se chamava a ilha em que Paulo e os outros sobreviveram?",
+      "answer": "Malta.",
+      "reference": "At 28:1"
+    },
+    {
+      "id": "ACT.28.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 28,
+      "verseStart": 3,
+      "verseEnd": 5,
+      "kind": "curiosity",
+      "prompt": "O que Paulo fez quando a víbora mordeu a mão dele em Malta?",
+      "answer": "Sacudiu a cobra para o fogo e não se machucou.",
+      "reference": "At 28:3-5"
+    },
+    {
+      "id": "ACT.0.curiosity.1",
+      "bookNumber": 510,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Atos?",
+      "answer": "Lucas.",
+      "reference": "Atos"
+    },
+    {
+      "id": "ACT.0.curiosity.2",
+      "bookNumber": 510,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Atos?",
+      "answer": "Por volta do ano 62.",
+      "reference": "Atos"
+    }
+  ]
+}

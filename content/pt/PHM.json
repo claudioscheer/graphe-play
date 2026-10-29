@@ -1,0 +1,85 @@
+{
+  "cards": [
+    {
+      "id": "PHM.1.subject.1",
+      "bookNumber": 640,
+      "chapter": 1,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Como Paulo pede que Filemom receba Onésimo?",
+      "answer": "Não mais como escravo, e sim como irmão querido.",
+      "reference": "Fm 1:16"
+    },
+    {
+      "id": "PHM.1.name.1",
+      "bookNumber": 640,
+      "chapter": 1,
+      "verseStart": 10,
+      "kind": "name",
+      "prompt": "Quem Paulo chama de filho, nascido na prisão?",
+      "answer": "Onésimo.",
+      "reference": "Fm 1:10"
+    },
+    {
+      "id": "PHM.1.name.2",
+      "bookNumber": 640,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem Paulo saúda junto com Filemom?",
+      "answer": "Ápia e Arquipo.",
+      "reference": "Fm 1:2"
+    },
+    {
+      "id": "PHM.1.place.1",
+      "bookNumber": 640,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde se reunia a igreja ligada a Filemom?",
+      "answer": "Na casa dele.",
+      "reference": "Fm 1:2"
+    },
+    {
+      "id": "PHM.1.curiosity.1",
+      "bookNumber": 640,
+      "chapter": 1,
+      "verseStart": 18,
+      "verseEnd": 19,
+      "kind": "curiosity",
+      "prompt": "O que Paulo manda fazer se Onésimo deve algo?",
+      "answer": "Lançar na conta dele, pois ele mesmo escreveu que pagará.",
+      "reference": "Fm 1:18-19"
+    },
+    {
+      "id": "PHM.0.curiosity.1",
+      "bookNumber": 640,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Filemom?",
+      "answer": "Paulo.",
+      "reference": "Filemom"
+    },
+    {
+      "id": "PHM.0.curiosity.2",
+      "bookNumber": 640,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Filemom?",
+      "answer": "Na prisão, por volta do ano 60.",
+      "reference": "Filemom"
+    },
+    {
+      "id": "PHM.0.curiosity.3",
+      "bookNumber": 640,
+      "chapter": 0,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Para quem Paulo escreveu Filemom?",
+      "answer": "Para Filemom, cooperador de Paulo.",
+      "reference": "Fm 1:1"
+    }
+  ]
+}

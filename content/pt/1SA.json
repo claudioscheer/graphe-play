@@ -1,0 +1,1250 @@
+{
+  "cards": [
+    {
+      "id": "1SA.1.subject.1",
+      "bookNumber": 90,
+      "chapter": 1,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "Por que Ana chamou o filho de Samuel?",
+      "answer": "Porque aquele menino ela havia pedido a Deus.",
+      "reference": "1Sm 1:20"
+    },
+    {
+      "id": "1SA.1.name.1",
+      "bookNumber": 90,
+      "chapter": 1,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem era o marido de Ana?",
+      "answer": "Elcana.",
+      "reference": "1Sm 1:8"
+    },
+    {
+      "id": "1SA.1.place.1",
+      "bookNumber": 90,
+      "chapter": 1,
+      "verseStart": 1,
+      "verseEnd": 3,
+      "kind": "place",
+      "prompt": "Onde Elcana subia todo ano para adorar?",
+      "answer": "Em Siló.",
+      "reference": "1Sm 1:1-3"
+    },
+    {
+      "id": "1SA.1.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 1,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que Ana prometeu sobre o cabelo do filho?",
+      "answer": "Que nenhuma navalha passaria na cabeça dele.",
+      "reference": "1Sm 1:11"
+    },
+    {
+      "id": "1SA.1.curiosity.2",
+      "bookNumber": 90,
+      "chapter": 1,
+      "verseStart": 28,
+      "kind": "curiosity",
+      "prompt": "Por quanto tempo Ana devolveu o menino a Deus?",
+      "answer": "Por todos os dias da vida dele.",
+      "reference": "1Sm 1:28"
+    },
+    {
+      "id": "1SA.2.subject.1",
+      "bookNumber": 90,
+      "chapter": 2,
+      "verseStart": 34,
+      "kind": "subject",
+      "prompt": "Que sinal Deus deu a Eli sobre Hofni e Fineias?",
+      "answer": "Os dois filhos morreriam no mesmo dia.",
+      "reference": "1Sm 2:34"
+    },
+    {
+      "id": "1SA.2.name.1",
+      "bookNumber": 90,
+      "chapter": 2,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Quem servia a Deus ainda jovem, de veste de linho, em 1 Samuel?",
+      "answer": "Samuel.",
+      "reference": "1Sm 2:18"
+    },
+    {
+      "id": "1SA.2.place.1",
+      "bookNumber": 90,
+      "chapter": 2,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Onde os filhos de Eli tomavam carne do sacrifício?",
+      "answer": "Em Siló.",
+      "reference": "1Sm 2:14"
+    },
+    {
+      "id": "1SA.2.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 2,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "Quantos filhos Ana teve depois de Samuel?",
+      "answer": "Mais três meninos e duas meninas.",
+      "reference": "1Sm 2:21"
+    },
+    {
+      "id": "1SA.3.subject.1",
+      "bookNumber": 90,
+      "chapter": 3,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que Samuel respondeu ao chamado de Deus?",
+      "answer": "Pediu que falasse, porque estava ouvindo.",
+      "reference": "1Sm 3:10"
+    },
+    {
+      "id": "1SA.3.name.1",
+      "bookNumber": 90,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem percebeu que Deus chamava o jovem Samuel?",
+      "answer": "Eli.",
+      "reference": "1Sm 3:8"
+    },
+    {
+      "id": "1SA.3.place.1",
+      "bookNumber": 90,
+      "chapter": 3,
+      "verseStart": 21,
+      "kind": "place",
+      "prompt": "Onde Deus voltou a aparecer a Samuel?",
+      "answer": "Em Siló.",
+      "reference": "1Sm 3:21"
+    },
+    {
+      "id": "1SA.3.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Como estava a palavra de Deus nos dias do jovem Samuel?",
+      "answer": "Era rara, e quase não havia visão.",
+      "reference": "1Sm 3:1"
+    },
+    {
+      "id": "1SA.4.subject.1",
+      "bookNumber": 90,
+      "chapter": 4,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que foi levado quando morreram os filhos de Eli?",
+      "answer": "A arca de Deus.",
+      "reference": "1Sm 4:11"
+    },
+    {
+      "id": "1SA.4.name.1",
+      "bookNumber": 90,
+      "chapter": 4,
+      "verseStart": 18,
+      "verseEnd": 21,
+      "kind": "name",
+      "prompt": "Que nome a nora de Eli deu ao bebê?",
+      "answer": "Icabode.",
+      "reference": "1Sm 4:18-21"
+    },
+    {
+      "id": "1SA.4.place.1",
+      "bookNumber": 90,
+      "chapter": 4,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Israel acampou antes de perder a arca para os filisteus?",
+      "answer": "Junto a Ebenézer.",
+      "reference": "1Sm 4:1"
+    },
+    {
+      "id": "1SA.4.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 4,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "Como Eli morreu ao saber da arca?",
+      "answer": "Caiu da cadeira para trás e quebrou o pescoço.",
+      "reference": "1Sm 4:18"
+    },
+    {
+      "id": "1SA.5.subject.1",
+      "bookNumber": 90,
+      "chapter": 5,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que aconteceu com a imagem de Dagom diante da arca?",
+      "answer": "Caiu, e a cabeça e as mãos se separaram do corpo.",
+      "reference": "1Sm 5:4"
+    },
+    {
+      "id": "1SA.5.place.1",
+      "bookNumber": 90,
+      "chapter": 5,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Para qual cidade filisteia a arca foi primeiro, em 1 Samuel?",
+      "answer": "Para Asdode.",
+      "reference": "1Sm 5:1"
+    },
+    {
+      "id": "1SA.5.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 5,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que os sacerdotes de Dagom não pisam em Asdode?",
+      "answer": "A soleira do templo dele.",
+      "reference": "1Sm 5:5"
+    },
+    {
+      "id": "1SA.6.subject.1",
+      "bookNumber": 90,
+      "chapter": 6,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Para onde as vacas levaram a arca, sem desviar, em 1 Samuel?",
+      "answer": "Direto para Bete-Semes.",
+      "reference": "1Sm 6:12"
+    },
+    {
+      "id": "1SA.6.place.1",
+      "bookNumber": 90,
+      "chapter": 6,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Em que campo o carro da arca parou, em 1 Samuel?",
+      "answer": "No campo de Josué, o bete-semita.",
+      "reference": "1Sm 6:14"
+    },
+    {
+      "id": "1SA.6.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 6,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo a arca ficou na terra dos filisteus, em 1 Samuel?",
+      "answer": "Sete meses.",
+      "reference": "1Sm 6:1"
+    },
+    {
+      "id": "1SA.6.curiosity.2",
+      "bookNumber": 90,
+      "chapter": 6,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Que presente de ouro acompanhou a arca, em 1 Samuel?",
+      "answer": "Cinco imagens das feridas e o mesmo número de ratos.",
+      "reference": "1Sm 6:4"
+    },
+    {
+      "id": "1SA.7.subject.1",
+      "bookNumber": 90,
+      "chapter": 7,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "Como Deus derrotou os filisteus no sacrifício de Samuel?",
+      "answer": "Com um trovão forte, e eles foram vencidos.",
+      "reference": "1Sm 7:10"
+    },
+    {
+      "id": "1SA.7.name.1",
+      "bookNumber": 90,
+      "chapter": 7,
+      "verseStart": 15,
+      "kind": "name",
+      "prompt": "Quem julgou Israel por toda a vida?",
+      "answer": "Samuel.",
+      "reference": "1Sm 7:15"
+    },
+    {
+      "id": "1SA.7.place.1",
+      "bookNumber": 90,
+      "chapter": 7,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Que nome Samuel deu à pedra entre Mispá e Sem?",
+      "answer": "Ebenézer.",
+      "reference": "1Sm 7:12"
+    },
+    {
+      "id": "1SA.7.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 7,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Por quantos anos a arca ficou em Quriate-Jearim?",
+      "answer": "Vinte anos.",
+      "reference": "1Sm 7:2"
+    },
+    {
+      "id": "1SA.8.subject.1",
+      "bookNumber": 90,
+      "chapter": 8,
+      "verseStart": 4,
+      "verseEnd": 5,
+      "kind": "subject",
+      "prompt": "O que os anciãos pediram a Samuel em Ramá?",
+      "answer": "Um rei, para serem como as outras nações.",
+      "reference": "1Sm 8:4-5"
+    },
+    {
+      "id": "1SA.8.name.1",
+      "bookNumber": 90,
+      "chapter": 8,
+      "verseStart": 1,
+      "verseEnd": 2,
+      "kind": "name",
+      "prompt": "Como se chamavam os filhos de Samuel?",
+      "answer": "Joel e Abias.",
+      "reference": "1Sm 8:1-2"
+    },
+    {
+      "id": "1SA.8.place.1",
+      "bookNumber": 90,
+      "chapter": 8,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Onde os anciãos foram falar com Samuel?",
+      "answer": "Em Ramá.",
+      "reference": "1Sm 8:4"
+    },
+    {
+      "id": "1SA.8.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 8,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que os filhos de Samuel faziam de errado?",
+      "answer": "Aceitavam suborno e torciam a justiça.",
+      "reference": "1Sm 8:3"
+    },
+    {
+      "id": "1SA.9.subject.1",
+      "bookNumber": 90,
+      "chapter": 9,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "Quem Deus mostrou a Samuel como futuro líder?",
+      "answer": "Saul, que governaria o povo de Israel.",
+      "reference": "1Sm 9:17"
+    },
+    {
+      "id": "1SA.9.name.1",
+      "bookNumber": 90,
+      "chapter": 9,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Quem era o pai de Saul?",
+      "answer": "Quis.",
+      "reference": "1Sm 9:3"
+    },
+    {
+      "id": "1SA.9.place.1",
+      "bookNumber": 90,
+      "chapter": 9,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Em que terra Saul pensou em voltar da busca?",
+      "answer": "Na terra de Zufe.",
+      "reference": "1Sm 9:5"
+    },
+    {
+      "id": "1SA.9.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 9,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que o criado de Saul ofereceu ao homem de Deus?",
+      "answer": "Prata no valor de um quarto de siclo.",
+      "reference": "1Sm 9:8"
+    },
+    {
+      "id": "1SA.10.subject.1",
+      "bookNumber": 90,
+      "chapter": 10,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que Samuel derramou na cabeça de Saul?",
+      "answer": "Azeite, e o ungiu líder do povo.",
+      "reference": "1Sm 10:1"
+    },
+    {
+      "id": "1SA.10.name.1",
+      "bookNumber": 90,
+      "chapter": 10,
+      "verseStart": 21,
+      "kind": "name",
+      "prompt": "Quem a sorte escolheu na família de Matri?",
+      "answer": "Saul, filho de Quis.",
+      "reference": "1Sm 10:21"
+    },
+    {
+      "id": "1SA.10.place.1",
+      "bookNumber": 90,
+      "chapter": 10,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Onde Samuel reuniu o povo para escolher o rei?",
+      "answer": "Em Mispá.",
+      "reference": "1Sm 10:17"
+    },
+    {
+      "id": "1SA.10.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 10,
+      "verseStart": 21,
+      "verseEnd": 22,
+      "kind": "curiosity",
+      "prompt": "Onde acharam Saul no dia em que foi escolhido?",
+      "answer": "Escondido no meio da bagagem.",
+      "reference": "1Sm 10:21-22"
+    },
+    {
+      "id": "1SA.11.subject.1",
+      "bookNumber": 90,
+      "chapter": 11,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Como Saul venceu o acampamento dos amonitas?",
+      "answer": "Atacou de madrugada e dispersou o restante.",
+      "reference": "1Sm 11:11"
+    },
+    {
+      "id": "1SA.11.name.1",
+      "bookNumber": 90,
+      "chapter": 11,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem cercou Jabes de Gileade?",
+      "answer": "Naás, o amonita.",
+      "reference": "1Sm 11:1"
+    },
+    {
+      "id": "1SA.11.place.1",
+      "bookNumber": 90,
+      "chapter": 11,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "Onde o povo confirmou Saul como rei?",
+      "answer": "Em Gilgal.",
+      "reference": "1Sm 11:15"
+    },
+    {
+      "id": "1SA.11.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 11,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que Naás exigiu de cada homem para fazer acordo?",
+      "answer": "Que lhe tirassem o olho direito.",
+      "reference": "1Sm 11:2"
+    },
+    {
+      "id": "1SA.12.subject.1",
+      "bookNumber": 90,
+      "chapter": 12,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "O que Deus enviou quando Samuel clamou?",
+      "answer": "Trovões e chuva naquele dia.",
+      "reference": "1Sm 12:18"
+    },
+    {
+      "id": "1SA.12.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 12,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Em que época Samuel pediu trovão e chuva como sinal?",
+      "answer": "Na colheita do trigo.",
+      "reference": "1Sm 12:17"
+    },
+    {
+      "id": "1SA.13.subject.1",
+      "bookNumber": 90,
+      "chapter": 13,
+      "verseStart": 13,
+      "verseEnd": 14,
+      "kind": "subject",
+      "prompt": "O que Samuel anunciou sobre o reino de Saul?",
+      "answer": "Que não duraria, porque ele desobedeceu a Deus.",
+      "reference": "1Sm 13:13-14"
+    },
+    {
+      "id": "1SA.13.name.1",
+      "bookNumber": 90,
+      "chapter": 13,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Quem feriu o posto dos filisteus, em 1 Samuel?",
+      "answer": "Jônatas.",
+      "reference": "1Sm 13:3"
+    },
+    {
+      "id": "1SA.13.place.1",
+      "bookNumber": 90,
+      "chapter": 13,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Onde os filisteus acamparam quando Saul ofereceu o holocausto?",
+      "answer": "Em Micmás.",
+      "reference": "1Sm 13:5"
+    },
+    {
+      "id": "1SA.13.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 13,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "Quem tinha espada e lança entre a tropa de Saul?",
+      "answer": "Só Saul e Jônatas, o filho dele.",
+      "reference": "1Sm 13:22"
+    },
+    {
+      "id": "1SA.14.subject.1",
+      "bookNumber": 90,
+      "chapter": 14,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que Jônatas e o rapaz das armas fizeram na subida?",
+      "answer": "Escalaram o penhasco e mataram os que caíam.",
+      "reference": "1Sm 14:13"
+    },
+    {
+      "id": "1SA.14.place.1",
+      "bookNumber": 90,
+      "chapter": 14,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Como se chamavam os penhascos que Jônatas subiu?",
+      "answer": "Bozez e Sené.",
+      "reference": "1Sm 14:4"
+    },
+    {
+      "id": "1SA.14.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 14,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Quantos homens caíram no primeiro ataque de Jônatas?",
+      "answer": "Cerca de vinte.",
+      "reference": "1Sm 14:14"
+    },
+    {
+      "id": "1SA.14.curiosity.2",
+      "bookNumber": 90,
+      "chapter": 14,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "O que Jônatas comeu sem saber do juramento de Saul?",
+      "answer": "Um pouco de mel, na ponta da vara.",
+      "reference": "1Sm 14:27"
+    },
+    {
+      "id": "1SA.15.subject.1",
+      "bookNumber": 90,
+      "chapter": 15,
+      "verseStart": 23,
+      "verseEnd": 24,
+      "kind": "subject",
+      "prompt": "Por que Deus rejeitou Saul como rei?",
+      "answer": "Porque Saul rejeitou a palavra de Deus.",
+      "reference": "1Sm 15:23-24"
+    },
+    {
+      "id": "1SA.15.name.1",
+      "bookNumber": 90,
+      "chapter": 15,
+      "verseStart": 7,
+      "verseEnd": 8,
+      "kind": "name",
+      "prompt": "Quem Saul poupou vivo na guerra contra Amaleque?",
+      "answer": "Agague, o rei deles.",
+      "reference": "1Sm 15:7-8"
+    },
+    {
+      "id": "1SA.15.place.1",
+      "bookNumber": 90,
+      "chapter": 15,
+      "verseStart": 33,
+      "kind": "place",
+      "prompt": "Onde Samuel matou Agague?",
+      "answer": "Em Gilgal, diante de Deus.",
+      "reference": "1Sm 15:33"
+    },
+    {
+      "id": "1SA.15.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 15,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "O que Samuel disse que vale mais que sacrifício?",
+      "answer": "Obedecer à palavra de Deus.",
+      "reference": "1Sm 15:22"
+    },
+    {
+      "id": "1SA.16.subject.1",
+      "bookNumber": 90,
+      "chapter": 16,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Quem Samuel ungiu, e o espírito de Deus tomou?",
+      "answer": "Davi.",
+      "reference": "1Sm 16:13"
+    },
+    {
+      "id": "1SA.16.name.1",
+      "bookNumber": 90,
+      "chapter": 16,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "De qual pai Deus escolheu um filho para suceder Saul?",
+      "answer": "De Jessé, de Belém.",
+      "reference": "1Sm 16:1"
+    },
+    {
+      "id": "1SA.16.place.1",
+      "bookNumber": 90,
+      "chapter": 16,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "A que cidade Samuel chegou para ungir o sucessor de Saul?",
+      "answer": "A Belém.",
+      "reference": "1Sm 16:4"
+    },
+    {
+      "id": "1SA.16.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 16,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que Deus olha, em vez da aparência?",
+      "answer": "O coração.",
+      "reference": "1Sm 16:7"
+    },
+    {
+      "id": "1SA.17.subject.1",
+      "bookNumber": 90,
+      "chapter": 17,
+      "verseStart": 49,
+      "kind": "subject",
+      "prompt": "Como Davi feriu a testa do filisteu?",
+      "answer": "Com uma pedra atirada na funda.",
+      "reference": "1Sm 17:49"
+    },
+    {
+      "id": "1SA.17.name.1",
+      "bookNumber": 90,
+      "chapter": 17,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem era o guerreiro filisteu de Gate?",
+      "answer": "Golias.",
+      "reference": "1Sm 17:4"
+    },
+    {
+      "id": "1SA.17.place.1",
+      "bookNumber": 90,
+      "chapter": 17,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Em que vale Davi enfrentou o guerreiro filisteu de Gate?",
+      "answer": "No vale de Elá.",
+      "reference": "1Sm 17:2"
+    },
+    {
+      "id": "1SA.17.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 17,
+      "verseStart": 40,
+      "kind": "curiosity",
+      "prompt": "Quantas pedras Davi catou no riacho?",
+      "answer": "Cinco, colhidas na beira da água.",
+      "reference": "1Sm 17:40"
+    },
+    {
+      "id": "1SA.17.curiosity.2",
+      "bookNumber": 90,
+      "chapter": 17,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Por quantos dias o filisteu desafiou Israel?",
+      "answer": "Quarenta dias.",
+      "reference": "1Sm 17:16"
+    },
+    {
+      "id": "1SA.18.subject.1",
+      "bookNumber": 90,
+      "chapter": 18,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que Saul lançou contra Davi dentro de casa?",
+      "answer": "A lança, e repetiu o golpe duas vezes.",
+      "reference": "1Sm 18:11"
+    },
+    {
+      "id": "1SA.18.name.1",
+      "bookNumber": 90,
+      "chapter": 18,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem amou Davi como à própria alma?",
+      "answer": "Jônatas.",
+      "reference": "1Sm 18:1"
+    },
+    {
+      "id": "1SA.18.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 18,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que as mulheres cantavam de Saul e de Davi?",
+      "answer": "Milhares para Saul e dez milhares para Davi.",
+      "reference": "1Sm 18:7"
+    },
+    {
+      "id": "1SA.18.curiosity.2",
+      "bookNumber": 90,
+      "chapter": 18,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "Quantos filisteus Davi derrotou para casar com Mical?",
+      "answer": "Duzentos.",
+      "reference": "1Sm 18:27"
+    },
+    {
+      "id": "1SA.19.subject.1",
+      "bookNumber": 90,
+      "chapter": 19,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Como Mical fez Davi escapar da casa?",
+      "answer": "Desceu-o por uma janela, e ele fugiu.",
+      "reference": "1Sm 19:12"
+    },
+    {
+      "id": "1SA.19.name.1",
+      "bookNumber": 90,
+      "chapter": 19,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Qual filho de Saul amava Davi de verdade?",
+      "answer": "Jônatas.",
+      "reference": "1Sm 19:1"
+    },
+    {
+      "id": "1SA.19.place.1",
+      "bookNumber": 90,
+      "chapter": 19,
+      "verseStart": 18,
+      "kind": "place",
+      "prompt": "Onde Davi foi morar com Samuel?",
+      "answer": "Em Naiote, na cidade de Ramá.",
+      "reference": "1Sm 19:18"
+    },
+    {
+      "id": "1SA.19.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 19,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "O que Mical colocou na cama no lugar de Davi?",
+      "answer": "Uma estátua, com pelos de cabra na cabeceira.",
+      "reference": "1Sm 19:13"
+    },
+    {
+      "id": "1SA.20.subject.1",
+      "bookNumber": 90,
+      "chapter": 20,
+      "verseStart": 33,
+      "kind": "subject",
+      "prompt": "O que convenceu Jônatas de que Saul mataria Davi?",
+      "answer": "Saul lançou uma lança para ferir o próprio filho.",
+      "reference": "1Sm 20:33"
+    },
+    {
+      "id": "1SA.20.place.1",
+      "bookNumber": 90,
+      "chapter": 20,
+      "verseStart": 19,
+      "kind": "place",
+      "prompt": "Junto de que pedra Davi devia esperar o sinal?",
+      "answer": "A pedra de Ezel.",
+      "reference": "1Sm 20:19"
+    },
+    {
+      "id": "1SA.20.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 20,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Quantas flechas Jônatas ia atirar como sinal?",
+      "answer": "Três flechas.",
+      "reference": "1Sm 20:20"
+    },
+    {
+      "id": "1SA.20.curiosity.2",
+      "bookNumber": 90,
+      "chapter": 20,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "Quando notariam a falta de Davi à mesa do rei?",
+      "answer": "Na lua nova, pelo assento vazio.",
+      "reference": "1Sm 20:18"
+    },
+    {
+      "id": "1SA.21.subject.1",
+      "bookNumber": 90,
+      "chapter": 21,
+      "verseStart": 12,
+      "verseEnd": 13,
+      "kind": "subject",
+      "prompt": "O que Davi fingiu diante de Aquis, rei de Gate?",
+      "answer": "Que estava louco, com saliva na barba.",
+      "reference": "1Sm 21:12-13"
+    },
+    {
+      "id": "1SA.21.name.1",
+      "bookNumber": 90,
+      "chapter": 21,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Qual sacerdote Davi encontrou em Nobe?",
+      "answer": "Aimeleque.",
+      "reference": "1Sm 21:1"
+    },
+    {
+      "id": "1SA.21.place.1",
+      "bookNumber": 90,
+      "chapter": 21,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Davi encontrou o sacerdote Aimeleque?",
+      "answer": "Em Nobe.",
+      "reference": "1Sm 21:1"
+    },
+    {
+      "id": "1SA.21.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 21,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Que espada Aimeleque guardava atrás do éfode?",
+      "answer": "A de Golias, o filisteu vencido no vale de Elá.",
+      "reference": "1Sm 21:9"
+    },
+    {
+      "id": "1SA.22.subject.1",
+      "bookNumber": 90,
+      "chapter": 22,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "Quem Saul mandou matar os sacerdotes?",
+      "answer": "Doegue, o edomita, e caíram oitenta e cinco.",
+      "reference": "1Sm 22:18"
+    },
+    {
+      "id": "1SA.22.name.1",
+      "bookNumber": 90,
+      "chapter": 22,
+      "verseStart": 20,
+      "kind": "name",
+      "prompt": "Quem escapou do massacre e fugiu para Davi?",
+      "answer": "Abiatar, filho de Aimeleque.",
+      "reference": "1Sm 22:20"
+    },
+    {
+      "id": "1SA.22.place.1",
+      "bookNumber": 90,
+      "chapter": 22,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Para onde Davi fugiu, e a família se juntou?",
+      "answer": "Para a cova de Adulão.",
+      "reference": "1Sm 22:1"
+    },
+    {
+      "id": "1SA.22.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 22,
+      "verseStart": 1,
+      "verseEnd": 2,
+      "kind": "curiosity",
+      "prompt": "Quantos homens em aperto se uniram a Davi ali?",
+      "answer": "Cerca de quatrocentos.",
+      "reference": "1Sm 22:1-2"
+    },
+    {
+      "id": "1SA.23.subject.1",
+      "bookNumber": 90,
+      "chapter": 23,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que Davi fez pelos moradores de Queila?",
+      "answer": "Venceu os filisteus e libertou a cidade.",
+      "reference": "1Sm 23:5"
+    },
+    {
+      "id": "1SA.23.name.1",
+      "bookNumber": 90,
+      "chapter": 23,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem visitou Davi no bosque e o animou?",
+      "answer": "Jônatas, filho de Saul.",
+      "reference": "1Sm 23:16"
+    },
+    {
+      "id": "1SA.23.place.1",
+      "bookNumber": 90,
+      "chapter": 23,
+      "verseStart": 29,
+      "kind": "place",
+      "prompt": "Onde Davi passou a morar em lugares fortificados?",
+      "answer": "Em En-Gedi.",
+      "reference": "1Sm 23:29"
+    },
+    {
+      "id": "1SA.23.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 23,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que Deus disse que os de Queila fariam com Davi?",
+      "answer": "Iam entregá-lo a Saul.",
+      "reference": "1Sm 23:12"
+    },
+    {
+      "id": "1SA.24.subject.1",
+      "bookNumber": 90,
+      "chapter": 24,
+      "verseStart": 9,
+      "verseEnd": 10,
+      "kind": "subject",
+      "prompt": "O que Davi fez com Saul na caverna?",
+      "answer": "Poupou a vida dele, em vez de matá-lo.",
+      "reference": "1Sm 24:9-10"
+    },
+    {
+      "id": "1SA.24.place.1",
+      "bookNumber": 90,
+      "chapter": 24,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Em que deserto Saul buscou Davi na caverna?",
+      "answer": "No deserto de En-Gedi.",
+      "reference": "1Sm 24:1"
+    },
+    {
+      "id": "1SA.24.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 24,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que Davi cortou do manto de Saul em segredo?",
+      "answer": "A borda da capa.",
+      "reference": "1Sm 24:4"
+    },
+    {
+      "id": "1SA.25.subject.1",
+      "bookNumber": 90,
+      "chapter": 25,
+      "verseStart": 32,
+      "verseEnd": 33,
+      "kind": "subject",
+      "prompt": "O que Abigail impediu Davi de fazer?",
+      "answer": "De se vingar e derramar sangue.",
+      "reference": "1Sm 25:32-33"
+    },
+    {
+      "id": "1SA.25.name.1",
+      "bookNumber": 90,
+      "chapter": 25,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Quem era o marido grosseiro de Abigail?",
+      "answer": "Nabal.",
+      "reference": "1Sm 25:3"
+    },
+    {
+      "id": "1SA.25.place.1",
+      "bookNumber": 90,
+      "chapter": 25,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Para onde Davi enviou os criados ao encontro de Nabal?",
+      "answer": "Ao Carmelo.",
+      "reference": "1Sm 25:5"
+    },
+    {
+      "id": "1SA.25.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 25,
+      "verseStart": 38,
+      "kind": "curiosity",
+      "prompt": "O que aconteceu com Nabal dez dias depois?",
+      "answer": "Deus o feriu, e ele morreu.",
+      "reference": "1Sm 25:38"
+    },
+    {
+      "id": "1SA.26.subject.1",
+      "bookNumber": 90,
+      "chapter": 26,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que Davi tirou de Saul enquanto ele dormia?",
+      "answer": "A lança e a vasilha de água.",
+      "reference": "1Sm 26:12"
+    },
+    {
+      "id": "1SA.26.name.1",
+      "bookNumber": 90,
+      "chapter": 26,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem desceu com Davi ao acampamento de Saul?",
+      "answer": "Abisai, filho de Zeruia.",
+      "reference": "1Sm 26:6"
+    },
+    {
+      "id": "1SA.26.place.1",
+      "bookNumber": 90,
+      "chapter": 26,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Onde Saul acampou quando Davi lhe tirou a lança?",
+      "answer": "No morro de Haquilá.",
+      "reference": "1Sm 26:3"
+    },
+    {
+      "id": "1SA.26.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 26,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Por que Davi impediu Abisai de matar o ungido?",
+      "answer": "Porque não se devia ferir o escolhido de Deus.",
+      "reference": "1Sm 26:9"
+    },
+    {
+      "id": "1SA.27.subject.1",
+      "bookNumber": 90,
+      "chapter": 27,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que Saul fez ao saber que Davi estava em Gate?",
+      "answer": "Parou de procurá-lo.",
+      "reference": "1Sm 27:4"
+    },
+    {
+      "id": "1SA.27.name.1",
+      "bookNumber": 90,
+      "chapter": 27,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Quem eram as duas mulheres de Davi em Gate?",
+      "answer": "Ainoã, de Jezreel, e Abigail.",
+      "reference": "1Sm 27:3"
+    },
+    {
+      "id": "1SA.27.place.1",
+      "bookNumber": 90,
+      "chapter": 27,
+      "verseStart": 5,
+      "verseEnd": 6,
+      "kind": "place",
+      "prompt": "Que cidade Aquis deu a Davi?",
+      "answer": "Ziclague.",
+      "reference": "1Sm 27:5-6"
+    },
+    {
+      "id": "1SA.27.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 27,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo Davi morou na terra dos filisteus?",
+      "answer": "Pouco mais de quatro meses.",
+      "reference": "1Sm 27:7"
+    },
+    {
+      "id": "1SA.28.subject.1",
+      "bookNumber": 90,
+      "chapter": 28,
+      "verseStart": 19,
+      "verseEnd": 20,
+      "kind": "subject",
+      "prompt": "O que Samuel anunciou a Saul sobre o dia seguinte?",
+      "answer": "Que ele e os filhos estariam com Samuel, e Israel cairia.",
+      "reference": "1Sm 28:19-20"
+    },
+    {
+      "id": "1SA.28.name.1",
+      "bookNumber": 90,
+      "chapter": 28,
+      "verseStart": 10,
+      "verseEnd": 11,
+      "kind": "name",
+      "prompt": "Quem Saul pediu para trazer de volta dos mortos?",
+      "answer": "Samuel.",
+      "reference": "1Sm 28:10-11"
+    },
+    {
+      "id": "1SA.28.place.1",
+      "bookNumber": 90,
+      "chapter": 28,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Onde morava a mulher que consultava os mortos, em 1 Samuel?",
+      "answer": "Em En-Dor.",
+      "reference": "1Sm 28:7"
+    },
+    {
+      "id": "1SA.28.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 28,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Por quais meios Deus deixou de responder a Saul?",
+      "answer": "Por sonhos, pelo Urim e por profetas.",
+      "reference": "1Sm 28:6"
+    },
+    {
+      "id": "1SA.29.subject.1",
+      "bookNumber": 90,
+      "chapter": 29,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que os príncipes filisteus decidiram sobre Davi?",
+      "answer": "Que ele não fosse com eles para a batalha.",
+      "reference": "1Sm 29:9"
+    },
+    {
+      "id": "1SA.29.name.1",
+      "bookNumber": 90,
+      "chapter": 29,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem defendia Davi, mas teve de mandá-lo embora?",
+      "answer": "Aquis.",
+      "reference": "1Sm 29:6"
+    },
+    {
+      "id": "1SA.29.place.1",
+      "bookNumber": 90,
+      "chapter": 29,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde os filisteus se reuniram quando recusaram Davi na batalha?",
+      "answer": "Em Afeque.",
+      "reference": "1Sm 29:1"
+    },
+    {
+      "id": "1SA.30.subject.1",
+      "bookNumber": 90,
+      "chapter": 30,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "O que Davi recuperou dos amalequitas?",
+      "answer": "Tudo o que levaram, e também as duas mulheres.",
+      "reference": "1Sm 30:18"
+    },
+    {
+      "id": "1SA.30.place.1",
+      "bookNumber": 90,
+      "chapter": 30,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Que cidade os amalequitas queimaram, em 1 Samuel?",
+      "answer": "Ziclague.",
+      "reference": "1Sm 30:1"
+    },
+    {
+      "id": "1SA.30.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 30,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Quantos homens seguiram além do ribeiro de Besor?",
+      "answer": "Quatrocentos; duzentos ficaram cansados.",
+      "reference": "1Sm 30:10"
+    },
+    {
+      "id": "1SA.30.curiosity.2",
+      "bookNumber": 90,
+      "chapter": 30,
+      "verseStart": 23,
+      "verseEnd": 24,
+      "kind": "curiosity",
+      "prompt": "Que regra Davi deu para dividir a presa?",
+      "answer": "Quem guarda a bagagem recebe o mesmo que quem luta.",
+      "reference": "1Sm 30:23-24"
+    },
+    {
+      "id": "1SA.31.subject.1",
+      "bookNumber": 90,
+      "chapter": 31,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Como Saul morreu quando o escudeiro recusou feri-lo?",
+      "answer": "Jogou-se ele mesmo sobre a espada.",
+      "reference": "1Sm 31:4"
+    },
+    {
+      "id": "1SA.31.name.1",
+      "bookNumber": 90,
+      "chapter": 31,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quais filhos de Saul morreram com ele?",
+      "answer": "Jônatas, Abinadabe e Malquisua.",
+      "reference": "1Sm 31:2"
+    },
+    {
+      "id": "1SA.31.place.1",
+      "bookNumber": 90,
+      "chapter": 31,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Israel caiu diante dos filisteus na morte de Saul?",
+      "answer": "No monte de Gilboa.",
+      "reference": "1Sm 31:1"
+    },
+    {
+      "id": "1SA.31.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 31,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Por quantos dias os de Jabes jejuaram?",
+      "answer": "Sete dias.",
+      "reference": "1Sm 31:13"
+    },
+    {
+      "id": "1SA.0.curiosity.1",
+      "bookNumber": 90,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 1 Samuel?",
+      "answer": "O livro não nomeia o autor.",
+      "reference": "1 Samuel"
+    },
+    {
+      "id": "1SA.0.curiosity.2",
+      "bookNumber": 90,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 1 Samuel?",
+      "answer": "Entre os séculos XI e X antes de Cristo.",
+      "reference": "1 Samuel"
+    }
+  ]
+}

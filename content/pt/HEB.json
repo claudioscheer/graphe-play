@@ -1,0 +1,515 @@
+{
+  "cards": [
+    {
+      "id": "HEB.1.subject.1",
+      "bookNumber": 650,
+      "chapter": 1,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Como o Filho supera os anjos?",
+      "answer": "Recebeu um nome mais honrado que o deles.",
+      "reference": "Hb 1:4"
+    },
+    {
+      "id": "HEB.1.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 1,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "O que será feito dos inimigos do Filho?",
+      "answer": "Serão postos como apoio debaixo dos pés dele.",
+      "reference": "Hb 1:13"
+    },
+    {
+      "id": "HEB.1.curiosity.2",
+      "bookNumber": 650,
+      "chapter": 1,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Para que os anjos são enviados?",
+      "answer": "Para ajudar quem vai herdar a salvação.",
+      "reference": "Hb 1:14"
+    },
+    {
+      "id": "HEB.2.subject.1",
+      "bookNumber": 650,
+      "chapter": 2,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Por que Jesus compartilhou a carne e o sangue?",
+      "answer": "Para destruir o diabo, que tinha poder sobre a morte.",
+      "reference": "Hb 2:14"
+    },
+    {
+      "id": "HEB.2.name.1",
+      "bookNumber": 650,
+      "chapter": 2,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "De quem é a descendência que Jesus socorre?",
+      "answer": "De Abraão, e não dos anjos.",
+      "reference": "Hb 2:16"
+    },
+    {
+      "id": "HEB.2.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Por quem Jesus experimentou a morte?",
+      "answer": "Por todas as pessoas.",
+      "reference": "Hb 2:9"
+    },
+    {
+      "id": "HEB.3.subject.1",
+      "bookNumber": 650,
+      "chapter": 3,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Por que há mais glória do que a de Moisés?",
+      "answer": "O construtor é mais honrado do que a própria casa.",
+      "reference": "Hb 3:3"
+    },
+    {
+      "id": "HEB.3.name.1",
+      "bookNumber": 650,
+      "chapter": 3,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Como Moisés foi fiel na casa de Deus?",
+      "answer": "Foi fiel no papel de servo.",
+      "reference": "Hb 3:5"
+    },
+    {
+      "id": "HEB.3.place.1",
+      "bookNumber": 650,
+      "chapter": 3,
+      "verseStart": 16,
+      "kind": "place",
+      "prompt": "De onde saiu parte do povo conduzido por Moisés?",
+      "answer": "Do Egito.",
+      "reference": "Hb 3:16"
+    },
+    {
+      "id": "HEB.3.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 3,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Por quanto tempo Deus se indignou com os que pecaram, em Hebreus?",
+      "answer": "Por quarenta anos.",
+      "reference": "Hb 3:17"
+    },
+    {
+      "id": "HEB.4.subject.1",
+      "bookNumber": 650,
+      "chapter": 4,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Qual descanso ainda resta ao povo de Deus?",
+      "answer": "Um repouso parecido com o do sábado.",
+      "reference": "Hb 4:9"
+    },
+    {
+      "id": "HEB.4.name.1",
+      "bookNumber": 650,
+      "chapter": 4,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem não deu ao povo o descanso definitivo?",
+      "answer": "Josué.",
+      "reference": "Hb 4:8"
+    },
+    {
+      "id": "HEB.4.place.1",
+      "bookNumber": 650,
+      "chapter": 4,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Para onde entrou Jesus, o grande sacerdote?",
+      "answer": "Nos céus.",
+      "reference": "Hb 4:14"
+    },
+    {
+      "id": "HEB.4.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 4,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Com o que a palavra de Deus se compara no corte?",
+      "answer": "Com uma espada de dois gumes, só que mais afiada.",
+      "reference": "Hb 4:12"
+    },
+    {
+      "id": "HEB.5.subject.1",
+      "bookNumber": 650,
+      "chapter": 5,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "De quem é a ordem do sacerdócio de Jesus?",
+      "answer": "De Melquisedeque.",
+      "reference": "Hb 5:10"
+    },
+    {
+      "id": "HEB.5.name.1",
+      "bookNumber": 650,
+      "chapter": 5,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem Hebreus cita como chamado ao sacerdócio, além de Cristo?",
+      "answer": "Arão.",
+      "reference": "Hb 5:4"
+    },
+    {
+      "id": "HEB.5.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 5,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Como Jesus orou quando ainda vivia na carne?",
+      "answer": "Com grande clamor e com lágrimas.",
+      "reference": "Hb 5:7"
+    },
+    {
+      "id": "HEB.6.subject.1",
+      "bookNumber": 650,
+      "chapter": 6,
+      "verseStart": 4,
+      "verseEnd": 6,
+      "kind": "subject",
+      "prompt": "O que é impossível para quem foi iluminado e depois caiu?",
+      "answer": "Ser renovado outra vez para o arrependimento.",
+      "reference": "Hb 6:4-6"
+    },
+    {
+      "id": "HEB.6.name.1",
+      "bookNumber": 650,
+      "chapter": 6,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "Por quem Deus jurou ao prometer a Abraão?",
+      "answer": "Por si mesmo, pois não havia ninguém maior.",
+      "reference": "Hb 6:13"
+    },
+    {
+      "id": "HEB.6.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 6,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que serve de âncora firme para a alma?",
+      "answer": "A esperança, que entra além do véu.",
+      "reference": "Hb 6:19"
+    },
+    {
+      "id": "HEB.7.subject.1",
+      "bookNumber": 650,
+      "chapter": 7,
+      "verseStart": 24,
+      "kind": "subject",
+      "prompt": "Por que o sacerdócio de Jesus é definitivo?",
+      "answer": "Porque ele permanece para sempre.",
+      "reference": "Hb 7:24"
+    },
+    {
+      "id": "HEB.7.name.1",
+      "bookNumber": 650,
+      "chapter": 7,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem era rei de Salém e sacerdote do Deus Altíssimo?",
+      "answer": "Melquisedeque.",
+      "reference": "Hb 7:1"
+    },
+    {
+      "id": "HEB.7.place.1",
+      "bookNumber": 650,
+      "chapter": 7,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "De que cidade Melquisedeque era rei?",
+      "answer": "De Salém.",
+      "reference": "Hb 7:1"
+    },
+    {
+      "id": "HEB.7.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 7,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que Abraão entregou a Melquisedeque?",
+      "answer": "O dízimo de tudo.",
+      "reference": "Hb 7:2"
+    },
+    {
+      "id": "HEB.8.subject.1",
+      "bookNumber": 650,
+      "chapter": 8,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Qual aliança tem Jesus como mediador?",
+      "answer": "Uma aliança melhor, baseada em promessas melhores.",
+      "reference": "Hb 8:6"
+    },
+    {
+      "id": "HEB.8.name.1",
+      "bookNumber": 650,
+      "chapter": 8,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Quem foi avisado para seguir o modelo do tabernáculo, em Hebreus?",
+      "answer": "Moisés.",
+      "reference": "Hb 8:5"
+    },
+    {
+      "id": "HEB.8.place.1",
+      "bookNumber": 650,
+      "chapter": 8,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "De onde Deus tirou os antepassados de Israel?",
+      "answer": "Da terra do Egito.",
+      "reference": "Hb 8:9"
+    },
+    {
+      "id": "HEB.8.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 8,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Onde Deus escreveria as leis na aliança com Israel?",
+      "answer": "Nas mentes e nos corações.",
+      "reference": "Hb 8:10"
+    },
+    {
+      "id": "HEB.9.subject.1",
+      "bookNumber": 650,
+      "chapter": 9,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Qual sangue Cristo levou ao entrar no santuário?",
+      "answer": "O próprio sangue, não o de bodes e bezerros.",
+      "reference": "Hb 9:12"
+    },
+    {
+      "id": "HEB.9.name.1",
+      "bookNumber": 650,
+      "chapter": 9,
+      "verseStart": 19,
+      "kind": "name",
+      "prompt": "Quem aspergiu o livro e todo o povo com sangue?",
+      "answer": "Moisés.",
+      "reference": "Hb 9:19"
+    },
+    {
+      "id": "HEB.9.place.1",
+      "bookNumber": 650,
+      "chapter": 9,
+      "verseStart": 24,
+      "kind": "place",
+      "prompt": "Onde Cristo entrou para comparecer diante de Deus?",
+      "answer": "No próprio céu, não num santuário feito por mãos.",
+      "reference": "Hb 9:24"
+    },
+    {
+      "id": "HEB.9.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 9,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que a carta aos Hebreus diz que estava na arca da aliança?",
+      "answer": "O maná num vaso de ouro, a vara de Arão e as tábuas.",
+      "reference": "Hb 9:4"
+    },
+    {
+      "id": "HEB.10.subject.1",
+      "bookNumber": 650,
+      "chapter": 10,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Quantas ofertas aperfeiçoam para sempre quem é santificado, em Hebreus?",
+      "answer": "Uma só oferta.",
+      "reference": "Hb 10:14"
+    },
+    {
+      "id": "HEB.10.place.1",
+      "bookNumber": 650,
+      "chapter": 10,
+      "verseStart": 34,
+      "kind": "place",
+      "prompt": "Onde está o bem melhor que não se perde, em Hebreus?",
+      "answer": "Nos céus.",
+      "reference": "Hb 10:34"
+    },
+    {
+      "id": "HEB.10.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 10,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Qual sangue não consegue tirar pecados?",
+      "answer": "O sangue de touros e o de bodes.",
+      "reference": "Hb 10:4"
+    },
+    {
+      "id": "HEB.10.curiosity.2",
+      "bookNumber": 650,
+      "chapter": 10,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "O que alguns já costumavam abandonar, segundo Hebreus?",
+      "answer": "A reunião da comunidade.",
+      "reference": "Hb 10:25"
+    },
+    {
+      "id": "HEB.11.subject.1",
+      "bookNumber": 650,
+      "chapter": 11,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que a fé garante a quem ainda espera?",
+      "answer": "A certeza daquilo que se espera e a prova do invisível.",
+      "reference": "Hb 11:1"
+    },
+    {
+      "id": "HEB.11.name.1",
+      "bookNumber": 650,
+      "chapter": 11,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Quem a carta aos Hebreus diz que Deus levou sem ver a morte?",
+      "answer": "Enoque.",
+      "reference": "Hb 11:5"
+    },
+    {
+      "id": "HEB.11.place.1",
+      "bookNumber": 650,
+      "chapter": 11,
+      "verseStart": 30,
+      "kind": "place",
+      "prompt": "Onde os muros caíram depois de sete dias, em Hebreus?",
+      "answer": "Em Jericó.",
+      "reference": "Hb 11:30"
+    },
+    {
+      "id": "HEB.11.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 11,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "Por quanto tempo os pais esconderam Moisés bebê?",
+      "answer": "Por três meses.",
+      "reference": "Hb 11:23"
+    },
+    {
+      "id": "HEB.12.subject.1",
+      "bookNumber": 650,
+      "chapter": 12,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Quem é o autor e o aperfeiçoador da fé?",
+      "answer": "Jesus.",
+      "reference": "Hb 12:2"
+    },
+    {
+      "id": "HEB.12.name.1",
+      "bookNumber": 650,
+      "chapter": 12,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem vendeu o direito de filho mais velho por uma refeição?",
+      "answer": "Esaú.",
+      "reference": "Hb 12:16"
+    },
+    {
+      "id": "HEB.12.place.1",
+      "bookNumber": 650,
+      "chapter": 12,
+      "verseStart": 22,
+      "kind": "place",
+      "prompt": "Qual é o monte da cidade celestial a que os crentes chegaram?",
+      "answer": "O monte Sião, na Jerusalém celestial.",
+      "reference": "Hb 12:22"
+    },
+    {
+      "id": "HEB.12.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 12,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "O que devia ocorrer com o animal que tocasse o monte?",
+      "answer": "Seria apedrejado ou atravessado por um dardo.",
+      "reference": "Hb 12:20"
+    },
+    {
+      "id": "HEB.13.subject.1",
+      "bookNumber": 650,
+      "chapter": 13,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que não muda em Jesus Cristo?",
+      "answer": "Ele é o mesmo no passado, agora e para sempre.",
+      "reference": "Hb 13:8"
+    },
+    {
+      "id": "HEB.13.name.1",
+      "bookNumber": 650,
+      "chapter": 13,
+      "verseStart": 23,
+      "kind": "name",
+      "prompt": "Qual irmão a carta aos Hebreus diz que já estava solto?",
+      "answer": "Timóteo.",
+      "reference": "Hb 13:23"
+    },
+    {
+      "id": "HEB.13.place.1",
+      "bookNumber": 650,
+      "chapter": 13,
+      "verseStart": 24,
+      "kind": "place",
+      "prompt": "De onde vieram as saudações no fim da carta aos Hebreus?",
+      "answer": "Da Itália.",
+      "reference": "Hb 13:24"
+    },
+    {
+      "id": "HEB.13.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 13,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Por que a hospitalidade não deve ser esquecida?",
+      "answer": "Porque alguns acolheram anjos sem saber.",
+      "reference": "Hb 13:2"
+    },
+    {
+      "id": "HEB.0.curiosity.1",
+      "bookNumber": 650,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Hebreus?",
+      "answer": "A carta não diz o autor.",
+      "reference": "Hebreus"
+    },
+    {
+      "id": "HEB.0.curiosity.2",
+      "bookNumber": 650,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Hebreus?",
+      "answer": "Antes do ano 70.",
+      "reference": "Hebreus"
+    },
+    {
+      "id": "HEB.0.curiosity.3",
+      "bookNumber": 650,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Para quem foi escrita a carta aos Hebreus?",
+      "answer": "Para cristãos pressionados a deixar a fé.",
+      "reference": "Hebreus"
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "cards": [
+    {
+      "id": "DAN.1.subject.1",
+      "bookNumber": 340,
+      "chapter": 1,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "Por que Daniel recusou a comida do rei da Babilônia?",
+      "answer": "Para não se contaminar com ela nem com o vinho.",
+      "reference": "Dn 1:8"
+    },
+    {
+      "id": "DAN.1.name.1",
+      "bookNumber": 340,
+      "chapter": 1,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quais jovens de Judá entraram na corte da Babilônia?",
+      "answer": "Daniel, Ananias, Misael e Azarias.",
+      "reference": "Dn 1:6"
+    },
+    {
+      "id": "DAN.1.place.1",
+      "bookNumber": 340,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Para onde Nabucodonosor levou parte dos vasos do templo?",
+      "answer": "Para a terra de Sinar.",
+      "reference": "Dn 1:2"
+    },
+    {
+      "id": "DAN.1.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 1,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Por quantos dias Daniel pediu o teste com legumes?",
+      "answer": "Por dez dias.",
+      "reference": "Dn 1:12"
+    },
+    {
+      "id": "DAN.2.subject.1",
+      "bookNumber": 340,
+      "chapter": 2,
+      "verseStart": 44,
+      "kind": "subject",
+      "prompt": "Que reino Deus levanta no sonho de Nabucodonosor?",
+      "answer": "Um reino eterno, que não muda de povo.",
+      "reference": "Dn 2:44"
+    },
+    {
+      "id": "DAN.2.name.1",
+      "bookNumber": 340,
+      "chapter": 2,
+      "verseStart": 26,
+      "kind": "name",
+      "prompt": "Qual era o nome de Daniel na corte babilônica?",
+      "answer": "Beltessazar.",
+      "reference": "Dn 2:26"
+    },
+    {
+      "id": "DAN.2.place.1",
+      "bookNumber": 340,
+      "chapter": 2,
+      "verseStart": 48,
+      "kind": "place",
+      "prompt": "Qual província Daniel passou a governar?",
+      "answer": "A província da Babilônia.",
+      "reference": "Dn 2:48"
+    },
+    {
+      "id": "DAN.2.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 2,
+      "verseStart": 32,
+      "kind": "curiosity",
+      "prompt": "De que metal era a cabeça da estátua do sonho, em Daniel?",
+      "answer": "De ouro puro.",
+      "reference": "Dn 2:32"
+    },
+    {
+      "id": "DAN.3.subject.1",
+      "bookNumber": 340,
+      "chapter": 3,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "Quem livrou Sadraque, Mesaque e Abednego do fogo?",
+      "answer": "O Deus deles, ao enviar um anjo.",
+      "reference": "Dn 3:28"
+    },
+    {
+      "id": "DAN.3.name.1",
+      "bookNumber": 340,
+      "chapter": 3,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem não adorou a estátua de ouro de Nabucodonosor?",
+      "answer": "Sadraque, Mesaque e Abednego.",
+      "reference": "Dn 3:12"
+    },
+    {
+      "id": "DAN.3.place.1",
+      "bookNumber": 340,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde foi erguida a estátua de ouro de Nabucodonosor?",
+      "answer": "No campo de Dura, em terra babilônica.",
+      "reference": "Dn 3:1"
+    },
+    {
+      "id": "DAN.3.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 3,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Quanto o rei mandou esquentar a fornalha, em Daniel?",
+      "answer": "Sete vezes mais que o costume.",
+      "reference": "Dn 3:19"
+    },
+    {
+      "id": "DAN.4.subject.1",
+      "bookNumber": 340,
+      "chapter": 4,
+      "verseStart": 33,
+      "kind": "subject",
+      "prompt": "O que houve com Nabucodonosor quando a sentença caiu?",
+      "answer": "Comeu capim no campo até o cabelo crescer como pena.",
+      "reference": "Dn 4:33"
+    },
+    {
+      "id": "DAN.4.name.1",
+      "bookNumber": 340,
+      "chapter": 4,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem explicou o sonho da árvore a Nabucodonosor?",
+      "answer": "Daniel, também chamado Beltessazar.",
+      "reference": "Dn 4:8"
+    },
+    {
+      "id": "DAN.4.place.1",
+      "bookNumber": 340,
+      "chapter": 4,
+      "verseStart": 30,
+      "kind": "place",
+      "prompt": "De que cidade Nabucodonosor se orgulhou?",
+      "answer": "Da Babilônia, que ele tinha construído.",
+      "reference": "Dn 4:30"
+    },
+    {
+      "id": "DAN.4.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 4,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "Quantos tempos Nabucodonosor passaria como animal?",
+      "answer": "Sete tempos.",
+      "reference": "Dn 4:25"
+    },
+    {
+      "id": "DAN.5.subject.1",
+      "bookNumber": 340,
+      "chapter": 5,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que surgiu na parede no banquete de Belsazar?",
+      "answer": "Dedos de uma mão, escrevendo.",
+      "reference": "Dn 5:5"
+    },
+    {
+      "id": "DAN.5.name.1",
+      "bookNumber": 340,
+      "chapter": 5,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem a rainha indicou para ler a escrita do palácio, em Daniel?",
+      "answer": "Daniel, cujo nome babilônico era Beltessazar.",
+      "reference": "Dn 5:12"
+    },
+    {
+      "id": "DAN.5.place.1",
+      "bookNumber": 340,
+      "chapter": 5,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "De onde vinham os copos de ouro do banquete, em Daniel?",
+      "answer": "Do templo de Deus em Jerusalém.",
+      "reference": "Dn 5:3"
+    },
+    {
+      "id": "DAN.5.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 5,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "Que palavras a mão escreveu para Belsazar?",
+      "answer": "Mene, mene, tequel, parsim.",
+      "reference": "Dn 5:25"
+    },
+    {
+      "id": "DAN.6.subject.1",
+      "bookNumber": 340,
+      "chapter": 6,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "Por que os leões não feriram Daniel?",
+      "answer": "Porque um anjo fechou a boca deles.",
+      "reference": "Dn 6:22"
+    },
+    {
+      "id": "DAN.6.name.1",
+      "bookNumber": 340,
+      "chapter": 6,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Que rei pôs cento e vinte governadores no reino, em Daniel?",
+      "answer": "Dario.",
+      "reference": "Dn 6:1"
+    },
+    {
+      "id": "DAN.6.place.1",
+      "bookNumber": 340,
+      "chapter": 6,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "Para qual cidade Daniel virava o rosto ao orar?",
+      "answer": "Para Jerusalém.",
+      "reference": "Dn 6:10"
+    },
+    {
+      "id": "DAN.6.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 6,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Por quantos dias o decreto real vetou outros pedidos, em Daniel?",
+      "answer": "Por trinta dias.",
+      "reference": "Dn 6:7"
+    },
+    {
+      "id": "DAN.7.subject.1",
+      "bookNumber": 340,
+      "chapter": 7,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Até quando dura o reino dado na visão de Daniel?",
+      "answer": "Para sempre; ele não será destruído.",
+      "reference": "Dn 7:14"
+    },
+    {
+      "id": "DAN.7.name.1",
+      "bookNumber": 340,
+      "chapter": 7,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem se sentou na visão quando puseram os tronos, em Daniel?",
+      "answer": "O Ancião de dias.",
+      "reference": "Dn 7:9"
+    },
+    {
+      "id": "DAN.7.place.1",
+      "bookNumber": 340,
+      "chapter": 7,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "De onde saíram os quatro animais que Daniel viu?",
+      "answer": "Do mar.",
+      "reference": "Dn 7:3"
+    },
+    {
+      "id": "DAN.7.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 7,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Quantos chifres tinha o quarto animal da visão, em Daniel?",
+      "answer": "Dez chifres.",
+      "reference": "Dn 7:7"
+    },
+    {
+      "id": "DAN.8.subject.1",
+      "bookNumber": 340,
+      "chapter": 8,
+      "verseStart": 20,
+      "verseEnd": 21,
+      "kind": "subject",
+      "prompt": "Quem são o carneiro e o bode na visão de Daniel?",
+      "answer": "Reis medos e persas, e o rei da Grécia.",
+      "reference": "Dn 8:20-21"
+    },
+    {
+      "id": "DAN.8.name.1",
+      "bookNumber": 340,
+      "chapter": 8,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem foi chamado para explicar a visão a Daniel?",
+      "answer": "Gabriel.",
+      "reference": "Dn 8:16"
+    },
+    {
+      "id": "DAN.8.place.1",
+      "bookNumber": 340,
+      "chapter": 8,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde Daniel estava quando viu o carneiro?",
+      "answer": "Em Susã, à beira do rio Ulai.",
+      "reference": "Dn 8:2"
+    },
+    {
+      "id": "DAN.8.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 8,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo a visão marcava até limpar o santuário, em Daniel?",
+      "answer": "Duas mil trezentas tardes e manhãs.",
+      "reference": "Dn 8:14"
+    },
+    {
+      "id": "DAN.9.subject.1",
+      "bookNumber": 340,
+      "chapter": 9,
+      "verseStart": 24,
+      "kind": "subject",
+      "prompt": "Quantas semanas Daniel ouviu sobre a cidade santa?",
+      "answer": "Setenta, até chegar a justiça eterna.",
+      "reference": "Dn 9:24"
+    },
+    {
+      "id": "DAN.9.name.1",
+      "bookNumber": 340,
+      "chapter": 9,
+      "verseStart": 21,
+      "kind": "name",
+      "prompt": "Quem veio voando enquanto Daniel ainda orava?",
+      "answer": "Gabriel.",
+      "reference": "Dn 9:21"
+    },
+    {
+      "id": "DAN.9.place.1",
+      "bookNumber": 340,
+      "chapter": 9,
+      "verseStart": 16,
+      "kind": "place",
+      "prompt": "Sobre qual cidade Daniel pediu que a ira parasse?",
+      "answer": "Sobre Jerusalém.",
+      "reference": "Dn 9:16"
+    },
+    {
+      "id": "DAN.9.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 9,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quantos anos Jeremias marcou para a ruína de Jerusalém?",
+      "answer": "Setenta anos.",
+      "reference": "Dn 9:2"
+    },
+    {
+      "id": "DAN.10.subject.1",
+      "bookNumber": 340,
+      "chapter": 10,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Quem barrou o mensageiro por vinte e um dias, em Daniel?",
+      "answer": "O príncipe da Pérsia.",
+      "reference": "Dn 10:13"
+    },
+    {
+      "id": "DAN.10.name.1",
+      "bookNumber": 340,
+      "chapter": 10,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "Quem ajudou o mensageiro contra o príncipe da Pérsia?",
+      "answer": "Miguel.",
+      "reference": "Dn 10:13"
+    },
+    {
+      "id": "DAN.10.place.1",
+      "bookNumber": 340,
+      "chapter": 10,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "À margem de qual rio Daniel teve a visão?",
+      "answer": "Do rio Tigre.",
+      "reference": "Dn 10:4"
+    },
+    {
+      "id": "DAN.10.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 10,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Por quanto tempo Daniel ficou de luto?",
+      "answer": "Por três semanas completas.",
+      "reference": "Dn 10:2"
+    },
+    {
+      "id": "DAN.11.subject.1",
+      "bookNumber": 340,
+      "chapter": 11,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Quem luta contra o rei do norte na visão de Daniel?",
+      "answer": "O rei do sul, juntando uma multidão grande.",
+      "reference": "Dn 11:11"
+    },
+    {
+      "id": "DAN.11.place.1",
+      "bookNumber": 340,
+      "chapter": 11,
+      "verseStart": 42,
+      "kind": "place",
+      "prompt": "Que terra Daniel diz que não vai escapar?",
+      "answer": "A do Egito.",
+      "reference": "Dn 11:42"
+    },
+    {
+      "id": "DAN.11.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 11,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "O que as tropas põem no santuário, em Daniel?",
+      "answer": "Uma abominação devastadora, no lugar do sacrifício.",
+      "reference": "Dn 11:31"
+    },
+    {
+      "id": "DAN.11.curiosity.2",
+      "bookNumber": 340,
+      "chapter": 11,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Para onde se reparte o reino quebrado em Daniel?",
+      "answer": "Para os quatro ventos, e não para os filhos dele.",
+      "reference": "Dn 11:4"
+    },
+    {
+      "id": "DAN.12.subject.1",
+      "bookNumber": 340,
+      "chapter": 12,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que vem sobre muitos que dormem no pó, em Daniel?",
+      "answer": "Uma parte viverá para sempre; outra ficará na vergonha.",
+      "reference": "Dn 12:2"
+    },
+    {
+      "id": "DAN.12.name.1",
+      "bookNumber": 340,
+      "chapter": 12,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem defende o povo de Daniel no tempo final?",
+      "answer": "Miguel, o grande príncipe.",
+      "reference": "Dn 12:1"
+    },
+    {
+      "id": "DAN.12.place.1",
+      "bookNumber": 340,
+      "chapter": 12,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Onde estavam os dois seres que Daniel observou?",
+      "answer": "Um em cada lado do rio.",
+      "reference": "Dn 12:5"
+    },
+    {
+      "id": "DAN.12.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 12,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Quantos dias seguem a instalação da abominação, em Daniel?",
+      "answer": "Mil duzentos e noventa dias.",
+      "reference": "Dn 12:11"
+    },
+    {
+      "id": "DAN.0.curiosity.1",
+      "bookNumber": 340,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Daniel?",
+      "answer": "Daniel.",
+      "reference": "Daniel"
+    },
+    {
+      "id": "DAN.0.curiosity.2",
+      "bookNumber": 340,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Daniel?",
+      "answer": "No século VI antes de Cristo.",
+      "reference": "Daniel"
+    },
+    {
+      "id": "DAN.0.curiosity.3",
+      "bookNumber": 340,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Em que línguas Daniel foi escrito?",
+      "answer": "Em hebraico e em aramaico.",
+      "reference": "Daniel"
+    }
+  ]
+}

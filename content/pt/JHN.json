@@ -1,0 +1,827 @@
+{
+  "cards": [
+    {
+      "id": "JHN.1.subject.1",
+      "bookNumber": 500,
+      "chapter": 1,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "O que a Palavra fez ao vir para as pessoas?",
+      "answer": "Tornou-se humana e viveu entre o povo.",
+      "reference": "Jo 1:14"
+    },
+    {
+      "id": "JHN.1.name.1",
+      "bookNumber": 500,
+      "chapter": 1,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem Deus enviou para testemunhar a respeito da luz, em João?",
+      "answer": "Um homem chamado João.",
+      "reference": "Jo 1:6"
+    },
+    {
+      "id": "JHN.1.place.1",
+      "bookNumber": 500,
+      "chapter": 1,
+      "verseStart": 28,
+      "kind": "place",
+      "prompt": "Onde João batizava, além do Jordão?",
+      "answer": "Em Betábara.",
+      "reference": "Jo 1:28"
+    },
+    {
+      "id": "JHN.1.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 1,
+      "verseStart": 42,
+      "kind": "curiosity",
+      "prompt": "Que nome Jesus deu a Simão, filho de Jonas?",
+      "answer": "Cefas, que significa Pedro.",
+      "reference": "Jo 1:42"
+    },
+    {
+      "id": "JHN.2.subject.1",
+      "bookNumber": 500,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que Jesus fez da água no casamento em Caná?",
+      "answer": "Transformou a água em vinho.",
+      "reference": "Jo 2:9"
+    },
+    {
+      "id": "JHN.2.name.1",
+      "bookNumber": 500,
+      "chapter": 2,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Quem avisou Jesus de que o vinho tinha acabado?",
+      "answer": "A mãe dele.",
+      "reference": "Jo 2:3"
+    },
+    {
+      "id": "JHN.2.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 2,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quantos vasos de pedra havia no casamento em Caná?",
+      "answer": "Seis.",
+      "reference": "Jo 2:6"
+    },
+    {
+      "id": "JHN.2.curiosity.2",
+      "bookNumber": 500,
+      "chapter": 2,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Em quantos dias Jesus disse que levantaria o templo?",
+      "answer": "Em três dias.",
+      "reference": "Jo 2:19"
+    },
+    {
+      "id": "JHN.3.subject.1",
+      "bookNumber": 500,
+      "chapter": 3,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Por que Deus entregou o Filho único ao mundo, em João?",
+      "answer": "Por amor ao mundo, para dar vida eterna a quem crê.",
+      "reference": "Jo 3:16"
+    },
+    {
+      "id": "JHN.3.name.1",
+      "bookNumber": 500,
+      "chapter": 3,
+      "verseStart": 1,
+      "verseEnd": 2,
+      "kind": "name",
+      "prompt": "Quem foi conversar com Jesus de noite?",
+      "answer": "Nicodemos, um líder dos judeus.",
+      "reference": "Jo 3:1-2"
+    },
+    {
+      "id": "JHN.3.place.1",
+      "bookNumber": 500,
+      "chapter": 3,
+      "verseStart": 23,
+      "kind": "place",
+      "prompt": "Onde João batizava, porque havia muita água?",
+      "answer": "Em Enom, junto a Salim.",
+      "reference": "Jo 3:23"
+    },
+    {
+      "id": "JHN.3.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 3,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Com o que Jesus comparou o Filho do homem levantado?",
+      "answer": "Com a serpente que Moisés ergueu no deserto.",
+      "reference": "Jo 3:14"
+    },
+    {
+      "id": "JHN.4.subject.1",
+      "bookNumber": 500,
+      "chapter": 4,
+      "verseStart": 25,
+      "verseEnd": 26,
+      "kind": "subject",
+      "prompt": "Quem Jesus disse ser à mulher samaritana, no poço?",
+      "answer": "O Messias, aquele que falava com ela.",
+      "reference": "Jo 4:25-26"
+    },
+    {
+      "id": "JHN.4.name.1",
+      "bookNumber": 500,
+      "chapter": 4,
+      "verseStart": 46,
+      "kind": "name",
+      "prompt": "Quem tinha um filho doente em Cafarnaum?",
+      "answer": "Um nobre.",
+      "reference": "Jo 4:46"
+    },
+    {
+      "id": "JHN.4.place.1",
+      "bookNumber": 500,
+      "chapter": 4,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Em que cidade da Samaria Jesus parou, na terra de Jacó?",
+      "answer": "Em Sicar.",
+      "reference": "Jo 4:5"
+    },
+    {
+      "id": "JHN.4.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 4,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "Quantos maridos a mulher de Sicar já tinha tido?",
+      "answer": "Cinco, e o homem da época não era marido.",
+      "reference": "Jo 4:18"
+    },
+    {
+      "id": "JHN.5.subject.1",
+      "bookNumber": 500,
+      "chapter": 5,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que Jesus mandou ao doente do tanque em Jerusalém?",
+      "answer": "Que se levantasse, pegasse a cama e andasse.",
+      "reference": "Jo 5:8"
+    },
+    {
+      "id": "JHN.5.place.1",
+      "bookNumber": 500,
+      "chapter": 5,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Qual é o nome do tanque junto à porta das ovelhas, em João?",
+      "answer": "Betesda.",
+      "reference": "Jo 5:2"
+    },
+    {
+      "id": "JHN.5.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 5,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Havia quantos anos o doente do tanque em Jerusalém estava enfermo?",
+      "answer": "Trinta e oito anos.",
+      "reference": "Jo 5:5"
+    },
+    {
+      "id": "JHN.6.subject.1",
+      "bookNumber": 500,
+      "chapter": 6,
+      "verseStart": 35,
+      "kind": "subject",
+      "prompt": "O que Jesus disse ser para quem vem a ele?",
+      "answer": "O pão da vida.",
+      "reference": "Jo 6:35"
+    },
+    {
+      "id": "JHN.6.name.1",
+      "bookNumber": 500,
+      "chapter": 6,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Quem disse que duzentos dinheiros de pão não bastavam, em João?",
+      "answer": "Filipe.",
+      "reference": "Jo 6:7"
+    },
+    {
+      "id": "JHN.6.place.1",
+      "bookNumber": 500,
+      "chapter": 6,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Como João também chama o mar da Galileia?",
+      "answer": "Mar de Tibérias.",
+      "reference": "Jo 6:1"
+    },
+    {
+      "id": "JHN.6.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 6,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Quantos cestos de sobras foram recolhidos dos cinco pães, em João?",
+      "answer": "Doze.",
+      "reference": "Jo 6:13"
+    },
+    {
+      "id": "JHN.7.subject.1",
+      "bookNumber": 500,
+      "chapter": 7,
+      "verseStart": 37,
+      "kind": "subject",
+      "prompt": "O que Jesus gritou no último dia da festa?",
+      "answer": "Que quem tivesse sede viesse a ele beber.",
+      "reference": "Jo 7:37"
+    },
+    {
+      "id": "JHN.7.name.1",
+      "bookNumber": 500,
+      "chapter": 7,
+      "verseStart": 50,
+      "verseEnd": 51,
+      "kind": "name",
+      "prompt": "Quem lembrou que a lei não julga alguém sem ouvir, em João?",
+      "answer": "Nicodemos.",
+      "reference": "Jo 7:50-51"
+    },
+    {
+      "id": "JHN.7.place.1",
+      "bookNumber": 500,
+      "chapter": 7,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Onde Jesus ensinou no meio da festa?",
+      "answer": "No templo.",
+      "reference": "Jo 7:14"
+    },
+    {
+      "id": "JHN.7.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 7,
+      "verseStart": 46,
+      "kind": "curiosity",
+      "prompt": "O que os guardas disseram ao voltar sem prender Jesus?",
+      "answer": "Que ninguém jamais tinha falado como aquele homem.",
+      "reference": "Jo 7:46"
+    },
+    {
+      "id": "JHN.8.subject.1",
+      "bookNumber": 500,
+      "chapter": 8,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que Jesus disse à mulher acusada de adultério?",
+      "answer": "Que não a condenava, e que não pecasse de novo.",
+      "reference": "Jo 8:11"
+    },
+    {
+      "id": "JHN.8.name.1",
+      "bookNumber": 500,
+      "chapter": 8,
+      "verseStart": 56,
+      "kind": "name",
+      "prompt": "Quem se alegrou por ver o dia de Jesus?",
+      "answer": "Abraão.",
+      "reference": "Jo 8:56"
+    },
+    {
+      "id": "JHN.8.place.1",
+      "bookNumber": 500,
+      "chapter": 8,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Para onde Jesus foi antes de voltar ao templo, na manhã da adúltera?",
+      "answer": "Para o monte das Oliveiras.",
+      "reference": "Jo 8:1"
+    },
+    {
+      "id": "JHN.8.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 8,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que Jesus fazia no chão enquanto acusavam a mulher?",
+      "answer": "Rabiscava o chão com o dedo.",
+      "reference": "Jo 8:6"
+    },
+    {
+      "id": "JHN.9.subject.1",
+      "bookNumber": 500,
+      "chapter": 9,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que houve quando o cego se lavou em Siloé?",
+      "answer": "Voltou enxergando.",
+      "reference": "Jo 9:7"
+    },
+    {
+      "id": "JHN.9.name.1",
+      "bookNumber": 500,
+      "chapter": 9,
+      "verseStart": 28,
+      "kind": "name",
+      "prompt": "De quem os fariseus disseram que eram discípulos, em João?",
+      "answer": "De Moisés.",
+      "reference": "Jo 9:28"
+    },
+    {
+      "id": "JHN.9.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 9,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Com o que Jesus untou os olhos do cego de nascença?",
+      "answer": "Com lama feita de terra e saliva.",
+      "reference": "Jo 9:6"
+    },
+    {
+      "id": "JHN.9.curiosity.2",
+      "bookNumber": 500,
+      "chapter": 9,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Em que dia Jesus abriu os olhos do cego de nascença?",
+      "answer": "No sábado.",
+      "reference": "Jo 9:14"
+    },
+    {
+      "id": "JHN.10.subject.1",
+      "bookNumber": 500,
+      "chapter": 10,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Quem Jesus disse que dá a vida pelas ovelhas?",
+      "answer": "Ele mesmo, o bom pastor.",
+      "reference": "Jo 10:11"
+    },
+    {
+      "id": "JHN.10.name.1",
+      "bookNumber": 500,
+      "chapter": 10,
+      "verseStart": 41,
+      "kind": "name",
+      "prompt": "Quem os visitantes disseram ter falado a verdade sobre Jesus?",
+      "answer": "João.",
+      "reference": "Jo 10:41"
+    },
+    {
+      "id": "JHN.10.place.1",
+      "bookNumber": 500,
+      "chapter": 10,
+      "verseStart": 23,
+      "kind": "place",
+      "prompt": "Por onde Jesus passeava dentro do templo?",
+      "answer": "Na entrada de Salomão.",
+      "reference": "Jo 10:23"
+    },
+    {
+      "id": "JHN.10.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 10,
+      "verseStart": 30,
+      "kind": "curiosity",
+      "prompt": "O que Jesus afirmou sobre ele e o Pai?",
+      "answer": "Que os dois são um.",
+      "reference": "Jo 10:30"
+    },
+    {
+      "id": "JHN.11.subject.1",
+      "bookNumber": 500,
+      "chapter": 11,
+      "verseStart": 43,
+      "kind": "subject",
+      "prompt": "Quem Jesus chamou em voz alta para sair do túmulo?",
+      "answer": "Lázaro.",
+      "reference": "Jo 11:43"
+    },
+    {
+      "id": "JHN.11.name.1",
+      "bookNumber": 500,
+      "chapter": 11,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem chamou os outros para irem morrer com Jesus?",
+      "answer": "Tomé, também chamado Dídimo.",
+      "reference": "Jo 11:16"
+    },
+    {
+      "id": "JHN.11.place.1",
+      "bookNumber": 500,
+      "chapter": 11,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Em que aldeia moravam Marta, Maria e Lázaro?",
+      "answer": "Em Betânia.",
+      "reference": "Jo 11:1"
+    },
+    {
+      "id": "JHN.11.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 11,
+      "verseStart": 39,
+      "kind": "curiosity",
+      "prompt": "Havia quantos dias Lázaro estava morto?",
+      "answer": "Quatro dias.",
+      "reference": "Jo 11:39"
+    },
+    {
+      "id": "JHN.12.subject.1",
+      "bookNumber": 500,
+      "chapter": 12,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Como a multidão recebeu Jesus na chegada a Jerusalém?",
+      "answer": "Saiu com ramos e aclamou o rei de Israel.",
+      "reference": "Jo 12:13"
+    },
+    {
+      "id": "JHN.12.name.1",
+      "bookNumber": 500,
+      "chapter": 12,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem era o discípulo que iria trair Jesus?",
+      "answer": "Judas Iscariotes.",
+      "reference": "Jo 12:4"
+    },
+    {
+      "id": "JHN.12.place.1",
+      "bookNumber": 500,
+      "chapter": 12,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "A que aldeia Jesus chegou antes da Páscoa, onde Lázaro morava?",
+      "answer": "A Betânia.",
+      "reference": "Jo 12:1"
+    },
+    {
+      "id": "JHN.12.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 12,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Por quanto Judas queria vender o perfume?",
+      "answer": "Por trezentos dinheiros.",
+      "reference": "Jo 12:5"
+    },
+    {
+      "id": "JHN.13.subject.1",
+      "bookNumber": 500,
+      "chapter": 13,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que Jesus fez com os pés dos discípulos na ceia?",
+      "answer": "Lavou os pés deles e enxugou com a toalha.",
+      "reference": "Jo 13:5"
+    },
+    {
+      "id": "JHN.13.name.1",
+      "bookNumber": 500,
+      "chapter": 13,
+      "verseStart": 26,
+      "kind": "name",
+      "prompt": "A quem Jesus deu o pedaço de pão molhado?",
+      "answer": "A Judas, filho de Simão Iscariotes.",
+      "reference": "Jo 13:26"
+    },
+    {
+      "id": "JHN.13.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 13,
+      "verseStart": 38,
+      "kind": "curiosity",
+      "prompt": "O que Jesus avisou que Pedro faria antes do galo cantar?",
+      "answer": "Que o negaria três vezes.",
+      "reference": "Jo 13:38"
+    },
+    {
+      "id": "JHN.13.curiosity.2",
+      "bookNumber": 500,
+      "chapter": 13,
+      "verseStart": 34,
+      "kind": "curiosity",
+      "prompt": "Qual foi o mandamento novo que Jesus deu na ceia?",
+      "answer": "Que os seus se amassem uns aos outros.",
+      "reference": "Jo 13:34"
+    },
+    {
+      "id": "JHN.14.subject.1",
+      "bookNumber": 500,
+      "chapter": 14,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Jesus respondeu a Tomé sobre o caminho ao Pai?",
+      "answer": "Que ele é o caminho, a verdade e a vida.",
+      "reference": "Jo 14:6"
+    },
+    {
+      "id": "JHN.14.name.1",
+      "bookNumber": 500,
+      "chapter": 14,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem pediu que Jesus mostrasse o Pai?",
+      "answer": "Filipe.",
+      "reference": "Jo 14:8"
+    },
+    {
+      "id": "JHN.14.place.1",
+      "bookNumber": 500,
+      "chapter": 14,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Para onde Jesus disse que ia preparar lugar?",
+      "answer": "Para a casa do Pai.",
+      "reference": "Jo 14:2"
+    },
+    {
+      "id": "JHN.14.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 14,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Quem Jesus disse que o Pai enviaria aos discípulos?",
+      "answer": "Outro Consolador.",
+      "reference": "Jo 14:16"
+    },
+    {
+      "id": "JHN.15.subject.1",
+      "bookNumber": 500,
+      "chapter": 15,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que os discípulos são, se Jesus é a videira?",
+      "answer": "Os ramos, e sem ele nada conseguem fazer.",
+      "reference": "Jo 15:5"
+    },
+    {
+      "id": "JHN.15.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 15,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Qual é o maior amor, segundo Jesus?",
+      "answer": "Dar a vida em favor dos amigos.",
+      "reference": "Jo 15:13"
+    },
+    {
+      "id": "JHN.15.curiosity.2",
+      "bookNumber": 500,
+      "chapter": 15,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Como Jesus passou a chamar os discípulos?",
+      "answer": "De amigos, e não mais de empregados.",
+      "reference": "Jo 15:15"
+    },
+    {
+      "id": "JHN.16.subject.1",
+      "bookNumber": 500,
+      "chapter": 16,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Por que Jesus disse que convinha ele partir?",
+      "answer": "Porque só assim o Consolador viria.",
+      "reference": "Jo 16:7"
+    },
+    {
+      "id": "JHN.16.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 16,
+      "verseStart": 33,
+      "kind": "curiosity",
+      "prompt": "O que Jesus disse que já tinha vencido?",
+      "answer": "O mundo.",
+      "reference": "Jo 16:33"
+    },
+    {
+      "id": "JHN.16.curiosity.2",
+      "bookNumber": 500,
+      "chapter": 16,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "De que o Consolador convenceria o mundo?",
+      "answer": "Do pecado, da justiça e do juízo.",
+      "reference": "Jo 16:8"
+    },
+    {
+      "id": "JHN.17.subject.1",
+      "bookNumber": 500,
+      "chapter": 17,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que é a vida eterna, na oração de Jesus?",
+      "answer": "Conhecer a Deus de verdade e aquele que ele enviou.",
+      "reference": "Jo 17:3"
+    },
+    {
+      "id": "JHN.17.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 17,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Quem se perdeu entre os que o Pai deu a Jesus?",
+      "answer": "O filho da perdição.",
+      "reference": "Jo 17:12"
+    },
+    {
+      "id": "JHN.17.curiosity.2",
+      "bookNumber": 500,
+      "chapter": 17,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Por quem mais Jesus orou, além dos que estavam ali?",
+      "answer": "Pelos que ainda haveriam de crer.",
+      "reference": "Jo 17:20"
+    },
+    {
+      "id": "JHN.18.subject.1",
+      "bookNumber": 500,
+      "chapter": 18,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Depois de orar pelos que viriam a crer, para onde Jesus foi?",
+      "answer": "A um jardim, além do riacho de Cedrom.",
+      "reference": "Jo 18:1"
+    },
+    {
+      "id": "JHN.18.name.1",
+      "bookNumber": 500,
+      "chapter": 18,
+      "verseStart": 10,
+      "kind": "name",
+      "prompt": "Como se chamava o servo a quem Pedro cortou a orelha?",
+      "answer": "Malco.",
+      "reference": "Jo 18:10"
+    },
+    {
+      "id": "JHN.18.place.1",
+      "bookNumber": 500,
+      "chapter": 18,
+      "verseStart": 28,
+      "kind": "place",
+      "prompt": "Para onde levaram Jesus ao sair de Caifás?",
+      "answer": "Ao tribunal.",
+      "reference": "Jo 18:28"
+    },
+    {
+      "id": "JHN.18.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 18,
+      "verseStart": 40,
+      "kind": "curiosity",
+      "prompt": "Quem a multidão pediu no lugar de Jesus?",
+      "answer": "Barrabás, um ladrão.",
+      "reference": "Jo 18:40"
+    },
+    {
+      "id": "JHN.19.subject.1",
+      "bookNumber": 500,
+      "chapter": 19,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "Para onde Jesus saiu carregando a própria cruz?",
+      "answer": "Ao lugar da Caveira, chamado Gólgota.",
+      "reference": "Jo 19:17"
+    },
+    {
+      "id": "JHN.19.name.1",
+      "bookNumber": 500,
+      "chapter": 19,
+      "verseStart": 38,
+      "kind": "name",
+      "prompt": "Quem pediu a Pilatos para levar o corpo de Jesus?",
+      "answer": "José de Arimateia.",
+      "reference": "Jo 19:38"
+    },
+    {
+      "id": "JHN.19.place.1",
+      "bookNumber": 500,
+      "chapter": 19,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Como se chamava o lugar onde Pilatos sentou para julgar?",
+      "answer": "Litóstrotos, em hebraico Gabatá.",
+      "reference": "Jo 19:13"
+    },
+    {
+      "id": "JHN.19.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 19,
+      "verseStart": 34,
+      "kind": "curiosity",
+      "prompt": "O que saiu do lado de Jesus quando a lança o furou?",
+      "answer": "Sangue e água.",
+      "reference": "Jo 19:34"
+    },
+    {
+      "id": "JHN.20.subject.1",
+      "bookNumber": 500,
+      "chapter": 20,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "O que Tomé declarou ao ver Jesus ressuscitado?",
+      "answer": "Que Jesus era o Deus dele.",
+      "reference": "Jo 20:28"
+    },
+    {
+      "id": "JHN.20.name.1",
+      "bookNumber": 500,
+      "chapter": 20,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Quem anunciou sozinha aos discípulos que tinha visto Jesus?",
+      "answer": "Maria Madalena.",
+      "reference": "Jo 20:18"
+    },
+    {
+      "id": "JHN.20.place.1",
+      "bookNumber": 500,
+      "chapter": 20,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Aonde Maria Madalena foi de madrugada, ainda no escuro?",
+      "answer": "Ao sepulcro.",
+      "reference": "Jo 20:1"
+    },
+    {
+      "id": "JHN.20.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 20,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "O que Tomé exigiu ver para crer?",
+      "answer": "A marca dos pregos e a ferida do lado.",
+      "reference": "Jo 20:25"
+    },
+    {
+      "id": "JHN.21.subject.1",
+      "bookNumber": 500,
+      "chapter": 21,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que houve ao lançarem a rede pelo lado direito do barco, em João?",
+      "answer": "Veio tanto peixe que não conseguiam puxar a rede.",
+      "reference": "Jo 21:6"
+    },
+    {
+      "id": "JHN.21.name.1",
+      "bookNumber": 500,
+      "chapter": 21,
+      "verseStart": 15,
+      "kind": "name",
+      "prompt": "A quem Jesus mandou alimentar os cordeiros?",
+      "answer": "A Simão Pedro.",
+      "reference": "Jo 21:15"
+    },
+    {
+      "id": "JHN.21.place.1",
+      "bookNumber": 500,
+      "chapter": 21,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Junto a qual mar Jesus apareceu de novo?",
+      "answer": "Ao mar de Tibérias.",
+      "reference": "Jo 21:1"
+    },
+    {
+      "id": "JHN.21.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 21,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Quantos peixes grandes vieram na rede, em João?",
+      "answer": "Cento e cinquenta e três.",
+      "reference": "Jo 21:11"
+    },
+    {
+      "id": "JHN.0.curiosity.1",
+      "bookNumber": 500,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu João?",
+      "answer": "João, o apóstolo.",
+      "reference": "João"
+    },
+    {
+      "id": "JHN.0.curiosity.2",
+      "bookNumber": 500,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de João?",
+      "answer": "No fim do século I.",
+      "reference": "João"
+    }
+  ]
+}

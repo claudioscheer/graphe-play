@@ -1,0 +1,364 @@
+{
+  "cards": [
+    {
+      "id": "ECC.1.subject.1",
+      "bookNumber": 250,
+      "chapter": 1,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que existe de novo debaixo do sol?",
+      "answer": "Nada. O que já aconteceu torna a se repetir.",
+      "reference": "Ec 1:9"
+    },
+    {
+      "id": "ECC.1.name.1",
+      "bookNumber": 250,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Como Eclesiastes chama o filho de Davi que reina em Jerusalém?",
+      "answer": "O Pregador.",
+      "reference": "Ec 1:1"
+    },
+    {
+      "id": "ECC.1.place.1",
+      "bookNumber": 250,
+      "chapter": 1,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Onde o Pregador passou a reinar sobre Israel?",
+      "answer": "Em Jerusalém.",
+      "reference": "Ec 1:12"
+    },
+    {
+      "id": "ECC.1.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 1,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que os rios fazem ao chegar no mar?",
+      "answer": "Não o enchem, e voltam a correr de onde saíram.",
+      "reference": "Ec 1:7"
+    },
+    {
+      "id": "ECC.2.subject.1",
+      "bookNumber": 250,
+      "chapter": 2,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que o Pregador viu em tudo o que fez?",
+      "answer": "Que era fútil, como correr atrás do vento.",
+      "reference": "Ec 2:11"
+    },
+    {
+      "id": "ECC.2.place.1",
+      "bookNumber": 250,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Onde o Pregador superou os que vieram antes dele?",
+      "answer": "Em Jerusalém.",
+      "reference": "Ec 2:9"
+    },
+    {
+      "id": "ECC.2.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 2,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que o Pregador juntou, além de cantores?",
+      "answer": "Prata e ouro, com tesouros vindos de reis.",
+      "reference": "Ec 2:8"
+    },
+    {
+      "id": "ECC.3.subject.1",
+      "bookNumber": 250,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que toda coisa debaixo do céu possui?",
+      "answer": "Um tempo certo para acontecer.",
+      "reference": "Ec 3:1"
+    },
+    {
+      "id": "ECC.3.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 3,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que Deus pôs no coração humano?",
+      "answer": "A sensação da eternidade.",
+      "reference": "Ec 3:11"
+    },
+    {
+      "id": "ECC.3.curiosity.2",
+      "bookNumber": 250,
+      "chapter": 3,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Para onde todos voltam no fim, em Eclesiastes?",
+      "answer": "Ao pó, de onde também vieram.",
+      "reference": "Ec 3:20"
+    },
+    {
+      "id": "ECC.4.subject.1",
+      "bookNumber": 250,
+      "chapter": 4,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Que corda é a mais difícil de arrebentar?",
+      "answer": "A de três dobras.",
+      "reference": "Ec 4:12"
+    },
+    {
+      "id": "ECC.4.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 4,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Quem o Pregador viu chorar sem receber consolo?",
+      "answer": "Os oprimidos. A força estava com quem oprimia.",
+      "reference": "Ec 4:1"
+    },
+    {
+      "id": "ECC.4.curiosity.2",
+      "bookNumber": 250,
+      "chapter": 4,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Quem é melhor do que um rei velho e tolo?",
+      "answer": "Um jovem pobre e sábio.",
+      "reference": "Ec 4:13"
+    },
+    {
+      "id": "ECC.5.subject.1",
+      "bookNumber": 250,
+      "chapter": 5,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que é melhor do que fazer um voto e não pagar?",
+      "answer": "Não fazer voto nenhum.",
+      "reference": "Ec 5:5"
+    },
+    {
+      "id": "ECC.5.place.1",
+      "bookNumber": 250,
+      "chapter": 5,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde se deve chegar para ouvir, e não para oferta tola, em Eclesiastes?",
+      "answer": "À casa de Deus.",
+      "reference": "Ec 5:1"
+    },
+    {
+      "id": "ECC.5.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 5,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que nunca sacia quem ama o dinheiro?",
+      "answer": "O próprio dinheiro. A riqueza também não sacia.",
+      "reference": "Ec 5:10"
+    },
+    {
+      "id": "ECC.6.subject.1",
+      "bookNumber": 250,
+      "chapter": 6,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Quem come os bens de quem não pode desfrutá-los?",
+      "answer": "Um estranho. Deus não deu a esse homem poder de desfrutar.",
+      "reference": "Ec 6:2"
+    },
+    {
+      "id": "ECC.6.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 6,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que se ganha em viver mil anos duas vezes sem o bem?",
+      "answer": "Nada. Todos acabam no mesmo lugar.",
+      "reference": "Ec 6:6"
+    },
+    {
+      "id": "ECC.7.subject.1",
+      "bookNumber": 250,
+      "chapter": 7,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que vale mais do que um bom perfume?",
+      "answer": "Uma boa reputação. O dia da morte supera o do nascimento.",
+      "reference": "Ec 7:1"
+    },
+    {
+      "id": "ECC.7.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 7,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Quem na terra faz o bem e nunca peca?",
+      "answer": "Ninguém.",
+      "reference": "Ec 7:20"
+    },
+    {
+      "id": "ECC.8.subject.1",
+      "bookNumber": 250,
+      "chapter": 8,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "Quem controla o dia da própria morte?",
+      "answer": "Ninguém. Também ninguém segura o espírito.",
+      "reference": "Ec 8:8"
+    },
+    {
+      "id": "ECC.8.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 8,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Por que o coração se anima a fazer o mal?",
+      "answer": "Porque o julgamento da obra má não vem logo.",
+      "reference": "Ec 8:11"
+    },
+    {
+      "id": "ECC.9.subject.1",
+      "bookNumber": 250,
+      "chapter": 9,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que é melhor do que um leão morto?",
+      "answer": "Um cão vivo.",
+      "reference": "Ec 9:4"
+    },
+    {
+      "id": "ECC.9.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 9,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Com quem ficam a corrida e a batalha?",
+      "answer": "Não com os velozes nem com os fortes. O tempo alcança todos.",
+      "reference": "Ec 9:11"
+    },
+    {
+      "id": "ECC.9.curiosity.2",
+      "bookNumber": 250,
+      "chapter": 9,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quem livrou a cidade e mesmo assim foi esquecido?",
+      "answer": "Um homem pobre e sábio.",
+      "reference": "Ec 9:15"
+    },
+    {
+      "id": "ECC.10.subject.1",
+      "bookNumber": 250,
+      "chapter": 10,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que um pouco de tolice faz com a sabedoria?",
+      "answer": "Pesa mais do que ela, como moscas mortas estragam o perfume.",
+      "reference": "Ec 10:1"
+    },
+    {
+      "id": "ECC.10.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 10,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que o Pregador viu servos e príncipes fazerem?",
+      "answer": "Servos iam a cavalo, e príncipes andavam a pé.",
+      "reference": "Ec 10:7"
+    },
+    {
+      "id": "ECC.10.curiosity.2",
+      "bookNumber": 250,
+      "chapter": 10,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Por que não amaldiçoar o rei nem dentro do quarto?",
+      "answer": "Porque as aves levam a fala, e quem tem asa conta.",
+      "reference": "Ec 10:20"
+    },
+    {
+      "id": "ECC.11.subject.1",
+      "bookNumber": 250,
+      "chapter": 11,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que se deve lançar sobre as águas?",
+      "answer": "O pão. Muito tempo depois ele é achado.",
+      "reference": "Ec 11:1"
+    },
+    {
+      "id": "ECC.11.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 11,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "A quantas pessoas se deve dar uma parte?",
+      "answer": "A sete, e também a oito.",
+      "reference": "Ec 11:2"
+    },
+    {
+      "id": "ECC.11.curiosity.2",
+      "bookNumber": 250,
+      "chapter": 11,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que deixa de fazer quem só olha o vento?",
+      "answer": "Não semeia. Quem olha as nuvens não colhe.",
+      "reference": "Ec 11:4"
+    },
+    {
+      "id": "ECC.12.subject.1",
+      "bookNumber": 250,
+      "chapter": 12,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Qual é a conclusão sobre o dever de toda pessoa?",
+      "answer": "Temer a Deus e guardar os mandamentos dele.",
+      "reference": "Ec 12:13"
+    },
+    {
+      "id": "ECC.12.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 12,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que acontece com a prata e o ouro na imagem da velhice?",
+      "answer": "A correia de prata se solta e a taça de ouro se quebra.",
+      "reference": "Ec 12:6"
+    },
+    {
+      "id": "ECC.12.curiosity.2",
+      "bookNumber": 250,
+      "chapter": 12,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que cansa o corpo, além dos livros sem fim?",
+      "answer": "Estudar demais.",
+      "reference": "Ec 12:12"
+    },
+    {
+      "id": "ECC.0.curiosity.1",
+      "bookNumber": 250,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Eclesiastes?",
+      "answer": "Salomão.",
+      "reference": "Eclesiastes"
+    },
+    {
+      "id": "ECC.0.curiosity.2",
+      "bookNumber": 250,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Eclesiastes?",
+      "answer": "No século X antes de Cristo.",
+      "reference": "Eclesiastes"
+    }
+  ]
+}

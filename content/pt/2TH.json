@@ -1,0 +1,134 @@
+{
+  "cards": [
+    {
+      "id": "2TH.1.subject.1",
+      "bookNumber": 600,
+      "chapter": 1,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que é justo Deus fazer com quem aflige os crentes?",
+      "answer": "Devolver aflição a quem causa aflição.",
+      "reference": "2Ts 1:6"
+    },
+    {
+      "id": "2TH.1.place.1",
+      "bookNumber": 600,
+      "chapter": 1,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "De onde Jesus virá trazer alívio aos que sofrem?",
+      "answer": "Do céu, acompanhado dos anjos do poder dele.",
+      "reference": "2Ts 1:7"
+    },
+    {
+      "id": "2TH.1.curiosity.1",
+      "bookNumber": 600,
+      "chapter": 1,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Com o que Jesus castiga quem não conhece a Deus?",
+      "answer": "Com chama de fogo.",
+      "reference": "2Ts 1:8"
+    },
+    {
+      "id": "2TH.2.subject.1",
+      "bookNumber": 600,
+      "chapter": 2,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que vem antes do dia de Cristo?",
+      "answer": "A rebelião e o aparecimento do homem do pecado.",
+      "reference": "2Ts 2:3"
+    },
+    {
+      "id": "2TH.2.name.1",
+      "bookNumber": 600,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem age na vinda do injusto?",
+      "answer": "Satanás, com poder, sinais e prodígios falsos.",
+      "reference": "2Ts 2:9"
+    },
+    {
+      "id": "2TH.2.place.1",
+      "bookNumber": 600,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Onde o homem do pecado vai sentar-se, em 2 Tessalonicenses?",
+      "answer": "No templo de Deus, fingindo ser Deus.",
+      "reference": "2Ts 2:4"
+    },
+    {
+      "id": "2TH.2.curiosity.1",
+      "bookNumber": 600,
+      "chapter": 2,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Como Jesus destruirá o injusto?",
+      "answer": "Com o sopro da boca e com o brilho da vinda dele.",
+      "reference": "2Ts 2:8"
+    },
+    {
+      "id": "2TH.3.subject.1",
+      "bookNumber": 600,
+      "chapter": 3,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que Paulo ordena a quem não quer trabalhar?",
+      "answer": "Que também não coma.",
+      "reference": "2Ts 3:10"
+    },
+    {
+      "id": "2TH.3.curiosity.1",
+      "bookNumber": 600,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Como Paulo conseguia o próprio pão?",
+      "answer": "Trabalhando noite e dia, para não incomodar ninguém.",
+      "reference": "2Ts 3:8"
+    },
+    {
+      "id": "2TH.3.curiosity.2",
+      "bookNumber": 600,
+      "chapter": 3,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Como Paulo mostra que a carta é dele?",
+      "answer": "Com a saudação escrita pela própria mão.",
+      "reference": "2Ts 3:17"
+    },
+    {
+      "id": "2TH.0.curiosity.1",
+      "bookNumber": 600,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 2 Tessalonicenses?",
+      "answer": "Paulo.",
+      "reference": "2 Tessalonicenses"
+    },
+    {
+      "id": "2TH.0.curiosity.2",
+      "bookNumber": 600,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 2 Tessalonicenses?",
+      "answer": "Pouco depois da primeira carta, por volta do ano 51.",
+      "reference": "2 Tessalonicenses"
+    },
+    {
+      "id": "2TH.0.curiosity.3",
+      "bookNumber": 600,
+      "chapter": 0,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Para quem Paulo escreveu 2 Tessalonicenses?",
+      "answer": "Para a igreja dos tessalonicenses.",
+      "reference": "2Ts 1:1"
+    }
+  ]
+}

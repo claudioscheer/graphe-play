@@ -1,0 +1,1024 @@
+{
+  "cards": [
+    {
+      "id": "2KI.1.subject.1",
+      "bookNumber": 120,
+      "chapter": 1,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "Como morreu o rei Acazias?",
+      "answer": "Como Elias tinha anunciado da parte de Deus.",
+      "reference": "2Rs 1:17"
+    },
+    {
+      "id": "2KI.1.name.1",
+      "bookNumber": 120,
+      "chapter": 1,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem era o homem vestido de pelos e cinto de couro, em 2 Reis?",
+      "answer": "Elias, o tisbita.",
+      "reference": "2Rs 1:8"
+    },
+    {
+      "id": "2KI.1.place.1",
+      "bookNumber": 120,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Que deus de Ecrom Acazias mandou consultar?",
+      "answer": "Baal-Zebube.",
+      "reference": "2Rs 1:2"
+    },
+    {
+      "id": "2KI.1.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 1,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que desceu sobre o primeiro capitão enviado a Elias?",
+      "answer": "Fogo do céu, que consumiu ele e os cinquenta.",
+      "reference": "2Rs 1:10"
+    },
+    {
+      "id": "2KI.2.subject.1",
+      "bookNumber": 120,
+      "chapter": 2,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Como Elias subiu ao céu?",
+      "answer": "Num redemoinho, depois que um carro de fogo os separou.",
+      "reference": "2Rs 2:11"
+    },
+    {
+      "id": "2KI.2.name.1",
+      "bookNumber": 120,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "name",
+      "prompt": "Quem pediu uma porção dobrada do espírito de Elias?",
+      "answer": "Eliseu.",
+      "reference": "2Rs 2:9"
+    },
+    {
+      "id": "2KI.2.place.1",
+      "bookNumber": 120,
+      "chapter": 2,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Junto a que rio Elias e Eliseu pararam?",
+      "answer": "Junto ao Jordão.",
+      "reference": "2Rs 2:7"
+    },
+    {
+      "id": "2KI.2.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 2,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Quantos meninos as ursas despedaçaram, em 2 Reis?",
+      "answer": "Quarenta e dois, depois que Eliseu os amaldiçoou.",
+      "reference": "2Rs 2:24"
+    },
+    {
+      "id": "2KI.3.subject.1",
+      "bookNumber": 120,
+      "chapter": 3,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "O que encheu o chão pelo caminho de Edom?",
+      "answer": "Água, de manhã, na hora do sacrifício.",
+      "reference": "2Rs 3:20"
+    },
+    {
+      "id": "2KI.3.name.1",
+      "bookNumber": 120,
+      "chapter": 3,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem era o rei de Moabe que pagava tributo a Israel?",
+      "answer": "Messa, dono de grandes rebanhos.",
+      "reference": "2Rs 3:4"
+    },
+    {
+      "id": "2KI.3.place.1",
+      "bookNumber": 120,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Por qual caminho os três reis foram contra Moabe?",
+      "answer": "Pelo deserto de Edom.",
+      "reference": "2Rs 3:8"
+    },
+    {
+      "id": "2KI.3.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 3,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "O que o rei de Moabe fez com o filho mais velho?",
+      "answer": "Ofereceu-o em sacrifício em cima do muro.",
+      "reference": "2Rs 3:27"
+    },
+    {
+      "id": "2KI.4.subject.1",
+      "bookNumber": 120,
+      "chapter": 4,
+      "verseStart": 35,
+      "kind": "subject",
+      "prompt": "O que o filho da sunamita fez quando Eliseu se deitou sobre ele?",
+      "answer": "Espirrou sete vezes e abriu os olhos.",
+      "reference": "2Rs 4:35"
+    },
+    {
+      "id": "2KI.4.name.1",
+      "bookNumber": 120,
+      "chapter": 4,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem era o criado que servia Eliseu?",
+      "answer": "Geazi.",
+      "reference": "2Rs 4:12"
+    },
+    {
+      "id": "2KI.4.place.1",
+      "bookNumber": 120,
+      "chapter": 4,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Por qual cidade Eliseu passava quando uma rica o recebia?",
+      "answer": "Por Suném.",
+      "reference": "2Rs 4:8"
+    },
+    {
+      "id": "2KI.4.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 4,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quando parou o azeite da viúva a quem Eliseu atendeu?",
+      "answer": "Quando os vasos acabaram.",
+      "reference": "2Rs 4:6"
+    },
+    {
+      "id": "2KI.5.subject.1",
+      "bookNumber": 120,
+      "chapter": 5,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "O que aconteceu com Naamã no rio Jordão?",
+      "answer": "A pele se renovou como a de uma criança, e ele ficou limpo.",
+      "reference": "2Rs 5:14"
+    },
+    {
+      "id": "2KI.5.name.1",
+      "bookNumber": 120,
+      "chapter": 5,
+      "verseStart": 20,
+      "kind": "name",
+      "prompt": "Quem era o criado de Eliseu que quis algo de Naamã?",
+      "answer": "Geazi.",
+      "reference": "2Rs 5:20"
+    },
+    {
+      "id": "2KI.5.place.1",
+      "bookNumber": 120,
+      "chapter": 5,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Que rios de Damasco Naamã achava melhores?",
+      "answer": "Abana e Farpar.",
+      "reference": "2Rs 5:12"
+    },
+    {
+      "id": "2KI.5.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 5,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "O que se apegou a Geazi e à descendência dele?",
+      "answer": "A lepra de Naamã, para sempre.",
+      "reference": "2Rs 5:27"
+    },
+    {
+      "id": "2KI.6.subject.1",
+      "bookNumber": 120,
+      "chapter": 6,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "O que o criado de Eliseu viu no monte?",
+      "answer": "Cavaleiros e carros de fogo em volta de Eliseu.",
+      "reference": "2Rs 6:17"
+    },
+    {
+      "id": "2KI.6.name.1",
+      "bookNumber": 120,
+      "chapter": 6,
+      "verseStart": 24,
+      "kind": "name",
+      "prompt": "Quem cercou Samaria com todo o exército?",
+      "answer": "Ben-Hadade, rei da Síria.",
+      "reference": "2Rs 6:24"
+    },
+    {
+      "id": "2KI.6.place.1",
+      "bookNumber": 120,
+      "chapter": 6,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Em que cidade disseram que Eliseu estava?",
+      "answer": "Em Dotã.",
+      "reference": "2Rs 6:13"
+    },
+    {
+      "id": "2KI.6.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 6,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Como Eliseu fez o ferro do machado subir?",
+      "answer": "Jogou um pedaço de pau na água, e o ferro flutuou.",
+      "reference": "2Rs 6:6"
+    },
+    {
+      "id": "2KI.7.subject.1",
+      "bookNumber": 120,
+      "chapter": 7,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Deus fez o acampamento dos sírios ouvir, em 2 Reis?",
+      "answer": "Ruído de carros, de cavalos e de um grande exército.",
+      "reference": "2Rs 7:6"
+    },
+    {
+      "id": "2KI.7.place.1",
+      "bookNumber": 120,
+      "chapter": 7,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Eliseu disse que a comida ficaria barata?",
+      "answer": "À porta de Samaria.",
+      "reference": "2Rs 7:1"
+    },
+    {
+      "id": "2KI.7.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 7,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Quem estava parado à entrada da porta de Samaria?",
+      "answer": "Quatro homens com lepra.",
+      "reference": "2Rs 7:3"
+    },
+    {
+      "id": "2KI.7.curiosity.2",
+      "bookNumber": 120,
+      "chapter": 7,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que o povo fez com o príncipe na porta de Samaria?",
+      "answer": "O povo o atropelou, e ele morreu.",
+      "reference": "2Rs 7:17"
+    },
+    {
+      "id": "2KI.8.subject.1",
+      "bookNumber": 120,
+      "chapter": 8,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "O que Hazael fez ao rei Ben-Hadade?",
+      "answer": "Estendeu um pano molhado no rosto dele, e o rei morreu.",
+      "reference": "2Rs 8:15"
+    },
+    {
+      "id": "2KI.8.name.1",
+      "bookNumber": 120,
+      "chapter": 8,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem passou a reinar em Judá no quinto ano de Jorão?",
+      "answer": "Jeorão, filho de Josafá.",
+      "reference": "2Rs 8:16"
+    },
+    {
+      "id": "2KI.8.place.1",
+      "bookNumber": 120,
+      "chapter": 8,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "A que cidade Eliseu foi quando Ben-Hadade estava doente?",
+      "answer": "A Damasco.",
+      "reference": "2Rs 8:7"
+    },
+    {
+      "id": "2KI.8.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 8,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Por quantos anos Eliseu avisou que a fome duraria?",
+      "answer": "Sete anos.",
+      "reference": "2Rs 8:1"
+    },
+    {
+      "id": "2KI.9.subject.1",
+      "bookNumber": 120,
+      "chapter": 9,
+      "verseStart": 24,
+      "kind": "subject",
+      "prompt": "Como Jeú matou o rei Jorão?",
+      "answer": "A flecha o atingiu entre as costas e saiu no coração.",
+      "reference": "2Rs 9:24"
+    },
+    {
+      "id": "2KI.9.name.1",
+      "bookNumber": 120,
+      "chapter": 9,
+      "verseStart": 36,
+      "kind": "name",
+      "prompt": "O que Elias tinha anunciado sobre o corpo de Jezabel?",
+      "answer": "Os cães comeriam a carne dela na terra de Jezreel.",
+      "reference": "2Rs 9:36"
+    },
+    {
+      "id": "2KI.9.place.1",
+      "bookNumber": 120,
+      "chapter": 9,
+      "verseStart": 21,
+      "kind": "place",
+      "prompt": "Onde Jeú encontrou Jorão e Acazias?",
+      "answer": "Na propriedade de Nabote, em Jezreel.",
+      "reference": "2Rs 9:21"
+    },
+    {
+      "id": "2KI.9.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 9,
+      "verseStart": 35,
+      "kind": "curiosity",
+      "prompt": "O que restou de Jezabel para sepultar?",
+      "answer": "Só o crânio, os pés e as mãos.",
+      "reference": "2Rs 9:35"
+    },
+    {
+      "id": "2KI.10.subject.1",
+      "bookNumber": 120,
+      "chapter": 10,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "O que Jeú fez com quem restava da casa de Acabe?",
+      "answer": "Matou todos em Samaria, como Elias tinha dito.",
+      "reference": "2Rs 10:17"
+    },
+    {
+      "id": "2KI.10.name.1",
+      "bookNumber": 120,
+      "chapter": 10,
+      "verseStart": 15,
+      "kind": "name",
+      "prompt": "Quem Jeú levou consigo no carro?",
+      "answer": "Jonadabe, filho de Recabe.",
+      "reference": "2Rs 10:15"
+    },
+    {
+      "id": "2KI.10.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 10,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que puseram em cestos e mandaram a Jezreel?",
+      "answer": "As cabeças de setenta filhos do rei.",
+      "reference": "2Rs 10:7"
+    },
+    {
+      "id": "2KI.10.curiosity.2",
+      "bookNumber": 120,
+      "chapter": 10,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "Em que Jeú transformou a casa de Baal?",
+      "answer": "Em uma latrina, que continua assim.",
+      "reference": "2Rs 10:27"
+    },
+    {
+      "id": "2KI.11.subject.1",
+      "bookNumber": 120,
+      "chapter": 11,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que Joiada fez com o filho do rei?",
+      "answer": "Pôs a coroa, ungiu-o rei, e o povo aclamou.",
+      "reference": "2Rs 11:12"
+    },
+    {
+      "id": "2KI.11.name.1",
+      "bookNumber": 120,
+      "chapter": 11,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem mandou matar a família real após a morte do filho, em 2 Reis?",
+      "answer": "Atalia, mãe de Acazias.",
+      "reference": "2Rs 11:1"
+    },
+    {
+      "id": "2KI.11.place.1",
+      "bookNumber": 120,
+      "chapter": 11,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde Jeoseba escondeu o menino Joás?",
+      "answer": "No quarto das camas, com a ama dele.",
+      "reference": "2Rs 11:2"
+    },
+    {
+      "id": "2KI.11.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 11,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Por quanto tempo o menino Joás ficou escondido no templo?",
+      "answer": "Seis anos, enquanto Atalia era rainha.",
+      "reference": "2Rs 11:3"
+    },
+    {
+      "id": "2KI.12.subject.1",
+      "bookNumber": 120,
+      "chapter": 12,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que os sacerdotes deviam reparar no templo, em 2 Reis?",
+      "answer": "As fendas, em todo lugar que estivesse aberto.",
+      "reference": "2Rs 12:5"
+    },
+    {
+      "id": "2KI.12.name.1",
+      "bookNumber": 120,
+      "chapter": 12,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem guiava Joás enquanto ele agradava a Deus?",
+      "answer": "O sacerdote Joiada.",
+      "reference": "2Rs 12:2"
+    },
+    {
+      "id": "2KI.12.place.1",
+      "bookNumber": 120,
+      "chapter": 12,
+      "verseStart": 20,
+      "kind": "place",
+      "prompt": "Onde os servos mataram o rei Joás?",
+      "answer": "Na casa de Milo, a caminho de Sila.",
+      "reference": "2Rs 12:20"
+    },
+    {
+      "id": "2KI.12.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 12,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "O que Joiada pôs junto ao altar para o dinheiro?",
+      "answer": "Uma arca com um furo na tampa.",
+      "reference": "2Rs 12:9"
+    },
+    {
+      "id": "2KI.13.subject.1",
+      "bookNumber": 120,
+      "chapter": 13,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "O que aconteceu ao morto lançado no túmulo de Eliseu?",
+      "answer": "Ao encostar nos ossos, reviveu e se pôs de pé.",
+      "reference": "2Rs 13:21"
+    },
+    {
+      "id": "2KI.13.name.1",
+      "bookNumber": 120,
+      "chapter": 13,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Que rei de Israel chorou diante de Eliseu doente?",
+      "answer": "Joás.",
+      "reference": "2Rs 13:14"
+    },
+    {
+      "id": "2KI.13.place.1",
+      "bookNumber": 120,
+      "chapter": 13,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Onde Eliseu disse que Joás feriria os sírios?",
+      "answer": "Em Afeque, até consumi-los.",
+      "reference": "2Rs 13:17"
+    },
+    {
+      "id": "2KI.13.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 13,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "Quantas vezes Joás bateu no chão?",
+      "answer": "Três vezes, e então parou.",
+      "reference": "2Rs 13:18"
+    },
+    {
+      "id": "2KI.14.subject.1",
+      "bookNumber": 120,
+      "chapter": 14,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que Joás de Israel fez no muro de Jerusalém?",
+      "answer": "Abriu uma brecha de quatrocentos côvados.",
+      "reference": "2Rs 14:13"
+    },
+    {
+      "id": "2KI.14.name.1",
+      "bookNumber": 120,
+      "chapter": 14,
+      "verseStart": 25,
+      "kind": "name",
+      "prompt": "Por qual profeta Deus falou da fronteira de Israel?",
+      "answer": "Jonas, filho de Amitai, de Gate-Hefer.",
+      "reference": "2Rs 14:25"
+    },
+    {
+      "id": "2KI.14.place.1",
+      "bookNumber": 120,
+      "chapter": 14,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Onde Amazias enfrentou Joás, rei de Israel?",
+      "answer": "Em Bete-Semes, que fica em Judá.",
+      "reference": "2Rs 14:11"
+    },
+    {
+      "id": "2KI.14.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 14,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Quantos edomitas Amazias feriu no vale das salinas?",
+      "answer": "Dez mil, e mudou o nome de Selá para Jocteel.",
+      "reference": "2Rs 14:7"
+    },
+    {
+      "id": "2KI.15.subject.1",
+      "bookNumber": 120,
+      "chapter": 15,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que houve com o rei Azarias até o fim da vida?",
+      "answer": "Deus o fez leproso, e ele morou separado.",
+      "reference": "2Rs 15:5"
+    },
+    {
+      "id": "2KI.15.name.1",
+      "bookNumber": 120,
+      "chapter": 15,
+      "verseStart": 19,
+      "kind": "name",
+      "prompt": "A quem Menaém pagou mil talentos para firmar o reino?",
+      "answer": "A Pul, rei da Assíria.",
+      "reference": "2Rs 15:19"
+    },
+    {
+      "id": "2KI.15.place.1",
+      "bookNumber": 120,
+      "chapter": 15,
+      "verseStart": 29,
+      "kind": "place",
+      "prompt": "Para onde Tiglate-Pileser levou o povo que prendeu?",
+      "answer": "Para a Assíria.",
+      "reference": "2Rs 15:29"
+    },
+    {
+      "id": "2KI.15.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 15,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Até que geração a palavra dita a Jeú se cumpriu?",
+      "answer": "Até a quarta, no trono de Israel.",
+      "reference": "2Rs 15:12"
+    },
+    {
+      "id": "2KI.16.subject.1",
+      "bookNumber": 120,
+      "chapter": 16,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que Acaz mandou copiar do altar de Damasco?",
+      "answer": "O modelo do altar, com todos os detalhes.",
+      "reference": "2Rs 16:10"
+    },
+    {
+      "id": "2KI.16.name.1",
+      "bookNumber": 120,
+      "chapter": 16,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "A quem Acaz pediu socorro contra Síria e Israel?",
+      "answer": "Ao rei assírio Tiglate-Pileser.",
+      "reference": "2Rs 16:7"
+    },
+    {
+      "id": "2KI.16.place.1",
+      "bookNumber": 120,
+      "chapter": 16,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Para onde levaram os moradores de Damasco?",
+      "answer": "Para Quir.",
+      "reference": "2Rs 16:9"
+    },
+    {
+      "id": "2KI.16.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 16,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que Acaz fez com o próprio filho?",
+      "answer": "Fê-lo passar pelo fogo.",
+      "reference": "2Rs 16:3"
+    },
+    {
+      "id": "2KI.17.subject.1",
+      "bookNumber": 120,
+      "chapter": 17,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que o rei da Assíria fez com Samaria?",
+      "answer": "Tomou a cidade e levou Israel para o exílio.",
+      "reference": "2Rs 17:6"
+    },
+    {
+      "id": "2KI.17.name.1",
+      "bookNumber": 120,
+      "chapter": 17,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem era o rei de Israel, filho de Elá?",
+      "answer": "Oseias, e o reinado dele durou nove anos.",
+      "reference": "2Rs 17:1"
+    },
+    {
+      "id": "2KI.17.place.1",
+      "bookNumber": 120,
+      "chapter": 17,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Onde os israelitas exilados foram morar, em 2 Reis?",
+      "answer": "Em Hala, Habor, junto ao rio Gozã e entre os medos.",
+      "reference": "2Rs 17:6"
+    },
+    {
+      "id": "2KI.17.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 17,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "O que Deus enviou contra quem não o temia em Samaria?",
+      "answer": "Leões, e eles matavam os moradores.",
+      "reference": "2Rs 17:25"
+    },
+    {
+      "id": "2KI.18.subject.1",
+      "bookNumber": 120,
+      "chapter": 18,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Como Ezequias se comparava aos outros reis de Judá?",
+      "answer": "Não houve outro como ele, nem antes nem depois.",
+      "reference": "2Rs 18:5"
+    },
+    {
+      "id": "2KI.18.name.1",
+      "bookNumber": 120,
+      "chapter": 18,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "Quem tomou as cidades fortes de Judá?",
+      "answer": "Senaqueribe, rei da Assíria, no ano catorze de Ezequias.",
+      "reference": "2Rs 18:13"
+    },
+    {
+      "id": "2KI.18.place.1",
+      "bookNumber": 120,
+      "chapter": 18,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Onde pararam os mensageiros da Assíria em Jerusalém?",
+      "answer": "Junto ao canal do tanque superior.",
+      "reference": "2Rs 18:17"
+    },
+    {
+      "id": "2KI.18.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 18,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que Ezequias fez com a serpente de bronze de Moisés?",
+      "answer": "Fez-a em pedaços e lhe deu o nome de Neustã.",
+      "reference": "2Rs 18:4"
+    },
+    {
+      "id": "2KI.19.subject.1",
+      "bookNumber": 120,
+      "chapter": 19,
+      "verseStart": 35,
+      "kind": "subject",
+      "prompt": "Quantos assírios o anjo de Deus feriu de noite, em 2 Reis?",
+      "answer": "Cento e oitenta e cinco mil.",
+      "reference": "2Rs 19:35"
+    },
+    {
+      "id": "2KI.19.name.1",
+      "bookNumber": 120,
+      "chapter": 19,
+      "verseStart": 37,
+      "kind": "name",
+      "prompt": "Quem matou Senaqueribe no templo de Nisroque?",
+      "answer": "Os filhos Adrameleque e Sarezer.",
+      "reference": "2Rs 19:37"
+    },
+    {
+      "id": "2KI.19.place.1",
+      "bookNumber": 120,
+      "chapter": 19,
+      "verseStart": 36,
+      "kind": "place",
+      "prompt": "Para onde Senaqueribe voltou?",
+      "answer": "Para Nínive.",
+      "reference": "2Rs 19:36"
+    },
+    {
+      "id": "2KI.19.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 19,
+      "verseStart": 32,
+      "kind": "curiosity",
+      "prompt": "O que Senaqueribe não faria contra Jerusalém?",
+      "answer": "Não entraria nela nem atiraria uma flecha.",
+      "reference": "2Rs 19:32"
+    },
+    {
+      "id": "2KI.20.subject.1",
+      "bookNumber": 120,
+      "chapter": 20,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Quantos anos Deus acrescentou à vida de Ezequias?",
+      "answer": "Quinze anos, e livraria a cidade do rei da Assíria.",
+      "reference": "2Rs 20:6"
+    },
+    {
+      "id": "2KI.20.name.1",
+      "bookNumber": 120,
+      "chapter": 20,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem mandou um presente e cartas ao rei Ezequias?",
+      "answer": "Berodaque-Baladã, rei da Babilônia.",
+      "reference": "2Rs 20:12"
+    },
+    {
+      "id": "2KI.20.place.1",
+      "bookNumber": 120,
+      "chapter": 20,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Para onde iria tudo o que estava na casa de Ezequias?",
+      "answer": "Para a Babilônia, sem sobrar coisa alguma.",
+      "reference": "2Rs 20:17"
+    },
+    {
+      "id": "2KI.20.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 20,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que a sombra fez no relógio de Acaz?",
+      "answer": "Recuou dez degraus.",
+      "reference": "2Rs 20:11"
+    },
+    {
+      "id": "2KI.21.subject.1",
+      "bookNumber": 120,
+      "chapter": 21,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Como o mal de Manassés se comparava ao dos amorreus?",
+      "answer": "Foi pior do que tudo o que eles tinham feito.",
+      "reference": "2Rs 21:11"
+    },
+    {
+      "id": "2KI.21.name.1",
+      "bookNumber": 120,
+      "chapter": 21,
+      "verseStart": 24,
+      "kind": "name",
+      "prompt": "Quem o povo colocou como rei depois de Amom?",
+      "answer": "Josias, filho dele.",
+      "reference": "2Rs 21:24"
+    },
+    {
+      "id": "2KI.21.place.1",
+      "bookNumber": 120,
+      "chapter": 21,
+      "verseStart": 18,
+      "kind": "place",
+      "prompt": "Onde Manassés foi sepultado?",
+      "answer": "No jardim da casa dele, o jardim de Uzá.",
+      "reference": "2Rs 21:18"
+    },
+    {
+      "id": "2KI.21.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 21,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "De que Manassés encheu Jerusalém?",
+      "answer": "De sangue inocente, de um lado até o outro.",
+      "reference": "2Rs 21:16"
+    },
+    {
+      "id": "2KI.22.subject.1",
+      "bookNumber": 120,
+      "chapter": 22,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que Hilquias achou na casa de Deus?",
+      "answer": "O livro da lei.",
+      "reference": "2Rs 22:8"
+    },
+    {
+      "id": "2KI.22.name.1",
+      "bookNumber": 120,
+      "chapter": 22,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Que profetisa foi consultada em Jerusalém?",
+      "answer": "Hulda, mulher de Salum.",
+      "reference": "2Rs 22:14"
+    },
+    {
+      "id": "2KI.22.place.1",
+      "bookNumber": 120,
+      "chapter": 22,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Em que parte da cidade Hulda morava?",
+      "answer": "Na segunda parte de Jerusalém.",
+      "reference": "2Rs 22:14"
+    },
+    {
+      "id": "2KI.22.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 22,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que Josias fez ao ouvir o livro da lei?",
+      "answer": "Rasgou as próprias roupas.",
+      "reference": "2Rs 22:11"
+    },
+    {
+      "id": "2KI.23.subject.1",
+      "bookNumber": 120,
+      "chapter": 23,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "Desde quando não havia uma Páscoa como a de Josias?",
+      "answer": "Desde o tempo dos juízes, e em nenhum reinado.",
+      "reference": "2Rs 23:22"
+    },
+    {
+      "id": "2KI.23.name.1",
+      "bookNumber": 120,
+      "chapter": 23,
+      "verseStart": 29,
+      "kind": "name",
+      "prompt": "Quem matou Josias em Megido?",
+      "answer": "Faraó Neco, rei do Egito.",
+      "reference": "2Rs 23:29"
+    },
+    {
+      "id": "2KI.23.place.1",
+      "bookNumber": 120,
+      "chapter": 23,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "Onde ficava Tofete, que Josias profanou?",
+      "answer": "No vale que tem o nome do filho de Hinom.",
+      "reference": "2Rs 23:10"
+    },
+    {
+      "id": "2KI.23.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 23,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que Josias fez com os carros dedicados ao sol?",
+      "answer": "Queimou-os no fogo.",
+      "reference": "2Rs 23:11"
+    },
+    {
+      "id": "2KI.24.subject.1",
+      "bookNumber": 120,
+      "chapter": 24,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Quem ficou em Jerusalém quando a cidade foi levada cativa?",
+      "answer": "Só os mais pobres do povo da terra.",
+      "reference": "2Rs 24:14"
+    },
+    {
+      "id": "2KI.24.name.1",
+      "bookNumber": 120,
+      "chapter": 24,
+      "verseStart": 17,
+      "kind": "name",
+      "prompt": "Que nome Matanias recebeu ao ser posto como rei?",
+      "answer": "Zedequias.",
+      "reference": "2Rs 24:17"
+    },
+    {
+      "id": "2KI.24.place.1",
+      "bookNumber": 120,
+      "chapter": 24,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "Para onde levaram Joaquim e a família real?",
+      "answer": "Para a Babilônia.",
+      "reference": "2Rs 24:15"
+    },
+    {
+      "id": "2KI.24.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 24,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Quantos homens de guerra foram levados cativos com Joaquim?",
+      "answer": "Sete mil, além de mil oficiais e ferreiros.",
+      "reference": "2Rs 24:16"
+    },
+    {
+      "id": "2KI.25.subject.1",
+      "bookNumber": 120,
+      "chapter": 25,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que foi queimado em Jerusalém?",
+      "answer": "O templo, o palácio e as casas da cidade.",
+      "reference": "2Rs 25:9"
+    },
+    {
+      "id": "2KI.25.name.1",
+      "bookNumber": 120,
+      "chapter": 25,
+      "verseStart": 22,
+      "kind": "name",
+      "prompt": "Quem Nabucodonosor pôs como governador de Judá?",
+      "answer": "Gedalias, filho de Aicã.",
+      "reference": "2Rs 25:22"
+    },
+    {
+      "id": "2KI.25.place.1",
+      "bookNumber": 120,
+      "chapter": 25,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Onde Zedequias, rei de Judá, ouviu a sentença?",
+      "answer": "Em Ribla, diante do rei da Babilônia.",
+      "reference": "2Rs 25:6"
+    },
+    {
+      "id": "2KI.25.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 25,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que fizeram com Zedequias depois de matar os filhos?",
+      "answer": "Cegaram-no e o levaram preso à Babilônia.",
+      "reference": "2Rs 25:7"
+    },
+    {
+      "id": "2KI.0.curiosity.1",
+      "bookNumber": 120,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 2 Reis?",
+      "answer": "O livro não nomeia o autor.",
+      "reference": "2 Reis"
+    },
+    {
+      "id": "2KI.0.curiosity.2",
+      "bookNumber": 120,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 2 Reis?",
+      "answer": "No tempo do exílio, no século VI antes de Cristo.",
+      "reference": "2 Reis"
+    }
+  ]
+}

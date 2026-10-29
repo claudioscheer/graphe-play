@@ -1,0 +1,298 @@
+{
+  "cards": [
+    {
+      "id": "LEV.1.subject.1",
+      "bookNumber": 30,
+      "chapter": 1,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que o sacerdote faz com o animal do holocausto, em Levítico?",
+      "answer": "Queima o animal por inteiro no altar.",
+      "reference": "Lv 1:9"
+    },
+    {
+      "id": "LEV.2.subject.1",
+      "bookNumber": 30,
+      "chapter": 2,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "De que se compõe a oferta de alimentos, em Levítico?",
+      "answer": "De farinha boa, azeite e incenso.",
+      "reference": "Lv 2:1"
+    },
+    {
+      "id": "LEV.3.subject.1",
+      "bookNumber": 30,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Como deve ser o animal do sacrifício pacífico, em Levítico?",
+      "answer": "Pode ser macho ou fêmea, desde que não tenha defeito.",
+      "reference": "Lv 3:1"
+    },
+    {
+      "id": "LEV.4.subject.1",
+      "bookNumber": 30,
+      "chapter": 4,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que o sacerdote ungido oferece pelo próprio pecado, em Levítico?",
+      "answer": "Um bezerro sem defeito, para expiar esse pecado.",
+      "reference": "Lv 4:3"
+    },
+    {
+      "id": "LEV.5.subject.1",
+      "bookNumber": 30,
+      "chapter": 5,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Que animal se oferece pela falta nas coisas santas, em Levítico?",
+      "answer": "Um carneiro sem defeito.",
+      "reference": "Lv 5:15"
+    },
+    {
+      "id": "LEV.6.subject.1",
+      "bookNumber": 30,
+      "chapter": 6,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que a lei exige do fogo no altar do holocausto, em Levítico?",
+      "answer": "Que permaneça aceso e não seja apagado.",
+      "reference": "Lv 6:12"
+    },
+    {
+      "id": "LEV.7.subject.1",
+      "bookNumber": 30,
+      "chapter": 7,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Até quando se come a carne do sacrifício de gratidão, em Levítico?",
+      "answer": "Somente no dia em que ela é oferecida.",
+      "reference": "Lv 7:15"
+    },
+    {
+      "id": "LEV.8.subject.1",
+      "bookNumber": 30,
+      "chapter": 8,
+      "verseStart": 30,
+      "kind": "subject",
+      "prompt": "Quem Moisés santificou com azeite e sangue?",
+      "answer": "Arão, os filhos dele e as roupas deles.",
+      "reference": "Lv 8:30"
+    },
+    {
+      "id": "LEV.9.subject.1",
+      "bookNumber": 30,
+      "chapter": 9,
+      "verseStart": 24,
+      "kind": "subject",
+      "prompt": "O que o fogo vindo de Deus fez no altar de Arão?",
+      "answer": "Consumiu a oferta queimada e a gordura.",
+      "reference": "Lv 9:24"
+    },
+    {
+      "id": "LEV.10.subject.1",
+      "bookNumber": 30,
+      "chapter": 10,
+      "verseStart": 1,
+      "verseEnd": 2,
+      "kind": "subject",
+      "prompt": "O que houve com Nadabe e Abiú no santuário?",
+      "answer": "Morreram queimados por um fogo que Deus não pediu.",
+      "reference": "Lv 10:1-2"
+    },
+    {
+      "id": "LEV.11.subject.1",
+      "bookNumber": 30,
+      "chapter": 11,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Que animal da terra a lei permite comer, em Levítico?",
+      "answer": "O que tem o casco fendido e rumina.",
+      "reference": "Lv 11:3"
+    },
+    {
+      "id": "LEV.12.subject.1",
+      "bookNumber": 30,
+      "chapter": 12,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Por quantos dias a mãe fica impura após um menino, em Levítico?",
+      "answer": "Sete dias.",
+      "reference": "Lv 12:2"
+    },
+    {
+      "id": "LEV.13.subject.1",
+      "bookNumber": 30,
+      "chapter": 13,
+      "verseStart": 45,
+      "verseEnd": 46,
+      "kind": "subject",
+      "prompt": "Onde o leproso mora enquanto está impuro, em Levítico?",
+      "answer": "Sozinho, fora do acampamento.",
+      "reference": "Lv 13:45-46"
+    },
+    {
+      "id": "LEV.14.subject.1",
+      "bookNumber": 30,
+      "chapter": 14,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Para onde vai a ave viva na limpeza do leproso, em Levítico?",
+      "answer": "É solta no campo.",
+      "reference": "Lv 14:7"
+    },
+    {
+      "id": "LEV.15.subject.1",
+      "bookNumber": 30,
+      "chapter": 15,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que o homem faz depois que o fluxo passa, antes de oferecer, em Levítico?",
+      "answer": "Espera sete dias e lava a roupa e o corpo.",
+      "reference": "Lv 15:13"
+    },
+    {
+      "id": "LEV.16.subject.1",
+      "bookNumber": 30,
+      "chapter": 16,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "Para onde Arão envia o bode vivo da expiação?",
+      "answer": "Ao deserto, depois de pôr nele as culpas do povo.",
+      "reference": "Lv 16:21"
+    },
+    {
+      "id": "LEV.17.subject.1",
+      "bookNumber": 30,
+      "chapter": 17,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Por que o sangue serve de expiação no altar, em Levítico?",
+      "answer": "Porque nele está a vida da carne.",
+      "reference": "Lv 17:11"
+    },
+    {
+      "id": "LEV.18.subject.1",
+      "bookNumber": 30,
+      "chapter": 18,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que a lei proíbe com um parente próximo, em Levítico?",
+      "answer": "É proibido ter relação sexual com essa pessoa.",
+      "reference": "Lv 18:6"
+    },
+    {
+      "id": "LEV.19.subject.1",
+      "bookNumber": 30,
+      "chapter": 19,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "Como a lei manda tratar o próximo, em Levítico?",
+      "answer": "Amar essa pessoa como a si mesmo.",
+      "reference": "Lv 19:18"
+    },
+    {
+      "id": "LEV.20.subject.1",
+      "bookNumber": 30,
+      "chapter": 20,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Qual é a pena de quem entrega um filho a Moloque?",
+      "answer": "A morte, e o povo o apedreja.",
+      "reference": "Lv 20:2"
+    },
+    {
+      "id": "LEV.21.subject.1",
+      "bookNumber": 30,
+      "chapter": 21,
+      "verseStart": 1,
+      "verseEnd": 2,
+      "kind": "subject",
+      "prompt": "Por quem o sacerdote pode se contaminar, se alguém morrer, em Levítico?",
+      "answer": "Só por um parente bem próximo.",
+      "reference": "Lv 21:1-2"
+    },
+    {
+      "id": "LEV.22.subject.1",
+      "bookNumber": 30,
+      "chapter": 22,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "Qual oferta Deus recusa no sacrifício, em Levítico?",
+      "answer": "A que tem algum defeito.",
+      "reference": "Lv 22:20"
+    },
+    {
+      "id": "LEV.23.subject.1",
+      "bookNumber": 30,
+      "chapter": 23,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que se faz no sábado, o sétimo dia, em Levítico?",
+      "answer": "Nenhum trabalho. É dia de descanso de Deus.",
+      "reference": "Lv 23:3"
+    },
+    {
+      "id": "LEV.24.subject.1",
+      "bookNumber": 30,
+      "chapter": 24,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Qual é a pena de quem insulta o nome de Deus, em Levítico?",
+      "answer": "A morte, e todo o povo atira pedras.",
+      "reference": "Lv 24:16"
+    },
+    {
+      "id": "LEV.25.subject.1",
+      "bookNumber": 30,
+      "chapter": 25,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que se proclama no jubileu, o ano cinquenta, em Levítico?",
+      "answer": "Liberdade na terra, e cada família volta ao seu lugar.",
+      "reference": "Lv 25:10"
+    },
+    {
+      "id": "LEV.26.subject.1",
+      "bookNumber": 30,
+      "chapter": 26,
+      "verseStart": 3,
+      "verseEnd": 4,
+      "kind": "subject",
+      "prompt": "O que Deus envia do céu se o povo guardar os mandamentos, em Levítico?",
+      "answer": "Chuva no tempo certo, e a terra dá fruto.",
+      "reference": "Lv 26:3-4"
+    },
+    {
+      "id": "LEV.27.subject.1",
+      "bookNumber": 30,
+      "chapter": 27,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Como se resgata quem foi dedicado a Deus num voto, em Levítico?",
+      "answer": "Paga-se o valor em que a pessoa foi avaliada.",
+      "reference": "Lv 27:2"
+    },
+    {
+      "id": "LEV.0.curiosity.1",
+      "bookNumber": 30,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Levítico?",
+      "answer": "Moisés.",
+      "reference": "Levítico"
+    },
+    {
+      "id": "LEV.0.curiosity.2",
+      "bookNumber": 30,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Levítico?",
+      "answer": "No século XV antes de Cristo.",
+      "reference": "Levítico"
+    }
+  ]
+}

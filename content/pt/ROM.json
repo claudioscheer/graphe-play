@@ -1,0 +1,565 @@
+{
+  "cards": [
+    {
+      "id": "ROM.1.subject.1",
+      "bookNumber": 520,
+      "chapter": 1,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Por que Paulo não se envergonha do evangelho?",
+      "answer": "Porque essa mensagem é o poder de Deus que salva quem crê.",
+      "reference": "Rm 1:16"
+    },
+    {
+      "id": "ROM.1.name.1",
+      "bookNumber": 520,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem se apresenta aos romanos como servo de Jesus e apóstolo?",
+      "answer": "Paulo.",
+      "reference": "Rm 1:1"
+    },
+    {
+      "id": "ROM.1.place.1",
+      "bookNumber": 520,
+      "chapter": 1,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Onde estavam os cristãos a quem Paulo escreve que não se envergonha do evangelho?",
+      "answer": "Em Roma.",
+      "reference": "Rm 1:7"
+    },
+    {
+      "id": "ROM.1.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 1,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "Por que figura as pessoas trocaram a glória de Deus?",
+      "answer": "Pela de gente, pássaros, animais de quatro patas e bichos rastejantes.",
+      "reference": "Rm 1:23"
+    },
+    {
+      "id": "ROM.2.subject.1",
+      "bookNumber": 520,
+      "chapter": 2,
+      "verseStart": 29,
+      "kind": "subject",
+      "prompt": "Quem Deus elogia como judeu?",
+      "answer": "Quem o é por dentro, no coração, e não por regra escrita.",
+      "reference": "Rm 2:29"
+    },
+    {
+      "id": "ROM.2.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 2,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Como Deus vai retribuir cada pessoa?",
+      "answer": "Conforme o que cada uma fez.",
+      "reference": "Rm 2:6"
+    },
+    {
+      "id": "ROM.2.curiosity.2",
+      "bookNumber": 520,
+      "chapter": 2,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que Deus vai julgar por meio de Jesus?",
+      "answer": "Os segredos das pessoas.",
+      "reference": "Rm 2:16"
+    },
+    {
+      "id": "ROM.3.subject.1",
+      "bookNumber": 520,
+      "chapter": 3,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "A pessoa fica justa diante de Deus por cumprir a lei?",
+      "answer": "Não. Fica justa pela fé, sem depender das obras da lei.",
+      "reference": "Rm 3:28"
+    },
+    {
+      "id": "ROM.3.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 3,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Há alguém justo por conta própria?",
+      "answer": "Ninguém. Nem sequer um.",
+      "reference": "Rm 3:10"
+    },
+    {
+      "id": "ROM.3.curiosity.2",
+      "bookNumber": 520,
+      "chapter": 3,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "Quem pecou e ficou sem a glória de Deus?",
+      "answer": "Todo mundo.",
+      "reference": "Rm 3:23"
+    },
+    {
+      "id": "ROM.4.subject.1",
+      "bookNumber": 520,
+      "chapter": 4,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Como Abraão foi aceito como justo?",
+      "answer": "Ele confiou em Deus, e isso foi contado como justiça.",
+      "reference": "Rm 4:3"
+    },
+    {
+      "id": "ROM.4.name.1",
+      "bookNumber": 520,
+      "chapter": 4,
+      "verseStart": 6,
+      "kind": "name",
+      "prompt": "Quem Paulo cita ao falar de perdão sem olhar as obras?",
+      "answer": "Davi.",
+      "reference": "Rm 4:6"
+    },
+    {
+      "id": "ROM.4.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 4,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Quantos anos Abraão tinha, mais ou menos, ao crer com o corpo já sem vigor?",
+      "answer": "Quase cem anos.",
+      "reference": "Rm 4:19"
+    },
+    {
+      "id": "ROM.5.subject.1",
+      "bookNumber": 520,
+      "chapter": 5,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que entrou no mundo por um só homem?",
+      "answer": "O pecado, e por meio dele a morte.",
+      "reference": "Rm 5:12"
+    },
+    {
+      "id": "ROM.5.name.1",
+      "bookNumber": 520,
+      "chapter": 5,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem Paulo diz que era figura de Cristo?",
+      "answer": "Adão.",
+      "reference": "Rm 5:14"
+    },
+    {
+      "id": "ROM.5.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 5,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Em que condição as pessoas estavam quando Cristo morreu por elas?",
+      "answer": "Ainda eram pecadoras.",
+      "reference": "Rm 5:8"
+    },
+    {
+      "id": "ROM.6.subject.1",
+      "bookNumber": 520,
+      "chapter": 6,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Como quem crê deve se ver diante do pecado?",
+      "answer": "Como alguém morto para o pecado e vivo para Deus, em Jesus.",
+      "reference": "Rm 6:11"
+    },
+    {
+      "id": "ROM.6.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 6,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Para que a pessoa é sepultada com Cristo no batismo?",
+      "answer": "Para viver de um modo novo, já que ele ressuscitou.",
+      "reference": "Rm 6:4"
+    },
+    {
+      "id": "ROM.6.curiosity.2",
+      "bookNumber": 520,
+      "chapter": 6,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "Qual é o pagamento de quem peca?",
+      "answer": "A morte. A vida sem fim é um presente de Deus, em Jesus.",
+      "reference": "Rm 6:23"
+    },
+    {
+      "id": "ROM.7.subject.1",
+      "bookNumber": 520,
+      "chapter": 7,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "O que Paulo pratica quando quer fazer o bem?",
+      "answer": "Não faz o bem que deseja, e faz o mal que rejeita.",
+      "reference": "Rm 7:19"
+    },
+    {
+      "id": "ROM.7.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 7,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Até quando a mulher casada fica presa ao marido pela lei?",
+      "answer": "Enquanto o marido viver.",
+      "reference": "Rm 7:2"
+    },
+    {
+      "id": "ROM.7.curiosity.2",
+      "bookNumber": 520,
+      "chapter": 7,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "A lei é algo ruim?",
+      "answer": "Não. Ela é santa, e a ordem dela é justa e boa.",
+      "reference": "Rm 7:12"
+    },
+    {
+      "id": "ROM.8.subject.1",
+      "bookNumber": 520,
+      "chapter": 8,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Quem vive pelo Espírito, em Jesus, está condenado?",
+      "answer": "Não. Para essa pessoa não existe condenação.",
+      "reference": "Rm 8:1"
+    },
+    {
+      "id": "ROM.8.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 8,
+      "verseStart": 28,
+      "kind": "curiosity",
+      "prompt": "Para quem todas as coisas ajudam no bem?",
+      "answer": "Para quem ama a Deus e é chamado pelo plano dele.",
+      "reference": "Rm 8:28"
+    },
+    {
+      "id": "ROM.8.curiosity.2",
+      "bookNumber": 520,
+      "chapter": 8,
+      "verseStart": 38,
+      "verseEnd": 39,
+      "kind": "curiosity",
+      "prompt": "A morte ou alguma criatura separa do amor de Deus?",
+      "answer": "Não. Nada disso separa quem está em Jesus.",
+      "reference": "Rm 8:38-39"
+    },
+    {
+      "id": "ROM.9.subject.1",
+      "bookNumber": 520,
+      "chapter": 9,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "A compaixão de Deus depende de quem se esforça?",
+      "answer": "Não. Ela vem dele, que escolhe ter pena.",
+      "reference": "Rm 9:16"
+    },
+    {
+      "id": "ROM.9.name.1",
+      "bookNumber": 520,
+      "chapter": 9,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "O que a citação de Paulo diz que Deus fez com Jacó e Esaú?",
+      "answer": "Amou Jacó e odiou Esaú.",
+      "reference": "Rm 9:13"
+    },
+    {
+      "id": "ROM.9.place.1",
+      "bookNumber": 520,
+      "chapter": 9,
+      "verseStart": 33,
+      "kind": "place",
+      "prompt": "Onde foi posta a pedra que faz tropeçar, em Romanos?",
+      "answer": "Em Sião.",
+      "reference": "Rm 9:33"
+    },
+    {
+      "id": "ROM.9.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 9,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Qual filho serviria o outro, na palavra citada por Paulo?",
+      "answer": "O mais velho serviria o mais novo.",
+      "reference": "Rm 9:12"
+    },
+    {
+      "id": "ROM.10.subject.1",
+      "bookNumber": 520,
+      "chapter": 10,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que é preciso dizer e crer para ser salvo?",
+      "answer": "Dizer que Jesus é o dono, e crer que Deus o fez viver de novo.",
+      "reference": "Rm 10:9"
+    },
+    {
+      "id": "ROM.10.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 10,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "A palavra da fé está longe de quem crê?",
+      "answer": "Não. Está perto, na boca e no coração.",
+      "reference": "Rm 10:8"
+    },
+    {
+      "id": "ROM.10.curiosity.2",
+      "bookNumber": 520,
+      "chapter": 10,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "De onde nasce a fé, em Romanos?",
+      "answer": "Do ouvir a palavra de Deus.",
+      "reference": "Rm 10:17"
+    },
+    {
+      "id": "ROM.11.subject.1",
+      "bookNumber": 520,
+      "chapter": 11,
+      "verseStart": 26,
+      "kind": "subject",
+      "prompt": "O que Paulo afirma que vai acontecer com Israel?",
+      "answer": "Todo o Israel será salvo.",
+      "reference": "Rm 11:26"
+    },
+    {
+      "id": "ROM.11.name.1",
+      "bookNumber": 520,
+      "chapter": 11,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem falou a Deus contra Israel, no caso que Paulo lembra?",
+      "answer": "Elias.",
+      "reference": "Rm 11:2"
+    },
+    {
+      "id": "ROM.11.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 11,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Quantos Deus guardou que não se dobraram a Baal?",
+      "answer": "Sete mil homens.",
+      "reference": "Rm 11:4"
+    },
+    {
+      "id": "ROM.11.curiosity.2",
+      "bookNumber": 520,
+      "chapter": 11,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Onde o ramo da oliveira brava foi enxertado, em Romanos?",
+      "answer": "Na oliveira boa, no lugar de ramos arrancados.",
+      "reference": "Rm 11:17"
+    },
+    {
+      "id": "ROM.12.subject.1",
+      "bookNumber": 520,
+      "chapter": 12,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que Paulo pede que se entregue a Deus?",
+      "answer": "O corpo, como oferta viva, santa e que agrada a ele.",
+      "reference": "Rm 12:1"
+    },
+    {
+      "id": "ROM.12.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 12,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que muitas pessoas formam em Cristo?",
+      "answer": "Um só corpo, e cada uma é membro das outras.",
+      "reference": "Rm 12:5"
+    },
+    {
+      "id": "ROM.12.curiosity.2",
+      "bookNumber": 520,
+      "chapter": 12,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "Como o mal deve ser vencido?",
+      "answer": "Com o bem, sem deixar que ele ganhe.",
+      "reference": "Rm 12:21"
+    },
+    {
+      "id": "ROM.13.subject.1",
+      "bookNumber": 520,
+      "chapter": 13,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Por que a pessoa deve obedecer às autoridades?",
+      "answer": "Porque toda autoridade que existe vem de Deus.",
+      "reference": "Rm 13:1"
+    },
+    {
+      "id": "ROM.13.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 13,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que Paulo manda entregar a cada um, conforme o caso?",
+      "answer": "Imposto, taxa, respeito e honra.",
+      "reference": "Rm 13:7"
+    },
+    {
+      "id": "ROM.13.curiosity.2",
+      "bookNumber": 520,
+      "chapter": 13,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que cumpre a lei no trato com o próximo?",
+      "answer": "O amor, pois ele não machuca ninguém.",
+      "reference": "Rm 13:10"
+    },
+    {
+      "id": "ROM.14.subject.1",
+      "bookNumber": 520,
+      "chapter": 14,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "O reino de Deus é comida e bebida?",
+      "answer": "Não. É justiça, paz e alegria dadas pelo Espírito.",
+      "reference": "Rm 14:17"
+    },
+    {
+      "id": "ROM.14.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 14,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que come quem é fraco na fé?",
+      "answer": "Só vegetais.",
+      "reference": "Rm 14:2"
+    },
+    {
+      "id": "ROM.14.curiosity.2",
+      "bookNumber": 520,
+      "chapter": 14,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "O que vira pecado para quem age em dúvida?",
+      "answer": "O que não é feito com fé.",
+      "reference": "Rm 14:23"
+    },
+    {
+      "id": "ROM.15.subject.1",
+      "bookNumber": 520,
+      "chapter": 15,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que os fortes devem fazer com os fracos?",
+      "answer": "Aguentar as fraquezas deles e não buscar o próprio gosto.",
+      "reference": "Rm 15:1"
+    },
+    {
+      "id": "ROM.15.place.1",
+      "bookNumber": 520,
+      "chapter": 15,
+      "verseStart": 24,
+      "kind": "place",
+      "prompt": "Para qual terra Paulo pretendia seguir depois de passar por Roma?",
+      "answer": "Para a Espanha.",
+      "reference": "Rm 15:24"
+    },
+    {
+      "id": "ROM.15.place.2",
+      "bookNumber": 520,
+      "chapter": 15,
+      "verseStart": 25,
+      "kind": "place",
+      "prompt": "Aonde Paulo ia para ajudar o povo de Deus?",
+      "answer": "A Jerusalém.",
+      "reference": "Rm 15:25"
+    },
+    {
+      "id": "ROM.15.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 15,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "Quem decidiu mandar ajuda aos pobres de Jerusalém?",
+      "answer": "Os cristãos da Macedônia e da Acaia.",
+      "reference": "Rm 15:26"
+    },
+    {
+      "id": "ROM.16.subject.1",
+      "bookNumber": 520,
+      "chapter": 16,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "O que Paulo pede quanto a quem causa divisão?",
+      "answer": "Que a igreja tome cuidado e se afaste dessa gente.",
+      "reference": "Rm 16:17"
+    },
+    {
+      "id": "ROM.16.name.1",
+      "bookNumber": 520,
+      "chapter": 16,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem Paulo recomenda como servidora da igreja?",
+      "answer": "Febe.",
+      "reference": "Rm 16:1"
+    },
+    {
+      "id": "ROM.16.place.1",
+      "bookNumber": 520,
+      "chapter": 16,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Em que cidade Febe servia a igreja?",
+      "answer": "Em Cencreia.",
+      "reference": "Rm 16:1"
+    },
+    {
+      "id": "ROM.16.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 16,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "O que o Deus da paz fará com Satanás?",
+      "answer": "Vai despedaçá-lo sob os pés do povo.",
+      "reference": "Rm 16:20"
+    },
+    {
+      "id": "ROM.0.curiosity.1",
+      "bookNumber": 520,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Romanos?",
+      "answer": "Paulo.",
+      "reference": "Romanos"
+    },
+    {
+      "id": "ROM.0.curiosity.2",
+      "bookNumber": 520,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Romanos?",
+      "answer": "Por volta do ano 57.",
+      "reference": "Romanos"
+    },
+    {
+      "id": "ROM.0.curiosity.3",
+      "bookNumber": 520,
+      "chapter": 0,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Para quem Paulo escreveu Romanos?",
+      "answer": "Para os crentes que estavam em Roma.",
+      "reference": "Rm 1:7"
+    }
+  ]
+}

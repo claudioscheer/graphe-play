@@ -1,0 +1,1515 @@
+{
+  "cards": [
+    {
+      "id": "NUM.1.subject.1",
+      "bookNumber": 40,
+      "chapter": 1,
+      "verseStart": 45,
+      "kind": "subject",
+      "prompt": "Quem entrou na contagem de Israel para a guerra?",
+      "answer": "Os homens de vinte anos ou mais que podiam sair à luta.",
+      "reference": "Nm 1:45"
+    },
+    {
+      "id": "NUM.1.place.1",
+      "bookNumber": 40,
+      "chapter": 1,
+      "verseStart": 19,
+      "kind": "place",
+      "prompt": "Onde Moisés e Arão contaram o povo de Israel?",
+      "answer": "No deserto do Sinai.",
+      "reference": "Nm 1:19"
+    },
+    {
+      "id": "NUM.1.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 1,
+      "verseStart": 46,
+      "kind": "curiosity",
+      "prompt": "Qual foi o total da contagem de Israel no Sinai?",
+      "answer": "O total foi 603.550.",
+      "reference": "Nm 1:46"
+    },
+    {
+      "id": "NUM.1.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 1,
+      "verseStart": 47,
+      "kind": "curiosity",
+      "prompt": "Quem ficou de fora da contagem de guerra de Israel?",
+      "answer": "Os levitas.",
+      "reference": "Nm 1:47"
+    },
+    {
+      "id": "NUM.2.subject.1",
+      "bookNumber": 40,
+      "chapter": 2,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Como as tribos de Israel deviam acampar?",
+      "answer": "Cada uma junto da própria bandeira, em volta da tenda.",
+      "reference": "Nm 2:2"
+    },
+    {
+      "id": "NUM.2.place.1",
+      "bookNumber": 40,
+      "chapter": 2,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Onde ia a tenda na marcha de Israel?",
+      "answer": "No meio dos exércitos, com os levitas.",
+      "reference": "Nm 2:17"
+    },
+    {
+      "id": "NUM.2.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Qual bloco de Israel marchava na frente?",
+      "answer": "O exército de Judá.",
+      "reference": "Nm 2:9"
+    },
+    {
+      "id": "NUM.2.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 2,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "Qual bloco fechava a marcha de Israel?",
+      "answer": "O exército de Dã.",
+      "reference": "Nm 2:31"
+    },
+    {
+      "id": "NUM.3.subject.1",
+      "bookNumber": 40,
+      "chapter": 3,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Por que Deus separou os levitas em Israel?",
+      "answer": "Para ficarem no lugar de todo primogênito.",
+      "reference": "Nm 3:12"
+    },
+    {
+      "id": "NUM.3.name.1",
+      "bookNumber": 40,
+      "chapter": 3,
+      "verseStart": 4,
+      "kind": "name",
+      "prompt": "Quem, dos filhos de Arão, seguiu no sacerdócio?",
+      "answer": "Eleazar e Itamar.",
+      "reference": "Nm 3:4"
+    },
+    {
+      "id": "NUM.3.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 3,
+      "verseStart": 39,
+      "kind": "curiosity",
+      "prompt": "Quantos levitas de um mês para cima a primeira contagem registrou, em Números?",
+      "answer": "Vinte e dois mil.",
+      "reference": "Nm 3:39"
+    },
+    {
+      "id": "NUM.3.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 3,
+      "verseStart": 47,
+      "kind": "curiosity",
+      "prompt": "Quanto custava o resgate de cada primogênito a mais, em Números?",
+      "answer": "Cinco siclos por pessoa.",
+      "reference": "Nm 3:47"
+    },
+    {
+      "id": "NUM.4.subject.1",
+      "bookNumber": 40,
+      "chapter": 4,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "O que acontecia se um filho de Coate tocasse coisa santa?",
+      "answer": "A pena era a morte.",
+      "reference": "Nm 4:15"
+    },
+    {
+      "id": "NUM.4.name.1",
+      "bookNumber": 40,
+      "chapter": 4,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem cuidava do óleo, do incenso e da unção, em Números?",
+      "answer": "Eleazar, filho do sacerdote Arão.",
+      "reference": "Nm 4:16"
+    },
+    {
+      "id": "NUM.4.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 4,
+      "verseStart": 47,
+      "verseEnd": 48,
+      "kind": "curiosity",
+      "prompt": "Quantos levitas de trinta a cinquenta anos foram contados, em Números?",
+      "answer": "Oito mil quinhentos e oitenta.",
+      "reference": "Nm 4:47-48"
+    },
+    {
+      "id": "NUM.5.subject.1",
+      "bookNumber": 40,
+      "chapter": 5,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "O que o marido ciumento levava com a mulher ao sacerdote, em Números?",
+      "answer": "Oferta de farinha de cevada, sem azeite e sem incenso.",
+      "reference": "Nm 5:15"
+    },
+    {
+      "id": "NUM.5.place.1",
+      "bookNumber": 40,
+      "chapter": 5,
+      "verseStart": 2,
+      "verseEnd": 3,
+      "kind": "place",
+      "prompt": "Para onde iam o leproso e quem tivesse tocado um morto, em Números?",
+      "answer": "Para fora do acampamento.",
+      "reference": "Nm 5:2-3"
+    },
+    {
+      "id": "NUM.5.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 5,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que se somava ao devolver o prejuízo ao outro, em Números?",
+      "answer": "A quinta parte do valor.",
+      "reference": "Nm 5:7"
+    },
+    {
+      "id": "NUM.5.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 5,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que o sacerdote misturava na água do ciúme, em Números?",
+      "answer": "Pó apanhado no chão da tenda.",
+      "reference": "Nm 5:17"
+    },
+    {
+      "id": "NUM.6.subject.1",
+      "bookNumber": 40,
+      "chapter": 6,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que o nazireu evitava beber e comer, em Números?",
+      "answer": "Vinho, bebida forte e uvas.",
+      "reference": "Nm 6:3"
+    },
+    {
+      "id": "NUM.6.name.1",
+      "bookNumber": 40,
+      "chapter": 6,
+      "verseStart": 23,
+      "kind": "name",
+      "prompt": "Quem devia abençoar os filhos de Israel na bênção sacerdotal?",
+      "answer": "Arão e os filhos dele.",
+      "reference": "Nm 6:23"
+    },
+    {
+      "id": "NUM.6.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 6,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que o nazireu fazia com o cabelo no tempo do voto, em Números?",
+      "answer": "Deixava crescer e não usava navalha.",
+      "reference": "Nm 6:5"
+    },
+    {
+      "id": "NUM.6.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 6,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "O que Deus daria ao erguer o rosto sobre alguém, em Números?",
+      "answer": "Paz.",
+      "reference": "Nm 6:26"
+    },
+    {
+      "id": "NUM.7.subject.1",
+      "bookNumber": 40,
+      "chapter": 7,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Como os chefes ofertaram na dedicação do altar, em Números?",
+      "answer": "Um príncipe em cada dia.",
+      "reference": "Nm 7:11"
+    },
+    {
+      "id": "NUM.7.name.1",
+      "bookNumber": 40,
+      "chapter": 7,
+      "verseStart": 12,
+      "kind": "name",
+      "prompt": "Quem fez a oferta no primeiro dia da dedicação, em Números?",
+      "answer": "Naassom, de Judá, filho de Aminadabe.",
+      "reference": "Nm 7:12"
+    },
+    {
+      "id": "NUM.7.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 7,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Por que os filhos de Coate não ganharam carro?",
+      "answer": "Porque levavam o santuário nos ombros.",
+      "reference": "Nm 7:9"
+    },
+    {
+      "id": "NUM.7.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 7,
+      "verseStart": 89,
+      "kind": "curiosity",
+      "prompt": "De onde Moisés ouvia a voz dentro da tenda?",
+      "answer": "De entre os dois querubins, por cima da arca.",
+      "reference": "Nm 7:89"
+    },
+    {
+      "id": "NUM.8.subject.1",
+      "bookNumber": 40,
+      "chapter": 8,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "O que Arão fez com os levitas diante de Deus?",
+      "answer": "Ofereceu-os e fez a purificação deles.",
+      "reference": "Nm 8:21"
+    },
+    {
+      "id": "NUM.8.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 8,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quantas lâmpadas deviam iluminar o candelabro, em Números?",
+      "answer": "Sete, voltadas para a frente.",
+      "reference": "Nm 8:2"
+    },
+    {
+      "id": "NUM.8.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 8,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Com que idade o levita começava o serviço da tenda, após a consagração, em Números?",
+      "answer": "Aos vinte e cinco anos.",
+      "reference": "Nm 8:24"
+    },
+    {
+      "id": "NUM.8.curiosity.3",
+      "bookNumber": 40,
+      "chapter": 8,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "Quando o levita deixava o ofício pesado da tenda, em Números?",
+      "answer": "Aos cinquenta anos.",
+      "reference": "Nm 8:25"
+    },
+    {
+      "id": "NUM.9.subject.1",
+      "bookNumber": 40,
+      "chapter": 9,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "O que indicava a hora de Israel partir ou acampar?",
+      "answer": "A nuvem sobre a tenda: ao subir, partiam; ao parar, ficavam.",
+      "reference": "Nm 9:17"
+    },
+    {
+      "id": "NUM.9.place.1",
+      "bookNumber": 40,
+      "chapter": 9,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Onde Israel fez a Páscoa no segundo ano da saída?",
+      "answer": "No deserto do Sinai.",
+      "reference": "Nm 9:5"
+    },
+    {
+      "id": "NUM.9.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 9,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Quando o impuro por um morto podia fazer a Páscoa?",
+      "answer": "No dia catorze do segundo mês.",
+      "reference": "Nm 9:11"
+    },
+    {
+      "id": "NUM.9.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 9,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "O que aparecia de tarde sobre a tenda, em Números?",
+      "answer": "Algo parecido com fogo, até de manhã.",
+      "reference": "Nm 9:15"
+    },
+    {
+      "id": "NUM.10.subject.1",
+      "bookNumber": 40,
+      "chapter": 10,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Para onde Israel foi ao sair do Sinai?",
+      "answer": "Para o deserto de Parã.",
+      "reference": "Nm 10:12"
+    },
+    {
+      "id": "NUM.10.name.1",
+      "bookNumber": 40,
+      "chapter": 10,
+      "verseStart": 29,
+      "kind": "name",
+      "prompt": "Quem Moisés convidou para ir com Israel?",
+      "answer": "Hobabe, filho de Reuel, o midianita.",
+      "reference": "Nm 10:29"
+    },
+    {
+      "id": "NUM.10.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 10,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "De que metal eram as trombetas da congregação, em Números?",
+      "answer": "De prata.",
+      "reference": "Nm 10:2"
+    },
+    {
+      "id": "NUM.10.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 10,
+      "verseStart": 33,
+      "kind": "curiosity",
+      "prompt": "O que seguia três dias à frente do povo, em Números?",
+      "answer": "A arca da aliança.",
+      "reference": "Nm 10:33"
+    },
+    {
+      "id": "NUM.11.subject.1",
+      "bookNumber": 40,
+      "chapter": 11,
+      "verseStart": 33,
+      "kind": "subject",
+      "prompt": "O que feriu o povo antes de mastigar a carne, em Números?",
+      "answer": "Uma praga muito grande.",
+      "reference": "Nm 11:33"
+    },
+    {
+      "id": "NUM.11.name.1",
+      "bookNumber": 40,
+      "chapter": 11,
+      "verseStart": 26,
+      "kind": "name",
+      "prompt": "Quem profetizou no acampamento, longe da tenda, em Números?",
+      "answer": "Eldade e Medade.",
+      "reference": "Nm 11:26"
+    },
+    {
+      "id": "NUM.11.place.1",
+      "bookNumber": 40,
+      "chapter": 11,
+      "verseStart": 34,
+      "kind": "place",
+      "prompt": "Qual nome ganhou o lugar onde sepultaram os que tiveram desejo, em Números?",
+      "answer": "Quibrote-Hataavá.",
+      "reference": "Nm 11:34"
+    },
+    {
+      "id": "NUM.11.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 11,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "O que fizeram os setenta anciãos quando o espírito pousou neles, em Números?",
+      "answer": "Profetizaram, e isso não se repetiu.",
+      "reference": "Nm 11:25"
+    },
+    {
+      "id": "NUM.12.subject.1",
+      "bookNumber": 40,
+      "chapter": 12,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que Arão viu em Miriã quando a nuvem se afastou?",
+      "answer": "Ela estava leprosa, branca feito neve.",
+      "reference": "Nm 12:10"
+    },
+    {
+      "id": "NUM.12.name.1",
+      "bookNumber": 40,
+      "chapter": 12,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Quem era mais manso do que todos os homens da terra, em Números?",
+      "answer": "Moisés.",
+      "reference": "Nm 12:3"
+    },
+    {
+      "id": "NUM.12.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 12,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Por que Arão e Miriã se opuseram a Moisés?",
+      "answer": "Por causa da mulher cuxita com quem ele tinha casado.",
+      "reference": "Nm 12:1"
+    },
+    {
+      "id": "NUM.12.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 12,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quantos dias Miriã ficou fora do acampamento?",
+      "answer": "Sete dias, e o povo só seguiu quando ela voltou.",
+      "reference": "Nm 12:15"
+    },
+    {
+      "id": "NUM.13.subject.1",
+      "bookNumber": 40,
+      "chapter": 13,
+      "verseStart": 31,
+      "kind": "subject",
+      "prompt": "O que a maioria dos espias disse sobre subir a Canaã?",
+      "answer": "Que o povo de lá era forte demais para eles.",
+      "reference": "Nm 13:31"
+    },
+    {
+      "id": "NUM.13.name.1",
+      "bookNumber": 40,
+      "chapter": 13,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Qual nome Moisés deu a Oseias, filho de Num?",
+      "answer": "Josué.",
+      "reference": "Nm 13:16"
+    },
+    {
+      "id": "NUM.13.name.2",
+      "bookNumber": 40,
+      "chapter": 13,
+      "verseStart": 30,
+      "kind": "name",
+      "prompt": "Quem calou o povo e disse para subir logo, em Números?",
+      "answer": "Calebe.",
+      "reference": "Nm 13:30"
+    },
+    {
+      "id": "NUM.13.place.1",
+      "bookNumber": 40,
+      "chapter": 13,
+      "verseStart": 24,
+      "kind": "place",
+      "prompt": "Por que o lugar do cacho se chamou Escol?",
+      "answer": "Por causa do cacho que cortaram ali.",
+      "reference": "Nm 13:24"
+    },
+    {
+      "id": "NUM.13.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 13,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "Como trouxeram o cacho de uvas de Escol?",
+      "answer": "Dois homens o levaram numa vara.",
+      "reference": "Nm 13:23"
+    },
+    {
+      "id": "NUM.14.subject.1",
+      "bookNumber": 40,
+      "chapter": 14,
+      "verseStart": 34,
+      "kind": "subject",
+      "prompt": "Qual foi a pena pelos quarenta dias da espiagem, em Números?",
+      "answer": "A pena foi de quarenta anos.",
+      "reference": "Nm 14:34"
+    },
+    {
+      "id": "NUM.14.name.1",
+      "bookNumber": 40,
+      "chapter": 14,
+      "verseStart": 30,
+      "kind": "name",
+      "prompt": "Quem da geração que recusou Canaã entraria na terra?",
+      "answer": "Só Josué e Calebe.",
+      "reference": "Nm 14:30"
+    },
+    {
+      "id": "NUM.14.place.1",
+      "bookNumber": 40,
+      "chapter": 14,
+      "verseStart": 45,
+      "kind": "place",
+      "prompt": "Até onde amalequitas e cananeus perseguiram o povo, em Números?",
+      "answer": "Até Hormá.",
+      "reference": "Nm 14:45"
+    },
+    {
+      "id": "NUM.14.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 14,
+      "verseStart": 37,
+      "kind": "curiosity",
+      "prompt": "O que houve com os homens que falaram mal da terra, em Números?",
+      "answer": "Uma praga os matou.",
+      "reference": "Nm 14:37"
+    },
+    {
+      "id": "NUM.15.subject.1",
+      "bookNumber": 40,
+      "chapter": 15,
+      "verseStart": 32,
+      "verseEnd": 36,
+      "kind": "subject",
+      "prompt": "O que fizeram com o homem que juntou lenha no sábado, em Números?",
+      "answer": "Foi morto a pedradas, fora das tendas.",
+      "reference": "Nm 15:32-36"
+    },
+    {
+      "id": "NUM.15.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 15,
+      "verseStart": 38,
+      "kind": "curiosity",
+      "prompt": "O que Israel devia pôr nas pontas das roupas?",
+      "answer": "Franjas, cada uma com um fio azul.",
+      "reference": "Nm 15:38"
+    },
+    {
+      "id": "NUM.15.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 15,
+      "verseStart": 30,
+      "kind": "curiosity",
+      "prompt": "O que acontecia com quem pecava afrontando a Deus, em Números?",
+      "answer": "Essa pessoa era cortada do povo.",
+      "reference": "Nm 15:30"
+    },
+    {
+      "id": "NUM.15.curiosity.3",
+      "bookNumber": 40,
+      "chapter": 15,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Para quem valia a mesma lei e o mesmo regulamento, em Números?",
+      "answer": "Para o povo e para o peregrino.",
+      "reference": "Nm 15:16"
+    },
+    {
+      "id": "NUM.16.subject.1",
+      "bookNumber": 40,
+      "chapter": 16,
+      "verseStart": 32,
+      "kind": "subject",
+      "prompt": "O que a terra fez com os homens de Coré?",
+      "answer": "Abriu a boca e os engoliu com as casas.",
+      "reference": "Nm 16:32"
+    },
+    {
+      "id": "NUM.16.name.1",
+      "bookNumber": 40,
+      "chapter": 16,
+      "verseStart": 47,
+      "kind": "name",
+      "prompt": "Quem fez expiação pelo povo com o incensário, em Números?",
+      "answer": "Arão.",
+      "reference": "Nm 16:47"
+    },
+    {
+      "id": "NUM.16.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 16,
+      "verseStart": 35,
+      "kind": "curiosity",
+      "prompt": "Quantos homens o fogo consumiu ao oferecerem incenso, em Números?",
+      "answer": "Duzentos e cinquenta.",
+      "reference": "Nm 16:35"
+    },
+    {
+      "id": "NUM.16.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 16,
+      "verseStart": 49,
+      "kind": "curiosity",
+      "prompt": "Quantos morreram na mortandade, fora o grupo de Coré?",
+      "answer": "Foram 14.700.",
+      "reference": "Nm 16:49"
+    },
+    {
+      "id": "NUM.17.subject.1",
+      "bookNumber": 40,
+      "chapter": 17,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "O que aconteceu com a vara de Arão?",
+      "answer": "Brotou, floresceu e deu amêndoas.",
+      "reference": "Nm 17:8"
+    },
+    {
+      "id": "NUM.17.place.1",
+      "bookNumber": 40,
+      "chapter": 17,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Onde Moisés colocou as varas dos chefes?",
+      "answer": "Na tenda do testemunho, diante de Deus.",
+      "reference": "Nm 17:7"
+    },
+    {
+      "id": "NUM.17.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 17,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quantas varas os chefes deram a Moisés?",
+      "answer": "Doze.",
+      "reference": "Nm 17:6"
+    },
+    {
+      "id": "NUM.17.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 17,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Para que a vara de Arão ficou guardada na tenda?",
+      "answer": "Como sinal para os filhos rebeldes.",
+      "reference": "Nm 17:10"
+    },
+    {
+      "id": "NUM.18.subject.1",
+      "bookNumber": 40,
+      "chapter": 18,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "Qual era a parte de Arão no meio de Israel?",
+      "answer": "O próprio Deus, e não um terreno.",
+      "reference": "Nm 18:20"
+    },
+    {
+      "id": "NUM.18.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 18,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "O que os levitas separavam dos dízimos recebidos, em Números?",
+      "answer": "Um décimo, oferecido a Deus.",
+      "reference": "Nm 18:26"
+    },
+    {
+      "id": "NUM.18.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 18,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Que tipo de aliança ligava as ofertas a Arão?",
+      "answer": "Uma aliança de sal, para sempre.",
+      "reference": "Nm 18:19"
+    },
+    {
+      "id": "NUM.18.curiosity.3",
+      "bookNumber": 40,
+      "chapter": 18,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "O que os filhos de Levi recebiam por herança?",
+      "answer": "Os dízimos de Israel, pelo serviço da tenda.",
+      "reference": "Nm 18:21"
+    },
+    {
+      "id": "NUM.19.subject.1",
+      "bookNumber": 40,
+      "chapter": 19,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Para que Israel guardava as cinzas da vaca?",
+      "answer": "Para a água da purificação.",
+      "reference": "Nm 19:9"
+    },
+    {
+      "id": "NUM.19.name.1",
+      "bookNumber": 40,
+      "chapter": 19,
+      "verseStart": 2,
+      "verseEnd": 3,
+      "kind": "name",
+      "prompt": "Quem levava a novilha vermelha para fora e a fazia matar, em Números?",
+      "answer": "O sacerdote Eleazar.",
+      "reference": "Nm 19:2-3"
+    },
+    {
+      "id": "NUM.19.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 19,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que jogavam no fogo em que a vaca ardia, em Números?",
+      "answer": "Madeira de cedro, hissopo e pano escarlate.",
+      "reference": "Nm 19:6"
+    },
+    {
+      "id": "NUM.19.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 19,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Por quantos dias ficava impuro quem tocasse um morto, em Números?",
+      "answer": "Sete dias.",
+      "reference": "Nm 19:11"
+    },
+    {
+      "id": "NUM.20.subject.1",
+      "bookNumber": 40,
+      "chapter": 20,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Por que Moisés e Arão não levariam o povo à terra?",
+      "answer": "Porque não confiaram em Deus nem o honraram diante de Israel.",
+      "reference": "Nm 20:12"
+    },
+    {
+      "id": "NUM.20.name.1",
+      "bookNumber": 40,
+      "chapter": 20,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem morreu e foi sepultada em Cades?",
+      "answer": "Miriã.",
+      "reference": "Nm 20:1"
+    },
+    {
+      "id": "NUM.20.place.1",
+      "bookNumber": 40,
+      "chapter": 20,
+      "verseStart": 27,
+      "verseEnd": 28,
+      "kind": "place",
+      "prompt": "Onde Arão morreu, à vista da congregação?",
+      "answer": "No cume do monte Hor.",
+      "reference": "Nm 20:27-28"
+    },
+    {
+      "id": "NUM.20.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 20,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Quantas vezes Moisés bateu na rocha em Cades?",
+      "answer": "Duas vezes, e saiu muita água.",
+      "reference": "Nm 20:11"
+    },
+    {
+      "id": "NUM.20.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 20,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "O que Edom respondeu ao pedido de passagem?",
+      "answer": "Negou a travessia e ameaçou sair armado.",
+      "reference": "Nm 20:18"
+    },
+    {
+      "id": "NUM.21.subject.1",
+      "bookNumber": 40,
+      "chapter": 21,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que fazia viver quem uma serpente mordia, em Números?",
+      "answer": "Olhar para a cobra de bronze feita por Moisés.",
+      "reference": "Nm 21:9"
+    },
+    {
+      "id": "NUM.21.name.1",
+      "bookNumber": 40,
+      "chapter": 21,
+      "verseStart": 33,
+      "kind": "name",
+      "prompt": "Quem era o rei de Basã que lutou em Edrei?",
+      "answer": "Ogue.",
+      "reference": "Nm 21:33"
+    },
+    {
+      "id": "NUM.21.name.2",
+      "bookNumber": 40,
+      "chapter": 21,
+      "verseStart": 26,
+      "kind": "name",
+      "prompt": "De quem Hesbom era a cidade?",
+      "answer": "De Seom, rei dos amorreus.",
+      "reference": "Nm 21:26"
+    },
+    {
+      "id": "NUM.21.place.1",
+      "bookNumber": 40,
+      "chapter": 21,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Qual nome ganhou o lugar dos cananeus destruídos, em Números?",
+      "answer": "Hormá.",
+      "reference": "Nm 21:3"
+    },
+    {
+      "id": "NUM.21.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 21,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que Deus enviou para morder o povo, em Números?",
+      "answer": "Serpentes ardentes, e muitos morreram.",
+      "reference": "Nm 21:6"
+    },
+    {
+      "id": "NUM.22.subject.1",
+      "bookNumber": 40,
+      "chapter": 22,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "Quem falou com Balaão depois de três pancadas?",
+      "answer": "A jumenta dele.",
+      "reference": "Nm 22:28"
+    },
+    {
+      "id": "NUM.22.name.1",
+      "bookNumber": 40,
+      "chapter": 22,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Quem foi chamado em Petor, junto ao rio?",
+      "answer": "Balaão, filho de Beor.",
+      "reference": "Nm 22:5"
+    },
+    {
+      "id": "NUM.22.place.1",
+      "bookNumber": 40,
+      "chapter": 22,
+      "verseStart": 41,
+      "kind": "place",
+      "prompt": "De onde Balaque mostrou a Balaão a ponta do povo?",
+      "answer": "Dos lugares altos de Baal.",
+      "reference": "Nm 22:41"
+    },
+    {
+      "id": "NUM.22.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 22,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "O que a jumenta viu no caminho, de espada na mão, em Números?",
+      "answer": "O anjo de Deus.",
+      "reference": "Nm 22:23"
+    },
+    {
+      "id": "NUM.23.subject.1",
+      "bookNumber": 40,
+      "chapter": 23,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que Balaão proferiu sobre os inimigos de Balaque?",
+      "answer": "Bênçãos, em vez de maldição.",
+      "reference": "Nm 23:11"
+    },
+    {
+      "id": "NUM.23.place.1",
+      "bookNumber": 40,
+      "chapter": 23,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Aonde Balaque levou Balaão na segunda tentativa?",
+      "answer": "Ao cume de Pisga, no campo de Zofim.",
+      "reference": "Nm 23:14"
+    },
+    {
+      "id": "NUM.23.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 23,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Quantos altares Balaão pediu que Balaque fizesse?",
+      "answer": "Sete, com sete bezerros e sete carneiros.",
+      "reference": "Nm 23:1"
+    },
+    {
+      "id": "NUM.23.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 23,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que Balaão disse sobre Deus mentir ou mudar?",
+      "answer": "Deus não mente nem volta atrás, pois não é um homem.",
+      "reference": "Nm 23:19"
+    },
+    {
+      "id": "NUM.24.subject.1",
+      "bookNumber": 40,
+      "chapter": 24,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "O que Balaão disse que sairia de Jacó?",
+      "answer": "Uma estrela, e também um cetro vindo de Israel.",
+      "reference": "Nm 24:17"
+    },
+    {
+      "id": "NUM.24.name.1",
+      "bookNumber": 40,
+      "chapter": 24,
+      "verseStart": 10,
+      "kind": "name",
+      "prompt": "Quem ficou irado com a terceira bênção de Balaão?",
+      "answer": "Balaque.",
+      "reference": "Nm 24:10"
+    },
+    {
+      "id": "NUM.24.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 24,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "O que Balaão declarou sobre abençoar e amaldiçoar?",
+      "answer": "Quem abençoasse seria bendito; quem amaldiçoasse, maldito.",
+      "reference": "Nm 24:9"
+    },
+    {
+      "id": "NUM.25.subject.1",
+      "bookNumber": 40,
+      "chapter": 25,
+      "verseStart": 7,
+      "verseEnd": 8,
+      "kind": "subject",
+      "prompt": "Como Fineias fez cessar a mortandade em Israel?",
+      "answer": "Atravessou com uma lança o homem e a midianita.",
+      "reference": "Nm 25:7-8"
+    },
+    {
+      "id": "NUM.25.name.1",
+      "bookNumber": 40,
+      "chapter": 25,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quem era o israelita morto junto da midianita, em Números?",
+      "answer": "Zinri, filho de Salu, de Simeão.",
+      "reference": "Nm 25:14"
+    },
+    {
+      "id": "NUM.25.name.2",
+      "bookNumber": 40,
+      "chapter": 25,
+      "verseStart": 15,
+      "kind": "name",
+      "prompt": "Quem era a midianita que Fineias matou junto de Zinri?",
+      "answer": "Cosbi, filha de Zur.",
+      "reference": "Nm 25:15"
+    },
+    {
+      "id": "NUM.25.place.1",
+      "bookNumber": 40,
+      "chapter": 25,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Israel se envolveu com as filhas de Moabe?",
+      "answer": "Em Sitim.",
+      "reference": "Nm 25:1"
+    },
+    {
+      "id": "NUM.25.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 25,
+      "verseStart": 3,
+      "verseEnd": 9,
+      "kind": "curiosity",
+      "prompt": "Quantos morreram na praga de Baal-Peor, segundo Moisés?",
+      "answer": "Vinte e quatro mil.",
+      "reference": "Nm 25:3-9"
+    },
+    {
+      "id": "NUM.26.subject.1",
+      "bookNumber": 40,
+      "chapter": 26,
+      "verseStart": 51,
+      "kind": "subject",
+      "prompt": "Qual foi o total da contagem de Israel em Moabe?",
+      "answer": "O total foi 601.730.",
+      "reference": "Nm 26:51"
+    },
+    {
+      "id": "NUM.26.name.1",
+      "bookNumber": 40,
+      "chapter": 26,
+      "verseStart": 64,
+      "verseEnd": 65,
+      "kind": "name",
+      "prompt": "Quem sobrou dos contados no deserto do Sinai?",
+      "answer": "Só Calebe e Josué.",
+      "reference": "Nm 26:64-65"
+    },
+    {
+      "id": "NUM.26.place.1",
+      "bookNumber": 40,
+      "chapter": 26,
+      "verseStart": 63,
+      "kind": "place",
+      "prompt": "Onde Moisés e Eleazar contaram os filhos de Israel?",
+      "answer": "Nas planícies de Moabe, perto de Jericó.",
+      "reference": "Nm 26:63"
+    },
+    {
+      "id": "NUM.26.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 26,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que houve com os filhos de Coré?",
+      "answer": "Eles não morreram.",
+      "reference": "Nm 26:11"
+    },
+    {
+      "id": "NUM.27.subject.1",
+      "bookNumber": 40,
+      "chapter": 27,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "Quem Deus mandou Moisés tomar como sucessor?",
+      "answer": "Josué, filho de Num.",
+      "reference": "Nm 27:18"
+    },
+    {
+      "id": "NUM.27.name.1",
+      "bookNumber": 40,
+      "chapter": 27,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Quem tinha razão ao pedir a herança do pai, em Números?",
+      "answer": "As filhas de Zelofeade.",
+      "reference": "Nm 27:7"
+    },
+    {
+      "id": "NUM.27.place.1",
+      "bookNumber": 40,
+      "chapter": 27,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "De que monte Moisés veria a terra antes de nomear Josué?",
+      "answer": "Do monte Abarim.",
+      "reference": "Nm 27:12"
+    },
+    {
+      "id": "NUM.27.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 27,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Quem herdava primeiro se o homem morresse sem filho, em Números?",
+      "answer": "A filha dele.",
+      "reference": "Nm 27:8"
+    },
+    {
+      "id": "NUM.28.subject.1",
+      "bookNumber": 40,
+      "chapter": 28,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Qual era o holocausto contínuo de cada dia, em Números?",
+      "answer": "Dois cordeiros de um ano, sem defeito.",
+      "reference": "Nm 28:3"
+    },
+    {
+      "id": "NUM.28.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 28,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "O que se acrescentava ao sacrifício no sábado, em Números?",
+      "answer": "Mais dois cordeiros.",
+      "reference": "Nm 28:9"
+    },
+    {
+      "id": "NUM.28.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 28,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Quando era a Páscoa no mês primeiro?",
+      "answer": "No dia catorze.",
+      "reference": "Nm 28:16"
+    },
+    {
+      "id": "NUM.28.curiosity.3",
+      "bookNumber": 40,
+      "chapter": 28,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "O que não se fazia no dia das primícias, em Números?",
+      "answer": "Trabalho de servo. Havia reunião santa.",
+      "reference": "Nm 28:26"
+    },
+    {
+      "id": "NUM.29.subject.1",
+      "bookNumber": 40,
+      "chapter": 29,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que havia no dia dez do sétimo mês, em Números?",
+      "answer": "Reunião santa, alma afligida e nenhum trabalho.",
+      "reference": "Nm 29:7"
+    },
+    {
+      "id": "NUM.29.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 29,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "O que marcava o primeiro dia do sétimo mês, em Números?",
+      "answer": "O toque das trombetas, sem trabalho de servo.",
+      "reference": "Nm 29:1"
+    },
+    {
+      "id": "NUM.29.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 29,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Quando começava a festa de sete dias do sétimo mês, em Números?",
+      "answer": "No dia quinze.",
+      "reference": "Nm 29:12"
+    },
+    {
+      "id": "NUM.29.curiosity.3",
+      "bookNumber": 40,
+      "chapter": 29,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Quantos bezerros Moisés mandou oferecer no primeiro dia das cabanas?",
+      "answer": "Treze.",
+      "reference": "Nm 29:13"
+    },
+    {
+      "id": "NUM.30.subject.1",
+      "bookNumber": 40,
+      "chapter": 30,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que ocorria se o pai vedasse o voto da filha no dia, em Números?",
+      "answer": "O voto não valia, e Deus a perdoava.",
+      "reference": "Nm 30:5"
+    },
+    {
+      "id": "NUM.30.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 30,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "O que valia o voto da viúva ou da divorciada, em Números?",
+      "answer": "Ficava firme.",
+      "reference": "Nm 30:9"
+    },
+    {
+      "id": "NUM.30.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 30,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quem levava a culpa se anulasse o voto depois de ouvi-lo, em Números?",
+      "answer": "O marido.",
+      "reference": "Nm 30:15"
+    },
+    {
+      "id": "NUM.30.curiosity.3",
+      "bookNumber": 40,
+      "chapter": 30,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que o homem devia fazer com o voto feito a Deus, em Números?",
+      "answer": "Cumprir a própria palavra, sem quebrá-la.",
+      "reference": "Nm 30:2"
+    },
+    {
+      "id": "NUM.31.subject.1",
+      "bookNumber": 40,
+      "chapter": 31,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que Israel fez na vingança de Deus contra Midiã?",
+      "answer": "Guerreou e matou todos os homens.",
+      "reference": "Nm 31:7"
+    },
+    {
+      "id": "NUM.31.name.1",
+      "bookNumber": 40,
+      "chapter": 31,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Quem foi morto à espada com os cinco reis de Midiã?",
+      "answer": "Balaão, filho de Beor.",
+      "reference": "Nm 31:8"
+    },
+    {
+      "id": "NUM.31.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 31,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Quantos homens Israel separou para a guerra contra Midiã?",
+      "answer": "Doze mil, mil de cada tribo.",
+      "reference": "Nm 31:5"
+    },
+    {
+      "id": "NUM.31.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 31,
+      "verseStart": 49,
+      "kind": "curiosity",
+      "prompt": "Quantos homens faltaram na volta da guerra contra Midiã?",
+      "answer": "Não faltou nenhum.",
+      "reference": "Nm 31:49"
+    },
+    {
+      "id": "NUM.32.subject.1",
+      "bookNumber": 40,
+      "chapter": 32,
+      "verseStart": 2,
+      "verseEnd": 5,
+      "kind": "subject",
+      "prompt": "O que Gade e Rúben pediram a Moisés?",
+      "answer": "A terra de gado, em herança, sem cruzar o Jordão.",
+      "reference": "Nm 32:2-5"
+    },
+    {
+      "id": "NUM.32.name.1",
+      "bookNumber": 40,
+      "chapter": 32,
+      "verseStart": 41,
+      "kind": "name",
+      "prompt": "Quem deu o próprio nome às aldeias que tomou, em Números?",
+      "answer": "Jair, filho de Manassés.",
+      "reference": "Nm 32:41"
+    },
+    {
+      "id": "NUM.32.place.1",
+      "bookNumber": 40,
+      "chapter": 32,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Que terra Rúben e Gade acharam boa para o gado?",
+      "answer": "Jazer e Gileade.",
+      "reference": "Nm 32:1"
+    },
+    {
+      "id": "NUM.32.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 32,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que Gade e Rúben prometeram antes de se instalar?",
+      "answer": "Ir armados na frente, até os irmãos receberem o lugar.",
+      "reference": "Nm 32:17"
+    },
+    {
+      "id": "NUM.32.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 32,
+      "verseStart": 33,
+      "kind": "curiosity",
+      "prompt": "Quem, com Rúben e Gade, recebeu os reinos de Seom e Ogue?",
+      "answer": "A metade de Manassés.",
+      "reference": "Nm 32:33"
+    },
+    {
+      "id": "NUM.33.subject.1",
+      "bookNumber": 40,
+      "chapter": 33,
+      "verseStart": 1,
+      "verseEnd": 2,
+      "kind": "subject",
+      "prompt": "Quem escreveu a lista das marchas de Israel desde o Egito?",
+      "answer": "Moisés.",
+      "reference": "Nm 33:1-2"
+    },
+    {
+      "id": "NUM.33.place.1",
+      "bookNumber": 40,
+      "chapter": 33,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "De onde Israel saiu no dia seguinte à Páscoa?",
+      "answer": "De Ramessés.",
+      "reference": "Nm 33:3"
+    },
+    {
+      "id": "NUM.33.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 33,
+      "verseStart": 39,
+      "kind": "curiosity",
+      "prompt": "Com que idade Arão morreu no monte Hor?",
+      "answer": "Aos 123 anos.",
+      "reference": "Nm 33:39"
+    },
+    {
+      "id": "NUM.33.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 33,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "O que havia em Elim, numa parada de Israel?",
+      "answer": "Doze nascentes e setenta palmeiras.",
+      "reference": "Nm 33:9"
+    },
+    {
+      "id": "NUM.33.curiosity.3",
+      "bookNumber": 40,
+      "chapter": 33,
+      "verseStart": 55,
+      "kind": "curiosity",
+      "prompt": "O que Moisés disse que os moradores deixados em Canaã seriam?",
+      "answer": "Aguilhão no olho e espinho no flanco.",
+      "reference": "Nm 33:55"
+    },
+    {
+      "id": "NUM.34.subject.1",
+      "bookNumber": 40,
+      "chapter": 34,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "A quantas tribos Canaã seria dada por sorte?",
+      "answer": "A nove tribos e à metade de outra.",
+      "reference": "Nm 34:13"
+    },
+    {
+      "id": "NUM.34.name.1",
+      "bookNumber": 40,
+      "chapter": 34,
+      "verseStart": 17,
+      "kind": "name",
+      "prompt": "Quem foi encarregado de repartir a terra, em Números?",
+      "answer": "O sacerdote Eleazar e Josué, filho de Num.",
+      "reference": "Nm 34:17"
+    },
+    {
+      "id": "NUM.34.place.1",
+      "bookNumber": 40,
+      "chapter": 34,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "O que marcava o limite oeste da terra, em Números?",
+      "answer": "O mar Grande.",
+      "reference": "Nm 34:6"
+    },
+    {
+      "id": "NUM.34.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 34,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Onde duas tribos e meia já tinham a herança, em Números?",
+      "answer": "A leste do Jordão, na direção de Jericó.",
+      "reference": "Nm 34:15"
+    },
+    {
+      "id": "NUM.35.subject.1",
+      "bookNumber": 40,
+      "chapter": 35,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Para que serviam as cidades de refúgio, em Números?",
+      "answer": "Para abrigar quem matasse alguém sem querer.",
+      "reference": "Nm 35:11"
+    },
+    {
+      "id": "NUM.35.place.1",
+      "bookNumber": 40,
+      "chapter": 35,
+      "verseStart": 13,
+      "verseEnd": 14,
+      "kind": "place",
+      "prompt": "Onde ficavam as seis cidades de refúgio, em Números?",
+      "answer": "Três além do Jordão e três em Canaã.",
+      "reference": "Nm 35:13-14"
+    },
+    {
+      "id": "NUM.35.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 35,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Quantas cidades os levitas receberiam, com os campos, em Números?",
+      "answer": "Quarenta e oito.",
+      "reference": "Nm 35:7"
+    },
+    {
+      "id": "NUM.35.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 35,
+      "verseStart": 28,
+      "kind": "curiosity",
+      "prompt": "Até quando o homicida sem querer ficava no refúgio, em Números?",
+      "answer": "Até morrer quem era o sumo sacerdote.",
+      "reference": "Nm 35:28"
+    },
+    {
+      "id": "NUM.36.subject.1",
+      "bookNumber": 40,
+      "chapter": 36,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Com quem as filhas de Zelofeade deviam casar?",
+      "answer": "Com quem quisessem, dentro da tribo do pai.",
+      "reference": "Nm 36:6"
+    },
+    {
+      "id": "NUM.36.name.1",
+      "bookNumber": 40,
+      "chapter": 36,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem eram as filhas de Zelofeade que casaram?",
+      "answer": "Maalá, Tirsa, Hogla, Milca e Noa.",
+      "reference": "Nm 36:11"
+    },
+    {
+      "id": "NUM.36.place.1",
+      "bookNumber": 40,
+      "chapter": 36,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Onde Moisés deu a Israel a lei sobre as herdeiras?",
+      "answer": "Nas planícies de Moabe, perto de Jericó.",
+      "reference": "Nm 36:13"
+    },
+    {
+      "id": "NUM.36.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 36,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Onde ficou a herança das filhas de Zelofeade?",
+      "answer": "Em Manassés, no clã do pai delas.",
+      "reference": "Nm 36:12"
+    },
+    {
+      "id": "NUM.0.curiosity.1",
+      "bookNumber": 40,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Números?",
+      "answer": "Moisés.",
+      "reference": "Números"
+    },
+    {
+      "id": "NUM.0.curiosity.2",
+      "bookNumber": 40,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Números?",
+      "answer": "No século XV antes de Cristo.",
+      "reference": "Números"
+    }
+  ]
+}

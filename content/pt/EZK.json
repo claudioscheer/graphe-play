@@ -1,0 +1,1836 @@
+{
+  "cards": [
+    {
+      "id": "EZK.1.subject.1",
+      "bookNumber": 330,
+      "chapter": 1,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Como eram as rodas na visão de Ezequiel?",
+      "answer": "Cada uma parecia uma roda dentro da outra.",
+      "reference": "Ez 1:16"
+    },
+    {
+      "id": "EZK.1.name.1",
+      "bookNumber": 330,
+      "chapter": 1,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Quem era o sacerdote filho de Buzi?",
+      "answer": "Ezequiel, na terra dos caldeus.",
+      "reference": "Ez 1:3"
+    },
+    {
+      "id": "EZK.1.place.1",
+      "bookNumber": 330,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Ezequiel estava quando os céus se abriram?",
+      "answer": "Junto ao rio Quebar, entre os exilados.",
+      "reference": "Ez 1:1"
+    },
+    {
+      "id": "EZK.1.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 1,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Quais rostos tinha cada ser vivo da visão, em Ezequiel?",
+      "answer": "De homem, de leão, de boi e de águia.",
+      "reference": "Ez 1:10"
+    },
+    {
+      "id": "EZK.2.subject.1",
+      "bookNumber": 330,
+      "chapter": 2,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que estava escrito no rolo dado a Ezequiel?",
+      "answer": "Lamentos, suspiros e ais, dos dois lados.",
+      "reference": "Ez 2:10"
+    },
+    {
+      "id": "EZK.2.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 2,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Entre o que Ezequiel ficaria ao falar a Israel?",
+      "answer": "Entre sarças, espinheiros e escorpiões.",
+      "reference": "Ez 2:6"
+    },
+    {
+      "id": "EZK.3.subject.1",
+      "bookNumber": 330,
+      "chapter": 3,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Que gosto tinha o rolo que Ezequiel comeu?",
+      "answer": "Era doce como mel na boca dele.",
+      "reference": "Ez 3:3"
+    },
+    {
+      "id": "EZK.3.place.1",
+      "bookNumber": 330,
+      "chapter": 3,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "A que povoado Ezequiel chegou junto ao rio Quebar?",
+      "answer": "A Tel-Abibe, onde ficavam os exilados.",
+      "reference": "Ez 3:15"
+    },
+    {
+      "id": "EZK.3.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 3,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quantos dias Ezequiel ficou atônito entre os exilados?",
+      "answer": "Sete dias.",
+      "reference": "Ez 3:15"
+    },
+    {
+      "id": "EZK.3.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 3,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Como Deus deixou a testa de Ezequiel?",
+      "answer": "Dura como diamante, mais que a pederneira.",
+      "reference": "Ez 3:9"
+    },
+    {
+      "id": "EZK.4.subject.1",
+      "bookNumber": 330,
+      "chapter": 4,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que Ezequiel desenhou num tijolo?",
+      "answer": "A cidade de Jerusalém.",
+      "reference": "Ez 4:1"
+    },
+    {
+      "id": "EZK.4.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 4,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Quantos dias correspondiam à maldade de Israel?",
+      "answer": "Trezentos e noventa dias.",
+      "reference": "Ez 4:5"
+    },
+    {
+      "id": "EZK.4.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 4,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quantos dias correspondiam à maldade de Judá?",
+      "answer": "Quarenta dias, um dia para cada ano.",
+      "reference": "Ez 4:6"
+    },
+    {
+      "id": "EZK.4.curiosity.3",
+      "bookNumber": 330,
+      "chapter": 4,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Com o que Ezequiel devia preparar o pão do cerco?",
+      "answer": "Com esterco de vaca, e não com o de gente.",
+      "reference": "Ez 4:15"
+    },
+    {
+      "id": "EZK.5.subject.1",
+      "bookNumber": 330,
+      "chapter": 5,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Como Ezequiel devia cortar o cabelo e a barba?",
+      "answer": "Com uma espada afiada, usada como navalha.",
+      "reference": "Ez 5:1"
+    },
+    {
+      "id": "EZK.5.place.1",
+      "bookNumber": 330,
+      "chapter": 5,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Que cidade Deus pôs no meio das nações, em Ezequiel?",
+      "answer": "Jerusalém.",
+      "reference": "Ez 5:5"
+    },
+    {
+      "id": "EZK.5.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 5,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que Ezequiel devia fazer com as três partes do cabelo?",
+      "answer": "Queimar uma, ferir outra e espalhar a última ao vento.",
+      "reference": "Ez 5:2"
+    },
+    {
+      "id": "EZK.5.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 5,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Onde Ezequiel guardou alguns fios de cabelo?",
+      "answer": "Nas bordas da roupa.",
+      "reference": "Ez 5:3"
+    },
+    {
+      "id": "EZK.6.subject.1",
+      "bookNumber": 330,
+      "chapter": 6,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que Deus espalharia ao redor dos altares de Israel?",
+      "answer": "Os ossos dos mortos, diante dos ídolos.",
+      "reference": "Ez 6:5"
+    },
+    {
+      "id": "EZK.6.place.1",
+      "bookNumber": 330,
+      "chapter": 6,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde Ezequiel devia anunciar o juízo?",
+      "answer": "Nos montes de Israel.",
+      "reference": "Ez 6:2"
+    },
+    {
+      "id": "EZK.6.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 6,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Que gesto Ezequiel devia fazer ao anunciar o ai?",
+      "answer": "Bater a mão e pisar o pé.",
+      "reference": "Ez 6:11"
+    },
+    {
+      "id": "EZK.7.subject.1",
+      "bookNumber": 330,
+      "chapter": 7,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que Ezequiel anunciou à terra de Israel?",
+      "answer": "Que o fim vinha sobre os quatro cantos.",
+      "reference": "Ez 7:2"
+    },
+    {
+      "id": "EZK.7.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 7,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que Israel jogaria nas ruas no dia da ira, em Ezequiel?",
+      "answer": "A prata nas ruas; o ouro também não livraria.",
+      "reference": "Ez 7:19"
+    },
+    {
+      "id": "EZK.7.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 7,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Por que ninguém ia à batalha, mesmo com a trombeta, em Ezequiel?",
+      "answer": "Porque a ira de Deus estava sobre todo o povo.",
+      "reference": "Ez 7:14"
+    },
+    {
+      "id": "EZK.8.subject.1",
+      "bookNumber": 330,
+      "chapter": 8,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Para onde Ezequiel foi levado pelos cabelos?",
+      "answer": "A Jerusalém, ao lugar da imagem que provoca ciúme.",
+      "reference": "Ez 8:3"
+    },
+    {
+      "id": "EZK.8.name.1",
+      "bookNumber": 330,
+      "chapter": 8,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem estava no meio dos anciãos de Israel?",
+      "answer": "Jazanias, filho de Safã.",
+      "reference": "Ez 8:11"
+    },
+    {
+      "id": "EZK.8.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 8,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Por quem choravam as mulheres à porta do templo, em Ezequiel?",
+      "answer": "Por Tamuz.",
+      "reference": "Ez 8:14"
+    },
+    {
+      "id": "EZK.8.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 8,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que faziam os homens de costas para o templo, em Ezequiel?",
+      "answer": "Adoravam o sol, virados para o leste.",
+      "reference": "Ez 8:16"
+    },
+    {
+      "id": "EZK.9.subject.1",
+      "bookNumber": 330,
+      "chapter": 9,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Em quem foi posto um sinal na testa em Jerusalém?",
+      "answer": "Nos homens que gemiam por causa das abominações.",
+      "reference": "Ez 9:4"
+    },
+    {
+      "id": "EZK.9.place.1",
+      "bookNumber": 330,
+      "chapter": 9,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Onde começou a matança em Jerusalém?",
+      "answer": "No santuário, pelos anciãos que estavam ali.",
+      "reference": "Ez 9:6"
+    },
+    {
+      "id": "EZK.9.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 9,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quantos homens armados Ezequiel viu chegar?",
+      "answer": "Seis, e um deles trazia estojo de escriba.",
+      "reference": "Ez 9:2"
+    },
+    {
+      "id": "EZK.10.subject.1",
+      "bookNumber": 330,
+      "chapter": 10,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que o homem de linho devia espalhar na cidade, em Ezequiel?",
+      "answer": "Brasas acesas tiradas de entre os querubins.",
+      "reference": "Ez 10:2"
+    },
+    {
+      "id": "EZK.10.place.1",
+      "bookNumber": 330,
+      "chapter": 10,
+      "verseStart": 19,
+      "kind": "place",
+      "prompt": "Onde parou a glória de Deus ao sair do templo, em Ezequiel?",
+      "answer": "Na porta leste da casa de Deus.",
+      "reference": "Ez 10:19"
+    },
+    {
+      "id": "EZK.10.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 10,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Quais eram os quatro rostos de cada querubim, em Ezequiel?",
+      "answer": "De querubim, de homem, de leão e de águia.",
+      "reference": "Ez 10:14"
+    },
+    {
+      "id": "EZK.10.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 10,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Quem eram os seres que Ezequiel vira no rio Quebar?",
+      "answer": "Eram querubins.",
+      "reference": "Ez 10:20"
+    },
+    {
+      "id": "EZK.11.subject.1",
+      "bookNumber": 330,
+      "chapter": 11,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Quem era a carne na caldeira de Jerusalém?",
+      "answer": "Os mortos deixados no meio da cidade.",
+      "reference": "Ez 11:7"
+    },
+    {
+      "id": "EZK.11.name.1",
+      "bookNumber": 330,
+      "chapter": 11,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "Quem morreu enquanto Ezequiel profetizava?",
+      "answer": "Pelatias, filho de Benaías.",
+      "reference": "Ez 11:13"
+    },
+    {
+      "id": "EZK.11.place.1",
+      "bookNumber": 330,
+      "chapter": 11,
+      "verseStart": 23,
+      "kind": "place",
+      "prompt": "Para onde subiu a glória de Deus ao deixar a cidade, em Ezequiel?",
+      "answer": "Para o monte que fica a leste da cidade.",
+      "reference": "Ez 11:23"
+    },
+    {
+      "id": "EZK.11.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 11,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Que coração Deus daria no lugar do de pedra, em Ezequiel?",
+      "answer": "Um coração de carne.",
+      "reference": "Ez 11:19"
+    },
+    {
+      "id": "EZK.12.subject.1",
+      "bookNumber": 330,
+      "chapter": 12,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Como Ezequiel devia sair, como sinal a Israel?",
+      "answer": "Ao anoitecer, com a carga no ombro e o rosto coberto.",
+      "reference": "Ez 12:6"
+    },
+    {
+      "id": "EZK.12.place.1",
+      "bookNumber": 330,
+      "chapter": 12,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Para onde o príncipe de Jerusalém seria levado?",
+      "answer": "Para a Babilônia, onde morreria sem vê-la.",
+      "reference": "Ez 12:13"
+    },
+    {
+      "id": "EZK.12.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 12,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Como os moradores de Jerusalém comeriam o pão?",
+      "answer": "Com ansiedade, e beberiam a água com espanto.",
+      "reference": "Ez 12:19"
+    },
+    {
+      "id": "EZK.13.subject.1",
+      "bookNumber": 330,
+      "chapter": 13,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "Com o que os falsos profetas cobriam a parede, em Ezequiel?",
+      "answer": "Com cal solta, por cima da parede.",
+      "reference": "Ez 13:10"
+    },
+    {
+      "id": "EZK.13.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 13,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "A que bichos Deus comparou os profetas de Israel, em Ezequiel?",
+      "answer": "A raposas no deserto.",
+      "reference": "Ez 13:4"
+    },
+    {
+      "id": "EZK.13.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 13,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "O que as profetisas costuravam para caçar gente, em Ezequiel?",
+      "answer": "Almofadas de pulso e lenços para a cabeça.",
+      "reference": "Ez 13:18"
+    },
+    {
+      "id": "EZK.14.subject.1",
+      "bookNumber": 330,
+      "chapter": 14,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Quem salvaria só a si numa terra condenada, em Ezequiel?",
+      "answer": "Noé, Daniel e Jó.",
+      "reference": "Ez 14:14"
+    },
+    {
+      "id": "EZK.14.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 14,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "Quais quatro males Deus mandaria a Jerusalém?",
+      "answer": "Espada, fome, bichos perigosos e peste.",
+      "reference": "Ez 14:21"
+    },
+    {
+      "id": "EZK.14.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 14,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "O que os anciãos de Israel tinham no coração?",
+      "answer": "Ídolos que eles mesmos tinham erguido.",
+      "reference": "Ez 14:3"
+    },
+    {
+      "id": "EZK.15.subject.1",
+      "bookNumber": 330,
+      "chapter": 15,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "A que Deus comparou os moradores de Jerusalém?",
+      "answer": "À madeira da videira, entregue ao fogo.",
+      "reference": "Ez 15:6"
+    },
+    {
+      "id": "EZK.15.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 15,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Para que presta a madeira da videira, em Ezequiel?",
+      "answer": "Não presta para obra nenhuma; vai para o fogo.",
+      "reference": "Ez 15:4"
+    },
+    {
+      "id": "EZK.16.subject.1",
+      "bookNumber": 330,
+      "chapter": 16,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que fizeram com Jerusalém no dia em que nasceu?",
+      "answer": "Largaram-na no campo, e ninguém cuidou dela.",
+      "reference": "Ez 16:5"
+    },
+    {
+      "id": "EZK.16.place.1",
+      "bookNumber": 330,
+      "chapter": 16,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "De onde a parábola diz que Jerusalém veio?",
+      "answer": "Da terra de Canaã, de pai amorreu e mãe heteia.",
+      "reference": "Ez 16:3"
+    },
+    {
+      "id": "EZK.16.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 16,
+      "verseStart": 46,
+      "kind": "curiosity",
+      "prompt": "Quem eram as irmãs de Jerusalém na parábola?",
+      "answer": "Samaria, a mais velha, e Sodoma, a mais nova.",
+      "reference": "Ez 16:46"
+    },
+    {
+      "id": "EZK.16.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 16,
+      "verseStart": 60,
+      "kind": "curiosity",
+      "prompt": "Que aliança Deus prometeu fazer com Jerusalém?",
+      "answer": "Uma aliança eterna.",
+      "reference": "Ez 16:60"
+    },
+    {
+      "id": "EZK.17.subject.1",
+      "bookNumber": 330,
+      "chapter": 17,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que a grande águia tomou no Líbano?",
+      "answer": "O galho mais alto de um cedro.",
+      "reference": "Ez 17:3"
+    },
+    {
+      "id": "EZK.17.place.1",
+      "bookNumber": 330,
+      "chapter": 17,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Para onde o rei da Babilônia levou o rei de Jerusalém?",
+      "answer": "Para a Babilônia, com os príncipes dele.",
+      "reference": "Ez 17:12"
+    },
+    {
+      "id": "EZK.17.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 17,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "A quem o rei rebelde pediu cavalos e tropas, em Ezequiel?",
+      "answer": "Ao Egito.",
+      "reference": "Ez 17:15"
+    },
+    {
+      "id": "EZK.17.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 17,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "O que Deus plantaria do cedro alto, em Ezequiel?",
+      "answer": "O broto mais tenro, num monte alto.",
+      "reference": "Ez 17:22"
+    },
+    {
+      "id": "EZK.18.subject.1",
+      "bookNumber": 330,
+      "chapter": 18,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "Quem morre por causa do próprio pecado, em Ezequiel?",
+      "answer": "Quem peca, e não o pai ou o filho no lugar dele.",
+      "reference": "Ez 18:20"
+    },
+    {
+      "id": "EZK.18.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 18,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Qual provérbio o povo dizia em Israel?",
+      "answer": "Os pais comiam uvas azedas, e os filhos sofriam.",
+      "reference": "Ez 18:2"
+    },
+    {
+      "id": "EZK.18.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 18,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "O que Deus prefere à morte do injusto, em Ezequiel?",
+      "answer": "Que ele mude de caminho e viva.",
+      "reference": "Ez 18:23"
+    },
+    {
+      "id": "EZK.19.subject.1",
+      "bookNumber": 330,
+      "chapter": 19,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "A que a mãe dos príncipes de Israel foi comparada?",
+      "answer": "A uma leoa, deitada no meio dos leões.",
+      "reference": "Ez 19:2"
+    },
+    {
+      "id": "EZK.19.place.1",
+      "bookNumber": 330,
+      "chapter": 19,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "Para onde levaram o primeiro filhote da leoa, em Ezequiel?",
+      "answer": "Para o Egito, trazido com ganchos.",
+      "reference": "Ez 19:4"
+    },
+    {
+      "id": "EZK.19.place.2",
+      "bookNumber": 330,
+      "chapter": 19,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Para onde levaram o segundo leãozinho, em Ezequiel?",
+      "answer": "Ao rei da Babilônia, fechado numa fortaleza.",
+      "reference": "Ez 19:9"
+    },
+    {
+      "id": "EZK.19.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 19,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "A que planta a mãe dos príncipes também se parecia, em Ezequiel?",
+      "answer": "A uma videira plantada junto da água.",
+      "reference": "Ez 19:10"
+    },
+    {
+      "id": "EZK.20.subject.1",
+      "bookNumber": 330,
+      "chapter": 20,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "Para que serviam os sábados dados a Israel?",
+      "answer": "De sinal entre Deus e o povo.",
+      "reference": "Ez 20:12"
+    },
+    {
+      "id": "EZK.20.place.1",
+      "bookNumber": 330,
+      "chapter": 20,
+      "verseStart": 35,
+      "kind": "place",
+      "prompt": "Onde Deus disse que julgaria Israel face a face?",
+      "answer": "No deserto dos povos.",
+      "reference": "Ez 20:35"
+    },
+    {
+      "id": "EZK.20.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 20,
+      "verseStart": 29,
+      "kind": "curiosity",
+      "prompt": "Que nome ficou no alto onde Israel sacrificava?",
+      "answer": "Bamá.",
+      "reference": "Ez 20:29"
+    },
+    {
+      "id": "EZK.20.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 20,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "Quem Israel fazia passar pelo fogo?",
+      "answer": "Todo primogênito.",
+      "reference": "Ez 20:26"
+    },
+    {
+      "id": "EZK.21.subject.1",
+      "bookNumber": 330,
+      "chapter": 21,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que Deus tiraria da bainha contra Israel?",
+      "answer": "A espada, contra o justo e o injusto.",
+      "reference": "Ez 21:3"
+    },
+    {
+      "id": "EZK.21.place.1",
+      "bookNumber": 330,
+      "chapter": 21,
+      "verseStart": 20,
+      "kind": "place",
+      "prompt": "Contra quais cidades ia o caminho da espada, em Ezequiel?",
+      "answer": "Contra Rabá dos amonitas e contra Jerusalém.",
+      "reference": "Ez 21:20"
+    },
+    {
+      "id": "EZK.21.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 21,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "Como o rei da Babilônia tentou escolher o caminho?",
+      "answer": "Com flechas, ídolos e um olhar no fígado.",
+      "reference": "Ez 21:21"
+    },
+    {
+      "id": "EZK.21.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 21,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "O que devia ser tirado do príncipe de Israel?",
+      "answer": "O turbante e a coroa.",
+      "reference": "Ez 21:26"
+    },
+    {
+      "id": "EZK.22.subject.1",
+      "bookNumber": 330,
+      "chapter": 22,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "A que Deus comparou a casa de Israel, em Ezequiel?",
+      "answer": "A escória de prata no meio do forno.",
+      "reference": "Ez 22:18"
+    },
+    {
+      "id": "EZK.22.place.1",
+      "bookNumber": 330,
+      "chapter": 22,
+      "verseStart": 19,
+      "kind": "place",
+      "prompt": "Onde Deus ajuntaria Israel, já tornado escória?",
+      "answer": "No meio de Jerusalém.",
+      "reference": "Ez 22:19"
+    },
+    {
+      "id": "EZK.22.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 22,
+      "verseStart": 30,
+      "kind": "curiosity",
+      "prompt": "Quem Deus achou para ficar na brecha pela terra, em Ezequiel?",
+      "answer": "Ninguém.",
+      "reference": "Ez 22:30"
+    },
+    {
+      "id": "EZK.23.subject.1",
+      "bookNumber": 330,
+      "chapter": 23,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Quem eram as irmãs Oolá e Oolibá?",
+      "answer": "Samaria e Jerusalém.",
+      "reference": "Ez 23:4"
+    },
+    {
+      "id": "EZK.23.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 23,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Por quem Oolá se apaixonou?",
+      "answer": "Pelos assírios, seus vizinhos.",
+      "reference": "Ez 23:5"
+    },
+    {
+      "id": "EZK.23.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 23,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "O que fez Oolibá olhar para os caldeus?",
+      "answer": "Figuras de homens pintadas na parede.",
+      "reference": "Ez 23:14"
+    },
+    {
+      "id": "EZK.23.curiosity.3",
+      "bookNumber": 330,
+      "chapter": 23,
+      "verseStart": 33,
+      "kind": "curiosity",
+      "prompt": "Que cálice Oolibá teria de beber?",
+      "answer": "O cálice de medo e desolação da irmã Samaria.",
+      "reference": "Ez 23:33"
+    },
+    {
+      "id": "EZK.24.subject.1",
+      "bookNumber": 330,
+      "chapter": 24,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que Ezequiel devia pôr com água na parábola?",
+      "answer": "Uma panela com água.",
+      "reference": "Ez 24:3"
+    },
+    {
+      "id": "EZK.24.name.1",
+      "bookNumber": 330,
+      "chapter": 24,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Quem morreu à tarde, depois da fala de Ezequiel?",
+      "answer": "A mulher dele.",
+      "reference": "Ez 24:18"
+    },
+    {
+      "id": "EZK.24.place.1",
+      "bookNumber": 330,
+      "chapter": 24,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "A que cidade o rei da Babilônia chegou no dia anotado por Ezequiel?",
+      "answer": "A Jerusalém.",
+      "reference": "Ez 24:2"
+    },
+    {
+      "id": "EZK.24.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 24,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Como Ezequiel devia reagir ao perder o desejo dos olhos?",
+      "answer": "Sem lamento, sem choro e sem lágrimas.",
+      "reference": "Ez 24:16"
+    },
+    {
+      "id": "EZK.25.subject.1",
+      "bookNumber": 330,
+      "chapter": 25,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que Deus faria com a terra de Amom, em Ezequiel?",
+      "answer": "Entregaria essa terra aos povos do oriente.",
+      "reference": "Ez 25:4"
+    },
+    {
+      "id": "EZK.25.place.1",
+      "bookNumber": 330,
+      "chapter": 25,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Em que a cidade de Rabá seria transformada, em Ezequiel?",
+      "answer": "Em estábulo de camelos.",
+      "reference": "Ez 25:5"
+    },
+    {
+      "id": "EZK.25.place.2",
+      "bookNumber": 330,
+      "chapter": 25,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Quais cidades da fronteira de Moabe seriam atingidas?",
+      "answer": "Bete-Jesimote, Baal-Meom e Quiriataim.",
+      "reference": "Ez 25:9"
+    },
+    {
+      "id": "EZK.25.place.3",
+      "bookNumber": 330,
+      "chapter": 25,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Que regiões de Edom cairiam à espada?",
+      "answer": "Temã e Dedã.",
+      "reference": "Ez 25:13"
+    },
+    {
+      "id": "EZK.25.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 25,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Como Deus retribuiria a vingança dos filisteus, em Ezequiel?",
+      "answer": "Com uma vingança grande e furiosa.",
+      "reference": "Ez 25:17"
+    },
+    {
+      "id": "EZK.26.subject.1",
+      "bookNumber": 330,
+      "chapter": 26,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "O que Ezequiel anunciou sobre o futuro da cidade de Tiro?",
+      "answer": "Que ela nunca mais seria reconstruída.",
+      "reference": "Ez 26:14"
+    },
+    {
+      "id": "EZK.26.name.1",
+      "bookNumber": 330,
+      "chapter": 26,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Que rei viria do norte para atacar Tiro?",
+      "answer": "Nabucodonosor, rei da Babilônia.",
+      "reference": "Ez 26:7"
+    },
+    {
+      "id": "EZK.26.place.1",
+      "bookNumber": 330,
+      "chapter": 26,
+      "verseStart": 12,
+      "kind": "place",
+      "prompt": "Para onde iriam as pedras e a madeira de Tiro?",
+      "answer": "Para o meio das águas.",
+      "reference": "Ez 26:12"
+    },
+    {
+      "id": "EZK.26.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 26,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Para que Tiro serviria no meio do mar?",
+      "answer": "Para estender redes.",
+      "reference": "Ez 26:5"
+    },
+    {
+      "id": "EZK.27.subject.1",
+      "bookNumber": 330,
+      "chapter": 27,
+      "verseStart": 26,
+      "kind": "subject",
+      "prompt": "O que o vento do leste fez com Tiro no mar?",
+      "answer": "Quebrou a cidade bem no meio dele.",
+      "reference": "Ez 27:26"
+    },
+    {
+      "id": "EZK.27.place.1",
+      "bookNumber": 330,
+      "chapter": 27,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "De onde vinham os cedros dos mastros de Tiro?",
+      "answer": "Do Líbano.",
+      "reference": "Ez 27:5"
+    },
+    {
+      "id": "EZK.27.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 27,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "De que madeira eram os bancos do navio de Tiro?",
+      "answer": "De cipreste das ilhas de Chipre, com marfim.",
+      "reference": "Ez 27:6"
+    },
+    {
+      "id": "EZK.28.subject.1",
+      "bookNumber": 330,
+      "chapter": 28,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que o príncipe de Tiro afirmava ser?",
+      "answer": "Um deus, sentado no trono de Deus.",
+      "reference": "Ez 28:2"
+    },
+    {
+      "id": "EZK.28.name.1",
+      "bookNumber": 330,
+      "chapter": 28,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "Com quem foi comparada a sabedoria do príncipe de Tiro?",
+      "answer": "Com Daniel.",
+      "reference": "Ez 28:3"
+    },
+    {
+      "id": "EZK.28.place.1",
+      "bookNumber": 330,
+      "chapter": 28,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Em que jardim o rei de Tiro esteve?",
+      "answer": "No Éden, jardim de Deus.",
+      "reference": "Ez 28:13"
+    },
+    {
+      "id": "EZK.28.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 28,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Que figura o rei de Tiro tinha sido?",
+      "answer": "Um querubim ungido, daqueles que cobrem.",
+      "reference": "Ez 28:14"
+    },
+    {
+      "id": "EZK.28.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 28,
+      "verseStart": 23,
+      "kind": "curiosity",
+      "prompt": "O que Deus enviaria para as ruas de Sidom?",
+      "answer": "Peste e sangue.",
+      "reference": "Ez 28:23"
+    },
+    {
+      "id": "EZK.29.subject.1",
+      "bookNumber": 330,
+      "chapter": 29,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "A que animal Deus comparou o faraó que dizia ser dono do rio, em Ezequiel?",
+      "answer": "A um grande dragão deitado nos rios.",
+      "reference": "Ez 29:3"
+    },
+    {
+      "id": "EZK.29.name.1",
+      "bookNumber": 330,
+      "chapter": 29,
+      "verseStart": 19,
+      "kind": "name",
+      "prompt": "A quem Deus daria a terra do Egito?",
+      "answer": "A Nabucodonosor, rei da Babilônia.",
+      "reference": "Ez 29:19"
+    },
+    {
+      "id": "EZK.29.place.1",
+      "bookNumber": 330,
+      "chapter": 29,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Para que terra os egípcios seriam trazidos de volta, em Ezequiel?",
+      "answer": "Para Patros, onde tinham nascido.",
+      "reference": "Ez 29:14"
+    },
+    {
+      "id": "EZK.29.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 29,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Por quantos anos ninguém moraria no Egito?",
+      "answer": "Por quarenta anos.",
+      "reference": "Ez 29:11"
+    },
+    {
+      "id": "EZK.30.subject.1",
+      "bookNumber": 330,
+      "chapter": 30,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que viria sobre o Egito e causaria dor em Cuxe?",
+      "answer": "A espada, e os mortos cairiam no Egito.",
+      "reference": "Ez 30:4"
+    },
+    {
+      "id": "EZK.30.name.1",
+      "bookNumber": 330,
+      "chapter": 30,
+      "verseStart": 10,
+      "kind": "name",
+      "prompt": "Quem Deus usaria contra a multidão do Egito?",
+      "answer": "Nabucodonosor, rei da Babilônia.",
+      "reference": "Ez 30:10"
+    },
+    {
+      "id": "EZK.30.place.1",
+      "bookNumber": 330,
+      "chapter": 30,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "Qual fortaleza do Egito receberia a ira de Deus?",
+      "answer": "Pelúsio.",
+      "reference": "Ez 30:15"
+    },
+    {
+      "id": "EZK.30.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 30,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "O que aconteceu com o braço do faraó do Egito?",
+      "answer": "Deus o quebrou, e não houve cura.",
+      "reference": "Ez 30:21"
+    },
+    {
+      "id": "EZK.31.subject.1",
+      "bookNumber": 330,
+      "chapter": 31,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "O que aconteceria ao faraó, igualado às árvores do Éden?",
+      "answer": "Seria derrubado para debaixo da terra.",
+      "reference": "Ez 31:18"
+    },
+    {
+      "id": "EZK.31.place.1",
+      "bookNumber": 330,
+      "chapter": 31,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "De onde era o cedro ao qual a Assíria foi comparada?",
+      "answer": "Do Líbano.",
+      "reference": "Ez 31:3"
+    },
+    {
+      "id": "EZK.31.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 31,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quem fazia ninho nos galhos do cedro da Assíria?",
+      "answer": "As aves do céu.",
+      "reference": "Ez 31:6"
+    },
+    {
+      "id": "EZK.32.subject.1",
+      "bookNumber": 330,
+      "chapter": 32,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Como Deus descreveu o faraó dentro dos mares, em Ezequiel?",
+      "answer": "Como um monstro que turvava as águas.",
+      "reference": "Ez 32:2"
+    },
+    {
+      "id": "EZK.32.place.1",
+      "bookNumber": 330,
+      "chapter": 32,
+      "verseStart": 22,
+      "kind": "place",
+      "prompt": "Que nação já estava na cova, com seus túmulos, em Ezequiel?",
+      "answer": "A Assíria, com os túmulos ao redor.",
+      "reference": "Ez 32:22"
+    },
+    {
+      "id": "EZK.32.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 32,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que cobriria o sol quando o faraó fosse destruído, em Ezequiel?",
+      "answer": "Uma nuvem.",
+      "reference": "Ez 32:7"
+    },
+    {
+      "id": "EZK.32.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 32,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "A espada de quem viria sobre o faraó, em Ezequiel?",
+      "answer": "Do rei da Babilônia.",
+      "reference": "Ez 32:11"
+    },
+    {
+      "id": "EZK.33.subject.1",
+      "bookNumber": 330,
+      "chapter": 33,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Que tarefa Deus deu a Ezequiel para Israel?",
+      "answer": "Ser o vigilante que alerta o povo.",
+      "reference": "Ez 33:7"
+    },
+    {
+      "id": "EZK.33.place.1",
+      "bookNumber": 330,
+      "chapter": 33,
+      "verseStart": 21,
+      "kind": "place",
+      "prompt": "Que notícia o fugitivo de Jerusalém trouxe?",
+      "answer": "Que a cidade tinha sido ferida.",
+      "reference": "Ez 33:21"
+    },
+    {
+      "id": "EZK.33.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 33,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que Deus prefere à morte de quem faz o mal, em Ezequiel?",
+      "answer": "Que a pessoa mude de caminho e viva.",
+      "reference": "Ez 33:11"
+    },
+    {
+      "id": "EZK.33.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 33,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "O que mudou na boca de Ezequiel pela manhã?",
+      "answer": "Ela abriu, e ele não voltou a ficar mudo.",
+      "reference": "Ez 33:22"
+    },
+    {
+      "id": "EZK.34.subject.1",
+      "bookNumber": 330,
+      "chapter": 34,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que havia de errado com os pastores de Israel?",
+      "answer": "Cuidavam de si mesmos e não das ovelhas.",
+      "reference": "Ez 34:2"
+    },
+    {
+      "id": "EZK.34.name.1",
+      "bookNumber": 330,
+      "chapter": 34,
+      "verseStart": 23,
+      "kind": "name",
+      "prompt": "Quem Deus levantaria como pastor de Israel?",
+      "answer": "Davi, servo de Deus.",
+      "reference": "Ez 34:23"
+    },
+    {
+      "id": "EZK.34.place.1",
+      "bookNumber": 330,
+      "chapter": 34,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Onde as ovelhas de Israel seriam cuidadas?",
+      "answer": "Nos montes de Israel, perto das águas.",
+      "reference": "Ez 34:13"
+    },
+    {
+      "id": "EZK.34.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 34,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "Que acordo Deus faria com as ovelhas de Israel?",
+      "answer": "Uma aliança de paz.",
+      "reference": "Ez 34:25"
+    },
+    {
+      "id": "EZK.35.subject.1",
+      "bookNumber": 330,
+      "chapter": 35,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que Deus faria com o monte de Seir?",
+      "answer": "O deixaria desolado e devastado.",
+      "reference": "Ez 35:3"
+    },
+    {
+      "id": "EZK.35.place.1",
+      "bookNumber": 330,
+      "chapter": 35,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "Que terra ficaria desolada junto com o monte de Seir?",
+      "answer": "Todo o Edom.",
+      "reference": "Ez 35:15"
+    },
+    {
+      "id": "EZK.35.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 35,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Por que o sangue perseguiria o monte de Seir?",
+      "answer": "Porque esse monte não detestou o sangue.",
+      "reference": "Ez 35:6"
+    },
+    {
+      "id": "EZK.35.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 35,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que o monte de Seir queria tomar?",
+      "answer": "As duas nações e também as duas terras.",
+      "reference": "Ez 35:10"
+    },
+    {
+      "id": "EZK.36.subject.1",
+      "bookNumber": 330,
+      "chapter": 36,
+      "verseStart": 26,
+      "kind": "subject",
+      "prompt": "O que Israel receberia no lugar do coração de pedra?",
+      "answer": "Um coração de carne e um espírito novo.",
+      "reference": "Ez 36:26"
+    },
+    {
+      "id": "EZK.36.place.1",
+      "bookNumber": 330,
+      "chapter": 36,
+      "verseStart": 35,
+      "kind": "place",
+      "prompt": "A que a terra desolada de Israel seria comparada?",
+      "answer": "Ao jardim do Éden.",
+      "reference": "Ez 36:35"
+    },
+    {
+      "id": "EZK.36.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 36,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "Com o que Deus limparia a casa de Israel?",
+      "answer": "Com água pura.",
+      "reference": "Ez 36:25"
+    },
+    {
+      "id": "EZK.36.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 36,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "De onde Deus reuniria a casa de Israel?",
+      "answer": "De todas as terras, de volta para a sua.",
+      "reference": "Ez 36:24"
+    },
+    {
+      "id": "EZK.37.subject.1",
+      "bookNumber": 330,
+      "chapter": 37,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que os ossos secos do vale se tornaram, em Ezequiel?",
+      "answer": "Um exército enorme e vivo.",
+      "reference": "Ez 37:10"
+    },
+    {
+      "id": "EZK.37.name.1",
+      "bookNumber": 330,
+      "chapter": 37,
+      "verseStart": 24,
+      "kind": "name",
+      "prompt": "Quem seria o rei sobre o povo de Israel?",
+      "answer": "Davi, o servo de Deus.",
+      "reference": "Ez 37:24"
+    },
+    {
+      "id": "EZK.37.place.1",
+      "bookNumber": 330,
+      "chapter": 37,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde Ezequiel foi posto entre os ossos?",
+      "answer": "Num vale repleto de ossos.",
+      "reference": "Ez 37:1"
+    },
+    {
+      "id": "EZK.37.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 37,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Quem eram os ossos secos do vale, segundo Deus, em Ezequiel?",
+      "answer": "A casa toda de Israel.",
+      "reference": "Ez 37:11"
+    },
+    {
+      "id": "EZK.37.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 37,
+      "verseStart": 16,
+      "verseEnd": 17,
+      "kind": "curiosity",
+      "prompt": "O que acontecia ao unir a vara de Judá com a de José?",
+      "answer": "As duas viravam uma vara só.",
+      "reference": "Ez 37:16-17"
+    },
+    {
+      "id": "EZK.38.subject.1",
+      "bookNumber": 330,
+      "chapter": 38,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Contra quem Deus falou, da terra de Magogue?",
+      "answer": "Contra Gogue, chefe de Meseque e Tubal.",
+      "reference": "Ez 38:2"
+    },
+    {
+      "id": "EZK.38.place.1",
+      "bookNumber": 330,
+      "chapter": 38,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "De que direção Gogue viria com muitos povos?",
+      "answer": "Das regiões do norte.",
+      "reference": "Ez 38:15"
+    },
+    {
+      "id": "EZK.38.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 38,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que Deus poria nos queixos de Gogue?",
+      "answer": "Anzóis, para puxar o exército dele.",
+      "reference": "Ez 38:4"
+    },
+    {
+      "id": "EZK.38.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 38,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "Que castigos cairiam sobre Gogue e seus aliados?",
+      "answer": "Chuva forte, granizo, fogo e enxofre.",
+      "reference": "Ez 38:22"
+    },
+    {
+      "id": "EZK.39.subject.1",
+      "bookNumber": 330,
+      "chapter": 39,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Por quanto tempo Israel queimaria as armas de Gogue?",
+      "answer": "Por sete anos.",
+      "reference": "Ez 39:9"
+    },
+    {
+      "id": "EZK.39.place.1",
+      "bookNumber": 330,
+      "chapter": 39,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Que nome dariam ao lugar onde Gogue seria enterrado?",
+      "answer": "Vale da multidão de Gogue.",
+      "reference": "Ez 39:11"
+    },
+    {
+      "id": "EZK.39.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 39,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Por quanto tempo Israel sepultaria o exército de Gogue?",
+      "answer": "Durante sete meses, para limpar a terra.",
+      "reference": "Ez 39:12"
+    },
+    {
+      "id": "EZK.39.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 39,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Quem Deus convidou ao sacrifício nos montes de Israel?",
+      "answer": "As aves e os animais do campo.",
+      "reference": "Ez 39:17"
+    },
+    {
+      "id": "EZK.40.subject.1",
+      "bookNumber": 330,
+      "chapter": 40,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "De quantos côvados era a cana de medir do templo, em Ezequiel?",
+      "answer": "De seis, e cada côvado tinha um palmo a mais.",
+      "reference": "Ez 40:5"
+    },
+    {
+      "id": "EZK.40.name.1",
+      "bookNumber": 330,
+      "chapter": 40,
+      "verseStart": 46,
+      "kind": "name",
+      "prompt": "Quem, entre os levitas, guardava o altar, em Ezequiel?",
+      "answer": "Os filhos de Zadoque.",
+      "reference": "Ez 40:46"
+    },
+    {
+      "id": "EZK.40.place.1",
+      "bookNumber": 330,
+      "chapter": 40,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Para que lado ficava a primeira porta do templo, em Ezequiel?",
+      "answer": "Para o oriente.",
+      "reference": "Ez 40:6"
+    },
+    {
+      "id": "EZK.40.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 40,
+      "verseStart": 41,
+      "kind": "curiosity",
+      "prompt": "Quantas mesas havia junto à porta para os sacrifícios, em Ezequiel?",
+      "answer": "Oito mesas.",
+      "reference": "Ez 40:41"
+    },
+    {
+      "id": "EZK.41.subject.1",
+      "bookNumber": 330,
+      "chapter": 41,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Qual era a medida do Santo dos Santos?",
+      "answer": "Vinte côvados de cada lado.",
+      "reference": "Ez 41:4"
+    },
+    {
+      "id": "EZK.41.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 41,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quantas salas havia em cada andar ao lado do templo, em Ezequiel?",
+      "answer": "Trinta salas, em três andares.",
+      "reference": "Ez 41:6"
+    },
+    {
+      "id": "EZK.41.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 41,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "Que dois rostos tinha cada querubim do templo, em Ezequiel?",
+      "answer": "Um de homem e outro de leão.",
+      "reference": "Ez 41:19"
+    },
+    {
+      "id": "EZK.41.curiosity.3",
+      "bookNumber": 330,
+      "chapter": 41,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "O que era o altar de madeira do templo, em Ezequiel?",
+      "answer": "A mesa diante de Deus.",
+      "reference": "Ez 41:22"
+    },
+    {
+      "id": "EZK.42.subject.1",
+      "bookNumber": 330,
+      "chapter": 42,
+      "verseStart": 20,
+      "kind": "subject",
+      "prompt": "Quanto media o muro ao redor da área do templo, na visão de Ezequiel?",
+      "answer": "Quinhentas canas de lado, separando o santo do profano.",
+      "reference": "Ez 42:20"
+    },
+    {
+      "id": "EZK.42.place.1",
+      "bookNumber": 330,
+      "chapter": 42,
+      "verseStart": 13,
+      "kind": "place",
+      "prompt": "Onde os sacerdotes comiam as ofertas mais santas, em Ezequiel?",
+      "answer": "Nas salas do norte e nas do sul.",
+      "reference": "Ez 42:13"
+    },
+    {
+      "id": "EZK.42.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 42,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "O que os sacerdotes faziam com a roupa de serviço, em Ezequiel?",
+      "answer": "Deixavam essa roupa ali e vestiam outra.",
+      "reference": "Ez 42:14"
+    },
+    {
+      "id": "EZK.43.subject.1",
+      "bookNumber": 330,
+      "chapter": 43,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Por onde a glória de Deus entrou no templo, em Ezequiel?",
+      "answer": "Pela porta que dá para o oriente.",
+      "reference": "Ez 43:4"
+    },
+    {
+      "id": "EZK.43.name.1",
+      "bookNumber": 330,
+      "chapter": 43,
+      "verseStart": 19,
+      "kind": "name",
+      "prompt": "De que família seriam os sacerdotes do altar, em Ezequiel?",
+      "answer": "A descendência de Zadoque.",
+      "reference": "Ez 43:19"
+    },
+    {
+      "id": "EZK.43.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 43,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Qual era o tamanho do altar, de um lado ao outro, na visão de Ezequiel?",
+      "answer": "Doze côvados, e era quadrado.",
+      "reference": "Ez 43:16"
+    },
+    {
+      "id": "EZK.43.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 43,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "Quantos dias durava a purificação do altar, em Ezequiel?",
+      "answer": "Sete dias.",
+      "reference": "Ez 43:26"
+    },
+    {
+      "id": "EZK.44.subject.1",
+      "bookNumber": 330,
+      "chapter": 44,
+      "verseStart": 1,
+      "verseEnd": 2,
+      "kind": "subject",
+      "prompt": "Por que a porta oriental do santuário ficaria fechada, em Ezequiel?",
+      "answer": "Porque o Deus de Israel tinha passado por ela.",
+      "reference": "Ez 44:1-2"
+    },
+    {
+      "id": "EZK.44.name.1",
+      "bookNumber": 330,
+      "chapter": 44,
+      "verseStart": 15,
+      "kind": "name",
+      "prompt": "Quais sacerdotes podiam se aproximar para servir a Deus, em Ezequiel?",
+      "answer": "Os levitas filhos de Zadoque.",
+      "reference": "Ez 44:15"
+    },
+    {
+      "id": "EZK.44.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 44,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Que tecido os sacerdotes usavam no pátio de dentro, em Ezequiel?",
+      "answer": "Linho, e não lã.",
+      "reference": "Ez 44:17"
+    },
+    {
+      "id": "EZK.44.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 44,
+      "verseStart": 28,
+      "kind": "curiosity",
+      "prompt": "Qual era a herança dos sacerdotes em Israel?",
+      "answer": "O próprio Deus, não um terreno.",
+      "reference": "Ez 44:28"
+    },
+    {
+      "id": "EZK.45.subject.1",
+      "bookNumber": 330,
+      "chapter": 45,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Qual era o tamanho da porção santa separada na terra, em Ezequiel?",
+      "answer": "Vinte e cinco mil canas por dez mil.",
+      "reference": "Ez 45:1"
+    },
+    {
+      "id": "EZK.45.place.1",
+      "bookNumber": 330,
+      "chapter": 45,
+      "verseStart": 7,
+      "kind": "place",
+      "prompt": "Onde ficava a terra do príncipe de Israel?",
+      "answer": "Dos dois lados da área santa e da cidade.",
+      "reference": "Ez 45:7"
+    },
+    {
+      "id": "EZK.45.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 45,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Que padrão tinham o efa e o bato, em Ezequiel?",
+      "answer": "Os dois tinham a mesma medida.",
+      "reference": "Ez 45:11"
+    },
+    {
+      "id": "EZK.45.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 45,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "Em que data seria a Páscoa de Israel?",
+      "answer": "No dia catorze do primeiro mês.",
+      "reference": "Ez 45:21"
+    },
+    {
+      "id": "EZK.46.subject.1",
+      "bookNumber": 330,
+      "chapter": 46,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Quando abria a porta de dentro virada para o oriente, em Ezequiel?",
+      "answer": "No sábado e no dia de lua nova.",
+      "reference": "Ez 46:1"
+    },
+    {
+      "id": "EZK.46.place.1",
+      "bookNumber": 330,
+      "chapter": 46,
+      "verseStart": 24,
+      "kind": "place",
+      "prompt": "Onde os trabalhadores cozinhavam o sacrifício do povo, em Ezequiel?",
+      "answer": "Nas cozinhas dos trabalhadores da casa.",
+      "reference": "Ez 46:24"
+    },
+    {
+      "id": "EZK.46.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 46,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Por onde saía quem entrava pelo norte para adorar, em Ezequiel?",
+      "answer": "Pela porta do sul.",
+      "reference": "Ez 46:9"
+    },
+    {
+      "id": "EZK.46.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 46,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Até quando durava o presente do príncipe a um servo, em Ezequiel?",
+      "answer": "Até o ano em que havia libertação.",
+      "reference": "Ez 46:17"
+    },
+    {
+      "id": "EZK.47.subject.1",
+      "bookNumber": 330,
+      "chapter": 47,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Como Ezequiel passava pelo rio quando ficou fundo demais?",
+      "answer": "Apenas nadando, sem apoio dos pés.",
+      "reference": "Ez 47:5"
+    },
+    {
+      "id": "EZK.47.place.1",
+      "bookNumber": 330,
+      "chapter": 47,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "De onde até onde os pescadores estenderiam redes, em Ezequiel?",
+      "answer": "De En-Gedi até En-Eglaim.",
+      "reference": "Ez 47:10"
+    },
+    {
+      "id": "EZK.47.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 47,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que as águas que saíam do templo fariam ao chegar ao mar, em Ezequiel?",
+      "answer": "A água do mar ficaria saudável.",
+      "reference": "Ez 47:8"
+    },
+    {
+      "id": "EZK.47.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 47,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Para que servia a folha da árvore junto ao rio, em Ezequiel?",
+      "answer": "Servia de remédio.",
+      "reference": "Ez 47:12"
+    },
+    {
+      "id": "EZK.47.curiosity.3",
+      "bookNumber": 330,
+      "chapter": 47,
+      "verseStart": 22,
+      "kind": "curiosity",
+      "prompt": "Quem herdaria a terra junto com os filhos de Israel?",
+      "answer": "O estrangeiro que tivesse filhos entre eles.",
+      "reference": "Ez 47:22"
+    },
+    {
+      "id": "EZK.48.subject.1",
+      "bookNumber": 330,
+      "chapter": 48,
+      "verseStart": 35,
+      "kind": "subject",
+      "prompt": "Que nome a cidade teria na visão final de Ezequiel?",
+      "answer": "Deus está ali.",
+      "reference": "Ez 48:35"
+    },
+    {
+      "id": "EZK.48.name.1",
+      "bookNumber": 330,
+      "chapter": 48,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem eram os sacerdotes santificados da oferta, em Ezequiel?",
+      "answer": "Os filhos de Zadoque.",
+      "reference": "Ez 48:11"
+    },
+    {
+      "id": "EZK.48.place.1",
+      "bookNumber": 330,
+      "chapter": 48,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Qual tribo recebia a faixa no extremo norte, em Ezequiel?",
+      "answer": "A tribo de Dã.",
+      "reference": "Ez 48:1"
+    },
+    {
+      "id": "EZK.48.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 48,
+      "verseStart": 35,
+      "kind": "curiosity",
+      "prompt": "Quantos côvados a cidade teria ao redor, na visão de Ezequiel?",
+      "answer": "Dezoito mil.",
+      "reference": "Ez 48:35"
+    },
+    {
+      "id": "EZK.0.curiosity.1",
+      "bookNumber": 330,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Ezequiel?",
+      "answer": "Ezequiel.",
+      "reference": "Ezequiel"
+    },
+    {
+      "id": "EZK.0.curiosity.2",
+      "bookNumber": 330,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Ezequiel?",
+      "answer": "No século VI antes de Cristo, no exílio.",
+      "reference": "Ezequiel"
+    }
+  ]
+}

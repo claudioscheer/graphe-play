@@ -1,0 +1,895 @@
+{
+  "cards": [
+    {
+      "id": "REV.1.subject.1",
+      "bookNumber": 730,
+      "chapter": 1,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "Quem estava no meio dos sete candelabros, no Apocalipse?",
+      "answer": "Alguém parecido com o Filho do homem.",
+      "reference": "Ap 1:13"
+    },
+    {
+      "id": "REV.1.name.1",
+      "bookNumber": 730,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem recebeu a revelação para os servos de Deus, no Apocalipse?",
+      "answer": "João.",
+      "reference": "Ap 1:1"
+    },
+    {
+      "id": "REV.1.place.1",
+      "bookNumber": 730,
+      "chapter": 1,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "Onde João estava por causa do testemunho?",
+      "answer": "Na ilha de Patmos.",
+      "reference": "Ap 1:9"
+    },
+    {
+      "id": "REV.1.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 1,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "O que significam os sete candelabros de ouro, no Apocalipse?",
+      "answer": "As sete igrejas.",
+      "reference": "Ap 1:20"
+    },
+    {
+      "id": "REV.2.subject.1",
+      "bookNumber": 730,
+      "chapter": 2,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que Jesus tinha contra a igreja de Éfeso?",
+      "answer": "Ela tinha abandonado o primeiro amor.",
+      "reference": "Ap 2:4"
+    },
+    {
+      "id": "REV.2.name.1",
+      "bookNumber": 730,
+      "chapter": 2,
+      "verseStart": 20,
+      "kind": "name",
+      "prompt": "Quem se dizia profetisa na igreja de Tiatira?",
+      "answer": "A mulher Jezabel.",
+      "reference": "Ap 2:20"
+    },
+    {
+      "id": "REV.2.place.1",
+      "bookNumber": 730,
+      "chapter": 2,
+      "verseStart": 12,
+      "verseEnd": 13,
+      "kind": "place",
+      "prompt": "Onde ficava o trono de Satanás?",
+      "answer": "Em Pérgamo.",
+      "reference": "Ap 2:12-13"
+    },
+    {
+      "id": "REV.2.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 2,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Que prêmio Jesus prometeu à igreja de Esmirna?",
+      "answer": "A coroa da vida, a quem fosse fiel até a morte.",
+      "reference": "Ap 2:10"
+    },
+    {
+      "id": "REV.3.subject.1",
+      "bookNumber": 730,
+      "chapter": 3,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Por que Jesus ameaçou vomitar a igreja de Laodiceia?",
+      "answer": "Porque ela era morna, nem fria nem quente.",
+      "reference": "Ap 3:16"
+    },
+    {
+      "id": "REV.3.place.1",
+      "bookNumber": 730,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Qual igreja tinha fama de viva, mas estava morta, no Apocalipse?",
+      "answer": "A igreja de Sardes.",
+      "reference": "Ap 3:1"
+    },
+    {
+      "id": "REV.3.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que Jesus deu à igreja de Filadélfia?",
+      "answer": "Uma porta aberta, que ninguém consegue fechar.",
+      "reference": "Ap 3:8"
+    },
+    {
+      "id": "REV.3.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 3,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "O que Jesus faz se alguém abre a porta em que ele bate?",
+      "answer": "Entra e come com essa pessoa.",
+      "reference": "Ap 3:20"
+    },
+    {
+      "id": "REV.4.subject.1",
+      "bookNumber": 730,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que estava posto no céu, com alguém sentado, no Apocalipse?",
+      "answer": "Um trono.",
+      "reference": "Ap 4:2"
+    },
+    {
+      "id": "REV.4.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 4,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Quantos anciãos havia ao redor do trono, no Apocalipse?",
+      "answer": "Vinte e quatro.",
+      "reference": "Ap 4:4"
+    },
+    {
+      "id": "REV.4.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 4,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que havia diante do trono, parecido com cristal, no Apocalipse?",
+      "answer": "Um mar de vidro.",
+      "reference": "Ap 4:6"
+    },
+    {
+      "id": "REV.4.curiosity.3",
+      "bookNumber": 730,
+      "chapter": 4,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Como eram os quatro seres ao redor do trono, no Apocalipse?",
+      "answer": "Leão, bezerro, rosto de homem e águia.",
+      "reference": "Ap 4:7"
+    },
+    {
+      "id": "REV.5.subject.1",
+      "bookNumber": 730,
+      "chapter": 5,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Como era o Cordeiro junto ao trono?",
+      "answer": "Com jeito de morto, sete chifres e sete olhos.",
+      "reference": "Ap 5:6"
+    },
+    {
+      "id": "REV.5.name.1",
+      "bookNumber": 730,
+      "chapter": 5,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Quem venceu para abrir os selos do livro?",
+      "answer": "O Leão de Judá, raiz de Davi.",
+      "reference": "Ap 5:5"
+    },
+    {
+      "id": "REV.5.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 5,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Com quantos selos o livro estava fechado?",
+      "answer": "Com sete selos.",
+      "reference": "Ap 5:1"
+    },
+    {
+      "id": "REV.5.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 5,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que eram os perfumes nos vasos de ouro, no Apocalipse?",
+      "answer": "As orações do povo santo.",
+      "reference": "Ap 5:8"
+    },
+    {
+      "id": "REV.6.subject.1",
+      "bookNumber": 730,
+      "chapter": 6,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Qual cavalo saiu no primeiro selo, no Apocalipse?",
+      "answer": "Um cavalo branco, e o cavaleiro foi conquistar.",
+      "reference": "Ap 6:2"
+    },
+    {
+      "id": "REV.6.name.1",
+      "bookNumber": 730,
+      "chapter": 6,
+      "verseStart": 8,
+      "kind": "name",
+      "prompt": "Qual era o nome de quem montava o cavalo amarelo, no Apocalipse?",
+      "answer": "Morte.",
+      "reference": "Ap 6:8"
+    },
+    {
+      "id": "REV.6.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 6,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que foi tirado quando saiu o cavalo vermelho, no Apocalipse?",
+      "answer": "A paz da terra.",
+      "reference": "Ap 6:4"
+    },
+    {
+      "id": "REV.6.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 6,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Quem estava debaixo do altar no quinto selo, no Apocalipse?",
+      "answer": "As almas de quem morreu pela palavra de Deus.",
+      "reference": "Ap 6:9"
+    },
+    {
+      "id": "REV.7.subject.1",
+      "bookNumber": 730,
+      "chapter": 7,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "Quantos de Israel foram selados?",
+      "answer": "144 mil, de todas as tribos.",
+      "reference": "Ap 7:4"
+    },
+    {
+      "id": "REV.7.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 7,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "De onde veio a multidão de roupas brancas, no Apocalipse?",
+      "answer": "Da grande tribulação.",
+      "reference": "Ap 7:14"
+    },
+    {
+      "id": "REV.7.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 7,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que Deus fará com as lágrimas da multidão de roupas brancas, no Apocalipse?",
+      "answer": "Vai enxugar os olhos deles.",
+      "reference": "Ap 7:17"
+    },
+    {
+      "id": "REV.8.subject.1",
+      "bookNumber": 730,
+      "chapter": 8,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que os sete anjos diante de Deus receberam, no Apocalipse?",
+      "answer": "Sete trombetas.",
+      "reference": "Ap 8:2"
+    },
+    {
+      "id": "REV.8.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 8,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo o céu ficou em silêncio no sétimo selo, no Apocalipse?",
+      "answer": "Cerca de meia hora.",
+      "reference": "Ap 8:1"
+    },
+    {
+      "id": "REV.8.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 8,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Qual é o nome da estrela que amargou as águas, no Apocalipse?",
+      "answer": "Absinto.",
+      "reference": "Ap 8:11"
+    },
+    {
+      "id": "REV.8.curiosity.3",
+      "bookNumber": 730,
+      "chapter": 8,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que caiu sobre a terra no primeiro toque de trombeta?",
+      "answer": "Pedra de gelo e fogo, com sangue.",
+      "reference": "Ap 8:7"
+    },
+    {
+      "id": "REV.9.subject.1",
+      "bookNumber": 730,
+      "chapter": 9,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que saiu da fumaça do abismo sobre a terra, no Apocalipse?",
+      "answer": "Gafanhotos com poder de escorpião.",
+      "reference": "Ap 9:3"
+    },
+    {
+      "id": "REV.9.name.1",
+      "bookNumber": 730,
+      "chapter": 9,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem era o rei dos gafanhotos, no Apocalipse?",
+      "answer": "O anjo do abismo, de nome Abadom e Apoliom.",
+      "reference": "Ap 9:11"
+    },
+    {
+      "id": "REV.9.place.1",
+      "bookNumber": 730,
+      "chapter": 9,
+      "verseStart": 14,
+      "kind": "place",
+      "prompt": "Junto a qual rio estavam presos quatro anjos, no Apocalipse?",
+      "answer": "Junto ao grande rio Eufrates.",
+      "reference": "Ap 9:14"
+    },
+    {
+      "id": "REV.9.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 9,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo duraria o tormento dos gafanhotos, no Apocalipse?",
+      "answer": "Cinco meses.",
+      "reference": "Ap 9:5"
+    },
+    {
+      "id": "REV.10.subject.1",
+      "bookNumber": 730,
+      "chapter": 10,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "Como ficou o livrinho que João comeu?",
+      "answer": "Doce feito mel na boca, e amargo na barriga.",
+      "reference": "Ap 10:10"
+    },
+    {
+      "id": "REV.10.place.1",
+      "bookNumber": 730,
+      "chapter": 10,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde o anjo do livrinho pôs os pés, no Apocalipse?",
+      "answer": "O direito no mar e o esquerdo na terra.",
+      "reference": "Ap 10:2"
+    },
+    {
+      "id": "REV.10.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 10,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que João devia fazer com a fala dos sete trovões?",
+      "answer": "Selar e não escrever.",
+      "reference": "Ap 10:4"
+    },
+    {
+      "id": "REV.10.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 10,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que o anjo jurou sobre o tempo, no Apocalipse?",
+      "answer": "Que não restaria mais tempo.",
+      "reference": "Ap 10:6"
+    },
+    {
+      "id": "REV.11.subject.1",
+      "bookNumber": 730,
+      "chapter": 11,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que são as duas testemunhas, no Apocalipse?",
+      "answer": "Duas oliveiras e dois candelabros.",
+      "reference": "Ap 11:4"
+    },
+    {
+      "id": "REV.11.place.1",
+      "bookNumber": 730,
+      "chapter": 11,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Onde ficaram os corpos das duas testemunhas, no Apocalipse?",
+      "answer": "Na cidade que, no espírito, se chama Sodoma e Egito.",
+      "reference": "Ap 11:8"
+    },
+    {
+      "id": "REV.11.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 11,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo as duas testemunhas iam profetizar, no Apocalipse?",
+      "answer": "Mil duzentos e sessenta dias.",
+      "reference": "Ap 11:3"
+    },
+    {
+      "id": "REV.11.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 11,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "O que aconteceu com as testemunhas três dias e meio depois, no Apocalipse?",
+      "answer": "O espírito de vida as pôs de pé.",
+      "reference": "Ap 11:11"
+    },
+    {
+      "id": "REV.12.subject.1",
+      "bookNumber": 730,
+      "chapter": 12,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Como era a mulher do sinal no céu, no Apocalipse?",
+      "answer": "Vestida de sol, a lua sob os pés e doze estrelas na coroa.",
+      "reference": "Ap 12:1"
+    },
+    {
+      "id": "REV.12.name.1",
+      "bookNumber": 730,
+      "chapter": 12,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Quem lutou no céu contra o dragão?",
+      "answer": "Miguel e os anjos dele.",
+      "reference": "Ap 12:7"
+    },
+    {
+      "id": "REV.12.place.1",
+      "bookNumber": 730,
+      "chapter": 12,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Para onde fugiu a mulher vestida de sol, no Apocalipse?",
+      "answer": "Para o deserto, a um lugar preparado por Deus.",
+      "reference": "Ap 12:6"
+    },
+    {
+      "id": "REV.12.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 12,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Como era o grande dragão vermelho?",
+      "answer": "Com sete cabeças, dez chifres e sete coroas.",
+      "reference": "Ap 12:3"
+    },
+    {
+      "id": "REV.13.subject.1",
+      "bookNumber": 730,
+      "chapter": 13,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Como era a besta que subiu do mar?",
+      "answer": "Com sete cabeças e dez chifres.",
+      "reference": "Ap 13:1"
+    },
+    {
+      "id": "REV.13.place.1",
+      "bookNumber": 730,
+      "chapter": 13,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "De onde subiu a besta de dois chifres?",
+      "answer": "Da terra.",
+      "reference": "Ap 13:11"
+    },
+    {
+      "id": "REV.13.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 13,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Onde era posta a marca da besta?",
+      "answer": "Na mão direita ou na testa.",
+      "reference": "Ap 13:16"
+    },
+    {
+      "id": "REV.13.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 13,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "Qual é o número da besta?",
+      "answer": "Seiscentos e sessenta e seis.",
+      "reference": "Ap 13:18"
+    },
+    {
+      "id": "REV.14.subject.1",
+      "bookNumber": 730,
+      "chapter": 14,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Quem estava de pé no monte Sião?",
+      "answer": "O Cordeiro, com 144 mil.",
+      "reference": "Ap 14:1"
+    },
+    {
+      "id": "REV.14.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 14,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "O que o anjo anunciou sobre Babilônia?",
+      "answer": "Que a grande cidade tinha caído.",
+      "reference": "Ap 14:8"
+    },
+    {
+      "id": "REV.14.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 14,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que aconteceu quando a foice caiu sobre a terra, no Apocalipse?",
+      "answer": "A plantação da terra foi colhida.",
+      "reference": "Ap 14:16"
+    },
+    {
+      "id": "REV.14.curiosity.3",
+      "bookNumber": 730,
+      "chapter": 14,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Até onde chegou o sangue espremido fora da cidade, no Apocalipse?",
+      "answer": "Até a altura dos freios dos cavalos.",
+      "reference": "Ap 14:20"
+    },
+    {
+      "id": "REV.15.subject.1",
+      "bookNumber": 730,
+      "chapter": 15,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que os sete anjos receberam para a ira de Deus, no Apocalipse?",
+      "answer": "Sete taças de ouro.",
+      "reference": "Ap 15:7"
+    },
+    {
+      "id": "REV.15.name.1",
+      "bookNumber": 730,
+      "chapter": 15,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "De quem era o cântico, junto com o do Cordeiro?",
+      "answer": "De Moisés, servo de Deus.",
+      "reference": "Ap 15:3"
+    },
+    {
+      "id": "REV.15.place.1",
+      "bookNumber": 730,
+      "chapter": 15,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Onde estavam os que venceram a besta?",
+      "answer": "Perto do mar de vidro, onde havia fogo.",
+      "reference": "Ap 15:2"
+    },
+    {
+      "id": "REV.15.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 15,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Por que ninguém podia entrar no templo, no Apocalipse?",
+      "answer": "A glória de Deus o encheu de fumaça.",
+      "reference": "Ap 15:8"
+    },
+    {
+      "id": "REV.16.subject.1",
+      "bookNumber": 730,
+      "chapter": 16,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que havia nas taças derramadas sobre a terra, no Apocalipse?",
+      "answer": "A ira de Deus.",
+      "reference": "Ap 16:1"
+    },
+    {
+      "id": "REV.16.place.1",
+      "bookNumber": 730,
+      "chapter": 16,
+      "verseStart": 16,
+      "kind": "place",
+      "prompt": "Qual é o nome hebraico do lugar onde os reis se reuniram, no Apocalipse?",
+      "answer": "Armagedom.",
+      "reference": "Ap 16:16"
+    },
+    {
+      "id": "REV.16.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 16,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "O que a primeira taça fez em quem tinha a marca da besta?",
+      "answer": "Causou uma ferida maligna.",
+      "reference": "Ap 16:2"
+    },
+    {
+      "id": "REV.16.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 16,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que aconteceu com a água do Eufrates na sexta taça?",
+      "answer": "Secou, e abriu caminho para os reis.",
+      "reference": "Ap 16:12"
+    },
+    {
+      "id": "REV.17.subject.1",
+      "bookNumber": 730,
+      "chapter": 17,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Sobre o que a prostituta no deserto estava sentada, no Apocalipse?",
+      "answer": "Sobre uma besta vermelha de sete cabeças e dez chifres.",
+      "reference": "Ap 17:3"
+    },
+    {
+      "id": "REV.17.name.1",
+      "bookNumber": 730,
+      "chapter": 17,
+      "verseStart": 5,
+      "kind": "name",
+      "prompt": "Que nome estava escrito na testa da mulher, no Apocalipse?",
+      "answer": "Mistério: a grande Babilônia.",
+      "reference": "Ap 17:5"
+    },
+    {
+      "id": "REV.17.place.1",
+      "bookNumber": 730,
+      "chapter": 17,
+      "verseStart": 18,
+      "kind": "place",
+      "prompt": "O que é a mulher sentada sobre a besta?",
+      "answer": "A grande cidade que governa os reis da terra.",
+      "reference": "Ap 17:18"
+    },
+    {
+      "id": "REV.17.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 17,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Do que a mulher estava bêbada, no Apocalipse?",
+      "answer": "Do sangue do povo santo e das testemunhas de Jesus.",
+      "reference": "Ap 17:6"
+    },
+    {
+      "id": "REV.18.subject.1",
+      "bookNumber": 730,
+      "chapter": 18,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "O que foi anunciado sobre a grande Babilônia?",
+      "answer": "Ela caiu e se tornou morada de demônios.",
+      "reference": "Ap 18:2"
+    },
+    {
+      "id": "REV.18.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 18,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que a voz do céu pediu ao povo de Deus em Babilônia?",
+      "answer": "Que saísse da cidade.",
+      "reference": "Ap 18:4"
+    },
+    {
+      "id": "REV.18.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 18,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo levou o juízo de Babilônia?",
+      "answer": "Uma hora.",
+      "reference": "Ap 18:10"
+    },
+    {
+      "id": "REV.18.curiosity.3",
+      "bookNumber": 730,
+      "chapter": 18,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "O que o anjo fez com a grande pedra de moinho, no Apocalipse?",
+      "answer": "Atirou no mar, como figura da queda da cidade.",
+      "reference": "Ap 18:21"
+    },
+    {
+      "id": "REV.19.subject.1",
+      "bookNumber": 730,
+      "chapter": 19,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "Quem vinha sentado no cavalo branco quando o céu se abriu, no Apocalipse?",
+      "answer": "Aquele chamado Fiel e Verdadeiro.",
+      "reference": "Ap 19:11"
+    },
+    {
+      "id": "REV.19.name.1",
+      "bookNumber": 730,
+      "chapter": 19,
+      "verseStart": 13,
+      "kind": "name",
+      "prompt": "Qual é o nome de quem vem com a roupa manchada de sangue, no Apocalipse?",
+      "answer": "Palavra de Deus.",
+      "reference": "Ap 19:13"
+    },
+    {
+      "id": "REV.19.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 19,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Que festa chegou para o Cordeiro?",
+      "answer": "A festa do casamento dele, com a esposa já pronta.",
+      "reference": "Ap 19:7"
+    },
+    {
+      "id": "REV.19.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 19,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Para onde foram a besta e o falso profeta?",
+      "answer": "Vivos, para o lago de fogo e enxofre.",
+      "reference": "Ap 19:20"
+    },
+    {
+      "id": "REV.20.subject.1",
+      "bookNumber": 730,
+      "chapter": 20,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Quanto tempo o dragão ficou amarrado?",
+      "answer": "Mil anos.",
+      "reference": "Ap 20:2"
+    },
+    {
+      "id": "REV.20.place.1",
+      "bookNumber": 730,
+      "chapter": 20,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Onde o dragão foi lançado e trancado?",
+      "answer": "No abismo.",
+      "reference": "Ap 20:3"
+    },
+    {
+      "id": "REV.20.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 20,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo os fiéis reinaram com Cristo?",
+      "answer": "Mil anos.",
+      "reference": "Ap 20:4"
+    },
+    {
+      "id": "REV.20.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 20,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Que trono apareceu quando o céu e a terra fugiram, no Apocalipse?",
+      "answer": "Um grande trono branco.",
+      "reference": "Ap 20:11"
+    },
+    {
+      "id": "REV.21.subject.1",
+      "bookNumber": 730,
+      "chapter": 21,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Que cidade santa descia do céu, no Apocalipse?",
+      "answer": "A nova Jerusalém, enfeitada como noiva.",
+      "reference": "Ap 21:2"
+    },
+    {
+      "id": "REV.21.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 21,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "O que surgiu no lugar do céu e da terra de antes, no Apocalipse?",
+      "answer": "Um céu novo e uma terra nova, sem mar.",
+      "reference": "Ap 21:1"
+    },
+    {
+      "id": "REV.21.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 21,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que deixa de existir quando Deus mora com o povo, no Apocalipse?",
+      "answer": "A morte, o choro e a dor.",
+      "reference": "Ap 21:4"
+    },
+    {
+      "id": "REV.21.curiosity.3",
+      "bookNumber": 730,
+      "chapter": 21,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "De que eram feitas as doze portas da cidade, no Apocalipse?",
+      "answer": "Cada porta era uma pérola.",
+      "reference": "Ap 21:21"
+    },
+    {
+      "id": "REV.22.subject.1",
+      "bookNumber": 730,
+      "chapter": 22,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "De onde saía o rio da água da vida, no Apocalipse?",
+      "answer": "Do trono de Deus e também do Cordeiro.",
+      "reference": "Ap 22:1"
+    },
+    {
+      "id": "REV.22.name.1",
+      "bookNumber": 730,
+      "chapter": 22,
+      "verseStart": 16,
+      "kind": "name",
+      "prompt": "Quem se apresenta como raiz de Davi e estrela da manhã?",
+      "answer": "Jesus.",
+      "reference": "Ap 22:16"
+    },
+    {
+      "id": "REV.22.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 22,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quantos frutos a árvore da vida produz, no Apocalipse?",
+      "answer": "Doze, um a cada mês.",
+      "reference": "Ap 22:2"
+    },
+    {
+      "id": "REV.22.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 22,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "O que Deus fará a quem acrescentar algo à profecia, no Apocalipse?",
+      "answer": "Vai acrescentar a essa pessoa as pragas do livro.",
+      "reference": "Ap 22:18"
+    },
+    {
+      "id": "REV.0.curiosity.1",
+      "bookNumber": 730,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Apocalipse?",
+      "answer": "João, o apóstolo.",
+      "reference": "Apocalipse"
+    },
+    {
+      "id": "REV.0.curiosity.2",
+      "bookNumber": 730,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Apocalipse?",
+      "answer": "Por volta do ano 95.",
+      "reference": "Apocalipse"
+    }
+  ]
+}

@@ -1,0 +1,1219 @@
+{
+  "cards": [
+    {
+      "id": "2CH.1.subject.1",
+      "bookNumber": 140,
+      "chapter": 1,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que Salomão pediu a Deus em Gibeão?",
+      "answer": "Sabedoria e conhecimento para julgar o povo.",
+      "reference": "2Cr 1:10"
+    },
+    {
+      "id": "2CH.1.place.1",
+      "bookNumber": 140,
+      "chapter": 1,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "Onde Salomão foi adorar com todo Israel?",
+      "answer": "No alto de Gibeão, onde estava o tabernáculo.",
+      "reference": "2Cr 1:3"
+    },
+    {
+      "id": "2CH.1.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 1,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quantos holocaustos Salomão ofereceu em Gibeão?",
+      "answer": "Mil.",
+      "reference": "2Cr 1:6"
+    },
+    {
+      "id": "2CH.2.subject.1",
+      "bookNumber": 140,
+      "chapter": 2,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que Salomão decidiu construir?",
+      "answer": "Uma casa para o nome de Deus e outra para o reino.",
+      "reference": "2Cr 2:1"
+    },
+    {
+      "id": "2CH.2.name.1",
+      "bookNumber": 140,
+      "chapter": 2,
+      "verseStart": 3,
+      "kind": "name",
+      "prompt": "A qual rei Salomão pediu madeira de cedro?",
+      "answer": "A Hirão, rei de Tiro.",
+      "reference": "2Cr 2:3"
+    },
+    {
+      "id": "2CH.2.place.1",
+      "bookNumber": 140,
+      "chapter": 2,
+      "verseStart": 16,
+      "kind": "place",
+      "prompt": "Até que porto Hirão enviaria a madeira do Líbano?",
+      "answer": "Até Jope.",
+      "reference": "2Cr 2:16"
+    },
+    {
+      "id": "2CH.2.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 2,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quantos carregadores Salomão separou para a obra?",
+      "answer": "Setenta mil.",
+      "reference": "2Cr 2:2"
+    },
+    {
+      "id": "2CH.3.subject.1",
+      "bookNumber": 140,
+      "chapter": 3,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Onde Salomão começou a casa de Deus?",
+      "answer": "Em Jerusalém, no monte Moriá, na eira de Ornã.",
+      "reference": "2Cr 3:1"
+    },
+    {
+      "id": "2CH.3.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 3,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Qual era o comprimento da casa de Deus, em 2 Crônicas?",
+      "answer": "Sessenta côvados.",
+      "reference": "2Cr 3:3"
+    },
+    {
+      "id": "2CH.3.curiosity.2",
+      "bookNumber": 140,
+      "chapter": 3,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Que nomes Salomão deu às duas colunas?",
+      "answer": "Jaquim e Boaz.",
+      "reference": "2Cr 3:17"
+    },
+    {
+      "id": "2CH.4.subject.1",
+      "bookNumber": 140,
+      "chapter": 4,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Que peça redonda Salomão fundiu para o templo?",
+      "answer": "Um grande tanque, de dez côvados de uma borda à outra.",
+      "reference": "2Cr 4:2"
+    },
+    {
+      "id": "2CH.4.place.1",
+      "bookNumber": 140,
+      "chapter": 4,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "Onde fundiram os utensílios de bronze, em 2 Crônicas?",
+      "answer": "Nas planícies do Jordão, entre Sucote e Zeredá.",
+      "reference": "2Cr 4:17"
+    },
+    {
+      "id": "2CH.4.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 4,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Quantos bois sustentavam o tanque, em 2 Crônicas?",
+      "answer": "Doze.",
+      "reference": "2Cr 4:4"
+    },
+    {
+      "id": "2CH.5.subject.1",
+      "bookNumber": 140,
+      "chapter": 5,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Onde os sacerdotes colocaram a arca no templo de Salomão?",
+      "answer": "No lugar santíssimo, debaixo das asas dos querubins.",
+      "reference": "2Cr 5:7"
+    },
+    {
+      "id": "2CH.5.place.1",
+      "bookNumber": 140,
+      "chapter": 5,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "De onde trouxeram a arca até o templo, em 2 Crônicas?",
+      "answer": "De Sião, a cidade de Davi.",
+      "reference": "2Cr 5:2"
+    },
+    {
+      "id": "2CH.5.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 5,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que havia dentro da arca no templo de Salomão?",
+      "answer": "Só as duas tábuas que Moisés tinha posto em Horebe.",
+      "reference": "2Cr 5:10"
+    },
+    {
+      "id": "2CH.5.curiosity.2",
+      "bookNumber": 140,
+      "chapter": 5,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Por que os sacerdotes não conseguiam ficar ministrando, em 2 Crônicas?",
+      "answer": "Porque a glória de Deus, numa nuvem, enchia a casa.",
+      "reference": "2Cr 5:14"
+    },
+    {
+      "id": "2CH.6.subject.1",
+      "bookNumber": 140,
+      "chapter": 6,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "O que Salomão pediu quando o povo orasse no templo?",
+      "answer": "Que Deus ouvisse do céu e perdoasse.",
+      "reference": "2Cr 6:21"
+    },
+    {
+      "id": "2CH.6.place.1",
+      "bookNumber": 140,
+      "chapter": 6,
+      "verseStart": 6,
+      "kind": "place",
+      "prompt": "Qual cidade Deus escolheu para pôr o nome dele, em 2 Crônicas?",
+      "answer": "Jerusalém.",
+      "reference": "2Cr 6:6"
+    },
+    {
+      "id": "2CH.6.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 6,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Como Salomão orou diante de Israel?",
+      "answer": "De joelhos, sobre uma plataforma de bronze, com as mãos ao céu.",
+      "reference": "2Cr 6:13"
+    },
+    {
+      "id": "2CH.7.subject.1",
+      "bookNumber": 140,
+      "chapter": 7,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que desceu do céu quando Salomão terminou a oração?",
+      "answer": "Fogo, que consumiu o sacrifício, e a glória encheu a casa.",
+      "reference": "2Cr 7:1"
+    },
+    {
+      "id": "2CH.7.place.1",
+      "bookNumber": 140,
+      "chapter": 7,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "De onde até onde veio Israel para a festa da dedicação?",
+      "answer": "Da fronteira de Hamate até o riacho do Egito.",
+      "reference": "2Cr 7:8"
+    },
+    {
+      "id": "2CH.7.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 7,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "Quantos bois e ovelhas Salomão ofereceu na dedicação?",
+      "answer": "Vinte e dois mil bois, mais cento e vinte mil ovelhas.",
+      "reference": "2Cr 7:5"
+    },
+    {
+      "id": "2CH.7.curiosity.2",
+      "bookNumber": 140,
+      "chapter": 7,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "O que Deus faria se o povo se humilhasse, orasse e mudasse de caminho, em 2 Crônicas?",
+      "answer": "Ouviria, perdoaria e curaria a terra.",
+      "reference": "2Cr 7:14"
+    },
+    {
+      "id": "2CH.8.subject.1",
+      "bookNumber": 140,
+      "chapter": 8,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "Que trabalho Salomão não deu aos filhos de Israel?",
+      "answer": "Não os pôs como escravos na obra; ficaram na guerra e no comando.",
+      "reference": "2Cr 8:9"
+    },
+    {
+      "id": "2CH.8.place.1",
+      "bookNumber": 140,
+      "chapter": 8,
+      "verseStart": 17,
+      "kind": "place",
+      "prompt": "A que costa Salomão foi, na terra de Edom?",
+      "answer": "Eziom-Geber e Elote, no litoral.",
+      "reference": "2Cr 8:17"
+    },
+    {
+      "id": "2CH.8.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 8,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "Quanto ouro os navios trouxeram de Ofir, no relato de Crônicas?",
+      "answer": "Quatrocentos e cinquenta talentos.",
+      "reference": "2Cr 8:18"
+    },
+    {
+      "id": "2CH.9.subject.1",
+      "bookNumber": 140,
+      "chapter": 9,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Por que a rainha de Sabá foi falar com Salomão?",
+      "answer": "Para testá-lo com perguntas difíceis.",
+      "reference": "2Cr 9:1"
+    },
+    {
+      "id": "2CH.9.place.1",
+      "bookNumber": 140,
+      "chapter": 9,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "A que cidade a rainha de Sabá chegou com a comitiva?",
+      "answer": "A Jerusalém.",
+      "reference": "2Cr 9:1"
+    },
+    {
+      "id": "2CH.9.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 9,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Quanto ouro chegava a Salomão a cada ano?",
+      "answer": "Seiscentos e sessenta e seis talentos.",
+      "reference": "2Cr 9:13"
+    },
+    {
+      "id": "2CH.9.curiosity.2",
+      "bookNumber": 140,
+      "chapter": 9,
+      "verseStart": 30,
+      "kind": "curiosity",
+      "prompt": "Quantos anos Salomão reinou em Jerusalém?",
+      "answer": "Quarenta anos.",
+      "reference": "2Cr 9:30"
+    },
+    {
+      "id": "2CH.10.subject.1",
+      "bookNumber": 140,
+      "chapter": 10,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "O que aconteceu entre Israel e a casa de Davi?",
+      "answer": "Israel rompeu com essa família, e a separação permaneceu.",
+      "reference": "2Cr 10:19"
+    },
+    {
+      "id": "2CH.10.place.1",
+      "bookNumber": 140,
+      "chapter": 10,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde o povo se reuniu para fazer Roboão rei?",
+      "answer": "Em Siquém.",
+      "reference": "2Cr 10:1"
+    },
+    {
+      "id": "2CH.10.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 10,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Como Roboão ameaçou castigar o povo?",
+      "answer": "Pior que o pai: com escorpiões, não só com açoites.",
+      "reference": "2Cr 10:14"
+    },
+    {
+      "id": "2CH.11.subject.1",
+      "bookNumber": 140,
+      "chapter": 11,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que Deus mandou a Roboão sobre a guerra com Jeroboão?",
+      "answer": "Não lutar contra os irmãos e cada um voltar para casa.",
+      "reference": "2Cr 11:4"
+    },
+    {
+      "id": "2CH.11.place.1",
+      "bookNumber": 140,
+      "chapter": 11,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Onde Roboão morou e levantou fortalezas?",
+      "answer": "Em Jerusalém, e fortificou cidades de Judá.",
+      "reference": "2Cr 11:5"
+    },
+    {
+      "id": "2CH.11.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 11,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Por quantos anos Judá seguiu o exemplo de Davi e o de Salomão?",
+      "answer": "Três anos.",
+      "reference": "2Cr 11:17"
+    },
+    {
+      "id": "2CH.12.subject.1",
+      "bookNumber": 140,
+      "chapter": 12,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que Sisaque levou de Jerusalém?",
+      "answer": "Os tesouros do templo e do palácio, e os escudos de ouro.",
+      "reference": "2Cr 12:9"
+    },
+    {
+      "id": "2CH.12.name.1",
+      "bookNumber": 140,
+      "chapter": 12,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "Quem subiu contra Jerusalém no quinto ano de Roboão?",
+      "answer": "Sisaque, rei do Egito.",
+      "reference": "2Cr 12:2"
+    },
+    {
+      "id": "2CH.12.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 12,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que Roboão fez no lugar dos escudos de ouro?",
+      "answer": "Escudos de bronze.",
+      "reference": "2Cr 12:10"
+    },
+    {
+      "id": "2CH.12.curiosity.2",
+      "bookNumber": 140,
+      "chapter": 12,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Por que Jerusalém não foi destruída por Sisaque?",
+      "answer": "Porque o rei e os chefes se humilharam.",
+      "reference": "2Cr 12:7"
+    },
+    {
+      "id": "2CH.13.subject.1",
+      "bookNumber": 140,
+      "chapter": 13,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Quem perdeu quando Judá clamou na batalha de Abias?",
+      "answer": "Jeroboão e o povo de Israel.",
+      "reference": "2Cr 13:15"
+    },
+    {
+      "id": "2CH.13.place.1",
+      "bookNumber": 140,
+      "chapter": 13,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "De onde Abias falou a Jeroboão?",
+      "answer": "Do monte de Zemaraim.",
+      "reference": "2Cr 13:4"
+    },
+    {
+      "id": "2CH.13.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 13,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Quantos homens escolhidos de Israel caíram diante de Abias?",
+      "answer": "Quinhentos mil.",
+      "reference": "2Cr 13:17"
+    },
+    {
+      "id": "2CH.14.subject.1",
+      "bookNumber": 140,
+      "chapter": 14,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que aconteceu aos etíopes diante de Asa?",
+      "answer": "Foram vencidos e fugiram.",
+      "reference": "2Cr 14:12"
+    },
+    {
+      "id": "2CH.14.place.1",
+      "bookNumber": 140,
+      "chapter": 14,
+      "verseStart": 10,
+      "kind": "place",
+      "prompt": "Onde Asa enfrentou Zerá?",
+      "answer": "No vale de Zefatá, perto de Maressa.",
+      "reference": "2Cr 14:10"
+    },
+    {
+      "id": "2CH.14.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 14,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Quão grande era o exército de Zerá?",
+      "answer": "Um milhão de homens e trezentos carros.",
+      "reference": "2Cr 14:9"
+    },
+    {
+      "id": "2CH.15.subject.1",
+      "bookNumber": 140,
+      "chapter": 15,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que Judá jurou na assembleia de Asa?",
+      "answer": "Buscar o Deus dos pais com coração e alma por inteiro.",
+      "reference": "2Cr 15:12"
+    },
+    {
+      "id": "2CH.15.name.1",
+      "bookNumber": 140,
+      "chapter": 15,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Qual profeta foi ao encontro de Asa?",
+      "answer": "Azarias, filho de Obede.",
+      "reference": "2Cr 15:1"
+    },
+    {
+      "id": "2CH.15.place.1",
+      "bookNumber": 140,
+      "chapter": 15,
+      "verseStart": 16,
+      "kind": "place",
+      "prompt": "Onde Asa queimou o ídolo de Maaca?",
+      "answer": "No ribeiro de Cedrom.",
+      "reference": "2Cr 15:16"
+    },
+    {
+      "id": "2CH.15.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 15,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "O que Asa fez com Maaca, a mãe dele?",
+      "answer": "Tirou-a do posto, porque ela tinha feito um ídolo.",
+      "reference": "2Cr 15:16"
+    },
+    {
+      "id": "2CH.16.subject.1",
+      "bookNumber": 140,
+      "chapter": 16,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que Hanani repreendeu em Asa?",
+      "answer": "Ter se apoiado no rei da Síria, e não em Deus.",
+      "reference": "2Cr 16:7"
+    },
+    {
+      "id": "2CH.16.place.1",
+      "bookNumber": 140,
+      "chapter": 16,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Que cidade Baasa começou a fortificar contra Asa?",
+      "answer": "Ramá.",
+      "reference": "2Cr 16:1"
+    },
+    {
+      "id": "2CH.16.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 16,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "A quem Asa buscou quando os pés adoeceram?",
+      "answer": "Aos médicos, e não a Deus.",
+      "reference": "2Cr 16:12"
+    },
+    {
+      "id": "2CH.17.subject.1",
+      "bookNumber": 140,
+      "chapter": 17,
+      "verseStart": 9,
+      "kind": "subject",
+      "prompt": "O que os enviados de Josafá fizeram nas cidades de Judá?",
+      "answer": "Ensinaram o povo, levando o livro da lei.",
+      "reference": "2Cr 17:9"
+    },
+    {
+      "id": "2CH.17.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 17,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que caiu sobre os reinos vizinhos de Judá?",
+      "answer": "Medo de Deus, e ninguém ousou atacar Josafá.",
+      "reference": "2Cr 17:10"
+    },
+    {
+      "id": "2CH.17.curiosity.2",
+      "bookNumber": 140,
+      "chapter": 17,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Por que Deus estava com Josafá no começo?",
+      "answer": "Porque ele andou nos caminhos de Davi e não buscou os baalins.",
+      "reference": "2Cr 17:3"
+    },
+    {
+      "id": "2CH.18.subject.1",
+      "bookNumber": 140,
+      "chapter": 18,
+      "verseStart": 33,
+      "verseEnd": 34,
+      "kind": "subject",
+      "prompt": "O que houve com Acabe em Ramote de Gileade?",
+      "answer": "Uma flecha o feriu, e ele morreu ao fim do dia.",
+      "reference": "2Cr 18:33-34"
+    },
+    {
+      "id": "2CH.18.name.1",
+      "bookNumber": 140,
+      "chapter": 18,
+      "verseStart": 7,
+      "kind": "name",
+      "prompt": "Qual profeta Acabe não suportava ouvir?",
+      "answer": "Micaías, filho de Inlá.",
+      "reference": "2Cr 18:7"
+    },
+    {
+      "id": "2CH.18.place.1",
+      "bookNumber": 140,
+      "chapter": 18,
+      "verseStart": 2,
+      "kind": "place",
+      "prompt": "Para onde Acabe quis levar Josafá à guerra?",
+      "answer": "A Ramote de Gileade.",
+      "reference": "2Cr 18:2"
+    },
+    {
+      "id": "2CH.18.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 18,
+      "verseStart": 29,
+      "kind": "curiosity",
+      "prompt": "Como Acabe entrou na batalha?",
+      "answer": "Disfarçado, enquanto Josafá ficou com a própria roupa.",
+      "reference": "2Cr 18:29"
+    },
+    {
+      "id": "2CH.19.subject.1",
+      "bookNumber": 140,
+      "chapter": 19,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Quem Josafá nomeou nas cidades fortes de Judá?",
+      "answer": "Juízes.",
+      "reference": "2Cr 19:5"
+    },
+    {
+      "id": "2CH.19.place.1",
+      "bookNumber": 140,
+      "chapter": 19,
+      "verseStart": 4,
+      "kind": "place",
+      "prompt": "De onde até onde Josafá levou o povo de volta a Deus?",
+      "answer": "De Berseba à região montanhosa de Efraim.",
+      "reference": "2Cr 19:4"
+    },
+    {
+      "id": "2CH.19.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 19,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que Josafá disse que não existe em Deus?",
+      "answer": "Injustiça, favoritismo e suborno.",
+      "reference": "2Cr 19:7"
+    },
+    {
+      "id": "2CH.20.subject.1",
+      "bookNumber": 140,
+      "chapter": 20,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "O que houve quando Judá começou a louvar?",
+      "answer": "Os inimigos se atacaram uns aos outros e morreram.",
+      "reference": "2Cr 20:22"
+    },
+    {
+      "id": "2CH.20.place.1",
+      "bookNumber": 140,
+      "chapter": 20,
+      "verseStart": 26,
+      "kind": "place",
+      "prompt": "Como ficou chamado o vale onde bendisseram a Deus, em 2 Crônicas?",
+      "answer": "Vale de Beraca.",
+      "reference": "2Cr 20:26"
+    },
+    {
+      "id": "2CH.20.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 20,
+      "verseStart": 25,
+      "kind": "curiosity",
+      "prompt": "Por quantos dias recolheram o despojo na vitória de Josafá?",
+      "answer": "Três dias, de tão grande que era.",
+      "reference": "2Cr 20:25"
+    },
+    {
+      "id": "2CH.21.subject.1",
+      "bookNumber": 140,
+      "chapter": 21,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que Jeorão fez com os irmãos ao se firmar no trono?",
+      "answer": "Matou todos eles.",
+      "reference": "2Cr 21:4"
+    },
+    {
+      "id": "2CH.21.place.1",
+      "bookNumber": 140,
+      "chapter": 21,
+      "verseStart": 20,
+      "kind": "place",
+      "prompt": "Onde Jeorão foi sepultado?",
+      "answer": "Na cidade de Davi, fora dos túmulos reais.",
+      "reference": "2Cr 21:20"
+    },
+    {
+      "id": "2CH.21.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 21,
+      "verseStart": 18,
+      "kind": "curiosity",
+      "prompt": "Como Deus feriu Jeorão no fim?",
+      "answer": "Com uma doença sem cura nas entranhas.",
+      "reference": "2Cr 21:18"
+    },
+    {
+      "id": "2CH.22.subject.1",
+      "bookNumber": 140,
+      "chapter": 22,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que Atalia fez ao ver o filho morto?",
+      "answer": "Matou a descendência real de Judá.",
+      "reference": "2Cr 22:10"
+    },
+    {
+      "id": "2CH.22.name.1",
+      "bookNumber": 140,
+      "chapter": 22,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem escondeu o menino Joás de Atalia?",
+      "answer": "Jeosebate, filha do rei.",
+      "reference": "2Cr 22:11"
+    },
+    {
+      "id": "2CH.22.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 22,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Por quanto tempo Joás ficou escondido na casa de Deus?",
+      "answer": "Seis anos, enquanto Atalia reinava.",
+      "reference": "2Cr 22:12"
+    },
+    {
+      "id": "2CH.23.subject.1",
+      "bookNumber": 140,
+      "chapter": 23,
+      "verseStart": 11,
+      "kind": "subject",
+      "prompt": "O que fizeram com o menino Joás na casa de Deus?",
+      "answer": "Puseram-lhe a coroa, ungiram-no e o aclamaram rei.",
+      "reference": "2Cr 23:11"
+    },
+    {
+      "id": "2CH.23.place.1",
+      "bookNumber": 140,
+      "chapter": 23,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "Onde mataram Atalia?",
+      "answer": "Na porta dos cavalos, fora da casa de Deus.",
+      "reference": "2Cr 23:15"
+    },
+    {
+      "id": "2CH.23.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 23,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que o povo fez com o templo de Baal ao coroar Joás?",
+      "answer": "Derrubou-o, quebrou as imagens e matou o sacerdote Matã.",
+      "reference": "2Cr 23:17"
+    },
+    {
+      "id": "2CH.24.subject.1",
+      "bookNumber": 140,
+      "chapter": 24,
+      "verseStart": 13,
+      "kind": "subject",
+      "prompt": "O que aconteceu com a casa de Deus no tempo de Joás?",
+      "answer": "Foi consertada e ficou firme de novo.",
+      "reference": "2Cr 24:13"
+    },
+    {
+      "id": "2CH.24.name.1",
+      "bookNumber": 140,
+      "chapter": 24,
+      "verseStart": 20,
+      "kind": "name",
+      "prompt": "Quem avisou o povo que Deus os deixaria se o deixassem, em 2 Crônicas?",
+      "answer": "Zacarias, filho de Joiada.",
+      "reference": "2Cr 24:20"
+    },
+    {
+      "id": "2CH.24.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 24,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quantos anos Joiada tinha ao morrer?",
+      "answer": "Cento e trinta.",
+      "reference": "2Cr 24:15"
+    },
+    {
+      "id": "2CH.24.curiosity.2",
+      "bookNumber": 140,
+      "chapter": 24,
+      "verseStart": 20,
+      "verseEnd": 21,
+      "kind": "curiosity",
+      "prompt": "Como morreu Zacarias, filho de Joiada?",
+      "answer": "Foi apedrejado no pátio do templo, por ordem do rei.",
+      "reference": "2Cr 24:20-21"
+    },
+    {
+      "id": "2CH.25.subject.1",
+      "bookNumber": 140,
+      "chapter": 25,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "O que Amazias fez com os deuses de Seir depois da vitória?",
+      "answer": "Passou a adorá-los e queimou incenso para eles.",
+      "reference": "2Cr 25:14"
+    },
+    {
+      "id": "2CH.25.place.1",
+      "bookNumber": 140,
+      "chapter": 25,
+      "verseStart": 21,
+      "kind": "place",
+      "prompt": "Onde Joás de Israel enfrentou Amazias?",
+      "answer": "Em Bete-Semes.",
+      "reference": "2Cr 25:21"
+    },
+    {
+      "id": "2CH.25.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 25,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "O que Judá fez com dez mil prisioneiros de Seir?",
+      "answer": "Atirou-os de um penhasco, e todos se despedaçaram.",
+      "reference": "2Cr 25:12"
+    },
+    {
+      "id": "2CH.26.subject.1",
+      "bookNumber": 140,
+      "chapter": 26,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "O que Uzias fez quando o poder subiu à cabeça?",
+      "answer": "Entrou no templo para oferecer incenso.",
+      "reference": "2Cr 26:16"
+    },
+    {
+      "id": "2CH.26.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 26,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que apareceu na testa de Uzias ali mesmo?",
+      "answer": "Lepra.",
+      "reference": "2Cr 26:19"
+    },
+    {
+      "id": "2CH.26.curiosity.2",
+      "bookNumber": 140,
+      "chapter": 26,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "Até quando Uzias viveu com lepra?",
+      "answer": "Até morrer, numa casa separada.",
+      "reference": "2Cr 26:21"
+    },
+    {
+      "id": "2CH.27.subject.1",
+      "bookNumber": 140,
+      "chapter": 27,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Por que Jotão se fortaleceu?",
+      "answer": "Porque endireitou a conduta diante de Deus.",
+      "reference": "2Cr 27:6"
+    },
+    {
+      "id": "2CH.27.place.1",
+      "bookNumber": 140,
+      "chapter": 27,
+      "verseStart": 3,
+      "kind": "place",
+      "prompt": "O que Jotão construiu na casa de Deus?",
+      "answer": "A porta maior e muito do muro da fortaleza.",
+      "reference": "2Cr 27:3"
+    },
+    {
+      "id": "2CH.27.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 27,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que os amonitas pagaram a Jotão depois da vitória?",
+      "answer": "Cem talentos de prata, além de trigo e cevada.",
+      "reference": "2Cr 27:5"
+    },
+    {
+      "id": "2CH.28.subject.1",
+      "bookNumber": 140,
+      "chapter": 28,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que Acaz fez com os filhos no vale de Hinom?",
+      "answer": "Queimou-os no fogo, como as nações faziam.",
+      "reference": "2Cr 28:3"
+    },
+    {
+      "id": "2CH.28.name.1",
+      "bookNumber": 140,
+      "chapter": 28,
+      "verseStart": 9,
+      "verseEnd": 11,
+      "kind": "name",
+      "prompt": "Quem mandou Israel devolver os cativos de Judá?",
+      "answer": "O profeta Obede.",
+      "reference": "2Cr 28:9-11"
+    },
+    {
+      "id": "2CH.28.place.1",
+      "bookNumber": 140,
+      "chapter": 28,
+      "verseStart": 5,
+      "kind": "place",
+      "prompt": "Para onde os sírios levaram a presa tomada de Acaz?",
+      "answer": "Para Damasco.",
+      "reference": "2Cr 28:5"
+    },
+    {
+      "id": "2CH.28.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 28,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Quantos valentes de Judá Peca matou num só dia?",
+      "answer": "Cento e vinte mil.",
+      "reference": "2Cr 28:6"
+    },
+    {
+      "id": "2CH.29.subject.1",
+      "bookNumber": 140,
+      "chapter": 29,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que Ezequias mandou os levitas fazer na casa de Deus?",
+      "answer": "Santificar-se e tirar a sujeira do santuário.",
+      "reference": "2Cr 29:5"
+    },
+    {
+      "id": "2CH.29.place.1",
+      "bookNumber": 140,
+      "chapter": 29,
+      "verseStart": 16,
+      "kind": "place",
+      "prompt": "Para onde levaram a imundícia do templo, em 2 Crônicas?",
+      "answer": "Para o ribeiro de Cedrom.",
+      "reference": "2Cr 29:16"
+    },
+    {
+      "id": "2CH.29.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 29,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Quando terminaram de purificar a casa de Deus no tempo de Ezequias?",
+      "answer": "No dia dezesseis do primeiro mês.",
+      "reference": "2Cr 29:17"
+    },
+    {
+      "id": "2CH.30.subject.1",
+      "bookNumber": 140,
+      "chapter": 30,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "O que Ezequias convidou Israel e Judá a celebrar?",
+      "answer": "A Páscoa, na casa de Deus em Jerusalém.",
+      "reference": "2Cr 30:1"
+    },
+    {
+      "id": "2CH.30.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 30,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "Por que a Páscoa de Ezequias ficou para o segundo mês?",
+      "answer": "Faltavam sacerdotes purificados e o povo ainda não estava junto.",
+      "reference": "2Cr 30:3"
+    },
+    {
+      "id": "2CH.30.curiosity.2",
+      "bookNumber": 140,
+      "chapter": 30,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "Desde quando não havia festa assim em Jerusalém, com Ezequias?",
+      "answer": "Desde o tempo de Salomão, filho de Davi.",
+      "reference": "2Cr 30:26"
+    },
+    {
+      "id": "2CH.31.subject.1",
+      "bookNumber": 140,
+      "chapter": 31,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que o povo levou em grande quantidade à casa de Deus no tempo de Ezequias?",
+      "answer": "Primícias dos frutos e o dízimo de tudo.",
+      "reference": "2Cr 31:5"
+    },
+    {
+      "id": "2CH.31.place.1",
+      "bookNumber": 140,
+      "chapter": 31,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Onde Ezequias mandou guardar as ofertas do povo?",
+      "answer": "Em câmaras na casa de Deus.",
+      "reference": "2Cr 31:11"
+    },
+    {
+      "id": "2CH.31.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 31,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "Em quanto tempo juntaram os montes de ofertas, em 2 Crônicas?",
+      "answer": "Do terceiro mês até o sétimo.",
+      "reference": "2Cr 31:7"
+    },
+    {
+      "id": "2CH.32.subject.1",
+      "bookNumber": 140,
+      "chapter": 32,
+      "verseStart": 21,
+      "kind": "subject",
+      "prompt": "Como Jerusalém escapou de Senaqueribe?",
+      "answer": "Um anjo feriu o exército, e o rei voltou envergonhado.",
+      "reference": "2Cr 32:21"
+    },
+    {
+      "id": "2CH.32.place.1",
+      "bookNumber": 140,
+      "chapter": 32,
+      "verseStart": 9,
+      "kind": "place",
+      "prompt": "De onde Senaqueribe enviou os mensageiros a Ezequias?",
+      "answer": "De Laquis.",
+      "reference": "2Cr 32:9"
+    },
+    {
+      "id": "2CH.32.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 32,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "O que Deus deu a Ezequias quando ele orou, já à morte?",
+      "answer": "Resposta e um sinal.",
+      "reference": "2Cr 32:24"
+    },
+    {
+      "id": "2CH.32.curiosity.2",
+      "bookNumber": 140,
+      "chapter": 32,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "Por que Deus deixou Ezequias diante dos enviados da Babilônia?",
+      "answer": "Para prová-lo e mostrar o que havia no coração dele.",
+      "reference": "2Cr 32:31"
+    },
+    {
+      "id": "2CH.33.subject.1",
+      "bookNumber": 140,
+      "chapter": 33,
+      "verseStart": 12,
+      "verseEnd": 13,
+      "kind": "subject",
+      "prompt": "O que houve quando Manassés orou na angústia?",
+      "answer": "Deus ouviu e o devolveu a Jerusalém, ao reino dele.",
+      "reference": "2Cr 33:12-13"
+    },
+    {
+      "id": "2CH.33.place.1",
+      "bookNumber": 140,
+      "chapter": 33,
+      "verseStart": 11,
+      "kind": "place",
+      "prompt": "Para onde os assírios levaram Manassés preso?",
+      "answer": "Para a Babilônia.",
+      "reference": "2Cr 33:11"
+    },
+    {
+      "id": "2CH.33.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 33,
+      "verseStart": 1,
+      "kind": "curiosity",
+      "prompt": "Quantos anos Manassés reinou em Jerusalém?",
+      "answer": "Cinquenta e cinco.",
+      "reference": "2Cr 33:1"
+    },
+    {
+      "id": "2CH.34.subject.1",
+      "bookNumber": 140,
+      "chapter": 34,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "O que Hilquias achou na casa de Deus?",
+      "answer": "O livro da lei dada por meio de Moisés.",
+      "reference": "2Cr 34:14"
+    },
+    {
+      "id": "2CH.34.name.1",
+      "bookNumber": 140,
+      "chapter": 34,
+      "verseStart": 22,
+      "kind": "name",
+      "prompt": "Que profetisa Josias consultou sobre o livro da lei?",
+      "answer": "Hulda, que morava em Jerusalém.",
+      "reference": "2Cr 34:22"
+    },
+    {
+      "id": "2CH.34.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 34,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que Josias fez ao ouvir as palavras da lei?",
+      "answer": "Rasgou a própria roupa.",
+      "reference": "2Cr 34:19"
+    },
+    {
+      "id": "2CH.35.subject.1",
+      "bookNumber": 140,
+      "chapter": 35,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "Como foi a Páscoa que Josias celebrou?",
+      "answer": "Não houve outra igual em Israel desde o profeta Samuel.",
+      "reference": "2Cr 35:18"
+    },
+    {
+      "id": "2CH.35.place.1",
+      "bookNumber": 140,
+      "chapter": 35,
+      "verseStart": 22,
+      "kind": "place",
+      "prompt": "Onde Josias lutou contra Neco, rei do Egito?",
+      "answer": "No campo de Megido.",
+      "reference": "2Cr 35:22"
+    },
+    {
+      "id": "2CH.35.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 35,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Onde Josias morreu?",
+      "answer": "Em Jerusalém, e todo Judá fez luto por ele.",
+      "reference": "2Cr 35:24"
+    },
+    {
+      "id": "2CH.36.subject.1",
+      "bookNumber": 140,
+      "chapter": 36,
+      "verseStart": 19,
+      "verseEnd": 20,
+      "kind": "subject",
+      "prompt": "O que os caldeus fizeram com o templo e com Jerusalém?",
+      "answer": "O templo foi queimado, o muro caiu e quem sobrou foi levado embora.",
+      "reference": "2Cr 36:19-20"
+    },
+    {
+      "id": "2CH.36.name.1",
+      "bookNumber": 140,
+      "chapter": 36,
+      "verseStart": 22,
+      "kind": "name",
+      "prompt": "Quem mandou avisar que a casa de Deus seria reconstruída, em 2 Crônicas?",
+      "answer": "Ciro, rei dos persas.",
+      "reference": "2Cr 36:22"
+    },
+    {
+      "id": "2CH.36.place.1",
+      "bookNumber": 140,
+      "chapter": 36,
+      "verseStart": 23,
+      "kind": "place",
+      "prompt": "Onde Ciro mandou reconstruir a casa de Deus?",
+      "answer": "Em Jerusalém de Judá.",
+      "reference": "2Cr 36:23"
+    },
+    {
+      "id": "2CH.36.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 36,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "Quantos anos a terra descansou, como Jeremias tinha dito?",
+      "answer": "Setenta anos.",
+      "reference": "2Cr 36:21"
+    },
+    {
+      "id": "2CH.0.curiosity.1",
+      "bookNumber": 140,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu 2 Crônicas?",
+      "answer": "Esdras, pela tradição.",
+      "reference": "2 Crônicas"
+    },
+    {
+      "id": "2CH.0.curiosity.2",
+      "bookNumber": 140,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de 2 Crônicas?",
+      "answer": "No século V antes de Cristo.",
+      "reference": "2 Crônicas"
+    }
+  ]
+}

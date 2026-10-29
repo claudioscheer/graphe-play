@@ -1,0 +1,996 @@
+{
+  "cards": [
+    {
+      "id": "JOB.1.subject.1",
+      "bookNumber": 220,
+      "chapter": 1,
+      "verseStart": 22,
+      "kind": "subject",
+      "prompt": "Como Jó passou pela perda dos filhos e dos bens?",
+      "answer": "Sem pecar e sem atribuir falta a Deus.",
+      "reference": "Jó 1:22"
+    },
+    {
+      "id": "JOB.1.name.1",
+      "bookNumber": 220,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem era o homem íntegro da terra de Uz?",
+      "answer": "Jó, que temia a Deus e se afastava do mal.",
+      "reference": "Jó 1:1"
+    },
+    {
+      "id": "JOB.1.place.1",
+      "bookNumber": 220,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "place",
+      "prompt": "Onde morava Jó?",
+      "answer": "Na terra de Uz.",
+      "reference": "Jó 1:1"
+    },
+    {
+      "id": "JOB.1.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 1,
+      "verseStart": 2,
+      "kind": "curiosity",
+      "prompt": "Quantos filhos e filhas Jó teve?",
+      "answer": "Sete filhos e três filhas.",
+      "reference": "Jó 1:2"
+    },
+    {
+      "id": "JOB.2.subject.1",
+      "bookNumber": 220,
+      "chapter": 2,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Com o que Satanás feriu o corpo de Jó?",
+      "answer": "Com chagas malignas, dos pés até a cabeça.",
+      "reference": "Jó 2:7"
+    },
+    {
+      "id": "JOB.2.name.1",
+      "bookNumber": 220,
+      "chapter": 2,
+      "verseStart": 11,
+      "kind": "name",
+      "prompt": "Quem eram os três amigos que foram consolar Jó?",
+      "answer": "Elifaz, o temanita, Bildade, o suíta, e Zofar, o naamita.",
+      "reference": "Jó 2:11"
+    },
+    {
+      "id": "JOB.2.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 2,
+      "verseStart": 13,
+      "kind": "curiosity",
+      "prompt": "Quanto tempo os amigos de Jó ficaram sem falar?",
+      "answer": "Sete dias e sete noites.",
+      "reference": "Jó 2:13"
+    },
+    {
+      "id": "JOB.3.subject.1",
+      "bookNumber": 220,
+      "chapter": 3,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "Que dia Jó quis que perecesse?",
+      "answer": "O dia em que ele nasceu.",
+      "reference": "Jó 3:3"
+    },
+    {
+      "id": "JOB.3.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 3,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "O que o amargurado busca mais que tesouros, na queixa de Jó?",
+      "answer": "A morte, mesmo quando ela não chega.",
+      "reference": "Jó 3:21"
+    },
+    {
+      "id": "JOB.4.subject.1",
+      "bookNumber": 220,
+      "chapter": 4,
+      "verseStart": 17,
+      "kind": "subject",
+      "prompt": "O que Elifaz ouviu sobre o homem diante de Deus?",
+      "answer": "Se o ser humano seria mais justo que Deus.",
+      "reference": "Jó 4:17"
+    },
+    {
+      "id": "JOB.4.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 4,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "A que Elifaz compara quem mora em casa de barro?",
+      "answer": "A uma traça, fácil de esmagar.",
+      "reference": "Jó 4:19"
+    },
+    {
+      "id": "JOB.5.subject.1",
+      "bookNumber": 220,
+      "chapter": 5,
+      "verseStart": 18,
+      "kind": "subject",
+      "prompt": "O que Elifaz diz que Deus faz depois de ferir?",
+      "answer": "Abre a chaga, mas as mãos dele também curam.",
+      "reference": "Jó 5:18"
+    },
+    {
+      "id": "JOB.5.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 5,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "De quantas angústias Elifaz diz que Deus livra?",
+      "answer": "De seis, e na sétima o mal não toca.",
+      "reference": "Jó 5:19"
+    },
+    {
+      "id": "JOB.6.subject.1",
+      "bookNumber": 220,
+      "chapter": 6,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "A que Jó compara os amigos que falharam com ele?",
+      "answer": "A um ribeiro, porque foram traiçoeiros.",
+      "reference": "Jó 6:15"
+    },
+    {
+      "id": "JOB.6.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 6,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "Que exemplo sem sabor Jó usa na queixa?",
+      "answer": "A clara do ovo.",
+      "reference": "Jó 6:6"
+    },
+    {
+      "id": "JOB.7.subject.1",
+      "bookNumber": 220,
+      "chapter": 7,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "A que Jó se compara, ao reclamar de ser vigiado?",
+      "answer": "Ao mar ou a um monstro marinho.",
+      "reference": "Jó 7:12"
+    },
+    {
+      "id": "JOB.7.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 7,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "A que Jó compara a pressa dos seus dias?",
+      "answer": "À lançadeira de um tecelão.",
+      "reference": "Jó 7:6"
+    },
+    {
+      "id": "JOB.8.subject.1",
+      "bookNumber": 220,
+      "chapter": 8,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que Bildade diz do castigo dos filhos de Jó?",
+      "answer": "Se pecaram, Deus os entregou por essa culpa.",
+      "reference": "Jó 8:4"
+    },
+    {
+      "id": "JOB.8.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 8,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "A que Bildade compara a confiança que se desfaz?",
+      "answer": "À teia de uma aranha.",
+      "reference": "Jó 8:14"
+    },
+    {
+      "id": "JOB.9.subject.1",
+      "bookNumber": 220,
+      "chapter": 9,
+      "verseStart": 33,
+      "kind": "subject",
+      "prompt": "O que Jó diz que não há entre ele e Deus?",
+      "answer": "Um árbitro que ponha a mão sobre os dois.",
+      "reference": "Jó 9:33"
+    },
+    {
+      "id": "JOB.9.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 9,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Quais astros Jó diz que Deus fez?",
+      "answer": "A Ursa, Órion e as Plêiades, mais as do sul.",
+      "reference": "Jó 9:9"
+    },
+    {
+      "id": "JOB.10.subject.1",
+      "bookNumber": 220,
+      "chapter": 10,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "A que Jó compara o jeito como Deus o formou?",
+      "answer": "A leite derramado e a queijo que coalhou.",
+      "reference": "Jó 10:10"
+    },
+    {
+      "id": "JOB.10.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 10,
+      "verseStart": 21,
+      "kind": "curiosity",
+      "prompt": "Para onde Jó diz que vai, sem poder voltar?",
+      "answer": "Para uma terra escura, de sombra mortal.",
+      "reference": "Jó 10:21"
+    },
+    {
+      "id": "JOB.11.subject.1",
+      "bookNumber": 220,
+      "chapter": 11,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Zofar diz do castigo de Jó diante da culpa?",
+      "answer": "Que Deus pune menos do que a perversidade merece.",
+      "reference": "Jó 11:6"
+    },
+    {
+      "id": "JOB.11.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 11,
+      "verseStart": 8,
+      "kind": "curiosity",
+      "prompt": "Até onde chega a sabedoria de Deus, segundo Zofar?",
+      "answer": "Mais alta que os céus e mais funda que o mundo dos mortos.",
+      "reference": "Jó 11:8"
+    },
+    {
+      "id": "JOB.12.subject.1",
+      "bookNumber": 220,
+      "chapter": 12,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Quem Jó manda consultar, porque eles ensinam?",
+      "answer": "Os animais e as aves do céu.",
+      "reference": "Jó 12:7"
+    },
+    {
+      "id": "JOB.12.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 12,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que Jó diz que virou para os amigos?",
+      "answer": "Motivo de riso, embora Deus lhe respondesse.",
+      "reference": "Jó 12:4"
+    },
+    {
+      "id": "JOB.13.subject.1",
+      "bookNumber": 220,
+      "chapter": 13,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "O que Jó fará mesmo se Deus o matar?",
+      "answer": "Ainda espera nele e defende a própria conduta.",
+      "reference": "Jó 13:15"
+    },
+    {
+      "id": "JOB.13.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 13,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "Como Jó chama os amigos?",
+      "answer": "Inventores de mentira e médicos que não ajudam.",
+      "reference": "Jó 13:4"
+    },
+    {
+      "id": "JOB.14.subject.1",
+      "bookNumber": 220,
+      "chapter": 14,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "O que Jó pergunta sobre o homem que morre?",
+      "answer": "Se ele voltará a viver algum dia.",
+      "reference": "Jó 14:14"
+    },
+    {
+      "id": "JOB.14.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 14,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que uma árvore cortada ainda pode fazer, segundo Jó?",
+      "answer": "Renovar-se, e os brotos não param.",
+      "reference": "Jó 14:7"
+    },
+    {
+      "id": "JOB.14.curiosity.2",
+      "bookNumber": 220,
+      "chapter": 14,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Onde Jó queria a transgressão guardada?",
+      "answer": "Selada dentro de uma bolsa.",
+      "reference": "Jó 14:17"
+    },
+    {
+      "id": "JOB.15.subject.1",
+      "bookNumber": 220,
+      "chapter": 15,
+      "verseStart": 16,
+      "kind": "subject",
+      "prompt": "Como o homem corrupto bebe a maldade, segundo Elifaz?",
+      "answer": "Do mesmo jeito que se bebe água.",
+      "reference": "Jó 15:16"
+    },
+    {
+      "id": "JOB.15.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 15,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que Elifaz pergunta sobre o nascimento de Jó?",
+      "answer": "Se ele foi o primeiro homem ou nasceu antes dos morros.",
+      "reference": "Jó 15:7"
+    },
+    {
+      "id": "JOB.16.subject.1",
+      "bookNumber": 220,
+      "chapter": 16,
+      "verseStart": 19,
+      "kind": "subject",
+      "prompt": "Onde está a testemunha de Jó, segundo ele?",
+      "answer": "No céu, e quem o defende está nas alturas.",
+      "reference": "Jó 16:19"
+    },
+    {
+      "id": "JOB.16.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 16,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Em que Deus transformou Jó, na queixa dele?",
+      "answer": "Num alvo para os golpes.",
+      "reference": "Jó 16:12"
+    },
+    {
+      "id": "JOB.17.subject.1",
+      "bookNumber": 220,
+      "chapter": 17,
+      "verseStart": 14,
+      "kind": "subject",
+      "prompt": "Quem Jó chama de pai, mãe e irmã?",
+      "answer": "A cova é o pai; os vermes, a mãe e a irmã.",
+      "reference": "Jó 17:14"
+    },
+    {
+      "id": "JOB.17.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 17,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que Jó diz que lhe fazem no rosto?",
+      "answer": "Cospem, e ele virou um ditado entre os povos.",
+      "reference": "Jó 17:6"
+    },
+    {
+      "id": "JOB.18.subject.1",
+      "bookNumber": 220,
+      "chapter": 18,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que acontece com a lâmpada do perverso, segundo Bildade?",
+      "answer": "Apaga-se, e a luz da tenda escurece.",
+      "reference": "Jó 18:6"
+    },
+    {
+      "id": "JOB.18.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 18,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Para quem o perverso é levado, segundo Bildade?",
+      "answer": "Para o rei dos assombros.",
+      "reference": "Jó 18:14"
+    },
+    {
+      "id": "JOB.19.subject.1",
+      "bookNumber": 220,
+      "chapter": 19,
+      "verseStart": 25,
+      "kind": "subject",
+      "prompt": "Quem Jó diz que vive e no fim se levantará?",
+      "answer": "O Redentor dele, que se erguerá sobre a terra.",
+      "reference": "Jó 19:25"
+    },
+    {
+      "id": "JOB.19.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 19,
+      "verseStart": 26,
+      "kind": "curiosity",
+      "prompt": "O que Jó espera ver na própria carne?",
+      "answer": "A Deus, ainda que a pele já tenha se acabado.",
+      "reference": "Jó 19:26"
+    },
+    {
+      "id": "JOB.19.curiosity.2",
+      "bookNumber": 220,
+      "chapter": 19,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "Como Jó queria gravar suas palavras para sempre?",
+      "answer": "Na pedra, usando ferro e chumbo.",
+      "reference": "Jó 19:24"
+    },
+    {
+      "id": "JOB.20.subject.1",
+      "bookNumber": 220,
+      "chapter": 20,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Quanto tempo dura a alegria do hipócrita, segundo Zofar?",
+      "answer": "Só um momento.",
+      "reference": "Jó 20:5"
+    },
+    {
+      "id": "JOB.20.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 20,
+      "verseStart": 14,
+      "kind": "curiosity",
+      "prompt": "Em que a comida do perverso se transforma, segundo Zofar?",
+      "answer": "Em veneno de cobra, lá dentro.",
+      "reference": "Jó 20:14"
+    },
+    {
+      "id": "JOB.21.subject.1",
+      "bookNumber": 220,
+      "chapter": 21,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que Jó pergunta sobre a vida dos perversos?",
+      "answer": "Por que vivem, envelhecem e ainda ficam fortes.",
+      "reference": "Jó 21:7"
+    },
+    {
+      "id": "JOB.21.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 21,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "Com que os filhos dos perversos se alegram, segundo Jó?",
+      "answer": "Com tamboril, harpa e flauta.",
+      "reference": "Jó 21:12"
+    },
+    {
+      "id": "JOB.22.subject.1",
+      "bookNumber": 220,
+      "chapter": 22,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "O que Elifaz acusa Jó de tirar das pessoas?",
+      "answer": "O penhor sem motivo e a roupa de quem estava nu.",
+      "reference": "Jó 22:6"
+    },
+    {
+      "id": "JOB.22.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 22,
+      "verseStart": 24,
+      "kind": "curiosity",
+      "prompt": "O que Elifaz manda fazer com o ouro?",
+      "answer": "Jogá-lo no pó, também o que vem de Ofir.",
+      "reference": "Jó 22:24"
+    },
+    {
+      "id": "JOB.23.subject.1",
+      "bookNumber": 220,
+      "chapter": 23,
+      "verseStart": 8,
+      "verseEnd": 9,
+      "kind": "subject",
+      "prompt": "Em que direções Jó busca Deus sem o encontrar?",
+      "answer": "No oriente, no ocidente, no norte e no sul.",
+      "reference": "Jó 23:8-9"
+    },
+    {
+      "id": "JOB.23.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 23,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "Como Jó diz que sairá quando Deus o provar?",
+      "answer": "Sairá como ouro.",
+      "reference": "Jó 23:10"
+    },
+    {
+      "id": "JOB.24.subject.1",
+      "bookNumber": 220,
+      "chapter": 24,
+      "verseStart": 3,
+      "kind": "subject",
+      "prompt": "O que tiram do órfão e da viúva, na denúncia de Jó?",
+      "answer": "Levam o jumento do órfão e tomam o boi da viúva em penhor.",
+      "reference": "Jó 24:3"
+    },
+    {
+      "id": "JOB.24.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 24,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "Quando o adúltero age, segundo Jó?",
+      "answer": "No crepúsculo, achando que ninguém o vê.",
+      "reference": "Jó 24:15"
+    },
+    {
+      "id": "JOB.25.subject.1",
+      "bookNumber": 220,
+      "chapter": 25,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "A que Bildade compara o ser humano?",
+      "answer": "A uma larva, e o filho do homem a um verme.",
+      "reference": "Jó 25:6"
+    },
+    {
+      "id": "JOB.25.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 25,
+      "verseStart": 5,
+      "kind": "curiosity",
+      "prompt": "O que nem as estrelas são diante de Deus, segundo Bildade?",
+      "answer": "Elas não são puras aos olhos dele.",
+      "reference": "Jó 25:5"
+    },
+    {
+      "id": "JOB.26.subject.1",
+      "bookNumber": 220,
+      "chapter": 26,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Sobre o que Jó diz que Deus suspende a terra?",
+      "answer": "Ele a suspende sobre o nada.",
+      "reference": "Jó 26:7"
+    },
+    {
+      "id": "JOB.26.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 26,
+      "verseStart": 12,
+      "kind": "curiosity",
+      "prompt": "A quem Deus derruba ao agitar o mar, segundo Jó?",
+      "answer": "Ele abate Raabe.",
+      "reference": "Jó 26:12"
+    },
+    {
+      "id": "JOB.27.subject.1",
+      "bookNumber": 220,
+      "chapter": 27,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "O que Jó recusa soltar até morrer?",
+      "answer": "A própria integridade.",
+      "reference": "Jó 27:5"
+    },
+    {
+      "id": "JOB.27.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 27,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "A que Jó compara a prata do perverso?",
+      "answer": "Ao pó do chão.",
+      "reference": "Jó 27:16"
+    },
+    {
+      "id": "JOB.28.subject.1",
+      "bookNumber": 220,
+      "chapter": 28,
+      "verseStart": 28,
+      "kind": "subject",
+      "prompt": "O que Deus aponta como sabedoria no livro de Jó?",
+      "answer": "Temer a Deus; a inteligência é deixar o mal.",
+      "reference": "Jó 28:28"
+    },
+    {
+      "id": "JOB.28.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 28,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Que riquezas não pagam a sabedoria no livro de Jó?",
+      "answer": "O ouro de Ofir, o ônix e a safira.",
+      "reference": "Jó 28:16"
+    },
+    {
+      "id": "JOB.29.subject.1",
+      "bookNumber": 220,
+      "chapter": 29,
+      "verseStart": 6,
+      "kind": "subject",
+      "prompt": "Com o que Jó diz que lavava os próprios passos?",
+      "answer": "Com manteiga, enquanto azeite corria da rocha.",
+      "reference": "Jó 29:6"
+    },
+    {
+      "id": "JOB.29.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 29,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "O que Jó era para o cego e para o manco?",
+      "answer": "A vista de um e os pés do outro.",
+      "reference": "Jó 29:15"
+    },
+    {
+      "id": "JOB.30.subject.1",
+      "bookNumber": 220,
+      "chapter": 30,
+      "verseStart": 29,
+      "kind": "subject",
+      "prompt": "De quais bichos Jó diz que ficou parente?",
+      "answer": "Irmão dos chacais e parceiro dos avestruzes.",
+      "reference": "Jó 30:29"
+    },
+    {
+      "id": "JOB.30.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 30,
+      "verseStart": 31,
+      "kind": "curiosity",
+      "prompt": "O que aconteceu com a harpa e a flauta de Jó?",
+      "answer": "A harpa virou lamento, e a flauta, choro.",
+      "reference": "Jó 30:31"
+    },
+    {
+      "id": "JOB.31.subject.1",
+      "bookNumber": 220,
+      "chapter": 31,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Que acordo Jó fez com os olhos?",
+      "answer": "O de não olhar com cobiça para uma virgem.",
+      "reference": "Jó 31:1"
+    },
+    {
+      "id": "JOB.31.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 31,
+      "verseStart": 40,
+      "kind": "curiosity",
+      "prompt": "O que Jó pede que nasça no lugar do trigo?",
+      "answer": "Cardos no trigo, e mato na cevada.",
+      "reference": "Jó 31:40"
+    },
+    {
+      "id": "JOB.32.subject.1",
+      "bookNumber": 220,
+      "chapter": 32,
+      "verseStart": 2,
+      "kind": "subject",
+      "prompt": "Por que Eliú se irou contra Jó?",
+      "answer": "Porque Jó se justificava mais do que a Deus.",
+      "reference": "Jó 32:2"
+    },
+    {
+      "id": "JOB.32.name.1",
+      "bookNumber": 220,
+      "chapter": 32,
+      "verseStart": 2,
+      "kind": "name",
+      "prompt": "De quem Eliú era filho?",
+      "answer": "De Baraquel, da família de Rão, povo buzita.",
+      "reference": "Jó 32:2"
+    },
+    {
+      "id": "JOB.32.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 32,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "A que Eliú compara o ventre cheio de palavras?",
+      "answer": "A vinho sem saída, como odres novos.",
+      "reference": "Jó 32:19"
+    },
+    {
+      "id": "JOB.33.subject.1",
+      "bookNumber": 220,
+      "chapter": 33,
+      "verseStart": 24,
+      "kind": "subject",
+      "prompt": "O que Eliú diz que foi achado para livrar o homem?",
+      "answer": "Um resgate, para ele não cair na perdição.",
+      "reference": "Jó 33:24"
+    },
+    {
+      "id": "JOB.33.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 33,
+      "verseStart": 15,
+      "kind": "curiosity",
+      "prompt": "De que modo Eliú diz que Deus fala de noite?",
+      "answer": "Por sonho, ou numa visão durante a noite.",
+      "reference": "Jó 33:15"
+    },
+    {
+      "id": "JOB.34.subject.1",
+      "bookNumber": 220,
+      "chapter": 34,
+      "verseStart": 12,
+      "kind": "subject",
+      "prompt": "O que Eliú diz que Deus não faz?",
+      "answer": "Não comete injustiça nem entorta o direito.",
+      "reference": "Jó 34:12"
+    },
+    {
+      "id": "JOB.34.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 34,
+      "verseStart": 20,
+      "kind": "curiosity",
+      "prompt": "Em que hora os povos são abalados, segundo Eliú?",
+      "answer": "No meio da noite, de um instante para outro.",
+      "reference": "Jó 34:20"
+    },
+    {
+      "id": "JOB.35.subject.1",
+      "bookNumber": 220,
+      "chapter": 35,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "O que o Criador dá na noite, segundo Eliú?",
+      "answer": "Ele dá canções.",
+      "reference": "Jó 35:10"
+    },
+    {
+      "id": "JOB.35.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 35,
+      "verseStart": 16,
+      "kind": "curiosity",
+      "prompt": "Como Eliú descreve o discurso de Jó?",
+      "answer": "Falou à toa, sem saber o que dizia.",
+      "reference": "Jó 35:16"
+    },
+    {
+      "id": "JOB.36.subject.1",
+      "bookNumber": 220,
+      "chapter": 36,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "Para que Deus fala ao ouvido do aflito, segundo Eliú?",
+      "answer": "Para corrigi-las e elas deixarem a maldade.",
+      "reference": "Jó 36:10"
+    },
+    {
+      "id": "JOB.36.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 36,
+      "verseStart": 27,
+      "kind": "curiosity",
+      "prompt": "O que Deus faz com as gotas de água, segundo Eliú?",
+      "answer": "Eleva-as, e elas descem em chuva.",
+      "reference": "Jó 36:27"
+    },
+    {
+      "id": "JOB.37.subject.1",
+      "bookNumber": 220,
+      "chapter": 37,
+      "verseStart": 5,
+      "kind": "subject",
+      "prompt": "Como é a voz de Deus, na descrição de Eliú?",
+      "answer": "Um trovão maravilhoso, em obras grandes demais.",
+      "reference": "Jó 37:5"
+    },
+    {
+      "id": "JOB.37.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 37,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que o sopro de Deus produz, segundo Eliú?",
+      "answer": "Gelo, e as águas grandes ficam congeladas.",
+      "reference": "Jó 37:10"
+    },
+    {
+      "id": "JOB.38.subject.1",
+      "bookNumber": 220,
+      "chapter": 38,
+      "verseStart": 4,
+      "kind": "subject",
+      "prompt": "O que Deus pergunta a Jó sobre o começo da terra?",
+      "answer": "Onde ele estava quando a terra foi fundada.",
+      "reference": "Jó 38:4"
+    },
+    {
+      "id": "JOB.38.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 38,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que faziam as estrelas da manhã e os filhos de Deus, em Jó?",
+      "answer": "Umas cantavam em coro; os filhos de Deus gritavam de alegria.",
+      "reference": "Jó 38:7"
+    },
+    {
+      "id": "JOB.38.curiosity.2",
+      "bookNumber": 220,
+      "chapter": 38,
+      "verseStart": 11,
+      "kind": "curiosity",
+      "prompt": "Que limite Deus afirmou a Jó para as ondas do mar?",
+      "answer": "Elas vão até um ponto e não passam.",
+      "reference": "Jó 38:11"
+    },
+    {
+      "id": "JOB.39.subject.1",
+      "bookNumber": 220,
+      "chapter": 39,
+      "verseStart": 25,
+      "kind": "subject",
+      "prompt": "O que o cavalo fareja de longe, na fala de Deus, em Jó?",
+      "answer": "A batalha, junto com a gritaria dos chefes.",
+      "reference": "Jó 39:25"
+    },
+    {
+      "id": "JOB.39.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 39,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "O que faltou à avestruz, segundo Deus, em Jó?",
+      "answer": "Sabedoria e entendimento.",
+      "reference": "Jó 39:17"
+    },
+    {
+      "id": "JOB.39.curiosity.2",
+      "bookNumber": 220,
+      "chapter": 39,
+      "verseStart": 5,
+      "verseEnd": 6,
+      "kind": "curiosity",
+      "prompt": "Que casa Deus deu ao asno selvagem, em Jó?",
+      "answer": "O deserto sem gente e a terra salgada.",
+      "reference": "Jó 39:5-6"
+    },
+    {
+      "id": "JOB.40.subject.1",
+      "bookNumber": 220,
+      "chapter": 40,
+      "verseStart": 15,
+      "kind": "subject",
+      "prompt": "Que animal Deus manda Jó observar?",
+      "answer": "O beemote, que pasta erva como faz o boi.",
+      "reference": "Jó 40:15"
+    },
+    {
+      "id": "JOB.40.place.1",
+      "bookNumber": 220,
+      "chapter": 40,
+      "verseStart": 23,
+      "kind": "place",
+      "prompt": "Que rio o beemote enfrenta sem se apressar, em Jó?",
+      "answer": "O Jordão, mesmo quando transborda até a boca.",
+      "reference": "Jó 40:23"
+    },
+    {
+      "id": "JOB.40.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 40,
+      "verseStart": 17,
+      "kind": "curiosity",
+      "prompt": "Como é a cauda do beemote, em Jó?",
+      "answer": "Fica rígida, parecida com um cedro.",
+      "reference": "Jó 40:17"
+    },
+    {
+      "id": "JOB.40.curiosity.2",
+      "bookNumber": 220,
+      "chapter": 40,
+      "verseStart": 4,
+      "kind": "curiosity",
+      "prompt": "O que Jó fez com a mão diante de Deus?",
+      "answer": "Levou-a à boca, por se achar pequeno demais.",
+      "reference": "Jó 40:4"
+    },
+    {
+      "id": "JOB.41.subject.1",
+      "bookNumber": 220,
+      "chapter": 41,
+      "verseStart": 1,
+      "kind": "subject",
+      "prompt": "Como Deus pergunta se alguém pegaria o leviatã, em Jó?",
+      "answer": "Com anzol, ou com uma corda na língua.",
+      "reference": "Jó 41:1"
+    },
+    {
+      "id": "JOB.41.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 41,
+      "verseStart": 19,
+      "kind": "curiosity",
+      "prompt": "O que sai da boca do leviatã, em Jó?",
+      "answer": "Tochas, e faíscas de fogo pulam fora.",
+      "reference": "Jó 41:19"
+    },
+    {
+      "id": "JOB.41.curiosity.2",
+      "bookNumber": 220,
+      "chapter": 41,
+      "verseStart": 34,
+      "kind": "curiosity",
+      "prompt": "Que título o leviatã tem sobre os bichos soberbos, em Jó?",
+      "answer": "Ele é o rei de todos eles.",
+      "reference": "Jó 41:34"
+    },
+    {
+      "id": "JOB.42.subject.1",
+      "bookNumber": 220,
+      "chapter": 42,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "Por que a ira de Deus se acendeu contra Elifaz e os dois amigos?",
+      "answer": "Porque não disseram o que era certo sobre Deus, como Jó disse.",
+      "reference": "Jó 42:7"
+    },
+    {
+      "id": "JOB.42.name.1",
+      "bookNumber": 220,
+      "chapter": 42,
+      "verseStart": 14,
+      "kind": "name",
+      "prompt": "Quais nomes Jó deu às três filhas?",
+      "answer": "Jemima, Quézia e Quéren-Hapuque.",
+      "reference": "Jó 42:14"
+    },
+    {
+      "id": "JOB.42.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 42,
+      "verseStart": 6,
+      "kind": "curiosity",
+      "prompt": "O que Jó fez no pó e na cinza?",
+      "answer": "Abominou-se e se arrependeu ali.",
+      "reference": "Jó 42:6"
+    },
+    {
+      "id": "JOB.42.curiosity.2",
+      "bookNumber": 220,
+      "chapter": 42,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que Deus fez pelos bens de Jó enquanto ele orava?",
+      "answer": "Tirou o infortúnio e deu o dobro do que possuía.",
+      "reference": "Jó 42:10"
+    },
+    {
+      "id": "JOB.0.curiosity.1",
+      "bookNumber": 220,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Jó?",
+      "answer": "O livro não diz o autor.",
+      "reference": "Jó"
+    },
+    {
+      "id": "JOB.0.curiosity.2",
+      "bookNumber": 220,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Jó?",
+      "answer": "A data não é marcada. A história é antiga.",
+      "reference": "Jó"
+    }
+  ]
+}

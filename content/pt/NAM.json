@@ -1,0 +1,144 @@
+{
+  "cards": [
+    {
+      "id": "NAM.1.subject.1",
+      "bookNumber": 410,
+      "chapter": 1,
+      "verseStart": 8,
+      "kind": "subject",
+      "prompt": "Como Naum diz que Deus acabará com Nínive?",
+      "answer": "Com uma enchente violenta.",
+      "reference": "Na 1:8"
+    },
+    {
+      "id": "NAM.1.name.1",
+      "bookNumber": 410,
+      "chapter": 1,
+      "verseStart": 1,
+      "kind": "name",
+      "prompt": "Quem teve a visão contra Nínive?",
+      "answer": "Naum, o elcosita.",
+      "reference": "Na 1:1"
+    },
+    {
+      "id": "NAM.1.place.1",
+      "bookNumber": 410,
+      "chapter": 1,
+      "verseStart": 15,
+      "kind": "place",
+      "prompt": "Qual terra Naum manda festejar o fim do maligno?",
+      "answer": "Judá.",
+      "reference": "Na 1:15"
+    },
+    {
+      "id": "NAM.1.curiosity.1",
+      "bookNumber": 410,
+      "chapter": 1,
+      "verseStart": 7,
+      "kind": "curiosity",
+      "prompt": "O que Naum diz que Deus é no dia da angústia?",
+      "answer": "Uma fortaleza para quem confia nele.",
+      "reference": "Na 1:7"
+    },
+    {
+      "id": "NAM.2.subject.1",
+      "bookNumber": 410,
+      "chapter": 2,
+      "verseStart": 10,
+      "kind": "subject",
+      "prompt": "Como Nínive fica no ataque descrito por Naum?",
+      "answer": "Vazia, devastada e em ruínas.",
+      "reference": "Na 2:10"
+    },
+    {
+      "id": "NAM.2.place.1",
+      "bookNumber": 410,
+      "chapter": 2,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Que cidade Naum compara a um tanque que se esvazia?",
+      "answer": "Nínive.",
+      "reference": "Na 2:8"
+    },
+    {
+      "id": "NAM.2.curiosity.1",
+      "bookNumber": 410,
+      "chapter": 2,
+      "verseStart": 3,
+      "kind": "curiosity",
+      "prompt": "De que cor são os escudos dos que atacam Nínive?",
+      "answer": "Vermelhos.",
+      "reference": "Na 2:3"
+    },
+    {
+      "id": "NAM.2.curiosity.2",
+      "bookNumber": 410,
+      "chapter": 2,
+      "verseStart": 9,
+      "kind": "curiosity",
+      "prompt": "Que metais Naum manda saquear em Nínive?",
+      "answer": "Prata e ouro.",
+      "reference": "Na 2:9"
+    },
+    {
+      "id": "NAM.3.subject.1",
+      "bookNumber": 410,
+      "chapter": 3,
+      "verseStart": 7,
+      "kind": "subject",
+      "prompt": "O que dirão de Nínive ao vê-la caída?",
+      "answer": "Que está destruída e sem quem a console.",
+      "reference": "Na 3:7"
+    },
+    {
+      "id": "NAM.3.name.1",
+      "bookNumber": 410,
+      "chapter": 3,
+      "verseStart": 18,
+      "kind": "name",
+      "prompt": "Qual rei tem pastores que cochilam, em Naum?",
+      "answer": "O rei da Assíria.",
+      "reference": "Na 3:18"
+    },
+    {
+      "id": "NAM.3.place.1",
+      "bookNumber": 410,
+      "chapter": 3,
+      "verseStart": 8,
+      "kind": "place",
+      "prompt": "Com qual cidade entre rios Naum compara Nínive?",
+      "answer": "Com Nô-Amom.",
+      "reference": "Na 3:8"
+    },
+    {
+      "id": "NAM.3.curiosity.1",
+      "bookNumber": 410,
+      "chapter": 3,
+      "verseStart": 10,
+      "kind": "curiosity",
+      "prompt": "O que fizeram com os nobres de Nô-Amom?",
+      "answer": "Jogaram sortes sobre eles.",
+      "reference": "Na 3:10"
+    },
+    {
+      "id": "NAM.0.curiosity.1",
+      "bookNumber": 410,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu Naum?",
+      "answer": "Naum.",
+      "reference": "Naum"
+    },
+    {
+      "id": "NAM.0.curiosity.2",
+      "bookNumber": 410,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando foi escrito o livro de Naum?",
+      "answer": "Antes da queda de Nínive, em 612 antes de Cristo.",
+      "reference": "Naum"
+    }
+  ]
+}
