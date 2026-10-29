@@ -28,6 +28,19 @@ class QuizTest {
     }
 
     @Test
+    fun writtenWrongsAreTheQuizOptions() {
+        val card = card("EXO.1.curiosity.1", bookNumber = 20).copy(
+            prompt = "O que Faraó mandou fazer com todo menino recém-nascido?",
+            answer = "Lançá-lo no rio.",
+            wrongs = listOf("Escondê-lo em casa.", "Deixá-lo no deserto.", "Entregá-lo aos soldados."),
+        )
+        val other = card("HIS.0.curiosity.41", bookNumber = 0).copy(answer = "Pregador da Boêmia.")
+        val question = buildQuiz(listOf(card), listOf(card, other), count = 1, random = Random(1)).single()
+        val wrong = question.options.filter { !it.correct }.map { it.text }.toSet()
+        assertEquals(card.wrongs.toSet(), wrong)
+    }
+
+    @Test
     fun aShortScopeStillMakesAQuiz() {
         val cards = listOf(
             card("a").copy(answer = "Um"),
@@ -64,6 +77,20 @@ class QuizTest {
         assertEquals(4, question.options.size)
         assertEquals(1, question.options.count { it.correct })
         assertEquals(correct.text, question.options.first { it.correct }.text)
+    }
+
+    @Test
+    fun verseDistractorsComeFromTheSameBook() {
+        val correct = MemoryVerse(20, 1, 2, "Texto de Êxodo 1:2.")
+        val exodus = listOf(
+            MemoryVerse(20, 1, 3, "Outro texto de Êxodo."),
+            MemoryVerse(20, 2, 1, "Mais um texto de Êxodo."),
+            MemoryVerse(20, 12, 4, "Um texto de outro capítulo de Êxodo."),
+        )
+        val genesis = MemoryVerse(10, 1, 1, "Texto de Gênesis.")
+        val question = verseQuizQuestion(correct, exodus + genesis, Random(1))
+        val wrong = question!!.options.filter { !it.correct }.map { it.text }
+        assertEquals(exodus.map { it.text }.toSet(), wrong.toSet())
     }
 
     @Test

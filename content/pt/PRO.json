@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que é o princípio do conhecimento?",
       "answer": "O temor a Deus.",
-      "reference": "Pv 1:7"
+      "reference": "Pv 1:7",
+      "wrongs": [
+        "A fala dos sábios.",
+        "O estudo longo.",
+        "A riqueza herdada."
+      ]
     },
     {
       "id": "PRO.1.curiosity.1",
@@ -18,7 +23,12 @@
       "kind": "curiosity",
       "prompt": "O que o filho deve fazer se pecadores tentarem convencê-lo?",
       "answer": "Não se deixar convencer por eles.",
-      "reference": "Pv 1:10"
+      "reference": "Pv 1:10",
+      "wrongs": [
+        "Ceder uma vez e guardar a paz.",
+        "Ouvir a maioria e ir junto.",
+        "Aceitar o convite se o lucro for grande."
+      ]
     },
     {
       "id": "PRO.2.subject.1",
@@ -28,7 +38,12 @@
       "kind": "subject",
       "prompt": "A que os provérbios comparam a busca da sabedoria?",
       "answer": "À procura de prata e de tesouro escondido.",
-      "reference": "Pv 2:4"
+      "reference": "Pv 2:4",
+      "wrongs": [
+        "À espera de chuva e de vento forte.",
+        "À guarda de um rebanho no campo.",
+        "À viagem sem mapa e sem pressa."
+      ]
     },
     {
       "id": "PRO.2.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "De que mulher a sabedoria pode livrar o jovem?",
       "answer": "Da mulher estranha, que fala para seduzir.",
-      "reference": "Pv 2:16"
+      "reference": "Pv 2:16",
+      "wrongs": [
+        "Da mulher virtuosa, que fala com juízo.",
+        "Da mãe idosa, que corrige em casa.",
+        "Da filha do rei, que pede conselho."
+      ]
     },
     {
       "id": "PRO.3.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Em quem se deve confiar de todo o coração?",
       "answer": "Em Deus, e não no próprio entendimento.",
-      "reference": "Pv 3:5"
+      "reference": "Pv 3:5",
+      "wrongs": [
+        "Em si mesmo, e não em mais ninguém.",
+        "Nos sábios, e não na própria família.",
+        "Na sorte, e não no trabalho diário."
+      ]
     },
     {
       "id": "PRO.3.curiosity.1",
@@ -58,7 +83,12 @@
       "kind": "curiosity",
       "prompt": "A quem Deus corrige do jeito de um pai?",
       "answer": "A quem ele ama.",
-      "reference": "Pv 3:12"
+      "reference": "Pv 3:12",
+      "wrongs": [
+        "A quem ele rejeita.",
+        "A quem nunca o busca.",
+        "A quem já é perfeito."
+      ]
     },
     {
       "id": "PRO.4.subject.1",
@@ -68,7 +98,12 @@
       "kind": "subject",
       "prompt": "O que os provérbios mandam guardar acima de tudo?",
       "answer": "O coração, porque dele procede a vida.",
-      "reference": "Pv 4:23"
+      "reference": "Pv 4:23",
+      "wrongs": [
+        "A bolsa, porque dela procede o pão.",
+        "A fama, porque dela procede a honra.",
+        "A casa, porque dela procede o descanso."
+      ]
     },
     {
       "id": "PRO.4.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "A que se compara o caminho de quem é justo?",
       "answer": "A uma luz que brilha cada vez mais.",
-      "reference": "Pv 4:18"
+      "reference": "Pv 4:18",
+      "wrongs": [
+        "A uma noite que fecha cada vez mais.",
+        "A uma estrada que some no mato.",
+        "A uma lâmpada que se apaga cedo."
+      ]
     },
     {
       "id": "PRO.5.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "De onde o homem deve beber água, nos provérbios, em Provérbios?",
       "answer": "Da cisterna dele e do poço dele.",
-      "reference": "Pv 5:15"
+      "reference": "Pv 5:15",
+      "wrongs": [
+        "Do rio do vizinho e do poço aberto.",
+        "Da fonte da praça e do copo alheio.",
+        "Da chuva da rua e do cântaro emprestado."
+      ]
     },
     {
       "id": "PRO.5.curiosity.1",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "Como termina o caminho da mulher pervertida?",
       "answer": "Fica mais amargo do que o absinto e corta feito espada.",
-      "reference": "Pv 5:4"
+      "reference": "Pv 5:4",
+      "wrongs": [
+        "Fica mais doce do que o mel e cura feito remédio.",
+        "Fica mais leve do que o vento e passa sem marca.",
+        "Fica mais claro do que o meio-dia e leva à festa."
+      ]
     },
     {
       "id": "PRO.6.subject.1",
@@ -108,7 +158,12 @@
       "kind": "subject",
       "prompt": "Quem o preguiçoso deve observar para aprender?",
       "answer": "A formiga, para ficar sábio com o exemplo dela.",
-      "reference": "Pv 6:6"
+      "reference": "Pv 6:6",
+      "wrongs": [
+        "O leão, para ficar forte com o exemplo dele.",
+        "A águia, para ficar rico com o exemplo dela.",
+        "O cão, para ficar esperto com o exemplo dele."
+      ]
     },
     {
       "id": "PRO.6.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Quantas coisas a alma de Deus abomina, em Provérbios?",
       "answer": "Sete. Ele também odeia outras seis.",
-      "reference": "Pv 6:16"
+      "reference": "Pv 6:16",
+      "wrongs": [
+        "Três. Ele também aceita outras duas.",
+        "Dez. Ele também ignora outras cinco.",
+        "Uma. Ele também perdoa as demais."
+      ]
     },
     {
       "id": "PRO.7.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "A que se parece o jovem que segue a mulher estranha?",
       "answer": "A um boi a caminho do matadouro.",
-      "reference": "Pv 7:22"
+      "reference": "Pv 7:22",
+      "wrongs": [
+        "A um cervo a caminho da fonte.",
+        "A um pastor a caminho do rebanho.",
+        "A um corredor a caminho da festa."
+      ]
     },
     {
       "id": "PRO.7.curiosity.1",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "Para onde a casa da mulher sedutora conduz, em Provérbios?",
       "answer": "Para a morte.",
-      "reference": "Pv 7:27"
+      "reference": "Pv 7:27",
+      "wrongs": [
+        "Para a honra.",
+        "Para a riqueza.",
+        "Para o descanso."
+      ]
     },
     {
       "id": "PRO.8.subject.1",
@@ -148,7 +218,12 @@
       "kind": "subject",
       "prompt": "O que a sabedoria diz valer mais do que rubis?",
       "answer": "Ela mesma. Nada que se deseja se compara a ela.",
-      "reference": "Pv 8:11"
+      "reference": "Pv 8:11",
+      "wrongs": [
+        "O ouro. Nada que se guarda se compara a ele.",
+        "A força. Nada que se treina se compara a ela.",
+        "A fama. Nada que se ouve se compara a ela."
+      ]
     },
     {
       "id": "PRO.8.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Desde quando a sabedoria diz que Deus a possui?",
       "answer": "Desde o início do caminho dele, antes das obras antigas.",
-      "reference": "Pv 8:22"
+      "reference": "Pv 8:22",
+      "wrongs": [
+        "Desde o reinado de Davi, depois do templo pronto.",
+        "Desde o êxodo, quando a lei foi escrita.",
+        "Desde o exílio, quando o povo voltou."
+      ]
     },
     {
       "id": "PRO.9.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "Quantas colunas a sabedoria lavrou na casa dela, em Provérbios?",
       "answer": "Sete.",
-      "reference": "Pv 9:1"
+      "reference": "Pv 9:1",
+      "wrongs": [
+        "Três.",
+        "Doze.",
+        "Quatro."
+      ]
     },
     {
       "id": "PRO.9.curiosity.1",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "O que a mulher tola diz das águas roubadas?",
       "answer": "Que são doces, e que o pão escondido agrada.",
-      "reference": "Pv 9:17"
+      "reference": "Pv 9:17",
+      "wrongs": [
+        "Que são amargas, e que o pão escondido enjoa.",
+        "Que são caras, e que o pão aberto basta.",
+        "Que são proibidas, e que o pão alheio mata."
+      ]
     },
     {
       "id": "PRO.10.subject.1",
@@ -188,7 +278,12 @@
       "kind": "subject",
       "prompt": "A que se compara o preguiçoso para quem o manda?",
       "answer": "Ao vinagre nos dentes e à fumaça nos olhos.",
-      "reference": "Pv 10:26"
+      "reference": "Pv 10:26",
+      "wrongs": [
+        "Ao mel na boca e à sombra fresca.",
+        "Ao pão quente e ao vinho novo.",
+        "Ao óleo fino e ao perfume leve."
+      ]
     },
     {
       "id": "PRO.10.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "O que o amor faz com as ofensas?",
       "answer": "Cobre todas. O ódio só abre briga.",
-      "reference": "Pv 10:12"
+      "reference": "Pv 10:12",
+      "wrongs": [
+        "Conta todas. O ódio também perdoa.",
+        "Esquece o amigo. O ódio guarda a casa.",
+        "Cobra juros. O ódio paga a dívida."
+      ]
     },
     {
       "id": "PRO.11.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "A que se compara a mulher bela sem discrição?",
       "answer": "A um enfeite no focinho de uma porca.",
-      "reference": "Pv 11:22"
+      "reference": "Pv 11:22",
+      "wrongs": [
+        "A uma coroa na cabeça de uma rainha.",
+        "A um anel de ouro na mão do justo.",
+        "A uma flor no cabelo da noiva."
+      ]
     },
     {
       "id": "PRO.11.curiosity.1",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "Que tipo de balança Deus abomina?",
       "answer": "A enganosa. O peso justo é o que lhe agrada.",
-      "reference": "Pv 11:1"
+      "reference": "Pv 11:1",
+      "wrongs": [
+        "A justa. O peso leve é o que lhe agrada.",
+        "A antiga. O peso novo é o que lhe agrada.",
+        "A pequena. O peso dobrado é o que lhe agrada."
+      ]
     },
     {
       "id": "PRO.12.subject.1",
@@ -228,7 +338,12 @@
       "kind": "subject",
       "prompt": "Como o justo trata os animais dele?",
       "answer": "Cuida da vida deles. A bondade do mau é cruel.",
-      "reference": "Pv 12:10"
+      "reference": "Pv 12:10",
+      "wrongs": [
+        "Ignora a fome deles. A bondade do mau é terna.",
+        "Vende todos eles. A bondade do mau é fiel.",
+        "Prende a boca deles. A bondade do mau alimenta."
+      ]
     },
     {
       "id": "PRO.12.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "O que a mulher virtuosa é para o marido?",
       "answer": "A coroa dele. A que envergonha parece podridão nos ossos.",
-      "reference": "Pv 12:4"
+      "reference": "Pv 12:4",
+      "wrongs": [
+        "O peso dele. A que envergonha parece joia rara.",
+        "A dívida dele. A que envergonha parece perfume.",
+        "O medo dele. A que envergonha parece pão quente."
+      ]
     },
     {
       "id": "PRO.13.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "O que faz quem nunca usa a vara no filho?",
       "answer": "Odeia o filho. Quem ama o corrige desde cedo.",
-      "reference": "Pv 13:24"
+      "reference": "Pv 13:24",
+      "wrongs": [
+        "Ama o filho. Quem corrige cedo o estraga.",
+        "Perde a casa. Quem poupa a vara enriquece.",
+        "Ganha descanso. Quem corrige cedo cria ódio."
+      ]
     },
     {
       "id": "PRO.13.curiosity.1",
@@ -258,7 +383,12 @@
       "kind": "curiosity",
       "prompt": "O que a esperança atrasada faz ao coração?",
       "answer": "O enfraquece. O desejo cumprido parece árvore de vida.",
-      "reference": "Pv 13:12"
+      "reference": "Pv 13:12",
+      "wrongs": [
+        "O fortalece. O desejo cumprido parece fruto podre.",
+        "O enriquece. O desejo cumprido parece fardo.",
+        "O acalma sempre. O desejo cumprido parece espinho."
+      ]
     },
     {
       "id": "PRO.14.subject.1",
@@ -268,7 +398,12 @@
       "kind": "subject",
       "prompt": "Como fica o depósito de grãos quando não há bois?",
       "answer": "Limpo, mas a força do boi traz colheita farta.",
-      "reference": "Pv 14:4"
+      "reference": "Pv 14:4",
+      "wrongs": [
+        "Cheio, mas a força do boi só suja o chão.",
+        "Vazio, e a força do boi não muda a safra.",
+        "Fechado, e a força do boi espalha o grão."
+      ]
     },
     {
       "id": "PRO.14.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "O que a inveja faz nos ossos?",
       "answer": "É como podridão. O coração tranquilo é vida para o corpo.",
-      "reference": "Pv 14:30"
+      "reference": "Pv 14:30",
+      "wrongs": [
+        "É como remédio. O coração tranquilo adoece o corpo.",
+        "É como mel. O coração tranquilo seca os ossos.",
+        "É como força. O coração tranquilo enfraquece."
+      ]
     },
     {
       "id": "PRO.15.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "O que uma resposta mansa faz com a raiva?",
       "answer": "Desvia o furor. Uma palavra dura faz a ira crescer.",
-      "reference": "Pv 15:1"
+      "reference": "Pv 15:1",
+      "wrongs": [
+        "Acende o furor. Uma palavra dura apaga a ira.",
+        "Esconde a culpa. Uma palavra dura traz paz.",
+        "Ganha a briga. Uma palavra dura encerra tudo."
+      ]
     },
     {
       "id": "PRO.15.curiosity.1",
@@ -298,7 +443,12 @@
       "kind": "curiosity",
       "prompt": "O que é melhor do que boi gordo servido com ódio?",
       "answer": "Um prato de verduras onde existe amor.",
-      "reference": "Pv 15:17"
+      "reference": "Pv 15:17",
+      "wrongs": [
+        "Um banquete de carne onde existe briga.",
+        "Um copo de vinho onde existe inveja.",
+        "Uma mesa cheia onde existe medo."
+      ]
     },
     {
       "id": "PRO.16.subject.1",
@@ -308,7 +458,12 @@
       "kind": "subject",
       "prompt": "O que é melhor do que conquistar uma cidade?",
       "answer": "Dominar o próprio espírito.",
-      "reference": "Pv 16:32"
+      "reference": "Pv 16:32",
+      "wrongs": [
+        "Juntar um grande exército.",
+        "Ganhar o ouro dos muros.",
+        "Ser temido pelos vizinhos."
+      ]
     },
     {
       "id": "PRO.16.curiosity.1",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "Como são as palavras agradáveis?",
       "answer": "São favo de mel, doces na alma e remédio nos ossos.",
-      "reference": "Pv 16:24"
+      "reference": "Pv 16:24",
+      "wrongs": [
+        "São vinagre, amargas na alma e febre nos ossos.",
+        "São fumaça, pesadas na alma e cinza nos ossos.",
+        "São pedra, duras na alma e peso nos ossos."
+      ]
     },
     {
       "id": "PRO.17.subject.1",
@@ -328,7 +488,12 @@
       "kind": "subject",
       "prompt": "Quem é pior de encontrar do que uma ursa sem filhotes?",
       "answer": "Um tolo no auge da loucura.",
-      "reference": "Pv 17:12"
+      "reference": "Pv 17:12",
+      "wrongs": [
+        "Um sábio no meio do caminho.",
+        "Um amigo com um bom conselho.",
+        "Um justo em dia de festa."
+      ]
     },
     {
       "id": "PRO.17.curiosity.1",
@@ -338,7 +503,12 @@
       "kind": "curiosity",
       "prompt": "O que é melhor do que festa com briga em casa?",
       "answer": "Um naco seco, comido em paz.",
-      "reference": "Pv 17:1"
+      "reference": "Pv 17:1",
+      "wrongs": [
+        "Um boi gordo, comido em gritaria.",
+        "Uma mesa longa, servida com mágoa.",
+        "Um banquete, feito para humilhar."
+      ]
     },
     {
       "id": "PRO.18.subject.1",
@@ -348,7 +518,12 @@
       "kind": "subject",
       "prompt": "O que tem poder de trazer morte ou vida?",
       "answer": "A língua.",
-      "reference": "Pv 18:21"
+      "reference": "Pv 18:21",
+      "wrongs": [
+        "A espada.",
+        "O ouro.",
+        "O muro."
+      ]
     },
     {
       "id": "PRO.18.curiosity.1",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "Quem pode ser mais chegado do que um irmão?",
       "answer": "Um amigo.",
-      "reference": "Pv 18:24"
+      "reference": "Pv 18:24",
+      "wrongs": [
+        "Um estranho.",
+        "Um credor.",
+        "Um inimigo."
+      ]
     },
     {
       "id": "PRO.19.subject.1",
@@ -368,7 +548,12 @@
       "kind": "subject",
       "prompt": "A quem empresta quem ajuda o pobre?",
       "answer": "A Deus, e ele paga a recompensa.",
-      "reference": "Pv 19:17"
+      "reference": "Pv 19:17",
+      "wrongs": [
+        "Ao rei, e ele cobra juros.",
+        "Ao vento, e ninguém devolve.",
+        "Ao rico, e a dívida dobra."
+      ]
     },
     {
       "id": "PRO.19.curiosity.1",
@@ -378,7 +563,12 @@
       "kind": "curiosity",
       "prompt": "O que o preguiçoso faz com a mão no prato?",
       "answer": "Pousa a mão e não a levanta de novo.",
-      "reference": "Pv 19:24"
+      "reference": "Pv 19:24",
+      "wrongs": [
+        "Leva a mão à boca sem parar.",
+        "Parte o pão e serve os outros.",
+        "Esvazia o prato antes de todos."
+      ]
     },
     {
       "id": "PRO.20.subject.1",
@@ -388,7 +578,12 @@
       "kind": "subject",
       "prompt": "Como os provérbios descrevem o vinho?",
       "answer": "Como zombador. A bebida forte causa confusão.",
-      "reference": "Pv 20:1"
+      "reference": "Pv 20:1",
+      "wrongs": [
+        "Como médico. A bebida forte traz juízo.",
+        "Como amigo. A bebida forte guarda a paz.",
+        "Como luz. A bebida forte aclara a mente."
+      ]
     },
     {
       "id": "PRO.20.curiosity.1",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "Como acaba o pão conseguido com mentira?",
       "answer": "A boca se enche de pedrinhas.",
-      "reference": "Pv 20:17"
+      "reference": "Pv 20:17",
+      "wrongs": [
+        "A mesa se enche de mel.",
+        "A casa se enche de ouro.",
+        "A boca se enche de vinho."
+      ]
     },
     {
       "id": "PRO.21.subject.1",
@@ -408,7 +608,12 @@
       "kind": "subject",
       "prompt": "De quem vem a vitória no dia da batalha?",
       "answer": "De Deus, mesmo com o cavalo já preparado.",
-      "reference": "Pv 21:31"
+      "reference": "Pv 21:31",
+      "wrongs": [
+        "Do cavalo, mesmo sem ninguém orar.",
+        "Do general, mesmo com o povo em fuga.",
+        "Da muralha, mesmo com o portão aberto."
+      ]
     },
     {
       "id": "PRO.21.curiosity.1",
@@ -418,7 +623,12 @@
       "kind": "curiosity",
       "prompt": "Onde é melhor morar do que com mulher briguenta, em Provérbios?",
       "answer": "Num canto do terraço.",
-      "reference": "Pv 21:9"
+      "reference": "Pv 21:9",
+      "wrongs": [
+        "Num palácio com ela.",
+        "Num banquete ao lado.",
+        "Num quarto fechado."
+      ]
     },
     {
       "id": "PRO.22.subject.1",
@@ -428,7 +638,12 @@
       "kind": "subject",
       "prompt": "O que vale mais do que muita riqueza?",
       "answer": "Um bom nome. Ser estimado vale mais que prata e ouro.",
-      "reference": "Pv 22:1"
+      "reference": "Pv 22:1",
+      "wrongs": [
+        "Um cofre cheio. Ser temido vale mais que nome e fama.",
+        "Um exército. Ser forte vale mais que estima e paz.",
+        "Uma herança. Ser rico vale mais que honra e verdade."
+      ]
     },
     {
       "id": "PRO.22.curiosity.1",
@@ -438,7 +653,12 @@
       "kind": "curiosity",
       "prompt": "Até quando o menino bem ensinado segue o caminho?",
       "answer": "Até envelhecer.",
-      "reference": "Pv 22:6"
+      "reference": "Pv 22:6",
+      "wrongs": [
+        "Só até a festa.",
+        "Só até sair de casa.",
+        "Até achar outro mestre."
+      ]
     },
     {
       "id": "PRO.23.subject.1",
@@ -448,7 +668,12 @@
       "kind": "subject",
       "prompt": "O que acontece se alguém não tira o olho do que não vale nada?",
       "answer": "Aquilo cria asas e voa ao céu como uma águia.",
-      "reference": "Pv 23:5"
+      "reference": "Pv 23:5",
+      "wrongs": [
+        "Aquilo cria raiz e fica para sempre na mão.",
+        "Aquilo vira ouro e desce como chuva.",
+        "Aquilo dorme quieto e nunca muda de dono."
+      ]
     },
     {
       "id": "PRO.23.curiosity.1",
@@ -458,7 +683,12 @@
       "kind": "curiosity",
       "prompt": "A que se parece o fim de quem bebe vinho?",
       "answer": "À mordida de uma cobra e à picada da víbora.",
-      "reference": "Pv 23:32"
+      "reference": "Pv 23:32",
+      "wrongs": [
+        "Ao abraço de um amigo e ao canto da festa.",
+        "Ao mel na boca e ao sono tranquilo.",
+        "À luz da manhã e ao caminho plano."
+      ]
     },
     {
       "id": "PRO.24.subject.1",
@@ -468,7 +698,12 @@
       "kind": "subject",
       "prompt": "Quantas vezes o justo cai e volta a se erguer, em Provérbios?",
       "answer": "Sete vezes, e mesmo assim ele se levanta.",
-      "reference": "Pv 24:16"
+      "reference": "Pv 24:16",
+      "wrongs": [
+        "Uma vez, e depois fica no chão.",
+        "Três vezes, e na quarta desiste.",
+        "Nunca cai, e por isso não se levanta."
+      ]
     },
     {
       "id": "PRO.24.curiosity.1",
@@ -478,7 +713,12 @@
       "kind": "curiosity",
       "prompt": "A quem se deve socorrer a caminho da morte?",
       "answer": "A quem já foi agarrado para ser morto.",
-      "reference": "Pv 24:11"
+      "reference": "Pv 24:11",
+      "wrongs": [
+        "A quem já venceu e não precisa de ajuda.",
+        "A quem foge do trabalho no meio do dia.",
+        "A quem esconde o pão dos famintos."
+      ]
     },
     {
       "id": "PRO.25.subject.1",
@@ -488,7 +728,12 @@
       "kind": "subject",
       "prompt": "A que se compara a palavra dita na hora certa?",
       "answer": "A maçãs de ouro sobre bandejas de prata.",
-      "reference": "Pv 25:11"
+      "reference": "Pv 25:11",
+      "wrongs": [
+        "A vinagre sobre bandejas de barro.",
+        "A palha sobre bandejas de madeira.",
+        "A cinza sobre bandejas de ferro."
+      ]
     },
     {
       "id": "PRO.25.name.1",
@@ -498,7 +743,12 @@
       "kind": "name",
       "prompt": "Quem copiou outros provérbios de Salomão?",
       "answer": "Os homens do rei Ezequias, de Judá.",
-      "reference": "Pv 25:1"
+      "reference": "Pv 25:1",
+      "wrongs": [
+        "Os homens do rei Davi, de Jerusalém.",
+        "Os homens do rei Josias, de Judá.",
+        "Os homens do rei Acabe, de Israel."
+      ]
     },
     {
       "id": "PRO.25.curiosity.1",
@@ -508,7 +758,12 @@
       "kind": "curiosity",
       "prompt": "O que se deve dar a quem odeia, se ele tiver fome?",
       "answer": "Pão. E água, se também tiver sede.",
-      "reference": "Pv 25:21"
+      "reference": "Pv 25:21",
+      "wrongs": [
+        "Pedra. E vinagre, se também tiver sede.",
+        "Silêncio. E costas, se também tiver sede.",
+        "Dívida. E juros, se também tiver sede."
+      ]
     },
     {
       "id": "PRO.26.subject.1",
@@ -518,7 +773,12 @@
       "kind": "subject",
       "prompt": "A que se parece o tolo que repete a loucura?",
       "answer": "A um cão que volta ao que vomitou.",
-      "reference": "Pv 26:11"
+      "reference": "Pv 26:11",
+      "wrongs": [
+        "A uma águia que sobe sem olhar para trás.",
+        "A um rio que não torna à nascente.",
+        "A um semeador que não repete o erro."
+      ]
     },
     {
       "id": "PRO.26.curiosity.1",
@@ -528,7 +788,12 @@
       "kind": "curiosity",
       "prompt": "A que se parece o preguiçoso na cama?",
       "answer": "A uma porta girando nas dobradiças.",
-      "reference": "Pv 26:14"
+      "reference": "Pv 26:14",
+      "wrongs": [
+        "A um galo que sai antes do sol.",
+        "A uma formiga que já está no campo.",
+        "A um vigia que não deixa o posto."
+      ]
     },
     {
       "id": "PRO.27.subject.1",
@@ -538,7 +803,12 @@
       "kind": "subject",
       "prompt": "Como o amigo afia o companheiro?",
       "answer": "Como o ferro afia outro ferro.",
-      "reference": "Pv 27:17"
+      "reference": "Pv 27:17",
+      "wrongs": [
+        "Como a água amolece o ferro.",
+        "Como a areia cobre o ferro.",
+        "Como o mel enferruja o ferro."
+      ]
     },
     {
       "id": "PRO.27.curiosity.1",
@@ -548,7 +818,12 @@
       "kind": "curiosity",
       "prompt": "Como são as feridas que um amigo provoca?",
       "answer": "São leais. Os beijos do inimigo enganam.",
-      "reference": "Pv 27:6"
+      "reference": "Pv 27:6",
+      "wrongs": [
+        "São cruéis. Os beijos do inimigo curam.",
+        "São inúteis. Os beijos do inimigo são fiéis.",
+        "São fingidas. Os beijos do inimigo dizem a verdade."
+      ]
     },
     {
       "id": "PRO.28.subject.1",
@@ -558,7 +833,12 @@
       "kind": "subject",
       "prompt": "O que recebe quem confessa o erro e o deixa?",
       "answer": "Misericórdia. Quem esconde a falta não prospera.",
-      "reference": "Pv 28:13"
+      "reference": "Pv 28:13",
+      "wrongs": [
+        "Castigo dobrado. Quem esconde a falta prospera.",
+        "Silêncio eterno. Quem esconde a falta é honrado.",
+        "Mais culpa. Quem esconde a falta fica em paz."
+      ]
     },
     {
       "id": "PRO.28.curiosity.1",
@@ -568,7 +848,12 @@
       "kind": "curiosity",
       "prompt": "A que se compara a coragem dos justos?",
       "answer": "Ficam ousados como um leão. O mau foge sem ser perseguido.",
-      "reference": "Pv 28:1"
+      "reference": "Pv 28:1",
+      "wrongs": [
+        "Ficam tímidos como um cordeiro. O mau avança sem medo.",
+        "Ficam parados como uma pedra. O mau nunca foge.",
+        "Ficam moles como a cera. O mau persegue e não corre."
+      ]
     },
     {
       "id": "PRO.29.subject.1",
@@ -578,7 +863,12 @@
       "kind": "subject",
       "prompt": "Como fica o povo quando falta visão profética?",
       "answer": "Fica confuso. Guardar a lei traz felicidade.",
-      "reference": "Pv 29:18"
+      "reference": "Pv 29:18",
+      "wrongs": [
+        "Fica em paz. Guardar a lei traz confusão.",
+        "Fica rico. Abandonar a lei traz felicidade.",
+        "Fica unido. Ignorar a lei traz ordem."
+      ]
     },
     {
       "id": "PRO.29.curiosity.1",
@@ -588,7 +878,12 @@
       "kind": "curiosity",
       "prompt": "O que o medo das pessoas prepara?",
       "answer": "Uma armadilha. Confiar em Deus deixa seguro.",
-      "reference": "Pv 29:25"
+      "reference": "Pv 29:25",
+      "wrongs": [
+        "Um abrigo. Confiar em Deus deixa exposto.",
+        "Uma coroa. Confiar em Deus traz perigo.",
+        "Um atalho. Confiar em Deus fecha o caminho."
+      ]
     },
     {
       "id": "PRO.30.subject.1",
@@ -598,7 +893,12 @@
       "kind": "subject",
       "prompt": "O que convém pedir, em vez de ser pobre ou rico?",
       "answer": "Só o pão necessário, sem mentira nem o que não presta.",
-      "reference": "Pv 30:8"
+      "reference": "Pv 30:8",
+      "wrongs": [
+        "Só tesouros a mais, com folga e sem medida.",
+        "Só a miséria, para não dever nada a ninguém.",
+        "Só o trono, com servos e mesa farta."
+      ]
     },
     {
       "id": "PRO.30.name.1",
@@ -608,7 +908,12 @@
       "kind": "name",
       "prompt": "Quem fala a Itiel e a Ucal?",
       "answer": "Agur, filho de Jaque.",
-      "reference": "Pv 30:1"
+      "reference": "Pv 30:1",
+      "wrongs": [
+        "Lemuel, filho da rainha.",
+        "Salomão, filho de Davi.",
+        "Ezequias, filho de Acaz."
+      ]
     },
     {
       "id": "PRO.30.curiosity.1",
@@ -618,7 +923,12 @@
       "kind": "curiosity",
       "prompt": "Como se chamam as filhas da sanguessuga?",
       "answer": "As duas têm o nome Dá.",
-      "reference": "Pv 30:15"
+      "reference": "Pv 30:15",
+      "wrongs": [
+        "As duas têm o nome Não.",
+        "As três têm o nome Mais.",
+        "A única tem o nome Pare."
+      ]
     },
     {
       "id": "PRO.31.subject.1",
@@ -628,7 +938,12 @@
       "kind": "subject",
       "prompt": "Qual mulher vale muito mais do que os rubis?",
       "answer": "A mulher virtuosa, rara de encontrar.",
-      "reference": "Pv 31:10"
+      "reference": "Pv 31:10",
+      "wrongs": [
+        "A mulher rica, fácil de achar.",
+        "A mulher bela, sem outro cuidado.",
+        "A mulher famosa, de qualquer casa."
+      ]
     },
     {
       "id": "PRO.31.name.1",
@@ -638,7 +953,12 @@
       "kind": "name",
       "prompt": "Quem ensinou o rei Lemuel?",
       "answer": "A mãe dele.",
-      "reference": "Pv 31:1"
+      "reference": "Pv 31:1",
+      "wrongs": [
+        "O pai dele.",
+        "O profeta Natã.",
+        "O rei Davi."
+      ]
     },
     {
       "id": "PRO.31.curiosity.1",
@@ -648,7 +968,12 @@
       "kind": "curiosity",
       "prompt": "O que engana e passa, ao contrário do temor a Deus?",
       "answer": "A beleza e a boa aparência. Quem teme a Deus é elogiada.",
-      "reference": "Pv 31:30"
+      "reference": "Pv 31:30",
+      "wrongs": [
+        "A sabedoria e o trabalho. Quem teme a Deus é esquecida.",
+        "A verdade e a palavra. Quem teme a Deus é zombada.",
+        "O nome e a honra. Quem teme a Deus fica sem louvor."
+      ]
     },
     {
       "id": "PRO.0.curiosity.1",
@@ -658,7 +983,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Provérbios?",
       "answer": "Salomão, em grande parte. Também há ditos de Agur e Lemuel.",
-      "reference": "Provérbios"
+      "reference": "Provérbios",
+      "wrongs": [
+        "Davi, em grande parte. Também há ditos de Asafe e Hemã.",
+        "Ezequias, em grande parte. Também há ditos de Isaías e Miqueias.",
+        "Esdras, em grande parte. Também há ditos de Neemias e Ageu."
+      ]
     },
     {
       "id": "PRO.0.curiosity.2",
@@ -668,7 +998,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Provérbios?",
       "answer": "No século X antes de Cristo, com acréscimos depois.",
-      "reference": "Provérbios"
+      "reference": "Provérbios",
+      "wrongs": [
+        "No século V antes de Cristo, sem acréscimo algum.",
+        "No século VIII antes de Cristo, só no tempo de Amós.",
+        "No século II antes de Cristo, com origem grega."
+      ]
     }
   ]
 }

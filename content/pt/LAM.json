@@ -8,6 +8,11 @@
       "kind": "subject",
       "prompt": "Como a cidade populosa de Jerusalém ficou?",
       "answer": "Ficou sozinha, como viúva, e virou escrava.",
+      "wrongs": [
+        "Ficou cheia, como noiva, e virou rainha.",
+        "Ficou segura, como fortaleza, e virou capital.",
+        "Ficou alegre, como festa, e virou mercado."
+      ],
       "reference": "Lm 1:1"
     },
     {
@@ -18,6 +23,11 @@
       "kind": "place",
       "prompt": "Por que os caminhos de Sião choravam?",
       "answer": "Porque ninguém vinha às festas, e as portas ficaram vazias.",
+      "wrongs": [
+        "Porque a chuva alagava as festas, e as portas ficaram fechadas.",
+        "Porque o rei mudou as festas, e as portas ficaram douradas.",
+        "Porque o povo dobrou as festas, e as portas ficaram novas."
+      ],
       "reference": "Lm 1:4"
     },
     {
@@ -28,6 +38,11 @@
       "kind": "curiosity",
       "prompt": "Por que Deus afligiu Jerusalém?",
       "answer": "Por causa dos muitos pecados dela.",
+      "wrongs": [
+        "Por causa da pouca chuva dela.",
+        "Por causa dos muros baixos dela.",
+        "Por causa da inveja dos vizinhos."
+      ],
       "reference": "Lm 1:5"
     },
     {
@@ -38,6 +53,11 @@
       "kind": "curiosity",
       "prompt": "O que o povo de Jerusalém trocava por comida?",
       "answer": "Os próprios bens, para conseguir sobreviver.",
+      "wrongs": [
+        "As próprias armas, para conseguir vencer.",
+        "As próprias coroas, para conseguir vinho.",
+        "Os próprios cânticos, para conseguir paz."
+      ],
       "reference": "Lm 1:11"
     },
     {
@@ -48,6 +68,11 @@
       "kind": "subject",
       "prompt": "Como Deus se voltou contra Israel na queda de Jerusalém?",
       "answer": "Ficou como inimigo e derrubou palácios e fortalezas.",
+      "wrongs": [
+        "Ficou como aliado e levantou palácios e fortalezas.",
+        "Ficou como pastor e contou palácios e rebanhos.",
+        "Ficou como hóspede e dourou palácios e portas."
+      ],
       "reference": "Lm 2:5"
     },
     {
@@ -58,6 +83,11 @@
       "kind": "place",
       "prompt": "O que Deus fez esquecer em Sião?",
       "answer": "As festas e os sábados.",
+      "wrongs": [
+        "Os rios e os montes.",
+        "Os reis e os exércitos.",
+        "Os poços e os muros."
+      ],
       "reference": "Lm 2:6"
     },
     {
@@ -68,6 +98,11 @@
       "kind": "curiosity",
       "prompt": "Como os anciãos de Sião ficaram no chão?",
       "answer": "Calados, com pó na cabeça e pano de saco.",
+      "wrongs": [
+        "Cantando, com coroa na cabeça e manto de linho.",
+        "Dormindo, com óleo na cabeça e capa de lã.",
+        "Correndo, com elmo na cabeça e escudo na mão."
+      ],
       "reference": "Lm 2:10"
     },
     {
@@ -79,6 +114,11 @@
       "kind": "curiosity",
       "prompt": "O que as crianças pediam às mães em Jerusalém?",
       "answer": "Trigo e vinho, já desmaiando nas ruas.",
+      "wrongs": [
+        "Ouro e prata, já brincando nas praças.",
+        "Leite e mel, já dormindo nas casas.",
+        "Brinquedos e cantos, já correndo nos muros."
+      ],
       "reference": "Lm 2:11-12"
     },
     {
@@ -90,6 +130,11 @@
       "kind": "subject",
       "prompt": "O que o homem aflito em Jerusalém diz da misericórdia de Deus?",
       "answer": "Que ela não acaba, se renova toda manhã, e a fidelidade dele é grande.",
+      "wrongs": [
+        "Que ela acabou, se esconde toda noite, e a fidelidade dele falhou.",
+        "Que ela tarda, se mede toda semana, e a fidelidade dele é pouca.",
+        "Que ela cobra, se fecha todo ano, e a fidelidade dele mudou."
+      ],
       "reference": "Lm 3:22-23"
     },
     {
@@ -100,6 +145,11 @@
       "kind": "place",
       "prompt": "De onde o homem aflito em Jerusalém chamou por Deus?",
       "answer": "De uma cova profunda.",
+      "wrongs": [
+        "De um muro alto.",
+        "De um palácio real.",
+        "De um campo aberto."
+      ],
       "reference": "Lm 3:55"
     },
     {
@@ -110,6 +160,11 @@
       "kind": "curiosity",
       "prompt": "O que Deus fez do homem aflito em Jerusalém?",
       "answer": "Fez dele um alvo de flecha.",
+      "wrongs": [
+        "Fez dele um porta-estandarte.",
+        "Fez dele um cantor do templo.",
+        "Fez dele um juiz da cidade."
+      ],
       "reference": "Lm 3:12"
     },
     {
@@ -120,6 +175,11 @@
       "kind": "curiosity",
       "prompt": "Com o que Deus quebrou os dentes do homem aflito em Jerusalém?",
       "answer": "Com cascalho, e o cobriu de cinzas.",
+      "wrongs": [
+        "Com mel, e o cobriu de óleo.",
+        "Com pão, e o cobriu de linho.",
+        "Com leite, e o cobriu de ouro."
+      ],
       "reference": "Lm 3:16"
     },
     {
@@ -130,6 +190,11 @@
       "kind": "subject",
       "prompt": "Como os filhos preciosos de Sião passaram a ser vistos?",
       "answer": "Como potes de barro, e não mais como ouro puro.",
+      "wrongs": [
+        "Como coroas de ouro, e não mais como pó.",
+        "Como taças de prata, e não mais como barro.",
+        "Como pedras de templo, e não mais como palha."
+      ],
       "reference": "Lm 4:2"
     },
     {
@@ -140,6 +205,11 @@
       "kind": "place",
       "prompt": "O castigo de Jerusalém superou o pecado de qual cidade?",
       "answer": "O de Sodoma, destruída de uma vez.",
+      "wrongs": [
+        "O de Nínive, poupada por um tempo.",
+        "O de Jericó, cercada por sete dias.",
+        "O de Tiro, esquecida por setenta anos."
+      ],
       "reference": "Lm 4:6"
     },
     {
@@ -150,6 +220,11 @@
       "kind": "curiosity",
       "prompt": "O que as mulheres bondosas fizeram com os filhos em Sião?",
       "answer": "Cozinharam os próprios filhos para comê-los.",
+      "wrongs": [
+        "Esconderam os próprios filhos para salvá-los.",
+        "Venderam os próprios filhos para pagar tributo.",
+        "Ungiram os próprios filhos para o serviço do templo."
+      ],
       "reference": "Lm 4:10"
     },
     {
@@ -160,6 +235,11 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu com o ungido de Deus em Jerusalém?",
       "answer": "Foi preso nas covas.",
+      "wrongs": [
+        "Foi coroado no palácio.",
+        "Foi levado ao Egito.",
+        "Foi escondido no templo."
+      ],
       "reference": "Lm 4:20"
     },
     {
@@ -170,6 +250,11 @@
       "kind": "subject",
       "prompt": "O que caiu da cabeça do povo de Jerusalém?",
       "answer": "A coroa, e o povo lamenta porque pecou.",
+      "wrongs": [
+        "O elmo, e o povo festeja porque venceu.",
+        "O véu, e o povo dança porque voltou.",
+        "A cinza, e o povo cala porque esqueceu."
+      ],
       "reference": "Lm 5:16"
     },
     {
@@ -180,6 +265,11 @@
       "kind": "place",
       "prompt": "O que anda no monte de Sião desolado?",
       "answer": "Raposas.",
+      "wrongs": [
+        "Leões.",
+        "Águias.",
+        "Pastores."
+      ],
       "reference": "Lm 5:18"
     },
     {
@@ -190,6 +280,11 @@
       "kind": "curiosity",
       "prompt": "O que o povo de Jerusalém passou a pagar?",
       "answer": "A água de beber e a lenha.",
+      "wrongs": [
+        "O ouro do templo e o incenso.",
+        "O pão do sábado e o vinho.",
+        "A lã do manto e o linho."
+      ],
       "reference": "Lm 5:4"
     },
     {
@@ -200,6 +295,11 @@
       "kind": "curiosity",
       "prompt": "Como a fome deixou a pele do povo de Jerusalém?",
       "answer": "Escura, da cor de um forno.",
+      "wrongs": [
+        "Clara, da cor da neve.",
+        "Dourada, da cor do trigo.",
+        "Branca, da cor do linho."
+      ],
       "reference": "Lm 5:10"
     },
     {
@@ -210,6 +310,11 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Lamentações?",
       "answer": "Jeremias, pela tradição.",
+      "wrongs": [
+        "Davi, pela tradição.",
+        "Isaías, pela tradição.",
+        "Ezequiel, pela tradição."
+      ],
       "reference": "Lamentações"
     },
     {
@@ -220,6 +325,11 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Lamentações?",
       "answer": "Depois da queda de Jerusalém, em 586 antes de Cristo.",
+      "wrongs": [
+        "Antes do reinado de Davi, em 1000 antes de Cristo.",
+        "No cerco de Senaqueribe, em 701 antes de Cristo.",
+        "Na volta com Esdras, em 458 antes de Cristo."
+      ],
       "reference": "Lamentações"
     }
   ]

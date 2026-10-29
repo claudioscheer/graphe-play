@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que não basta fazer com a palavra?",
       "answer": "Apenas ouvi-la; é preciso praticá-la.",
-      "reference": "Tg 1:22"
+      "reference": "Tg 1:22",
+      "wrongs": [
+        "Decorá-la; a prática fica para depois.",
+        "Discuti-la; quem ouve já obedeceu.",
+        "Escondê-la; ela vale só para os mestres."
+      ]
     },
     {
       "id": "JAS.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem saudou as doze tribos espalhadas?",
       "answer": "Tiago.",
-      "reference": "Tg 1:1"
+      "reference": "Tg 1:1",
+      "wrongs": [
+        "Pedro.",
+        "João.",
+        "Paulo."
+      ]
     },
     {
       "id": "JAS.1.curiosity.1",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "Qual prêmio recebe quem suporta a provação?",
       "answer": "A coroa da vida.",
-      "reference": "Tg 1:12"
+      "reference": "Tg 1:12",
+      "wrongs": [
+        "A coroa de louro.",
+        "Um talento de ouro.",
+        "O descanso do sábado."
+      ]
     },
     {
       "id": "JAS.1.curiosity.2",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Com o que se parece quem só ouve a palavra?",
       "answer": "Com um homem que observa o rosto no espelho.",
-      "reference": "Tg 1:23"
+      "reference": "Tg 1:23",
+      "wrongs": [
+        "Com um cego que guia outro cego.",
+        "Com um construtor que firma a casa na rocha.",
+        "Com um semeador que guarda toda a semente."
+      ]
     },
     {
       "id": "JAS.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Como está a fé que não vem acompanhada de obras?",
       "answer": "Está morta, como um corpo sem espírito.",
-      "reference": "Tg 2:26"
+      "reference": "Tg 2:26",
+      "wrongs": [
+        "Está viva, mesmo sem nenhuma obra.",
+        "Está completa só pela profissão da boca.",
+        "Está salva pela lei, sem precisar de fé."
+      ]
     },
     {
       "id": "JAS.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem foi chamado amigo de Deus, em Tiago?",
       "answer": "Abraão.",
-      "reference": "Tg 2:23"
+      "reference": "Tg 2:23",
+      "wrongs": [
+        "Moisés.",
+        "Davi.",
+        "Jó."
+      ]
     },
     {
       "id": "JAS.2.name.2",
@@ -68,7 +98,12 @@
       "kind": "name",
       "prompt": "Qual mulher foi justificada ao acolher os mensageiros?",
       "answer": "Raabe.",
-      "reference": "Tg 2:25"
+      "reference": "Tg 2:25",
+      "wrongs": [
+        "Rute.",
+        "Sara.",
+        "Ester."
+      ]
     },
     {
       "id": "JAS.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "O que o rico usava ao entrar na reunião?",
       "answer": "Anéis de ouro e roupa de alto valor.",
-      "reference": "Tg 2:2"
+      "reference": "Tg 2:2",
+      "wrongs": [
+        "Pano de saco e cinza na cabeça.",
+        "Uma túnica simples, como a dos pobres.",
+        "O uniforme de soldado romano."
+      ]
     },
     {
       "id": "JAS.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Qual membro pequeno se gaba de coisas grandes?",
       "answer": "A língua.",
-      "reference": "Tg 3:5"
+      "reference": "Tg 3:5",
+      "wrongs": [
+        "A mão.",
+        "O olho.",
+        "O pé."
+      ]
     },
     {
       "id": "JAS.3.curiosity.1",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "O que se coloca na boca dos cavalos para guiá-los?",
       "answer": "Um freio.",
-      "reference": "Tg 3:3"
+      "reference": "Tg 3:3",
+      "wrongs": [
+        "Uma sela.",
+        "Uma espora.",
+        "Um chicote."
+      ]
     },
     {
       "id": "JAS.3.curiosity.2",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Qual é a primeira qualidade da sabedoria lá de cima?",
       "answer": "Ela é pura.",
-      "reference": "Tg 3:17"
+      "reference": "Tg 3:17",
+      "wrongs": [
+        "Ela é rica.",
+        "Ela é rápida.",
+        "Ela é secreta."
+      ]
     },
     {
       "id": "JAS.4.subject.1",
@@ -118,7 +173,12 @@
       "kind": "subject",
       "prompt": "Como Deus trata os soberbos e os humildes?",
       "answer": "Resiste aos soberbos e dá graça aos humildes.",
-      "reference": "Tg 4:6"
+      "reference": "Tg 4:6",
+      "wrongs": [
+        "Apoia os soberbos e ignora os humildes.",
+        "Trata os dois do mesmo modo.",
+        "Resiste aos humildes e dá graça aos soberbos."
+      ]
     },
     {
       "id": "JAS.4.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "O que o diabo faz se alguém lhe resiste?",
       "answer": "Ele foge.",
-      "reference": "Tg 4:7"
+      "reference": "Tg 4:7",
+      "wrongs": [
+        "Ele ataca com mais força.",
+        "Ele negocia um acordo.",
+        "Ele fica e toma a casa."
+      ]
     },
     {
       "id": "JAS.4.curiosity.2",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "Com o que Tiago compara a vida humana?",
       "answer": "Com um vapor que surge por pouco e desaparece.",
-      "reference": "Tg 4:14"
+      "reference": "Tg 4:14",
+      "wrongs": [
+        "Com uma rocha que dura para sempre.",
+        "Com uma árvore que não perde a folha.",
+        "Com um rio que nunca seca."
+      ]
     },
     {
       "id": "JAS.4.curiosity.3",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "O que faz quem conhece o bem e o deixa de lado?",
       "answer": "Pratica o pecado.",
-      "reference": "Tg 4:17"
+      "reference": "Tg 4:17",
+      "wrongs": [
+        "Ganha mérito pela intenção.",
+        "Fica neutro, sem culpa nem louvor.",
+        "Cumpre a lei mesmo assim."
+      ]
     },
     {
       "id": "JAS.5.subject.1",
@@ -158,7 +233,12 @@
       "kind": "subject",
       "prompt": "Até quando os irmãos devem ter paciência?",
       "answer": "Até a vinda de Deus.",
-      "reference": "Tg 5:7"
+      "reference": "Tg 5:7",
+      "wrongs": [
+        "Até a colheita deste ano.",
+        "Até a morte de Herodes.",
+        "Só por três dias."
+      ]
     },
     {
       "id": "JAS.5.name.1",
@@ -168,7 +248,12 @@
       "kind": "name",
       "prompt": "Quem é citado como exemplo de paciência no sofrimento?",
       "answer": "Jó.",
-      "reference": "Tg 5:11"
+      "reference": "Tg 5:11",
+      "wrongs": [
+        "Jeremias.",
+        "Elias.",
+        "Moisés."
+      ]
     },
     {
       "id": "JAS.5.curiosity.1",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "Com o que os anciãos ungem quem está doente?",
       "answer": "Com azeite, em nome de Deus.",
-      "reference": "Tg 5:14"
+      "reference": "Tg 5:14",
+      "wrongs": [
+        "Com vinho, em nome dos apóstolos.",
+        "Com água, em nome de Moisés.",
+        "Com incenso, em nome do templo."
+      ]
     },
     {
       "id": "JAS.5.curiosity.2",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo a terra ficou sem chuva após a oração de Elias?",
       "answer": "Três anos e seis meses.",
-      "reference": "Tg 5:17"
+      "reference": "Tg 5:17",
+      "wrongs": [
+        "Um ano e seis meses.",
+        "Sete anos.",
+        "Quarenta dias."
+      ]
     },
     {
       "id": "JAS.0.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Tiago?",
       "answer": "Tiago, irmão do Senhor.",
-      "reference": "Tiago"
+      "reference": "Tiago",
+      "wrongs": [
+        "Pedro, apóstolo de Jesus Cristo.",
+        "Paulo, apóstolo dos gentios.",
+        "João, o discípulo amado."
+      ]
     },
     {
       "id": "JAS.0.curiosity.2",
@@ -208,7 +308,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Tiago?",
       "answer": "Por volta do ano 45.",
-      "reference": "Tiago"
+      "reference": "Tiago",
+      "wrongs": [
+        "Por volta do ano 62.",
+        "Por volta do ano 70.",
+        "No fim do século I."
+      ]
     },
     {
       "id": "JAS.0.curiosity.3",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "A quem Tiago dirige a carta?",
       "answer": "Às doze tribos espalhadas.",
-      "reference": "Tg 1:1"
+      "reference": "Tg 1:1",
+      "wrongs": [
+        "À igreja que estava em Jerusalém.",
+        "Aos gentios da Ásia e da Galácia.",
+        "A um só presbítero, de nome Gaio."
+      ]
     }
   ]
 }

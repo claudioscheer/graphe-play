@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que Deus mandou Ciro construir?",
       "answer": "Uma casa em Jerusalém, na terra de Judá.",
-      "reference": "Ed 1:2"
+      "reference": "Ed 1:2",
+      "wrongs": [
+        "Um palácio em Susã, na terra da Pérsia.",
+        "Um muro em Samaria, na terra de Efraim.",
+        "Um altar em Betel, na terra de Israel."
+      ]
     },
     {
       "id": "EZR.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "A quem Mitridate entregou os objetos contados?",
       "answer": "A Sesbazar, príncipe de Judá.",
-      "reference": "Ed 1:8"
+      "reference": "Ed 1:8",
+      "wrongs": [
+        "A Zorobabel, governador de Judá.",
+        "A Jesua, sumo sacerdote de Judá.",
+        "A Esdras, escriba de Judá."
+      ]
     },
     {
       "id": "EZR.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Para onde Sesbazar levou os utensílios?",
       "answer": "Para Jerusalém, saindo da Babilônia.",
-      "reference": "Ed 1:11"
+      "reference": "Ed 1:11",
+      "wrongs": [
+        "Para Samaria, saindo de Susã.",
+        "Para Jope, saindo do Egito.",
+        "Para Ecbatana, saindo da Média."
+      ]
     },
     {
       "id": "EZR.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Quantos utensílios de ouro e prata Sesbazar levou?",
       "answer": "Cinco mil e quatrocentos.",
-      "reference": "Ed 1:11"
+      "reference": "Ed 1:11",
+      "wrongs": [
+        "Dois mil e trezentos.",
+        "Sete mil e oitenta.",
+        "Mil e duzentos."
+      ]
     },
     {
       "id": "EZR.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Quem Esdras lista entre os que voltaram a Judá?",
       "answer": "Os que Nabucodonosor tinha levado à Babilônia.",
-      "reference": "Ed 2:1"
+      "reference": "Ed 2:1",
+      "wrongs": [
+        "Os que Ciro tinha deixado na Pérsia.",
+        "Os que Dario tinha chamado de Samaria.",
+        "Os que Assuero tinha solto do Egito."
+      ]
     },
     {
       "id": "EZR.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Com quem começa a lista de Esdras dos que voltaram?",
       "answer": "Com Zorobabel e Jesua.",
-      "reference": "Ed 2:2"
+      "reference": "Ed 2:2",
+      "wrongs": [
+        "Com Esdras e Neemias.",
+        "Com Sesbazar e Mitridate.",
+        "Com Ageu e Zacarias."
+      ]
     },
     {
       "id": "EZR.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "Por que alguns foram rejeitados do sacerdócio, em Esdras?",
       "answer": "Porque o registro da família não foi achado.",
-      "reference": "Ed 2:62"
+      "reference": "Ed 2:62",
+      "wrongs": [
+        "Porque recusaram o jejum do povo.",
+        "Porque casaram só com mulheres de Judá.",
+        "Porque perderam os utensílios do templo."
+      ]
     },
     {
       "id": "EZR.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Qual era o total da congregação que voltou, em Esdras?",
       "answer": "42.360 pessoas.",
-      "reference": "Ed 2:64"
+      "reference": "Ed 2:64",
+      "wrongs": [
+        "12.000 pessoas.",
+        "70.000 pessoas.",
+        "5.400 pessoas."
+      ]
     },
     {
       "id": "EZR.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que os construtores fizeram no começo do templo após o exílio, em Esdras?",
       "answer": "Puseram os alicerces da casa de Deus.",
-      "reference": "Ed 3:10"
+      "reference": "Ed 3:10",
+      "wrongs": [
+        "Ergueram o muro ao redor da cidade.",
+        "Trouxeram de volta a arca da aliança.",
+        "Abriram as portas do palácio real."
+      ]
     },
     {
       "id": "EZR.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem pôs de pé o altar dos sacrifícios após o exílio, em Esdras?",
       "answer": "Jesua, Zorobabel e os sacerdotes.",
-      "reference": "Ed 3:2"
+      "reference": "Ed 3:2",
+      "wrongs": [
+        "Esdras, Neemias e os levitas.",
+        "Ageu, Zacarias e os profetas.",
+        "Reum, Sinsai e os samaritanos."
+      ]
     },
     {
       "id": "EZR.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "De onde trouxeram madeira de cedro para a obra, em Esdras?",
       "answer": "Do Líbano, pelo mar, até Jope.",
-      "reference": "Ed 3:7"
+      "reference": "Ed 3:7",
+      "wrongs": [
+        "Do Egito, pelo Nilo, até Gaza.",
+        "De Tiro, pelo deserto, até Hebrom.",
+        "De Chipre, pelo rio, até Jericó."
+      ]
     },
     {
       "id": "EZR.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Como os idosos reagiram ao ver o novo alicerce, em Esdras?",
       "answer": "Choravam forte, enquanto muitos gritavam de alegria.",
-      "reference": "Ed 3:12"
+      "reference": "Ed 3:12",
+      "wrongs": [
+        "Ficaram calados, enquanto os jovens iam embora.",
+        "Cantavam hinos, enquanto os chefes se retiravam.",
+        "Riam alto, enquanto o povo se dispersava."
+      ]
     },
     {
       "id": "EZR.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "O que a carta de Artaxerxes contra Jerusalém fez aos judeus?",
       "answer": "Foram impedidos em Jerusalém com violência.",
-      "reference": "Ed 4:23"
+      "reference": "Ed 4:23",
+      "wrongs": [
+        "Receberam ouro para seguir a obra.",
+        "Foram levados de volta à Babilônia.",
+        "Ganharam licença para erguer o muro."
+      ]
     },
     {
       "id": "EZR.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Quem escreveu a Artaxerxes contra Jerusalém?",
       "answer": "Reum e Sinsai.",
-      "reference": "Ed 4:8"
+      "reference": "Ed 4:8",
+      "wrongs": [
+        "Ciro e Dario.",
+        "Zorobabel e Jesua.",
+        "Ageu e Zacarias."
+      ]
     },
     {
       "id": "EZR.4.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "Onde viviam os aliados de Reum e de Sinsai?",
       "answer": "Em Samaria.",
-      "reference": "Ed 4:17"
+      "reference": "Ed 4:17",
+      "wrongs": [
+        "Em Jerusalém.",
+        "Em Babilônia.",
+        "Em Ecbatana."
+      ]
     },
     {
       "id": "EZR.4.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Até quando a reconstrução em Jerusalém ficou parada?",
       "answer": "Até o segundo ano do rei Dario.",
-      "reference": "Ed 4:24"
+      "reference": "Ed 4:24",
+      "wrongs": [
+        "Até o sexto ano do rei Ciro.",
+        "Até o primeiro ano do rei Assuero.",
+        "Até o sétimo ano do rei Artaxerxes."
+      ]
     },
     {
       "id": "EZR.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "Quem recomeçou a reconstrução do templo em Jerusalém?",
       "answer": "Zorobabel e Jesua, com os profetas de Deus.",
-      "reference": "Ed 5:2"
+      "reference": "Ed 5:2",
+      "wrongs": [
+        "Esdras e Neemias, com os levitas de Deus.",
+        "Reum e Sinsai, com os oficiais da Pérsia.",
+        "Sesbazar e Mitridate, com os príncipes de Judá."
+      ]
     },
     {
       "id": "EZR.5.name.1",
@@ -178,7 +263,12 @@
       "kind": "name",
       "prompt": "Quem profetizou aos judeus na reconstrução do templo, em Esdras?",
       "answer": "Ageu e Zacarias.",
-      "reference": "Ed 5:1"
+      "reference": "Ed 5:1",
+      "wrongs": [
+        "Isaías e Jeremias.",
+        "Elias e Eliseu.",
+        "Joel e Amós."
+      ]
     },
     {
       "id": "EZR.5.place.1",
@@ -188,7 +278,12 @@
       "kind": "place",
       "prompt": "Qual região Tatenai comandava?",
       "answer": "A região do outro lado do rio.",
-      "reference": "Ed 5:3"
+      "reference": "Ed 5:3",
+      "wrongs": [
+        "A região do alto do Líbano.",
+        "A região do sul do Egito.",
+        "A região do leste da Média."
+      ]
     },
     {
       "id": "EZR.5.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Por que a obra dos anciãos não parou diante de Tatenai?",
       "answer": "Deus olhava por eles até o caso chegar a Dario.",
-      "reference": "Ed 5:5"
+      "reference": "Ed 5:5",
+      "wrongs": [
+        "Dario já tinha mandado parar a obra.",
+        "Tatenai entregou ouro para a construção.",
+        "Os anciãos fugiram para a Babilônia."
+      ]
     },
     {
       "id": "EZR.6.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "Quando o templo reconstruído em Jerusalém ficou pronto?",
       "answer": "No dia três de Adar, no sexto ano de Dario.",
-      "reference": "Ed 6:15"
+      "reference": "Ed 6:15",
+      "wrongs": [
+        "No dia dez de Nisã, no primeiro ano de Ciro.",
+        "No dia sete de Tisri, no segundo ano de Assuero.",
+        "No dia um de Ab, no sétimo ano de Artaxerxes."
+      ]
     },
     {
       "id": "EZR.6.name.1",
@@ -218,7 +323,12 @@
       "kind": "name",
       "prompt": "Quem mandou vasculhar os arquivos na Babilônia?",
       "answer": "O rei Dario.",
-      "reference": "Ed 6:1"
+      "reference": "Ed 6:1",
+      "wrongs": [
+        "O rei Ciro.",
+        "O rei Artaxerxes.",
+        "O rei Assuero."
+      ]
     },
     {
       "id": "EZR.6.place.1",
@@ -228,7 +338,12 @@
       "kind": "place",
       "prompt": "Onde foi achado o livro do memorial, em Esdras?",
       "answer": "Em Ecbatana, na província da Média.",
-      "reference": "Ed 6:2"
+      "reference": "Ed 6:2",
+      "wrongs": [
+        "Em Susã, na província de Elão.",
+        "Em Babilônia, na província da Caldeia.",
+        "Em Samaria, na província do rio."
+      ]
     },
     {
       "id": "EZR.6.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Quantos cabritos ofereceram na consagração da casa, em Esdras?",
       "answer": "Doze, um por tribo de Israel.",
-      "reference": "Ed 6:17"
+      "reference": "Ed 6:17",
+      "wrongs": [
+        "Sete, um por dia da semana.",
+        "Dez, um por mandamento.",
+        "Quarenta, um por ano no deserto."
+      ]
     },
     {
       "id": "EZR.7.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "Quem subiu da Babilônia como conhecedor da lei?",
       "answer": "Esdras, que dominava a lei de Moisés.",
-      "reference": "Ed 7:6"
+      "reference": "Ed 7:6",
+      "wrongs": [
+        "Neemias, que guardava a porta do rei.",
+        "Zorobabel, que liderava os construtores.",
+        "Sesbazar, que carregava os utensílios."
+      ]
     },
     {
       "id": "EZR.7.name.1",
@@ -258,7 +383,12 @@
       "kind": "name",
       "prompt": "Quem entregou a carta ao escriba Esdras?",
       "answer": "O rei Artaxerxes.",
-      "reference": "Ed 7:11"
+      "reference": "Ed 7:11",
+      "wrongs": [
+        "O rei Dario.",
+        "O rei Ciro.",
+        "O rei Assuero."
+      ]
     },
     {
       "id": "EZR.7.place.1",
@@ -268,7 +398,12 @@
       "kind": "place",
       "prompt": "Aonde Esdras chegou no primeiro dia do quinto mês?",
       "answer": "A Jerusalém.",
-      "reference": "Ed 7:9"
+      "reference": "Ed 7:9",
+      "wrongs": [
+        "A Samaria.",
+        "A Babilônia.",
+        "A Susã."
+      ]
     },
     {
       "id": "EZR.7.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "O que Esdras decidiu no coração sobre a lei?",
       "answer": "Buscá-la, praticá-la e ensiná-la em Israel.",
-      "reference": "Ed 7:10"
+      "reference": "Ed 7:10",
+      "wrongs": [
+        "Escondê-la, copiá-la e guardá-la no templo.",
+        "Mudá-la, resumi-la e levá-la à Pérsia.",
+        "Vendê-la, traduzi-la e lê-la só aos chefes."
+      ]
     },
     {
       "id": "EZR.8.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "O que Deus fez na viagem de Esdras a Jerusalém?",
       "answer": "Livrou o grupo de inimigos e assaltantes.",
-      "reference": "Ed 8:31"
+      "reference": "Ed 8:31",
+      "wrongs": [
+        "Entregou o grupo a salteadores no caminho.",
+        "Fez o grupo voltar para a Babilônia.",
+        "Mandou o grupo acampar em Samaria."
+      ]
     },
     {
       "id": "EZR.8.name.1",
@@ -298,7 +443,12 @@
       "kind": "name",
       "prompt": "Quem era o levita entendido que veio com Esdras?",
       "answer": "Serebias.",
-      "reference": "Ed 8:18"
+      "reference": "Ed 8:18",
+      "wrongs": [
+        "Eliasibe.",
+        "Secanias.",
+        "Hanani."
+      ]
     },
     {
       "id": "EZR.8.place.1",
@@ -308,7 +458,12 @@
       "kind": "place",
       "prompt": "Em que rio Esdras convocou um jejum?",
       "answer": "No rio de Aava.",
-      "reference": "Ed 8:21"
+      "reference": "Ed 8:21",
+      "wrongs": [
+        "No rio Jordão.",
+        "No rio Eufrates.",
+        "No rio Quebar."
+      ]
     },
     {
       "id": "EZR.8.curiosity.1",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "Quantos talentos de prata Esdras pesou?",
       "answer": "Seiscentos e cinquenta.",
-      "reference": "Ed 8:26"
+      "reference": "Ed 8:26",
+      "wrongs": [
+        "Duzentos e vinte.",
+        "Novecentos e oitenta.",
+        "Quatrocentos e trinta."
+      ]
     },
     {
       "id": "EZR.9.subject.1",
@@ -328,7 +488,12 @@
       "kind": "subject",
       "prompt": "Qual foi a falta dos chefes de Israel no tempo de Esdras?",
       "answer": "Foram os primeiros a casar com mulheres de outros povos.",
-      "reference": "Ed 9:2"
+      "reference": "Ed 9:2",
+      "wrongs": [
+        "Foram os primeiros a abandonar o sábado.",
+        "Foram os primeiros a vender os pobres.",
+        "Foram os primeiros a queimar os livros da lei."
+      ]
     },
     {
       "id": "EZR.9.place.1",
@@ -338,7 +503,12 @@
       "kind": "place",
       "prompt": "Diante de quais reis Deus foi bondoso, na oração de Esdras?",
       "answer": "Diante dos reis da Pérsia.",
-      "reference": "Ed 9:9"
+      "reference": "Ed 9:9",
+      "wrongs": [
+        "Diante dos reis da Babilônia.",
+        "Diante dos reis do Egito.",
+        "Diante dos reis de Samaria."
+      ]
     },
     {
       "id": "EZR.9.curiosity.1",
@@ -348,7 +518,12 @@
       "kind": "curiosity",
       "prompt": "O que Esdras fez ao ouvir a notícia?",
       "answer": "Rasgou a roupa e arrancou cabelos da barba.",
-      "reference": "Ed 9:3"
+      "reference": "Ed 9:3",
+      "wrongs": [
+        "Jejuou em silêncio e escreveu uma carta.",
+        "Correu ao rei e pediu um exército.",
+        "Rasgou o livro e quebrou o cajado."
+      ]
     },
     {
       "id": "EZR.9.curiosity.2",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "Até quando Esdras ficou sentado sem reação?",
       "answer": "Até o sacrifício da tarde.",
-      "reference": "Ed 9:4"
+      "reference": "Ed 9:4",
+      "wrongs": [
+        "Até o sacrifício da manhã.",
+        "Até a festa da lua nova.",
+        "Até o primeiro dia do mês."
+      ]
     },
     {
       "id": "EZR.10.subject.1",
@@ -368,7 +548,12 @@
       "kind": "subject",
       "prompt": "O que Esdras exigiu quanto às mulheres estrangeiras?",
       "answer": "Que o povo se afastasse delas e dos outros povos.",
-      "reference": "Ed 10:11"
+      "reference": "Ed 10:11",
+      "wrongs": [
+        "Que o povo as levasse para o templo.",
+        "Que o povo as registrasse como levitas.",
+        "Que o povo as enviasse à Pérsia com ouro."
+      ]
     },
     {
       "id": "EZR.10.name.1",
@@ -378,7 +563,12 @@
       "kind": "name",
       "prompt": "Quem falou a Esdras que ainda havia esperança?",
       "answer": "Secanias, filho de Jeiel.",
-      "reference": "Ed 10:2"
+      "reference": "Ed 10:2",
+      "wrongs": [
+        "Serebias, filho de Mali.",
+        "Zorobabel, filho de Sealtiel.",
+        "Jesua, filho de Jozadaque."
+      ]
     },
     {
       "id": "EZR.10.place.1",
@@ -388,7 +578,12 @@
       "kind": "place",
       "prompt": "Onde o povo se sentou, tremendo, na chuva, em Esdras?",
       "answer": "Na praça do templo, em Jerusalém.",
-      "reference": "Ed 10:9"
+      "reference": "Ed 10:9",
+      "wrongs": [
+        "Na porta do Vale, em Jerusalém.",
+        "Na margem do Aava, na Babilônia.",
+        "Na praça de Susã, na Pérsia."
+      ]
     },
     {
       "id": "EZR.10.curiosity.1",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "No tempo de Esdras, o que ocorria a quem não viesse em três dias?",
       "answer": "Perdia os bens e era cortado do povo.",
-      "reference": "Ed 10:8"
+      "reference": "Ed 10:8",
+      "wrongs": [
+        "Pagava uma multa e voltava para casa.",
+        "Ficava preso e esperava o rei.",
+        "Perdia o cargo e saía de Samaria."
+      ]
     },
     {
       "id": "EZR.0.curiosity.1",
@@ -408,7 +608,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Esdras?",
       "answer": "Esdras.",
-      "reference": "Esdras"
+      "reference": "Esdras",
+      "wrongs": [
+        "Neemias.",
+        "Ageu.",
+        "Zorobabel."
+      ]
     },
     {
       "id": "EZR.0.curiosity.2",
@@ -418,7 +623,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Esdras?",
       "answer": "No século V antes de Cristo.",
-      "reference": "Esdras"
+      "reference": "Esdras",
+      "wrongs": [
+        "No século X antes de Cristo.",
+        "No século VIII antes de Cristo.",
+        "No século II antes de Cristo."
+      ]
     },
     {
       "id": "EZR.0.curiosity.3",
@@ -428,7 +638,12 @@
       "kind": "curiosity",
       "prompt": "Em que línguas Esdras foi escrito?",
       "answer": "Em hebraico e em aramaico.",
-      "reference": "Esdras"
+      "reference": "Esdras",
+      "wrongs": [
+        "Só em hebraico.",
+        "Só em aramaico.",
+        "Em hebraico e em grego."
+      ]
     }
   ]
 }

@@ -9,7 +9,12 @@
       "kind": "subject",
       "prompt": "O que Davi fez com quem disse ter matado o ungido?",
       "answer": "Mandou matá-lo.",
-      "reference": "2Sm 1:15-16"
+      "reference": "2Sm 1:15-16",
+      "wrongs": [
+        "Mandou soltá-lo.",
+        "Mandou premiá-lo.",
+        "Mandou escondê-lo."
+      ]
     },
     {
       "id": "2SA.1.place.1",
@@ -19,7 +24,12 @@
       "kind": "place",
       "prompt": "Onde o amalequita disse a Davi que encontrou Saul?",
       "answer": "No monte de Gilboa.",
-      "reference": "2Sm 1:6"
+      "reference": "2Sm 1:6",
+      "wrongs": [
+        "Em Jezreel.",
+        "Em Bete-Seã.",
+        "Em En-Dor."
+      ]
     },
     {
       "id": "2SA.1.curiosity.1",
@@ -30,7 +40,12 @@
       "kind": "curiosity",
       "prompt": "O que o rapaz trouxe a Davi, tirado de Saul?",
       "answer": "A coroa e o bracelete.",
-      "reference": "2Sm 1:5-10"
+      "reference": "2Sm 1:5-10",
+      "wrongs": [
+        "A lança e a vasilha de água.",
+        "A espada e o escudo.",
+        "O manto e as sandálias."
+      ]
     },
     {
       "id": "2SA.1.curiosity.2",
@@ -40,7 +55,12 @@
       "kind": "curiosity",
       "prompt": "Por quem Davi compôs um canto de luto?",
       "answer": "Por Saul e pelo filho Jônatas.",
-      "reference": "2Sm 1:17"
+      "reference": "2Sm 1:17",
+      "wrongs": [
+        "Por Abner e por Is-Bosete.",
+        "Só por ele mesmo, ainda vivo.",
+        "Por Golias e pelos filisteus."
+      ]
     },
     {
       "id": "2SA.2.subject.1",
@@ -50,7 +70,12 @@
       "kind": "subject",
       "prompt": "Sobre quem os homens de Judá ungiram Davi?",
       "answer": "Sobre a casa de Judá.",
-      "reference": "2Sm 2:4"
+      "reference": "2Sm 2:4",
+      "wrongs": [
+        "Sobre as doze tribos.",
+        "Sobre a casa de Benjamim.",
+        "Sobre os filisteus de Gate."
+      ]
     },
     {
       "id": "2SA.2.name.1",
@@ -60,7 +85,12 @@
       "kind": "name",
       "prompt": "Quem reinou sobre Israel enquanto Judá seguia Davi?",
       "answer": "Is-Bosete, filho de Saul.",
-      "reference": "2Sm 2:10"
+      "reference": "2Sm 2:10",
+      "wrongs": [
+        "Mefibosete, filho de Jônatas.",
+        "Abner, filho de Ner.",
+        "Jônatas, filho de Saul."
+      ]
     },
     {
       "id": "2SA.2.place.1",
@@ -70,7 +100,12 @@
       "kind": "place",
       "prompt": "Onde Davi reinou sobre a casa de Judá?",
       "answer": "Em Hebrom.",
-      "reference": "2Sm 2:11"
+      "reference": "2Sm 2:11",
+      "wrongs": [
+        "Em Jerusalém.",
+        "Em Gibeá.",
+        "Em Belém."
+      ]
     },
     {
       "id": "2SA.2.curiosity.1",
@@ -80,7 +115,12 @@
       "kind": "curiosity",
       "prompt": "Por quanto tempo Davi foi rei em Hebrom, só sobre Judá?",
       "answer": "Sete anos e meio.",
-      "reference": "2Sm 2:11"
+      "reference": "2Sm 2:11",
+      "wrongs": [
+        "Quarenta anos.",
+        "Três meses.",
+        "Dois anos."
+      ]
     },
     {
       "id": "2SA.3.subject.1",
@@ -90,7 +130,12 @@
       "kind": "subject",
       "prompt": "Quem matou Abner quando ele voltou a Hebrom?",
       "answer": "Joabe, vingando a morte do irmão Asael.",
-      "reference": "2Sm 3:27"
+      "reference": "2Sm 3:27",
+      "wrongs": [
+        "Davi, por ordem publicada em Hebrom.",
+        "O próprio Abner, ao cair sobre a espada.",
+        "Is-Bosete, num banquete noturno."
+      ]
     },
     {
       "id": "2SA.3.name.1",
@@ -101,7 +146,12 @@
       "kind": "name",
       "prompt": "Quem Davi exigiu de volta antes de ver Abner?",
       "answer": "Mical, filha de Saul.",
-      "reference": "2Sm 3:12-13"
+      "reference": "2Sm 3:12-13",
+      "wrongs": [
+        "Abigail, viúva de Nabal.",
+        "Ainoã, de Jezreel.",
+        "Rispa, filha de Aiá."
+      ]
     },
     {
       "id": "2SA.3.place.1",
@@ -112,7 +162,12 @@
       "kind": "place",
       "prompt": "Até onde Paltiel acompanhou a mulher, chorando?",
       "answer": "Até Baurim.",
-      "reference": "2Sm 3:15-16"
+      "reference": "2Sm 3:15-16",
+      "wrongs": [
+        "Até Hebrom.",
+        "Até Gibeá.",
+        "Até Jericó."
+      ]
     },
     {
       "id": "2SA.3.curiosity.1",
@@ -122,7 +177,12 @@
       "kind": "curiosity",
       "prompt": "Até quando Davi recusou comer no luto de Abner?",
       "answer": "Até o pôr do sol.",
-      "reference": "2Sm 3:35"
+      "reference": "2Sm 3:35",
+      "wrongs": [
+        "Até o amanhecer.",
+        "Por sete dias.",
+        "Até a lua nova."
+      ]
     },
     {
       "id": "2SA.4.subject.1",
@@ -133,7 +193,12 @@
       "kind": "subject",
       "prompt": "O que fizeram com Is-Bosete enquanto estava na cama?",
       "answer": "Mataram-no e cortaram a cabeça.",
-      "reference": "2Sm 4:5-7"
+      "reference": "2Sm 4:5-7",
+      "wrongs": [
+        "Levaram-no vivo até Davi.",
+        "Guardaram-no escondido em Maanaim.",
+        "Ungiram-no de novo sobre Israel."
+      ]
     },
     {
       "id": "2SA.4.name.1",
@@ -143,7 +208,12 @@
       "kind": "name",
       "prompt": "Quem era o filho aleijado de Jônatas?",
       "answer": "Mefibosete.",
-      "reference": "2Sm 4:4"
+      "reference": "2Sm 4:4",
+      "wrongs": [
+        "Is-Bosete.",
+        "Armoni.",
+        "Adriel."
+      ]
     },
     {
       "id": "2SA.4.place.1",
@@ -153,7 +223,12 @@
       "kind": "place",
       "prompt": "Onde enterraram a cabeça de Is-Bosete?",
       "answer": "No túmulo de Abner, em Hebrom.",
-      "reference": "2Sm 4:12"
+      "reference": "2Sm 4:12",
+      "wrongs": [
+        "No túmulo de Quis, em Selá.",
+        "No monte Gilboa, sem sepultura.",
+        "Em Jabes, debaixo da tamargueira."
+      ]
     },
     {
       "id": "2SA.4.curiosity.1",
@@ -163,7 +238,12 @@
       "kind": "curiosity",
       "prompt": "Que idade Mefibosete tinha quando ficou coxo?",
       "answer": "Cinco anos.",
-      "reference": "2Sm 4:4"
+      "reference": "2Sm 4:4",
+      "wrongs": [
+        "Doze anos.",
+        "Um ano.",
+        "Sete anos."
+      ]
     },
     {
       "id": "2SA.5.subject.1",
@@ -173,7 +253,12 @@
       "kind": "subject",
       "prompt": "O que os anciãos fizeram com Davi em Hebrom?",
       "answer": "Fizeram aliança e o ungiram rei sobre Israel.",
-      "reference": "2Sm 5:3"
+      "reference": "2Sm 5:3",
+      "wrongs": [
+        "Recusaram a coroa e voltaram para casa.",
+        "Ungiram Is-Bosete outra vez.",
+        "Pediram que Joabe reinasse no lugar dele."
+      ]
     },
     {
       "id": "2SA.5.name.1",
@@ -183,7 +268,12 @@
       "kind": "name",
       "prompt": "Quem enviou cedro e pedreiros para a casa de Davi?",
       "answer": "Hirão, rei de Tiro.",
-      "reference": "2Sm 5:11"
+      "reference": "2Sm 5:11",
+      "wrongs": [
+        "Aquis, rei de Gate.",
+        "Naás, rei de Amom.",
+        "Talmai, rei de Gesur."
+      ]
     },
     {
       "id": "2SA.5.place.1",
@@ -193,7 +283,12 @@
       "kind": "place",
       "prompt": "Que fortaleza Davi tomou e passou a ser a cidade dele?",
       "answer": "A fortaleza de Sião.",
-      "reference": "2Sm 5:7"
+      "reference": "2Sm 5:7",
+      "wrongs": [
+        "A fortaleza de Tiro.",
+        "A torre de Jezreel.",
+        "A cidadela de Rabá."
+      ]
     },
     {
       "id": "2SA.5.curiosity.1",
@@ -203,7 +298,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo durou o reinado de Davi?",
       "answer": "Quarenta anos; ele começou aos trinta.",
-      "reference": "2Sm 5:4"
+      "reference": "2Sm 5:4",
+      "wrongs": [
+        "Sete anos; ele começou aos vinte.",
+        "Vinte anos; ele começou aos quarenta.",
+        "Cinquenta anos; ele começou aos quinze."
+      ]
     },
     {
       "id": "2SA.6.subject.1",
@@ -213,7 +313,12 @@
       "kind": "subject",
       "prompt": "De onde Davi trouxe a arca com alegria?",
       "answer": "Da casa de Obede-Edom para a cidade de Davi.",
-      "reference": "2Sm 6:12"
+      "reference": "2Sm 6:12",
+      "wrongs": [
+        "Do templo de Dagom, em Asdode.",
+        "Da tenda de Siló, sem parar no caminho.",
+        "Do campo de Josué, em Bete-Semes."
+      ]
     },
     {
       "id": "2SA.6.name.1",
@@ -223,7 +328,12 @@
       "kind": "name",
       "prompt": "Quem morreu por ter segurado a arca, em 2 Samuel?",
       "answer": "Uzá.",
-      "reference": "2Sm 6:7"
+      "reference": "2Sm 6:7",
+      "wrongs": [
+        "Aiô.",
+        "Obede-Edom.",
+        "Abinadabe."
+      ]
     },
     {
       "id": "2SA.6.place.1",
@@ -233,7 +343,12 @@
       "kind": "place",
       "prompt": "Como passou a se chamar o lugar da morte de Uzá?",
       "answer": "Perez-Uzá.",
-      "reference": "2Sm 6:8"
+      "reference": "2Sm 6:8",
+      "wrongs": [
+        "Ebenézer.",
+        "Ramate-Leí.",
+        "Boquim."
+      ]
     },
     {
       "id": "2SA.6.curiosity.1",
@@ -243,7 +358,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo a arca ficou na casa de Obede-Edom?",
       "answer": "Três meses, e Deus abençoou a família.",
-      "reference": "2Sm 6:11"
+      "reference": "2Sm 6:11",
+      "wrongs": [
+        "Sete meses, e a família adoeceu.",
+        "Vinte anos, sem nenhuma bênção.",
+        "Um dia só, e a arca saiu de noite."
+      ]
     },
     {
       "id": "2SA.7.subject.1",
@@ -253,7 +373,12 @@
       "kind": "subject",
       "prompt": "O que Deus prometeu sobre a casa e o reino de Davi?",
       "answer": "Que ficariam firmes para sempre.",
-      "reference": "2Sm 7:16"
+      "reference": "2Sm 7:16",
+      "wrongs": [
+        "Que durariam só até Salomão.",
+        "Que passariam a Saul de novo.",
+        "Que acabariam quando a arca saísse."
+      ]
     },
     {
       "id": "2SA.7.name.1",
@@ -263,7 +388,12 @@
       "kind": "name",
       "prompt": "A qual profeta Davi falou da casa de cedro e da arca?",
       "answer": "A Natã.",
-      "reference": "2Sm 7:2"
+      "reference": "2Sm 7:2",
+      "wrongs": [
+        "A Samuel.",
+        "A Gade.",
+        "A Elias."
+      ]
     },
     {
       "id": "2SA.7.curiosity.1",
@@ -274,7 +404,12 @@
       "kind": "curiosity",
       "prompt": "Quem Deus disse que edificaria a casa do nome dele, em 2 Samuel?",
       "answer": "O descendente que viria depois de Davi.",
-      "reference": "2Sm 7:12-13"
+      "reference": "2Sm 7:12-13",
+      "wrongs": [
+        "O próprio Davi, ainda no trono.",
+        "Joabe, general do exército.",
+        "Natã, o profeta da corte."
+      ]
     },
     {
       "id": "2SA.7.curiosity.2",
@@ -284,7 +419,12 @@
       "kind": "curiosity",
       "prompt": "De onde Deus tirou Davi para ser príncipe?",
       "answer": "De detrás das ovelhas, no curral.",
-      "reference": "2Sm 7:8"
+      "reference": "2Sm 7:8",
+      "wrongs": [
+        "Do palácio de Saul, em Gibeá.",
+        "Do exército de Judá, em Hebrom.",
+        "Da casa de cedro, em Jerusalém."
+      ]
     },
     {
       "id": "2SA.8.subject.1",
@@ -294,7 +434,12 @@
       "kind": "subject",
       "prompt": "O que Davi fez com os sírios de Damasco?",
       "answer": "Pôs uma guarnição, e eles pagaram tributo.",
-      "reference": "2Sm 8:6"
+      "reference": "2Sm 8:6",
+      "wrongs": [
+        "Destruiu Damasco e não deixou morador.",
+        "Fez aliança e não cobrou nada.",
+        "Entregou a cidade a Hadadezer de graça."
+      ]
     },
     {
       "id": "2SA.8.name.1",
@@ -305,7 +450,12 @@
       "kind": "name",
       "prompt": "Quem era o general do exército de Davi?",
       "answer": "Joabe, filho de Zeruia.",
-      "reference": "2Sm 8:15-16"
+      "reference": "2Sm 8:15-16",
+      "wrongs": [
+        "Abisai, filho de Zeruia.",
+        "Benaia, filho de Joiada.",
+        "Amasa, filho de Jeter."
+      ]
     },
     {
       "id": "2SA.8.place.1",
@@ -315,7 +465,12 @@
       "kind": "place",
       "prompt": "Onde Davi feriu dezoito mil homens?",
       "answer": "No vale do Sal.",
-      "reference": "2Sm 8:13"
+      "reference": "2Sm 8:13",
+      "wrongs": [
+        "No vale de Elá.",
+        "No bosque de Efraim.",
+        "No vale de Refaim."
+      ]
     },
     {
       "id": "2SA.8.curiosity.1",
@@ -325,7 +480,12 @@
       "kind": "curiosity",
       "prompt": "Quantos carros Davi poupou ao inutilizar os cavalos?",
       "answer": "Cem carros.",
-      "reference": "2Sm 8:4"
+      "reference": "2Sm 8:4",
+      "wrongs": [
+        "Dez carros.",
+        "Mil carros.",
+        "Nenhum carro."
+      ]
     },
     {
       "id": "2SA.9.subject.1",
@@ -335,7 +495,12 @@
       "kind": "subject",
       "prompt": "O que Davi prometeu ao filho de Jônatas?",
       "answer": "Devolver as terras de Saul e pão sempre à mesa.",
-      "reference": "2Sm 9:7"
+      "reference": "2Sm 9:7",
+      "wrongs": [
+        "Entregar o trono e a casa de Saul.",
+        "Mandá-lo para longe, sem herança.",
+        "Casá-lo com uma filha do rei."
+      ]
     },
     {
       "id": "2SA.9.name.1",
@@ -345,7 +510,12 @@
       "kind": "name",
       "prompt": "Quem era o filho de Jônatas trazido a Davi?",
       "answer": "Mefibosete.",
-      "reference": "2Sm 9:6"
+      "reference": "2Sm 9:6",
+      "wrongs": [
+        "Is-Bosete.",
+        "Armoni.",
+        "Adriel."
+      ]
     },
     {
       "id": "2SA.9.place.1",
@@ -356,7 +526,12 @@
       "kind": "place",
       "prompt": "Onde estava o filho aleijado de Jônatas?",
       "answer": "Em Lo-Debar, na casa de Maquir.",
-      "reference": "2Sm 9:3-4"
+      "reference": "2Sm 9:3-4",
+      "wrongs": [
+        "Em Hebrom, na casa de Abner.",
+        "Em Jerusalém, no palácio.",
+        "Em Maanaim, na casa de Barzilai."
+      ]
     },
     {
       "id": "2SA.9.curiosity.1",
@@ -366,7 +541,12 @@
       "kind": "curiosity",
       "prompt": "Como eram os pés de Mefibosete?",
       "answer": "Coxos, os dois.",
-      "reference": "2Sm 9:13"
+      "reference": "2Sm 9:13",
+      "wrongs": [
+        "Sãos, os dois.",
+        "Coxo só o direito.",
+        "Sem um dos pés."
+      ]
     },
     {
       "id": "2SA.10.subject.1",
@@ -376,7 +556,12 @@
       "kind": "subject",
       "prompt": "O que Hanum fez com os servos de Davi?",
       "answer": "Rapou metade da barba e cortou as roupas.",
-      "reference": "2Sm 10:4"
+      "reference": "2Sm 10:4",
+      "wrongs": [
+        "Ungiu os servos e os mandou de volta com honra.",
+        "Prendeu os servos por três anos.",
+        "Deu pão, vinho e uma aliança."
+      ]
     },
     {
       "id": "2SA.10.name.1",
@@ -386,7 +571,12 @@
       "kind": "name",
       "prompt": "A quem Davi enviou consoladores, filho de Naás?",
       "answer": "A Hanum.",
-      "reference": "2Sm 10:2"
+      "reference": "2Sm 10:2",
+      "wrongs": [
+        "A Naás.",
+        "A Hadadezer.",
+        "A Toí."
+      ]
     },
     {
       "id": "2SA.10.place.1",
@@ -396,7 +586,12 @@
       "kind": "place",
       "prompt": "Onde os mensageiros esperaram a barba crescer, em 2 Samuel?",
       "answer": "Em Jericó.",
-      "reference": "2Sm 10:5"
+      "reference": "2Sm 10:5",
+      "wrongs": [
+        "Em Hebrom.",
+        "Em Rabá.",
+        "Em Lo-Debar."
+      ]
     },
     {
       "id": "2SA.10.curiosity.1",
@@ -406,7 +601,12 @@
       "kind": "curiosity",
       "prompt": "Quantos cavaleiros sírios Davi feriu?",
       "answer": "Quarenta mil.",
-      "reference": "2Sm 10:18"
+      "reference": "2Sm 10:18",
+      "wrongs": [
+        "Setecentos.",
+        "Dezoito mil.",
+        "Sete mil."
+      ]
     },
     {
       "id": "2SA.11.subject.1",
@@ -417,7 +617,12 @@
       "kind": "subject",
       "prompt": "O que Davi fez com Bate-Seba, mulher de Urias?",
       "answer": "Mandou trazê-la e deitou-se com ela.",
-      "reference": "2Sm 11:3-4"
+      "reference": "2Sm 11:3-4",
+      "wrongs": [
+        "Mandou Joabe levá-la até o marido.",
+        "Devolveu-a sem se aproximar dela.",
+        "Pediu a Urias que a levasse para casa."
+      ]
     },
     {
       "id": "2SA.11.name.1",
@@ -427,7 +632,12 @@
       "kind": "name",
       "prompt": "Quem era Bate-Seba, a mulher que Davi viu?",
       "answer": "Filha de Eliã e esposa de Urias, o heteu.",
-      "reference": "2Sm 11:3"
+      "reference": "2Sm 11:3",
+      "wrongs": [
+        "Filha de Jessé e irmã de Davi.",
+        "Filha de Saul e esposa de Adriel.",
+        "Viúva de Nabal e mãe de Quileabe."
+      ]
     },
     {
       "id": "2SA.11.place.1",
@@ -437,7 +647,12 @@
       "kind": "place",
       "prompt": "Onde Davi ficou enquanto o exército foi à guerra?",
       "answer": "Em Jerusalém.",
-      "reference": "2Sm 11:1"
+      "reference": "2Sm 11:1",
+      "wrongs": [
+        "Em Rabá.",
+        "Em Hebrom.",
+        "No vale do Sal."
+      ]
     },
     {
       "id": "2SA.11.curiosity.1",
@@ -448,7 +663,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi mandou Joabe fazer com Urias?",
       "answer": "Colocá-lo na frente da batalha para que morresse.",
-      "reference": "2Sm 11:14-15"
+      "reference": "2Sm 11:14-15",
+      "wrongs": [
+        "Mandá-lo de volta em paz para casa.",
+        "Dar-lhe o comando no lugar de Joabe.",
+        "Escondê-lo no palácio até o fim da guerra."
+      ]
     },
     {
       "id": "2SA.12.subject.1",
@@ -459,7 +679,12 @@
       "kind": "subject",
       "prompt": "Quem Natã disse que era o homem rico?",
       "answer": "Davi.",
-      "reference": "2Sm 12:1-7"
+      "reference": "2Sm 12:1-7",
+      "wrongs": [
+        "Joabe.",
+        "Urias.",
+        "Natã."
+      ]
     },
     {
       "id": "2SA.12.name.1",
@@ -469,7 +694,12 @@
       "kind": "name",
       "prompt": "Que nome Davi deu ao filho de Bate-Seba após o menino morto?",
       "answer": "Salomão.",
-      "reference": "2Sm 12:24"
+      "reference": "2Sm 12:24",
+      "wrongs": [
+        "Absalão.",
+        "Amnom.",
+        "Natã."
+      ]
     },
     {
       "id": "2SA.12.place.1",
@@ -479,7 +709,12 @@
       "kind": "place",
       "prompt": "Que cidade dos amonitas Davi combateu e tomou?",
       "answer": "Rabá.",
-      "reference": "2Sm 12:29"
+      "reference": "2Sm 12:29",
+      "wrongs": [
+        "Hesbom.",
+        "Damasco.",
+        "Gate."
+      ]
     },
     {
       "id": "2SA.12.curiosity.1",
@@ -489,7 +724,12 @@
       "kind": "curiosity",
       "prompt": "O que houve quando Natã acusou Davi do pecado?",
       "answer": "Ele confessou o pecado, e Deus o perdoou.",
-      "reference": "2Sm 12:13"
+      "reference": "2Sm 12:13",
+      "wrongs": [
+        "Ele negou tudo e expulsou Natã.",
+        "Ele culpou Joabe e ficou calado.",
+        "Deus recusou ouvi-lo e tirou o trono na hora."
+      ]
     },
     {
       "id": "2SA.13.subject.1",
@@ -499,7 +739,12 @@
       "kind": "subject",
       "prompt": "Por que Absalão mandou matar só Amnom?",
       "answer": "Porque Amnom tinha forçado Tamar, irmã de Absalão.",
-      "reference": "2Sm 13:32"
+      "reference": "2Sm 13:32",
+      "wrongs": [
+        "Porque Amnom queria o trono antes dele.",
+        "Porque Davi tinha mandado matar Amnom.",
+        "Porque Tamar pediu a morte de todos os irmãos."
+      ]
     },
     {
       "id": "2SA.13.name.1",
@@ -509,7 +754,12 @@
       "kind": "name",
       "prompt": "Como se chamava a irmã bonita de Absalão?",
       "answer": "Tamar.",
-      "reference": "2Sm 13:1"
+      "reference": "2Sm 13:1",
+      "wrongs": [
+        "Mical.",
+        "Abigail.",
+        "Maaca."
+      ]
     },
     {
       "id": "2SA.13.place.1",
@@ -519,7 +769,12 @@
       "kind": "place",
       "prompt": "Onde Absalão fez a tosquia e convidou os filhos do rei?",
       "answer": "Em Baal-Hazor, junto a Efraim.",
-      "reference": "2Sm 13:23"
+      "reference": "2Sm 13:23",
+      "wrongs": [
+        "Em Hebrom, junto a Judá.",
+        "Em Gesur, na casa do avô.",
+        "Em Jerusalém, no terraço do palácio."
+      ]
     },
     {
       "id": "2SA.13.curiosity.1",
@@ -529,7 +784,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo Absalão ficou refugiado em Gesur?",
       "answer": "Três anos.",
-      "reference": "2Sm 13:38"
+      "reference": "2Sm 13:38",
+      "wrongs": [
+        "Três meses.",
+        "Sete anos.",
+        "Quarenta dias."
+      ]
     },
     {
       "id": "2SA.14.subject.1",
@@ -539,7 +799,12 @@
       "kind": "subject",
       "prompt": "O que Joabe fez depois que Davi cedeu sobre Absalão?",
       "answer": "Foi a Gesur e trouxe Absalão a Jerusalém.",
-      "reference": "2Sm 14:23"
+      "reference": "2Sm 14:23",
+      "wrongs": [
+        "Mandou matar Absalão em Gesur.",
+        "Deixou Absalão exilado para sempre.",
+        "Levou Absalão direto à mesa do rei."
+      ]
     },
     {
       "id": "2SA.14.name.1",
@@ -549,7 +814,12 @@
       "kind": "name",
       "prompt": "Quem mandou a mulher esperta falar a Davi sobre Absalão?",
       "answer": "Joabe.",
-      "reference": "2Sm 14:19"
+      "reference": "2Sm 14:19",
+      "wrongs": [
+        "Natã.",
+        "Aitofel.",
+        "Husai."
+      ]
     },
     {
       "id": "2SA.14.place.1",
@@ -559,7 +829,12 @@
       "kind": "place",
       "prompt": "De que cidade era a mulher esperta enviada ao rei, em 2 Samuel?",
       "answer": "De Tecoa.",
-      "reference": "2Sm 14:2"
+      "reference": "2Sm 14:2",
+      "wrongs": [
+        "De Belém.",
+        "De Anatote.",
+        "De Nobe."
+      ]
     },
     {
       "id": "2SA.14.curiosity.1",
@@ -570,7 +845,12 @@
       "kind": "curiosity",
       "prompt": "Quanto pesava o cabelo de Absalão quando ele o cortava?",
       "answer": "Duzentos siclos, pelo peso real.",
-      "reference": "2Sm 14:25-26"
+      "reference": "2Sm 14:25-26",
+      "wrongs": [
+        "Cem siclos, pelo peso do santuário.",
+        "Cinquenta siclos, pelo peso comum.",
+        "Mil siclos, pelo peso de Tiro."
+      ]
     },
     {
       "id": "2SA.15.subject.1",
@@ -580,7 +860,12 @@
       "kind": "subject",
       "prompt": "O que Davi ordenou ao saber que o povo seguia Absalão?",
       "answer": "Que fugissem logo de Jerusalém.",
-      "reference": "2Sm 15:14"
+      "reference": "2Sm 15:14",
+      "wrongs": [
+        "Que fechassem as portas e lutassem.",
+        "Que entregassem a coroa sem sair.",
+        "Que chamassem Absalão para um banquete."
+      ]
     },
     {
       "id": "2SA.15.name.1",
@@ -590,7 +875,12 @@
       "kind": "name",
       "prompt": "Quem Absalão chamou do conselho de Davi?",
       "answer": "Aitofel, de Gilo.",
-      "reference": "2Sm 15:12"
+      "reference": "2Sm 15:12",
+      "wrongs": [
+        "Husai, o arquita.",
+        "Natã, o profeta.",
+        "Zadoque, o sacerdote."
+      ]
     },
     {
       "id": "2SA.15.place.1",
@@ -600,7 +890,12 @@
       "kind": "place",
       "prompt": "Onde Absalão mandou proclamar que era rei?",
       "answer": "Em Hebrom.",
-      "reference": "2Sm 15:10"
+      "reference": "2Sm 15:10",
+      "wrongs": [
+        "Em Jerusalém.",
+        "Em Gibeá.",
+        "Em Belém."
+      ]
     },
     {
       "id": "2SA.15.curiosity.1",
@@ -610,7 +905,12 @@
       "kind": "curiosity",
       "prompt": "Quantos convidados foram com Absalão sem saber da trama?",
       "answer": "Duzentos.",
-      "reference": "2Sm 15:11"
+      "reference": "2Sm 15:11",
+      "wrongs": [
+        "Quatrocentos.",
+        "Cinquenta.",
+        "Doze."
+      ]
     },
     {
       "id": "2SA.16.subject.1",
@@ -620,7 +920,12 @@
       "kind": "subject",
       "prompt": "O que Absalão fez no terraço, à vista de Israel?",
       "answer": "Entrou até as concubinas do pai.",
-      "reference": "2Sm 16:22"
+      "reference": "2Sm 16:22",
+      "wrongs": [
+        "Devolveu as concubinas em paz.",
+        "Queimou o terraço e desceu.",
+        "Jejuou ali diante de Israel."
+      ]
     },
     {
       "id": "2SA.16.name.1",
@@ -630,7 +935,12 @@
       "kind": "name",
       "prompt": "Quem saiu amaldiçoando Davi em Baurim?",
       "answer": "Simei, filho de Gera.",
-      "reference": "2Sm 16:5"
+      "reference": "2Sm 16:5",
+      "wrongs": [
+        "Ziba, servo de Saul.",
+        "Barzilai, de Rogelim.",
+        "Itai, de Gate."
+      ]
     },
     {
       "id": "2SA.16.place.1",
@@ -640,7 +950,12 @@
       "kind": "place",
       "prompt": "Onde Simei alcançou Davi no caminho da fuga?",
       "answer": "Em Baurim.",
-      "reference": "2Sm 16:5"
+      "reference": "2Sm 16:5",
+      "wrongs": [
+        "Em Gilgal.",
+        "Em Jericó.",
+        "Em Maanaim."
+      ]
     },
     {
       "id": "2SA.16.curiosity.1",
@@ -650,7 +965,12 @@
       "kind": "curiosity",
       "prompt": "O que Ziba levou a Davi na fuga?",
       "answer": "Dois jumentos com pão, frutas secas e vinho.",
-      "reference": "2Sm 16:1"
+      "reference": "2Sm 16:1",
+      "wrongs": [
+        "Três camelos com ouro, azeite e incenso.",
+        "Um cavalo com a coroa e o bracelete.",
+        "Cinco ovelhas com trigo e mel."
+      ]
     },
     {
       "id": "2SA.17.subject.1",
@@ -660,7 +980,12 @@
       "kind": "subject",
       "prompt": "Por que o conselho de Aitofel foi rejeitado?",
       "answer": "Deus fez o plano dele falhar, contra Absalão.",
-      "reference": "2Sm 17:14"
+      "reference": "2Sm 17:14",
+      "wrongs": [
+        "Absalão achou o plano curto demais.",
+        "O povo votou e preferiu Joabe.",
+        "Aitofel retirou o plano por medo."
+      ]
     },
     {
       "id": "2SA.17.name.1",
@@ -670,7 +995,12 @@
       "kind": "name",
       "prompt": "Quem disse a Absalão que o plano de Aitofel era ruim?",
       "answer": "Husai.",
-      "reference": "2Sm 17:7"
+      "reference": "2Sm 17:7",
+      "wrongs": [
+        "Aitofel.",
+        "Natã.",
+        "Zadoque."
+      ]
     },
     {
       "id": "2SA.17.place.1",
@@ -680,7 +1010,12 @@
       "kind": "place",
       "prompt": "A que cidade Davi chegou do outro lado do Jordão?",
       "answer": "A Maanaim.",
-      "reference": "2Sm 17:24"
+      "reference": "2Sm 17:24",
+      "wrongs": [
+        "A Hebrom.",
+        "A Rabá.",
+        "A Lo-Debar."
+      ]
     },
     {
       "id": "2SA.17.curiosity.1",
@@ -690,7 +1025,12 @@
       "kind": "curiosity",
       "prompt": "O que Aitofel fez quando o conselho não foi aceito?",
       "answer": "Arrumou a casa e se enforcou.",
-      "reference": "2Sm 17:23"
+      "reference": "2Sm 17:23",
+      "wrongs": [
+        "Fugiu para Gesur com Absalão.",
+        "Pediu perdão e voltou a Davi.",
+        "Foi morto por Joabe na porta."
+      ]
     },
     {
       "id": "2SA.18.subject.1",
@@ -700,7 +1040,12 @@
       "kind": "subject",
       "prompt": "O que Joabe fez com Absalão preso no carvalho?",
       "answer": "Cravou três dardos no coração dele, ainda vivo.",
-      "reference": "2Sm 18:14"
+      "reference": "2Sm 18:14",
+      "wrongs": [
+        "Cortou a árvore e o soltou com vida.",
+        "Levou-o preso até Jerusalém.",
+        "Atirou uma única pedra e errou."
+      ]
     },
     {
       "id": "2SA.18.place.1",
@@ -710,7 +1055,12 @@
       "kind": "place",
       "prompt": "Onde foi a batalha contra o exército de Absalão?",
       "answer": "No bosque de Efraim.",
-      "reference": "2Sm 18:6"
+      "reference": "2Sm 18:6",
+      "wrongs": [
+        "No vale de Elá.",
+        "No monte Gilboa.",
+        "Na planície de Moabe."
+      ]
     },
     {
       "id": "2SA.18.curiosity.1",
@@ -720,7 +1070,12 @@
       "kind": "curiosity",
       "prompt": "Onde a cabeça de Absalão ficou presa?",
       "answer": "Num carvalho grande e espesso.",
-      "reference": "2Sm 18:9"
+      "reference": "2Sm 18:9",
+      "wrongs": [
+        "Numa videira baixa.",
+        "Nos galhos de uma oliveira.",
+        "Na porta de Maanaim."
+      ]
     },
     {
       "id": "2SA.18.curiosity.2",
@@ -730,7 +1085,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi desejou ao saber que Absalão tinha morrido?",
       "answer": "Ter morrido no lugar do filho.",
-      "reference": "2Sm 18:33"
+      "reference": "2Sm 18:33",
+      "wrongs": [
+        "Que Joabe fosse rei no lugar dele.",
+        "Comemorar a vitória sem luto.",
+        "Que Absalão tivesse fugido para Gesur."
+      ]
     },
     {
       "id": "2SA.19.subject.1",
@@ -740,7 +1100,12 @@
       "kind": "subject",
       "prompt": "O que Judá fez quando Davi chegou ao Jordão?",
       "answer": "Foi a Gilgal para ajudá-lo a atravessar.",
-      "reference": "2Sm 19:15"
+      "reference": "2Sm 19:15",
+      "wrongs": [
+        "Fechou o Jordão e não o deixou passar.",
+        "Ficou em Hebrom à espera de Absalão.",
+        "Mandou tributo e não saiu da cidade."
+      ]
     },
     {
       "id": "2SA.19.name.1",
@@ -750,7 +1115,12 @@
       "kind": "name",
       "prompt": "Quem, aos oitenta anos, tinha alimentado Davi em Maanaim?",
       "answer": "Barzilai.",
-      "reference": "2Sm 19:32"
+      "reference": "2Sm 19:32",
+      "wrongs": [
+        "Maquir.",
+        "Ziba.",
+        "Simei."
+      ]
     },
     {
       "id": "2SA.19.place.1",
@@ -760,7 +1130,12 @@
       "kind": "place",
       "prompt": "De onde Barzilai desceu para acompanhar o rei?",
       "answer": "De Rogelim.",
-      "reference": "2Sm 19:31"
+      "reference": "2Sm 19:31",
+      "wrongs": [
+        "De Lo-Debar.",
+        "De Maanaim.",
+        "De Abel-Maaca."
+      ]
     },
     {
       "id": "2SA.19.curiosity.1",
@@ -770,7 +1145,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi jurou a Simei ao voltar para Jerusalém?",
       "answer": "Que não o mataria.",
-      "reference": "2Sm 19:23"
+      "reference": "2Sm 19:23",
+      "wrongs": [
+        "Que o exilaria em Gesur.",
+        "Que lhe daria o trono de Saul.",
+        "Que Joabe decidiria a pena."
+      ]
     },
     {
       "id": "2SA.20.subject.1",
@@ -780,7 +1160,12 @@
       "kind": "subject",
       "prompt": "Como a cidade entregou Seba, filho de Bicri?",
       "answer": "Cortaram a cabeça dele e a lançaram a Joabe.",
-      "reference": "2Sm 20:22"
+      "reference": "2Sm 20:22",
+      "wrongs": [
+        "Abriram as portas e o deixaram fugir.",
+        "Entregaram Joabe no lugar dele.",
+        "Pagaram prata e guardaram Seba vivo."
+      ]
     },
     {
       "id": "2SA.20.name.1",
@@ -790,7 +1175,12 @@
       "kind": "name",
       "prompt": "Quem Joabe segurou pela barba, como quem ia beijar?",
       "answer": "Amasa.",
-      "reference": "2Sm 20:9"
+      "reference": "2Sm 20:9",
+      "wrongs": [
+        "Abner.",
+        "Absalão.",
+        "Seba."
+      ]
     },
     {
       "id": "2SA.20.place.1",
@@ -801,7 +1191,12 @@
       "kind": "place",
       "prompt": "Que cidade Joabe cercou para pegar Seba?",
       "answer": "Abel de Bete-Maaca.",
-      "reference": "2Sm 20:13-15"
+      "reference": "2Sm 20:13-15",
+      "wrongs": [
+        "Abel-Meolá.",
+        "Bete-Semes.",
+        "Bete-Horom."
+      ]
     },
     {
       "id": "2SA.20.curiosity.1",
@@ -811,7 +1206,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi fez com as dez concubinas deixadas na casa?",
       "answer": "Pôs-as numa casa guardada e não foi mais até elas.",
-      "reference": "2Sm 20:3"
+      "reference": "2Sm 20:3",
+      "wrongs": [
+        "Recebeu-as de volta como rainhas.",
+        "Mandou-as para a casa dos pais.",
+        "Entregou-as a Absalão outra vez."
+      ]
     },
     {
       "id": "2SA.21.subject.1",
@@ -821,7 +1221,12 @@
       "kind": "subject",
       "prompt": "Por que houve três anos de fome no tempo de Davi?",
       "answer": "Por causa de Saul, que matou os gibeonitas.",
-      "reference": "2Sm 21:1"
+      "reference": "2Sm 21:1",
+      "wrongs": [
+        "Por causa de Davi, que contou o povo.",
+        "Por causa da seca em Rabá.",
+        "Por causa do pecado de Acã em Jericó."
+      ]
     },
     {
       "id": "2SA.21.name.1",
@@ -831,7 +1236,12 @@
       "kind": "name",
       "prompt": "Quem não deixou as aves pousarem nos corpos, em 2 Samuel?",
       "answer": "Rispa, filha de Aiá.",
-      "reference": "2Sm 21:10"
+      "reference": "2Sm 21:10",
+      "wrongs": [
+        "Mical, filha de Saul.",
+        "Merabe, filha de Saul.",
+        "Tamar, filha de Davi."
+      ]
     },
     {
       "id": "2SA.21.place.1",
@@ -841,7 +1251,12 @@
       "kind": "place",
       "prompt": "Onde puseram os ossos de Saul e de Jônatas?",
       "answer": "No túmulo de Quis, em Selá, na terra de Benjamim.",
-      "reference": "2Sm 21:14"
+      "reference": "2Sm 21:14",
+      "wrongs": [
+        "No túmulo de Abner, em Hebrom.",
+        "No monte Gilboa, à vista dos filisteus.",
+        "Na cova de Adulão, na terra de Judá."
+      ]
     },
     {
       "id": "2SA.21.curiosity.1",
@@ -851,7 +1266,12 @@
       "kind": "curiosity",
       "prompt": "Quantos dedos tinha o homem muito alto de Gate?",
       "answer": "Vinte e quatro: doze nas mãos e doze nos pés.",
-      "reference": "2Sm 21:20"
+      "reference": "2Sm 21:20",
+      "wrongs": [
+        "Vinte: dez nas mãos e dez nos pés.",
+        "Doze: seis nas mãos e seis nos pés.",
+        "Seis em cada mão, e os pés normais."
+      ]
     },
     {
       "id": "2SA.22.subject.1",
@@ -862,7 +1282,12 @@
       "kind": "subject",
       "prompt": "Como Davi chamou Deus no começo do cântico?",
       "answer": "Sua rocha, sua fortaleza e seu libertador.",
-      "reference": "2Sm 22:1-2"
+      "reference": "2Sm 22:1-2",
+      "wrongs": [
+        "Seu rei, seu general e seu sacerdote.",
+        "Sua espada, seu escudo e seu arco.",
+        "Seu pai, seu juiz e seu profeta."
+      ]
     },
     {
       "id": "2SA.22.curiosity.1",
@@ -872,7 +1297,12 @@
       "kind": "curiosity",
       "prompt": "Sobre o que Davi disse que Deus voou?",
       "answer": "Sobre um querubim e as asas do vento.",
-      "reference": "2Sm 22:11"
+      "reference": "2Sm 22:11",
+      "wrongs": [
+        "Sobre um cavalo branco e as nuvens.",
+        "Sobre a arca e os varais de ouro.",
+        "Sobre o monte Sião, sem sair do lugar."
+      ]
     },
     {
       "id": "2SA.22.curiosity.2",
@@ -882,7 +1312,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi disse que Deus era para as trevas dele?",
       "answer": "A lâmpada que dá luz.",
-      "reference": "2Sm 22:29"
+      "reference": "2Sm 22:29",
+      "wrongs": [
+        "A sombra que esconde.",
+        "O trovão que assusta.",
+        "A espada que fere."
+      ]
     },
     {
       "id": "2SA.23.subject.1",
@@ -892,7 +1327,12 @@
       "kind": "subject",
       "prompt": "Que acordo Davi disse que Deus fez com ele?",
       "answer": "Uma aliança permanente, firme em tudo.",
-      "reference": "2Sm 23:5"
+      "reference": "2Sm 23:5",
+      "wrongs": [
+        "Um acordo só até o fim da guerra.",
+        "Uma promessa que Saul ainda podia anular.",
+        "Um pacto limitado à tribo de Judá."
+      ]
     },
     {
       "id": "2SA.23.name.1",
@@ -902,7 +1342,12 @@
       "kind": "name",
       "prompt": "Quem matou um leão num fosso, num dia de neve, em 2 Samuel?",
       "answer": "Benaia, filho de Joiada.",
-      "reference": "2Sm 23:20"
+      "reference": "2Sm 23:20",
+      "wrongs": [
+        "Joabe, filho de Zeruia.",
+        "Abisai, filho de Zeruia.",
+        "Eleazar, filho de Dodô."
+      ]
     },
     {
       "id": "2SA.23.place.1",
@@ -912,7 +1357,12 @@
       "kind": "place",
       "prompt": "De que cisterna Davi teve desejo de beber?",
       "answer": "Da cisterna de Belém, junto à porta.",
-      "reference": "2Sm 23:15"
+      "reference": "2Sm 23:15",
+      "wrongs": [
+        "Do ribeiro de Besor, no deserto.",
+        "Da fonte de Harode, junto ao monte.",
+        "Do poço de Jericó, fora do muro."
+      ]
     },
     {
       "id": "2SA.23.curiosity.1",
@@ -922,7 +1372,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi fez com a água que os três valentes trouxeram?",
       "answer": "Não bebeu; derramou-a diante de Deus.",
-      "reference": "2Sm 23:16"
+      "reference": "2Sm 23:16",
+      "wrongs": [
+        "Bebeu tudo e abençoou os três.",
+        "Guardou a água para o dia da batalha.",
+        "Mandou devolvê-la à cisterna."
+      ]
     },
     {
       "id": "2SA.24.subject.1",
@@ -932,7 +1387,12 @@
       "kind": "subject",
       "prompt": "Quantos morreram na pestilência mandada sobre Israel?",
       "answer": "Setenta mil, de Dã até Berseba.",
-      "reference": "2Sm 24:15"
+      "reference": "2Sm 24:15",
+      "wrongs": [
+        "Vinte e quatro mil, só em Judá.",
+        "Sete mil, só em Benjamim.",
+        "Quarenta mil, de Hebrom até Damasco."
+      ]
     },
     {
       "id": "2SA.24.name.1",
@@ -942,7 +1402,12 @@
       "kind": "name",
       "prompt": "De quem era a eira, em 2 Samuel, onde Davi devia erguer o altar?",
       "answer": "De Araúna, o jebuseu.",
-      "reference": "2Sm 24:18"
+      "reference": "2Sm 24:18",
+      "wrongs": [
+        "De Husai, o arquita.",
+        "De Barzilai, o gileadita.",
+        "De Maquir, de Lo-Debar."
+      ]
     },
     {
       "id": "2SA.24.place.1",
@@ -952,7 +1417,12 @@
       "kind": "place",
       "prompt": "De onde até onde Davi mandou contar o povo?",
       "answer": "De Dã até Berseba.",
-      "reference": "2Sm 24:2"
+      "reference": "2Sm 24:2",
+      "wrongs": [
+        "De Berseba até Damasco.",
+        "De Hebrom até Rabá.",
+        "De Siló até Gaza."
+      ]
     },
     {
       "id": "2SA.24.curiosity.1",
@@ -962,7 +1432,12 @@
       "kind": "curiosity",
       "prompt": "Quanto prata Davi pagou pelo terreno e pelos animais?",
       "answer": "Cinquenta siclos de prata, sem aceitar de graça.",
-      "reference": "2Sm 24:24"
+      "reference": "2Sm 24:24",
+      "wrongs": [
+        "Vinte siclos de prata, com desconto.",
+        "Cem siclos de prata, pagos a Joabe.",
+        "Nada, porque o dono deu o terreno de graça."
+      ]
     },
     {
       "id": "2SA.0.curiosity.1",
@@ -972,7 +1447,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 2 Samuel?",
       "answer": "O livro não nomeia o autor.",
-      "reference": "2 Samuel"
+      "reference": "2 Samuel",
+      "wrongs": [
+        "O livro diz que o autor foi Natã.",
+        "O livro diz que o autor foi Davi.",
+        "O livro diz que o autor foi Gade."
+      ]
     },
     {
       "id": "2SA.0.curiosity.2",
@@ -982,7 +1462,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 2 Samuel?",
       "answer": "No século X antes de Cristo.",
-      "reference": "2 Samuel"
+      "reference": "2 Samuel",
+      "wrongs": [
+        "No século V antes de Cristo.",
+        "No século XV antes de Cristo.",
+        "No século I depois de Cristo."
+      ]
     }
   ]
 }

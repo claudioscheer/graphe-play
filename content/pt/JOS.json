@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que Deus mandou Josué fazer depois da morte de Moisés?",
       "answer": "Passar o Jordão com todo o povo, para a terra que Deus lhes dava.",
-      "reference": "Js 1:2"
+      "reference": "Js 1:2",
+      "wrongs": [
+        "Voltar ao Sinai e esperar outra nuvem.",
+        "Ficar em Moabe até crescer outra geração.",
+        "Mandar só os espias, e o povo permanecer."
+      ]
     },
     {
       "id": "JOS.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "A quem Deus falou depois que Moisés morreu?",
       "answer": "Josué, filho de Num.",
-      "reference": "Js 1:1"
+      "reference": "Js 1:1",
+      "wrongs": [
+        "Calebe, filho de Jefoné.",
+        "Eleazar, filho de Arão.",
+        "Fineias, filho de Eleazar."
+      ]
     },
     {
       "id": "JOS.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Até qual grande rio ia a terra que Deus dava a Israel?",
       "answer": "Até o Eufrates.",
-      "reference": "Js 1:4"
+      "reference": "Js 1:4",
+      "wrongs": [
+        "Até o Nilo.",
+        "Até o Jordão.",
+        "Até o Tigre."
+      ]
     },
     {
       "id": "JOS.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Em quantos dias o povo deveria atravessar o Jordão?",
       "answer": "Em três dias.",
-      "reference": "Js 1:11"
+      "reference": "Js 1:11",
+      "wrongs": [
+        "Em sete dias.",
+        "Em quarenta dias.",
+        "No mesmo dia."
+      ]
     },
     {
       "id": "JOS.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que Raabe fez com os espias que o rei procurava?",
       "answer": "Escondeu os dois e negou saber de onde vinham.",
-      "reference": "Js 2:4"
+      "reference": "Js 2:4",
+      "wrongs": [
+        "Entregou os dois ao rei de Jericó.",
+        "Fugiu com eles para o Jordão.",
+        "Contou ao rei o caminho por onde vieram."
+      ]
     },
     {
       "id": "JOS.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem hospedou os espias de Israel em Jericó?",
       "answer": "Raabe.",
-      "reference": "Js 2:1"
+      "reference": "Js 2:1",
+      "wrongs": [
+        "Débora.",
+        "Miriã.",
+        "Acsa."
+      ]
     },
     {
       "id": "JOS.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Onde ficava a casa de Raabe?",
       "answer": "No muro da cidade.",
-      "reference": "Js 2:15"
+      "reference": "Js 2:15",
+      "wrongs": [
+        "Na porta do palácio.",
+        "Fora do muro, no campo.",
+        "Junto ao poço da cidade."
+      ]
     },
     {
       "id": "JOS.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "O que Raabe deveria amarrar na janela?",
       "answer": "Um cordão vermelho.",
-      "reference": "Js 2:18"
+      "reference": "Js 2:18",
+      "wrongs": [
+        "Um ramo de oliveira.",
+        "Uma tocha acesa.",
+        "Um véu branco."
+      ]
     },
     {
       "id": "JOS.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Como o povo de Israel passou pelo Jordão?",
       "answer": "Todo o povo passou em chão seco.",
-      "reference": "Js 3:17"
+      "reference": "Js 3:17",
+      "wrongs": [
+        "Atravessaram a nado, com a arca à frente.",
+        "Só os sacerdotes passaram, e o povo voltou.",
+        "Esperaram o rio baixar no tempo da seca."
+      ]
     },
     {
       "id": "JOS.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem saiu de Sitim com Israel em direção ao Jordão?",
       "answer": "Josué.",
-      "reference": "Js 3:1"
+      "reference": "Js 3:1",
+      "wrongs": [
+        "Calebe.",
+        "Eleazar.",
+        "Fineias."
+      ]
     },
     {
       "id": "JOS.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Diante de qual cidade o povo atravessou o rio, em Josué?",
       "answer": "Diante de Jericó.",
-      "reference": "Js 3:16"
+      "reference": "Js 3:16",
+      "wrongs": [
+        "Diante de Ai.",
+        "Diante de Hesbom.",
+        "Diante de Hazor."
+      ]
     },
     {
       "id": "JOS.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens foram escolhidos, um de cada tribo, em Josué?",
       "answer": "Doze.",
-      "reference": "Js 3:12"
+      "reference": "Js 3:12",
+      "wrongs": [
+        "Sete.",
+        "Dois.",
+        "Quarenta."
+      ]
     },
     {
       "id": "JOS.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "O que Josué levantou em Gilgal?",
       "answer": "As doze pedras trazidas do Jordão.",
-      "reference": "Js 4:20"
+      "reference": "Js 4:20",
+      "wrongs": [
+        "Um altar de bronze trazido do Sinai.",
+        "A arca, que ficou enterrada ali.",
+        "Doze bandeiras, uma de cada tribo."
+      ]
     },
     {
       "id": "JOS.4.place.1",
@@ -138,7 +203,12 @@
       "kind": "place",
       "prompt": "Onde Israel acampou depois de atravessar o Jordão?",
       "answer": "Em Gilgal, a leste de Jericó.",
-      "reference": "Js 4:19"
+      "reference": "Js 4:19",
+      "wrongs": [
+        "Em Sitim, a oeste do Jordão.",
+        "Em Siló, no meio de Efraim.",
+        "Em Siquém, entre os montes."
+      ]
     },
     {
       "id": "JOS.4.curiosity.1",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "Por que Israel guardaria as pedras do Jordão?",
       "answer": "Como memorial da passagem da arca pelo Jordão.",
-      "reference": "Js 4:7"
+      "reference": "Js 4:7",
+      "wrongs": [
+        "Como muro contra a cidade de Jericó.",
+        "Como altar para queimar os despojos.",
+        "Como limite da terra de Rúben."
+      ]
     },
     {
       "id": "JOS.4.curiosity.2",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Quantos guerreiros armados passaram à frente ao cruzar o Jordão?",
       "answer": "Cerca de quarenta mil.",
-      "reference": "Js 4:13"
+      "reference": "Js 4:13",
+      "wrongs": [
+        "Cerca de doze mil.",
+        "Todos os seiscentos mil.",
+        "Só os doze escolhidos das tribos."
+      ]
     },
     {
       "id": "JOS.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "Por que Josué circuncidou a geração nova?",
       "answer": "Porque ainda não tinham sido circuncidados no caminho.",
-      "reference": "Js 5:7"
+      "reference": "Js 5:7",
+      "wrongs": [
+        "Porque a lei tinha acabado de ser escrita.",
+        "Porque os de Jericó exigiram esse sinal.",
+        "Porque o maná só vinha aos circuncidados."
+      ]
     },
     {
       "id": "JOS.5.name.1",
@@ -178,7 +263,12 @@
       "kind": "name",
       "prompt": "Quem se apresentou a Josué como chefe do exército de Deus?",
       "answer": "O príncipe do exército de Deus.",
-      "reference": "Js 5:14"
+      "reference": "Js 5:14",
+      "wrongs": [
+        "Um morador de Jericó.",
+        "Moisés, ainda com o povo.",
+        "O rei Adoni-Zedeque."
+      ]
     },
     {
       "id": "JOS.5.place.1",
@@ -188,7 +278,12 @@
       "kind": "place",
       "prompt": "Que nome recebeu o lugar onde a vergonha do Egito foi tirada?",
       "answer": "Gilgal.",
-      "reference": "Js 5:9"
+      "reference": "Js 5:9",
+      "wrongs": [
+        "Betel.",
+        "Siló.",
+        "Jericó."
+      ]
     },
     {
       "id": "JOS.5.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "O que deixou de vir quando Israel comeu o fruto da terra?",
       "answer": "O maná.",
-      "reference": "Js 5:12"
+      "reference": "Js 5:12",
+      "wrongs": [
+        "A nuvem.",
+        "O fogo.",
+        "A água."
+      ]
     },
     {
       "id": "JOS.6.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu quando o povo gritou em Jericó?",
       "answer": "O muro caiu e a cidade foi tomada.",
-      "reference": "Js 6:20"
+      "reference": "Js 6:20",
+      "wrongs": [
+        "O muro ficou de pé, e eles voltaram.",
+        "A cidade abriu as portas em paz.",
+        "Só a porta caiu, e o muro ficou."
+      ]
     },
     {
       "id": "JOS.6.name.1",
@@ -218,7 +323,12 @@
       "kind": "name",
       "prompt": "Quem Josué deixou viver em Jericó?",
       "answer": "Raabe e a família do pai dela.",
-      "reference": "Js 6:25"
+      "reference": "Js 6:25",
+      "wrongs": [
+        "O rei e a guarda do palácio.",
+        "Os sacerdotes dos altos.",
+        "Ninguém: a cidade inteira morreu."
+      ]
     },
     {
       "id": "JOS.6.curiosity.1",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "Quantas vezes rodearam Jericó no sétimo dia?",
       "answer": "Sete vezes.",
-      "reference": "Js 6:15"
+      "reference": "Js 6:15",
+      "wrongs": [
+        "Uma vez.",
+        "Três vezes.",
+        "Doze vezes."
+      ]
     },
     {
       "id": "JOS.6.curiosity.2",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "O que Josué declarou sobre quem reconstruísse Jericó?",
       "answer": "Que seria maldito, perdendo o filho mais velho e o mais novo.",
-      "reference": "Js 6:26"
+      "reference": "Js 6:26",
+      "wrongs": [
+        "Que seria abençoado e ganharia a cidade.",
+        "Que pagaria ouro e ficaria livre da culpa.",
+        "Que perderia só a casa, e os filhos viveriam."
+      ]
     },
     {
       "id": "JOS.7.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu na primeira batalha de Israel contra Ai?",
       "answer": "Cerca de trinta e seis foram feridos, e o povo desanimou.",
-      "reference": "Js 7:5"
+      "reference": "Js 7:5",
+      "wrongs": [
+        "Israel venceu Ai sem perder ninguém.",
+        "Doze mil de Ai caíram nesse primeiro ataque.",
+        "Todo o exército voltou sem um ferido."
+      ]
     },
     {
       "id": "JOS.7.name.1",
@@ -258,7 +383,12 @@
       "kind": "name",
       "prompt": "Quem foi apontado por sorte na tribo de Judá?",
       "answer": "Acã, filho de Carmi.",
-      "reference": "Js 7:18"
+      "reference": "Js 7:18",
+      "wrongs": [
+        "Calebe, filho de Jefoné.",
+        "Otniel, filho de Quenaz.",
+        "Fineias, filho de Eleazar."
+      ]
     },
     {
       "id": "JOS.7.place.1",
@@ -268,7 +398,12 @@
       "kind": "place",
       "prompt": "Qual nome ficou no lugar onde Acã foi punido?",
       "answer": "Vale de Acor.",
-      "reference": "Js 7:26"
+      "reference": "Js 7:26",
+      "wrongs": [
+        "Vale de Escol.",
+        "Vale de Sitim.",
+        "Vale do Jordão."
+      ]
     },
     {
       "id": "JOS.7.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "O que Acã confessou ter pegado e escondido?",
       "answer": "Um manto da Babilônia, além de prata e de ouro.",
-      "reference": "Js 7:21"
+      "reference": "Js 7:21",
+      "wrongs": [
+        "Só um pouco de farinha e um odre.",
+        "O manto de Josué e a tampa da arca.",
+        "Gado de Ai e pão fermentado."
+      ]
     },
     {
       "id": "JOS.8.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "O que os homens da emboscada fizeram em Ai?",
       "answer": "Tomaram a cidade e lhe puseram fogo.",
-      "reference": "Js 8:19"
+      "reference": "Js 8:19",
+      "wrongs": [
+        "Recuaram e deixaram a cidade em pé.",
+        "Fizeram as pazes com o rei de Ai.",
+        "Só rodearam o muro e voltaram ao arraial."
+      ]
     },
     {
       "id": "JOS.8.place.1",
@@ -298,7 +443,12 @@
       "kind": "place",
       "prompt": "Em que monte Josué edificou um altar?",
       "answer": "No monte Ebal.",
-      "reference": "Js 8:30"
+      "reference": "Js 8:30",
+      "wrongs": [
+        "No monte Gerizim.",
+        "No monte Sinai.",
+        "No monte Carmelo."
+      ]
     },
     {
       "id": "JOS.8.curiosity.1",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "Quantos moradores de Ai caíram quando Josué tomou a cidade?",
       "answer": "Doze mil.",
-      "reference": "Js 8:25"
+      "reference": "Js 8:25",
+      "wrongs": [
+        "Trinta e seis.",
+        "Mil.",
+        "Quarenta mil."
+      ]
     },
     {
       "id": "JOS.9.subject.1",
@@ -318,7 +473,12 @@
       "kind": "subject",
       "prompt": "O que Josué concordou com os homens de Gibeão?",
       "answer": "Fez as pazes e garantiu que eles viveriam.",
-      "reference": "Js 9:15"
+      "reference": "Js 9:15",
+      "wrongs": [
+        "Guerra total, sem deixar ninguém vivo.",
+        "Um tributo de ouro e a morte dos chefes.",
+        "Casamento com as filhas de Israel."
+      ]
     },
     {
       "id": "JOS.9.place.1",
@@ -328,7 +488,12 @@
       "kind": "place",
       "prompt": "Onde os gibeonitas encontraram Josué?",
       "answer": "No acampamento de Gilgal.",
-      "reference": "Js 9:6"
+      "reference": "Js 9:6",
+      "wrongs": [
+        "Em Siquém.",
+        "Em Jericó.",
+        "Em Siló."
+      ]
     },
     {
       "id": "JOS.9.curiosity.1",
@@ -338,7 +503,12 @@
       "kind": "curiosity",
       "prompt": "Qual trabalho Josué impôs aos gibeonitas?",
       "answer": "Cortar lenha e carregar água para o altar.",
-      "reference": "Js 9:27"
+      "reference": "Js 9:27",
+      "wrongs": [
+        "Reinar sobre as cidades do sul.",
+        "Servir como espias no exército.",
+        "Guardar a arca dentro da tenda."
+      ]
     },
     {
       "id": "JOS.10.subject.1",
@@ -349,7 +519,12 @@
       "kind": "subject",
       "prompt": "O que Josué pediu ao sol na batalha de Gibeão?",
       "answer": "Que parasse, e o sol quase não se pôs o dia todo.",
-      "reference": "Js 10:12-13"
+      "reference": "Js 10:12-13",
+      "wrongs": [
+        "Que se apressasse, para a noite chegar logo.",
+        "Que escurecesse ao meio-dia.",
+        "Que a lua parasse no lugar do sol."
+      ]
     },
     {
       "id": "JOS.10.name.1",
@@ -359,7 +534,12 @@
       "kind": "name",
       "prompt": "Quem chamou outros reis para atacar Gibeão?",
       "answer": "Adoni-Zedeque, rei de Jerusalém.",
-      "reference": "Js 10:3"
+      "reference": "Js 10:3",
+      "wrongs": [
+        "Jabim, rei de Hazor.",
+        "Seom, rei de Hesbom.",
+        "Ogue, rei de Basã."
+      ]
     },
     {
       "id": "JOS.10.place.1",
@@ -369,7 +549,12 @@
       "kind": "place",
       "prompt": "Onde os cinco reis foram se esconder de Josué?",
       "answer": "Numa cova em Maquedá.",
-      "reference": "Js 10:16"
+      "reference": "Js 10:16",
+      "wrongs": [
+        "Num poço em Jericó.",
+        "No muro de Ai.",
+        "Numa torre em Hebrom."
+      ]
     },
     {
       "id": "JOS.10.curiosity.1",
@@ -379,7 +564,12 @@
       "kind": "curiosity",
       "prompt": "O que matou mais fugitivos do que a espada, perto de Bete-Horom?",
       "answer": "As pedras de granizo que caíram do céu.",
-      "reference": "Js 10:11"
+      "reference": "Js 10:11",
+      "wrongs": [
+        "O fogo que caiu sobre o arraial.",
+        "A praga no meio dos fugitivos.",
+        "As águas que voltaram do Jordão."
+      ]
     },
     {
       "id": "JOS.11.subject.1",
@@ -389,7 +579,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu com a cidade de Hazor?",
       "answer": "Os moradores foram mortos e a cidade foi queimada.",
-      "reference": "Js 11:11"
+      "reference": "Js 11:11",
+      "wrongs": [
+        "A cidade foi poupada e virou aliada.",
+        "Só os muros caíram, e o povo fugiu.",
+        "Hazor pagou tributo e ficou em pé."
+      ]
     },
     {
       "id": "JOS.11.name.1",
@@ -399,7 +594,12 @@
       "kind": "name",
       "prompt": "Quem era o rei de Hazor que mandou chamar os outros?",
       "answer": "Jabim.",
-      "reference": "Js 11:1"
+      "reference": "Js 11:1",
+      "wrongs": [
+        "Adoni-Zedeque.",
+        "Seom.",
+        "Balaque."
+      ]
     },
     {
       "id": "JOS.11.place.1",
@@ -409,7 +609,12 @@
       "kind": "place",
       "prompt": "Onde os reis acamparam para lutar contra Israel?",
       "answer": "Nas águas de Merom.",
-      "reference": "Js 11:5"
+      "reference": "Js 11:5",
+      "wrongs": [
+        "Nas águas do Jordão.",
+        "No vale de Acor.",
+        "Em Gilgal."
+      ]
     },
     {
       "id": "JOS.11.curiosity.1",
@@ -419,7 +624,12 @@
       "kind": "curiosity",
       "prompt": "O que Josué fez aos cavalos e aos carros inimigos?",
       "answer": "Aleijou os cavalos e queimou os carros.",
-      "reference": "Js 11:9"
+      "reference": "Js 11:9",
+      "wrongs": [
+        "Repartiu os cavalos entre as tribos.",
+        "Guardou os carros para outra guerra.",
+        "Soltou os cavalos e enterrou os carros."
+      ]
     },
     {
       "id": "JOS.12.subject.1",
@@ -429,7 +639,12 @@
       "kind": "subject",
       "prompt": "De quem é a lista dos reis vencidos a oeste do Jordão?",
       "answer": "Dos reis que Josué derrotou com Israel.",
-      "reference": "Js 12:7"
+      "reference": "Js 12:7",
+      "wrongs": [
+        "Dos reis que Moisés venceu a leste.",
+        "Dos reis que Calebe venceu sozinho.",
+        "Dos reis que ainda faltavam em Canaã."
+      ]
     },
     {
       "id": "JOS.12.name.1",
@@ -439,7 +654,12 @@
       "kind": "name",
       "prompt": "Quem reinava em Hesbom sobre os amorreus?",
       "answer": "Seom.",
-      "reference": "Js 12:2"
+      "reference": "Js 12:2",
+      "wrongs": [
+        "Ogue.",
+        "Jabim.",
+        "Balaque."
+      ]
     },
     {
       "id": "JOS.12.place.1",
@@ -449,7 +669,12 @@
       "kind": "place",
       "prompt": "De onde até onde ia a terra dos reis do leste, em Josué?",
       "answer": "Do ribeiro de Arnom ao monte Hermom.",
-      "reference": "Js 12:1"
+      "reference": "Js 12:1",
+      "wrongs": [
+        "Do Jordão ao mar Grande.",
+        "Do Sinai até Cades.",
+        "De Jericó até Gaza."
+      ]
     },
     {
       "id": "JOS.12.curiosity.1",
@@ -459,7 +684,12 @@
       "kind": "curiosity",
       "prompt": "Quantos reis derrotados a lista de Josué soma no fim?",
       "answer": "Trinta e um.",
-      "reference": "Js 12:24"
+      "reference": "Js 12:24",
+      "wrongs": [
+        "Doze.",
+        "Sete.",
+        "Vinte."
+      ]
     },
     {
       "id": "JOS.13.subject.1",
@@ -469,7 +699,12 @@
       "kind": "subject",
       "prompt": "O que ainda restava quando Josué já era velho?",
       "answer": "Muita terra para possuir.",
-      "reference": "Js 13:1"
+      "reference": "Js 13:1",
+      "wrongs": [
+        "Nenhuma terra: tudo já estava possuído.",
+        "Só a cidade de Jericó.",
+        "Apenas o túmulo de Moisés."
+      ]
     },
     {
       "id": "JOS.13.name.1",
@@ -479,7 +714,12 @@
       "kind": "name",
       "prompt": "Qual adivinho Israel matou à espada?",
       "answer": "Balaão, filho de Beor.",
-      "reference": "Js 13:22"
+      "reference": "Js 13:22",
+      "wrongs": [
+        "Balaque, rei de Moabe.",
+        "Ogue, rei de Basã.",
+        "Seom, rei dos amorreus."
+      ]
     },
     {
       "id": "JOS.13.place.1",
@@ -489,7 +729,12 @@
       "kind": "place",
       "prompt": "Em que lado do Jordão Moisés tinha dado herança?",
       "answer": "No lado leste.",
-      "reference": "Js 13:8"
+      "reference": "Js 13:8",
+      "wrongs": [
+        "No lado oeste.",
+        "No deserto do Sinai.",
+        "Na costa do mar Grande."
+      ]
     },
     {
       "id": "JOS.13.curiosity.1",
@@ -499,7 +744,12 @@
       "kind": "curiosity",
       "prompt": "Qual era a herança da tribo de Levi?",
       "answer": "O próprio Deus de Israel, e não um território.",
-      "reference": "Js 13:33"
+      "reference": "Js 13:33",
+      "wrongs": [
+        "Hebrom, no meio de Judá.",
+        "O lado leste do Jordão.",
+        "A cidade de Siló."
+      ]
     },
     {
       "id": "JOS.14.subject.1",
@@ -509,7 +759,12 @@
       "kind": "subject",
       "prompt": "Por que Calebe ficou com Hebrom?",
       "answer": "Porque seguiu a Deus de Israel com fidelidade.",
-      "reference": "Js 14:14"
+      "reference": "Js 14:14",
+      "wrongs": [
+        "Porque era o mais velho do acampamento.",
+        "Porque derrotou Jericó sozinho.",
+        "Porque Moisés lhe deixou a cidade por escrito."
+      ]
     },
     {
       "id": "JOS.14.name.1",
@@ -519,7 +774,12 @@
       "kind": "name",
       "prompt": "Quem lembrou Josué da promessa feita em Cades-Barneia?",
       "answer": "Calebe, filho de Jefoné.",
-      "reference": "Js 14:6"
+      "reference": "Js 14:6",
+      "wrongs": [
+        "Josué, filho de Num.",
+        "Eleazar, o sacerdote.",
+        "Fineias, filho de Eleazar."
+      ]
     },
     {
       "id": "JOS.14.place.1",
@@ -529,7 +789,12 @@
       "kind": "place",
       "prompt": "Como Hebrom se chamava antes?",
       "answer": "Quiriate-Arba.",
-      "reference": "Js 14:15"
+      "reference": "Js 14:15",
+      "wrongs": [
+        "Jebus.",
+        "Luz.",
+        "Laís."
+      ]
     },
     {
       "id": "JOS.14.curiosity.1",
@@ -539,7 +804,12 @@
       "kind": "curiosity",
       "prompt": "Que idade Calebe disse ter ao pedir Hebrom?",
       "answer": "Oitenta e cinco anos.",
-      "reference": "Js 14:10"
+      "reference": "Js 14:10",
+      "wrongs": [
+        "Quarenta anos.",
+        "Cento e dez anos.",
+        "Oitenta anos."
+      ]
     },
     {
       "id": "JOS.15.subject.1",
@@ -549,7 +819,12 @@
       "kind": "subject",
       "prompt": "A qual tribo coube a terra do sul, na divisa de Edom?",
       "answer": "À tribo de Judá.",
-      "reference": "Js 15:1"
+      "reference": "Js 15:1",
+      "wrongs": [
+        "À tribo de Rúben.",
+        "À tribo de Dã.",
+        "À tribo de Naftali."
+      ]
     },
     {
       "id": "JOS.15.name.1",
@@ -559,7 +834,12 @@
       "kind": "name",
       "prompt": "Quem casou com Acsa, filha de Calebe?",
       "answer": "Otniel, filho de Quenaz.",
-      "reference": "Js 15:17"
+      "reference": "Js 15:17",
+      "wrongs": [
+        "Fineias, filho de Eleazar.",
+        "Acã, filho de Carmi.",
+        "Jabim, rei de Hazor."
+      ]
     },
     {
       "id": "JOS.15.place.1",
@@ -569,7 +849,12 @@
       "kind": "place",
       "prompt": "Qual era o limite oeste da terra de Judá?",
       "answer": "O mar Grande.",
-      "reference": "Js 15:12"
+      "reference": "Js 15:12",
+      "wrongs": [
+        "O rio Jordão.",
+        "O ribeiro de Arnom.",
+        "O monte Hermom."
+      ]
     },
     {
       "id": "JOS.15.curiosity.1",
@@ -579,7 +864,12 @@
       "kind": "curiosity",
       "prompt": "O que Acsa pediu ao pai além da terra seca?",
       "answer": "Fontes de água, em cima e embaixo.",
-      "reference": "Js 15:19"
+      "reference": "Js 15:19",
+      "wrongs": [
+        "Uma cidade no litoral.",
+        "O manto e o ouro de Jericó.",
+        "Cem bois e um campo de trigo."
+      ]
     },
     {
       "id": "JOS.16.subject.1",
@@ -589,7 +879,12 @@
       "kind": "subject",
       "prompt": "De quem é a herança de Efraim e de Manassés?",
       "answer": "Dos filhos de José.",
-      "reference": "Js 16:4"
+      "reference": "Js 16:4",
+      "wrongs": [
+        "Dos filhos de Judá.",
+        "Dos filhos de Levi.",
+        "Dos filhos de Benjamim."
+      ]
     },
     {
       "id": "JOS.16.place.1",
@@ -599,7 +894,12 @@
       "kind": "place",
       "prompt": "Que cidade cananeia permaneceu no meio de Efraim?",
       "answer": "Gezer.",
-      "reference": "Js 16:10"
+      "reference": "Js 16:10",
+      "wrongs": [
+        "Jericó.",
+        "Hazor.",
+        "Hebrom."
+      ]
     },
     {
       "id": "JOS.16.curiosity.1",
@@ -609,7 +909,12 @@
       "kind": "curiosity",
       "prompt": "O que os cananeus de Gezer passaram a ser?",
       "answer": "Tributários.",
-      "reference": "Js 16:10"
+      "reference": "Js 16:10",
+      "wrongs": [
+        "Sacerdotes.",
+        "Aliados.",
+        "Reis."
+      ]
     },
     {
       "id": "JOS.17.subject.1",
@@ -619,7 +924,12 @@
       "kind": "subject",
       "prompt": "O que as filhas de Zelofeade conseguiram?",
       "answer": "Uma parte na herança da família do pai.",
-      "reference": "Js 17:4"
+      "reference": "Js 17:4",
+      "wrongs": [
+        "Só uma bênção, sem nenhum terreno.",
+        "O cargo de juízas em Siló.",
+        "A cidade de refúgio de Siquém."
+      ]
     },
     {
       "id": "JOS.17.name.1",
@@ -629,7 +939,12 @@
       "kind": "name",
       "prompt": "Quem teve filhas e nenhum filho homem, em Josué?",
       "answer": "Zelofeade.",
-      "reference": "Js 17:3"
+      "reference": "Js 17:3",
+      "wrongs": [
+        "Maquir.",
+        "Calebe.",
+        "Eleazar."
+      ]
     },
     {
       "id": "JOS.17.place.1",
@@ -639,7 +954,12 @@
       "kind": "place",
       "prompt": "Onde Maquir, filho de Manassés, recebeu terra?",
       "answer": "Em Gileade e em Basã.",
-      "reference": "Js 17:1"
+      "reference": "Js 17:1",
+      "wrongs": [
+        "Em Judá e em Simeão.",
+        "No Neguebe, junto de Edom.",
+        "Na costa do mar Grande."
+      ]
     },
     {
       "id": "JOS.17.curiosity.1",
@@ -649,7 +969,12 @@
       "kind": "curiosity",
       "prompt": "O que a casa de José disse que havia no vale?",
       "answer": "Carros de ferro dos cananeus.",
-      "reference": "Js 17:16"
+      "reference": "Js 17:16",
+      "wrongs": [
+        "Gigantes armados de lanças longas.",
+        "Cidades com muros que chegavam ao céu.",
+        "Barcos de ferro no meio do Jordão."
+      ]
     },
     {
       "id": "JOS.18.subject.1",
@@ -659,7 +984,12 @@
       "kind": "subject",
       "prompt": "Como a terra que ainda faltava foi repartida em Siló?",
       "answer": "Josué lançou sortes diante de Deus.",
-      "reference": "Js 18:10"
+      "reference": "Js 18:10",
+      "wrongs": [
+        "Os chefes dividiram a terra à espada.",
+        "Cada tribo escolheu o pedaço que quis.",
+        "Moisés já tinha sorteado tudo no Sinai."
+      ]
     },
     {
       "id": "JOS.18.place.1",
@@ -669,7 +999,12 @@
       "kind": "place",
       "prompt": "Onde a congregação armou o tabernáculo em Canaã?",
       "answer": "Em Siló.",
-      "reference": "Js 18:1"
+      "reference": "Js 18:1",
+      "wrongs": [
+        "Em Gilgal.",
+        "Em Siquém.",
+        "Em Hebrom."
+      ]
     },
     {
       "id": "JOS.18.curiosity.1",
@@ -679,7 +1014,12 @@
       "kind": "curiosity",
       "prompt": "Quantas tribos ainda não tinham recebido terra, em Josué?",
       "answer": "Sete.",
-      "reference": "Js 18:2"
+      "reference": "Js 18:2",
+      "wrongs": [
+        "Duas.",
+        "Nove.",
+        "Doze."
+      ]
     },
     {
       "id": "JOS.18.curiosity.2",
@@ -689,7 +1029,12 @@
       "kind": "curiosity",
       "prompt": "Qual tribo recebeu a faixa de terra entre Judá e José?",
       "answer": "Benjamim.",
-      "reference": "Js 18:11"
+      "reference": "Js 18:11",
+      "wrongs": [
+        "Simeão.",
+        "Dã.",
+        "Issacar."
+      ]
     },
     {
       "id": "JOS.19.subject.1",
@@ -699,7 +1044,12 @@
       "kind": "subject",
       "prompt": "O que Eleazar e Josué concluíram em Siló?",
       "answer": "A divisão da terra entre as tribos.",
-      "reference": "Js 19:51"
+      "reference": "Js 19:51",
+      "wrongs": [
+        "A guerra contra os reis do norte.",
+        "A leitura de toda a lei em voz alta.",
+        "A construção do altar no monte Ebal."
+      ]
     },
     {
       "id": "JOS.19.name.1",
@@ -709,7 +1059,12 @@
       "kind": "name",
       "prompt": "Quem recebeu herança depois que as tribos já tinham a delas, em Josué?",
       "answer": "Josué, filho de Num.",
-      "reference": "Js 19:49"
+      "reference": "Js 19:49",
+      "wrongs": [
+        "Calebe, filho de Jefoné.",
+        "Eleazar, o sacerdote.",
+        "Fineias, filho de Eleazar."
+      ]
     },
     {
       "id": "JOS.19.place.1",
@@ -719,7 +1074,12 @@
       "kind": "place",
       "prompt": "Que nome a tribo de Dã deu à cidade de Lesém?",
       "answer": "Dã, o nome do pai da tribo.",
-      "reference": "Js 19:47"
+      "reference": "Js 19:47",
+      "wrongs": [
+        "Lesém, como a cidade já se chamava.",
+        "Judá, em honra do irmão mais velho.",
+        "José, o filho de Jacó."
+      ]
     },
     {
       "id": "JOS.19.curiosity.1",
@@ -729,7 +1089,12 @@
       "kind": "curiosity",
       "prompt": "Por que a parte de Simeão saiu de dentro de Judá?",
       "answer": "Porque a porção de Judá era grande demais.",
-      "reference": "Js 19:9"
+      "reference": "Js 19:9",
+      "wrongs": [
+        "Porque Simeão tinha vencido Judá na guerra.",
+        "Porque a sorte de Simeão caiu no deserto.",
+        "Porque Judá recusou ficar no sul."
+      ]
     },
     {
       "id": "JOS.20.subject.1",
@@ -739,7 +1104,12 @@
       "kind": "subject",
       "prompt": "Para quem eram as cidades de refúgio, em Josué?",
       "answer": "Para quem matasse alguém sem querer.",
-      "reference": "Js 20:3"
+      "reference": "Js 20:3",
+      "wrongs": [
+        "Para os levitas que não tinham campo.",
+        "Para quem matasse alguém de propósito.",
+        "Para espias vindos de outras nações."
+      ]
     },
     {
       "id": "JOS.20.place.1",
@@ -749,7 +1119,12 @@
       "kind": "place",
       "prompt": "Que cidades de refúgio ficavam em Naftali, Efraim e Judá?",
       "answer": "Quedes, Siquém e Hebrom.",
-      "reference": "Js 20:7"
+      "reference": "Js 20:7",
+      "wrongs": [
+        "Bezer, Ramote e Golã.",
+        "Jericó, Ai e Hazor.",
+        "Gilgal, Siló e Sitim."
+      ]
     },
     {
       "id": "JOS.20.curiosity.1",
@@ -759,7 +1134,12 @@
       "kind": "curiosity",
       "prompt": "Quando o homicida podia voltar para casa, em Josué?",
       "answer": "Depois que morresse o sumo sacerdote.",
-      "reference": "Js 20:6"
+      "reference": "Js 20:6",
+      "wrongs": [
+        "Depois de pagar trinta siclos.",
+        "No ano sétimo da fuga.",
+        "Quando Josué morresse."
+      ]
     },
     {
       "id": "JOS.21.subject.1",
@@ -769,7 +1149,12 @@
       "kind": "subject",
       "prompt": "O que as tribos entregaram aos levitas, em Josué?",
       "answer": "Cidades para morar, com campos em volta.",
-      "reference": "Js 21:3"
+      "reference": "Js 21:3",
+      "wrongs": [
+        "O ouro do despojo de Jericó.",
+        "A terra a leste do Jordão.",
+        "O direito de julgar as tribos."
+      ]
     },
     {
       "id": "JOS.21.place.1",
@@ -779,7 +1164,12 @@
       "kind": "place",
       "prompt": "Onde os levitas pediram vilas para habitar, em Josué?",
       "answer": "Em Siló.",
-      "reference": "Js 21:2"
+      "reference": "Js 21:2",
+      "wrongs": [
+        "Em Gilgal.",
+        "Em Hebrom.",
+        "Em Siquém."
+      ]
     },
     {
       "id": "JOS.21.curiosity.1",
@@ -789,7 +1179,12 @@
       "kind": "curiosity",
       "prompt": "Quantas cidades os levitas receberam no total, em Josué?",
       "answer": "Quarenta e oito.",
-      "reference": "Js 21:41"
+      "reference": "Js 21:41",
+      "wrongs": [
+        "Seis.",
+        "Doze.",
+        "Vinte e quatro."
+      ]
     },
     {
       "id": "JOS.21.curiosity.2",
@@ -799,7 +1194,12 @@
       "kind": "curiosity",
       "prompt": "O que falhou das boas promessas de Deus a Israel?",
       "answer": "Nada: todas se cumpriram.",
-      "reference": "Js 21:45"
+      "reference": "Js 21:45",
+      "wrongs": [
+        "A herança prometida a Levi.",
+        "A parte de Calebe em Hebrom.",
+        "A travessia do povo pelo Jordão."
+      ]
     },
     {
       "id": "JOS.22.subject.1",
@@ -809,7 +1209,12 @@
       "kind": "subject",
       "prompt": "O que Rúben, Gade e meia tribo de Manassés edificaram junto ao Jordão?",
       "answer": "Um altar bem visível.",
-      "reference": "Js 22:10"
+      "reference": "Js 22:10",
+      "wrongs": [
+        "Uma cidade nova, chamada Ede.",
+        "Uma ponte para o povo cruzar a pé.",
+        "Um muro contra as tribos do oeste."
+      ]
     },
     {
       "id": "JOS.22.name.1",
@@ -819,7 +1224,12 @@
       "kind": "name",
       "prompt": "Quem liderou a delegação enviada a Gileade?",
       "answer": "Fineias, filho do sacerdote Eleazar.",
-      "reference": "Js 22:13"
+      "reference": "Js 22:13",
+      "wrongs": [
+        "Josué, filho de Num.",
+        "Calebe, filho de Jefoné.",
+        "Eleazar, o sacerdote."
+      ]
     },
     {
       "id": "JOS.22.place.1",
@@ -829,7 +1239,12 @@
       "kind": "place",
       "prompt": "De onde Rúben e Gade partiram ao voltar para casa?",
       "answer": "De Siló, em Canaã.",
-      "reference": "Js 22:9"
+      "reference": "Js 22:9",
+      "wrongs": [
+        "De Gilgal, a leste de Jericó.",
+        "De Siquém, junto ao monte Ebal.",
+        "De Hebrom, na terra de Judá."
+      ]
     },
     {
       "id": "JOS.22.curiosity.1",
@@ -839,7 +1254,12 @@
       "kind": "curiosity",
       "prompt": "Por que o altar do Jordão se chamou Ede?",
       "answer": "Porque era um testemunho entre as tribos.",
-      "reference": "Js 22:34"
+      "reference": "Js 22:34",
+      "wrongs": [
+        "Porque ficava de frente para Edom.",
+        "Porque copiava o altar de Siló.",
+        "Porque os filhos de Rúben moravam ali."
+      ]
     },
     {
       "id": "JOS.23.subject.1",
@@ -849,7 +1269,12 @@
       "kind": "subject",
       "prompt": "O que Josué mandou Israel cumprir com todo o cuidado?",
       "answer": "A lei de Moisés, sem desviar para nenhum lado.",
-      "reference": "Js 23:6"
+      "reference": "Js 23:6",
+      "wrongs": [
+        "A aliança com os povos que restavam em Canaã.",
+        "O culto nos altos de cada cidade.",
+        "Só as palavras que Raabe tinha dito."
+      ]
     },
     {
       "id": "JOS.23.place.1",
@@ -859,7 +1284,12 @@
       "kind": "place",
       "prompt": "De onde até onde ia a herança que Josué repartiu?",
       "answer": "Do Jordão até o mar Grande.",
-      "reference": "Js 23:4"
+      "reference": "Js 23:4",
+      "wrongs": [
+        "Do Nilo até o Eufrates.",
+        "Do Sinai até o monte Hor.",
+        "De Arnom só até o Pisga."
+      ]
     },
     {
       "id": "JOS.23.curiosity.1",
@@ -869,7 +1299,12 @@
       "kind": "curiosity",
       "prompt": "Quantos inimigos um só homem de Israel perseguiria?",
       "answer": "Mil.",
-      "reference": "Js 23:10"
+      "reference": "Js 23:10",
+      "wrongs": [
+        "Cem.",
+        "Dez.",
+        "Doze."
+      ]
     },
     {
       "id": "JOS.24.subject.1",
@@ -879,7 +1314,12 @@
       "kind": "subject",
       "prompt": "Que escolha Josué anunciou para a própria casa?",
       "answer": "Ele e a casa dele serviriam a Deus.",
-      "reference": "Js 24:15"
+      "reference": "Js 24:15",
+      "wrongs": [
+        "Serviriam aos deuses do outro lado do rio.",
+        "Esperariam o povo decidir primeiro.",
+        "Deixariam o serviço só com a tribo de Levi."
+      ]
     },
     {
       "id": "JOS.24.name.1",
@@ -889,7 +1329,12 @@
       "kind": "name",
       "prompt": "De quem eram os ossos enterrados em Siquém?",
       "answer": "De José.",
-      "reference": "Js 24:32"
+      "reference": "Js 24:32",
+      "wrongs": [
+        "De Jacó.",
+        "De Josué.",
+        "De Eleazar."
+      ]
     },
     {
       "id": "JOS.24.place.1",
@@ -899,7 +1344,12 @@
       "kind": "place",
       "prompt": "Onde Josué reuniu todas as tribos de Israel?",
       "answer": "Em Siquém.",
-      "reference": "Js 24:1"
+      "reference": "Js 24:1",
+      "wrongs": [
+        "Em Siló.",
+        "Em Gilgal.",
+        "Em Jericó."
+      ]
     },
     {
       "id": "JOS.24.curiosity.1",
@@ -909,7 +1359,12 @@
       "kind": "curiosity",
       "prompt": "Quantos anos Josué tinha quando morreu?",
       "answer": "Cento e dez anos.",
-      "reference": "Js 24:29"
+      "reference": "Js 24:29",
+      "wrongs": [
+        "Cento e vinte anos.",
+        "Oitenta e cinco anos.",
+        "Cem anos."
+      ]
     },
     {
       "id": "JOS.0.curiosity.1",
@@ -919,7 +1374,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Josué?",
       "answer": "Josué.",
-      "reference": "Josué"
+      "reference": "Josué",
+      "wrongs": [
+        "Moisés.",
+        "Fineias.",
+        "Samuel."
+      ]
     },
     {
       "id": "JOS.0.curiosity.2",
@@ -929,7 +1389,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Josué?",
       "answer": "Depois da conquista, ainda no século XV antes de Cristo.",
-      "reference": "Josué"
+      "reference": "Josué",
+      "wrongs": [
+        "No século X antes de Cristo, no tempo dos reis.",
+        "No século V antes de Cristo, depois do exílio.",
+        "No século I, quando o templo foi refeito."
+      ]
     }
   ]
 }

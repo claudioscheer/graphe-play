@@ -27,6 +27,7 @@ fun Card.toEntity(): CardEntity = CardEntity(
     prompt = prompt,
     answer = answer,
     reference = reference,
+    wrongs = wrongs.joinToString("\u001f"),
 )
 
 fun CardEntity.toDomain(): Card = Card(
@@ -44,6 +45,7 @@ fun CardEntity.toDomain(): Card = Card(
     prompt = prompt,
     answer = answer,
     reference = reference,
+    wrongs = if (wrongs.isEmpty()) emptyList() else wrongs.split("\u001f"),
 )
 
 fun CardProgress.toEntity(): ProgressEntity = ProgressEntity(

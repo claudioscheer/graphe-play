@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Como Paulo pede que Filemom receba Onésimo?",
       "answer": "Não mais como escravo, e sim como irmão querido.",
-      "reference": "Fm 1:16"
+      "reference": "Fm 1:16",
+      "wrongs": [
+        "Ainda como escravo, e sem lugar à mesa.",
+        "Como devedor, até pagar cada moeda.",
+        "Como estranho, hospedado só uma noite."
+      ]
     },
     {
       "id": "PHM.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem Paulo chama de filho, nascido na prisão?",
       "answer": "Onésimo.",
-      "reference": "Fm 1:10"
+      "reference": "Fm 1:10",
+      "wrongs": [
+        "Arquipo.",
+        "Tíquico.",
+        "Epafras."
+      ]
     },
     {
       "id": "PHM.1.name.2",
@@ -28,7 +38,12 @@
       "kind": "name",
       "prompt": "Quem Paulo saúda junto com Filemom?",
       "answer": "Ápia e Arquipo.",
-      "reference": "Fm 1:2"
+      "reference": "Fm 1:2",
+      "wrongs": [
+        "Priscila e Áquila.",
+        "Evódia e Síntique.",
+        "Marta e Maria."
+      ]
     },
     {
       "id": "PHM.1.place.1",
@@ -38,7 +53,12 @@
       "kind": "place",
       "prompt": "Onde se reunia a igreja ligada a Filemom?",
       "answer": "Na casa dele.",
-      "reference": "Fm 1:2"
+      "reference": "Fm 1:2",
+      "wrongs": [
+        "Na sinagoga da cidade.",
+        "No templo de Jerusalém.",
+        "Ao ar livre, junto ao rio."
+      ]
     },
     {
       "id": "PHM.1.curiosity.1",
@@ -49,7 +69,12 @@
       "kind": "curiosity",
       "prompt": "O que Paulo manda fazer se Onésimo deve algo?",
       "answer": "Lançar na conta dele, pois ele mesmo escreveu que pagará.",
-      "reference": "Fm 1:18-19"
+      "reference": "Fm 1:18-19",
+      "wrongs": [
+        "Cobrar na hora, diante das testemunhas.",
+        "Perdoar só a metade e anotar o resto.",
+        "Entregar Onésimo ao juiz da cidade."
+      ]
     },
     {
       "id": "PHM.0.curiosity.1",
@@ -59,7 +84,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Filemom?",
       "answer": "Paulo.",
-      "reference": "Filemom"
+      "reference": "Filemom",
+      "wrongs": [
+        "Filemom.",
+        "Onésimo.",
+        "Timóteo."
+      ]
     },
     {
       "id": "PHM.0.curiosity.2",
@@ -69,7 +99,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Filemom?",
       "answer": "Na prisão, por volta do ano 60.",
-      "reference": "Filemom"
+      "reference": "Filemom",
+      "wrongs": [
+        "Em liberdade, por volta do ano 51.",
+        "Na viagem, por volta do ano 55.",
+        "Depois de Nero, por volta do ano 70."
+      ]
     },
     {
       "id": "PHM.0.curiosity.3",
@@ -79,7 +114,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu Filemom?",
       "answer": "Para Filemom, cooperador de Paulo.",
-      "reference": "Fm 1:1"
+      "reference": "Fm 1:1",
+      "wrongs": [
+        "Para Onésimo, escravo fugido.",
+        "Para a igreja que estava em Éfeso.",
+        "Para Arquipo, soldado companheiro."
+      ]
     }
   ]
 }

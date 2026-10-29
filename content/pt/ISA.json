@@ -8,6 +8,11 @@
       "kind": "subject",
       "prompt": "O que Deus faria com pecados escarlates em Judá?",
       "answer": "Os deixaria brancos como a neve.",
+      "wrongs": [
+        "Os deixaria escuros como a fuligem.",
+        "Os cobriria com pano de saco.",
+        "Os lançaria no meio do fogo."
+      ],
       "reference": "Is 1:18"
     },
     {
@@ -18,6 +23,11 @@
       "kind": "name",
       "prompt": "Quem viu a mensagem sobre Judá e Jerusalém?",
       "answer": "Isaías, filho de Amoz.",
+      "wrongs": [
+        "Jeremias, filho de Hilquias.",
+        "Ezequiel, filho de Buzi.",
+        "Amós, pastor de Tecoa."
+      ],
       "reference": "Is 1:1"
     },
     {
@@ -28,6 +38,11 @@
       "kind": "curiosity",
       "prompt": "Quais animais conhecem o dono, ao contrário de Israel?",
       "answer": "O boi e o jumento.",
+      "wrongs": [
+        "O cavalo e o camelo.",
+        "A ovelha e a cabra.",
+        "O leão e o urso."
+      ],
       "reference": "Is 1:3"
     },
     {
@@ -38,6 +53,11 @@
       "kind": "curiosity",
       "prompt": "A que Israel se pareceria sem sobreviventes?",
       "answer": "A Sodoma e a Gomorra.",
+      "wrongs": [
+        "A Nínive e a Babilônia.",
+        "A Samaria e a Damasco.",
+        "A Tiro e a Sidom."
+      ],
       "reference": "Is 1:9"
     },
     {
@@ -48,6 +68,11 @@
       "kind": "subject",
       "prompt": "O que as nações fariam com espadas e lanças, em Isaías?",
       "answer": "Virariam ferramentas de lavoura e parariam de guerrear.",
+      "wrongs": [
+        "As guardariam no templo para outra guerra.",
+        "As derreteriam para fundir ídolos de ouro.",
+        "As entregariam ao Egito em troca de cavalos."
+      ],
       "reference": "Is 2:4"
     },
     {
@@ -58,6 +83,11 @@
       "kind": "place",
       "prompt": "Para onde as nações correriam nos últimos dias, em Isaías?",
       "answer": "Ao monte da casa de Deus, acima dos outros montes.",
+      "wrongs": [
+        "Ao deserto do Sinai, longe dos outros montes.",
+        "Ao vale de Josafá, abaixo das colinas.",
+        "Às margens do Eufrates, na Babilônia."
+      ],
       "reference": "Is 2:2"
     },
     {
@@ -68,6 +98,11 @@
       "kind": "curiosity",
       "prompt": "O que seria feito dos ídolos quando o povo se escondesse nas cavernas, em Isaías?",
       "answer": "Seriam jogados para as toupeiras e os morcegos.",
+      "wrongs": [
+        "Seriam guardados nas casas dos sacerdotes.",
+        "Seriam derretidos para fazer moedas.",
+        "Seriam queimados na praça da cidade."
+      ],
       "reference": "Is 2:20"
     },
     {
@@ -78,6 +113,11 @@
       "kind": "subject",
       "prompt": "O que Deus tiraria de Jerusalém e de Judá?",
       "answer": "O apoio, o sustento, a comida e a água.",
+      "wrongs": [
+        "O ouro, a prata, o incenso e o azeite.",
+        "Os muros, as portas, as torres e o palácio.",
+        "O sol, a lua, as estrelas e a chuva."
+      ],
       "reference": "Is 3:1"
     },
     {
@@ -88,6 +128,11 @@
       "kind": "curiosity",
       "prompt": "Quem passaria a governar Jerusalém e Judá?",
       "answer": "Garotos no lugar de príncipes, e rapazes no comando.",
+      "wrongs": [
+        "Anciãos vindos da Assíria, e estrangeiros no trono.",
+        "Sacerdotes vindos de Siló, e levitas no comando.",
+        "Generais vindos do Egito, e capitães no comando."
+      ],
       "reference": "Is 3:4"
     },
     {
@@ -98,6 +143,11 @@
       "kind": "curiosity",
       "prompt": "O que Deus poria na cabeça das filhas de Sião?",
       "answer": "Feridas no alto da cabeça.",
+      "wrongs": [
+        "Uma coroa de ouro fino.",
+        "Um véu de linho branco.",
+        "Flores do jardim do rei."
+      ],
       "reference": "Is 3:17"
     },
     {
@@ -108,6 +158,11 @@
       "kind": "subject",
       "prompt": "Quem seria belo e glorioso para os salvos de Israel?",
       "answer": "O Renovo de Deus.",
+      "wrongs": [
+        "O rei da Assíria.",
+        "O profeta Isaías.",
+        "O sumo sacerdote."
+      ],
       "reference": "Is 4:2"
     },
     {
@@ -118,6 +173,11 @@
       "kind": "place",
       "prompt": "Onde os restantes seriam chamados santos, em Isaías?",
       "answer": "Em Sião e em Jerusalém.",
+      "wrongs": [
+        "Em Samaria e em Dã.",
+        "Em Betel e em Gilgal.",
+        "Em Laquis e em Azeca."
+      ],
       "reference": "Is 4:3"
     },
     {
@@ -128,6 +188,11 @@
       "kind": "curiosity",
       "prompt": "Quantas mulheres tomariam um só homem no juízo de Isaías?",
       "answer": "Sete, pedindo só que o nome dele as cobrisse.",
+      "wrongs": [
+        "Três, pedindo só um pedaço da terra.",
+        "Doze, pedindo só o pão da casa.",
+        "Cinco, pedindo só a capa dele."
+      ],
       "reference": "Is 4:1"
     },
     {
@@ -138,6 +203,11 @@
       "kind": "curiosity",
       "prompt": "O que cobriria o monte de Sião de dia e de noite?",
       "answer": "Nuvem durante o dia e clarão de fogo à noite.",
+      "wrongs": [
+        "Fumaça durante o dia e trevas densas à noite.",
+        "Orvalho durante o dia e geada forte à noite.",
+        "Poeira durante o dia e silêncio fundo à noite."
+      ],
       "reference": "Is 4:5"
     },
     {
@@ -148,6 +218,11 @@
       "kind": "subject",
       "prompt": "O que Deus achou na vinha, que é a casa de Israel?",
       "answer": "Opressão, quando esperava justiça.",
+      "wrongs": [
+        "Doçura, quando esperava amargor.",
+        "Cânticos, quando esperava silêncio.",
+        "Paz na cidade, quando esperava guerra."
+      ],
       "reference": "Is 5:7"
     },
     {
@@ -158,6 +233,11 @@
       "kind": "curiosity",
       "prompt": "Quanto dariam dez jeiras de vinha, em Isaías?",
       "answer": "Apenas um bato.",
+      "wrongs": [
+        "Apenas um jarro.",
+        "Cerca de dez batos.",
+        "A vinha inteira."
+      ],
       "reference": "Is 5:10"
     },
     {
@@ -168,6 +248,11 @@
       "kind": "curiosity",
       "prompt": "O que alguns faziam com o mal e com o bem, em Isaías?",
       "answer": "Tratavam o mal como se fosse bom, e o bom como mal.",
+      "wrongs": [
+        "Tratavam o pobre como rei, e o rei como pobre.",
+        "Tratavam a guerra como festa, e a festa como luto.",
+        "Tratavam o falso como lei, e a lei como palha."
+      ],
       "reference": "Is 5:20"
     },
     {
@@ -178,6 +263,11 @@
       "kind": "subject",
       "prompt": "Até quando Isaías deveria falar ao povo, depois de ver o Senhor?",
       "answer": "Até as cidades ficarem sem gente e a terra arruinada.",
+      "wrongs": [
+        "Até o rei Uzias voltar ao trono e a lepra sarar.",
+        "Até o templo ficar cheio de incenso outra vez.",
+        "Até a Assíria pedir paz e retirar o exército."
+      ],
       "reference": "Is 6:11"
     },
     {
@@ -188,6 +278,11 @@
       "kind": "name",
       "prompt": "Qual rei tinha morrido quando Isaías viu Deus?",
       "answer": "Uzias.",
+      "wrongs": [
+        "Acaz.",
+        "Jotão.",
+        "Ezequias."
+      ],
       "reference": "Is 6:1"
     },
     {
@@ -198,6 +293,11 @@
       "kind": "place",
       "prompt": "Onde Isaías viu Deus num trono alto?",
       "answer": "No templo, com o manto enchendo o lugar.",
+      "wrongs": [
+        "No palácio, com a corte em silêncio.",
+        "No deserto, com fumaça cobrindo o chão.",
+        "No monte, com nuvem cobrindo o cume."
+      ],
       "reference": "Is 6:1"
     },
     {
@@ -208,6 +308,11 @@
       "kind": "curiosity",
       "prompt": "Quantas asas tinha cada serafim, em Isaías?",
       "answer": "Seis: duas no rosto, duas nos pés e duas para voar.",
+      "wrongs": [
+        "Quatro: duas no rosto e duas para voar.",
+        "Oito: quatro no corpo e quatro para voar.",
+        "Duas: uma no rosto e outra para voar."
+      ],
       "reference": "Is 6:2"
     },
     {
@@ -218,6 +323,11 @@
       "kind": "subject",
       "prompt": "Qual sinal Deus daria à casa de Davi?",
       "answer": "Uma virgem teria um filho, de nome Emanuel.",
+      "wrongs": [
+        "Uma rainha teria gêmeos, de nome Perez.",
+        "Uma profetisa teria um filho, de nome Maer.",
+        "Um sacerdote teria um filho, de nome Urias."
+      ],
       "reference": "Is 7:14"
     },
     {
@@ -228,6 +338,11 @@
       "kind": "name",
       "prompt": "Quem guerreou contra Jerusalém nos dias de Acaz?",
       "answer": "O sírio Rezim e Peca, rei de Israel.",
+      "wrongs": [
+        "O assírio Tiglate e o rei Acaz.",
+        "O egípcio Sô e Oséias, rei de Israel.",
+        "O moabita Mesa e Jeú, rei de Israel."
+      ],
       "reference": "Is 7:1"
     },
     {
@@ -238,6 +353,11 @@
       "kind": "place",
       "prompt": "Onde Isaías foi encontrar o rei Acaz?",
       "answer": "No aqueduto do tanque de cima.",
+      "wrongs": [
+        "No terraço do palácio real.",
+        "Junto à porta das águas.",
+        "Na eira do portão do vale."
+      ],
       "reference": "Is 7:3"
     },
     {
@@ -248,6 +368,11 @@
       "kind": "curiosity",
       "prompt": "Quando Efraim deixaria de ser povo?",
       "answer": "Depois de sessenta e cinco anos.",
+      "wrongs": [
+        "Depois de quarenta anos completos.",
+        "Dentro de apenas três anos.",
+        "No fim de sete dias de cerco."
+      ],
       "reference": "Is 7:8"
     },
     {
@@ -258,6 +383,11 @@
       "kind": "subject",
       "prompt": "O que cairia antes de o filho da profetisa dizer pai ou mãe, em Isaías?",
       "answer": "Damasco e Samaria, diante do rei da Assíria.",
+      "wrongs": [
+        "Jerusalém e Hebrom, diante do rei do Egito.",
+        "Tiro e Sidom, diante do rei da Babilônia.",
+        "Moabe e Edom, diante do rei de Judá."
+      ],
       "reference": "Is 8:4"
     },
     {
@@ -268,6 +398,11 @@
       "kind": "name",
       "prompt": "Qual nome recebeu o filho da profetisa, em Isaías?",
       "answer": "Maer-Salal-Has-Baz.",
+      "wrongs": [
+        "Sear-Jasube, o filho.",
+        "Emanuel, Deus conosco.",
+        "Restante-Volverá."
+      ],
       "reference": "Is 8:3"
     },
     {
@@ -278,6 +413,11 @@
       "kind": "place",
       "prompt": "Qual água o povo rejeitou, alegre com Resim?",
       "answer": "A de Siloé, que corre mansa.",
+      "wrongs": [
+        "A do Nilo, que corre forte.",
+        "A do Jordão, que desce rápido.",
+        "A do Eufrates, que transborda."
+      ],
       "reference": "Is 8:6"
     },
     {
@@ -288,6 +428,11 @@
       "kind": "curiosity",
       "prompt": "Por que o plano das nações contra Judá não se firmaria?",
       "answer": "Porque Deus está com o povo.",
+      "wrongs": [
+        "Porque o exército era maior.",
+        "Porque Acaz pagou o tributo.",
+        "Porque o Egito mandou carros."
+      ],
       "reference": "Is 8:10"
     },
     {
@@ -298,6 +443,11 @@
       "kind": "subject",
       "prompt": "Até quando duraria a paz no trono de Davi?",
       "answer": "Não teria fim, e seria firmada com justiça.",
+      "wrongs": [
+        "Duraria um ano, e seria firmada com espada.",
+        "Duraria setenta anos, e depois cessaria.",
+        "Acabaria com o rei, e ficaria sem juiz."
+      ],
       "reference": "Is 9:7"
     },
     {
@@ -308,6 +458,11 @@
       "kind": "name",
       "prompt": "Quais títulos Isaías deu ao menino que nasceu?",
       "answer": "Deus Forte, Pai da Eternidade e Príncipe da Paz.",
+      "wrongs": [
+        "Leão de Judá, Raiz de Davi e Estrela da Manhã.",
+        "Rei de Salém, Sacerdote eterno e Juiz do povo.",
+        "Servo sofredor, Renovo justo e Luz das nações."
+      ],
       "reference": "Is 9:6"
     },
     {
@@ -318,6 +473,11 @@
       "kind": "place",
       "prompt": "Qual região além do Jordão seria honrada?",
       "answer": "A Galileia das nações.",
+      "wrongs": [
+        "A Samaria das colinas.",
+        "O Neguebe das tropas.",
+        "A planície dos filisteus."
+      ],
       "reference": "Is 9:1"
     },
     {
@@ -328,6 +488,11 @@
       "kind": "curiosity",
       "prompt": "O que apareceu para o povo que andava nas trevas, em Isaías?",
       "answer": "Uma grande luz.",
+      "wrongs": [
+        "Uma nuvem escura.",
+        "Um fogo sem chama.",
+        "Um silêncio fundo."
+      ],
       "reference": "Is 9:2"
     },
     {
@@ -338,6 +503,11 @@
       "kind": "subject",
       "prompt": "Por que a Assíria não podia se gabar contra Deus?",
       "answer": "Porque era só o machado, não quem corta.",
+      "wrongs": [
+        "Porque o exército dela era pequeno demais.",
+        "Porque Deus já tinha feito paz com ela.",
+        "Porque ela adorava no templo de Sião."
+      ],
       "reference": "Is 10:15"
     },
     {
@@ -348,6 +518,11 @@
       "kind": "place",
       "prompt": "Onde foi a matança de Midiã citada contra a Assíria?",
       "answer": "Junto à rocha de Orebe.",
+      "wrongs": [
+        "Junto ao ribeiro de Quisom.",
+        "Debaixo do carvalho de Moré.",
+        "No alto do monte Carmelo."
+      ],
       "reference": "Is 10:26"
     },
     {
@@ -358,6 +533,11 @@
       "kind": "curiosity",
       "prompt": "Quem de Israel se converteria, mesmo numeroso como a areia?",
       "answer": "Apenas o restante.",
+      "wrongs": [
+        "A nação inteira.",
+        "Nenhuma pessoa.",
+        "Só a tribo de Judá."
+      ],
       "reference": "Is 10:22"
     },
     {
@@ -368,6 +548,11 @@
       "kind": "subject",
       "prompt": "Por que não haveria dano no monte santo, no reino vindo de Jessé?",
       "answer": "Porque o conhecimento de Deus cobriria a terra como a água cobre o mar.",
+      "wrongs": [
+        "Porque a espada do rei de Judá calaria todo bicho do monte santo.",
+        "Porque um muro de pedra fecharia a terra inteira de ponta a ponta.",
+        "Porque a lei escrita nas portas acabaria com toda fera do campo."
+      ],
       "reference": "Is 11:9"
     },
     {
@@ -378,6 +563,11 @@
       "kind": "name",
       "prompt": "De quem brotaria a vara do novo rei, em Isaías?",
       "answer": "Do tronco de Jessé.",
+      "wrongs": [
+        "Da casa de Acabe.",
+        "Da linhagem de Saul.",
+        "Do cetro de Faraó."
+      ],
       "reference": "Is 11:1"
     },
     {
@@ -388,6 +578,11 @@
       "kind": "place",
       "prompt": "Onde começaria o caminho dos restantes de Israel?",
       "answer": "Na Assíria, como no dia da saída do Egito.",
+      "wrongs": [
+        "Em Edom, como no dia da queda de Jericó.",
+        "Em Moabe, como no dia da travessia do mar.",
+        "Em Cuxe, como no dia da entrada em Canaã."
+      ],
       "reference": "Is 11:16"
     },
     {
@@ -398,6 +593,11 @@
       "kind": "curiosity",
       "prompt": "O que o lobo faria com o cordeiro no reino vindo de Jessé?",
       "answer": "Moraria com ele, e uma criança guiaria os bichos.",
+      "wrongs": [
+        "O devoraria, e um caçador guiaria a matilha.",
+        "Fugiria dele, e um soldado tocaria a trombeta.",
+        "O cercaria, e um ancião fecharia o curral."
+      ],
       "reference": "Is 11:6"
     },
     {
@@ -408,6 +608,11 @@
       "kind": "subject",
       "prompt": "Por que Israel agradeceria a Deus no cântico de Isaías?",
       "answer": "Porque a ira tinha passado e veio consolo.",
+      "wrongs": [
+        "Porque a chuva tinha voltado e veio colheita.",
+        "Porque o rei tinha vencido e veio o despojo.",
+        "Porque o templo tinha aberto e veio o incenso."
+      ],
       "reference": "Is 12:1"
     },
     {
@@ -418,6 +623,11 @@
       "kind": "place",
       "prompt": "Onde o Santo de Israel se mostraria grande?",
       "answer": "No meio de Sião.",
+      "wrongs": [
+        "No meio do Egito.",
+        "No alto do Carmelo.",
+        "Na porta de Jericó."
+      ],
       "reference": "Is 12:6"
     },
     {
@@ -428,6 +638,11 @@
       "kind": "curiosity",
       "prompt": "Onde o povo tiraria água com alegria, em Isaías?",
       "answer": "Nas fontes da salvação.",
+      "wrongs": [
+        "Nos poços de Berseba.",
+        "No tanque de Siloé.",
+        "Na cisterna de Belém."
+      ],
       "reference": "Is 12:3"
     },
     {
@@ -438,6 +653,11 @@
       "kind": "subject",
       "prompt": "Qual seria o fim da Babilônia, orgulho dos caldeus?",
       "answer": "Ruína como a de Sodoma e Gomorra.",
+      "wrongs": [
+        "Glória igual à de Tiro no auge.",
+        "Paz igual à de Jerusalém salva.",
+        "Força igual à do Egito antigo."
+      ],
       "reference": "Is 13:19"
     },
     {
@@ -448,6 +668,11 @@
       "kind": "curiosity",
       "prompt": "O que aconteceria com o sol e a lua no juízo da Babilônia?",
       "answer": "O sol sairia sem claridade, e a lua ficaria apagada.",
+      "wrongs": [
+        "O sol dobraria a luz, e a lua ficaria cheia.",
+        "O sol pararia no céu, e a lua voltaria atrás.",
+        "O sol nasceria claro, e a lua ficaria maior."
+      ],
       "reference": "Is 13:10"
     },
     {
@@ -458,6 +683,11 @@
       "kind": "curiosity",
       "prompt": "O que moraria nas ruínas da Babilônia?",
       "answer": "Bichos do deserto, corujas e bodes selvagens.",
+      "wrongs": [
+        "Pastores com rebanhos e bois de lavoura.",
+        "Mercadores de Tiro e guardas do palácio.",
+        "Sacerdotes, levitas e cantores do templo."
+      ],
       "reference": "Is 13:21"
     },
     {
@@ -468,6 +698,11 @@
       "kind": "subject",
       "prompt": "O que aconteceria ao luminoso, filho do amanhecer, em Isaías?",
       "answer": "Cairia do céu e seria cortado até a terra.",
+      "wrongs": [
+        "Subiria ao trono e reinaria sem fim.",
+        "Ficaria no céu e cobriria as nações.",
+        "Voltaria ao palácio e firmaria o cetro."
+      ],
       "reference": "Is 14:12"
     },
     {
@@ -478,6 +713,11 @@
       "kind": "name",
       "prompt": "Contra quem o povo diria o cântico de zombaria, em Isaías?",
       "answer": "Contra o rei da Babilônia.",
+      "wrongs": [
+        "Contra o rei da Assíria.",
+        "Contra o rei do Egito.",
+        "Contra o rei de Tiro."
+      ],
       "reference": "Is 14:4"
     },
     {
@@ -488,6 +728,11 @@
       "kind": "place",
       "prompt": "O que se diria aos mensageiros sobre Sião?",
       "answer": "Que Deus a fundou, refúgio de quem é oprimido.",
+      "wrongs": [
+        "Que o Egito a comprou, praça de quem é rico.",
+        "Que a Assíria a queimou, e ninguém volta lá.",
+        "Que Davi a deixou, cidade já sem morador."
+      ],
       "reference": "Is 14:32"
     },
     {
@@ -498,6 +743,11 @@
       "kind": "curiosity",
       "prompt": "Onde o rei da Babilônia queria pôr o próprio trono?",
       "answer": "Por cima das estrelas de Deus.",
+      "wrongs": [
+        "Debaixo das águas do mar.",
+        "No meio do rio Eufrates.",
+        "Sobre o altar de Damasco."
+      ],
       "reference": "Is 14:13"
     },
     {
@@ -508,6 +758,11 @@
       "kind": "subject",
       "prompt": "O que uma noite faria com Ar e Quir, em Moabe?",
       "answer": "Destruiria e devastaria as duas.",
+      "wrongs": [
+        "As encheria de gado e de trigo.",
+        "As faria capitais de um só reino.",
+        "As entregaria como herança a Judá."
+      ],
       "reference": "Is 15:1"
     },
     {
@@ -518,6 +773,11 @@
       "kind": "place",
       "prompt": "O que houve com as águas de Ninrim?",
       "answer": "Acabaram, e a vegetação secou.",
+      "wrongs": [
+        "Transbordaram e alagaram o vale.",
+        "Ficaram doces e criaram peixes.",
+        "Subiram e cobriram as cidades."
+      ],
       "reference": "Is 15:6"
     },
     {
@@ -528,6 +788,11 @@
       "kind": "curiosity",
       "prompt": "Como Moabe mostrou luto por Nebo e Medeba?",
       "answer": "Com a cabeça careca e a barba raspada.",
+      "wrongs": [
+        "Com coroas de ouro e mantos novos.",
+        "Com dança na praça e cânticos altos.",
+        "Com incenso no altar e bois gordos."
+      ],
       "reference": "Is 15:2"
     },
     {
@@ -538,6 +803,11 @@
       "kind": "subject",
       "prompt": "Quando a glória de Moabe ficaria desprezível?",
       "answer": "Em três anos, e sobraria pouca gente sem força.",
+      "wrongs": [
+        "Em setenta anos, e o povo voltaria forte.",
+        "Em quarenta anos, e a glória voltaria.",
+        "Num só dia, e a cidade ficaria vazia."
+      ],
       "reference": "Is 16:14"
     },
     {
@@ -548,6 +818,11 @@
       "kind": "place",
       "prompt": "De onde Moabe enviaria cordeiros ao monte de Sião?",
       "answer": "De Sela, atravessando o deserto.",
+      "wrongs": [
+        "De Nínive, descendo o Eufrates.",
+        "De Damasco, pela estrada do norte.",
+        "De Tiro, pelo caminho do mar."
+      ],
       "reference": "Is 16:1"
     },
     {
@@ -558,6 +833,11 @@
       "kind": "curiosity",
       "prompt": "Quem se sentaria na tenda de Davi?",
       "answer": "Um juiz fiel, apressado em fazer justiça.",
+      "wrongs": [
+        "Um rei estrangeiro, lento em cobrar tributo.",
+        "Um sacerdote mudo, ocupado só com o incenso.",
+        "Um general assírio, pronto para o cerco."
+      ],
       "reference": "Is 16:5"
     },
     {
@@ -568,6 +848,11 @@
       "kind": "subject",
       "prompt": "O que seria de Damasco, segundo Isaías?",
       "answer": "Deixaria de ser cidade e viraria um monte de ruínas.",
+      "wrongs": [
+        "Cresceria como capital e firmaria os muros.",
+        "Receberia um rei e viraria aliada de Judá.",
+        "Ficaria em paz e abriria as portas ao comércio."
+      ],
       "reference": "Is 17:1"
     },
     {
@@ -578,6 +863,11 @@
       "kind": "place",
       "prompt": "O que seria das cidades de Aroer?",
       "answer": "Ficariam para os rebanhos, sem ninguém os espantar.",
+      "wrongs": [
+        "Seriam reconstruídas com muros altos e portas.",
+        "Ficariam cheias de tropas, sem espaço nas ruas.",
+        "Passariam ao Egito, com guarda em cada uma."
+      ],
       "reference": "Is 17:2"
     },
     {
@@ -588,6 +878,11 @@
       "kind": "curiosity",
       "prompt": "Quantas azeitonas restariam na ponta dos ramos, em Isaías?",
       "answer": "Duas ou três na ponta, e quatro ou cinco nos galhos.",
+      "wrongs": [
+        "Dez ou doze na ponta, e vinte presas nos galhos.",
+        "Nenhuma na ponta, e o tronco seco sem fruto.",
+        "Um cacho inteiro na ponta e também nos galhos."
+      ],
       "reference": "Is 17:6"
     },
     {
@@ -598,6 +893,11 @@
       "kind": "subject",
       "prompt": "Quem levaria um presente a Sião, da terra do zumbido de asas?",
       "answer": "Um povo alto e temido, de terra cortada por rios.",
+      "wrongs": [
+        "Um povo baixo e esquecido, de terra sem rios.",
+        "Uns exilados de Judá, de volta do cativeiro.",
+        "Uns sacerdotes de Siló, com ofertas de cereal."
+      ],
       "reference": "Is 18:7"
     },
     {
@@ -608,6 +908,11 @@
       "kind": "place",
       "prompt": "Onde ficava a terra do zumbido de asas, em Isaías?",
       "answer": "Além dos rios de Cuxe.",
+      "wrongs": [
+        "Além dos montes de Seir.",
+        "Além do deserto de Edom.",
+        "Além das ilhas de Quitim."
+      ],
       "reference": "Is 18:1"
     },
     {
@@ -618,6 +923,11 @@
       "kind": "curiosity",
       "prompt": "O que levava os mensageiros pelo mar, em Isaías?",
       "answer": "Navios de junco.",
+      "wrongs": [
+        "Carros de ferro.",
+        "Jumentos de carga.",
+        "Balsas de cedro."
+      ],
       "reference": "Is 18:2"
     },
     {
@@ -628,6 +938,11 @@
       "kind": "subject",
       "prompt": "Como Deus chamaria Egito, Assíria e Israel?",
       "answer": "O Egito, povo dele; a Assíria, obra sua; Israel, sua herança.",
+      "wrongs": [
+        "O Egito, inimigo dele; a Assíria, ruína sua; Israel, esquecido.",
+        "Moabe, povo dele; Edom, obra sua; Judá, um estrangeiro.",
+        "Tiro, povo dele; Sidom, obra sua; Cuxe, sua herança."
+      ],
       "reference": "Is 19:25"
     },
     {
@@ -638,6 +953,11 @@
       "kind": "place",
       "prompt": "O que ligaria o Egito e a Assíria, em Isaías?",
       "answer": "Uma estrada, e os dois cultuariam juntos.",
+      "wrongs": [
+        "Um muro, e os dois guerreariam sempre.",
+        "Um rio, e os dois ficariam separados.",
+        "Um tributo, e os dois serviriam a Judá."
+      ],
       "reference": "Is 19:23"
     },
     {
@@ -648,6 +968,11 @@
       "kind": "curiosity",
       "prompt": "Quantas cidades do Egito falariam a língua de Canaã?",
       "answer": "Cinco, e jurariam a Deus.",
+      "wrongs": [
+        "Duas, e jurariam ao Nilo.",
+        "Dez, e jurariam a Faraó.",
+        "Nenhuma, e ficariam mudas."
+      ],
       "reference": "Is 19:18"
     },
     {
@@ -658,6 +983,11 @@
       "kind": "curiosity",
       "prompt": "O que haveria no meio da terra do Egito?",
       "answer": "Um altar a Deus, e uma coluna na fronteira.",
+      "wrongs": [
+        "Um ídolo de ouro e um touro no Nilo.",
+        "Uma pirâmide e um túmulo de faraó.",
+        "Um forte assírio e uma ponte no rio."
+      ],
       "reference": "Is 19:19"
     },
     {
@@ -668,6 +998,11 @@
       "kind": "subject",
       "prompt": "Como o rei da Assíria levaria o Egito e Cuxe?",
       "answer": "Presos, sem roupa e descalços, para humilhar o Egito.",
+      "wrongs": [
+        "Livres, com ouro e mantos, para honrar o Egito.",
+        "Montados em carros, para escoltar o rei.",
+        "Coroados e calçados, para engrandecer o Egito."
+      ],
       "reference": "Is 20:4"
     },
     {
@@ -678,6 +1013,11 @@
       "kind": "name",
       "prompt": "Quem enviou o general que tomou Asdode?",
       "answer": "Sargom, rei da Assíria.",
+      "wrongs": [
+        "Senaqueribe, rei da Assíria.",
+        "Nabucodonosor, rei da Babilônia.",
+        "Tiraca, rei de Cuxe."
+      ],
       "reference": "Is 20:1"
     },
     {
@@ -688,6 +1028,11 @@
       "kind": "place",
       "prompt": "Qual cidade o general enviado por Sargom conquistou?",
       "answer": "Asdode.",
+      "wrongs": [
+        "Laquis.",
+        "Gaza.",
+        "Ecrom."
+      ],
       "reference": "Is 20:1"
     },
     {
@@ -698,6 +1043,11 @@
       "kind": "curiosity",
       "prompt": "Como Isaías serviu de sinal ao Egito e a Cuxe?",
       "answer": "Andando sem roupa e descalço.",
+      "wrongs": [
+        "Jejuando no pátio do templo.",
+        "Calado por três anos inteiros.",
+        "Vestido de saco e de cinza."
+      ],
       "reference": "Is 20:3"
     },
     {
@@ -708,6 +1058,11 @@
       "kind": "subject",
       "prompt": "O que o vigia anunciou sobre a Babilônia?",
       "answer": "Que ela ruiu e os ídolos foram quebrados no chão.",
+      "wrongs": [
+        "Que ela estava firme e os deuses a guardavam.",
+        "Que ela cresceu e os ídolos foram postos no alto.",
+        "Que ela pagou o tributo e ficou em paz."
+      ],
       "reference": "Is 21:9"
     },
     {
@@ -718,6 +1073,11 @@
       "kind": "name",
       "prompt": "Quem a visão sobre a Babilônia chamou para o cerco?",
       "answer": "Elão e a Média.",
+      "wrongs": [
+        "Edom e Moabe.",
+        "Tiro e Sidom.",
+        "Egito e Cuxe."
+      ],
       "reference": "Is 21:2"
     },
     {
@@ -728,6 +1088,11 @@
       "kind": "place",
       "prompt": "Onde alguém gritava ao guarda, na palavra sobre Dumá?",
       "answer": "Em Seir.",
+      "wrongs": [
+        "Em Temã.",
+        "Em Dedã.",
+        "Em Nofe."
+      ],
       "reference": "Is 21:11"
     },
     {
@@ -738,6 +1103,11 @@
       "kind": "curiosity",
       "prompt": "Quando a glória de Quedar seria arruinada?",
       "answer": "Dentro de um ano, contado como ano de trabalhador.",
+      "wrongs": [
+        "Dentro de sete dias, contados como uma semana.",
+        "Depois de setenta anos, como um reinado longo.",
+        "Dentro de três anos, contados como anos de rei."
+      ],
       "reference": "Is 21:16"
     },
     {
@@ -748,6 +1118,11 @@
       "kind": "subject",
       "prompt": "O que Jerusalém dizia na festa, em vez de chorar?",
       "answer": "Que comessem e bebessem, pois morreriam no dia seguinte.",
+      "wrongs": [
+        "Que jejuassem e chorassem, pois o cerco ia acabar.",
+        "Que fugissem de noite, pois a cidade ia cair.",
+        "Que rasgassem a roupa, pois o rei tinha morrido."
+      ],
       "reference": "Is 22:13"
     },
     {
@@ -758,6 +1133,11 @@
       "kind": "name",
       "prompt": "Qual servo, filho de Hilquias, Deus chamaria?",
       "answer": "Eliaquim.",
+      "wrongs": [
+        "Sebna.",
+        "Hilquias.",
+        "Gedalias."
+      ],
       "reference": "Is 22:20"
     },
     {
@@ -768,6 +1148,11 @@
       "kind": "place",
       "prompt": "Sobre qual lugar é a revelação da cidade tumultuada, em Isaías?",
       "answer": "O vale da visão.",
+      "wrongs": [
+        "O monte das oliveiras.",
+        "A porta das águas.",
+        "O campo do oleiro."
+      ],
       "reference": "Is 22:1"
     },
     {
@@ -778,6 +1163,11 @@
       "kind": "curiosity",
       "prompt": "O que Eliaquim levaria sobre o ombro?",
       "answer": "A chave da família de Davi.",
+      "wrongs": [
+        "A espada do rei da Assíria.",
+        "O cetro da casa de Saul.",
+        "O selo do faraó do Egito."
+      ],
       "reference": "Is 22:22"
     },
     {
@@ -788,6 +1178,11 @@
       "kind": "subject",
       "prompt": "Quanto tempo Tiro ficaria esquecida?",
       "answer": "Setenta anos, como o tempo de um rei.",
+      "wrongs": [
+        "Três anos, como o tempo de uma seca.",
+        "Quarenta dias, como o tempo de um jejum.",
+        "Um ano, como o tempo de uma colheita."
+      ],
       "reference": "Is 23:15"
     },
     {
@@ -798,6 +1193,11 @@
       "kind": "place",
       "prompt": "De onde vinha o cereal do comércio de Tiro?",
       "answer": "Da colheita do Nilo, o Sior.",
+      "wrongs": [
+        "Das eiras de Judá, o Neguebe.",
+        "Das vinhas de En-Gedi, o oásis.",
+        "Dos campos de Moabe, o planalto."
+      ],
       "reference": "Is 23:3"
     },
     {
@@ -808,6 +1208,11 @@
       "kind": "curiosity",
       "prompt": "Quem ficaria com o comércio de Tiro no fim?",
       "answer": "Os que moram diante de Deus, para comida e roupa.",
+      "wrongs": [
+        "Os mercadores de Sidom, para ouro e prata.",
+        "Os reis da Assíria, para carros e cavalos.",
+        "Os sacerdotes de Betel, para incenso e bois."
+      ],
       "reference": "Is 23:18"
     },
     {
@@ -818,6 +1223,11 @@
       "kind": "subject",
       "prompt": "O que os moradores da terra fizeram com a aliança eterna, em Isaías?",
       "answer": "Mudaram as leis e desfizeram essa aliança.",
+      "wrongs": [
+        "Guardaram as leis e renovaram essa aliança.",
+        "Copiaram as leis e as levaram ao Egito.",
+        "Esqueceram as leis e voltaram ao Sinai."
+      ],
       "reference": "Is 24:5"
     },
     {
@@ -828,6 +1238,11 @@
       "kind": "place",
       "prompt": "Onde Deus reinaria, com o sol humilhado, em Isaías?",
       "answer": "No monte de Sião, em Jerusalém.",
+      "wrongs": [
+        "No monte Carmelo, em Samaria.",
+        "No monte Sinai, no deserto.",
+        "No monte Seir, em Edom."
+      ],
       "reference": "Is 24:23"
     },
     {
@@ -838,6 +1253,11 @@
       "kind": "curiosity",
       "prompt": "Como a terra andaria no juízo descrito por Isaías?",
       "answer": "Cambaleando como bêbada, até cair de vez.",
+      "wrongs": [
+        "Firme como uma rocha, sem se mover.",
+        "Leve como uma folha, levada pelo vento.",
+        "Reta como uma estrada, até o mar."
+      ],
       "reference": "Is 24:20"
     },
     {
@@ -848,6 +1268,11 @@
       "kind": "subject",
       "prompt": "O que Deus faria com a morte e com as lágrimas, em Isaías?",
       "answer": "Acabaria com a morte para sempre e secaria todo choro.",
+      "wrongs": [
+        "Aumentaria a morte e guardaria todo choro.",
+        "Esconderia a morte e deixaria o pranto.",
+        "Entregaria a morte aos reis e secaria os rios."
+      ],
       "reference": "Is 25:8"
     },
     {
@@ -858,6 +1283,11 @@
       "kind": "place",
       "prompt": "O que a mão de Deus faria com Moabe?",
       "answer": "O esmagaria como palha pisada no esterco.",
+      "wrongs": [
+        "O levantaria como cedro plantado no Líbano.",
+        "O cobriria com ouro trazido de Ofir.",
+        "O mudaria para um vale de fontes."
+      ],
       "reference": "Is 25:10"
     },
     {
@@ -868,6 +1298,11 @@
       "kind": "curiosity",
       "prompt": "Qual banquete Deus daria a todos os povos, em Isaías?",
       "answer": "Carnes gordas e vinhos finos, bem purificados.",
+      "wrongs": [
+        "Pão seco e água, ainda sem sal.",
+        "Ervas amargas e vinho novo, bem azedo.",
+        "Peixe assado e leite, recém-tirado."
+      ],
       "reference": "Is 25:6"
     },
     {
@@ -878,6 +1313,11 @@
       "kind": "subject",
       "prompt": "O que aconteceria com os mortos de Deus, em Isaías?",
       "answer": "Viveriam de novo, e a terra faria nascer os seus mortos.",
+      "wrongs": [
+        "Ficariam no pó, e a terra os cobriria para sempre.",
+        "Subiriam ao céu, e a terra ficaria vazia.",
+        "Dormiriam em paz, e a terra esqueceria o nome deles."
+      ],
       "reference": "Is 26:19"
     },
     {
@@ -888,6 +1328,11 @@
       "kind": "place",
       "prompt": "Onde se cantaria o cântico da cidade forte, em Isaías?",
       "answer": "Na terra de Judá.",
+      "wrongs": [
+        "Na terra do Egito.",
+        "Na terra de Moabe.",
+        "Na terra de Cuxe."
+      ],
       "reference": "Is 26:1"
     },
     {
@@ -898,6 +1343,11 @@
       "kind": "curiosity",
       "prompt": "A quem Deus guardaria em paz completa, em Isaías?",
       "answer": "A quem confia nele com firmeza.",
+      "wrongs": [
+        "A quem foge dele de madrugada.",
+        "A quem oferece bois sem falta.",
+        "A quem guarda ouro no templo."
+      ],
       "reference": "Is 26:3"
     },
     {
@@ -908,6 +1358,11 @@
       "kind": "subject",
       "prompt": "Como voltariam os perdidos da Assíria e do Egito?",
       "answer": "Ao toque de uma trombeta, para adorar em Jerusalém.",
+      "wrongs": [
+        "Ao passo de uma caravana, para morar em Nínive.",
+        "Ao grito de um general, para guerrear no Egito.",
+        "Ao canto de um coro, para festejar em Tiro."
+      ],
       "reference": "Is 27:13"
     },
     {
@@ -918,6 +1373,11 @@
       "kind": "place",
       "prompt": "Onde Deus colheria Israel, um por um?",
       "answer": "Entre o Eufrates e o córrego do Egito.",
+      "wrongs": [
+        "Entre o Jordão e o monte Carmelo.",
+        "Entre o Nilo e o deserto de Sur.",
+        "Entre Damasco e o ribeiro de Arnom."
+      ],
       "reference": "Is 27:12"
     },
     {
@@ -928,6 +1388,11 @@
       "kind": "curiosity",
       "prompt": "A quem Deus feriria com a espada forte, em Isaías?",
       "answer": "Ao Leviatã e ao dragão do mar.",
+      "wrongs": [
+        "Ao rei da Assíria e ao exército dele.",
+        "Aos ídolos de Betel e aos altares.",
+        "Ao faraó do Egito e aos carros dele."
+      ],
       "reference": "Is 27:1"
     },
     {
@@ -938,6 +1403,11 @@
       "kind": "subject",
       "prompt": "O que Deus fundaria em Sião para quem crê?",
       "answer": "Uma pedra de canto já provada, para ninguém sair fugindo.",
+      "wrongs": [
+        "Um muro de bronze já pintado, para ninguém entrar.",
+        "Um altar de cedro já ungido, para ninguém sair.",
+        "Uma porta de ferro já fechada, para ninguém voltar."
+      ],
       "reference": "Is 28:16"
     },
     {
@@ -948,6 +1418,11 @@
       "kind": "place",
       "prompt": "De quem era a coroa de orgulho que murchava, em Isaías?",
       "answer": "Dos bêbados de Efraim, sobre o vale fértil.",
+      "wrongs": [
+        "Dos pastores de Judá, sobre o monte seco.",
+        "Dos mercadores de Tiro, sobre o porto.",
+        "Dos sacerdotes de Siló, sobre o tabernáculo."
+      ],
       "reference": "Is 28:1"
     },
     {
@@ -958,6 +1433,11 @@
       "kind": "curiosity",
       "prompt": "Com quem os zombadores de Jerusalém diziam ter trato?",
       "answer": "Com a morte e também com o lugar dos mortos.",
+      "wrongs": [
+        "Com o Egito e também com a Assíria.",
+        "Com o rei e também com os sacerdotes.",
+        "Com a chuva e também com a colheita."
+      ],
       "reference": "Is 28:15"
     },
     {
@@ -968,6 +1448,11 @@
       "kind": "subject",
       "prompt": "Por que o culto de Jerusalém não agradava a Deus, em Isaías?",
       "answer": "A boca se aproximava, mas o coração ficava longe.",
+      "wrongs": [
+        "A mão oferecia, mas o bolso ficava fechado.",
+        "O pé se apressava, mas o caminho ficava torto.",
+        "O olho olhava, mas a noite ficava escura."
+      ],
       "reference": "Is 29:13"
     },
     {
@@ -978,6 +1463,11 @@
       "kind": "place",
       "prompt": "Qual nome tinha a cidade em que Davi acampou?",
       "answer": "Ariel.",
+      "wrongs": [
+        "Sião.",
+        "Salém.",
+        "Betel."
+      ],
       "reference": "Is 29:1"
     },
     {
@@ -988,6 +1478,11 @@
       "kind": "curiosity",
       "prompt": "Como seria o ataque das nações ao monte de Sião?",
       "answer": "Como comida e bebida que só existem no sonho.",
+      "wrongs": [
+        "Como um rio que cobre a cidade de noite.",
+        "Como um exército que acampa e não sai.",
+        "Como um fogo que consome o muro inteiro."
+      ],
       "reference": "Is 29:8"
     },
     {
@@ -998,6 +1493,11 @@
       "kind": "curiosity",
       "prompt": "Por que o leitor não lia o livro da visão, em Isaías?",
       "answer": "Porque estava selado.",
+      "wrongs": [
+        "Porque estava em branco.",
+        "Porque estava rasgado.",
+        "Porque estava perdido."
+      ],
       "reference": "Is 29:11"
     },
     {
@@ -1008,6 +1508,11 @@
       "kind": "subject",
       "prompt": "Como Judá ficaria livre e forte, em vez de ir ao Egito?",
       "answer": "Com arrependimento, calma e confiança, mas não quis.",
+      "wrongs": [
+        "Com aliança, cavalos e pressa, mas não quis.",
+        "Com tributo, ouro e fuga, mas não quis.",
+        "Com guerra, cerco e grito, mas não quis."
+      ],
       "reference": "Is 30:15"
     },
     {
@@ -1018,6 +1523,11 @@
       "kind": "place",
       "prompt": "Onde estavam os príncipes e os enviados do Egito?",
       "answer": "Os príncipes em Zoã, e os enviados em Hanes.",
+      "wrongs": [
+        "Os príncipes em Tebas, e os enviados em Sais.",
+        "Os príncipes em Pi-Besete, e os enviados em Ávaris.",
+        "Os príncipes em Heliópolis, e os enviados em Bubástis."
+      ],
       "reference": "Is 30:4"
     },
     {
@@ -1028,6 +1538,11 @@
       "kind": "curiosity",
       "prompt": "Qual apelido Deus deu ao Egito, que não ajuda?",
       "answer": "Raabe, que nada faz.",
+      "wrongs": [
+        "Leviatã, que tudo engole.",
+        "Basã, que nada produz.",
+        "Carmelo, que nada vale."
+      ],
       "reference": "Is 30:7"
     },
     {
@@ -1038,6 +1553,11 @@
       "kind": "curiosity",
       "prompt": "Quantas vezes a luz do sol aumentaria na cura do povo, em Isaías?",
       "answer": "Sete vezes, igual à claridade de uma semana.",
+      "wrongs": [
+        "Três vezes, igual à claridade de um dia.",
+        "Dez vezes, igual à claridade de um mês.",
+        "Duas vezes, igual à claridade de uma noite."
+      ],
       "reference": "Is 30:26"
     },
     {
@@ -1048,6 +1568,11 @@
       "kind": "subject",
       "prompt": "Como Deus defenderia Jerusalém?",
       "answer": "Como aves em volta do ninho, ele a salvaria.",
+      "wrongs": [
+        "Como um muro de pedra em volta da cidade.",
+        "Como um rio seco em volta do palácio.",
+        "Como leões no portão, ele a entregaria."
+      ],
       "reference": "Is 31:5"
     },
     {
@@ -1058,6 +1583,11 @@
       "kind": "curiosity",
       "prompt": "Por qual espada a Assíria cairia?",
       "answer": "Por uma espada que não é de gente.",
+      "wrongs": [
+        "Por uma espada forjada em Damasco.",
+        "Por uma espada tomada do Egito.",
+        "Por uma espada guardada no templo."
+      ],
       "reference": "Is 31:8"
     },
     {
@@ -1068,6 +1598,11 @@
       "kind": "curiosity",
       "prompt": "O que o povo buscava ao descer ao Egito?",
       "answer": "Cavalos, muitos carros e cavaleiros fortes.",
+      "wrongs": [
+        "Ouro, muitas coroas e escudos novos.",
+        "Trigo, muitos barcos e remadores fortes.",
+        "Ídolos, muitos altares e imagens de pedra."
+      ],
       "reference": "Is 31:1"
     },
     {
@@ -1078,6 +1613,11 @@
       "kind": "subject",
       "prompt": "Como reinariam o rei e os príncipes, em Isaías?",
       "answer": "O rei com justiça, e os príncipes julgando certo.",
+      "wrongs": [
+        "O rei com força, e os príncipes cobrando tributo.",
+        "O rei com pressa, e os príncipes fechando a cidade.",
+        "O rei com medo, e os príncipes pedindo socorro."
+      ],
       "reference": "Is 32:1"
     },
     {
@@ -1088,6 +1628,11 @@
       "kind": "place",
       "prompt": "O que seria do palácio e da cidade barulhenta, em Isaías?",
       "answer": "Ficariam vazios, pasto de jumentos selvagens.",
+      "wrongs": [
+        "Ficariam cheios, praça de mercadores ricos.",
+        "Ficariam novos, sede de sacerdotes e cantores.",
+        "Ficariam firmes, abrigo de carros e cavalos."
+      ],
       "reference": "Is 32:14"
     },
     {
@@ -1098,6 +1643,11 @@
       "kind": "curiosity",
       "prompt": "Quando as mulheres confiantes seriam abaladas, em Isaías?",
       "answer": "Em pouco mais de um ano, quando a colheita falhasse.",
+      "wrongs": [
+        "Em setenta anos, quando o rei voltasse.",
+        "Num só dia, quando a trombeta tocasse.",
+        "Depois de três gerações, quando a vinha secasse."
+      ],
       "reference": "Is 32:10"
     },
     {
@@ -1108,6 +1658,11 @@
       "kind": "curiosity",
       "prompt": "Qual seria o fruto da justiça, em Isaías?",
       "answer": "Paz, com sossego e segurança sem fim.",
+      "wrongs": [
+        "Guerra, com pressa e despojo sem fim.",
+        "Luto, com cinza e silêncio sem fim.",
+        "Medo, com fuga e fome sem fim."
+      ],
       "reference": "Is 32:17"
     },
     {
@@ -1118,6 +1673,11 @@
       "kind": "subject",
       "prompt": "O que Deus seria para o povo de Sião diante do assolador?",
       "answer": "Juiz, legislador e rei, e ele os salvaria.",
+      "wrongs": [
+        "Pastor, cantor e sacerdote, e ele os alimentaria.",
+        "General, sentinela e aliado, e ele os armaria.",
+        "Estrangeiro, cobrador e juiz, e ele os venderia."
+      ],
       "reference": "Is 33:22"
     },
     {
@@ -1128,6 +1688,11 @@
       "kind": "place",
       "prompt": "O que enchia Sião, onde Deus habita no alto?",
       "answer": "Juízo e justiça.",
+      "wrongs": [
+        "Ouro e incenso.",
+        "Pão e vinho.",
+        "Pó e cinza."
+      ],
       "reference": "Is 33:5"
     },
     {
@@ -1138,6 +1703,11 @@
       "kind": "curiosity",
       "prompt": "Quem rejeita o lucro da opressão e o suborno, em Isaías?",
       "answer": "Quem anda certo, fala o que é reto e recusa o pago injusto.",
+      "wrongs": [
+        "Quem corre de noite, esconde o pão e aceita o pago fácil.",
+        "Quem fecha a porta, grita na praça e busca o pago dobrado.",
+        "Quem senta no portão, vende o juízo e guarda o pago do rico."
+      ],
       "reference": "Is 33:15"
     },
     {
@@ -1148,6 +1718,11 @@
       "kind": "curiosity",
       "prompt": "Por que nenhum morador de Sião diria que está doente?",
       "answer": "Porque o povo que morasse ali seria perdoado.",
+      "wrongs": [
+        "Porque o médico do rei moraria ali.",
+        "Porque a fonte da cidade nunca secava.",
+        "Porque o ar do monte afastava a febre."
+      ],
       "reference": "Is 33:24"
     },
     {
@@ -1158,6 +1733,11 @@
       "kind": "subject",
       "prompt": "O que acontecerá com a terra de Edom, em Isaías?",
       "answer": "Os rios virarão piche, e o solo, enxofre em chama.",
+      "wrongs": [
+        "Os rios virarão mel, e o solo, trigo maduro.",
+        "Os rios virarão sangue, e o solo, pó de ossos.",
+        "Os rios virarão vidro, e o solo, sal sem planta."
+      ],
       "reference": "Is 34:9"
     },
     {
@@ -1168,6 +1748,11 @@
       "kind": "place",
       "prompt": "Em que cidade de Edom Deus terá um sacrifício?",
       "answer": "Em Bozra.",
+      "wrongs": [
+        "Em Temã.",
+        "Em Dedã.",
+        "Em Sela."
+      ],
       "reference": "Is 34:6"
     },
     {
@@ -1178,6 +1763,11 @@
       "kind": "curiosity",
       "prompt": "Até quando a fumaça da terra de Edom subirá?",
       "answer": "Para sempre, sem apagar de dia nem de noite.",
+      "wrongs": [
+        "Por três dias, e depois a chuva a apaga.",
+        "Por um ano, e no inverno ela cessa.",
+        "Até a manhã, e o vento a espalha."
+      ],
       "reference": "Is 34:10"
     },
     {
@@ -1188,6 +1778,11 @@
       "kind": "subject",
       "prompt": "O que o deserto seco fará na promessa de Deus, em Isaías?",
       "answer": "Vai se alegrar e abrir flor, como uma rosa.",
+      "wrongs": [
+        "Vai se calar e ficar seco, como um ossuário.",
+        "Vai se rachar e sumir, como uma nuvem.",
+        "Vai se encolher e escurecer, como um pântano."
+      ],
       "reference": "Is 35:1"
     },
     {
@@ -1198,6 +1793,11 @@
       "kind": "place",
       "prompt": "Para onde voltarão os resgatados por Deus, em Isaías?",
       "answer": "Para Sião, com alegria que não termina.",
+      "wrongs": [
+        "Para Nínive, com luto que não termina.",
+        "Para o Egito, com medo que não termina.",
+        "Para Babilônia, com silêncio que não termina."
+      ],
       "reference": "Is 35:10"
     },
     {
@@ -1208,6 +1808,11 @@
       "kind": "curiosity",
       "prompt": "O que acontecerá com os cegos e os surdos, em Isaías?",
       "answer": "Os cegos vão ver, e os surdos vão ouvir.",
+      "wrongs": [
+        "Os cegos vão calar, e os surdos vão fugir.",
+        "Os cegos vão dormir, e os surdos vão esquecer.",
+        "Os cegos vão cair, e os surdos vão gritar."
+      ],
       "reference": "Is 35:5"
     },
     {
@@ -1218,6 +1823,11 @@
       "kind": "curiosity",
       "prompt": "Como se chamará o caminho em que o impuro não passa, em Isaías?",
       "answer": "Caminho da santidade.",
+      "wrongs": [
+        "Caminho do despojo.",
+        "Caminho do exílio.",
+        "Caminho do comércio."
+      ],
       "reference": "Is 35:8"
     },
     {
@@ -1228,6 +1838,11 @@
       "kind": "subject",
       "prompt": "O que Rabsaqué desafiou sobre Jerusalém?",
       "answer": "Duvidou que Deus a livrasse das mãos dele.",
+      "wrongs": [
+        "Afirmou que o Egito a tomaria de noite.",
+        "Prometeu que o rei a entregaria sem luta.",
+        "Contou que a chuva a alagaria no verão."
+      ],
       "reference": "Is 36:20"
     },
     {
@@ -1238,6 +1853,11 @@
       "kind": "name",
       "prompt": "Quem o rei da Assíria mandou de Laquis a Jerusalém?",
       "answer": "Rabsaqué, à frente de um grande exército.",
+      "wrongs": [
+        "Nebuzaradã, à frente de um grande exército.",
+        "Eliaquim, à frente de um grande exército.",
+        "Sebna, à frente de um grande exército."
+      ],
       "reference": "Is 36:2"
     },
     {
@@ -1248,6 +1868,11 @@
       "kind": "place",
       "prompt": "Onde Rabsaqué parou ao chegar diante de Jerusalém?",
       "answer": "Junto ao tanque de cima, no caminho do lavandeiro.",
+      "wrongs": [
+        "Junto à porta de Benjamim, no caminho do norte.",
+        "Junto ao tanque de baixo, no caminho do mercado.",
+        "Junto à torre dos fornos, no caminho do vale."
+      ],
       "reference": "Is 36:2"
     },
     {
@@ -1258,6 +1883,11 @@
       "kind": "curiosity",
       "prompt": "Por que os oficiais de Ezequias não responderam a Rabsaqué?",
       "answer": "O rei tinha ordenado que ficassem calados.",
+      "wrongs": [
+        "O rei tinha ordenado que pagassem ouro.",
+        "O rei tinha ordenado que abrissem a porta.",
+        "O rei tinha ordenado que chamassem Isaías."
+      ],
       "reference": "Is 36:21"
     },
     {
@@ -1268,6 +1898,11 @@
       "kind": "subject",
       "prompt": "O que o anjo de Deus fez no acampamento da Assíria?",
       "answer": "Matou cento e oitenta mil, achados mortos ao amanhecer.",
+      "wrongs": [
+        "Matou três mil soldados, achados vivos ao meio-dia.",
+        "Feriu doze mil homens, achados feridos ao entardecer.",
+        "Prendeu quarenta mil, achados presos ao anoitecer."
+      ],
       "reference": "Is 37:36"
     },
     {
@@ -1278,6 +1913,11 @@
       "kind": "name",
       "prompt": "Quem feriu Senaqueribe na casa do deus Nisroque?",
       "answer": "Os filhos Adrameleque e Sarezer, com a espada.",
+      "wrongs": [
+        "Os generais Rabe-Saris e Rabsaqué, com lança.",
+        "Os aliados do Egito e de Cuxe, com fogo.",
+        "Os guardas do templo de Nínive, com pedras."
+      ],
       "reference": "Is 37:38"
     },
     {
@@ -1288,6 +1928,11 @@
       "kind": "place",
       "prompt": "Para onde Senaqueribe, rei da Assíria, voltou?",
       "answer": "Para Nínive.",
+      "wrongs": [
+        "Para Nofe.",
+        "Para Harã.",
+        "Para Calá."
+      ],
       "reference": "Is 37:37"
     },
     {
@@ -1298,6 +1943,11 @@
       "kind": "curiosity",
       "prompt": "O que o rei da Assíria não faria contra Jerusalém?",
       "answer": "Não entraria, não atiraria flecha nem montaria cerco.",
+      "wrongs": [
+        "Não cobraria tributo, não levaria gado nem queimaria o campo.",
+        "Não falaria hebraico, não leria carta nem citaria o nome de Deus.",
+        "Não dormiria ali, não comeria pão nem beberia da fonte."
+      ],
       "reference": "Is 37:33"
     },
     {
@@ -1308,6 +1958,11 @@
       "kind": "subject",
       "prompt": "Quantos anos Deus acrescentou à vida de Ezequias?",
       "answer": "Quinze anos.",
+      "wrongs": [
+        "Dez anos.",
+        "Sete anos.",
+        "Três anos."
+      ],
       "reference": "Is 38:5"
     },
     {
@@ -1318,6 +1973,11 @@
       "kind": "name",
       "prompt": "Quem Isaías mandou pôr a casa em ordem, porque morreria?",
       "answer": "Ezequias, rei de Judá.",
+      "wrongs": [
+        "Acaz, rei de Judá.",
+        "Manassés, rei de Judá.",
+        "Josias, rei de Judá."
+      ],
       "reference": "Is 38:1"
     },
     {
@@ -1328,6 +1988,11 @@
       "kind": "curiosity",
       "prompt": "Quantos degraus o sol voltou na escadaria de Acaz?",
       "answer": "Dez degraus.",
+      "wrongs": [
+        "Três degraus.",
+        "Vinte degraus.",
+        "Quarenta degraus."
+      ],
       "reference": "Is 38:8"
     },
     {
@@ -1338,6 +2003,11 @@
       "kind": "curiosity",
       "prompt": "O que Isaías mandou pôr na ferida de Ezequias?",
       "answer": "Uma pasta de figos, para a inflamação sarar.",
+      "wrongs": [
+        "Uma pasta de mel, para a febre ceder.",
+        "Uma pasta de óleo, para a pele fechar.",
+        "Uma pasta de farinha, para a dor passar."
+      ],
       "reference": "Is 38:21"
     },
     {
@@ -1348,6 +2018,11 @@
       "kind": "subject",
       "prompt": "O que Isaías disse sobre os tesouros de Ezequias?",
       "answer": "Tudo da casa dele seria levado à Babilônia, e nada ficaria.",
+      "wrongs": [
+        "Metade ficaria em Jerusalém, e o resto iria ao Egito.",
+        "O ouro voltaria ao templo, e a prata ficaria no palácio.",
+        "Nada sairia da cidade, e os cofres seriam lacrados."
+      ],
       "reference": "Is 39:6"
     },
     {
@@ -1358,6 +2033,11 @@
       "kind": "name",
       "prompt": "Quem mandou mensageiros com um presente ao rei Ezequias?",
       "answer": "Merodaque-Baladã, rei da Babilônia.",
+      "wrongs": [
+        "Nabucodonosor, rei da Babilônia.",
+        "Senaqueribe, rei da Assíria.",
+        "Tiraca, rei de Cuxe."
+      ],
       "reference": "Is 39:1"
     },
     {
@@ -1368,6 +2048,11 @@
       "kind": "place",
       "prompt": "De onde Ezequias disse que os visitantes tinham vindo?",
       "answer": "De uma terra distante, a Babilônia.",
+      "wrongs": [
+        "De uma terra vizinha, a Assíria.",
+        "De uma terra quente, o Egito.",
+        "De uma terra alta, a Média."
+      ],
       "reference": "Is 39:3"
     },
     {
@@ -1378,6 +2063,11 @@
       "kind": "curiosity",
       "prompt": "O que seria feito dos filhos de Ezequias?",
       "answer": "Serviriam como eunucos no palácio real de lá.",
+      "wrongs": [
+        "Reinariam como príncipes no templo de Sião.",
+        "Fugiriam como pastores para o deserto de Judá.",
+        "Serviriam como sacerdotes no altar de Betel."
+      ],
       "reference": "Is 39:7"
     },
     {
@@ -1388,6 +2078,11 @@
       "kind": "subject",
       "prompt": "Que recado Deus manda dar a Jerusalém?",
       "answer": "A guerra acabou, e a culpa dela foi perdoada.",
+      "wrongs": [
+        "A guerra continua, e a culpa dela foi dobrada.",
+        "A cidade caiu, e a culpa dela foi esquecida.",
+        "O rei voltou, e a culpa dela foi transferida."
+      ],
       "reference": "Is 40:2"
     },
     {
@@ -1398,6 +2093,11 @@
       "kind": "place",
       "prompt": "Onde clama a voz que manda preparar o caminho de Deus, em Isaías?",
       "answer": "No deserto.",
+      "wrongs": [
+        "No templo.",
+        "No palácio.",
+        "No mercado."
+      ],
       "reference": "Is 40:3"
     },
     {
@@ -1408,6 +2108,11 @@
       "kind": "curiosity",
       "prompt": "O que fica firme quando a erva seca e a flor cai, em Isaías?",
       "answer": "A palavra de Deus, que permanece para sempre.",
+      "wrongs": [
+        "A força do rei, que cresce com o exército.",
+        "A fama da cidade, que corre de nação em nação.",
+        "O conselho dos sábios, que muda a cada ano."
+      ],
       "reference": "Is 40:8"
     },
     {
@@ -1418,6 +2123,11 @@
       "kind": "curiosity",
       "prompt": "O que ganha quem confia em Deus, mesmo cansado, em Isaías?",
       "answer": "Forças novas, e sobe como as águias, sem se esgotar.",
+      "wrongs": [
+        "Terras novas, e desce ao vale, sem se apressar.",
+        "Roupas novas, e anda como os príncipes, sem se curvar.",
+        "Muralhas novas, e fica como as torres, sem se mover."
+      ],
       "reference": "Is 40:31"
     },
     {
@@ -1428,6 +2138,11 @@
       "kind": "subject",
       "prompt": "O que Deus diz a Israel para ele não ter medo?",
       "answer": "Que está com ele, o fortalece e o segura pela mão direita.",
+      "wrongs": [
+        "Que o deixa, o entrega e o solta da mão esquerda.",
+        "Que o observa de longe, o avisa e o manda partir.",
+        "Que o cobra, o pesa e o entrega ao inimigo."
+      ],
       "reference": "Is 41:10"
     },
     {
@@ -1438,6 +2153,11 @@
       "kind": "name",
       "prompt": "Como Deus chama Abraão ao falar com Israel?",
       "answer": "Meu amigo.",
+      "wrongs": [
+        "Meu pai.",
+        "Meu rei.",
+        "Meu pastor."
+      ],
       "reference": "Is 41:8"
     },
     {
@@ -1448,6 +2168,11 @@
       "kind": "curiosity",
       "prompt": "A que Deus compara Israel para enfrentar os montes?",
       "answer": "A um debulhador novo, de dentes pontudos.",
+      "wrongs": [
+        "A uma bigorna velha, de ferro gasto.",
+        "A um escudo largo, de couro duro.",
+        "A uma foice cega, de cabo curto."
+      ],
       "reference": "Is 41:15"
     },
     {
@@ -1458,6 +2183,11 @@
       "kind": "subject",
       "prompt": "O que o servo escolhido levará às nações, em Isaías?",
       "answer": "Justiça, com o Espírito de Deus sobre ele.",
+      "wrongs": [
+        "Silêncio, com o cetro do rei sobre ele.",
+        "Despojo, com o exército da Assíria sobre ele.",
+        "Incenso, com o manto do sacerdote sobre ele."
+      ],
       "reference": "Is 42:1"
     },
     {
@@ -1468,6 +2198,11 @@
       "kind": "place",
       "prompt": "De que região são as aldeias do deserto que devem cantar, em Isaías?",
       "answer": "De Quedar.",
+      "wrongs": [
+        "De Edom.",
+        "De Uz.",
+        "De Dedã."
+      ],
       "reference": "Is 42:11"
     },
     {
@@ -1478,6 +2213,11 @@
       "kind": "curiosity",
       "prompt": "O que o servo fará com a cana rachada, em Isaías?",
       "answer": "Não vai quebrá-la, nem apagar o pavio que ainda fumega.",
+      "wrongs": [
+        "Vai quebrá-la, e apagar o pavio que ainda fumega.",
+        "Vai escondê-la, e trocar o pavio que ainda fumega.",
+        "Vai vendê-la, e molhar o pavio que ainda fumega."
+      ],
       "reference": "Is 42:3"
     },
     {
@@ -1488,6 +2228,11 @@
       "kind": "subject",
       "prompt": "O que Deus promete a Israel na água e no fogo?",
       "answer": "Estará junto, e nem a corrente nem a chama o destruirão.",
+      "wrongs": [
+        "Ficará longe, e tanto a corrente quanto a chama o pararão.",
+        "Mandará um anjo, e só a corrente, não a chama, o poupará.",
+        "Abrirá um caminho, e a água e o fogo o levarão embora."
+      ],
       "reference": "Is 43:2"
     },
     {
@@ -1498,6 +2243,11 @@
       "kind": "place",
       "prompt": "Que terras Deus deu como resgate no lugar de Israel?",
       "answer": "O Egito, Cuxe e Seba.",
+      "wrongs": [
+        "Moabe, Edom e Amom.",
+        "Tiro, Sidom e Filístia.",
+        "Elão, Média e Pérsia."
+      ],
       "reference": "Is 43:3"
     },
     {
@@ -1508,6 +2258,11 @@
       "kind": "curiosity",
       "prompt": "Que novidade Deus fará no deserto por Israel?",
       "answer": "Abrirá uma estrada e fará correr água na terra seca.",
+      "wrongs": [
+        "Fechará a estrada e secará a água da terra verde.",
+        "Levantará um muro e esconderá o poço na areia.",
+        "Apagará o caminho e tornará amarga a água doce."
+      ],
       "reference": "Is 43:19"
     },
     {
@@ -1518,6 +2273,11 @@
       "kind": "curiosity",
       "prompt": "O que Deus faz com as transgressões de Israel?",
       "answer": "Ele as apaga por causa de si e esquece os pecados.",
+      "wrongs": [
+        "Ele as grava em pedra e as lê todo ano.",
+        "Ele as entrega ao rei e cobra os pecados.",
+        "Ele as pesa na balança e dobra a culpa."
+      ],
       "reference": "Is 43:25"
     },
     {
@@ -1528,6 +2288,11 @@
       "kind": "subject",
       "prompt": "Por que Deus manda Israel voltar para ele?",
       "answer": "Porque já o resgatou e dissipa os pecados como nuvem.",
+      "wrongs": [
+        "Porque ainda o acusa e junta os pecados como pedra.",
+        "Porque já o vendeu e guarda os pecados como ouro.",
+        "Porque logo o esquecerá e soprará os pecados como fogo."
+      ],
       "reference": "Is 44:22"
     },
     {
@@ -1538,6 +2303,11 @@
       "kind": "name",
       "prompt": "Quem Deus chama de pastor para edificar Jerusalém?",
       "answer": "Ciro.",
+      "wrongs": [
+        "Dario.",
+        "Saul.",
+        "Acaz."
+      ],
       "reference": "Is 44:28"
     },
     {
@@ -1548,6 +2318,11 @@
       "kind": "place",
       "prompt": "Que cidade Ciro deveria mandar edificar?",
       "answer": "Jerusalém, e o templo receberia o alicerce.",
+      "wrongs": [
+        "Samaria, e o palácio receberia o muro.",
+        "Hebrom, e o altar receberia o fogo.",
+        "Laquis, e a porta receberia o ferrolho."
+      ],
       "reference": "Is 44:28"
     },
     {
@@ -1558,6 +2333,11 @@
       "kind": "curiosity",
       "prompt": "O que o homem faz com o resto da madeira, em Isaías?",
       "answer": "Esculpe um deus, ajoelha e pede que esse deus o livre.",
+      "wrongs": [
+        "Queima o resto no forno e não guarda nada.",
+        "Vende o resto no mercado e compra pão.",
+        "Enterra o resto no campo e planta trigo."
+      ],
       "reference": "Is 44:17"
     },
     {
@@ -1568,6 +2348,11 @@
       "kind": "subject",
       "prompt": "O que Deus jurou que toda pessoa faria, em Isaías?",
       "answer": "Dobrar o joelho e jurar lealdade com a língua.",
+      "wrongs": [
+        "Erguer o punho e negar lealdade com a boca.",
+        "Cobrir o rosto e guardar silêncio com a língua.",
+        "Virar as costas e jurar aliança com outro rei."
+      ],
       "reference": "Is 45:23"
     },
     {
@@ -1578,6 +2363,11 @@
       "kind": "name",
       "prompt": "Quem Deus ungiu para submeter nações e abrir portas, em Isaías?",
       "answer": "Ciro.",
+      "wrongs": [
+        "Dario.",
+        "Saul.",
+        "Acaz."
+      ],
       "reference": "Is 45:1"
     },
     {
@@ -1588,6 +2378,11 @@
       "kind": "place",
       "prompt": "Que povos virão presos e dirão que Deus está com Israel?",
       "answer": "Gente do Egito, de Cuxe e de Sabá.",
+      "wrongs": [
+        "Gente de Edom, de Moabe e de Amom.",
+        "Gente de Tiro, de Sidom e de Gaza.",
+        "Gente de Elão, da Média e de Javã."
+      ],
       "reference": "Is 45:14"
     },
     {
@@ -1598,6 +2393,11 @@
       "kind": "curiosity",
       "prompt": "O que Deus afirma formar e criar, em Isaías?",
       "answer": "A claridade e a escuridão, a paz e a desgraça.",
+      "wrongs": [
+        "Só a claridade e o dia, nunca a noite nem a dor.",
+        "A chuva e o orvalho, o trigo e a colheita.",
+        "O rei e o sacerdote, o altar e o incenso."
+      ],
       "reference": "Is 45:7"
     },
     {
@@ -1608,6 +2408,11 @@
       "kind": "subject",
       "prompt": "Até quando Deus promete carregar Israel?",
       "answer": "Até a velhice, quando os cabelos ficarem brancos.",
+      "wrongs": [
+        "Até a mocidade, quando os braços ficarem fortes.",
+        "Até o meio-dia, quando os campos ficarem quentes.",
+        "Até o inverno, quando os rios ficarem secos."
+      ],
       "reference": "Is 46:4"
     },
     {
@@ -1618,6 +2423,11 @@
       "kind": "name",
       "prompt": "Quais ídolos se curvam e são carregados por animais, em Isaías?",
       "answer": "Bel e Nebo.",
+      "wrongs": [
+        "Dagom e Baal.",
+        "Moloque e Quemos.",
+        "Ástarote e Milcom."
+      ],
       "reference": "Is 46:1"
     },
     {
@@ -1628,6 +2438,11 @@
       "kind": "place",
       "prompt": "Onde Deus diz que porá a salvação, em Isaías?",
       "answer": "Em Sião, e a glória será de Israel.",
+      "wrongs": [
+        "Em Samaria, e a glória será de Efraim.",
+        "Em Hebrom, e a glória será de Calebe.",
+        "Em Betel, e a glória será de José."
+      ],
       "reference": "Is 46:13"
     },
     {
@@ -1638,6 +2453,11 @@
       "kind": "curiosity",
       "prompt": "O que o ídolo carregado nos ombros não consegue fazer, em Isaías?",
       "answer": "Não sai do lugar, não responde e não livra da aflição.",
+      "wrongs": [
+        "Não come o pão, não bebe e não abre os olhos.",
+        "Não anda de dia, não dorme e não guarda a casa.",
+        "Não fala alto, não canta e não acende o fogo."
+      ],
       "reference": "Is 46:7"
     },
     {
@@ -1648,6 +2468,11 @@
       "kind": "subject",
       "prompt": "O que cairá sobre a Babilônia num único dia?",
       "answer": "A perda dos filhos e a viuvez, por tanta feitiçaria.",
+      "wrongs": [
+        "A volta dos exilados e a festa, por tanta riqueza.",
+        "A queda dos muros e o exílio, por tanta soberba.",
+        "A falta de chuva e a fome, por tanta idolatria."
+      ],
       "reference": "Is 47:9"
     },
     {
@@ -1658,6 +2483,11 @@
       "kind": "place",
       "prompt": "Onde a filha da Babilônia deve se sentar?",
       "answer": "No pó, porque o trono já não existe.",
+      "wrongs": [
+        "No trono, porque o cetro ainda permanece.",
+        "No muro, porque a cidade ainda resiste.",
+        "No rio, porque os navios ainda chegam."
+      ],
       "reference": "Is 47:1"
     },
     {
@@ -1668,6 +2498,11 @@
       "kind": "curiosity",
       "prompt": "A que ficam os adivinhos em quem a Babilônia confiou?",
       "answer": "Como palha que o fogo queima, sem salvar a própria vida.",
+      "wrongs": [
+        "Como ouro que o fogo apura, sem perder o brilho.",
+        "Como pedra que a água lava, sem sair do lugar.",
+        "Como cedro que o vento dobra, sem quebrar o tronco."
+      ],
       "reference": "Is 47:14"
     },
     {
@@ -1678,6 +2513,11 @@
       "kind": "subject",
       "prompt": "Que ordem Deus dá ao povo sobre a Babilônia?",
       "answer": "Sair de lá e anunciar que ele resgatou Jacó.",
+      "wrongs": [
+        "Ficar lá e calar que ele castigou Jacó.",
+        "Voltar lá e negar que ele chamou Jacó.",
+        "Cercar lá e esquecer que ele formou Jacó."
+      ],
       "reference": "Is 48:20"
     },
     {
@@ -1688,6 +2528,11 @@
       "kind": "curiosity",
       "prompt": "Em qual fornalha Deus diz que escolheu Israel?",
       "answer": "Na fornalha da aflição, sem refiná-lo como prata.",
+      "wrongs": [
+        "Na fornalha do ouro, sem prová-lo como ferro.",
+        "Na fornalha do templo, sem pesá-lo como incenso.",
+        "Na fornalha do deserto, sem guardá-lo como trigo."
+      ],
       "reference": "Is 48:10"
     },
     {
@@ -1698,6 +2543,11 @@
       "kind": "curiosity",
       "prompt": "O que Deus diz que os perversos não terão, quando Israel sair da Babilônia?",
       "answer": "Não haverá paz para eles.",
+      "wrongs": [
+        "Não haverá pão para eles.",
+        "Não haverá terra para eles.",
+        "Não haverá nome para eles."
+      ],
       "reference": "Is 48:22"
     },
     {
@@ -1708,6 +2558,11 @@
       "kind": "subject",
       "prompt": "O que Deus deu ao servo além de restaurar Israel?",
       "answer": "Ser luz das nações e salvação até o fim da terra.",
+      "wrongs": [
+        "Ser guarda das cidades e juiz até a fronteira.",
+        "Ser rei das tribos e general até o rio.",
+        "Ser sacerdote do templo e oferta até o altar."
+      ],
       "reference": "Is 49:6"
     },
     {
@@ -1718,6 +2573,11 @@
       "kind": "place",
       "prompt": "Além do norte e do ocidente, de onde mais virão os filhos, em Isaías?",
       "answer": "Da terra de Sinim.",
+      "wrongs": [
+        "Da terra de Uz.",
+        "Da terra de Patros.",
+        "Da terra de Javã."
+      ],
       "reference": "Is 49:12"
     },
     {
@@ -1728,6 +2588,11 @@
       "kind": "curiosity",
       "prompt": "Deus esqueceria Sião, ainda que uma mãe esquecesse o filho?",
       "answer": "Não, pois mesmo assim ele não a esqueceria.",
+      "wrongs": [
+        "Sim, pois nesse caso ele a deixaria.",
+        "Sim, pois o nome dela seria apagado.",
+        "Sim, pois outra cidade tomaria o lugar."
+      ],
       "reference": "Is 49:15"
     },
     {
@@ -1738,6 +2603,11 @@
       "kind": "curiosity",
       "prompt": "Onde Deus diz que escreveu Sião?",
       "answer": "Nas palmas das mãos dele.",
+      "wrongs": [
+        "Nas portas da cidade dele.",
+        "Nas tábuas da lei dele.",
+        "Nas vestes do sacerdote dele."
+      ],
       "reference": "Is 49:16"
     },
     {
@@ -1748,6 +2618,11 @@
       "kind": "subject",
       "prompt": "O que o servo ofereceu a quem o feria, em Isaías?",
       "answer": "As costas aos golpes e o rosto à humilhação e às cuspidas.",
+      "wrongs": [
+        "As mãos aos ídolos e o manto à festa e às coroas.",
+        "Os pés à fuga e o rosto ao deserto e às cavernas.",
+        "A voz ao canto e o ouvido ao elogio e às palmas."
+      ],
       "reference": "Is 50:6"
     },
     {
@@ -1758,6 +2633,11 @@
       "kind": "curiosity",
       "prompt": "A que o servo comparou o próprio rosto, em Isaías?",
       "answer": "A uma pedra muito dura, porque Deus o ajudava.",
+      "wrongs": [
+        "A uma nuvem bem leve, porque o povo o aplaudia.",
+        "A um espelho bem claro, porque o rei o honrava.",
+        "A uma porta bem larga, porque o templo o chamava."
+      ],
       "reference": "Is 50:7"
     },
     {
@@ -1768,6 +2648,11 @@
       "kind": "curiosity",
       "prompt": "O que recebe quem acende o próprio fogo e anda nele, em Isaías?",
       "answer": "Andará entre as chamas e jazerá em tormento.",
+      "wrongs": [
+        "Andará entre os muros e dormirá em paz.",
+        "Andará entre as vinhas e colherá sem medo.",
+        "Andará entre os cantores e viverá em festa."
+      ],
       "reference": "Is 50:11"
     },
     {
@@ -1778,6 +2663,11 @@
       "kind": "subject",
       "prompt": "A que Deus fará o deserto de Sião se parecer?",
       "answer": "Ao Éden e ao jardim de Deus, com alegria e canto.",
+      "wrongs": [
+        "Ao Sinai e ao acampamento de Israel, com trombeta e fumaça.",
+        "A Moabe e ao planalto de Edom, com silêncio e pó.",
+        "Ao Egito e ao campo de Zoã, com trabalho e tijolo."
+      ],
       "reference": "Is 51:3"
     },
     {
@@ -1788,6 +2678,11 @@
       "kind": "name",
       "prompt": "Para quem Deus manda o povo olhar como origem, em Isaías?",
       "answer": "Para Abraão, que estava só, e para Sara.",
+      "wrongs": [
+        "Para Noé, que estava na arca, e para a esposa dele.",
+        "Para Davi, que estava só, e para Bate-Seba.",
+        "Para Jacó, que estava em fuga, e para Raquel."
+      ],
       "reference": "Is 51:2"
     },
     {
@@ -1798,6 +2693,11 @@
       "kind": "curiosity",
       "prompt": "O que Deus tira da mão de Jerusalém?",
       "answer": "O cálice que a fazia cambalear, para ela não beber mais.",
+      "wrongs": [
+        "A taça que a fazia cantar, para ela beber todo dia.",
+        "O cajado que a fazia andar, para ela não cair mais.",
+        "O véu que a fazia chorar, para ela não olhar mais."
+      ],
       "reference": "Is 51:22"
     },
     {
@@ -1808,6 +2708,11 @@
       "kind": "subject",
       "prompt": "Que boa notícia o mensageiro anuncia a Sião?",
       "answer": "Paz e salvação, e que o Deus dela reina.",
+      "wrongs": [
+        "Guerra e despojo, e que o rei dela caiu.",
+        "Jejum e luto, e que o templo dela fechou.",
+        "Tributo e exílio, e que o Deus dela se calou."
+      ],
       "reference": "Is 52:7"
     },
     {
@@ -1818,6 +2723,11 @@
       "kind": "place",
       "prompt": "Para onde o povo de Deus desceu para viver como peregrino, em Isaías?",
       "answer": "Para o Egito.",
+      "wrongs": [
+        "Para a Assíria.",
+        "Para Moabe.",
+        "Para Cuxe."
+      ],
       "reference": "Is 52:4"
     },
     {
@@ -1828,6 +2738,11 @@
       "kind": "curiosity",
       "prompt": "Por quanto o povo de Sião será resgatado?",
       "answer": "Sem dinheiro, pois também foi entregue de graça.",
+      "wrongs": [
+        "Por muito ouro, pois também foi vendido caro.",
+        "Por sete anos de serviço, pois foi entregue assim.",
+        "Por um campo em Anatote, pois foi comprado à vista."
+      ],
       "reference": "Is 52:3"
     },
     {
@@ -1838,6 +2753,11 @@
       "kind": "curiosity",
       "prompt": "Como ficou o aspecto do servo diante das nações, em Isaías?",
       "answer": "Tão desfigurado que já não parecia um homem comum.",
+      "wrongs": [
+        "Tão coroado que já parecia um rei de muitas nações.",
+        "Tão coberto que já não se via o rosto nem as mãos.",
+        "Tão alto que já passava da porta do palácio."
+      ],
       "reference": "Is 52:14"
     },
     {
@@ -1848,6 +2768,11 @@
       "kind": "subject",
       "prompt": "Por que o servo foi ferido e esmagado, em Isaías?",
       "answer": "Pelas transgressões do povo, e pelas feridas dele houve cura.",
+      "wrongs": [
+        "Pelas vitórias do povo, e pelas festas dele houve paz.",
+        "Pelos reis da terra, e pelas coroas dele houve tributo.",
+        "Pelos muros da cidade, e pelas pedras dele houve abrigo."
+      ],
       "reference": "Is 53:5"
     },
     {
@@ -1858,6 +2783,11 @@
       "kind": "curiosity",
       "prompt": "Como o servo se portou ao ser levado à morte, em Isaías?",
       "answer": "Ficou calado, como ovelha muda na tosquia.",
+      "wrongs": [
+        "Gritou forte, como soldado na batalha.",
+        "Cantou alto, como levita no templo.",
+        "Pediu fuga, como mensageiro no cerco."
+      ],
       "reference": "Is 53:7"
     },
     {
@@ -1868,6 +2798,11 @@
       "kind": "curiosity",
       "prompt": "Com quem puseram a sepultura do servo, em Isaías?",
       "answer": "Com os perversos e com um homem rico.",
+      "wrongs": [
+        "Com os reis de Judá e com um sacerdote.",
+        "Com os pobres da cidade e com um estrangeiro.",
+        "Com os profetas antigos e com um levita."
+      ],
       "reference": "Is 53:9"
     },
     {
@@ -1878,6 +2813,11 @@
       "kind": "subject",
       "prompt": "A que Deus compara a paz que promete a Sião?",
       "answer": "Igual ao juramento de Noé: a terra não seria coberta de novo.",
+      "wrongs": [
+        "Igual à promessa de Abraão: a terra seria dada de novo.",
+        "Igual ao cântico de Moisés: o mar se abriria de novo.",
+        "Igual à aliança de Davi: o trono ficaria vazio de novo."
+      ],
       "reference": "Is 54:9"
     },
     {
@@ -1888,6 +2828,11 @@
       "kind": "name",
       "prompt": "Quem Deus cita ao jurar que não se irará mais com Sião?",
       "answer": "Noé.",
+      "wrongs": [
+        "Jó.",
+        "Ló.",
+        "Eli."
+      ],
       "reference": "Is 54:9"
     },
     {
@@ -1898,6 +2843,11 @@
       "kind": "curiosity",
       "prompt": "De que serão as portas da cidade oprimida, em Isaías?",
       "answer": "De carbúnculos, e os limites, de pedras preciosas.",
+      "wrongs": [
+        "De cedro, e os limites, de bronze batido.",
+        "De ferro, e os limites, de pedra comum.",
+        "De linho, e os limites, de cordas de tenda."
+      ],
       "reference": "Is 54:12"
     },
     {
@@ -1908,6 +2858,11 @@
       "kind": "curiosity",
       "prompt": "O que falha contra os servos de Deus, em Isaías?",
       "answer": "Nenhuma arma feita contra eles terá sucesso.",
+      "wrongs": [
+        "Nenhuma carta escrita contra eles será lida.",
+        "Nenhum muro erguido contra eles ficará de pé.",
+        "Nenhum tributo cobrado contra eles será pago."
+      ],
       "reference": "Is 54:17"
     },
     {
@@ -1918,6 +2873,11 @@
       "kind": "subject",
       "prompt": "O que Deus oferece a quem tem sede e não tem dinheiro, em Isaías?",
       "answer": "Água, vinho e leite, sem cobrar nada.",
+      "wrongs": [
+        "Pão, azeite e mel, pagando o dobro.",
+        "Ouro, prata e linho, com um contrato.",
+        "Carne, sal e trigo, só para os sacerdotes."
+      ],
       "reference": "Is 55:1"
     },
     {
@@ -1928,6 +2888,11 @@
       "kind": "name",
       "prompt": "De quem são as bondades da aliança eterna, em Isaías?",
       "answer": "De Davi.",
+      "wrongs": [
+        "De Moisés.",
+        "De Arão.",
+        "De Jessé."
+      ],
       "reference": "Is 55:3"
     },
     {
@@ -1938,6 +2903,11 @@
       "kind": "curiosity",
       "prompt": "O que crescerá no lugar do espinheiro e da urtiga, em Isaías?",
       "answer": "O cipreste e a murta, como sinal eterno.",
+      "wrongs": [
+        "O cardo e a urtiga, como aviso breve.",
+        "O trigo e a cevada, como paga anual.",
+        "A oliveira e a videira, como muro novo."
+      ],
       "reference": "Is 55:13"
     },
     {
@@ -1948,6 +2918,11 @@
       "kind": "subject",
       "prompt": "Como Deus quer que a casa dele seja chamada, em Isaías?",
       "answer": "Um lugar de oração aberto a todos os povos.",
+      "wrongs": [
+        "Um lugar de sacrifício fechado aos estrangeiros.",
+        "Um lugar de comércio aberto aos mercadores.",
+        "Um lugar de guerra reservado aos soldados."
+      ],
       "reference": "Is 56:7"
     },
     {
@@ -1958,6 +2933,11 @@
       "kind": "curiosity",
       "prompt": "O que os eunucos fiéis ao sábado ganham na casa de Deus, em Isaías?",
       "answer": "Um nome eterno, mais valioso que filhos e filhas.",
+      "wrongs": [
+        "Um campo largo, mais fértil que a herança do pai.",
+        "Um lugar no trono, mais alto que o dos príncipes.",
+        "Uma parte do altar, mais santa que a dos levitas."
+      ],
       "reference": "Is 56:5"
     },
     {
@@ -1968,6 +2948,11 @@
       "kind": "curiosity",
       "prompt": "Como Isaías descreve os vigilantes do povo?",
       "answer": "São cegos, como cães mudos que só querem dormir.",
+      "wrongs": [
+        "São águias, como sentinelas que nunca fecham os olhos.",
+        "São leões, como caçadores que rondam de noite.",
+        "São tochas, como vigias que alumiam a muralha."
+      ],
       "reference": "Is 56:10"
     },
     {
@@ -1978,6 +2963,11 @@
       "kind": "subject",
       "prompt": "Com quem habita o Deus alto, cujo nome é santo, em Isaías?",
       "answer": "Com o espírito abatido e o coração contrito, para os reviver.",
+      "wrongs": [
+        "Com o exército em ordem e o rei vitorioso, para os coroar.",
+        "Com o sacerdote no altar e o coro em festa, para os ouvir.",
+        "Com o rico na praça e o juiz no portão, para os pagar."
+      ],
       "reference": "Is 57:15"
     },
     {
@@ -1988,6 +2978,11 @@
       "kind": "curiosity",
       "prompt": "O que os idólatras sacrificavam nos vales, em Isaías?",
       "answer": "Os próprios filhos, debaixo dos penhascos.",
+      "wrongs": [
+        "Bois e carneiros, sobre os altares altos.",
+        "Incenso e farinha, debaixo dos carvalhos.",
+        "Ouro e prata, no meio das praças."
+      ],
       "reference": "Is 57:5"
     },
     {
@@ -1998,6 +2993,11 @@
       "kind": "curiosity",
       "prompt": "A que Deus compara os perversos que não têm paz, em Isaías?",
       "answer": "Ao mar agitado, que não consegue sossegar.",
+      "wrongs": [
+        "Ao rio parado, que não consegue correr.",
+        "Ao cedro firme, que não consegue vergar.",
+        "Ao poço coberto, que não consegue secar."
+      ],
       "reference": "Is 57:20"
     },
     {
@@ -2008,6 +3008,11 @@
       "kind": "subject",
       "prompt": "Qual jejum Deus escolhe, em Isaías?",
       "answer": "Soltar os oprimidos, desfazer as amarras e quebrar o jugo.",
+      "wrongs": [
+        "Dobrar os jejuns, rasgar o manto e cobrir a cabeça.",
+        "Fechar o mercado, apagar o fogo e guardar o sábado.",
+        "Oferecer bois, queimar incenso e pagar o dízimo."
+      ],
       "reference": "Is 58:6"
     },
     {
@@ -2018,6 +3023,11 @@
       "kind": "curiosity",
       "prompt": "O que Deus pede em favor do faminto e de quem está nu, em Isaías?",
       "answer": "Repartir o pão, acolher o pobre e cobrir o nu.",
+      "wrongs": [
+        "Guardar o pão, fechar a porta e deixar o nu.",
+        "Vender o trigo, cobrar a dívida e marcar o pobre.",
+        "Esconder o óleo, negar a água e cruzar a praça."
+      ],
       "reference": "Is 58:7"
     },
     {
@@ -2028,6 +3038,11 @@
       "kind": "curiosity",
       "prompt": "Como se deve tratar o sábado, segundo Isaías?",
       "answer": "Como dia agradável e santo, sem seguir a própria vontade.",
+      "wrongs": [
+        "Como dia comum e livre, para seguir o próprio caminho.",
+        "Como dia de feira e viagem, sem lembrar a casa de Deus.",
+        "Como dia de jejum e silêncio, só dentro de casa."
+      ],
       "reference": "Is 58:13"
     },
     {
@@ -2038,6 +3053,11 @@
       "kind": "subject",
       "prompt": "O que Deus fez quando viu que ninguém intercedia, em Isaías?",
       "answer": "O próprio braço dele trouxe a salvação.",
+      "wrongs": [
+        "Mandou um profeta de Judá buscar a paz.",
+        "Esperou um sacerdote do templo abrir o véu.",
+        "Chamou um rei estrangeiro para o julgamento."
+      ],
       "reference": "Is 59:16"
     },
     {
@@ -2048,6 +3068,11 @@
       "kind": "place",
       "prompt": "Para onde virá o Redentor de quem se arrepende?",
       "answer": "Para Sião, ao povo de Jacó que deixa a transgressão.",
+      "wrongs": [
+        "Para Samaria, ao povo de Efraim que deixa o bezerro.",
+        "Para Betel, ao povo de José que deixa o altar.",
+        "Para o Egito, ao povo de Jacó que deixa o Nilo."
+      ],
       "reference": "Is 59:20"
     },
     {
@@ -2058,6 +3083,11 @@
       "kind": "curiosity",
       "prompt": "Com que Deus se vestiu para agir, em Isaías?",
       "answer": "Com a justiça como armadura e o capacete da salvação.",
+      "wrongs": [
+        "Com a força como manto e a coroa da vitória.",
+        "Com o luto como capa e o cajado do pastor.",
+        "Com o linho como túnica e o turbante do sacerdote."
+      ],
       "reference": "Is 59:17"
     },
     {
@@ -2068,6 +3098,11 @@
       "kind": "subject",
       "prompt": "Quem virá quando a luz raiar sobre Sião?",
       "answer": "As nações e os reis, atraídos por essa claridade.",
+      "wrongs": [
+        "Só os sacerdotes e os levitas, chamados pelo toque.",
+        "Os exilados de Judá, trazidos por um decreto.",
+        "Os pastores do Neguebe, guiados por uma nuvem."
+      ],
       "reference": "Is 60:3"
     },
     {
@@ -2078,6 +3113,11 @@
       "kind": "place",
       "prompt": "Que navios trarão de longe os filhos de Sião?",
       "answer": "Os navios de Társis, com prata e ouro.",
+      "wrongs": [
+        "Os navios de Tiro, com cedro e linho.",
+        "Os navios de Quitim, com ferro e bronze.",
+        "Os navios do Egito, com trigo e linho."
+      ],
       "reference": "Is 60:9"
     },
     {
@@ -2088,6 +3128,11 @@
       "kind": "curiosity",
       "prompt": "Quando as portas de Sião ficarão fechadas?",
       "answer": "Nunca: permanecem abertas dia e noite.",
+      "wrongs": [
+        "Ao meio-dia: fecham quando o sol está alto.",
+        "No sábado: fecham do pôr do sol ao outro.",
+        "Na guerra: fecham até o inimigo ir embora."
+      ],
       "reference": "Is 60:11"
     },
     {
@@ -2098,6 +3143,11 @@
       "kind": "curiosity",
       "prompt": "O que iluminará Sião no lugar do sol e da lua?",
       "answer": "O próprio Deus, como luz que não se apaga.",
+      "wrongs": [
+        "O candelabro do templo, como chama que se apaga.",
+        "A tocha dos guardas, como fogo que se renova.",
+        "A lua cheia, como lâmpada que muda de fase."
+      ],
       "reference": "Is 60:19"
     },
     {
@@ -2108,6 +3158,11 @@
       "kind": "subject",
       "prompt": "Para que Deus ungiu o mensageiro, em Isaías?",
       "answer": "Para levar boa notícia aos mansos e liberdade aos presos.",
+      "wrongs": [
+        "Para levar sentença aos ricos e corrente aos devedores.",
+        "Para levar tributo aos reis e silêncio aos cantores.",
+        "Para levar luto aos sacerdotes e cinza aos altares."
+      ],
       "reference": "Is 61:1"
     },
     {
@@ -2118,6 +3173,11 @@
       "kind": "curiosity",
       "prompt": "Que tempo o ungido veio anunciar, em Isaías?",
       "answer": "Um ano de bondade de Deus e o dia em que ele vinga.",
+      "wrongs": [
+        "Um mês de colheita e o dia em que o povo descansa.",
+        "Um ano de guerra e o dia em que o rei parte.",
+        "Um século de exílio e o dia em que a cidade cai."
+      ],
       "reference": "Is 61:2"
     },
     {
@@ -2128,6 +3188,11 @@
       "kind": "curiosity",
       "prompt": "O que os tristes de Sião recebem no lugar da cinza?",
       "answer": "Enfeite, óleo de alegria e roupa de louvor.",
+      "wrongs": [
+        "Cinza, pano de saco e corda de prisioneiro.",
+        "Pão, água do poço e manto de viagem.",
+        "Coroa, cetro de ferro e capa de guerra."
+      ],
       "reference": "Is 61:3"
     },
     {
@@ -2138,6 +3203,11 @@
       "kind": "subject",
       "prompt": "Até quando Deus diz que não ficará calado por Sião?",
       "answer": "Até a justiça brilhar e a salvação arder como tocha.",
+      "wrongs": [
+        "Até o tributo cessar e o exército voltar para casa.",
+        "Até o muro cair e a porta ficar sem guarda.",
+        "Até o rei morrer e o nome dele ser esquecido."
+      ],
       "reference": "Is 62:1"
     },
     {
@@ -2148,6 +3218,11 @@
       "kind": "curiosity",
       "prompt": "Como Sião e a terra dela passarão a ser chamadas?",
       "answer": "Nela está meu prazer, e a terra, A casada.",
+      "wrongs": [
+        "Ninguém mora nela, e a terra, A abandonada.",
+        "O inimigo a tomou, e a terra, A queimada.",
+        "O exílio a esvaziou, e a terra, A sem nome."
+      ],
       "reference": "Is 62:4"
     },
     {
@@ -2158,6 +3233,11 @@
       "kind": "curiosity",
       "prompt": "O que os guardas dos muros de Jerusalém não farão?",
       "answer": "Não se calarão, nem de dia nem de noite.",
+      "wrongs": [
+        "Não subirão ao muro, nem de manhã nem de tarde.",
+        "Não abrirão a boca, nem na festa nem no jejum.",
+        "Não deixarão o posto, nem com fome nem com sede."
+      ],
       "reference": "Is 62:6"
     },
     {
@@ -2168,6 +3248,11 @@
       "kind": "subject",
       "prompt": "Como foi pisada a prensa no dia da vingança, em Isaías?",
       "answer": "Sozinho, e o sangue dos povos manchou a roupa dele.",
+      "wrongs": [
+        "Com aliados, e o azeite das nações perfumou a roupa dele.",
+        "De longe, e a poeira do caminho cobriu a roupa dele.",
+        "Em silêncio, e a chuva da noite lavou a roupa dele."
+      ],
       "reference": "Is 63:3"
     },
     {
@@ -2178,6 +3263,11 @@
       "kind": "name",
       "prompt": "Quem o povo chama de Pai, já que Abraão não o conhece?",
       "answer": "Deus, o Redentor desde os tempos antigos.",
+      "wrongs": [
+        "Abraão, o pai desde a terra de Ur.",
+        "Jacó, o pai desde a luta no vau.",
+        "Davi, o rei desde a casa de Belém."
+      ],
       "reference": "Is 63:16"
     },
     {
@@ -2188,6 +3278,11 @@
       "kind": "place",
       "prompt": "De onde vem o guerreiro de roupa vermelha, em Isaías?",
       "answer": "De Edom e de Bozra.",
+      "wrongs": [
+        "De Moabe e de Hesbom.",
+        "De Cuxe e de Seba.",
+        "De Elão e de Susã."
+      ],
       "reference": "Is 63:1"
     },
     {
@@ -2198,6 +3293,11 @@
       "kind": "curiosity",
       "prompt": "Quem salvou Israel nas angústias antigas, segundo Isaías?",
       "answer": "O anjo da presença de Deus.",
+      "wrongs": [
+        "O rei Davi, com o exército.",
+        "O profeta Moisés, com o cajado.",
+        "O sacerdote Arão, com o incenso."
+      ],
       "reference": "Is 63:9"
     },
     {
@@ -2208,6 +3308,11 @@
       "kind": "subject",
       "prompt": "O que o povo pede que Deus faça com os céus, em Isaías?",
       "answer": "Que os abra e desça, até os montes tremerem.",
+      "wrongs": [
+        "Que os feche e suba, até os mares secarem.",
+        "Que os pinte de ouro, até os reis se calarem.",
+        "Que os enrole como livro, até as cidades dormirem."
+      ],
       "reference": "Is 64:1"
     },
     {
@@ -2218,6 +3323,11 @@
       "kind": "place",
       "prompt": "O que o fogo fez com a casa em que os pais adoravam, em Isaías?",
       "answer": "Queimou a casa santa, e o que era precioso virou ruína.",
+      "wrongs": [
+        "Apagou a casa santa, e o que era precioso ficou de pé.",
+        "Molhou a casa santa, e o que era precioso foi guardado.",
+        "Fechou a casa santa, e o que era precioso foi vendido."
+      ],
       "reference": "Is 64:11"
     },
     {
@@ -2228,6 +3338,11 @@
       "kind": "curiosity",
       "prompt": "A que o povo compara as próprias justiças, em Isaías?",
       "answer": "A roupa contaminada, e a si mesmo a uma folha que cai.",
+      "wrongs": [
+        "A ouro puro, e a si mesmo a uma torre que fica.",
+        "A linho limpo, e a si mesmo a uma árvore que cresce.",
+        "A incenso fino, e a si mesmo a uma lâmpada acesa."
+      ],
       "reference": "Is 64:6"
     },
     {
@@ -2238,6 +3353,11 @@
       "kind": "curiosity",
       "prompt": "Como o povo se descreve ao chamar Deus de Pai, em Isaías?",
       "answer": "Eles são o barro, e Deus é o oleiro.",
+      "wrongs": [
+        "Eles são o ouro, e Deus é o ourives.",
+        "Eles são o rebanho, e Deus é o pastor.",
+        "Eles são a vinha, e Deus é o caseiro."
+      ],
       "reference": "Is 64:8"
     },
     {
@@ -2248,6 +3368,11 @@
       "kind": "subject",
       "prompt": "O que Deus diz que vai criar, em Isaías?",
       "answer": "Céus novos e uma terra nova, sem memória do passado.",
+      "wrongs": [
+        "Um templo novo e uma cidade nova, cheia de memória antiga.",
+        "Um rei novo e um sacerdócio novo, com a lei de Moisés.",
+        "Um exército novo e uma fronteira nova, sem porta aberta."
+      ],
       "reference": "Is 65:17"
     },
     {
@@ -2258,6 +3383,11 @@
       "kind": "place",
       "prompt": "Onde o rebanho do povo de Deus vai pastar e descansar, em Isaías?",
       "answer": "Em Sarom, as ovelhas, e no vale de Acor, o gado.",
+      "wrongs": [
+        "Em Basã, as ovelhas, e no Carmelo, o gado.",
+        "Em Gileade, as ovelhas, e no Jordão, o gado.",
+        "Em Moabe, as ovelhas, e no Arnom, o gado."
+      ],
       "reference": "Is 65:10"
     },
     {
@@ -2268,6 +3398,11 @@
       "kind": "curiosity",
       "prompt": "Com quantos anos morre quem ainda é jovem, em Isaías?",
       "answer": "Aos cem anos.",
+      "wrongs": [
+        "Aos vinte anos.",
+        "Aos quarenta anos.",
+        "Aos setenta anos."
+      ],
       "reference": "Is 65:20"
     },
     {
@@ -2278,6 +3413,11 @@
       "kind": "curiosity",
       "prompt": "O que o lobo e o cordeiro farão na nova terra, em Isaías?",
       "answer": "Vão comer juntos, e o leão come palha como o boi.",
+      "wrongs": [
+        "Vão se caçar, e o leão come carne como o lobo.",
+        "Vão se separar, e o leão bebe sangue como antes.",
+        "Vão dormir longe, e o leão guarda o rebanho de noite."
+      ],
       "reference": "Is 65:25"
     },
     {
@@ -2288,6 +3428,11 @@
       "kind": "subject",
       "prompt": "Como Deus promete consolar o povo em Jerusalém?",
       "answer": "Como uma mãe que acalma o próprio filho.",
+      "wrongs": [
+        "Como um rei que arma a própria tenda.",
+        "Como um juiz que abre o próprio tribunal.",
+        "Como um pastor que conta o próprio rebanho."
+      ],
       "reference": "Is 66:13"
     },
     {
@@ -2298,6 +3443,11 @@
       "kind": "place",
       "prompt": "Para onde as nações levarão os irmãos de Israel?",
       "answer": "Ao monte santo, em Jerusalém, como oferta a Deus.",
+      "wrongs": [
+        "Ao monte Sinai, no deserto, como despojo de guerra.",
+        "Ao monte Carmelo, em Samaria, como taxa do rei.",
+        "Ao monte Seir, em Edom, como gado tomado."
+      ],
       "reference": "Is 66:20"
     },
     {
@@ -2308,6 +3458,11 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo Sião levou para ter os filhos?",
       "answer": "Eles nasceram assim que o parto começou.",
+      "wrongs": [
+        "Eles nasceram depois de sete anos de espera.",
+        "Eles nasceram quando o exílio já tinha acabado.",
+        "Eles nasceram só na geração seguinte."
+      ],
       "reference": "Is 66:8"
     },
     {
@@ -2318,6 +3473,11 @@
       "kind": "curiosity",
       "prompt": "O que não acaba nos mortos que se rebelaram contra Deus, em Isaías?",
       "answer": "O verme segue vivo, e a chama deles não se apaga.",
+      "wrongs": [
+        "O nome segue escrito, e a cinza deles se apaga.",
+        "O túmulo segue fechado, e a memória deles acaba.",
+        "O pranto segue alto, e a cidade deles se levanta."
+      ],
       "reference": "Is 66:24"
     },
     {
@@ -2328,6 +3488,11 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Isaías?",
       "answer": "Isaías.",
+      "wrongs": [
+        "Jeremias.",
+        "Ezequiel.",
+        "Amós."
+      ],
       "reference": "Isaías"
     },
     {
@@ -2338,6 +3503,11 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Isaías?",
       "answer": "No século VIII antes de Cristo.",
+      "wrongs": [
+        "No século X antes de Cristo.",
+        "No século II antes de Cristo.",
+        "No século I antes de Cristo."
+      ],
       "reference": "Isaías"
     }
   ]

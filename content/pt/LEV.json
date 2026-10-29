@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que o sacerdote faz com o animal do holocausto, em Levítico?",
       "answer": "Queima o animal por inteiro no altar.",
-      "reference": "Lv 1:9"
+      "reference": "Lv 1:9",
+      "wrongs": [
+        "Devolve parte da carne a quem ofereceu.",
+        "Enterra o animal fora do acampamento.",
+        "Solta o animal vivo no deserto."
+      ]
     },
     {
       "id": "LEV.2.subject.1",
@@ -18,7 +23,12 @@
       "kind": "subject",
       "prompt": "De que se compõe a oferta de alimentos, em Levítico?",
       "answer": "De farinha boa, azeite e incenso.",
-      "reference": "Lv 2:1"
+      "reference": "Lv 2:1",
+      "wrongs": [
+        "De carne, sangue e vinho.",
+        "De mel, fermento e frutas.",
+        "De leite, ervas e mel."
+      ]
     },
     {
       "id": "LEV.3.subject.1",
@@ -28,7 +38,12 @@
       "kind": "subject",
       "prompt": "Como deve ser o animal do sacrifício pacífico, em Levítico?",
       "answer": "Pode ser macho ou fêmea, desde que não tenha defeito.",
-      "reference": "Lv 3:1"
+      "reference": "Lv 3:1",
+      "wrongs": [
+        "Tem de ser macho, mesmo com algum defeito.",
+        "Tem de ser fêmea, e pode ter defeito.",
+        "Pode ser qualquer animal, com ou sem defeito."
+      ]
     },
     {
       "id": "LEV.4.subject.1",
@@ -38,7 +53,12 @@
       "kind": "subject",
       "prompt": "O que o sacerdote ungido oferece pelo próprio pecado, em Levítico?",
       "answer": "Um bezerro sem defeito, para expiar esse pecado.",
-      "reference": "Lv 4:3"
+      "reference": "Lv 4:3",
+      "wrongs": [
+        "Um bode sem defeito, pela culpa do povo.",
+        "Duas rolas, se não houver cordeiro.",
+        "Um carneiro, só pelas coisas santas."
+      ]
     },
     {
       "id": "LEV.5.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Que animal se oferece pela falta nas coisas santas, em Levítico?",
       "answer": "Um carneiro sem defeito.",
-      "reference": "Lv 5:15"
+      "reference": "Lv 5:15",
+      "wrongs": [
+        "Um bezerro sem defeito.",
+        "Uma pomba, ou duas rolas.",
+        "Um bode com algum defeito."
+      ]
     },
     {
       "id": "LEV.6.subject.1",
@@ -58,7 +83,12 @@
       "kind": "subject",
       "prompt": "O que a lei exige do fogo no altar do holocausto, em Levítico?",
       "answer": "Que permaneça aceso e não seja apagado.",
-      "reference": "Lv 6:12"
+      "reference": "Lv 6:12",
+      "wrongs": [
+        "Que se apague ao pôr do sol.",
+        "Que só seja aceso no sábado.",
+        "Que seja trocado a cada manhã."
+      ]
     },
     {
       "id": "LEV.7.subject.1",
@@ -68,7 +98,12 @@
       "kind": "subject",
       "prompt": "Até quando se come a carne do sacrifício de gratidão, em Levítico?",
       "answer": "Somente no dia em que ela é oferecida.",
-      "reference": "Lv 7:15"
+      "reference": "Lv 7:15",
+      "wrongs": [
+        "Até o terceiro dia, sem falta.",
+        "Durante sete dias, no acampamento.",
+        "Só no dia seguinte, e não no mesmo dia."
+      ]
     },
     {
       "id": "LEV.8.subject.1",
@@ -78,7 +113,12 @@
       "kind": "subject",
       "prompt": "Quem Moisés santificou com azeite e sangue?",
       "answer": "Arão, os filhos dele e as roupas deles.",
-      "reference": "Lv 8:30"
+      "reference": "Lv 8:30",
+      "wrongs": [
+        "Só o povo, e os utensílios do altar.",
+        "Josué, os anciãos e as tendas.",
+        "Bezalel, Aoliabe e a arca."
+      ]
     },
     {
       "id": "LEV.9.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que o fogo vindo de Deus fez no altar de Arão?",
       "answer": "Consumiu a oferta queimada e a gordura.",
-      "reference": "Lv 9:24"
+      "reference": "Lv 9:24",
+      "wrongs": [
+        "Apagou o fogo que já estava ali.",
+        "Queimou Nadabe e Abiú naquele instante.",
+        "Só iluminou a tenda, sem tocar na oferta."
+      ]
     },
     {
       "id": "LEV.10.subject.1",
@@ -99,7 +144,12 @@
       "kind": "subject",
       "prompt": "O que houve com Nadabe e Abiú no santuário?",
       "answer": "Morreram queimados por um fogo que Deus não pediu.",
-      "reference": "Lv 10:1-2"
+      "reference": "Lv 10:1-2",
+      "wrongs": [
+        "Foram elogiados por trazer fogo novo.",
+        "Saíram vivos, só com a roupa queimada.",
+        "Perderam o sacerdócio e foram embora."
+      ]
     },
     {
       "id": "LEV.11.subject.1",
@@ -109,7 +159,12 @@
       "kind": "subject",
       "prompt": "Que animal da terra a lei permite comer, em Levítico?",
       "answer": "O que tem o casco fendido e rumina.",
-      "reference": "Lv 11:3"
+      "reference": "Lv 11:3",
+      "wrongs": [
+        "O que tem o casco inteiro e rumina.",
+        "O que rasteja e tem muitas patas.",
+        "O que tem casco fendido e não rumina."
+      ]
     },
     {
       "id": "LEV.12.subject.1",
@@ -119,7 +174,12 @@
       "kind": "subject",
       "prompt": "Por quantos dias a mãe fica impura após um menino, em Levítico?",
       "answer": "Sete dias.",
-      "reference": "Lv 12:2"
+      "reference": "Lv 12:2",
+      "wrongs": [
+        "Catorze dias.",
+        "Três dias.",
+        "Vinte e um dias."
+      ]
     },
     {
       "id": "LEV.13.subject.1",
@@ -130,7 +190,12 @@
       "kind": "subject",
       "prompt": "Onde o leproso mora enquanto está impuro, em Levítico?",
       "answer": "Sozinho, fora do acampamento.",
-      "reference": "Lv 13:45-46"
+      "reference": "Lv 13:45-46",
+      "wrongs": [
+        "Em casa, com a família.",
+        "No santuário, junto ao altar.",
+        "Na tenda do sacerdote."
+      ]
     },
     {
       "id": "LEV.14.subject.1",
@@ -140,7 +205,12 @@
       "kind": "subject",
       "prompt": "Para onde vai a ave viva na limpeza do leproso, em Levítico?",
       "answer": "É solta no campo.",
-      "reference": "Lv 14:7"
+      "reference": "Lv 14:7",
+      "wrongs": [
+        "É queimada no altar.",
+        "É guardada pelo sacerdote.",
+        "É morta junto à outra."
+      ]
     },
     {
       "id": "LEV.15.subject.1",
@@ -150,7 +220,12 @@
       "kind": "subject",
       "prompt": "O que o homem faz depois que o fluxo passa, antes de oferecer, em Levítico?",
       "answer": "Espera sete dias e lava a roupa e o corpo.",
-      "reference": "Lv 15:13"
+      "reference": "Lv 15:13",
+      "wrongs": [
+        "Oferece no mesmo dia, sem lavar nada.",
+        "Espera três dias e só troca a roupa.",
+        "Sai do acampamento e não volta mais."
+      ]
     },
     {
       "id": "LEV.16.subject.1",
@@ -160,7 +235,12 @@
       "kind": "subject",
       "prompt": "Para onde Arão envia o bode vivo da expiação?",
       "answer": "Ao deserto, depois de pôr nele as culpas do povo.",
-      "reference": "Lv 16:21"
+      "reference": "Lv 16:21",
+      "wrongs": [
+        "Ao altar, para ser queimado por inteiro.",
+        "Ao santuário, para ficar diante da arca.",
+        "À cidade, para o povo comer a carne."
+      ]
     },
     {
       "id": "LEV.17.subject.1",
@@ -170,7 +250,12 @@
       "kind": "subject",
       "prompt": "Por que o sangue serve de expiação no altar, em Levítico?",
       "answer": "Porque nele está a vida da carne.",
-      "reference": "Lv 17:11"
+      "reference": "Lv 17:11",
+      "wrongs": [
+        "Porque nele está a culpa do sacerdote.",
+        "Porque ele apaga o fogo do altar.",
+        "Porque ele vale mais do que o ouro."
+      ]
     },
     {
       "id": "LEV.18.subject.1",
@@ -180,7 +265,12 @@
       "kind": "subject",
       "prompt": "O que a lei proíbe com um parente próximo, em Levítico?",
       "answer": "É proibido ter relação sexual com essa pessoa.",
-      "reference": "Lv 18:6"
+      "reference": "Lv 18:6",
+      "wrongs": [
+        "É proibido sentar à mesa com essa pessoa.",
+        "É proibido herdar a terra dessa pessoa.",
+        "É proibido pronunciar o nome dessa pessoa."
+      ]
     },
     {
       "id": "LEV.19.subject.1",
@@ -190,7 +280,12 @@
       "kind": "subject",
       "prompt": "Como a lei manda tratar o próximo, em Levítico?",
       "answer": "Amar essa pessoa como a si mesmo.",
-      "reference": "Lv 19:18"
+      "reference": "Lv 19:18",
+      "wrongs": [
+        "Evitar essa pessoa, se for estrangeira.",
+        "Cobrar dessa pessoa o quanto quiser.",
+        "Atender essa pessoa só se for da família."
+      ]
     },
     {
       "id": "LEV.20.subject.1",
@@ -200,7 +295,12 @@
       "kind": "subject",
       "prompt": "Qual é a pena de quem entrega um filho a Moloque?",
       "answer": "A morte, e o povo o apedreja.",
-      "reference": "Lv 20:2"
+      "reference": "Lv 20:2",
+      "wrongs": [
+        "Uma multa, e o filho volta para casa.",
+        "O exílio, e a família perde a terra.",
+        "Sete dias impuro, e depois um bode."
+      ]
     },
     {
       "id": "LEV.21.subject.1",
@@ -211,7 +311,12 @@
       "kind": "subject",
       "prompt": "Por quem o sacerdote pode se contaminar, se alguém morrer, em Levítico?",
       "answer": "Só por um parente bem próximo.",
-      "reference": "Lv 21:1-2"
+      "reference": "Lv 21:1-2",
+      "wrongs": [
+        "Por qualquer pessoa do povo.",
+        "Por nenhum morto, nem da família.",
+        "Só por um estrangeiro de passagem."
+      ]
     },
     {
       "id": "LEV.22.subject.1",
@@ -221,7 +326,12 @@
       "kind": "subject",
       "prompt": "Qual oferta Deus recusa no sacrifício, em Levítico?",
       "answer": "A que tem algum defeito.",
-      "reference": "Lv 22:20"
+      "reference": "Lv 22:20",
+      "wrongs": [
+        "A que é sem defeito.",
+        "A que vem do rebanho.",
+        "A que é levada ao altar."
+      ]
     },
     {
       "id": "LEV.23.subject.1",
@@ -231,7 +341,12 @@
       "kind": "subject",
       "prompt": "O que se faz no sábado, o sétimo dia, em Levítico?",
       "answer": "Nenhum trabalho. É dia de descanso de Deus.",
-      "reference": "Lv 23:3"
+      "reference": "Lv 23:3",
+      "wrongs": [
+        "Jejum total. É dia sem comida.",
+        "Uma viagem. É dia de romaria.",
+        "A colheita. É dia de recolher o grão."
+      ]
     },
     {
       "id": "LEV.24.subject.1",
@@ -241,7 +356,12 @@
       "kind": "subject",
       "prompt": "Qual é a pena de quem insulta o nome de Deus, em Levítico?",
       "answer": "A morte, e todo o povo atira pedras.",
-      "reference": "Lv 24:16"
+      "reference": "Lv 24:16",
+      "wrongs": [
+        "Uma multa, e a pessoa sai livre.",
+        "Sete dias fora do acampamento.",
+        "A perda da herança, sem morte."
+      ]
     },
     {
       "id": "LEV.25.subject.1",
@@ -251,7 +371,12 @@
       "kind": "subject",
       "prompt": "O que se proclama no jubileu, o ano cinquenta, em Levítico?",
       "answer": "Liberdade na terra, e cada família volta ao seu lugar.",
-      "reference": "Lv 25:10"
+      "reference": "Lv 25:10",
+      "wrongs": [
+        "Guerra santa, e o povo sai para lutar.",
+        "Um novo rei, e a terra muda de dono.",
+        "Silêncio total, e ninguém volta para casa."
+      ]
     },
     {
       "id": "LEV.26.subject.1",
@@ -262,7 +387,12 @@
       "kind": "subject",
       "prompt": "O que Deus envia do céu se o povo guardar os mandamentos, em Levítico?",
       "answer": "Chuva no tempo certo, e a terra dá fruto.",
-      "reference": "Lv 26:3-4"
+      "reference": "Lv 26:3-4",
+      "wrongs": [
+        "Seca o ano todo, e a terra se cala.",
+        "Granizo e fogo, e a colheita se perde.",
+        "Trevas ao meio-dia, e o céu se fecha."
+      ]
     },
     {
       "id": "LEV.27.subject.1",
@@ -272,7 +402,12 @@
       "kind": "subject",
       "prompt": "Como se resgata quem foi dedicado a Deus num voto, em Levítico?",
       "answer": "Paga-se o valor em que a pessoa foi avaliada.",
-      "reference": "Lv 27:2"
+      "reference": "Lv 27:2",
+      "wrongs": [
+        "A pessoa fica no santuário para sempre.",
+        "Oferece-se outro animal no lugar dela.",
+        "O voto não pode ser desfeito de modo algum."
+      ]
     },
     {
       "id": "LEV.0.curiosity.1",
@@ -282,7 +417,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Levítico?",
       "answer": "Moisés.",
-      "reference": "Levítico"
+      "reference": "Levítico",
+      "wrongs": [
+        "Josué.",
+        "Esdras.",
+        "Davi."
+      ]
     },
     {
       "id": "LEV.0.curiosity.2",
@@ -292,7 +432,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Levítico?",
       "answer": "No século XV antes de Cristo.",
-      "reference": "Levítico"
+      "reference": "Levítico",
+      "wrongs": [
+        "No século X antes de Cristo.",
+        "No século V antes de Cristo.",
+        "No século I depois de Cristo."
+      ]
     }
   ]
 }

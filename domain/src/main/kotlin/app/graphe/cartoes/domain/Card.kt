@@ -29,6 +29,7 @@ data class Card(
     val prompt: String,
     val answer: String,
     val reference: String,
+    val wrongs: List<String> = emptyList(),
 )
 
 @Serializable

@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Para que Deus consola na aflição?",
       "answer": "Para a pessoa consolar também quem sofre.",
-      "reference": "2Co 1:4"
+      "reference": "2Co 1:4",
+      "wrongs": [
+        "Para a pessoa merecer o fim do sofrimento.",
+        "Para a pessoa guardar a dor só para si.",
+        "Para a pessoa provar que a fé evita a aflição."
+      ]
     },
     {
       "id": "2CO.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem está com Paulo na saudação da segunda carta a Corinto?",
       "answer": "O irmão Timóteo.",
-      "reference": "2Co 1:1"
+      "reference": "2Co 1:1",
+      "wrongs": [
+        "O irmão Tito.",
+        "O irmão Silas.",
+        "O irmão Lucas."
+      ]
     },
     {
       "id": "2CO.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Em que região Paulo sofreu até perder a esperança de viver?",
       "answer": "Na Ásia.",
-      "reference": "2Co 1:8"
+      "reference": "2Co 1:8",
+      "wrongs": [
+        "Na Macedônia.",
+        "Na Acaia.",
+        "Na Galileia."
+      ]
     },
     {
       "id": "2CO.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Por que Paulo já se via condenado à morte?",
       "answer": "Para confiar em Deus, que levanta os mortos, e não em si.",
-      "reference": "2Co 1:9"
+      "reference": "2Co 1:9",
+      "wrongs": [
+        "Para desistir da viagem e voltar a Tarso.",
+        "Para pagar uma dívida antiga com a sinagoga.",
+        "Para mostrar que o sofrimento não tem sentido."
+      ]
     },
     {
       "id": "2CO.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que Paulo manda fazer para a tristeza não engolir a pessoa?",
       "answer": "Perdoar e consolar.",
-      "reference": "2Co 2:7"
+      "reference": "2Co 2:7",
+      "wrongs": [
+        "Punir de novo e afastar.",
+        "Cobrar a dívida e expor.",
+        "Esquecer o caso e calar."
+      ]
     },
     {
       "id": "2CO.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "A ausência de quem tirou o sossego de Paulo?",
       "answer": "Do irmão Tito.",
-      "reference": "2Co 2:13"
+      "reference": "2Co 2:13",
+      "wrongs": [
+        "Do irmão Timóteo.",
+        "Do irmão Silas.",
+        "Do irmão Barnabé."
+      ]
     },
     {
       "id": "2CO.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Aonde Paulo foi anunciar Cristo e achou uma porta aberta?",
       "answer": "A Troas.",
-      "reference": "2Co 2:12"
+      "reference": "2Co 2:12",
+      "wrongs": [
+        "A Filipos.",
+        "A Éfeso.",
+        "A Corinto."
+      ]
     },
     {
       "id": "2CO.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Que cheiro Paulo diz que o grupo dele é diante de Deus?",
       "answer": "O aroma de Cristo, para quem se salva e para quem se perde.",
-      "reference": "2Co 2:15"
+      "reference": "2Co 2:15",
+      "wrongs": [
+        "O cheiro do incenso, só dentro do templo.",
+        "O odor da morte, sem notícia de vida.",
+        "O perfume da lei, que agrada a quem a cumpre."
+      ]
     },
     {
       "id": "2CO.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "A letra e o Espírito agem do mesmo jeito?",
       "answer": "Não. A letra mata, e o Espírito dá vida.",
-      "reference": "2Co 3:6"
+      "reference": "2Co 3:6",
+      "wrongs": [
+        "Sim. As duas condenam do mesmo modo.",
+        "Sim. A letra vivifica, e o Espírito acusa.",
+        "Não. A letra salva, e o Espírito só ilustra."
+      ]
     },
     {
       "id": "2CO.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "No rosto de quem os israelitas não podiam fitar o brilho?",
       "answer": "De Moisés.",
-      "reference": "2Co 3:7"
+      "reference": "2Co 3:7",
+      "wrongs": [
+        "De Arão.",
+        "De Elias.",
+        "De Davi."
+      ]
     },
     {
       "id": "2CO.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Com que a carta de Cristo foi escrita?",
       "answer": "Com o Espírito do Deus vivo, no coração, e não com tinta.",
-      "reference": "2Co 3:3"
+      "reference": "2Co 3:3",
+      "wrongs": [
+        "Com tinta e pena, num pergaminho lacrado.",
+        "Com cinzel, nas tábuas de pedra de Moisés.",
+        "Com o sangue de animais, na porta do templo."
+      ]
     },
     {
       "id": "2CO.4.subject.1",
@@ -118,7 +173,12 @@
       "kind": "subject",
       "prompt": "Em que vaso Paulo diz que o tesouro está?",
       "answer": "Em vaso de barro, para o poder ser de Deus, e não de quem o leva.",
-      "reference": "2Co 4:7"
+      "reference": "2Co 4:7",
+      "wrongs": [
+        "Em vaso de ouro, para a força parecer de quem o leva.",
+        "Numa arca de pedra, guardada só no templo.",
+        "Num cofre romano, longe de quem sofre."
+      ]
     },
     {
       "id": "2CO.4.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "As aflições esmagam Paulo?",
       "answer": "Não. Ele sofre aperto, mas não chega a ser esmagado.",
-      "reference": "2Co 4:8"
+      "reference": "2Co 4:8",
+      "wrongs": [
+        "Sim. A aflição o derruba, e ele não se levanta.",
+        "Sim. Ele fica preso, sem nenhuma saída.",
+        "Não. Ele não sofre aperto nenhum."
+      ]
     },
     {
       "id": "2CO.4.curiosity.2",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "O que a aflição leve de agora produz?",
       "answer": "Um peso de glória que dura para sempre.",
-      "reference": "2Co 4:17"
+      "reference": "2Co 4:17",
+      "wrongs": [
+        "Uma culpa que só aumenta com o tempo.",
+        "Um descanso breve, que acaba nesta vida.",
+        "Uma fama entre os irmãos, que logo passa."
+      ]
     },
     {
       "id": "2CO.5.subject.1",
@@ -148,7 +218,12 @@
       "kind": "subject",
       "prompt": "O que alguém se torna em Cristo?",
       "answer": "Uma nova criatura. O velho foi embora, e tudo ficou novo.",
-      "reference": "2Co 5:17"
+      "reference": "2Co 5:17",
+      "wrongs": [
+        "A mesma pessoa. Só muda o nome na igreja.",
+        "Um anjo. O corpo fica para trás.",
+        "Um juiz. Ela passa a condenar os outros."
+      ]
     },
     {
       "id": "2CO.5.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Que casa resta se a tenda da terra se desfizer?",
       "answer": "Uma morada eterna no céu, de Deus, sem mão humana.",
-      "reference": "2Co 5:1"
+      "reference": "2Co 5:1",
+      "wrongs": [
+        "Outra tenda na terra, feita por pedreiros.",
+        "O sepulcro da família, cavado na rocha.",
+        "O templo de Jerusalém, reconstruído por mãos."
+      ]
     },
     {
       "id": "2CO.5.curiosity.2",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "Diante de quem todos vão aparecer?",
       "answer": "Do tribunal de Cristo, para receber o bem ou o mal feito no corpo.",
-      "reference": "2Co 5:10"
+      "reference": "2Co 5:10",
+      "wrongs": [
+        "Do tribunal de César, para receber pena ou perdão romano.",
+        "Do trono de Moisés, para ser medido só pela lei.",
+        "De nenhum tribunal. O corpo não será julgado."
+      ]
     },
     {
       "id": "2CO.6.subject.1",
@@ -178,7 +263,12 @@
       "kind": "subject",
       "prompt": "Quem crê pode puxar a mesma canga com quem não crê?",
       "answer": "Não. Justiça não faz par com injustiça.",
-      "reference": "2Co 6:14"
+      "reference": "2Co 6:14",
+      "wrongs": [
+        "Sim. A fé e a incredulidade caminham juntas.",
+        "Sim. O crente deve imitar quem não crê.",
+        "Não. Os dois já são um só povo."
+      ]
     },
     {
       "id": "2CO.6.name.1",
@@ -188,7 +278,12 @@
       "kind": "name",
       "prompt": "Com quem Cristo não tem acordo?",
       "answer": "Com Belial.",
-      "reference": "2Co 6:15"
+      "reference": "2Co 6:15",
+      "wrongs": [
+        "Com Moisés.",
+        "Com Pedro.",
+        "Com César."
+      ]
     },
     {
       "id": "2CO.6.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Que tempo Paulo diz que é agora?",
       "answer": "O dia da salvação, a hora em que Deus atende.",
-      "reference": "2Co 6:2"
+      "reference": "2Co 6:2",
+      "wrongs": [
+        "O dia da vingança, a hora em que Roma cai.",
+        "O sábado eterno, a hora em que a lei cessa.",
+        "O ano do jubileu, a hora de recuperar a terra."
+      ]
     },
     {
       "id": "2CO.7.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "A tristeza que vem de Deus e a do mundo dão no mesmo?",
       "answer": "Não. A de Deus leva a uma mudança que salva; a do mundo, à morte.",
-      "reference": "2Co 7:10"
+      "reference": "2Co 7:10",
+      "wrongs": [
+        "Sim. As duas terminam em desespero.",
+        "Sim. A do mundo salva, e a de Deus mata.",
+        "Não. As duas são inúteis e não mudam nada."
+      ]
     },
     {
       "id": "2CO.7.name.1",
@@ -218,7 +323,12 @@
       "kind": "name",
       "prompt": "Com a chegada de quem Deus animou Paulo?",
       "answer": "De Tito.",
-      "reference": "2Co 7:6"
+      "reference": "2Co 7:6",
+      "wrongs": [
+        "De Timóteo.",
+        "De Silas.",
+        "De Apolo."
+      ]
     },
     {
       "id": "2CO.7.place.1",
@@ -228,7 +338,12 @@
       "kind": "place",
       "prompt": "Onde Paulo chegou sem descanso, com luta fora e medo dentro?",
       "answer": "Na Macedônia.",
-      "reference": "2Co 7:5"
+      "reference": "2Co 7:5",
+      "wrongs": [
+        "Na Acaia.",
+        "Na Ásia.",
+        "Na Judeia."
+      ]
     },
     {
       "id": "2CO.8.subject.1",
@@ -238,7 +353,12 @@
       "kind": "subject",
       "prompt": "Por que Jesus, rico, escolheu ficar pobre?",
       "answer": "Para que a pobreza dele enriquecesse os outros.",
-      "reference": "2Co 8:9"
+      "reference": "2Co 8:9",
+      "wrongs": [
+        "Para dar exemplo de jejum aos discípulos.",
+        "Para fugir do trono que lhe ofereciam.",
+        "Para pagar a dívida da lei no lugar de Moisés."
+      ]
     },
     {
       "id": "2CO.8.name.1",
@@ -248,7 +368,12 @@
       "kind": "name",
       "prompt": "No coração de quem Deus pôs o mesmo cuidado pelos coríntios?",
       "answer": "De Tito.",
-      "reference": "2Co 8:16"
+      "reference": "2Co 8:16",
+      "wrongs": [
+        "De Timóteo.",
+        "De Lucas.",
+        "De Tíquico."
+      ]
     },
     {
       "id": "2CO.8.place.1",
@@ -259,7 +384,12 @@
       "kind": "place",
       "prompt": "Quem deu com alegria mesmo sendo muito pobre?",
       "answer": "As igrejas da Macedônia.",
-      "reference": "2Co 8:1-2"
+      "reference": "2Co 8:1-2",
+      "wrongs": [
+        "As igrejas da Judeia.",
+        "As igrejas da Galácia.",
+        "As igrejas de Roma."
+      ]
     },
     {
       "id": "2CO.8.curiosity.1",
@@ -269,7 +399,12 @@
       "kind": "curiosity",
       "prompt": "A doação é julgada pelo que a pessoa não tem?",
       "answer": "Não. Se há boa vontade, vale o que ela tem.",
-      "reference": "2Co 8:12"
+      "reference": "2Co 8:12",
+      "wrongs": [
+        "Sim. Deus cobra também o que falta.",
+        "Sim. Só vale a oferta grande, de quem é rico.",
+        "Não. A boa vontade dispensa qualquer oferta."
+      ]
     },
     {
       "id": "2CO.9.subject.1",
@@ -279,7 +414,12 @@
       "kind": "subject",
       "prompt": "Como a oferta agrada a Deus?",
       "answer": "Quando a pessoa dá com alegria, de coração, sem tristeza nem obrigação.",
-      "reference": "2Co 9:7"
+      "reference": "2Co 9:7",
+      "wrongs": [
+        "Quando a pessoa dá por vergonha, diante dos outros.",
+        "Quando a pessoa dá para receber o dobro de volta.",
+        "Quando a pessoa dá o que dói, mesmo sem querer."
+      ]
     },
     {
       "id": "2CO.9.place.1",
@@ -289,7 +429,12 @@
       "kind": "place",
       "prompt": "Qual região já estava pronta para ofertar desde o ano anterior?",
       "answer": "A Acaia.",
-      "reference": "2Co 9:2"
+      "reference": "2Co 9:2",
+      "wrongs": [
+        "A Macedônia.",
+        "A Síria.",
+        "A Galileia."
+      ]
     },
     {
       "id": "2CO.9.curiosity.1",
@@ -299,7 +444,12 @@
       "kind": "curiosity",
       "prompt": "Quem planta pouco colhe quanto?",
       "answer": "Pouco. Quem planta bastante também colhe bastante.",
-      "reference": "2Co 9:6"
+      "reference": "2Co 9:6",
+      "wrongs": [
+        "Muito. A colheita não depende do que se planta.",
+        "Nada. A terra devolve só o que Deus quer, sem regra.",
+        "O mesmo que o vizinho, seja qual for a semente."
+      ]
     },
     {
       "id": "2CO.10.subject.1",
@@ -309,7 +459,12 @@
       "kind": "subject",
       "prompt": "As armas da batalha de Paulo são humanas?",
       "answer": "Não. São fortes em Deus e derrubam fortalezas.",
-      "reference": "2Co 10:4"
+      "reference": "2Co 10:4",
+      "wrongs": [
+        "Sim. São espadas, lanças e muros de cidade.",
+        "Sim. São discursos que vencem no tribunal.",
+        "Não. São fracas, e a luta fica só nas palavras."
+      ]
     },
     {
       "id": "2CO.10.curiosity.1",
@@ -319,7 +474,12 @@
       "kind": "curiosity",
       "prompt": "O que diziam das cartas de Paulo e da presença dele?",
       "answer": "As cartas pesavam e eram fortes; o corpo era fraco e a fala sem valor.",
-      "reference": "2Co 10:10"
+      "reference": "2Co 10:10",
+      "wrongs": [
+        "As cartas eram leves; o corpo impunha medo e a fala arrastava.",
+        "As cartas e a presença tinham o mesmo peso.",
+        "Ninguém comentava as cartas nem a presença dele."
+      ]
     },
     {
       "id": "2CO.10.curiosity.2",
@@ -329,7 +489,12 @@
       "kind": "curiosity",
       "prompt": "Quem chegou primeiro com a boa notícia de Cristo a Corinto?",
       "answer": "Paulo e quem estava com ele.",
-      "reference": "2Co 10:14"
+      "reference": "2Co 10:14",
+      "wrongs": [
+        "Pedro e os doze, antes de Paulo.",
+        "Apolo, sozinho, vindo de Alexandria.",
+        "Os profetas de Israel, numa visita antiga."
+      ]
     },
     {
       "id": "2CO.11.subject.1",
@@ -339,7 +504,12 @@
       "kind": "subject",
       "prompt": "De que forma Satanás se disfarça?",
       "answer": "De anjo de luz.",
-      "reference": "2Co 11:14"
+      "reference": "2Co 11:14",
+      "wrongs": [
+        "De cordeiro ferido.",
+        "De profeta antigo.",
+        "De sumo sacerdote."
+      ]
     },
     {
       "id": "2CO.11.name.1",
@@ -349,7 +519,12 @@
       "kind": "name",
       "prompt": "Quem a serpente enganou, no aviso de Paulo?",
       "answer": "Eva.",
-      "reference": "2Co 11:3"
+      "reference": "2Co 11:3",
+      "wrongs": [
+        "Sara.",
+        "Maria.",
+        "Rebeca."
+      ]
     },
     {
       "id": "2CO.11.place.1",
@@ -359,7 +534,12 @@
       "kind": "place",
       "prompt": "Em que cidade o governador do rei Aretas quis prender Paulo?",
       "answer": "Em Damasco.",
-      "reference": "2Co 11:32"
+      "reference": "2Co 11:32",
+      "wrongs": [
+        "Em Jerusalém.",
+        "Em Antioquia.",
+        "Em Tarso."
+      ]
     },
     {
       "id": "2CO.11.curiosity.1",
@@ -369,7 +549,12 @@
       "kind": "curiosity",
       "prompt": "Quantas vezes Paulo levou dos judeus quarenta açoites menos um?",
       "answer": "Cinco vezes.",
-      "reference": "2Co 11:24"
+      "reference": "2Co 11:24",
+      "wrongs": [
+        "Três vezes.",
+        "Sete vezes.",
+        "Uma vez só."
+      ]
     },
     {
       "id": "2CO.11.curiosity.2",
@@ -379,7 +564,12 @@
       "kind": "curiosity",
       "prompt": "Como Paulo saiu pela muralha?",
       "answer": "Num cesto, descido por uma janela.",
-      "reference": "2Co 11:33"
+      "reference": "2Co 11:33",
+      "wrongs": [
+        "A cavalo, pela porta da cidade.",
+        "Num barco, de noite, pelo rio.",
+        "Disfarçado de soldado, entre a guarda."
+      ]
     },
     {
       "id": "2CO.12.subject.1",
@@ -389,7 +579,12 @@
       "kind": "subject",
       "prompt": "O que Paulo ouviu sobre graça e fraqueza?",
       "answer": "A graça basta, e o poder fica completo na fraqueza.",
-      "reference": "2Co 12:9"
+      "reference": "2Co 12:9",
+      "wrongs": [
+        "A força humana basta, e a fraqueza atrapalha.",
+        "A graça falta, e só o milagre resolve.",
+        "O espinho sai, e então o poder aparece."
+      ]
     },
     {
       "id": "2CO.12.place.1",
@@ -399,7 +594,12 @@
       "kind": "place",
       "prompt": "Para onde Paulo foi levado, catorze anos antes?",
       "answer": "Para o terceiro céu.",
-      "reference": "2Co 12:2"
+      "reference": "2Co 12:2",
+      "wrongs": [
+        "Para o monte Sinai.",
+        "Para o templo em Jerusalém.",
+        "Para o primeiro céu, o das nuvens."
+      ]
     },
     {
       "id": "2CO.12.curiosity.1",
@@ -409,7 +609,12 @@
       "kind": "curiosity",
       "prompt": "O que foi dado a Paulo para ele não se encher de orgulho?",
       "answer": "Um espinho na carne, um enviado de Satanás, para o atormentar.",
-      "reference": "2Co 12:7"
+      "reference": "2Co 12:7",
+      "wrongs": [
+        "Uma coroa de ouro, para lembrar a visão.",
+        "Um anjo da guarda, para afastá-lo de toda dor.",
+        "Uma doença dos coríntios, passada a ele na visita."
+      ]
     },
     {
       "id": "2CO.12.curiosity.2",
@@ -419,7 +624,12 @@
       "kind": "curiosity",
       "prompt": "Quantas vezes Paulo orou para o tormento se afastar?",
       "answer": "Três vezes.",
-      "reference": "2Co 12:8"
+      "reference": "2Co 12:8",
+      "wrongs": [
+        "Uma vez.",
+        "Sete vezes.",
+        "Doze vezes."
+      ]
     },
     {
       "id": "2CO.13.subject.1",
@@ -429,7 +639,12 @@
       "kind": "subject",
       "prompt": "O que a igreja deve examinar em si?",
       "answer": "Se está na fé, e se Jesus Cristo está nela.",
-      "reference": "2Co 13:5"
+      "reference": "2Co 13:5",
+      "wrongs": [
+        "Se os dons aparecem, e se a oferta aumentou.",
+        "Se a lei é cumprida, e se o sábado é guardado.",
+        "Se o número cresce, e se a cidade a respeita."
+      ]
     },
     {
       "id": "2CO.13.curiosity.1",
@@ -439,7 +654,12 @@
       "kind": "curiosity",
       "prompt": "Pela quanta vez Paulo diz que vai a Corinto?",
       "answer": "Pela terceira.",
-      "reference": "2Co 13:1"
+      "reference": "2Co 13:1",
+      "wrongs": [
+        "Pela segunda.",
+        "Pela primeira.",
+        "Pela sétima."
+      ]
     },
     {
       "id": "2CO.13.curiosity.2",
@@ -449,7 +669,12 @@
       "kind": "curiosity",
       "prompt": "Quantas testemunhas firmam uma palavra, na regra que Paulo cita?",
       "answer": "Duas ou três.",
-      "reference": "2Co 13:1"
+      "reference": "2Co 13:1",
+      "wrongs": [
+        "Uma só.",
+        "Sete.",
+        "Doze."
+      ]
     },
     {
       "id": "2CO.0.curiosity.1",
@@ -459,7 +684,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 2 Coríntios?",
       "answer": "Paulo.",
-      "reference": "2 Coríntios"
+      "reference": "2 Coríntios",
+      "wrongs": [
+        "Pedro.",
+        "Apolo.",
+        "Lucas."
+      ]
     },
     {
       "id": "2CO.0.curiosity.2",
@@ -469,7 +699,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 2 Coríntios?",
       "answer": "Por volta do ano 56.",
-      "reference": "2 Coríntios"
+      "reference": "2 Coríntios",
+      "wrongs": [
+        "Por volta do ano 49.",
+        "Por volta do ano 63.",
+        "Por volta do ano 70."
+      ]
     },
     {
       "id": "2CO.0.curiosity.3",
@@ -479,7 +714,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu 2 Coríntios?",
       "answer": "Para a igreja em Corinto e os santos da Acaia.",
-      "reference": "2Co 1:1"
+      "reference": "2Co 1:1",
+      "wrongs": [
+        "Para a igreja em Éfeso e os santos da Ásia.",
+        "Para a igreja em Filipos e os santos da Macedônia.",
+        "Para a igreja em Roma e os santos da Itália."
+      ]
     }
   ]
 }

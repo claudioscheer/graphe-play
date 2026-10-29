@@ -16,11 +16,12 @@ fun validateCards(
     cards: List<Card>,
     requireEveryChapter: Boolean = false,
     requireBookAbout: Boolean = false,
+    requireWrongs: Boolean = false,
 ): List<CardProblem> {
     val problems = mutableListOf<CardProblem>()
     val seen = mutableSetOf<String>()
     for (card in cards) {
-        problems += problemsFor(card, seen)
+        problems += problemsFor(card, seen, requireWrongs)
     }
     val byBook = cards.groupBy { it.bookNumber }
     val checkAbout = requireBookAbout || requireEveryChapter
@@ -46,7 +47,11 @@ fun validateCards(
     return problems
 }
 
-private fun problemsFor(card: Card, seen: MutableSet<String>): List<CardProblem> {
+private fun problemsFor(
+    card: Card,
+    seen: MutableSet<String>,
+    requireWrongs: Boolean,
+): List<CardProblem> {
     val problems = mutableListOf<CardProblem>()
     fun problem(message: String) {
         problems += CardProblem(card.id, message)
@@ -54,6 +59,7 @@ private fun problemsFor(card: Card, seen: MutableSet<String>): List<CardProblem>
     if (!seen.add(card.id)) {
         problem("id repetido.")
     }
+    checkWrongs(card, ::problem, requireWrongs)
     if (card.bookNumber == HISTORY_BOOK_NUMBER) {
         problems += historyProblems(card)
         return problems
@@ -127,6 +133,29 @@ private fun historyProblems(card: Card): List<CardProblem> {
         problem("referência de história com ${card.reference.length} caracteres.")
     }
     return problems
+}
+
+private fun checkWrongs(card: Card, problem: (String) -> Unit, required: Boolean) {
+    if (card.wrongs.isEmpty() && !required) {
+        return
+    }
+    if (card.wrongs.size != 3) {
+        problem("precisa de 3 respostas erradas.")
+        return
+    }
+    val seen = mutableSetOf(card.answer)
+    for (wrong in card.wrongs) {
+        if (wrong.isBlank()) {
+            problem("resposta errada vazia.")
+        } else if (wrong.length > MAX_ANSWER_LENGTH) {
+            problem("resposta errada com ${wrong.length} caracteres (máximo $MAX_ANSWER_LENGTH).")
+        } else if (!wrong.endsWith(".")) {
+            problem("resposta errada precisa terminar com ponto.")
+        }
+        if (!seen.add(wrong)) {
+            problem("resposta errada repete a certa ou outra opção.")
+        }
+    }
 }
 
 private fun checkText(card: Card, problem: (String) -> Unit) {

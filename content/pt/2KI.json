@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Como morreu o rei Acazias?",
       "answer": "Como Elias tinha anunciado da parte de Deus.",
-      "reference": "2Rs 1:17"
+      "reference": "2Rs 1:17",
+      "wrongs": [
+        "Como os médicos de Ecrom tinham prometido.",
+        "Como o pai Acabe, por uma flecha na batalha.",
+        "De velhice, em paz, no palácio de Samaria."
+      ]
     },
     {
       "id": "2KI.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem era o homem vestido de pelos e cinto de couro, em 2 Reis?",
       "answer": "Elias, o tisbita.",
-      "reference": "2Rs 1:8"
+      "reference": "2Rs 1:8",
+      "wrongs": [
+        "Eliseu, filho de Safate.",
+        "Obadias, o mordomo do palácio.",
+        "Micaías, filho de Inlá."
+      ]
     },
     {
       "id": "2KI.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Que deus de Ecrom Acazias mandou consultar?",
       "answer": "Baal-Zebube.",
-      "reference": "2Rs 1:2"
+      "reference": "2Rs 1:2",
+      "wrongs": [
+        "Dagom.",
+        "Moloque.",
+        "Quemos."
+      ]
     },
     {
       "id": "2KI.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que desceu sobre o primeiro capitão enviado a Elias?",
       "answer": "Fogo do céu, que consumiu ele e os cinquenta.",
-      "reference": "2Rs 1:10"
+      "reference": "2Rs 1:10",
+      "wrongs": [
+        "Uma saraivada, que só molhou o capitão.",
+        "O exército de Acazias, que prendeu Elias.",
+        "Nada; o capitão voltou ileso."
+      ]
     },
     {
       "id": "2KI.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Como Elias subiu ao céu?",
       "answer": "Num redemoinho, depois que um carro de fogo os separou.",
-      "reference": "2Rs 2:11"
+      "reference": "2Rs 2:11",
+      "wrongs": [
+        "Num barco, depois que o rio os separou.",
+        "A pé, depois que a nuvem os cobriu.",
+        "Num sonho, e o corpo ficou no chão."
+      ]
     },
     {
       "id": "2KI.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem pediu uma porção dobrada do espírito de Elias?",
       "answer": "Eliseu.",
-      "reference": "2Rs 2:9"
+      "reference": "2Rs 2:9",
+      "wrongs": [
+        "Geazi.",
+        "Obadias.",
+        "O filho dos profetas de Jericó."
+      ]
     },
     {
       "id": "2KI.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Junto a que rio Elias e Eliseu pararam?",
       "answer": "Junto ao Jordão.",
-      "reference": "2Rs 2:7"
+      "reference": "2Rs 2:7",
+      "wrongs": [
+        "Junto ao Querite.",
+        "Junto ao Quisom.",
+        "Junto ao Nilo."
+      ]
     },
     {
       "id": "2KI.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Quantos meninos as ursas despedaçaram, em 2 Reis?",
       "answer": "Quarenta e dois, depois que Eliseu os amaldiçoou.",
-      "reference": "2Rs 2:24"
+      "reference": "2Rs 2:24",
+      "wrongs": [
+        "Dois, depois que Eliseu os abençoou.",
+        "Sete, depois que Eliseu os chamou.",
+        "Cem, depois que Eliseu os ignorou."
+      ]
     },
     {
       "id": "2KI.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que encheu o chão pelo caminho de Edom?",
       "answer": "Água, de manhã, na hora do sacrifício.",
-      "reference": "2Rs 3:20"
+      "reference": "2Rs 3:20",
+      "wrongs": [
+        "Sangue, de manhã, na hora do sacrifício.",
+        "Azeite, de manhã, na hora do sacrifício.",
+        "Areia, de manhã, na hora do sacrifício."
+      ]
     },
     {
       "id": "2KI.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem era o rei de Moabe que pagava tributo a Israel?",
       "answer": "Messa, dono de grandes rebanhos.",
-      "reference": "2Rs 3:4"
+      "reference": "2Rs 3:4",
+      "wrongs": [
+        "Ben-Hadade, dono de grandes carros.",
+        "Hazael, dono de grandes cidades.",
+        "Eglom, dono de grandes palácios."
+      ]
     },
     {
       "id": "2KI.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Por qual caminho os três reis foram contra Moabe?",
       "answer": "Pelo deserto de Edom.",
-      "reference": "2Rs 3:8"
+      "reference": "2Rs 3:8",
+      "wrongs": [
+        "Pelo caminho do mar, junto aos filisteus.",
+        "Pelo vale do Jordão, subindo a Jericó.",
+        "Pela estrada real, direto a Quir-Haresete."
+      ]
     },
     {
       "id": "2KI.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "O que o rei de Moabe fez com o filho mais velho?",
       "answer": "Ofereceu-o em sacrifício em cima do muro.",
-      "reference": "2Rs 3:27"
+      "reference": "2Rs 3:27",
+      "wrongs": [
+        "Escondeu-o numa cisterna, dentro da cidade.",
+        "Mandou-o como refém ao rei de Israel.",
+        "Coroou-o no lugar do pai, ainda menino."
+      ]
     },
     {
       "id": "2KI.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "O que o filho da sunamita fez quando Eliseu se deitou sobre ele?",
       "answer": "Espirrou sete vezes e abriu os olhos.",
-      "reference": "2Rs 4:35"
+      "reference": "2Rs 4:35",
+      "wrongs": [
+        "Espirrou uma vez e tornou a dormir.",
+        "Abriu os olhos e ficou em silêncio.",
+        "Levantou-se na hora, sem espirrar."
+      ]
     },
     {
       "id": "2KI.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Quem era o criado que servia Eliseu?",
       "answer": "Geazi.",
-      "reference": "2Rs 4:12"
+      "reference": "2Rs 4:12",
+      "wrongs": [
+        "Obadias.",
+        "Naamã.",
+        "Bidcar."
+      ]
     },
     {
       "id": "2KI.4.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "Por qual cidade Eliseu passava quando uma rica o recebia?",
       "answer": "Por Suném.",
-      "reference": "2Rs 4:8"
+      "reference": "2Rs 4:8",
+      "wrongs": [
+        "Por Siló.",
+        "Por Jezreel.",
+        "Por Naim."
+      ]
     },
     {
       "id": "2KI.4.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Quando parou o azeite da viúva a quem Eliseu atendeu?",
       "answer": "Quando os vasos acabaram.",
-      "reference": "2Rs 4:6"
+      "reference": "2Rs 4:6",
+      "wrongs": [
+        "Quando a jarra quebrou.",
+        "Quando o sol se pôs.",
+        "Quando Eliseu saiu da casa."
+      ]
     },
     {
       "id": "2KI.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu com Naamã no rio Jordão?",
       "answer": "A pele se renovou como a de uma criança, e ele ficou limpo.",
-      "reference": "2Rs 5:14"
+      "reference": "2Rs 5:14",
+      "wrongs": [
+        "A pele continuou doente, e ele voltou triste.",
+        "Só as mãos ficaram limpas, e o resto não.",
+        "A pele escureceu, e a lepra piorou."
+      ]
     },
     {
       "id": "2KI.5.name.1",
@@ -178,7 +263,12 @@
       "kind": "name",
       "prompt": "Quem era o criado de Eliseu que quis algo de Naamã?",
       "answer": "Geazi.",
-      "reference": "2Rs 5:20"
+      "reference": "2Rs 5:20",
+      "wrongs": [
+        "A serva da mulher de Naamã.",
+        "O rei de Israel.",
+        "O cocheiro de Naamã."
+      ]
     },
     {
       "id": "2KI.5.place.1",
@@ -188,7 +278,12 @@
       "kind": "place",
       "prompt": "Que rios de Damasco Naamã achava melhores?",
       "answer": "Abana e Farpar.",
-      "reference": "2Rs 5:12"
+      "reference": "2Rs 5:12",
+      "wrongs": [
+        "Jordão e Quisom.",
+        "Nilo e Eufrates.",
+        "Tigre e Eufrates."
+      ]
     },
     {
       "id": "2KI.5.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "O que se apegou a Geazi e à descendência dele?",
       "answer": "A lepra de Naamã, para sempre.",
-      "reference": "2Rs 5:27"
+      "reference": "2Rs 5:27",
+      "wrongs": [
+        "A prata de Naamã, para sempre.",
+        "A capa de Naamã, por um tempo.",
+        "A cegueira de Naamã, por sete dias."
+      ]
     },
     {
       "id": "2KI.6.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "O que o criado de Eliseu viu no monte?",
       "answer": "Cavaleiros e carros de fogo em volta de Eliseu.",
-      "reference": "2Rs 6:17"
+      "reference": "2Rs 6:17",
+      "wrongs": [
+        "O exército de Israel acampado no vale.",
+        "Os morros vazios, sem ninguém em volta.",
+        "Soldados sírios já descendo a encosta."
+      ]
     },
     {
       "id": "2KI.6.name.1",
@@ -218,7 +323,12 @@
       "kind": "name",
       "prompt": "Quem cercou Samaria com todo o exército?",
       "answer": "Ben-Hadade, rei da Síria.",
-      "reference": "2Rs 6:24"
+      "reference": "2Rs 6:24",
+      "wrongs": [
+        "Senaqueribe, rei da Assíria.",
+        "Sisaque, rei do Egito.",
+        "Nabucodonosor, rei da Babilônia."
+      ]
     },
     {
       "id": "2KI.6.place.1",
@@ -228,7 +338,12 @@
       "kind": "place",
       "prompt": "Em que cidade disseram que Eliseu estava?",
       "answer": "Em Dotã.",
-      "reference": "2Rs 6:13"
+      "reference": "2Rs 6:13",
+      "wrongs": [
+        "Em Betel.",
+        "Em Jericó.",
+        "Em Samaria."
+      ]
     },
     {
       "id": "2KI.6.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Como Eliseu fez o ferro do machado subir?",
       "answer": "Jogou um pedaço de pau na água, e o ferro flutuou.",
-      "reference": "2Rs 6:6"
+      "reference": "2Rs 6:6",
+      "wrongs": [
+        "Amarrou uma corda no ferro, e puxou.",
+        "Estendeu a mão, e o ferro subiu sozinho.",
+        "Pediu outro machado, e deixou o ferro."
+      ]
     },
     {
       "id": "2KI.7.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "O que Deus fez o acampamento dos sírios ouvir, em 2 Reis?",
       "answer": "Ruído de carros, de cavalos e de um grande exército.",
-      "reference": "2Rs 7:6"
+      "reference": "2Rs 7:6",
+      "wrongs": [
+        "Silêncio de um acampamento abandonado.",
+        "Canto do exército de Israel chegando.",
+        "Trovão sem carros, sem cavalos e sem gente."
+      ]
     },
     {
       "id": "2KI.7.place.1",
@@ -258,7 +383,12 @@
       "kind": "place",
       "prompt": "Onde Eliseu disse que a comida ficaria barata?",
       "answer": "À porta de Samaria.",
-      "reference": "2Rs 7:1"
+      "reference": "2Rs 7:1",
+      "wrongs": [
+        "À porta de Damasco.",
+        "À porta de Jerusalém.",
+        "À porta de Jezreel."
+      ]
     },
     {
       "id": "2KI.7.curiosity.1",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "Quem estava parado à entrada da porta de Samaria?",
       "answer": "Quatro homens com lepra.",
-      "reference": "2Rs 7:3"
+      "reference": "2Rs 7:3",
+      "wrongs": [
+        "Três soldados da guarda.",
+        "Dois espias de Israel.",
+        "Dez profetas de Samaria."
+      ]
     },
     {
       "id": "2KI.7.curiosity.2",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "O que o povo fez com o príncipe na porta de Samaria?",
       "answer": "O povo o atropelou, e ele morreu.",
-      "reference": "2Rs 7:17"
+      "reference": "2Rs 7:17",
+      "wrongs": [
+        "O povo o coroou, e ele viveu.",
+        "O povo o deixou passar, e ele fugiu.",
+        "O príncipe abriu a porta e seguiu ileso."
+      ]
     },
     {
       "id": "2KI.8.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "O que Hazael fez ao rei Ben-Hadade?",
       "answer": "Estendeu um pano molhado no rosto dele, e o rei morreu.",
-      "reference": "2Rs 8:15"
+      "reference": "2Rs 8:15",
+      "wrongs": [
+        "Deu-lhe um remédio, e o rei sarou.",
+        "Feriu-o com a espada, no pátio.",
+        "Deixou-o na cama, e o rei viveu muitos anos."
+      ]
     },
     {
       "id": "2KI.8.name.1",
@@ -298,7 +443,12 @@
       "kind": "name",
       "prompt": "Quem passou a reinar em Judá no quinto ano de Jorão?",
       "answer": "Jeorão, filho de Josafá.",
-      "reference": "2Rs 8:16"
+      "reference": "2Rs 8:16",
+      "wrongs": [
+        "Acazias, filho de Jeorão.",
+        "Joás, filho de Acazias.",
+        "Atalia, mãe de Acazias."
+      ]
     },
     {
       "id": "2KI.8.place.1",
@@ -308,7 +458,12 @@
       "kind": "place",
       "prompt": "A que cidade Eliseu foi quando Ben-Hadade estava doente?",
       "answer": "A Damasco.",
-      "reference": "2Rs 8:7"
+      "reference": "2Rs 8:7",
+      "wrongs": [
+        "A Samaria.",
+        "A Jerusalém.",
+        "A Nínive."
+      ]
     },
     {
       "id": "2KI.8.curiosity.1",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "Por quantos anos Eliseu avisou que a fome duraria?",
       "answer": "Sete anos.",
-      "reference": "2Rs 8:1"
+      "reference": "2Rs 8:1",
+      "wrongs": [
+        "Três anos.",
+        "Três anos e meio.",
+        "Quarenta anos."
+      ]
     },
     {
       "id": "2KI.9.subject.1",
@@ -328,7 +488,12 @@
       "kind": "subject",
       "prompt": "Como Jeú matou o rei Jorão?",
       "answer": "A flecha o atingiu entre as costas e saiu no coração.",
-      "reference": "2Rs 9:24"
+      "reference": "2Rs 9:24",
+      "wrongs": [
+        "A espada o atingiu no palácio e parou no ombro.",
+        "Ele caiu do carro sem ferimento de arma.",
+        "Um veneno o derrubou antes da batalha."
+      ]
     },
     {
       "id": "2KI.9.name.1",
@@ -338,7 +503,12 @@
       "kind": "name",
       "prompt": "O que Elias tinha anunciado sobre o corpo de Jezabel?",
       "answer": "Os cães comeriam a carne dela na terra de Jezreel.",
-      "reference": "2Rs 9:36"
+      "reference": "2Rs 9:36",
+      "wrongs": [
+        "Ela morreria em paz, na terra de Sidom.",
+        "O fogo consumiria o corpo dela no palácio.",
+        "Os reis a sepultariam com honra em Samaria."
+      ]
     },
     {
       "id": "2KI.9.place.1",
@@ -348,7 +518,12 @@
       "kind": "place",
       "prompt": "Onde Jeú encontrou Jorão e Acazias?",
       "answer": "Na propriedade de Nabote, em Jezreel.",
-      "reference": "2Rs 9:21"
+      "reference": "2Rs 9:21",
+      "wrongs": [
+        "Na porta de Samaria, junto ao muro.",
+        "Em Ramote de Gileade, no acampamento.",
+        "No palácio de Jezreel, dentro do quarto."
+      ]
     },
     {
       "id": "2KI.9.curiosity.1",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "O que restou de Jezabel para sepultar?",
       "answer": "Só o crânio, os pés e as mãos.",
-      "reference": "2Rs 9:35"
+      "reference": "2Rs 9:35",
+      "wrongs": [
+        "O corpo inteiro, sem faltar nada.",
+        "Nada, nem os ossos.",
+        "Só a coroa e o manto."
+      ]
     },
     {
       "id": "2KI.10.subject.1",
@@ -368,7 +548,12 @@
       "kind": "subject",
       "prompt": "O que Jeú fez com quem restava da casa de Acabe?",
       "answer": "Matou todos em Samaria, como Elias tinha dito.",
-      "reference": "2Rs 10:17"
+      "reference": "2Rs 10:17",
+      "wrongs": [
+        "Poupou todos em Samaria e fez as pazes.",
+        "Exilou todos para Damasco, sem morte.",
+        "Matou só os sacerdotes e deixou a família."
+      ]
     },
     {
       "id": "2KI.10.name.1",
@@ -378,7 +563,12 @@
       "kind": "name",
       "prompt": "Quem Jeú levou consigo no carro?",
       "answer": "Jonadabe, filho de Recabe.",
-      "reference": "2Rs 10:15"
+      "reference": "2Rs 10:15",
+      "wrongs": [
+        "Geazi, criado de Eliseu.",
+        "Bidcar, o oficial do carro.",
+        "Obadias, mordomo de Acabe."
+      ]
     },
     {
       "id": "2KI.10.curiosity.1",
@@ -388,7 +578,12 @@
       "kind": "curiosity",
       "prompt": "O que puseram em cestos e mandaram a Jezreel?",
       "answer": "As cabeças de setenta filhos do rei.",
-      "reference": "2Rs 10:7"
+      "reference": "2Rs 10:7",
+      "wrongs": [
+        "As mãos de quarenta filhos do rei.",
+        "As coroas de setenta príncipes.",
+        "As cabeças de dez filhos do rei."
+      ]
     },
     {
       "id": "2KI.10.curiosity.2",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "Em que Jeú transformou a casa de Baal?",
       "answer": "Em uma latrina, que continua assim.",
-      "reference": "2Rs 10:27"
+      "reference": "2Rs 10:27",
+      "wrongs": [
+        "Em um depósito do palácio real.",
+        "Em uma casa de oração a Deus.",
+        "Em uma oficina de escudos de bronze."
+      ]
     },
     {
       "id": "2KI.11.subject.1",
@@ -408,7 +608,12 @@
       "kind": "subject",
       "prompt": "O que Joiada fez com o filho do rei?",
       "answer": "Pôs a coroa, ungiu-o rei, e o povo aclamou.",
-      "reference": "2Rs 11:12"
+      "reference": "2Rs 11:12",
+      "wrongs": [
+        "Escondeu-o de novo, sem coroa e sem aclamação.",
+        "Entregou a coroa a Atalia, e o povo calou.",
+        "Fez dele só sacerdote, sem ungir rei."
+      ]
     },
     {
       "id": "2KI.11.name.1",
@@ -418,7 +623,12 @@
       "kind": "name",
       "prompt": "Quem mandou matar a família real após a morte do filho, em 2 Reis?",
       "answer": "Atalia, mãe de Acazias.",
-      "reference": "2Rs 11:1"
+      "reference": "2Rs 11:1",
+      "wrongs": [
+        "Jezabel, mãe de Acazias.",
+        "Jeoseba, filha do rei.",
+        "Joiada, o sacerdote."
+      ]
     },
     {
       "id": "2KI.11.place.1",
@@ -428,7 +638,12 @@
       "kind": "place",
       "prompt": "Onde Jeoseba escondeu o menino Joás?",
       "answer": "No quarto das camas, com a ama dele.",
-      "reference": "2Rs 11:2"
+      "reference": "2Rs 11:2",
+      "wrongs": [
+        "Numa cova fora da cidade, sem a ama.",
+        "No Egito, na casa de um parente.",
+        "No poço da cidade de Davi, sozinho."
+      ]
     },
     {
       "id": "2KI.11.curiosity.1",
@@ -438,7 +653,12 @@
       "kind": "curiosity",
       "prompt": "Por quanto tempo o menino Joás ficou escondido no templo?",
       "answer": "Seis anos, enquanto Atalia era rainha.",
-      "reference": "2Rs 11:3"
+      "reference": "2Rs 11:3",
+      "wrongs": [
+        "Três anos, enquanto Jezabel era rainha.",
+        "Doze anos, enquanto Atalia era rainha.",
+        "Um ano, enquanto Joiada era rei."
+      ]
     },
     {
       "id": "2KI.12.subject.1",
@@ -448,7 +668,12 @@
       "kind": "subject",
       "prompt": "O que os sacerdotes deviam reparar no templo, em 2 Reis?",
       "answer": "As fendas, em todo lugar que estivesse aberto.",
-      "reference": "2Rs 12:5"
+      "reference": "2Rs 12:5",
+      "wrongs": [
+        "O palácio novo, em todo lugar que estivesse aberto.",
+        "O altar de Baal, em todo lugar que estivesse aberto.",
+        "A muralha da cidade, em todo lugar que estivesse aberto."
+      ]
     },
     {
       "id": "2KI.12.name.1",
@@ -458,7 +683,12 @@
       "kind": "name",
       "prompt": "Quem guiava Joás enquanto ele agradava a Deus?",
       "answer": "O sacerdote Joiada.",
-      "reference": "2Rs 12:2"
+      "reference": "2Rs 12:2",
+      "wrongs": [
+        "O sacerdote Hilquias.",
+        "O profeta Elias.",
+        "O profeta Natã."
+      ]
     },
     {
       "id": "2KI.12.place.1",
@@ -468,7 +698,12 @@
       "kind": "place",
       "prompt": "Onde os servos mataram o rei Joás?",
       "answer": "Na casa de Milo, a caminho de Sila.",
-      "reference": "2Rs 12:20"
+      "reference": "2Rs 12:20",
+      "wrongs": [
+        "No templo, junto ao altar.",
+        "Em Laquis, durante o cerco.",
+        "Em Samaria, na casa de Baal."
+      ]
     },
     {
       "id": "2KI.12.curiosity.1",
@@ -478,7 +713,12 @@
       "kind": "curiosity",
       "prompt": "O que Joiada pôs junto ao altar para o dinheiro?",
       "answer": "Uma arca com um furo na tampa.",
-      "reference": "2Rs 12:9"
+      "reference": "2Rs 12:9",
+      "wrongs": [
+        "Uma caixa fechada, sem abertura.",
+        "Uma bacia de bronze, ao lado da porta.",
+        "Um saco de linho, na mão do tesoureiro."
+      ]
     },
     {
       "id": "2KI.13.subject.1",
@@ -488,7 +728,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu ao morto lançado no túmulo de Eliseu?",
       "answer": "Ao encostar nos ossos, reviveu e se pôs de pé.",
-      "reference": "2Rs 13:21"
+      "reference": "2Rs 13:21",
+      "wrongs": [
+        "Ao encostar nos ossos, continuou morto.",
+        "Ao encostar nos ossos, o túmulo desabou.",
+        "Antes de chegar aos ossos, já tinha revivido."
+      ]
     },
     {
       "id": "2KI.13.name.1",
@@ -498,7 +743,12 @@
       "kind": "name",
       "prompt": "Que rei de Israel chorou diante de Eliseu doente?",
       "answer": "Joás.",
-      "reference": "2Rs 13:14"
+      "reference": "2Rs 13:14",
+      "wrongs": [
+        "Jeroboão.",
+        "Jeú.",
+        "Amazias."
+      ]
     },
     {
       "id": "2KI.13.place.1",
@@ -508,7 +758,12 @@
       "kind": "place",
       "prompt": "Onde Eliseu disse que Joás feriria os sírios?",
       "answer": "Em Afeque, até consumi-los.",
-      "reference": "2Rs 13:17"
+      "reference": "2Rs 13:17",
+      "wrongs": [
+        "Em Ramote de Gileade, até consumi-los.",
+        "Em Megido, até consumi-los.",
+        "Em Carquemis, até consumi-los."
+      ]
     },
     {
       "id": "2KI.13.curiosity.1",
@@ -518,7 +773,12 @@
       "kind": "curiosity",
       "prompt": "Quantas vezes Joás bateu no chão?",
       "answer": "Três vezes, e então parou.",
-      "reference": "2Rs 13:18"
+      "reference": "2Rs 13:18",
+      "wrongs": [
+        "Uma vez, e então parou.",
+        "Seis vezes, e então parou.",
+        "Doze vezes, e então parou."
+      ]
     },
     {
       "id": "2KI.14.subject.1",
@@ -528,7 +788,12 @@
       "kind": "subject",
       "prompt": "O que Joás de Israel fez no muro de Jerusalém?",
       "answer": "Abriu uma brecha de quatrocentos côvados.",
-      "reference": "2Rs 14:13"
+      "reference": "2Rs 14:13",
+      "wrongs": [
+        "Abriu uma brecha de cem côvados.",
+        "Derrubou o muro inteiro, de ponta a ponta.",
+        "Não tocou o muro e voltou embora."
+      ]
     },
     {
       "id": "2KI.14.name.1",
@@ -538,7 +803,12 @@
       "kind": "name",
       "prompt": "Por qual profeta Deus falou da fronteira de Israel?",
       "answer": "Jonas, filho de Amitai, de Gate-Hefer.",
-      "reference": "2Rs 14:25"
+      "reference": "2Rs 14:25",
+      "wrongs": [
+        "Amós, pastor de Tecoa.",
+        "Oseias, filho de Beeri.",
+        "Isaías, filho de Amós."
+      ]
     },
     {
       "id": "2KI.14.place.1",
@@ -548,7 +818,12 @@
       "kind": "place",
       "prompt": "Onde Amazias enfrentou Joás, rei de Israel?",
       "answer": "Em Bete-Semes, que fica em Judá.",
-      "reference": "2Rs 14:11"
+      "reference": "2Rs 14:11",
+      "wrongs": [
+        "Em Betel, que fica em Israel.",
+        "Em Jerusalém, que fica em Judá.",
+        "Em Laquis, que fica em Judá."
+      ]
     },
     {
       "id": "2KI.14.curiosity.1",
@@ -558,7 +833,12 @@
       "kind": "curiosity",
       "prompt": "Quantos edomitas Amazias feriu no vale das salinas?",
       "answer": "Dez mil, e mudou o nome de Selá para Jocteel.",
-      "reference": "2Rs 14:7"
+      "reference": "2Rs 14:7",
+      "wrongs": [
+        "Cinco mil, e mudou o nome de Selá para Berseba.",
+        "Vinte mil, e mudou o nome de Selá para Hormá.",
+        "Mil, e deixou o nome de Selá como estava."
+      ]
     },
     {
       "id": "2KI.15.subject.1",
@@ -568,7 +848,12 @@
       "kind": "subject",
       "prompt": "O que houve com o rei Azarias até o fim da vida?",
       "answer": "Deus o fez leproso, e ele morou separado.",
-      "reference": "2Rs 15:5"
+      "reference": "2Rs 15:5",
+      "wrongs": [
+        "Deus o curou, e ele voltou ao palácio.",
+        "Deus o cegou, e ele morou no templo.",
+        "Deus o feriu de morte naquele mesmo dia."
+      ]
     },
     {
       "id": "2KI.15.name.1",
@@ -578,7 +863,12 @@
       "kind": "name",
       "prompt": "A quem Menaém pagou mil talentos para firmar o reino?",
       "answer": "A Pul, rei da Assíria.",
-      "reference": "2Rs 15:19"
+      "reference": "2Rs 15:19",
+      "wrongs": [
+        "A Senaqueribe, rei da Assíria.",
+        "A Salmaneser, rei da Assíria.",
+        "A Nabucodonosor, rei da Babilônia."
+      ]
     },
     {
       "id": "2KI.15.place.1",
@@ -588,7 +878,12 @@
       "kind": "place",
       "prompt": "Para onde Tiglate-Pileser levou o povo que prendeu?",
       "answer": "Para a Assíria.",
-      "reference": "2Rs 15:29"
+      "reference": "2Rs 15:29",
+      "wrongs": [
+        "Para o Egito.",
+        "Para a Babilônia.",
+        "Para Damasco."
+      ]
     },
     {
       "id": "2KI.15.curiosity.1",
@@ -598,7 +893,12 @@
       "kind": "curiosity",
       "prompt": "Até que geração a palavra dita a Jeú se cumpriu?",
       "answer": "Até a quarta, no trono de Israel.",
-      "reference": "2Rs 15:12"
+      "reference": "2Rs 15:12",
+      "wrongs": [
+        "Até a segunda, no trono de Israel.",
+        "Até a terceira, no trono de Israel.",
+        "Até a décima, no trono de Israel."
+      ]
     },
     {
       "id": "2KI.16.subject.1",
@@ -608,7 +908,12 @@
       "kind": "subject",
       "prompt": "O que Acaz mandou copiar do altar de Damasco?",
       "answer": "O modelo do altar, com todos os detalhes.",
-      "reference": "2Rs 16:10"
+      "reference": "2Rs 16:10",
+      "wrongs": [
+        "O modelo da arca, com todos os detalhes.",
+        "O modelo do trono, com todos os detalhes.",
+        "O modelo do muro, com todos os detalhes."
+      ]
     },
     {
       "id": "2KI.16.name.1",
@@ -618,7 +923,12 @@
       "kind": "name",
       "prompt": "A quem Acaz pediu socorro contra Síria e Israel?",
       "answer": "Ao rei assírio Tiglate-Pileser.",
-      "reference": "2Rs 16:7"
+      "reference": "2Rs 16:7",
+      "wrongs": [
+        "Ao rei assírio Senaqueribe.",
+        "Ao faraó Neco, do Egito.",
+        "Ao rei sírio Ben-Hadade."
+      ]
     },
     {
       "id": "2KI.16.place.1",
@@ -628,7 +938,12 @@
       "kind": "place",
       "prompt": "Para onde levaram os moradores de Damasco?",
       "answer": "Para Quir.",
-      "reference": "2Rs 16:9"
+      "reference": "2Rs 16:9",
+      "wrongs": [
+        "Para a Babilônia.",
+        "Para o Egito.",
+        "Para Nínive."
+      ]
     },
     {
       "id": "2KI.16.curiosity.1",
@@ -638,7 +953,12 @@
       "kind": "curiosity",
       "prompt": "O que Acaz fez com o próprio filho?",
       "answer": "Fê-lo passar pelo fogo.",
-      "reference": "2Rs 16:3"
+      "reference": "2Rs 16:3",
+      "wrongs": [
+        "Fê-lo passar pela água.",
+        "Escondeu-o no templo.",
+        "Coroou-o ainda criança."
+      ]
     },
     {
       "id": "2KI.17.subject.1",
@@ -648,7 +968,12 @@
       "kind": "subject",
       "prompt": "O que o rei da Assíria fez com Samaria?",
       "answer": "Tomou a cidade e levou Israel para o exílio.",
-      "reference": "2Rs 17:6"
+      "reference": "2Rs 17:6",
+      "wrongs": [
+        "Cercou a cidade e deixou Israel na terra.",
+        "Tomou Damasco e deixou Samaria em paz.",
+        "Perdeu a cidade e pagou tributo a Israel."
+      ]
     },
     {
       "id": "2KI.17.name.1",
@@ -658,7 +983,12 @@
       "kind": "name",
       "prompt": "Quem era o rei de Israel, filho de Elá?",
       "answer": "Oseias, e o reinado dele durou nove anos.",
-      "reference": "2Rs 17:1"
+      "reference": "2Rs 17:1",
+      "wrongs": [
+        "Peca, e o reinado dele durou vinte anos.",
+        "Menaém, e o reinado dele durou dez anos.",
+        "Acaz, e o reinado dele durou dezesseis anos."
+      ]
     },
     {
       "id": "2KI.17.place.1",
@@ -668,7 +998,12 @@
       "kind": "place",
       "prompt": "Onde os israelitas exilados foram morar, em 2 Reis?",
       "answer": "Em Hala, Habor, junto ao rio Gozã e entre os medos.",
-      "reference": "2Rs 17:6"
+      "reference": "2Rs 17:6",
+      "wrongs": [
+        "Em Mênfis, Patros e junto ao rio Nilo.",
+        "Em Babilônia, junto ao Eufrates, e em Susã.",
+        "Em Quir, Damasco e nas cidades da Síria."
+      ]
     },
     {
       "id": "2KI.17.curiosity.1",
@@ -678,7 +1013,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus enviou contra quem não o temia em Samaria?",
       "answer": "Leões, e eles matavam os moradores.",
-      "reference": "2Rs 17:25"
+      "reference": "2Rs 17:25",
+      "wrongs": [
+        "Ursos, e eles matavam os moradores.",
+        "Fogo, e ele queimava os moradores.",
+        "Gafanhotos, e eles comiam a colheita."
+      ]
     },
     {
       "id": "2KI.18.subject.1",
@@ -688,7 +1028,12 @@
       "kind": "subject",
       "prompt": "Como Ezequias se comparava aos outros reis de Judá?",
       "answer": "Não houve outro como ele, nem antes nem depois.",
-      "reference": "2Rs 18:5"
+      "reference": "2Rs 18:5",
+      "wrongs": [
+        "Houve muitos iguais a ele, antes e depois.",
+        "Foi o pior de todos, antes e depois.",
+        "Só se igualou a Acabe, e a ninguém mais."
+      ]
     },
     {
       "id": "2KI.18.name.1",
@@ -698,7 +1043,12 @@
       "kind": "name",
       "prompt": "Quem tomou as cidades fortes de Judá?",
       "answer": "Senaqueribe, rei da Assíria, no ano catorze de Ezequias.",
-      "reference": "2Rs 18:13"
+      "reference": "2Rs 18:13",
+      "wrongs": [
+        "Salmaneser, rei da Assíria, no ano dez de Ezequias.",
+        "Nabucodonosor, rei da Babilônia, no ano onze de Ezequias.",
+        "Tiraca, rei da Etiópia, no ano primeiro de Ezequias."
+      ]
     },
     {
       "id": "2KI.18.place.1",
@@ -708,7 +1058,12 @@
       "kind": "place",
       "prompt": "Onde pararam os mensageiros da Assíria em Jerusalém?",
       "answer": "Junto ao canal do tanque superior.",
-      "reference": "2Rs 18:17"
+      "reference": "2Rs 18:17",
+      "wrongs": [
+        "Junto à porta das ovelhas.",
+        "No pátio do templo.",
+        "No ribeiro de Cedrom."
+      ]
     },
     {
       "id": "2KI.18.curiosity.1",
@@ -718,7 +1073,12 @@
       "kind": "curiosity",
       "prompt": "O que Ezequias fez com a serpente de bronze de Moisés?",
       "answer": "Fez-a em pedaços e lhe deu o nome de Neustã.",
-      "reference": "2Rs 18:4"
+      "reference": "2Rs 18:4",
+      "wrongs": [
+        "Guardou-a no templo e lhe deu o nome de Aserá.",
+        "Mandou-a para a Assíria como tributo.",
+        "Fundiu-a de novo para fazer um altar."
+      ]
     },
     {
       "id": "2KI.19.subject.1",
@@ -728,7 +1088,12 @@
       "kind": "subject",
       "prompt": "Quantos assírios o anjo de Deus feriu de noite, em 2 Reis?",
       "answer": "Cento e oitenta e cinco mil.",
-      "reference": "2Rs 19:35"
+      "reference": "2Rs 19:35",
+      "wrongs": [
+        "Cento e oitenta e cinco.",
+        "Oitenta e cinco mil.",
+        "Cem mil."
+      ]
     },
     {
       "id": "2KI.19.name.1",
@@ -738,7 +1103,12 @@
       "kind": "name",
       "prompt": "Quem matou Senaqueribe no templo de Nisroque?",
       "answer": "Os filhos Adrameleque e Sarezer.",
-      "reference": "2Rs 19:37"
+      "reference": "2Rs 19:37",
+      "wrongs": [
+        "Os soldados de Ezequias.",
+        "O profeta Isaías.",
+        "A guarda do templo, sozinha."
+      ]
     },
     {
       "id": "2KI.19.place.1",
@@ -748,7 +1118,12 @@
       "kind": "place",
       "prompt": "Para onde Senaqueribe voltou?",
       "answer": "Para Nínive.",
-      "reference": "2Rs 19:36"
+      "reference": "2Rs 19:36",
+      "wrongs": [
+        "Para a Babilônia.",
+        "Para Assur.",
+        "Para Damasco."
+      ]
     },
     {
       "id": "2KI.19.curiosity.1",
@@ -758,7 +1133,12 @@
       "kind": "curiosity",
       "prompt": "O que Senaqueribe não faria contra Jerusalém?",
       "answer": "Não entraria nela nem atiraria uma flecha.",
-      "reference": "2Rs 19:32"
+      "reference": "2Rs 19:32",
+      "wrongs": [
+        "Entraria nela e queimaria o templo.",
+        "Atiraria flechas até derrubar o muro.",
+        "Tomaria a cidade no ano seguinte."
+      ]
     },
     {
       "id": "2KI.20.subject.1",
@@ -768,7 +1148,12 @@
       "kind": "subject",
       "prompt": "Quantos anos Deus acrescentou à vida de Ezequias?",
       "answer": "Quinze anos, e livraria a cidade do rei da Assíria.",
-      "reference": "2Rs 20:6"
+      "reference": "2Rs 20:6",
+      "wrongs": [
+        "Cinco anos, e entregaria a cidade ao rei da Assíria.",
+        "Quarenta anos, e mudaria a cidade para Nínive.",
+        "Nenhum ano, e a cidade cairia naquela noite."
+      ]
     },
     {
       "id": "2KI.20.name.1",
@@ -778,7 +1163,12 @@
       "kind": "name",
       "prompt": "Quem mandou um presente e cartas ao rei Ezequias?",
       "answer": "Berodaque-Baladã, rei da Babilônia.",
-      "reference": "2Rs 20:12"
+      "reference": "2Rs 20:12",
+      "wrongs": [
+        "Senaqueribe, rei da Assíria.",
+        "Faraó Neco, rei do Egito.",
+        "Ciro, rei da Pérsia."
+      ]
     },
     {
       "id": "2KI.20.place.1",
@@ -788,7 +1178,12 @@
       "kind": "place",
       "prompt": "Para onde iria tudo o que estava na casa de Ezequias?",
       "answer": "Para a Babilônia, sem sobrar coisa alguma.",
-      "reference": "2Rs 20:17"
+      "reference": "2Rs 20:17",
+      "wrongs": [
+        "Para Nínive, sem sobrar coisa alguma.",
+        "Para o Egito, sem sobrar coisa alguma.",
+        "Ficaria em Jerusalém, sem sair coisa alguma."
+      ]
     },
     {
       "id": "2KI.20.curiosity.1",
@@ -798,7 +1193,12 @@
       "kind": "curiosity",
       "prompt": "O que a sombra fez no relógio de Acaz?",
       "answer": "Recuou dez degraus.",
-      "reference": "2Rs 20:11"
+      "reference": "2Rs 20:11",
+      "wrongs": [
+        "Avançou dez degraus.",
+        "Recuou três degraus.",
+        "Ficou parada."
+      ]
     },
     {
       "id": "2KI.21.subject.1",
@@ -808,7 +1208,12 @@
       "kind": "subject",
       "prompt": "Como o mal de Manassés se comparava ao dos amorreus?",
       "answer": "Foi pior do que tudo o que eles tinham feito.",
-      "reference": "2Rs 21:11"
+      "reference": "2Rs 21:11",
+      "wrongs": [
+        "Foi mais leve do que tudo o que eles tinham feito.",
+        "Foi igual ao de Davi, e nada além disso.",
+        "Foi melhor do que tudo o que eles tinham feito."
+      ]
     },
     {
       "id": "2KI.21.name.1",
@@ -818,7 +1223,12 @@
       "kind": "name",
       "prompt": "Quem o povo colocou como rei depois de Amom?",
       "answer": "Josias, filho dele.",
-      "reference": "2Rs 21:24"
+      "reference": "2Rs 21:24",
+      "wrongs": [
+        "Jeoacaz, irmão dele.",
+        "Manassés, pai dele.",
+        "Zedequias, neto dele."
+      ]
     },
     {
       "id": "2KI.21.place.1",
@@ -828,7 +1238,12 @@
       "kind": "place",
       "prompt": "Onde Manassés foi sepultado?",
       "answer": "No jardim da casa dele, o jardim de Uzá.",
-      "reference": "2Rs 21:18"
+      "reference": "2Rs 21:18",
+      "wrongs": [
+        "Nos túmulos dos reis, na cidade de Davi.",
+        "No vale de Hinom, fora do muro.",
+        "No templo, junto ao altar."
+      ]
     },
     {
       "id": "2KI.21.curiosity.1",
@@ -838,7 +1253,12 @@
       "kind": "curiosity",
       "prompt": "De que Manassés encheu Jerusalém?",
       "answer": "De sangue inocente, de um lado até o outro.",
-      "reference": "2Rs 21:16"
+      "reference": "2Rs 21:16",
+      "wrongs": [
+        "De ouro roubado, de um lado até o outro.",
+        "De ídolos de pedra, só no templo.",
+        "De água da chuva, de um lado até o outro."
+      ]
     },
     {
       "id": "2KI.22.subject.1",
@@ -848,7 +1268,12 @@
       "kind": "subject",
       "prompt": "O que Hilquias achou na casa de Deus?",
       "answer": "O livro da lei.",
-      "reference": "2Rs 22:8"
+      "reference": "2Rs 22:8",
+      "wrongs": [
+        "A coroa perdida de Davi.",
+        "A arca, que estava escondida.",
+        "Uma carta do rei do Egito."
+      ]
     },
     {
       "id": "2KI.22.name.1",
@@ -858,7 +1283,12 @@
       "kind": "name",
       "prompt": "Que profetisa foi consultada em Jerusalém?",
       "answer": "Hulda, mulher de Salum.",
-      "reference": "2Rs 22:14"
+      "reference": "2Rs 22:14",
+      "wrongs": [
+        "Débora, mulher de Lapidote.",
+        "Ana, mulher de Elcana.",
+        "Miriã, irmã de Moisés."
+      ]
     },
     {
       "id": "2KI.22.place.1",
@@ -868,7 +1298,12 @@
       "kind": "place",
       "prompt": "Em que parte da cidade Hulda morava?",
       "answer": "Na segunda parte de Jerusalém.",
-      "reference": "2Rs 22:14"
+      "reference": "2Rs 22:14",
+      "wrongs": [
+        "No pátio do templo.",
+        "Em Anatote.",
+        "Em Belém."
+      ]
     },
     {
       "id": "2KI.22.curiosity.1",
@@ -878,7 +1313,12 @@
       "kind": "curiosity",
       "prompt": "O que Josias fez ao ouvir o livro da lei?",
       "answer": "Rasgou as próprias roupas.",
-      "reference": "2Rs 22:11"
+      "reference": "2Rs 22:11",
+      "wrongs": [
+        "Queimou o livro no fogo.",
+        "Jogou o livro no Cedrom.",
+        "Guardou o livro e não reagiu."
+      ]
     },
     {
       "id": "2KI.23.subject.1",
@@ -888,7 +1328,12 @@
       "kind": "subject",
       "prompt": "Desde quando não havia uma Páscoa como a de Josias?",
       "answer": "Desde o tempo dos juízes, e em nenhum reinado.",
-      "reference": "2Rs 23:22"
+      "reference": "2Rs 23:22",
+      "wrongs": [
+        "Desde o tempo de Moisés, e em nenhum acampamento.",
+        "Desde o tempo de Davi, e em nenhum sábado.",
+        "Desde o êxodo, e em nenhuma tribo."
+      ]
     },
     {
       "id": "2KI.23.name.1",
@@ -898,7 +1343,12 @@
       "kind": "name",
       "prompt": "Quem matou Josias em Megido?",
       "answer": "Faraó Neco, rei do Egito.",
-      "reference": "2Rs 23:29"
+      "reference": "2Rs 23:29",
+      "wrongs": [
+        "Nabucodonosor, rei da Babilônia.",
+        "Senaqueribe, rei da Assíria.",
+        "O rei de Moabe, em combate."
+      ]
     },
     {
       "id": "2KI.23.place.1",
@@ -908,7 +1358,12 @@
       "kind": "place",
       "prompt": "Onde ficava Tofete, que Josias profanou?",
       "answer": "No vale que tem o nome do filho de Hinom.",
-      "reference": "2Rs 23:10"
+      "reference": "2Rs 23:10",
+      "wrongs": [
+        "No vale de Cedrom.",
+        "No vale de Ela.",
+        "No vale de Sitim."
+      ]
     },
     {
       "id": "2KI.23.curiosity.1",
@@ -918,7 +1373,12 @@
       "kind": "curiosity",
       "prompt": "O que Josias fez com os carros dedicados ao sol?",
       "answer": "Queimou-os no fogo.",
-      "reference": "2Rs 23:11"
+      "reference": "2Rs 23:11",
+      "wrongs": [
+        "Enterrou-os no vale.",
+        "Entregou-os ao Egito.",
+        "Guardou-os no palácio."
+      ]
     },
     {
       "id": "2KI.24.subject.1",
@@ -928,7 +1388,12 @@
       "kind": "subject",
       "prompt": "Quem ficou em Jerusalém quando a cidade foi levada cativa?",
       "answer": "Só os mais pobres do povo da terra.",
-      "reference": "2Rs 24:14"
+      "reference": "2Rs 24:14",
+      "wrongs": [
+        "Só os príncipes da casa real.",
+        "Todo o povo, sem exceção.",
+        "Só os sacerdotes do templo."
+      ]
     },
     {
       "id": "2KI.24.name.1",
@@ -938,7 +1403,12 @@
       "kind": "name",
       "prompt": "Que nome Matanias recebeu ao ser posto como rei?",
       "answer": "Zedequias.",
-      "reference": "2Rs 24:17"
+      "reference": "2Rs 24:17",
+      "wrongs": [
+        "Jeoaquim.",
+        "Eliaquim.",
+        "Salum."
+      ]
     },
     {
       "id": "2KI.24.place.1",
@@ -948,7 +1418,12 @@
       "kind": "place",
       "prompt": "Para onde levaram Joaquim e a família real?",
       "answer": "Para a Babilônia.",
-      "reference": "2Rs 24:15"
+      "reference": "2Rs 24:15",
+      "wrongs": [
+        "Para o Egito.",
+        "Para a Assíria.",
+        "Para Nínive."
+      ]
     },
     {
       "id": "2KI.24.curiosity.1",
@@ -958,7 +1433,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens de guerra foram levados cativos com Joaquim?",
       "answer": "Sete mil, além de mil oficiais e ferreiros.",
-      "reference": "2Rs 24:16"
+      "reference": "2Rs 24:16",
+      "wrongs": [
+        "Três mil, além de quinhentos oficiais e ferreiros.",
+        "Doze mil, além de dois mil oficiais e ferreiros.",
+        "Quinhentos, além de cem oficiais e ferreiros."
+      ]
     },
     {
       "id": "2KI.25.subject.1",
@@ -968,7 +1448,12 @@
       "kind": "subject",
       "prompt": "O que foi queimado em Jerusalém?",
       "answer": "O templo, o palácio e as casas da cidade.",
-      "reference": "2Rs 25:9"
+      "reference": "2Rs 25:9",
+      "wrongs": [
+        "Só a muralha; o templo e o palácio ficaram de pé.",
+        "O templo foi poupado, e só as casas caíram.",
+        "Nada foi queimado; a cidade só perdeu as portas."
+      ]
     },
     {
       "id": "2KI.25.name.1",
@@ -978,7 +1463,12 @@
       "kind": "name",
       "prompt": "Quem Nabucodonosor pôs como governador de Judá?",
       "answer": "Gedalias, filho de Aicã.",
-      "reference": "2Rs 25:22"
+      "reference": "2Rs 25:22",
+      "wrongs": [
+        "Jeremias, filho de Hilquias.",
+        "Ismael, filho de Netanias.",
+        "Zorobabel, filho de Sealtiel."
+      ]
     },
     {
       "id": "2KI.25.place.1",
@@ -988,7 +1478,12 @@
       "kind": "place",
       "prompt": "Onde Zedequias, rei de Judá, ouviu a sentença?",
       "answer": "Em Ribla, diante do rei da Babilônia.",
-      "reference": "2Rs 25:6"
+      "reference": "2Rs 25:6",
+      "wrongs": [
+        "Em Jerusalém, diante dos anciãos.",
+        "Na Babilônia, diante dos sábios.",
+        "Em Carquemis, diante do faraó."
+      ]
     },
     {
       "id": "2KI.25.curiosity.1",
@@ -998,7 +1493,12 @@
       "kind": "curiosity",
       "prompt": "O que fizeram com Zedequias depois de matar os filhos?",
       "answer": "Cegaram-no e o levaram preso à Babilônia.",
-      "reference": "2Rs 25:7"
+      "reference": "2Rs 25:7",
+      "wrongs": [
+        "Mataram-no também e o deixaram em Ribla.",
+        "Deixaram-no rei e levaram só os filhos.",
+        "Prenderam-no em Jerusalém, sem cegá-lo."
+      ]
     },
     {
       "id": "2KI.0.curiosity.1",
@@ -1008,7 +1508,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 2 Reis?",
       "answer": "O livro não nomeia o autor.",
-      "reference": "2 Reis"
+      "reference": "2 Reis",
+      "wrongs": [
+        "O livro nomeia Moisés como autor.",
+        "O livro nomeia Salomão como autor.",
+        "O livro nomeia Davi como autor."
+      ]
     },
     {
       "id": "2KI.0.curiosity.2",
@@ -1018,7 +1523,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 2 Reis?",
       "answer": "No tempo do exílio, no século VI antes de Cristo.",
-      "reference": "2 Reis"
+      "reference": "2 Reis",
+      "wrongs": [
+        "No tempo de Salomão, no século X antes de Cristo.",
+        "No tempo dos juízes, no século XII antes de Cristo.",
+        "No século I, depois do nascimento de Cristo."
+      ]
     }
   ]
 }

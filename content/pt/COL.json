@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que foi criado por meio de Cristo?",
       "answer": "Todas as coisas, as do céu e as da terra.",
-      "reference": "Cl 1:16"
+      "reference": "Cl 1:16",
+      "wrongs": [
+        "Só os anjos, e não o que há na terra.",
+        "Só Israel, e não as outras nações.",
+        "Nada. A matéria sempre existiu."
+      ]
     },
     {
       "id": "COL.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "De quem os colossenses aprenderam o evangelho?",
       "answer": "De Epafras, cooperador querido de Paulo.",
-      "reference": "Cl 1:7"
+      "reference": "Cl 1:7",
+      "wrongs": [
+        "De Timóteo, filho de Paulo na fé.",
+        "De Apolo, que regou em Corinto.",
+        "De Pedro, que passou por aquelas cidades."
+      ]
     },
     {
       "id": "COL.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde estavam os irmãos a quem Paulo escreve que aprenderam com Epafras?",
       "answer": "Em Colossos.",
-      "reference": "Cl 1:2"
+      "reference": "Cl 1:2",
+      "wrongs": [
+        "Em Laodiceia.",
+        "Em Hierápolis.",
+        "Em Éfeso."
+      ]
     },
     {
       "id": "COL.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Como Cristo fez a paz?",
       "answer": "Pelo sangue da cruz dele.",
-      "reference": "Cl 1:20"
+      "reference": "Cl 1:20",
+      "wrongs": [
+        "Pela força dos anjos.",
+        "Pelo cumprimento da lei.",
+        "Por um acordo com Roma."
+      ]
     },
     {
       "id": "COL.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que habita em Cristo de modo corporal?",
       "answer": "Toda a plenitude da divindade.",
-      "reference": "Cl 2:9"
+      "reference": "Cl 2:9",
+      "wrongs": [
+        "Só a natureza humana, sem ser Deus.",
+        "Uma inspiração, como a dos profetas.",
+        "A glória de um anjo elevado."
+      ]
     },
     {
       "id": "COL.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "Por quem mais Paulo luta, além dos de Colossos?",
       "answer": "Pelos de Laodiceia e por quem nunca viu o rosto dele.",
-      "reference": "Cl 2:1"
+      "reference": "Cl 2:1",
+      "wrongs": [
+        "Pelos de Roma e pelo palácio de César.",
+        "Pelos de Jerusalém e pelo templo.",
+        "Só pelos de Colossos, e por mais ninguém."
+      ]
     },
     {
       "id": "COL.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "O que Cristo fez com o documento da dívida?",
       "answer": "Apagou e o pregou na cruz.",
-      "reference": "Cl 2:14"
+      "reference": "Cl 2:14",
+      "wrongs": [
+        "Guardou no templo, para cobrar depois.",
+        "Copiou em pedra, como nova lei.",
+        "Entregou aos anjos, para eles cobrarem."
+      ]
     },
     {
       "id": "COL.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Que ordens humanas Paulo diz para largar?",
       "answer": "Não pegar, não provar e não tocar.",
-      "reference": "Cl 2:21"
+      "reference": "Cl 2:21",
+      "wrongs": [
+        "Não matar, não adulterar e não furtar.",
+        "Não orar, não jejuar e não ofertar.",
+        "Amar a Deus, ao próximo e ao estrangeiro."
+      ]
     },
     {
       "id": "COL.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que deve buscar quem ressuscitou com Cristo?",
       "answer": "As coisas do alto, onde Cristo está à direita de Deus.",
-      "reference": "Cl 3:1"
+      "reference": "Cl 3:1",
+      "wrongs": [
+        "As coisas da terra, os cargos e os bens.",
+        "As regras de comida, bebida e festa.",
+        "A glória de Roma e o favor do imperador."
+      ]
     },
     {
       "id": "COL.3.curiosity.1",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "O que Paulo põe acima dos outros sentimentos?",
       "answer": "O amor, que une tudo em perfeição.",
-      "reference": "Cl 3:14"
+      "reference": "Cl 3:14",
+      "wrongs": [
+        "O medo, que segura os mais fracos.",
+        "O conhecimento, que enche de orgulho.",
+        "O jejum, que prova quem é santo."
+      ]
     },
     {
       "id": "COL.3.curiosity.2",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Em nome de quem se deve fazer tudo?",
       "answer": "No nome de Jesus.",
-      "reference": "Cl 3:17"
+      "reference": "Cl 3:17",
+      "wrongs": [
+        "No nome de Moisés.",
+        "No nome de César.",
+        "No nome dos anjos."
+      ]
     },
     {
       "id": "COL.4.subject.1",
@@ -118,7 +173,12 @@
       "kind": "subject",
       "prompt": "O que Paulo pede que orem para Deus abrir?",
       "answer": "Uma porta para anunciar a palavra.",
-      "reference": "Cl 4:3"
+      "reference": "Cl 4:3",
+      "wrongs": [
+        "Uma fuga da prisão naquela noite.",
+        "A queda dos adversários em Colossos.",
+        "Riqueza para a igreja da cidade."
+      ]
     },
     {
       "id": "COL.4.name.1",
@@ -128,7 +188,12 @@
       "kind": "name",
       "prompt": "Quem Paulo chama de médico amado?",
       "answer": "Lucas.",
-      "reference": "Cl 4:14"
+      "reference": "Cl 4:14",
+      "wrongs": [
+        "Epafras.",
+        "Tíquico.",
+        "Demas."
+      ]
     },
     {
       "id": "COL.4.place.1",
@@ -138,7 +203,12 @@
       "kind": "place",
       "prompt": "Onde mais Epafras tinha grande zelo?",
       "answer": "Em Laodiceia e em Hierápolis.",
-      "reference": "Cl 4:13"
+      "reference": "Cl 4:13",
+      "wrongs": [
+        "Em Éfeso e em Mileto.",
+        "Em Corinto e em Cencreia.",
+        "Em Filipos e em Tessalônica."
+      ]
     },
     {
       "id": "COL.4.curiosity.1",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "Como deve ser a fala dos crentes?",
       "answer": "Com graça e temperada com sal.",
-      "reference": "Cl 4:6"
+      "reference": "Cl 4:6",
+      "wrongs": [
+        "Com dureza, para vencer a discussão.",
+        "Com medo, para não ofender ninguém.",
+        "Com eloquência, mesmo sem verdade."
+      ]
     },
     {
       "id": "COL.0.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Colossenses?",
       "answer": "Paulo.",
-      "reference": "Colossenses"
+      "reference": "Colossenses",
+      "wrongs": [
+        "Epafras.",
+        "Timóteo.",
+        "Pedro."
+      ]
     },
     {
       "id": "COL.0.curiosity.2",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Colossenses?",
       "answer": "Na prisão, por volta do ano 60.",
-      "reference": "Colossenses"
+      "reference": "Colossenses",
+      "wrongs": [
+        "Na viagem, por volta do ano 51.",
+        "Em liberdade, por volta do ano 57.",
+        "Depois do ano 70, fora da prisão."
+      ]
     },
     {
       "id": "COL.0.curiosity.3",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu Colossenses?",
       "answer": "Para os irmãos que estavam em Colossos.",
-      "reference": "Cl 1:2"
+      "reference": "Cl 1:2",
+      "wrongs": [
+        "Para os irmãos que estavam em Laodiceia.",
+        "Para os irmãos que estavam em Éfeso.",
+        "Para os irmãos que estavam em Filipos."
+      ]
     }
   ]
 }

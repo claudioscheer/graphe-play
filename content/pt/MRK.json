@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que a voz do céu disse no batismo de Jesus?",
       "answer": "Que ele é o Filho amado, e que Deus se agrada dele.",
-      "reference": "Mc 1:11"
+      "reference": "Mc 1:11",
+      "wrongs": [
+        "Que ele é o Servo escolhido, e que o povo o siga.",
+        "Que ele é Elias, e que Deus o envia de novo.",
+        "Que ele é só um homem, e que o céu se cala."
+      ]
     },
     {
       "id": "MRK.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem batizava no deserto, pregando arrependimento, em Marcos?",
       "answer": "João.",
-      "reference": "Mc 1:4"
+      "reference": "Mc 1:4",
+      "wrongs": [
+        "Elias.",
+        "Pedro.",
+        "Isaías."
+      ]
     },
     {
       "id": "MRK.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde João batizou Jesus de Nazaré?",
       "answer": "No Jordão.",
-      "reference": "Mc 1:9"
+      "reference": "Mc 1:9",
+      "wrongs": [
+        "No mar da Galileia.",
+        "No tanque de Siloé.",
+        "No poço de Jacó."
+      ]
     },
     {
       "id": "MRK.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Quantos dias Jesus ficou no deserto?",
       "answer": "Quarenta dias, tentado por Satanás.",
-      "reference": "Mc 1:13"
+      "reference": "Mc 1:13",
+      "wrongs": [
+        "Sete dias, servido pelos anjos.",
+        "Três dias, sem comida nem água.",
+        "Vinte dias, só em oração."
+      ]
     },
     {
       "id": "MRK.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Como o paralítico foi posto diante de Jesus?",
       "answer": "Abriram o telhado e desceram o leito por um buraco.",
-      "reference": "Mc 2:4"
+      "reference": "Mc 2:4",
+      "wrongs": [
+        "Entraram pela porta dos fundos, carregando a maca.",
+        "Esperaram do lado de fora até Jesus sair.",
+        "O paralítico andou sozinho até a casa."
+      ]
     },
     {
       "id": "MRK.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem Jesus chamou no posto de impostos?",
       "answer": "Levi, filho de Alfeu.",
-      "reference": "Mc 2:14"
+      "reference": "Mc 2:14",
+      "wrongs": [
+        "Zaqueu, chefe da coletoria.",
+        "Bartolomeu, filho de Tolmai.",
+        "Simão, filho de Jonas."
+      ]
     },
     {
       "id": "MRK.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Em que cidade abriram o telhado para o paralítico, em Marcos?",
       "answer": "Em Cafarnaum.",
-      "reference": "Mc 2:1"
+      "reference": "Mc 2:1",
+      "wrongs": [
+        "Em Nazaré.",
+        "Em Betsaida.",
+        "Em Jericó."
+      ]
     },
     {
       "id": "MRK.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Por causa de quem o sábado foi feito, em Marcos?",
       "answer": "Por causa do ser humano, e não o contrário.",
-      "reference": "Mc 2:27"
+      "reference": "Mc 2:27",
+      "wrongs": [
+        "Por causa dos sacerdotes, para o culto no templo.",
+        "Por causa dos anjos, e não do povo.",
+        "Por causa do gado, que precisava descansar."
+      ]
     },
     {
       "id": "MRK.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Para que Jesus separou doze homens?",
       "answer": "Para ficarem com ele e serem enviados a pregar.",
-      "reference": "Mc 3:14"
+      "reference": "Mc 3:14",
+      "wrongs": [
+        "Para guardar o templo e recolher o dízimo.",
+        "Para voltarem às redes e à pesca.",
+        "Para escreverem a Lei numa nova tábua."
+      ]
     },
     {
       "id": "MRK.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Que apelido Jesus deu a Tiago e a João?",
       "answer": "Boanerges, que quer dizer filhos do trovão.",
-      "reference": "Mc 3:17"
+      "reference": "Mc 3:17",
+      "wrongs": [
+        "Cefas, que quer dizer pedra.",
+        "Rabôni, que quer dizer mestre.",
+        "Emanuel, que quer dizer Deus conosco."
+      ]
     },
     {
       "id": "MRK.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Onde estava o homem da mão atrofiada, em Marcos?",
       "answer": "Na sinagoga.",
-      "reference": "Mc 3:1"
+      "reference": "Mc 3:1",
+      "wrongs": [
+        "À beira do mar.",
+        "No pátio do templo.",
+        "Na casa de Levi."
+      ]
     },
     {
       "id": "MRK.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "O que houve quando o homem da mão atrofiada a estendeu, em Marcos?",
       "answer": "A mão ficou sã de novo.",
-      "reference": "Mc 3:5"
+      "reference": "Mc 3:5",
+      "wrongs": [
+        "A mão continuou mirrada.",
+        "A mão inchou e doeu mais.",
+        "A mão secou por completo."
+      ]
     },
     {
       "id": "MRK.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "O que Jesus fez à tempestade no mar?",
       "answer": "Mandou o vento e o mar se aquietarem, e veio bonança.",
-      "reference": "Mc 4:39"
+      "reference": "Mc 4:39",
+      "wrongs": [
+        "Pediu que remassem depressa para a praia.",
+        "A tempestade cresceu até o barco encher.",
+        "Lançou a âncora e esperou a bonança."
+      ]
     },
     {
       "id": "MRK.4.place.1",
@@ -138,7 +203,12 @@
       "kind": "place",
       "prompt": "De onde Jesus ensinava as parábolas à multidão?",
       "answer": "De um barco, no mar.",
-      "reference": "Mc 4:1"
+      "reference": "Mc 4:1",
+      "wrongs": [
+        "Do alto de um monte.",
+        "Da porta da sinagoga.",
+        "Do pátio do templo."
+      ]
     },
     {
       "id": "MRK.4.curiosity.1",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "Quanto rendeu a boa terra na parábola do semeador, em Marcos?",
       "answer": "Trinta, sessenta e cem por um.",
-      "reference": "Mc 4:8"
+      "reference": "Mc 4:8",
+      "wrongs": [
+        "Dez, vinte e trinta por um.",
+        "O dobro, e nada além disso.",
+        "Cem, duzentos e mil por um."
+      ]
     },
     {
       "id": "MRK.5.subject.1",
@@ -158,7 +233,12 @@
       "kind": "subject",
       "prompt": "O que a manada fez quando os demônios entraram nela, em Marcos?",
       "answer": "Quase dois mil porcos se jogaram na água e morreram.",
-      "reference": "Mc 5:13"
+      "reference": "Mc 5:13",
+      "wrongs": [
+        "Os porcos voltaram ao pasto e se acalmaram.",
+        "A manada correu para a cidade.",
+        "Os porcos atravessaram o rio e fugiram."
+      ]
     },
     {
       "id": "MRK.5.name.1",
@@ -168,7 +248,12 @@
       "kind": "name",
       "prompt": "Que nome o espírito imundo deu a si, em Marcos?",
       "answer": "Legião, porque eram muitos.",
-      "reference": "Mc 5:9"
+      "reference": "Mc 5:9",
+      "wrongs": [
+        "Belzebu, porque era o chefe.",
+        "Satanás, porque tentava a todos.",
+        "Mudo, porque não podia falar."
+      ]
     },
     {
       "id": "MRK.5.place.1",
@@ -178,7 +263,12 @@
       "kind": "place",
       "prompt": "À terra de quem Jesus chegou, onde o espírito se chamava Legião?",
       "answer": "À terra dos gadarenos.",
-      "reference": "Mc 5:1"
+      "reference": "Mc 5:1",
+      "wrongs": [
+        "À terra dos samaritanos.",
+        "Às praias de Tiro.",
+        "Às colinas de Jericó."
+      ]
     },
     {
       "id": "MRK.5.curiosity.1",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "Quantos anos tinha a menina que Jesus levantou?",
       "answer": "Doze anos.",
-      "reference": "Mc 5:42"
+      "reference": "Mc 5:42",
+      "wrongs": [
+        "Sete anos.",
+        "Vinte anos.",
+        "Três anos."
+      ]
     },
     {
       "id": "MRK.6.subject.1",
@@ -198,7 +293,12 @@
       "kind": "subject",
       "prompt": "O que Jesus fez com cinco pães e dois peixes?",
       "answer": "Abençoou, partiu e deu aos discípulos para servirem.",
-      "reference": "Mc 6:41"
+      "reference": "Mc 6:41",
+      "wrongs": [
+        "Guardou os pães para o dia seguinte.",
+        "Mandou o povo comprar nas aldeias.",
+        "Serviu só os peixes e guardou os pães."
+      ]
     },
     {
       "id": "MRK.6.name.1",
@@ -208,7 +308,12 @@
       "kind": "name",
       "prompt": "Por causa de quem Herodes prendeu João?",
       "answer": "De Herodias, esposa do irmão dele, Filipe.",
-      "reference": "Mc 6:17"
+      "reference": "Mc 6:17",
+      "wrongs": [
+        "De Salomé, que dançou na festa.",
+        "Da mulher de Pilatos.",
+        "De Isabel, mãe de João."
+      ]
     },
     {
       "id": "MRK.6.place.1",
@@ -218,7 +323,12 @@
       "kind": "place",
       "prompt": "Para onde Marcos conta que Jesus mandou o barco seguir?",
       "answer": "Para Betsaida, do outro lado.",
-      "reference": "Mc 6:45"
+      "reference": "Mc 6:45",
+      "wrongs": [
+        "Para Cafarnaum, na mesma margem.",
+        "Para Tiberíades, ao sul.",
+        "Para Genesaré, já de noite."
+      ]
     },
     {
       "id": "MRK.6.curiosity.1",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens comeram os cinco pães, em Marcos?",
       "answer": "Quase cinco mil.",
-      "reference": "Mc 6:44"
+      "reference": "Mc 6:44",
+      "wrongs": [
+        "Quase quatro mil.",
+        "Quase doze mil.",
+        "Quase sete mil."
+      ]
     },
     {
       "id": "MRK.7.subject.1",
@@ -238,7 +353,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu com o surdo que mal falava, em Marcos?",
       "answer": "Os ouvidos se abriram e ele passou a falar bem.",
-      "reference": "Mc 7:35"
+      "reference": "Mc 7:35",
+      "wrongs": [
+        "Continuou surdo e sem conseguir falar.",
+        "Passou a ouvir, mas a língua ficou presa.",
+        "A febre cedeu, e a audição não mudou."
+      ]
     },
     {
       "id": "MRK.7.name.1",
@@ -248,7 +368,12 @@
       "kind": "name",
       "prompt": "De que origem era a mulher da filha endemoninhada, em Marcos?",
       "answer": "Grega, de nacionalidade sirofenícia.",
-      "reference": "Mc 7:26"
+      "reference": "Mc 7:26",
+      "wrongs": [
+        "Judia, da cidade de Jerusalém.",
+        "Romana, da casa de César.",
+        "Samaritana, da cidade de Sicar."
+      ]
     },
     {
       "id": "MRK.7.place.1",
@@ -258,7 +383,12 @@
       "kind": "place",
       "prompt": "Para que região Jesus foi e tentou ficar escondido?",
       "answer": "À região de Tiro e à de Sidom.",
-      "reference": "Mc 7:24"
+      "reference": "Mc 7:24",
+      "wrongs": [
+        "À região de Decápolis, além do mar.",
+        "Às cidades da Samaria.",
+        "Ao deserto da Judeia."
+      ]
     },
     {
       "id": "MRK.7.curiosity.1",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "Que palavra Jesus disse ao abrir os ouvidos do surdo?",
       "answer": "Efatá, que significa abre.",
-      "reference": "Mc 7:34"
+      "reference": "Mc 7:34",
+      "wrongs": [
+        "Talita, que significa menina.",
+        "Hosana, que significa salva agora.",
+        "Aba, que significa pai."
+      ]
     },
     {
       "id": "MRK.8.subject.1",
@@ -278,7 +413,12 @@
       "kind": "subject",
       "prompt": "Quem Pedro disse que Jesus era?",
       "answer": "O Cristo.",
-      "reference": "Mc 8:29"
+      "reference": "Mc 8:29",
+      "wrongs": [
+        "Elias.",
+        "João Batista.",
+        "Um dos profetas."
+      ]
     },
     {
       "id": "MRK.8.place.1",
@@ -288,7 +428,12 @@
       "kind": "place",
       "prompt": "Onde Jesus perguntou quem as pessoas diziam que ele era?",
       "answer": "No caminho das aldeias de Cesareia de Filipe.",
-      "reference": "Mc 8:27"
+      "reference": "Mc 8:27",
+      "wrongs": [
+        "Nas praias de Cafarnaum.",
+        "No monte das Oliveiras.",
+        "Na estrada de Jericó."
+      ]
     },
     {
       "id": "MRK.8.curiosity.1",
@@ -298,7 +443,12 @@
       "kind": "curiosity",
       "prompt": "Quantos cestos sobraram dos sete pães, em Marcos?",
       "answer": "Sete cestos.",
-      "reference": "Mc 8:8"
+      "reference": "Mc 8:8",
+      "wrongs": [
+        "Doze cestos.",
+        "Cinco cestos.",
+        "Dois cestos."
+      ]
     },
     {
       "id": "MRK.8.curiosity.2",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "O que o cego de Betsaida viu no primeiro olhar?",
       "answer": "Pessoas parecidas com árvores que andavam.",
-      "reference": "Mc 8:24"
+      "reference": "Mc 8:24",
+      "wrongs": [
+        "Aves pousadas no chão, bem perto.",
+        "Só um clarão, sem forma de gente.",
+        "O rosto de Jesus, já nítido."
+      ]
     },
     {
       "id": "MRK.9.subject.1",
@@ -318,7 +473,12 @@
       "kind": "subject",
       "prompt": "Como ficaram as roupas de Jesus no monte?",
       "answer": "Brilharam, brancas como a neve, além de qualquer lavadeiro.",
-      "reference": "Mc 9:3"
+      "reference": "Mc 9:3",
+      "wrongs": [
+        "Ficaram escuras, como pano de luto.",
+        "Rasgaram com o vento do monte.",
+        "Continuaram iguais às dos discípulos."
+      ]
     },
     {
       "id": "MRK.9.name.1",
@@ -328,7 +488,12 @@
       "kind": "name",
       "prompt": "Quem apareceu falando com Jesus no monte?",
       "answer": "Elias e Moisés.",
-      "reference": "Mc 9:4"
+      "reference": "Mc 9:4",
+      "wrongs": [
+        "Abraão e Isaque.",
+        "Davi e Salomão.",
+        "Isaías e Jeremias."
+      ]
     },
     {
       "id": "MRK.9.place.1",
@@ -338,7 +503,12 @@
       "kind": "place",
       "prompt": "Aonde Jesus levou Pedro, Tiago e João na transfiguração?",
       "answer": "A um alto monte, só os três.",
-      "reference": "Mc 9:2"
+      "reference": "Mc 9:2",
+      "wrongs": [
+        "Ao templo, no pátio interno.",
+        "Ao Jordão, na hora do batismo.",
+        "A um barco, longe da margem."
+      ]
     },
     {
       "id": "MRK.9.curiosity.1",
@@ -348,7 +518,12 @@
       "kind": "curiosity",
       "prompt": "Como Jesus disse que sai o espírito mudo do menino?",
       "answer": "Com oração e jejum.",
-      "reference": "Mc 9:29"
+      "reference": "Mc 9:29",
+      "wrongs": [
+        "Com óleo ungido e um grito.",
+        "Com um nome secreto, dito três vezes.",
+        "Com jejum do pai, e nada mais."
+      ]
     },
     {
       "id": "MRK.10.subject.1",
@@ -358,7 +533,12 @@
       "kind": "subject",
       "prompt": "O que é mais fácil do que um rico entrar no Reino?",
       "answer": "Um camelo atravessar o fundo de uma agulha.",
-      "reference": "Mc 10:25"
+      "reference": "Mc 10:25",
+      "wrongs": [
+        "Um cavalo passar pela porta estreita.",
+        "Um fio atravessar o fundo da agulha.",
+        "Uma ovelha entrar no curral à noite."
+      ]
     },
     {
       "id": "MRK.10.name.1",
@@ -368,7 +548,12 @@
       "kind": "name",
       "prompt": "Quem era o cego sentado à beira do caminho em Jericó?",
       "answer": "Bartimeu, filho de Timeu.",
-      "reference": "Mc 10:46"
+      "reference": "Mc 10:46",
+      "wrongs": [
+        "Timeu, pai de Bartimeu.",
+        "Zaqueu, o cobrador.",
+        "Simão, o leproso."
+      ]
     },
     {
       "id": "MRK.10.place.1",
@@ -378,7 +563,12 @@
       "kind": "place",
       "prompt": "Para onde Jesus disse que subia com os doze?",
       "answer": "Para Jerusalém.",
-      "reference": "Mc 10:33"
+      "reference": "Mc 10:33",
+      "wrongs": [
+        "Para Cafarnaum.",
+        "Para Jericó.",
+        "Para o Egito."
+      ]
     },
     {
       "id": "MRK.10.curiosity.1",
@@ -388,7 +578,12 @@
       "kind": "curiosity",
       "prompt": "De quem Jesus disse que é o Reino de Deus?",
       "answer": "Das crianças.",
-      "reference": "Mc 10:14"
+      "reference": "Mc 10:14",
+      "wrongs": [
+        "Dos fariseus que guardam a Lei.",
+        "Dos soldados que obedecem.",
+        "Dos ricos que dão esmola."
+      ]
     },
     {
       "id": "MRK.11.subject.1",
@@ -398,7 +593,12 @@
       "kind": "subject",
       "prompt": "Sobre o que Jesus montou, por cima das roupas?",
       "answer": "Sobre um jumentinho, em cima das roupas.",
-      "reference": "Mc 11:7"
+      "reference": "Mc 11:7",
+      "wrongs": [
+        "Sobre um cavalo de guerra.",
+        "Sobre os ombros da multidão.",
+        "Sobre um camelo, sem manta."
+      ]
     },
     {
       "id": "MRK.11.place.1",
@@ -408,7 +608,12 @@
       "kind": "place",
       "prompt": "Junto a que monte ficam Betfagé e Betânia?",
       "answer": "Ao monte das Oliveiras, perto de Jerusalém.",
-      "reference": "Mc 11:1"
+      "reference": "Mc 11:1",
+      "wrongs": [
+        "Ao monte Sião, dentro da cidade.",
+        "Ao monte Carmelo, ao norte.",
+        "Ao monte Gerizim, na Samaria."
+      ]
     },
     {
       "id": "MRK.11.curiosity.1",
@@ -418,7 +623,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus revirou ao entrar no Templo?",
       "answer": "As mesas de quem trocava moeda e as cadeiras das pombas.",
-      "reference": "Mc 11:15"
+      "reference": "Mc 11:15",
+      "wrongs": [
+        "O véu do lugar santo e as cortinas do átrio.",
+        "As colunas do pátio e o altar dos sacrifícios.",
+        "Os bancos dos escribas e a arca das ofertas."
+      ]
     },
     {
       "id": "MRK.11.curiosity.2",
@@ -428,7 +638,12 @@
       "kind": "curiosity",
       "prompt": "Como acharam a figueira que Jesus amaldiçoou, na manhã seguinte?",
       "answer": "Seca a partir das raízes.",
-      "reference": "Mc 11:20"
+      "reference": "Mc 11:20",
+      "wrongs": [
+        "Cheia de figos maduros.",
+        "Verde, mas ainda sem fruto.",
+        "Cortada rente ao chão."
+      ]
     },
     {
       "id": "MRK.12.subject.1",
@@ -438,7 +653,12 @@
       "kind": "subject",
       "prompt": "Como Jesus mandou amar a Deus?",
       "answer": "Com coração, alma, entendimento e forças, por inteiro.",
-      "reference": "Mc 12:30"
+      "reference": "Mc 12:30",
+      "wrongs": [
+        "Com ofertas, jejum e votos no templo.",
+        "Com medo, silêncio e distância do templo.",
+        "Só de boca, sem envolver o coração nem a vida."
+      ]
     },
     {
       "id": "MRK.12.name.1",
@@ -448,7 +668,12 @@
       "kind": "name",
       "prompt": "De quem era a imagem e a inscrição da moeda, em Marcos?",
       "answer": "De César.",
-      "reference": "Mc 12:16"
+      "reference": "Mc 12:16",
+      "wrongs": [
+        "De Herodes.",
+        "De Davi.",
+        "De Pilatos."
+      ]
     },
     {
       "id": "MRK.12.place.1",
@@ -458,7 +683,12 @@
       "kind": "place",
       "prompt": "Onde Jesus observou o povo lançar ofertas?",
       "answer": "Sentado diante da arca do tesouro.",
-      "reference": "Mc 12:41"
+      "reference": "Mc 12:41",
+      "wrongs": [
+        "De pé, junto ao altar dos sacrifícios.",
+        "Na porta Formosa, entre os pedintes.",
+        "No pátio das mulheres, de costas."
+      ]
     },
     {
       "id": "MRK.12.curiosity.1",
@@ -468,7 +698,12 @@
       "kind": "curiosity",
       "prompt": "Quanto a viúva pobre colocou na oferta, em Marcos?",
       "answer": "Duas moedas mínimas.",
-      "reference": "Mc 12:42"
+      "reference": "Mc 12:42",
+      "wrongs": [
+        "Um denário inteiro.",
+        "Dez moedas de prata.",
+        "Uma única moeda de ouro."
+      ]
     },
     {
       "id": "MRK.13.subject.1",
@@ -478,7 +713,12 @@
       "kind": "subject",
       "prompt": "Quem sabe o dia e a hora do fim, em Marcos?",
       "answer": "Só o Pai. Nem os anjos nem o Filho sabem.",
-      "reference": "Mc 13:32"
+      "reference": "Mc 13:32",
+      "wrongs": [
+        "Só o Filho. O Pai espera a hora dele.",
+        "Os anjos do céu, reunidos em conselho.",
+        "Qualquer discípulo que vigie de noite."
+      ]
     },
     {
       "id": "MRK.13.name.1",
@@ -488,7 +728,12 @@
       "kind": "name",
       "prompt": "Que profeta falou da abominação da desolação, em Marcos?",
       "answer": "Daniel.",
-      "reference": "Mc 13:14"
+      "reference": "Mc 13:14",
+      "wrongs": [
+        "Isaías.",
+        "Jeremias.",
+        "Ezequiel."
+      ]
     },
     {
       "id": "MRK.13.place.1",
@@ -498,7 +743,12 @@
       "kind": "place",
       "prompt": "Em que monte Pedro, Tiago, João e André falaram com Jesus?",
       "answer": "No monte das Oliveiras, olhando o templo.",
-      "reference": "Mc 13:3"
+      "reference": "Mc 13:3",
+      "wrongs": [
+        "No monte Sião, olhando o palácio.",
+        "No Carmelo, longe da cidade.",
+        "No Gerizim, de frente para o templo."
+      ]
     },
     {
       "id": "MRK.13.curiosity.1",
@@ -508,7 +758,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus disse dos grandes edifícios do templo?",
       "answer": "Não ficaria pedra sobre pedra.",
-      "reference": "Mc 13:2"
+      "reference": "Mc 13:2",
+      "wrongs": [
+        "Seriam ampliados pelo rei seguinte.",
+        "Só o véu interno cairia.",
+        "Ficariam de pé até o fim."
+      ]
     },
     {
       "id": "MRK.14.subject.1",
@@ -518,7 +773,12 @@
       "kind": "subject",
       "prompt": "O que Jesus disse que era o copo da ceia?",
       "answer": "O sangue da nova aliança, derramado em favor de muitos.",
-      "reference": "Mc 14:24"
+      "reference": "Mc 14:24",
+      "wrongs": [
+        "O vinho da festa, guardado para os doze.",
+        "A água da purificação daquela noite.",
+        "O suco do lagar, símbolo da colheita."
+      ]
     },
     {
       "id": "MRK.14.name.1",
@@ -528,7 +788,12 @@
       "kind": "name",
       "prompt": "Quem foi aos chefes dos sacerdotes entregar Jesus?",
       "answer": "Judas Iscariotes, um dos doze.",
-      "reference": "Mc 14:10"
+      "reference": "Mc 14:10",
+      "wrongs": [
+        "Pedro, pressionado pelos guardas.",
+        "João, o mais jovem dos doze.",
+        "Simão, o zelote, um dos doze."
+      ]
     },
     {
       "id": "MRK.14.place.1",
@@ -538,7 +803,12 @@
       "kind": "place",
       "prompt": "Onde Jesus orou com Pedro, Tiago e João antes da prisão?",
       "answer": "Em Getsêmani.",
-      "reference": "Mc 14:32"
+      "reference": "Mc 14:32",
+      "wrongs": [
+        "No cenáculo, dentro da cidade.",
+        "No pátio de Caifás.",
+        "No caminho de Emaús."
+      ]
     },
     {
       "id": "MRK.14.curiosity.1",
@@ -548,7 +818,12 @@
       "kind": "curiosity",
       "prompt": "Como fugiu o rapaz que seguia Jesus na prisão?",
       "answer": "Largou o lençol e correu sem roupa.",
-      "reference": "Mc 14:52"
+      "reference": "Mc 14:52",
+      "wrongs": [
+        "Cobriu o rosto com o lençol e saiu devagar.",
+        "Entregou o lençol aos guardas e ficou.",
+        "Rasgou o lençol e se escondeu no jardim."
+      ]
     },
     {
       "id": "MRK.15.subject.1",
@@ -558,7 +833,12 @@
       "kind": "subject",
       "prompt": "O que houve com Jesus ao dar o último grito?",
       "answer": "Ele expirou.",
-      "reference": "Mc 15:37"
+      "reference": "Mc 15:37",
+      "wrongs": [
+        "Ele desceu da cruz.",
+        "Ele pediu água e ficou.",
+        "A multidão o soltou."
+      ]
     },
     {
       "id": "MRK.15.name.1",
@@ -568,7 +848,12 @@
       "kind": "name",
       "prompt": "Quem carregou a cruz de Jesus?",
       "answer": "Simão de Cirene, pai de Alexandre e Rufo.",
-      "reference": "Mc 15:21"
+      "reference": "Mc 15:21",
+      "wrongs": [
+        "José de Arimateia, membro do conselho.",
+        "André, irmão de Pedro.",
+        "João, filho de Zebedeu."
+      ]
     },
     {
       "id": "MRK.15.place.1",
@@ -578,7 +863,12 @@
       "kind": "place",
       "prompt": "Onde crucificaram Jesus?",
       "answer": "No Gólgota, o lugar da caveira.",
-      "reference": "Mc 15:22"
+      "reference": "Mc 15:22",
+      "wrongs": [
+        "No Getsêmani, o horto.",
+        "Em Betânia, junto a Lázaro.",
+        "No pretório de Pilatos."
+      ]
     },
     {
       "id": "MRK.15.curiosity.1",
@@ -588,7 +878,12 @@
       "kind": "curiosity",
       "prompt": "Em que hora crucificaram Jesus?",
       "answer": "Na hora terceira.",
-      "reference": "Mc 15:25"
+      "reference": "Mc 15:25",
+      "wrongs": [
+        "Na hora sexta.",
+        "Na hora nona.",
+        "Na hora primeira."
+      ]
     },
     {
       "id": "MRK.16.subject.1",
@@ -598,7 +893,12 @@
       "kind": "subject",
       "prompt": "O que o jovem anunciou sobre Jesus no sepulcro?",
       "answer": "Que o Nazareno já tinha ressuscitado e não estava ali.",
-      "reference": "Mc 16:6"
+      "reference": "Mc 16:6",
+      "wrongs": [
+        "Que o corpo tinha sido roubado de noite.",
+        "Que Jesus ainda estava no sepulcro.",
+        "Que elas deviam procurar em outro túmulo."
+      ]
     },
     {
       "id": "MRK.16.name.1",
@@ -608,7 +908,12 @@
       "kind": "name",
       "prompt": "Quem comprou especiarias, passado o sábado, para ungir Jesus?",
       "answer": "Madalena, Salomé e Maria, mãe de Tiago.",
-      "reference": "Mc 16:1"
+      "reference": "Mc 16:1",
+      "wrongs": [
+        "Joana, Susana e Marta.",
+        "A mãe de Jesus, com Marta.",
+        "Só Pedro e João, ainda de madrugada."
+      ]
     },
     {
       "id": "MRK.16.place.1",
@@ -618,7 +923,12 @@
       "kind": "place",
       "prompt": "Para onde Jesus iria adiante dos discípulos?",
       "answer": "Para a Galileia.",
-      "reference": "Mc 16:7"
+      "reference": "Mc 16:7",
+      "wrongs": [
+        "Para Jerusalém, no cenáculo.",
+        "Para o Jordão, onde fora batizado.",
+        "Para Emaús, com dois discípulos."
+      ]
     },
     {
       "id": "MRK.16.curiosity.1",
@@ -628,7 +938,12 @@
       "kind": "curiosity",
       "prompt": "De quantos demônios Jesus tinha libertado Maria Madalena?",
       "answer": "De sete.",
-      "reference": "Mc 16:9"
+      "reference": "Mc 16:9",
+      "wrongs": [
+        "De três.",
+        "De doze.",
+        "De um só."
+      ]
     },
     {
       "id": "MRK.0.curiosity.1",
@@ -638,7 +953,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Marcos?",
       "answer": "Marcos, com o testemunho de Pedro.",
-      "reference": "Marcos"
+      "reference": "Marcos",
+      "wrongs": [
+        "Mateus, discípulo chamado na coletoria.",
+        "Lucas, o médico companheiro de Paulo.",
+        "João, o apóstolo, já bem idoso."
+      ]
     },
     {
       "id": "MRK.0.curiosity.2",
@@ -648,7 +968,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Marcos?",
       "answer": "Antes do ano 70.",
-      "reference": "Marcos"
+      "reference": "Marcos",
+      "wrongs": [
+        "Por volta do ano 95.",
+        "No fim do século II.",
+        "Depois do ano 120."
+      ]
     }
   ]
 }

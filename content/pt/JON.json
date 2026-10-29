@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Para onde Jonas fugiu?",
       "answer": "Para Társis, longe da presença do Senhor.",
-      "reference": "Jn 1:3"
+      "reference": "Jn 1:3",
+      "wrongs": [
+        "Para Nínive, como o Senhor mandou.",
+        "Para Jerusalém, perto do templo.",
+        "Para o Egito, pelo caminho do deserto."
+      ]
     },
     {
       "id": "JON.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem Deus enviou a Nínive?",
       "answer": "Jonas, filho de Amitai.",
-      "reference": "Jn 1:1"
+      "reference": "Jn 1:1",
+      "wrongs": [
+        "Oséias, filho de Beeri.",
+        "Amós, pastor de Tecoa.",
+        "Joel, filho de Petuel."
+      ]
     },
     {
       "id": "JON.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "De que porto Jonas embarcou?",
       "answer": "De Jope.",
-      "reference": "Jn 1:3"
+      "reference": "Jn 1:3",
+      "wrongs": [
+        "De Tiro.",
+        "De Sidom.",
+        "De Gebal."
+      ]
     },
     {
       "id": "JON.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Como acharam o culpado da tempestade, em Jonas?",
       "answer": "Lançaram sortes, e a sorte caiu sobre Jonas.",
-      "reference": "Jn 1:7"
+      "reference": "Jn 1:7",
+      "wrongs": [
+        "Perguntaram ao capitão, e ele culpou Jonas.",
+        "Olharam o mapa, e acharam Jonas no porão.",
+        "Contaram a carga, e o nome de Jonas sobrou."
+      ]
     },
     {
       "id": "JON.1.curiosity.2",
@@ -48,7 +68,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo Jonas ficou no peixe?",
       "answer": "Três dias e três noites.",
-      "reference": "Jn 1:17"
+      "reference": "Jn 1:17",
+      "wrongs": [
+        "Um dia e uma noite.",
+        "Sete dias e sete noites.",
+        "Quarenta dias inteiros."
+      ]
     },
     {
       "id": "JON.2.subject.1",
@@ -58,7 +83,12 @@
       "kind": "subject",
       "prompt": "De onde Jonas orou ao Senhor?",
       "answer": "Do ventre do peixe.",
-      "reference": "Jn 2:1"
+      "reference": "Jn 2:1",
+      "wrongs": [
+        "Do convés do navio.",
+        "Da praia de Nínive.",
+        "Do porto de Jope."
+      ]
     },
     {
       "id": "JON.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "O que o peixe fez com Jonas?",
       "answer": "Devolveu Jonas em terra seca.",
-      "reference": "Jn 2:10"
+      "reference": "Jn 2:10",
+      "wrongs": [
+        "Levando Jonas até Nínive.",
+        "Guardando Jonas no fundo.",
+        "Soltando Jonas em Társis."
+      ]
     },
     {
       "id": "JON.2.place.1",
@@ -78,7 +113,12 @@
       "kind": "place",
       "prompt": "Para onde Jonas olhou na oração?",
       "answer": "Para o santo templo do Senhor.",
-      "reference": "Jn 2:4"
+      "reference": "Jn 2:4",
+      "wrongs": [
+        "Para as muralhas de Nínive.",
+        "Para o porto velho de Jope.",
+        "Para o palácio do rei."
+      ]
     },
     {
       "id": "JON.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Como Nínive reagiu à mensagem?",
       "answer": "O povo creu em Deus e se arrependeu.",
-      "reference": "Jn 3:5"
+      "reference": "Jn 3:5",
+      "wrongs": [
+        "O povo riu e expulsou Jonas.",
+        "O povo fechou a porta e lutou.",
+        "O povo ignorou e seguiu a festa."
+      ]
     },
     {
       "id": "JON.3.curiosity.1",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "Que prazo Jonas anunciou a Nínive?",
       "answer": "Ainda quarenta dias.",
-      "reference": "Jn 3:4"
+      "reference": "Jn 3:4",
+      "wrongs": [
+        "Ainda três dias.",
+        "Ainda sete dias.",
+        "Ainda um ano cheio."
+      ]
     },
     {
       "id": "JON.3.name.1",
@@ -108,7 +158,12 @@
       "kind": "name",
       "prompt": "Quem em Nínive se cobriu de pano de saco e sentou nas cinzas?",
       "answer": "O rei de Nínive.",
-      "reference": "Jn 3:6"
+      "reference": "Jn 3:6",
+      "wrongs": [
+        "O profeta Jonas.",
+        "O capitão do navio.",
+        "O sacerdote do templo."
+      ]
     },
     {
       "id": "JON.3.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus fez ao ver o arrependimento de Nínive?",
       "answer": "Não trouxe a destruição anunciada.",
-      "reference": "Jn 3:10"
+      "reference": "Jn 3:10",
+      "wrongs": [
+        "Destruiu a cidade mesmo assim.",
+        "Adiou o castigo só por um dia.",
+        "Mudou o aviso para outra terra."
+      ]
     },
     {
       "id": "JON.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Por que Jonas ficou irritado?",
       "answer": "Porque Deus poupou Nínive.",
-      "reference": "Jn 4:1"
+      "reference": "Jn 4:1",
+      "wrongs": [
+        "Porque a planta cresceu demais.",
+        "Porque o peixe voltou ao mar.",
+        "Porque o navio não partiu."
+      ]
     },
     {
       "id": "JON.4.curiosity.1",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus preparou para sombrear Jonas?",
       "answer": "Uma planta.",
-      "reference": "Jn 4:6"
+      "reference": "Jn 4:6",
+      "wrongs": [
+        "Uma nuvem.",
+        "Uma tenda.",
+        "Uma rocha."
+      ]
     },
     {
       "id": "JON.4.curiosity.2",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu com a planta que Deus deu a Jonas?",
       "answer": "Um verme a feriu, e ela secou.",
-      "reference": "Jn 4:7"
+      "reference": "Jn 4:7",
+      "wrongs": [
+        "Ela cresceu e cobriu a cidade.",
+        "O vento a regou, e ela floriu.",
+        "Jonas a colheu para comer."
+      ]
     },
     {
       "id": "JON.4.curiosity.3",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "De quem Deus teve compaixão em Nínive?",
       "answer": "De muita gente que não distinguia o bem do mal.",
-      "reference": "Jn 4:11"
+      "reference": "Jn 4:11",
+      "wrongs": [
+        "Só do rei e dos soldados, que sabiam o caminho.",
+        "De ninguém da cidade, pois ela foi destruída.",
+        "Dos bois e das vacas, e de nenhuma pessoa."
+      ]
     },
     {
       "id": "JON.0.curiosity.1",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Jonas?",
       "answer": "Jonas.",
-      "reference": "Jonas"
+      "reference": "Jonas",
+      "wrongs": [
+        "Amós.",
+        "Joel.",
+        "Naum."
+      ]
     },
     {
       "id": "JON.0.curiosity.2",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Jonas?",
       "answer": "No século VIII antes de Cristo.",
-      "reference": "Jonas"
+      "reference": "Jonas",
+      "wrongs": [
+        "No século V antes de Cristo.",
+        "No século III antes de Cristo.",
+        "No século I depois de Cristo."
+      ]
     }
   ]
 }

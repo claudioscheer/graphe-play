@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Quem estava no meio dos sete candelabros, no Apocalipse?",
       "answer": "Alguém parecido com o Filho do homem.",
-      "reference": "Ap 1:13"
+      "reference": "Ap 1:13",
+      "wrongs": [
+        "Um anjo com as chaves da morte.",
+        "O imperador sentado num trono.",
+        "Moisés, com as tábuas na mão."
+      ]
     },
     {
       "id": "REV.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem recebeu a revelação para os servos de Deus, no Apocalipse?",
       "answer": "João.",
-      "reference": "Ap 1:1"
+      "reference": "Ap 1:1",
+      "wrongs": [
+        "Pedro.",
+        "Paulo.",
+        "Tiago."
+      ]
     },
     {
       "id": "REV.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde João estava por causa do testemunho?",
       "answer": "Na ilha de Patmos.",
-      "reference": "Ap 1:9"
+      "reference": "Ap 1:9",
+      "wrongs": [
+        "Na ilha de Creta.",
+        "Na ilha de Malta.",
+        "Na ilha de Chipre."
+      ]
     },
     {
       "id": "REV.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que significam os sete candelabros de ouro, no Apocalipse?",
       "answer": "As sete igrejas.",
-      "reference": "Ap 1:20"
+      "reference": "Ap 1:20",
+      "wrongs": [
+        "Os sete anjos.",
+        "Os sete selos.",
+        "Os sete dias da criação."
+      ]
     },
     {
       "id": "REV.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que Jesus tinha contra a igreja de Éfeso?",
       "answer": "Ela tinha abandonado o primeiro amor.",
-      "reference": "Ap 2:4"
+      "reference": "Ap 2:4",
+      "wrongs": [
+        "Ela negava o nome de Jesus.",
+        "Ela estava morta, apesar da fama.",
+        "Ela era morna, nem fria nem quente."
+      ]
     },
     {
       "id": "REV.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem se dizia profetisa na igreja de Tiatira?",
       "answer": "A mulher Jezabel.",
-      "reference": "Ap 2:20"
+      "reference": "Ap 2:20",
+      "wrongs": [
+        "A profetisa Ana.",
+        "A rainha Ester.",
+        "Maria Madalena."
+      ]
     },
     {
       "id": "REV.2.place.1",
@@ -69,7 +99,12 @@
       "kind": "place",
       "prompt": "Onde ficava o trono de Satanás?",
       "answer": "Em Pérgamo.",
-      "reference": "Ap 2:12-13"
+      "reference": "Ap 2:12-13",
+      "wrongs": [
+        "Em Éfeso.",
+        "Em Tiatira.",
+        "Em Laodiceia."
+      ]
     },
     {
       "id": "REV.2.curiosity.1",
@@ -79,7 +114,12 @@
       "kind": "curiosity",
       "prompt": "Que prêmio Jesus prometeu à igreja de Esmirna?",
       "answer": "A coroa da vida, a quem fosse fiel até a morte.",
-      "reference": "Ap 2:10"
+      "reference": "Ap 2:10",
+      "wrongs": [
+        "Uma porta aberta, que ninguém fecha.",
+        "O maná escondido e uma pedra branca.",
+        "O trono, junto ao Pai."
+      ]
     },
     {
       "id": "REV.3.subject.1",
@@ -89,7 +129,12 @@
       "kind": "subject",
       "prompt": "Por que Jesus ameaçou vomitar a igreja de Laodiceia?",
       "answer": "Porque ela era morna, nem fria nem quente.",
-      "reference": "Ap 3:16"
+      "reference": "Ap 3:16",
+      "wrongs": [
+        "Porque ela tinha deixado o primeiro amor.",
+        "Porque ela seguia o ensino de Balaão.",
+        "Porque ela se dizia rica e fiel em tudo."
+      ]
     },
     {
       "id": "REV.3.place.1",
@@ -99,7 +144,12 @@
       "kind": "place",
       "prompt": "Qual igreja tinha fama de viva, mas estava morta, no Apocalipse?",
       "answer": "A igreja de Sardes.",
-      "reference": "Ap 3:1"
+      "reference": "Ap 3:1",
+      "wrongs": [
+        "A igreja de Esmirna.",
+        "A igreja de Filadélfia.",
+        "A igreja de Tiatira."
+      ]
     },
     {
       "id": "REV.3.curiosity.1",
@@ -109,7 +159,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus deu à igreja de Filadélfia?",
       "answer": "Uma porta aberta, que ninguém consegue fechar.",
-      "reference": "Ap 3:8"
+      "reference": "Ap 3:8",
+      "wrongs": [
+        "A coroa da vida, se fosse fiel até a morte.",
+        "Ouro puro, para ela ficar rica.",
+        "Um candelabro novo, no lugar do antigo."
+      ]
     },
     {
       "id": "REV.3.curiosity.2",
@@ -119,7 +174,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus faz se alguém abre a porta em que ele bate?",
       "answer": "Entra e come com essa pessoa.",
-      "reference": "Ap 3:20"
+      "reference": "Ap 3:20",
+      "wrongs": [
+        "Passa de longo e segue viagem.",
+        "Fecha a porta e vai embora.",
+        "Manda um anjo entrar no lugar dele."
+      ]
     },
     {
       "id": "REV.4.subject.1",
@@ -129,7 +189,12 @@
       "kind": "subject",
       "prompt": "O que estava posto no céu, com alguém sentado, no Apocalipse?",
       "answer": "Um trono.",
-      "reference": "Ap 4:2"
+      "reference": "Ap 4:2",
+      "wrongs": [
+        "Um altar.",
+        "Um mar de vidro.",
+        "Um livro selado."
+      ]
     },
     {
       "id": "REV.4.curiosity.1",
@@ -139,7 +204,12 @@
       "kind": "curiosity",
       "prompt": "Quantos anciãos havia ao redor do trono, no Apocalipse?",
       "answer": "Vinte e quatro.",
-      "reference": "Ap 4:4"
+      "reference": "Ap 4:4",
+      "wrongs": [
+        "Doze.",
+        "Sete.",
+        "Quarenta e oito."
+      ]
     },
     {
       "id": "REV.4.curiosity.2",
@@ -149,7 +219,12 @@
       "kind": "curiosity",
       "prompt": "O que havia diante do trono, parecido com cristal, no Apocalipse?",
       "answer": "Um mar de vidro.",
-      "reference": "Ap 4:6"
+      "reference": "Ap 4:6",
+      "wrongs": [
+        "Um rio de fogo.",
+        "Um altar de ouro.",
+        "Uma pia de bronze."
+      ]
     },
     {
       "id": "REV.4.curiosity.3",
@@ -159,7 +234,12 @@
       "kind": "curiosity",
       "prompt": "Como eram os quatro seres ao redor do trono, no Apocalipse?",
       "answer": "Leão, bezerro, rosto de homem e águia.",
-      "reference": "Ap 4:7"
+      "reference": "Ap 4:7",
+      "wrongs": [
+        "Boi, serpente, rosto de anjo e pomba.",
+        "Cordeiro, cavalo, rosto de rei e peixe.",
+        "Urso, leopardo, rosto de sacerdote e dragão."
+      ]
     },
     {
       "id": "REV.5.subject.1",
@@ -169,7 +249,12 @@
       "kind": "subject",
       "prompt": "Como era o Cordeiro junto ao trono?",
       "answer": "Com jeito de morto, sete chifres e sete olhos.",
-      "reference": "Ap 5:6"
+      "reference": "Ap 5:6",
+      "wrongs": [
+        "Com coroa de ouro, sem ferida nenhuma.",
+        "Com asas, como um dos seres do trono.",
+        "Com espada na boca e pés de bronze."
+      ]
     },
     {
       "id": "REV.5.name.1",
@@ -179,7 +264,12 @@
       "kind": "name",
       "prompt": "Quem venceu para abrir os selos do livro?",
       "answer": "O Leão de Judá, raiz de Davi.",
-      "reference": "Ap 5:5"
+      "reference": "Ap 5:5",
+      "wrongs": [
+        "O anjo forte, com voz de trovão.",
+        "Moisés, servo de Deus.",
+        "Um dos vinte e quatro anciãos."
+      ]
     },
     {
       "id": "REV.5.curiosity.1",
@@ -189,7 +279,12 @@
       "kind": "curiosity",
       "prompt": "Com quantos selos o livro estava fechado?",
       "answer": "Com sete selos.",
-      "reference": "Ap 5:1"
+      "reference": "Ap 5:1",
+      "wrongs": [
+        "Com três selos.",
+        "Com doze selos.",
+        "Com nenhum selo."
+      ]
     },
     {
       "id": "REV.5.curiosity.2",
@@ -199,7 +294,12 @@
       "kind": "curiosity",
       "prompt": "O que eram os perfumes nos vasos de ouro, no Apocalipse?",
       "answer": "As orações do povo santo.",
-      "reference": "Ap 5:8"
+      "reference": "Ap 5:8",
+      "wrongs": [
+        "O incenso do templo antigo.",
+        "O sangue dos mártires.",
+        "O óleo da unção real."
+      ]
     },
     {
       "id": "REV.6.subject.1",
@@ -209,7 +309,12 @@
       "kind": "subject",
       "prompt": "Qual cavalo saiu no primeiro selo, no Apocalipse?",
       "answer": "Um cavalo branco, e o cavaleiro foi conquistar.",
-      "reference": "Ap 6:2"
+      "reference": "Ap 6:2",
+      "wrongs": [
+        "Um cavalo vermelho, e o cavaleiro trouxe guerra.",
+        "Um cavalo preto, e o cavaleiro trouxe fome.",
+        "Um cavalo amarelo, e o cavaleiro era a Morte."
+      ]
     },
     {
       "id": "REV.6.name.1",
@@ -219,7 +324,12 @@
       "kind": "name",
       "prompt": "Qual era o nome de quem montava o cavalo amarelo, no Apocalipse?",
       "answer": "Morte.",
-      "reference": "Ap 6:8"
+      "reference": "Ap 6:8",
+      "wrongs": [
+        "Guerra.",
+        "Fome.",
+        "Peste."
+      ]
     },
     {
       "id": "REV.6.curiosity.1",
@@ -229,7 +339,12 @@
       "kind": "curiosity",
       "prompt": "O que foi tirado quando saiu o cavalo vermelho, no Apocalipse?",
       "answer": "A paz da terra.",
-      "reference": "Ap 6:4"
+      "reference": "Ap 6:4",
+      "wrongs": [
+        "A fome da cidade.",
+        "A luz do sol.",
+        "O selo do livro."
+      ]
     },
     {
       "id": "REV.6.curiosity.2",
@@ -239,7 +354,12 @@
       "kind": "curiosity",
       "prompt": "Quem estava debaixo do altar no quinto selo, no Apocalipse?",
       "answer": "As almas de quem morreu pela palavra de Deus.",
-      "reference": "Ap 6:9"
+      "reference": "Ap 6:9",
+      "wrongs": [
+        "Os anjos que ainda não tinham trombeta.",
+        "Os reis escondidos nas cavernas.",
+        "Os cavalos dos quatro primeiros selos."
+      ]
     },
     {
       "id": "REV.7.subject.1",
@@ -249,7 +369,12 @@
       "kind": "subject",
       "prompt": "Quantos de Israel foram selados?",
       "answer": "144 mil, de todas as tribos.",
-      "reference": "Ap 7:4"
+      "reference": "Ap 7:4",
+      "wrongs": [
+        "Doze mil, de uma só tribo.",
+        "Sete mil, que não se dobraram a Baal.",
+        "Uma multidão que ninguém podia contar."
+      ]
     },
     {
       "id": "REV.7.curiosity.1",
@@ -259,7 +384,12 @@
       "kind": "curiosity",
       "prompt": "De onde veio a multidão de roupas brancas, no Apocalipse?",
       "answer": "Da grande tribulação.",
-      "reference": "Ap 7:14"
+      "reference": "Ap 7:14",
+      "wrongs": [
+        "Do monte Sinai.",
+        "Da ilha de Patmos.",
+        "Do Egito, como no tempo de Israel."
+      ]
     },
     {
       "id": "REV.7.curiosity.2",
@@ -269,7 +399,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus fará com as lágrimas da multidão de roupas brancas, no Apocalipse?",
       "answer": "Vai enxugar os olhos deles.",
-      "reference": "Ap 7:17"
+      "reference": "Ap 7:17",
+      "wrongs": [
+        "Vai deixá-los chorar até o fim.",
+        "Vai transformar as lágrimas em juízo.",
+        "Vai pedir que eles sequem o próprio rosto."
+      ]
     },
     {
       "id": "REV.8.subject.1",
@@ -279,7 +414,12 @@
       "kind": "subject",
       "prompt": "O que os sete anjos diante de Deus receberam, no Apocalipse?",
       "answer": "Sete trombetas.",
-      "reference": "Ap 8:2"
+      "reference": "Ap 8:2",
+      "wrongs": [
+        "Sete taças.",
+        "Sete selos.",
+        "Sete coroas."
+      ]
     },
     {
       "id": "REV.8.curiosity.1",
@@ -289,7 +429,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo o céu ficou em silêncio no sétimo selo, no Apocalipse?",
       "answer": "Cerca de meia hora.",
-      "reference": "Ap 8:1"
+      "reference": "Ap 8:1",
+      "wrongs": [
+        "Um dia inteiro.",
+        "Sete dias.",
+        "Três horas."
+      ]
     },
     {
       "id": "REV.8.curiosity.2",
@@ -299,7 +444,12 @@
       "kind": "curiosity",
       "prompt": "Qual é o nome da estrela que amargou as águas, no Apocalipse?",
       "answer": "Absinto.",
-      "reference": "Ap 8:11"
+      "reference": "Ap 8:11",
+      "wrongs": [
+        "Estrela da manhã.",
+        "Apoliom.",
+        "Babilônia."
+      ]
     },
     {
       "id": "REV.8.curiosity.3",
@@ -309,7 +459,12 @@
       "kind": "curiosity",
       "prompt": "O que caiu sobre a terra no primeiro toque de trombeta?",
       "answer": "Pedra de gelo e fogo, com sangue.",
-      "reference": "Ap 8:7"
+      "reference": "Ap 8:7",
+      "wrongs": [
+        "Gafanhotos, com poder de escorpião.",
+        "Uma estrela, que amargou as águas.",
+        "Trevas, sobre um terço da luz."
+      ]
     },
     {
       "id": "REV.9.subject.1",
@@ -319,7 +474,12 @@
       "kind": "subject",
       "prompt": "O que saiu da fumaça do abismo sobre a terra, no Apocalipse?",
       "answer": "Gafanhotos com poder de escorpião.",
-      "reference": "Ap 9:3"
+      "reference": "Ap 9:3",
+      "wrongs": [
+        "Cavalos com cabeça de leão.",
+        "Anjos com taças de ouro.",
+        "Pássaros, chamados a um banquete."
+      ]
     },
     {
       "id": "REV.9.name.1",
@@ -329,7 +489,12 @@
       "kind": "name",
       "prompt": "Quem era o rei dos gafanhotos, no Apocalipse?",
       "answer": "O anjo do abismo, de nome Abadom e Apoliom.",
-      "reference": "Ap 9:11"
+      "reference": "Ap 9:11",
+      "wrongs": [
+        "Miguel, o arcanjo, e os anjos dele.",
+        "O Leão de Judá, raiz de Davi.",
+        "Satanás, solto do abismo."
+      ]
     },
     {
       "id": "REV.9.place.1",
@@ -339,7 +504,12 @@
       "kind": "place",
       "prompt": "Junto a qual rio estavam presos quatro anjos, no Apocalipse?",
       "answer": "Junto ao grande rio Eufrates.",
-      "reference": "Ap 9:14"
+      "reference": "Ap 9:14",
+      "wrongs": [
+        "Junto ao rio Jordão.",
+        "Junto ao mar de vidro.",
+        "Junto ao Nilo."
+      ]
     },
     {
       "id": "REV.9.curiosity.1",
@@ -349,7 +519,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo duraria o tormento dos gafanhotos, no Apocalipse?",
       "answer": "Cinco meses.",
-      "reference": "Ap 9:5"
+      "reference": "Ap 9:5",
+      "wrongs": [
+        "Cinco dias.",
+        "Três anos e meio.",
+        "Quarenta dias."
+      ]
     },
     {
       "id": "REV.10.subject.1",
@@ -359,7 +534,12 @@
       "kind": "subject",
       "prompt": "Como ficou o livrinho que João comeu?",
       "answer": "Doce feito mel na boca, e amargo na barriga.",
-      "reference": "Ap 10:10"
+      "reference": "Ap 10:10",
+      "wrongs": [
+        "Amargo na boca, e doce na barriga.",
+        "Doce o tempo todo, sem amargor.",
+        "Amargo o tempo todo, como fel."
+      ]
     },
     {
       "id": "REV.10.place.1",
@@ -369,7 +549,12 @@
       "kind": "place",
       "prompt": "Onde o anjo do livrinho pôs os pés, no Apocalipse?",
       "answer": "O direito no mar e o esquerdo na terra.",
-      "reference": "Ap 10:2"
+      "reference": "Ap 10:2",
+      "wrongs": [
+        "Os dois no mar, longe da terra.",
+        "Os dois na terra, longe do mar.",
+        "O direito na terra e o esquerdo no mar."
+      ]
     },
     {
       "id": "REV.10.curiosity.1",
@@ -379,7 +564,12 @@
       "kind": "curiosity",
       "prompt": "O que João devia fazer com a fala dos sete trovões?",
       "answer": "Selar e não escrever.",
-      "reference": "Ap 10:4"
+      "reference": "Ap 10:4",
+      "wrongs": [
+        "Escrever na hora e publicar.",
+        "Gritar o que ouviu às igrejas.",
+        "Traduzir para outra língua."
+      ]
     },
     {
       "id": "REV.10.curiosity.2",
@@ -389,7 +579,12 @@
       "kind": "curiosity",
       "prompt": "O que o anjo jurou sobre o tempo, no Apocalipse?",
       "answer": "Que não restaria mais tempo.",
-      "reference": "Ap 10:6"
+      "reference": "Ap 10:6",
+      "wrongs": [
+        "Que ainda faltavam mil anos.",
+        "Que o tempo voltaria atrás.",
+        "Que ninguém saberia a hora."
+      ]
     },
     {
       "id": "REV.11.subject.1",
@@ -399,7 +594,12 @@
       "kind": "subject",
       "prompt": "O que são as duas testemunhas, no Apocalipse?",
       "answer": "Duas oliveiras e dois candelabros.",
-      "reference": "Ap 11:4"
+      "reference": "Ap 11:4",
+      "wrongs": [
+        "Dois reis e dois sacerdotes.",
+        "Duas bestas saídas do mar.",
+        "Dois anjos com taças de ouro."
+      ]
     },
     {
       "id": "REV.11.place.1",
@@ -409,7 +609,12 @@
       "kind": "place",
       "prompt": "Onde ficaram os corpos das duas testemunhas, no Apocalipse?",
       "answer": "Na cidade que, no espírito, se chama Sodoma e Egito.",
-      "reference": "Ap 11:8"
+      "reference": "Ap 11:8",
+      "wrongs": [
+        "Em Roma, chamada de Babilônia.",
+        "Em Patmos, no meio do mar.",
+        "No deserto, no lugar preparado por Deus."
+      ]
     },
     {
       "id": "REV.11.curiosity.1",
@@ -419,7 +624,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo as duas testemunhas iam profetizar, no Apocalipse?",
       "answer": "Mil duzentos e sessenta dias.",
-      "reference": "Ap 11:3"
+      "reference": "Ap 11:3",
+      "wrongs": [
+        "Sete dias.",
+        "Mil anos.",
+        "Três dias e meio."
+      ]
     },
     {
       "id": "REV.11.curiosity.2",
@@ -429,7 +639,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu com as testemunhas três dias e meio depois, no Apocalipse?",
       "answer": "O espírito de vida as pôs de pé.",
-      "reference": "Ap 11:11"
+      "reference": "Ap 11:11",
+      "wrongs": [
+        "Ficaram mortas, e a cidade festejou.",
+        "Subiram ao céu sem voltar à vida.",
+        "Os inimigos as sepultaram no deserto."
+      ]
     },
     {
       "id": "REV.12.subject.1",
@@ -439,7 +654,12 @@
       "kind": "subject",
       "prompt": "Como era a mulher do sinal no céu, no Apocalipse?",
       "answer": "Vestida de sol, a lua sob os pés e doze estrelas na coroa.",
-      "reference": "Ap 12:1"
+      "reference": "Ap 12:1",
+      "wrongs": [
+        "Vestida de púrpura, com um cálice de ouro na mão.",
+        "Vestida de saco, com cinza na cabeça.",
+        "Vestida de linho, sem sol nem estrelas."
+      ]
     },
     {
       "id": "REV.12.name.1",
@@ -449,7 +669,12 @@
       "kind": "name",
       "prompt": "Quem lutou no céu contra o dragão?",
       "answer": "Miguel e os anjos dele.",
-      "reference": "Ap 12:7"
+      "reference": "Ap 12:7",
+      "wrongs": [
+        "Gabriel e os anjos dele.",
+        "O Cordeiro e os 144 mil.",
+        "Abadom e os gafanhotos."
+      ]
     },
     {
       "id": "REV.12.place.1",
@@ -459,7 +684,12 @@
       "kind": "place",
       "prompt": "Para onde fugiu a mulher vestida de sol, no Apocalipse?",
       "answer": "Para o deserto, a um lugar preparado por Deus.",
-      "reference": "Ap 12:6"
+      "reference": "Ap 12:6",
+      "wrongs": [
+        "Para o monte Sião, com o Cordeiro.",
+        "Para a Babilônia, no meio dos reis.",
+        "Para Patmos, na ilha de João."
+      ]
     },
     {
       "id": "REV.12.curiosity.1",
@@ -469,7 +699,12 @@
       "kind": "curiosity",
       "prompt": "Como era o grande dragão vermelho?",
       "answer": "Com sete cabeças, dez chifres e sete coroas.",
-      "reference": "Ap 12:3"
+      "reference": "Ap 12:3",
+      "wrongs": [
+        "Com duas cabeças, dois chifres e nenhuma coroa.",
+        "Com dez cabeças, sete chifres e doze coroas.",
+        "Com uma cabeça, sem chifre e sem coroa."
+      ]
     },
     {
       "id": "REV.13.subject.1",
@@ -479,7 +714,12 @@
       "kind": "subject",
       "prompt": "Como era a besta que subiu do mar?",
       "answer": "Com sete cabeças e dez chifres.",
-      "reference": "Ap 13:1"
+      "reference": "Ap 13:1",
+      "wrongs": [
+        "Com sete cabeças, dez chifres e sete coroas.",
+        "Com dois chifres, parecida com um cordeiro.",
+        "Com uma cabeça e nenhum chifre."
+      ]
     },
     {
       "id": "REV.13.place.1",
@@ -489,7 +729,12 @@
       "kind": "place",
       "prompt": "De onde subiu a besta de dois chifres?",
       "answer": "Da terra.",
-      "reference": "Ap 13:11"
+      "reference": "Ap 13:11",
+      "wrongs": [
+        "Do mar.",
+        "Do céu.",
+        "Do abismo."
+      ]
     },
     {
       "id": "REV.13.curiosity.1",
@@ -499,7 +744,12 @@
       "kind": "curiosity",
       "prompt": "Onde era posta a marca da besta?",
       "answer": "Na mão direita ou na testa.",
-      "reference": "Ap 13:16"
+      "reference": "Ap 13:16",
+      "wrongs": [
+        "No peito ou no braço esquerdo.",
+        "Na roupa ou no cinto.",
+        "Só num documento, não no corpo."
+      ]
     },
     {
       "id": "REV.13.curiosity.2",
@@ -509,7 +759,12 @@
       "kind": "curiosity",
       "prompt": "Qual é o número da besta?",
       "answer": "Seiscentos e sessenta e seis.",
-      "reference": "Ap 13:18"
+      "reference": "Ap 13:18",
+      "wrongs": [
+        "Seiscentos e dezesseis.",
+        "Setecentos e setenta e sete.",
+        "Oitocentos e oitenta e oito."
+      ]
     },
     {
       "id": "REV.14.subject.1",
@@ -519,7 +774,12 @@
       "kind": "subject",
       "prompt": "Quem estava de pé no monte Sião?",
       "answer": "O Cordeiro, com 144 mil.",
-      "reference": "Ap 14:1"
+      "reference": "Ap 14:1",
+      "wrongs": [
+        "A besta, com os reis da terra.",
+        "A mulher vestida de sol, sozinha.",
+        "Os vinte e quatro anciãos."
+      ]
     },
     {
       "id": "REV.14.curiosity.1",
@@ -529,7 +789,12 @@
       "kind": "curiosity",
       "prompt": "O que o anjo anunciou sobre Babilônia?",
       "answer": "Que a grande cidade tinha caído.",
-      "reference": "Ap 14:8"
+      "reference": "Ap 14:8",
+      "wrongs": [
+        "Que a cidade seria poupada.",
+        "Que a cidade mudaria de nome.",
+        "Que a cidade subiria ao céu."
+      ]
     },
     {
       "id": "REV.14.curiosity.2",
@@ -539,7 +804,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu quando a foice caiu sobre a terra, no Apocalipse?",
       "answer": "A plantação da terra foi colhida.",
-      "reference": "Ap 14:16"
+      "reference": "Ap 14:16",
+      "wrongs": [
+        "A terra ficou sem colheita.",
+        "Só o trigo foi queimado no campo.",
+        "A foice quebrou e nada foi colhido."
+      ]
     },
     {
       "id": "REV.14.curiosity.3",
@@ -549,7 +819,12 @@
       "kind": "curiosity",
       "prompt": "Até onde chegou o sangue espremido fora da cidade, no Apocalipse?",
       "answer": "Até a altura dos freios dos cavalos.",
-      "reference": "Ap 14:20"
+      "reference": "Ap 14:20",
+      "wrongs": [
+        "Até o tornozelo de quem passava.",
+        "Até o topo dos muros da cidade.",
+        "Só uma poça, junto à porta."
+      ]
     },
     {
       "id": "REV.15.subject.1",
@@ -559,7 +834,12 @@
       "kind": "subject",
       "prompt": "O que os sete anjos receberam para a ira de Deus, no Apocalipse?",
       "answer": "Sete taças de ouro.",
-      "reference": "Ap 15:7"
+      "reference": "Ap 15:7",
+      "wrongs": [
+        "Sete trombetas.",
+        "Sete selos.",
+        "Sete coroas."
+      ]
     },
     {
       "id": "REV.15.name.1",
@@ -569,7 +849,12 @@
       "kind": "name",
       "prompt": "De quem era o cântico, junto com o do Cordeiro?",
       "answer": "De Moisés, servo de Deus.",
-      "reference": "Ap 15:3"
+      "reference": "Ap 15:3",
+      "wrongs": [
+        "De Davi, rei de Israel.",
+        "De Salomão, construtor do templo.",
+        "Do Cordeiro, e de mais ninguém."
+      ]
     },
     {
       "id": "REV.15.place.1",
@@ -579,7 +864,12 @@
       "kind": "place",
       "prompt": "Onde estavam os que venceram a besta?",
       "answer": "Perto do mar de vidro, onde havia fogo.",
-      "reference": "Ap 15:2"
+      "reference": "Ap 15:2",
+      "wrongs": [
+        "No meio da Babilônia, em festa.",
+        "Debaixo do altar, em silêncio.",
+        "Sobre o Eufrates, já seco."
+      ]
     },
     {
       "id": "REV.15.curiosity.1",
@@ -589,7 +879,12 @@
       "kind": "curiosity",
       "prompt": "Por que ninguém podia entrar no templo, no Apocalipse?",
       "answer": "A glória de Deus o encheu de fumaça.",
-      "reference": "Ap 15:8"
+      "reference": "Ap 15:8",
+      "wrongs": [
+        "A porta estava trancada com sete selos.",
+        "Os sacerdotes tinham ido embora.",
+        "A besta estava sentada lá dentro."
+      ]
     },
     {
       "id": "REV.16.subject.1",
@@ -599,7 +894,12 @@
       "kind": "subject",
       "prompt": "O que havia nas taças derramadas sobre a terra, no Apocalipse?",
       "answer": "A ira de Deus.",
-      "reference": "Ap 16:1"
+      "reference": "Ap 16:1",
+      "wrongs": [
+        "Água da vida.",
+        "Óleo de alegria.",
+        "Vinho de festa."
+      ]
     },
     {
       "id": "REV.16.place.1",
@@ -609,7 +909,12 @@
       "kind": "place",
       "prompt": "Qual é o nome hebraico do lugar onde os reis se reuniram, no Apocalipse?",
       "answer": "Armagedom.",
-      "reference": "Ap 16:16"
+      "reference": "Ap 16:16",
+      "wrongs": [
+        "Sião.",
+        "Patmos.",
+        "Eufrates."
+      ]
     },
     {
       "id": "REV.16.curiosity.1",
@@ -619,7 +924,12 @@
       "kind": "curiosity",
       "prompt": "O que a primeira taça fez em quem tinha a marca da besta?",
       "answer": "Causou uma ferida maligna.",
-      "reference": "Ap 16:2"
+      "reference": "Ap 16:2",
+      "wrongs": [
+        "Transformou a água em sangue.",
+        "Secou o grande rio.",
+        "Derrubou as cidades com um terremoto."
+      ]
     },
     {
       "id": "REV.16.curiosity.2",
@@ -629,7 +939,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu com a água do Eufrates na sexta taça?",
       "answer": "Secou, e abriu caminho para os reis.",
-      "reference": "Ap 16:12"
+      "reference": "Ap 16:12",
+      "wrongs": [
+        "Transbordou e alagou a terra.",
+        "Virou sangue, e os peixes morreram.",
+        "Ficou doce como mel."
+      ]
     },
     {
       "id": "REV.17.subject.1",
@@ -639,7 +954,12 @@
       "kind": "subject",
       "prompt": "Sobre o que a prostituta no deserto estava sentada, no Apocalipse?",
       "answer": "Sobre uma besta vermelha de sete cabeças e dez chifres.",
-      "reference": "Ap 17:3"
+      "reference": "Ap 17:3",
+      "wrongs": [
+        "Sobre um cavalo branco, chamado Fiel.",
+        "Sobre as águas do Eufrates.",
+        "Sobre um trono de ouro no céu."
+      ]
     },
     {
       "id": "REV.17.name.1",
@@ -649,7 +969,12 @@
       "kind": "name",
       "prompt": "Que nome estava escrito na testa da mulher, no Apocalipse?",
       "answer": "Mistério: a grande Babilônia.",
-      "reference": "Ap 17:5"
+      "reference": "Ap 17:5",
+      "wrongs": [
+        "Jerusalém, a cidade santa.",
+        "Roma, cidade eterna.",
+        "Éfeso, a primeira igreja."
+      ]
     },
     {
       "id": "REV.17.place.1",
@@ -659,7 +984,12 @@
       "kind": "place",
       "prompt": "O que é a mulher sentada sobre a besta?",
       "answer": "A grande cidade que governa os reis da terra.",
-      "reference": "Ap 17:18"
+      "reference": "Ap 17:18",
+      "wrongs": [
+        "A noiva do Cordeiro, descida do céu.",
+        "A ilha onde João estava preso.",
+        "O deserto, sem nenhuma cidade."
+      ]
     },
     {
       "id": "REV.17.curiosity.1",
@@ -669,7 +999,12 @@
       "kind": "curiosity",
       "prompt": "Do que a mulher estava bêbada, no Apocalipse?",
       "answer": "Do sangue do povo santo e das testemunhas de Jesus.",
-      "reference": "Ap 17:6"
+      "reference": "Ap 17:6",
+      "wrongs": [
+        "Do mel, que escorria da taça.",
+        "Da fumaça do abismo.",
+        "Do azeite da unção."
+      ]
     },
     {
       "id": "REV.18.subject.1",
@@ -679,7 +1014,12 @@
       "kind": "subject",
       "prompt": "O que foi anunciado sobre a grande Babilônia?",
       "answer": "Ela caiu e se tornou morada de demônios.",
-      "reference": "Ap 18:2"
+      "reference": "Ap 18:2",
+      "wrongs": [
+        "Ela ficou de pé e aumentou o comércio.",
+        "Ela se arrependeu e virou cidade santa.",
+        "Ela subiu ao céu como a noiva."
+      ]
     },
     {
       "id": "REV.18.curiosity.1",
@@ -689,7 +1029,12 @@
       "kind": "curiosity",
       "prompt": "O que a voz do céu pediu ao povo de Deus em Babilônia?",
       "answer": "Que saísse da cidade.",
-      "reference": "Ap 18:4"
+      "reference": "Ap 18:4",
+      "wrongs": [
+        "Que ficasse e reformasse a cidade.",
+        "Que comprasse o ouro antes da queda.",
+        "Que adorasse a cidade uma última vez."
+      ]
     },
     {
       "id": "REV.18.curiosity.2",
@@ -699,7 +1044,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo levou o juízo de Babilônia?",
       "answer": "Uma hora.",
-      "reference": "Ap 18:10"
+      "reference": "Ap 18:10",
+      "wrongs": [
+        "Sete dias.",
+        "Um ano.",
+        "Mil anos."
+      ]
     },
     {
       "id": "REV.18.curiosity.3",
@@ -709,7 +1059,12 @@
       "kind": "curiosity",
       "prompt": "O que o anjo fez com a grande pedra de moinho, no Apocalipse?",
       "answer": "Atirou no mar, como figura da queda da cidade.",
-      "reference": "Ap 18:21"
+      "reference": "Ap 18:21",
+      "wrongs": [
+        "Pôs no templo, como oferta.",
+        "Quebrou no chão e guardou os pedaços.",
+        "Levantou como muro ao redor da cidade."
+      ]
     },
     {
       "id": "REV.19.subject.1",
@@ -719,7 +1074,12 @@
       "kind": "subject",
       "prompt": "Quem vinha sentado no cavalo branco quando o céu se abriu, no Apocalipse?",
       "answer": "Aquele chamado Fiel e Verdadeiro.",
-      "reference": "Ap 19:11"
+      "reference": "Ap 19:11",
+      "wrongs": [
+        "A Morte, seguida pelo Hades.",
+        "O falso profeta, com sinais.",
+        "Um anjo com uma foice afiada."
+      ]
     },
     {
       "id": "REV.19.name.1",
@@ -729,7 +1089,12 @@
       "kind": "name",
       "prompt": "Qual é o nome de quem vem com a roupa manchada de sangue, no Apocalipse?",
       "answer": "Palavra de Deus.",
-      "reference": "Ap 19:13"
+      "reference": "Ap 19:13",
+      "wrongs": [
+        "Morte.",
+        "Abadom.",
+        "Apoliom."
+      ]
     },
     {
       "id": "REV.19.curiosity.1",
@@ -739,7 +1104,12 @@
       "kind": "curiosity",
       "prompt": "Que festa chegou para o Cordeiro?",
       "answer": "A festa do casamento dele, com a esposa já pronta.",
-      "reference": "Ap 19:7"
+      "reference": "Ap 19:7",
+      "wrongs": [
+        "A festa da páscoa, com o cordeiro no altar.",
+        "A festa de Babilônia, antes da queda.",
+        "A ceia dos abutres, sobre os exércitos."
+      ]
     },
     {
       "id": "REV.19.curiosity.2",
@@ -749,7 +1119,12 @@
       "kind": "curiosity",
       "prompt": "Para onde foram a besta e o falso profeta?",
       "answer": "Vivos, para o lago de fogo e enxofre.",
-      "reference": "Ap 19:20"
+      "reference": "Ap 19:20",
+      "wrongs": [
+        "Mortos, para o abismo por mil anos.",
+        "Vivos, para o trono branco.",
+        "Presos, para a Babilônia."
+      ]
     },
     {
       "id": "REV.20.subject.1",
@@ -759,7 +1134,12 @@
       "kind": "subject",
       "prompt": "Quanto tempo o dragão ficou amarrado?",
       "answer": "Mil anos.",
-      "reference": "Ap 20:2"
+      "reference": "Ap 20:2",
+      "wrongs": [
+        "Quarenta e dois meses.",
+        "Mil duzentos e sessenta dias.",
+        "Sete anos."
+      ]
     },
     {
       "id": "REV.20.place.1",
@@ -769,7 +1149,12 @@
       "kind": "place",
       "prompt": "Onde o dragão foi lançado e trancado?",
       "answer": "No abismo.",
-      "reference": "Ap 20:3"
+      "reference": "Ap 20:3",
+      "wrongs": [
+        "No lago de fogo.",
+        "No deserto.",
+        "No céu."
+      ]
     },
     {
       "id": "REV.20.curiosity.1",
@@ -779,7 +1164,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo os fiéis reinaram com Cristo?",
       "answer": "Mil anos.",
-      "reference": "Ap 20:4"
+      "reference": "Ap 20:4",
+      "wrongs": [
+        "Três anos e meio.",
+        "Quarenta anos.",
+        "Um dia."
+      ]
     },
     {
       "id": "REV.20.curiosity.2",
@@ -789,7 +1179,12 @@
       "kind": "curiosity",
       "prompt": "Que trono apareceu quando o céu e a terra fugiram, no Apocalipse?",
       "answer": "Um grande trono branco.",
-      "reference": "Ap 20:11"
+      "reference": "Ap 20:11",
+      "wrongs": [
+        "O trono da besta.",
+        "Um trono vermelho.",
+        "O trono vazio de Davi."
+      ]
     },
     {
       "id": "REV.21.subject.1",
@@ -799,7 +1194,12 @@
       "kind": "subject",
       "prompt": "Que cidade santa descia do céu, no Apocalipse?",
       "answer": "A nova Jerusalém, enfeitada como noiva.",
-      "reference": "Ap 21:2"
+      "reference": "Ap 21:2",
+      "wrongs": [
+        "A Babilônia, vestida de púrpura.",
+        "A antiga Jerusalém, ainda em ruínas.",
+        "Roma, com os reis da terra."
+      ]
     },
     {
       "id": "REV.21.curiosity.1",
@@ -809,7 +1209,12 @@
       "kind": "curiosity",
       "prompt": "O que surgiu no lugar do céu e da terra de antes, no Apocalipse?",
       "answer": "Um céu novo e uma terra nova, sem mar.",
-      "reference": "Ap 21:1"
+      "reference": "Ap 21:1",
+      "wrongs": [
+        "O mesmo céu e a mesma terra, com um mar maior.",
+        "Só um céu novo, e a terra ficou a antiga.",
+        "Um mar novo, no lugar da terra."
+      ]
     },
     {
       "id": "REV.21.curiosity.2",
@@ -819,7 +1224,12 @@
       "kind": "curiosity",
       "prompt": "O que deixa de existir quando Deus mora com o povo, no Apocalipse?",
       "answer": "A morte, o choro e a dor.",
-      "reference": "Ap 21:4"
+      "reference": "Ap 21:4",
+      "wrongs": [
+        "O trono de Deus e do Cordeiro.",
+        "A cidade santa e as suas portas.",
+        "O rio da água da vida."
+      ]
     },
     {
       "id": "REV.21.curiosity.3",
@@ -829,7 +1239,12 @@
       "kind": "curiosity",
       "prompt": "De que eram feitas as doze portas da cidade, no Apocalipse?",
       "answer": "Cada porta era uma pérola.",
-      "reference": "Ap 21:21"
+      "reference": "Ap 21:21",
+      "wrongs": [
+        "Cada porta era ouro maciço.",
+        "Cada porta era uma esmeralda.",
+        "Cada porta era mármore branco."
+      ]
     },
     {
       "id": "REV.22.subject.1",
@@ -839,7 +1254,12 @@
       "kind": "subject",
       "prompt": "De onde saía o rio da água da vida, no Apocalipse?",
       "answer": "Do trono de Deus e também do Cordeiro.",
-      "reference": "Ap 22:1"
+      "reference": "Ap 22:1",
+      "wrongs": [
+        "Do mar de vidro, diante dos anciãos.",
+        "Do abismo, onde o dragão ficou preso.",
+        "Da fonte de Babilônia, já seca."
+      ]
     },
     {
       "id": "REV.22.name.1",
@@ -849,7 +1269,12 @@
       "kind": "name",
       "prompt": "Quem se apresenta como raiz de Davi e estrela da manhã?",
       "answer": "Jesus.",
-      "reference": "Ap 22:16"
+      "reference": "Ap 22:16",
+      "wrongs": [
+        "Miguel.",
+        "Moisés.",
+        "João."
+      ]
     },
     {
       "id": "REV.22.curiosity.1",
@@ -859,7 +1284,12 @@
       "kind": "curiosity",
       "prompt": "Quantos frutos a árvore da vida produz, no Apocalipse?",
       "answer": "Doze, um a cada mês.",
-      "reference": "Ap 22:2"
+      "reference": "Ap 22:2",
+      "wrongs": [
+        "Sete, um a cada dia.",
+        "Um, a cada mil anos.",
+        "Três, a cada estação."
+      ]
     },
     {
       "id": "REV.22.curiosity.2",
@@ -869,7 +1299,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus fará a quem acrescentar algo à profecia, no Apocalipse?",
       "answer": "Vai acrescentar a essa pessoa as pragas do livro.",
-      "reference": "Ap 22:18"
+      "reference": "Ap 22:18",
+      "wrongs": [
+        "Vai apagar o nome dela do livro.",
+        "Vai dar a ela uma coroa a mais.",
+        "Vai fechar a cidade por um ano."
+      ]
     },
     {
       "id": "REV.0.curiosity.1",
@@ -879,7 +1314,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Apocalipse?",
       "answer": "João, o apóstolo.",
-      "reference": "Apocalipse"
+      "reference": "Apocalipse",
+      "wrongs": [
+        "Pedro, o apóstolo.",
+        "Paulo, o apóstolo.",
+        "Tiago, irmão do Senhor."
+      ]
     },
     {
       "id": "REV.0.curiosity.2",
@@ -889,7 +1329,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Apocalipse?",
       "answer": "Por volta do ano 95.",
-      "reference": "Apocalipse"
+      "reference": "Apocalipse",
+      "wrongs": [
+        "Por volta do ano 70.",
+        "Por volta do ano 60.",
+        "No século II."
+      ]
     }
   ]
 }

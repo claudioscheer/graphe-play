@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que Deus jurou sobre a geração rebelde de Israel?",
       "answer": "Nenhum daqueles homens veria a terra boa.",
-      "reference": "Dt 1:35"
+      "reference": "Dt 1:35",
+      "wrongs": [
+        "Todos eles entrariam depois de um ano.",
+        "Só as mulheres ficariam no deserto.",
+        "A terra seria dada a Edom."
+      ]
     },
     {
       "id": "DEU.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem Deus deixou herdar a terra que ele pisou, em Deuteronômio?",
       "answer": "Calebe, filho de Jefoné.",
-      "reference": "Dt 1:36"
+      "reference": "Dt 1:36",
+      "wrongs": [
+        "Josué, filho de Num.",
+        "Moisés, filho de Anrão.",
+        "Eleazar, filho de Arão."
+      ]
     },
     {
       "id": "DEU.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Até onde os amorreus perseguiram Israel?",
       "answer": "Até Hormá, depois de derrotá-los em Seir.",
-      "reference": "Dt 1:44"
+      "reference": "Dt 1:44",
+      "wrongs": [
+        "Até Jericó, depois de vencê-los no Jordão.",
+        "Até Cades, sem sair de Seir.",
+        "Até o Egito, pelo caminho do mar."
+      ]
     },
     {
       "id": "DEU.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens Moisés enviou para reconhecer a terra?",
       "answer": "Doze, um de cada tribo.",
-      "reference": "Dt 1:23"
+      "reference": "Dt 1:23",
+      "wrongs": [
+        "Dois, só de Judá e de Efraim.",
+        "Sete, um de cada clã maior.",
+        "Quarenta, um por cada dia de caminho."
+      ]
     },
     {
       "id": "DEU.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Quem Deus entregou a Israel no ribeiro de Arnom?",
       "answer": "Seom, rei de Hesbom, e a terra dele.",
-      "reference": "Dt 2:24"
+      "reference": "Dt 2:24",
+      "wrongs": [
+        "Ogue, rei de Basã, e as cidades dele.",
+        "Balaque, rei de Moabe, e o povo dele.",
+        "Esaú, no monte Seir, e a herança dele."
+      ]
     },
     {
       "id": "DEU.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "De quem era a herança do monte de Seir?",
       "answer": "De Esaú.",
-      "reference": "Dt 2:5"
+      "reference": "Dt 2:5",
+      "wrongs": [
+        "De Ló.",
+        "De Ismael.",
+        "De Moabe."
+      ]
     },
     {
       "id": "DEU.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Onde Seom saiu para lutar contra Israel?",
       "answer": "Em Jaza.",
-      "reference": "Dt 2:32"
+      "reference": "Dt 2:32",
+      "wrongs": [
+        "Em Edrei.",
+        "Em Hesbom.",
+        "Em Hormá."
+      ]
     },
     {
       "id": "DEU.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Quantos anos Israel andou de Cades-Barneia até o Zerede?",
       "answer": "Trinta e oito, até acabar a geração da guerra.",
-      "reference": "Dt 2:14"
+      "reference": "Dt 2:14",
+      "wrongs": [
+        "Quarenta, até Moisés morrer em Moabe.",
+        "Vinte, até o povo chegar ao Sinai.",
+        "Sete, até a travessia do Jordão."
+      ]
     },
     {
       "id": "DEU.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que Deus fez com Ogue, rei de Basã?",
       "answer": "Entregou o rei e todo o povo, e ninguém restou.",
-      "reference": "Dt 3:3"
+      "reference": "Dt 3:3",
+      "wrongs": [
+        "Fez as pazes e deixou o rei vivo.",
+        "Devolveu Basã aos amorreus.",
+        "Só tomou Edrei e poupou o restante."
+      ]
     },
     {
       "id": "DEU.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem Moisés devia animar para guiar Israel na terra?",
       "answer": "Josué, que passaria adiante do povo.",
-      "reference": "Dt 3:28"
+      "reference": "Dt 3:28",
+      "wrongs": [
+        "Calebe, que ficaria em Hebrom.",
+        "Eleazar, que guardaria a arca.",
+        "Fineias, que iria à frente na guerra."
+      ]
     },
     {
       "id": "DEU.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "De que cume Moisés veria a terra, após Deus negar a travessia?",
       "answer": "Do cume do Pisga.",
-      "reference": "Dt 3:27"
+      "reference": "Dt 3:27",
+      "wrongs": [
+        "Do cume do Sinai.",
+        "Do cume do Carmelo.",
+        "Do cume do Hor."
+      ]
     },
     {
       "id": "DEU.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Como era a cama de Ogue, rei de Basã?",
       "answer": "De ferro, com nove côvados por quatro.",
-      "reference": "Dt 3:11"
+      "reference": "Dt 3:11",
+      "wrongs": [
+        "De cedro, com cinco côvados por dois.",
+        "De ouro, com doze côvados por seis.",
+        "De pedra, com três côvados por um."
+      ]
     },
     {
       "id": "DEU.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "O que Israel devia meditar no coração sobre quem é Deus?",
       "answer": "Que ele é Deus no céu e na terra, e não há outro.",
-      "reference": "Dt 4:39"
+      "reference": "Dt 4:39",
+      "wrongs": [
+        "Que há um Deus no céu e outro na terra.",
+        "Que Deus só habita no monte Horebe.",
+        "Que o nome de Deus não deve ser lembrado."
+      ]
     },
     {
       "id": "DEU.4.place.1",
@@ -138,7 +203,12 @@
       "kind": "place",
       "prompt": "Quais cidades Moisés separou em Rúben, Gade e Manassés?",
       "answer": "Bezer, Ramote e Golã.",
-      "reference": "Dt 4:43"
+      "reference": "Dt 4:43",
+      "wrongs": [
+        "Hebrom, Siquém e Quedes.",
+        "Jericó, Ai e Hazor.",
+        "Gilgal, Siló e Siquém."
+      ]
     },
     {
       "id": "DEU.4.curiosity.1",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "O que Israel viu quando Deus falou do meio do fogo?",
       "answer": "Nenhuma forma, apenas ouviu a voz.",
-      "reference": "Dt 4:12"
+      "reference": "Dt 4:12",
+      "wrongs": [
+        "Um corpo de homem, em pé no fogo.",
+        "O rosto de Deus, entre as chamas.",
+        "Um bezerro de ouro, sobre o monte."
+      ]
     },
     {
       "id": "DEU.5.subject.1",
@@ -158,7 +233,12 @@
       "kind": "subject",
       "prompt": "O que Deus fez com as palavras faladas no monte, em Deuteronômio?",
       "answer": "Gravou-as em duas placas de pedra e deu a Moisés.",
-      "reference": "Dt 5:22"
+      "reference": "Dt 5:22",
+      "wrongs": [
+        "Deixou-as só na memória do povo.",
+        "Escreveu-as num rolo e o selou na arca.",
+        "Mandou Arão recitá-las uma vez por ano."
+      ]
     },
     {
       "id": "DEU.5.place.1",
@@ -168,7 +248,12 @@
       "kind": "place",
       "prompt": "Onde Deuteronômio diz que foi feito o pacto anterior ao de Moabe?",
       "answer": "No Horebe.",
-      "reference": "Dt 5:2"
+      "reference": "Dt 5:2",
+      "wrongs": [
+        "Em Moabe.",
+        "Em Cades.",
+        "Em Siquém."
+      ]
     },
     {
       "id": "DEU.5.curiosity.1",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "Por que Deuteronômio manda Israel guardar o dia de repouso?",
       "answer": "Porque foi escravo no Egito, e Deus o tirou de lá.",
-      "reference": "Dt 5:15"
+      "reference": "Dt 5:15",
+      "wrongs": [
+        "Porque Deus descansou no sétimo dia da criação.",
+        "Porque o maná não caía nesse dia no deserto.",
+        "Porque era o dia da saída de Ramessés."
+      ]
     },
     {
       "id": "DEU.5.curiosity.2",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "O que o povo pediu a Moisés ao pé do monte?",
       "answer": "Que ouvisse Deus e contasse tudo, e eles obedeceriam.",
-      "reference": "Dt 5:27"
+      "reference": "Dt 5:27",
+      "wrongs": [
+        "Que subisse com eles até o fogo.",
+        "Que calasse a voz e os deixasse ir.",
+        "Que quebrasse as tábuas diante deles."
+      ]
     },
     {
       "id": "DEU.6.subject.1",
@@ -198,7 +293,12 @@
       "kind": "subject",
       "prompt": "Como Israel devia amar a Deus?",
       "answer": "Com todo o coração, toda a alma e toda a força.",
-      "reference": "Dt 6:5"
+      "reference": "Dt 6:5",
+      "wrongs": [
+        "Só com ofertas, no lugar que ele escolhesse.",
+        "Com medo, de longe, sem chegar perto.",
+        "Com a boca, quando o sacerdote mandasse."
+      ]
     },
     {
       "id": "DEU.6.place.1",
@@ -208,7 +308,12 @@
       "kind": "place",
       "prompt": "Onde Israel tentou a Deus?",
       "answer": "Em Massá.",
-      "reference": "Dt 6:16"
+      "reference": "Dt 6:16",
+      "wrongs": [
+        "Em Jericó.",
+        "Em Hebrom.",
+        "Em Siló."
+      ]
     },
     {
       "id": "DEU.6.curiosity.1",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "Onde as palavras de Deus deviam ficar na casa, em Deuteronômio?",
       "answer": "Nos batentes e nas entradas.",
-      "reference": "Dt 6:9"
+      "reference": "Dt 6:9",
+      "wrongs": [
+        "Só na arca, dentro da tenda.",
+        "Nas paredes do quarto, escondidas.",
+        "No altar, debaixo das cinzas."
+      ]
     },
     {
       "id": "DEU.7.subject.1",
@@ -228,7 +338,12 @@
       "kind": "subject",
       "prompt": "O que Israel devia fazer com as nações entregues por Deus?",
       "answer": "Destruí-las de todo, sem pacto e sem poupar.",
-      "reference": "Dt 7:2"
+      "reference": "Dt 7:2",
+      "wrongs": [
+        "Fazer aliança e casar com elas.",
+        "Cobrar tributo e deixá-las nas cidades.",
+        "Mudá-las para o outro lado do Jordão."
+      ]
     },
     {
       "id": "DEU.7.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Por que Deus escolheu Israel entre os povos?",
       "answer": "Não por ser o maior, pois era o menor de todos.",
-      "reference": "Dt 7:7"
+      "reference": "Dt 7:7",
+      "wrongs": [
+        "Porque era o mais numeroso da terra.",
+        "Porque já guardava a lei com perfeição.",
+        "Porque ofereceu o maior despojo de guerra."
+      ]
     },
     {
       "id": "DEU.7.curiosity.2",
@@ -248,7 +368,12 @@
       "kind": "curiosity",
       "prompt": "Quantas nações maiores Deus tiraria de diante de Israel?",
       "answer": "Sete.",
-      "reference": "Dt 7:1"
+      "reference": "Dt 7:1",
+      "wrongs": [
+        "Três.",
+        "Doze.",
+        "Dez."
+      ]
     },
     {
       "id": "DEU.8.subject.1",
@@ -258,7 +383,12 @@
       "kind": "subject",
       "prompt": "De que o homem vive, além do pão, em Deuteronômio?",
       "answer": "De cada palavra que Deus fala.",
-      "reference": "Dt 8:3"
+      "reference": "Dt 8:3",
+      "wrongs": [
+        "Do maná que caía no deserto.",
+        "Da força do próprio braço.",
+        "Das ofertas que subiam no altar."
+      ]
     },
     {
       "id": "DEU.8.curiosity.1",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "O que a roupa e o pé de Israel não sofreram no deserto?",
       "answer": "A roupa não se acabou, e o pé não inchou.",
-      "reference": "Dt 8:4"
+      "reference": "Dt 8:4",
+      "wrongs": [
+        "A roupa ficou nova todo ano, e o pé não cansou.",
+        "O calçado não se perdeu, e a mão não enfraqueceu.",
+        "O manto não desbotou, e o joelho não doeu."
+      ]
     },
     {
       "id": "DEU.8.curiosity.2",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "De que tipo de rocha Deus tirou água para Israel no deserto?",
       "answer": "De uma rocha de pederneira.",
-      "reference": "Dt 8:15"
+      "reference": "Dt 8:15",
+      "wrongs": [
+        "De uma rocha de basalto.",
+        "De um poço cavado em pedra.",
+        "De uma fonte no monte Sinai."
+      ]
     },
     {
       "id": "DEU.9.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "O que Moisés negou sobre a justiça de Israel na boa terra?",
       "answer": "Não por mérito do povo, que era teimoso.",
-      "reference": "Dt 9:6"
+      "reference": "Dt 9:6",
+      "wrongs": [
+        "Foi por mérito do povo, que era fiel.",
+        "Foi porque Israel nunca murmurou.",
+        "Foi só pela força dos exércitos."
+      ]
     },
     {
       "id": "DEU.9.name.1",
@@ -298,7 +443,12 @@
       "kind": "name",
       "prompt": "Por quem mais Moisés orou no caso do bezerro de ouro?",
       "answer": "Por Arão.",
-      "reference": "Dt 9:20"
+      "reference": "Dt 9:20",
+      "wrongs": [
+        "Por Miriã.",
+        "Por Coré.",
+        "Por Calebe."
+      ]
     },
     {
       "id": "DEU.9.curiosity.1",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo Moisés ficou no monte sem comer nem beber?",
       "answer": "Quarenta dias e quarenta noites.",
-      "reference": "Dt 9:9"
+      "reference": "Dt 9:9",
+      "wrongs": [
+        "Sete dias e sete noites.",
+        "Três dias e três noites.",
+        "Um ano inteiro, até descer."
+      ]
     },
     {
       "id": "DEU.9.curiosity.2",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "O que Moisés fez com as duas tábuas do pacto?",
       "answer": "Atirou as duas e as quebrou diante do povo.",
-      "reference": "Dt 9:17"
+      "reference": "Dt 9:17",
+      "wrongs": [
+        "Guardou as duas dentro da arca.",
+        "Deu uma a Arão e ficou com a outra.",
+        "Enterrou as duas ao pé do monte."
+      ]
     },
     {
       "id": "DEU.10.subject.1",
@@ -328,7 +488,12 @@
       "kind": "subject",
       "prompt": "O que Moisés disse que Deus pede de Israel?",
       "answer": "Temer a Deus, andar nos caminhos dele, amá-lo e servi-lo.",
-      "reference": "Dt 10:12"
+      "reference": "Dt 10:12",
+      "wrongs": [
+        "Só oferecer bois e ovelhas todo dia.",
+        "Conquistar nações e ajuntar ouro.",
+        "Ficar calado e não se aproximar."
+      ]
     },
     {
       "id": "DEU.10.name.1",
@@ -338,7 +503,12 @@
       "kind": "name",
       "prompt": "Quem ficou sacerdote no lugar de Arão?",
       "answer": "Eleazar, o filho dele.",
-      "reference": "Dt 10:6"
+      "reference": "Dt 10:6",
+      "wrongs": [
+        "Itamar, o outro filho.",
+        "Fineias, o neto dele.",
+        "Moisés, o irmão dele."
+      ]
     },
     {
       "id": "DEU.10.place.1",
@@ -348,7 +518,12 @@
       "kind": "place",
       "prompt": "Onde Deuteronômio diz que Arão morreu e foi sepultado?",
       "answer": "Em Moserá.",
-      "reference": "Dt 10:6"
+      "reference": "Dt 10:6",
+      "wrongs": [
+        "Em Cades.",
+        "No Nebo.",
+        "Em Ramessés."
+      ]
     },
     {
       "id": "DEU.10.curiosity.1",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "Com quantas pessoas Moisés diz que os pais desceram ao Egito?",
       "answer": "Setenta.",
-      "reference": "Dt 10:22"
+      "reference": "Dt 10:22",
+      "wrongs": [
+        "Doze.",
+        "Cem.",
+        "Sete."
+      ]
     },
     {
       "id": "DEU.11.subject.1",
@@ -368,7 +548,12 @@
       "kind": "subject",
       "prompt": "Onde Israel poria a bênção e a maldição?",
       "answer": "A bênção no Gerizim e a maldição no Ebal.",
-      "reference": "Dt 11:29"
+      "reference": "Dt 11:29",
+      "wrongs": [
+        "A bênção no Ebal e a maldição no Gerizim.",
+        "As duas no monte Sinai.",
+        "A bênção em Gilgal e a maldição em Jericó."
+      ]
     },
     {
       "id": "DEU.11.name.1",
@@ -378,7 +563,12 @@
       "kind": "name",
       "prompt": "Quem o discurso de Moisés diz que a terra engoliu em Israel?",
       "answer": "Datã e Abirão.",
-      "reference": "Dt 11:6"
+      "reference": "Dt 11:6",
+      "wrongs": [
+        "Coré e os seus.",
+        "Nadabe e Abiú.",
+        "Eldade e Medade."
+      ]
     },
     {
       "id": "DEU.11.curiosity.1",
@@ -388,7 +578,12 @@
       "kind": "curiosity",
       "prompt": "De onde a terra prometida recebia água, em Deuteronômio?",
       "answer": "Da chuva que cai do céu.",
-      "reference": "Dt 11:11"
+      "reference": "Dt 11:11",
+      "wrongs": [
+        "Do rio Nilo, como o Egito.",
+        "De poços cavados à mão.",
+        "Só do orvalho da manhã."
+      ]
     },
     {
       "id": "DEU.12.subject.1",
@@ -398,7 +593,12 @@
       "kind": "subject",
       "prompt": "Onde Israel devia levar sacrifícios e dízimos?",
       "answer": "Ao lugar que Deus escolhesse para o nome dele.",
-      "reference": "Dt 12:11"
+      "reference": "Dt 12:11",
+      "wrongs": [
+        "Em cada cidade, no altar que quisessem.",
+        "Só no monte Sinai, uma vez por ano.",
+        "No alto de qualquer monte de Canaã."
+      ]
     },
     {
       "id": "DEU.12.curiosity.1",
@@ -408,7 +608,12 @@
       "kind": "curiosity",
       "prompt": "Por que não se podia comer o sangue, em Deuteronômio?",
       "answer": "Porque o sangue é a própria alma do animal.",
-      "reference": "Dt 12:23"
+      "reference": "Dt 12:23",
+      "wrongs": [
+        "Porque o sangue era só dos sacerdotes.",
+        "Porque o sangue azedava a carne.",
+        "Porque o sangue estava reservado ao rei."
+      ]
     },
     {
       "id": "DEU.12.curiosity.2",
@@ -418,7 +623,12 @@
       "kind": "curiosity",
       "prompt": "O que as nações de Canaã faziam com os filhos no culto?",
       "answer": "Queimavam filhos e filhas no fogo aos seus deuses.",
-      "reference": "Dt 12:31"
+      "reference": "Dt 12:31",
+      "wrongs": [
+        "Circuncidavam os filhos no oitavo dia.",
+        "Entregavam os filhos para copiar a lei.",
+        "Levavam os filhos à festa das cabanas."
+      ]
     },
     {
       "id": "DEU.13.subject.1",
@@ -428,7 +638,12 @@
       "kind": "subject",
       "prompt": "O que devia acontecer ao profeta que chamasse outros deuses, em Deuteronômio?",
       "answer": "Devia morrer, porque incitou rebelião contra Deus.",
-      "reference": "Dt 13:5"
+      "reference": "Dt 13:5",
+      "wrongs": [
+        "Devia ser expulso por sete dias.",
+        "Devia pagar uma oferta pelo erro.",
+        "Devia ficar calado por um ano."
+      ]
     },
     {
       "id": "DEU.13.curiosity.1",
@@ -438,7 +653,12 @@
       "kind": "curiosity",
       "prompt": "Quem começava a matar o parente que desviasse a Deus, em Deuteronômio?",
       "answer": "Quem ouviu o convite, e depois o restante do povo.",
-      "reference": "Dt 13:9"
+      "reference": "Dt 13:9",
+      "wrongs": [
+        "Só os juízes, longe da família.",
+        "O sacerdote, com um incensário.",
+        "Os levitas, no dia seguinte."
+      ]
     },
     {
       "id": "DEU.13.curiosity.2",
@@ -448,7 +668,12 @@
       "kind": "curiosity",
       "prompt": "O que seria feito da cidade idólatra e do despojo, em Deuteronômio?",
       "answer": "Tudo seria queimado, e a cidade não se reconstruiria.",
-      "reference": "Dt 13:16"
+      "reference": "Dt 13:16",
+      "wrongs": [
+        "O despojo iria ao altar, e a cidade ficaria.",
+        "A cidade pagaria tributo e seguiria em pé.",
+        "Só os ídolos seriam quebrados, e o resto dividido."
+      ]
     },
     {
       "id": "DEU.14.subject.1",
@@ -458,7 +683,12 @@
       "kind": "subject",
       "prompt": "O que identificava o animal terrestre que Israel podia comer?",
       "answer": "O que rumina e tem o casco partido em dois.",
-      "reference": "Dt 14:6"
+      "reference": "Dt 14:6",
+      "wrongs": [
+        "O que tem asa e anda sobre a terra.",
+        "O que vive na água e tem escama.",
+        "Qualquer animal doméstico, sem outra regra."
+      ]
     },
     {
       "id": "DEU.14.curiosity.1",
@@ -468,7 +698,12 @@
       "kind": "curiosity",
       "prompt": "Em que o cabrito não devia ser cozido, em Deuteronômio?",
       "answer": "No leite da própria mãe.",
-      "reference": "Dt 14:21"
+      "reference": "Dt 14:21",
+      "wrongs": [
+        "No vinho da oferta.",
+        "Na água do tanque.",
+        "No azeite da unção."
+      ]
     },
     {
       "id": "DEU.14.curiosity.2",
@@ -478,7 +713,12 @@
       "kind": "curiosity",
       "prompt": "De quanto em quanto tempo o dízimo ficava nas cidades, em Deuteronômio?",
       "answer": "A cada três anos.",
-      "reference": "Dt 14:28"
+      "reference": "Dt 14:28",
+      "wrongs": [
+        "A cada sete anos.",
+        "Todo ano, sem falta.",
+        "A cada dez anos."
+      ]
     },
     {
       "id": "DEU.15.subject.1",
@@ -488,7 +728,12 @@
       "kind": "subject",
       "prompt": "O que acontecia com a dívida do irmão no ano do perdão, em Deuteronômio?",
       "answer": "Ficava cancelada, e o credor não cobrava mais.",
-      "reference": "Dt 15:2"
+      "reference": "Dt 15:2",
+      "wrongs": [
+        "Passava para o ano seguinte, com juros.",
+        "Era cobrada em dobro na festa.",
+        "Ficava de pé, e só o estrangeiro era perdoado."
+      ]
     },
     {
       "id": "DEU.15.curiosity.1",
@@ -498,7 +743,12 @@
       "kind": "curiosity",
       "prompt": "Quando o escravo hebreu devia sair livre, em Deuteronômio?",
       "answer": "No sétimo ano, depois de servir seis.",
-      "reference": "Dt 15:12"
+      "reference": "Dt 15:12",
+      "wrongs": [
+        "No décimo ano, depois de servir nove.",
+        "No ano do jubileu, e não antes.",
+        "No terceiro ano, depois de servir dois."
+      ]
     },
     {
       "id": "DEU.15.curiosity.2",
@@ -508,7 +758,12 @@
       "kind": "curiosity",
       "prompt": "O que faziam na orelha de quem quisesse continuar escravo, em Deuteronômio?",
       "answer": "Furavam na porta, e ele ficava para sempre.",
-      "reference": "Dt 15:17"
+      "reference": "Dt 15:17",
+      "wrongs": [
+        "Punham um brinco de ouro, e ele saía livre.",
+        "Marcavam com tinta, e ele servia mais um ano.",
+        "Cortavam uma mecha, e ele voltava à família."
+      ]
     },
     {
       "id": "DEU.16.subject.1",
@@ -518,7 +773,12 @@
       "kind": "subject",
       "prompt": "Quantas vezes por ano os homens iam diante de Deus, em Deuteronômio?",
       "answer": "Três: pães sem fermento, semanas e cabanas.",
-      "reference": "Dt 16:16"
+      "reference": "Dt 16:16",
+      "wrongs": [
+        "Duas: Páscoa e o dia do perdão.",
+        "Sete: uma em cada mês santo.",
+        "Uma: só na festa das cabanas."
+      ]
     },
     {
       "id": "DEU.16.curiosity.1",
@@ -528,7 +788,12 @@
       "kind": "curiosity",
       "prompt": "Em que mês Israel celebrava a Páscoa?",
       "answer": "No mês de Abibe.",
-      "reference": "Dt 16:1"
+      "reference": "Dt 16:1",
+      "wrongs": [
+        "No mês de Etanim.",
+        "No mês de Bul.",
+        "No sétimo mês."
+      ]
     },
     {
       "id": "DEU.16.curiosity.2",
@@ -538,7 +803,12 @@
       "kind": "curiosity",
       "prompt": "Por que o juiz não podia aceitar suborno, em Deuteronômio?",
       "answer": "Porque cega quem julga e torce a sentença.",
-      "reference": "Dt 16:19"
+      "reference": "Dt 16:19",
+      "wrongs": [
+        "Porque o ouro pertencia só ao altar.",
+        "Porque o suborno era comida impura.",
+        "Porque o rei já recebia esse pagamento."
+      ]
     },
     {
       "id": "DEU.17.subject.1",
@@ -548,7 +818,12 @@
       "kind": "subject",
       "prompt": "Quem Israel podia pôr como rei?",
       "answer": "Um irmão do povo, escolhido por Deus, não um estrangeiro.",
-      "reference": "Dt 17:15"
+      "reference": "Dt 17:15",
+      "wrongs": [
+        "Qualquer estrangeiro rico, se o povo quisesse.",
+        "O filho do sacerdote, sem outra escolha.",
+        "O general que vencesse a última guerra."
+      ]
     },
     {
       "id": "DEU.17.curiosity.1",
@@ -558,7 +833,12 @@
       "kind": "curiosity",
       "prompt": "Para onde o rei não devia levar o povo atrás de cavalos, em Deuteronômio?",
       "answer": "De volta ao Egito.",
-      "reference": "Dt 17:16"
+      "reference": "Dt 17:16",
+      "wrongs": [
+        "Para a Assíria.",
+        "Para o outro lado do Jordão.",
+        "Para as cidades dos filisteus."
+      ]
     },
     {
       "id": "DEU.17.curiosity.2",
@@ -568,7 +848,12 @@
       "kind": "curiosity",
       "prompt": "O que o rei devia escrever ao sentar no trono, em Deuteronômio?",
       "answer": "Uma cópia da lei, conforme o texto dos sacerdotes.",
-      "reference": "Dt 17:18"
+      "reference": "Dt 17:18",
+      "wrongs": [
+        "A lista dos cavalos e das mulheres.",
+        "Um tratado com o Egito, em duas tábuas.",
+        "Os nomes dos inimigos que ainda faltavam."
+      ]
     },
     {
       "id": "DEU.18.subject.1",
@@ -578,7 +863,12 @@
       "kind": "subject",
       "prompt": "Quem Deus prometeu suscitar como Moisés?",
       "answer": "Um profeta do meio de Israel, e o povo devia ouvi-lo.",
-      "reference": "Dt 18:15"
+      "reference": "Dt 18:15",
+      "wrongs": [
+        "Um rei estrangeiro, para julgar o povo.",
+        "Um sacerdote de Levi, só para o altar.",
+        "Um anjo, para falar no lugar de Deus."
+      ]
     },
     {
       "id": "DEU.18.place.1",
@@ -588,7 +878,12 @@
       "kind": "place",
       "prompt": "Onde o povo pediu para não ouvir de novo a voz de Deus, em Deuteronômio?",
       "answer": "No Horebe.",
-      "reference": "Dt 18:16"
+      "reference": "Dt 18:16",
+      "wrongs": [
+        "Em Moabe.",
+        "Em Sitim.",
+        "Em Gilgal."
+      ]
     },
     {
       "id": "DEU.18.curiosity.1",
@@ -598,7 +893,12 @@
       "kind": "curiosity",
       "prompt": "Como saber se o profeta não falou da parte de Deus, em Deuteronômio?",
       "answer": "Se o que ele anunciou não acontecesse.",
-      "reference": "Dt 18:22"
+      "reference": "Dt 18:22",
+      "wrongs": [
+        "Se ele fosse de outra tribo.",
+        "Se falasse em voz baixa.",
+        "Se não trouxesse um sinal de fogo."
+      ]
     },
     {
       "id": "DEU.18.curiosity.2",
@@ -608,7 +908,12 @@
       "kind": "curiosity",
       "prompt": "O que era proibido fazer com o filho, como as nações, em Deuteronômio?",
       "answer": "Fazê-lo passar pelo fogo.",
-      "reference": "Dt 18:10"
+      "reference": "Dt 18:10",
+      "wrongs": [
+        "Ensiná-lo a ler a lei.",
+        "Levá-lo à festa das cabanas.",
+        "Dar-lhe a herança do mais velho."
+      ]
     },
     {
       "id": "DEU.19.subject.1",
@@ -618,7 +923,12 @@
       "kind": "subject",
       "prompt": "Quem podia fugir para a cidade e continuar vivo, em Deuteronômio?",
       "answer": "Quem matasse sem querer e sem inimizade.",
-      "reference": "Dt 19:4"
+      "reference": "Dt 19:4",
+      "wrongs": [
+        "Quem matasse de propósito, por ódio.",
+        "Quem roubasse o gado do vizinho.",
+        "Quem quebrasse o sábado no campo."
+      ]
     },
     {
       "id": "DEU.19.curiosity.1",
@@ -628,7 +938,12 @@
       "kind": "curiosity",
       "prompt": "Quantas cidades Deuteronômio manda separar de início para o homicida?",
       "answer": "Três.",
-      "reference": "Dt 19:2"
+      "reference": "Dt 19:2",
+      "wrongs": [
+        "Seis.",
+        "Doze.",
+        "Uma."
+      ]
     },
     {
       "id": "DEU.19.curiosity.2",
@@ -638,7 +953,12 @@
       "kind": "curiosity",
       "prompt": "Quantas testemunhas confirmavam um crime, em Deuteronômio?",
       "answer": "Duas ou três, e uma só não bastava.",
-      "reference": "Dt 19:15"
+      "reference": "Dt 19:15",
+      "wrongs": [
+        "Uma bastava, se fosse levita.",
+        "Sete, uma de cada família próxima.",
+        "O sacerdote sozinho decidia, sem testemunha."
+      ]
     },
     {
       "id": "DEU.19.curiosity.3",
@@ -648,7 +968,12 @@
       "kind": "curiosity",
       "prompt": "O que não se podia mudar no terreno do vizinho, em Deuteronômio?",
       "answer": "O limite que os antigos tinham marcado.",
-      "reference": "Dt 19:14"
+      "reference": "Dt 19:14",
+      "wrongs": [
+        "A cor da cerca da vinha.",
+        "O nome do poço da família.",
+        "A porta da casa nova."
+      ]
     },
     {
       "id": "DEU.20.subject.1",
@@ -658,7 +983,12 @@
       "kind": "subject",
       "prompt": "O que Israel devia oferecer antes de atacar uma cidade?",
       "answer": "A paz.",
-      "reference": "Dt 20:10"
+      "reference": "Dt 20:10",
+      "wrongs": [
+        "A guerra.",
+        "O ouro.",
+        "O medo."
+      ]
     },
     {
       "id": "DEU.20.curiosity.1",
@@ -669,7 +999,12 @@
       "kind": "curiosity",
       "prompt": "Quem podia voltar para casa antes da batalha, em Deuteronômio?",
       "answer": "Quem tinha casa nova, vinha nova, noiva ou medo.",
-      "reference": "Dt 20:5-8"
+      "reference": "Dt 20:5-8",
+      "wrongs": [
+        "Só os levitas e os doentes.",
+        "Quem já tivesse filhos adultos.",
+        "Os chefes de mil, para guardar o acampamento."
+      ]
     },
     {
       "id": "DEU.20.curiosity.2",
@@ -679,7 +1014,12 @@
       "kind": "curiosity",
       "prompt": "Que árvores não se derrubavam no cerco, em Deuteronômio?",
       "answer": "As frutíferas, porque alimentam e não lutam.",
-      "reference": "Dt 20:19"
+      "reference": "Dt 20:19",
+      "wrongs": [
+        "Os cedros, porque eram altos demais.",
+        "As do bosque sagrado, para não ofender.",
+        "Nenhuma: todas viravam lenha do cerco."
+      ]
     },
     {
       "id": "DEU.21.subject.1",
@@ -689,7 +1029,12 @@
       "kind": "subject",
       "prompt": "O que faziam com a bezerra se o assassino fosse desconhecido, em Deuteronômio?",
       "answer": "Cortavam o pescoço num vale de água, nunca lavrado.",
-      "reference": "Dt 21:4"
+      "reference": "Dt 21:4",
+      "wrongs": [
+        "Queimavam a bezerra sobre o altar de pedra.",
+        "Soltavam a bezerra no deserto, rumo ao crime.",
+        "Davam a bezerra de herança à viúva."
+      ]
     },
     {
       "id": "DEU.21.curiosity.1",
@@ -699,7 +1044,12 @@
       "kind": "curiosity",
       "prompt": "O que recebia o filho mais velho da esposa rejeitada, em Deuteronômio?",
       "answer": "Parte dobrada, porque a primogenitura era dele.",
-      "reference": "Dt 21:17"
+      "reference": "Dt 21:17",
+      "wrongs": [
+        "Nada, porque a mãe tinha sido rejeitada.",
+        "A mesma parte dos outros filhos.",
+        "Só a bênção, sem terra."
+      ]
     },
     {
       "id": "DEU.21.curiosity.2",
@@ -709,7 +1059,12 @@
       "kind": "curiosity",
       "prompt": "Até quando o condenado podia ficar no madeiro, em Deuteronômio?",
       "answer": "Não passava a noite, pois o pendurado era maldição.",
-      "reference": "Dt 21:23"
+      "reference": "Dt 21:23",
+      "wrongs": [
+        "Ficava três dias, para exemplo da cidade.",
+        "Ficava até a festa seguinte.",
+        "Podia permanecer uma semana inteira."
+      ]
     },
     {
       "id": "DEU.21.curiosity.3",
@@ -720,7 +1075,12 @@
       "kind": "curiosity",
       "prompt": "O que a cidade fazia com o filho rebelde, em Deuteronômio?",
       "answer": "Os homens o apedrejavam até morrer.",
-      "reference": "Dt 21:20-21"
+      "reference": "Dt 21:20-21",
+      "wrongs": [
+        "Os pais o vendiam como escravo.",
+        "O sacerdote o expulsava por um ano.",
+        "Os juízes o mandavam para o refúgio."
+      ]
     },
     {
       "id": "DEU.22.subject.1",
@@ -730,7 +1090,12 @@
       "kind": "subject",
       "prompt": "O que fazer com o boi ou o cordeiro perdido de um irmão, em Deuteronômio?",
       "answer": "Devolver ao dono, em vez de seguir adiante.",
-      "reference": "Dt 22:1"
+      "reference": "Dt 22:1",
+      "wrongs": [
+        "Ficar com o animal, se ninguém visse.",
+        "Levar o animal ao altar como oferta.",
+        "Soltar o animal no deserto."
+      ]
     },
     {
       "id": "DEU.22.curiosity.1",
@@ -740,7 +1105,12 @@
       "kind": "curiosity",
       "prompt": "O que uma casa nova devia ter no terraço, em Deuteronômio?",
       "answer": "Um parapeito, para ninguém cair.",
-      "reference": "Dt 22:8"
+      "reference": "Dt 22:8",
+      "wrongs": [
+        "Um altar, para o culto da família.",
+        "Uma cisterna, para a água da chuva.",
+        "Uma tenda, para a festa das cabanas."
+      ]
     },
     {
       "id": "DEU.22.curiosity.2",
@@ -750,7 +1120,12 @@
       "kind": "curiosity",
       "prompt": "O que se fazia com a mãe da ave achada no ninho, em Deuteronômio?",
       "answer": "Soltava a mãe e ficava com os filhotes.",
-      "reference": "Dt 22:7"
+      "reference": "Dt 22:7",
+      "wrongs": [
+        "Ficava com a mãe e soltava os filhotes.",
+        "Levava a mãe e os filhotes juntos.",
+        "Deixava o ninho como estava."
+      ]
     },
     {
       "id": "DEU.22.curiosity.3",
@@ -760,7 +1135,12 @@
       "kind": "curiosity",
       "prompt": "O que Israel punha nas quatro pontas do manto?",
       "answer": "Franjas.",
-      "reference": "Dt 22:12"
+      "reference": "Dt 22:12",
+      "wrongs": [
+        "Sinos.",
+        "Braceletes.",
+        "Anéis."
+      ]
     },
     {
       "id": "DEU.23.subject.1",
@@ -770,7 +1150,12 @@
       "kind": "subject",
       "prompt": "Até quando amonita e moabita ficavam fora da assembleia, em Deuteronômio?",
       "answer": "Nem na décima geração, e a exclusão era definitiva.",
-      "reference": "Dt 23:3"
+      "reference": "Dt 23:3",
+      "wrongs": [
+        "Só até a terceira geração.",
+        "Até o ano do perdão.",
+        "Só enquanto durasse a guerra."
+      ]
     },
     {
       "id": "DEU.23.name.1",
@@ -780,7 +1165,12 @@
       "kind": "name",
       "prompt": "Quem Moabe contratou para amaldiçoar Israel?",
       "answer": "Balaão, filho de Beor.",
-      "reference": "Dt 23:4"
+      "reference": "Dt 23:4",
+      "wrongs": [
+        "Balaque, filho de Zipor.",
+        "Ogue, rei de Basã.",
+        "Seom, rei de Hesbom."
+      ]
     },
     {
       "id": "DEU.23.curiosity.1",
@@ -790,7 +1180,12 @@
       "kind": "curiosity",
       "prompt": "O que Moisés mandou fazer com o escravo fugido do dono?",
       "answer": "Não devolver ao dono.",
-      "reference": "Dt 23:15"
+      "reference": "Dt 23:15",
+      "wrongs": [
+        "Devolver no mesmo dia.",
+        "Vendê-lo a outro israelita.",
+        "Entregá-lo aos juízes para açoites."
+      ]
     },
     {
       "id": "DEU.23.curiosity.2",
@@ -800,7 +1195,12 @@
       "kind": "curiosity",
       "prompt": "Para que servia a estaca no acampamento de guerra, em Deuteronômio?",
       "answer": "Para cavar e cobrir as fezes.",
-      "reference": "Dt 23:13"
+      "reference": "Dt 23:13",
+      "wrongs": [
+        "Para armar a tenda do general.",
+        "Para marcar o limite do arraial.",
+        "Para pendurar as armas à noite."
+      ]
     },
     {
       "id": "DEU.24.subject.1",
@@ -810,7 +1210,12 @@
       "kind": "subject",
       "prompt": "O que o primeiro marido não podia fazer após novo casamento, em Deuteronômio?",
       "answer": "Receber de volta a mulher, pois isso pervertia a terra.",
-      "reference": "Dt 24:4"
+      "reference": "Dt 24:4",
+      "wrongs": [
+        "Pagar o dote que já tinha dado.",
+        "Falar o nome dela na cidade.",
+        "Casar com outra mulher depois."
+      ]
     },
     {
       "id": "DEU.24.curiosity.1",
@@ -820,7 +1225,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo o recém-casado ficava longe da guerra, em Deuteronômio?",
       "answer": "Um ano em casa, para alegrar a esposa.",
-      "reference": "Dt 24:5"
+      "reference": "Dt 24:5",
+      "wrongs": [
+        "Um mês, até a festa seguinte.",
+        "Sete dias, e depois seguia o exército.",
+        "Três anos, até nascer um filho."
+      ]
     },
     {
       "id": "DEU.24.curiosity.2",
@@ -830,7 +1240,12 @@
       "kind": "curiosity",
       "prompt": "Por que a pedra de moinho não servia de garantia, em Deuteronômio?",
       "answer": "Porque isso era tomar a vida como penhor.",
-      "reference": "Dt 24:6"
+      "reference": "Dt 24:6",
+      "wrongs": [
+        "Porque a pedra pertencia ao sacerdote.",
+        "Porque o moinho era objeto impuro.",
+        "Porque só ouro podia garantir dívida."
+      ]
     },
     {
       "id": "DEU.24.curiosity.3",
@@ -840,7 +1255,12 @@
       "kind": "curiosity",
       "prompt": "Quando o trabalhador pobre devia receber o salário, em Deuteronômio?",
       "answer": "No dia do serviço, antes de o sol se pôr.",
-      "reference": "Dt 24:15"
+      "reference": "Dt 24:15",
+      "wrongs": [
+        "No fim da semana, em dia de feira.",
+        "No sétimo ano, com a remissão.",
+        "Quando a colheita terminasse."
+      ]
     },
     {
       "id": "DEU.25.subject.1",
@@ -850,7 +1270,12 @@
       "kind": "subject",
       "prompt": "Quantos açoites o juiz podia aplicar, no máximo, em Deuteronômio?",
       "answer": "Quarenta, para não humilhar o irmão além disso.",
-      "reference": "Dt 25:3"
+      "reference": "Dt 25:3",
+      "wrongs": [
+        "Vinte, e nem um a mais.",
+        "Cem, se o crime fosse grave.",
+        "Sete, diante das testemunhas."
+      ]
     },
     {
       "id": "DEU.25.curiosity.1",
@@ -860,7 +1285,12 @@
       "kind": "curiosity",
       "prompt": "O que não se colocava no boi durante a debulha, em Deuteronômio?",
       "answer": "Uma mordaça.",
-      "reference": "Dt 25:4"
+      "reference": "Dt 25:4",
+      "wrongs": [
+        "Um cabresto.",
+        "Uma corda.",
+        "Um jugo."
+      ]
     },
     {
       "id": "DEU.25.curiosity.2",
@@ -870,7 +1300,12 @@
       "kind": "curiosity",
       "prompt": "O que a cunhada fazia se o cunhado recusasse casar, em Deuteronômio?",
       "answer": "Tirava a sandália dele e cuspia no rosto.",
-      "reference": "Dt 25:9"
+      "reference": "Dt 25:9",
+      "wrongs": [
+        "Rasgava o manto dele e saía calada.",
+        "Queimava a sandália dele na porta.",
+        "Cobrava o dote diante dos anciãos."
+      ]
     },
     {
       "id": "DEU.25.curiosity.3",
@@ -880,7 +1315,12 @@
       "kind": "curiosity",
       "prompt": "A memória de qual povo Israel devia apagar?",
       "answer": "A de Amaleque.",
-      "reference": "Dt 25:19"
+      "reference": "Dt 25:19",
+      "wrongs": [
+        "A de Edom.",
+        "A de Moabe.",
+        "A de Midiã."
+      ]
     },
     {
       "id": "DEU.26.subject.1",
@@ -890,7 +1330,12 @@
       "kind": "subject",
       "prompt": "O que se levava ao lugar escolhido por Deus, em Deuteronômio?",
       "answer": "Um cesto com as primeiras frutas da terra.",
-      "reference": "Dt 26:2"
+      "reference": "Dt 26:2",
+      "wrongs": [
+        "O dízimo de todo o gado do ano.",
+        "As cinzas da novilha vermelha.",
+        "Um mapa da terra já repartida."
+      ]
     },
     {
       "id": "DEU.26.curiosity.1",
@@ -900,7 +1345,12 @@
       "kind": "curiosity",
       "prompt": "Como a confissão descrevia o pai de Israel?",
       "answer": "Como um arameu quase morto, que desceu ao Egito.",
-      "reference": "Dt 26:5"
+      "reference": "Dt 26:5",
+      "wrongs": [
+        "Como um egípcio rico, que subiu a Canaã.",
+        "Como um rei de Ur, que nunca saiu da cidade.",
+        "Como um pastor de Midiã, que ficou no deserto."
+      ]
     },
     {
       "id": "DEU.26.curiosity.2",
@@ -910,7 +1360,12 @@
       "kind": "curiosity",
       "prompt": "Quem comia do dízimo no terceiro ano, em Deuteronômio?",
       "answer": "Levita, estrangeiro, órfão e viúva.",
-      "reference": "Dt 26:12"
+      "reference": "Dt 26:12",
+      "wrongs": [
+        "Só o sacerdote e os filhos dele.",
+        "O rei, os chefes e o exército.",
+        "Quem tivesse trazido as primícias."
+      ]
     },
     {
       "id": "DEU.27.subject.1",
@@ -920,7 +1375,12 @@
       "kind": "subject",
       "prompt": "Onde Israel devia erguer as pedras com a lei?",
       "answer": "No monte Ebal, cobertas de cal.",
-      "reference": "Dt 27:4"
+      "reference": "Dt 27:4",
+      "wrongs": [
+        "No monte Gerizim, cobertas de ouro.",
+        "No monte Sinai, cobertas de incenso.",
+        "Em Gilgal, à beira do Jordão."
+      ]
     },
     {
       "id": "DEU.27.place.1",
@@ -930,7 +1390,12 @@
       "kind": "place",
       "prompt": "Em que monte algumas tribos abençoariam o povo, em Deuteronômio?",
       "answer": "No Gerizim.",
-      "reference": "Dt 27:12"
+      "reference": "Dt 27:12",
+      "wrongs": [
+        "No Ebal.",
+        "No Sinai.",
+        "No Carmelo."
+      ]
     },
     {
       "id": "DEU.27.curiosity.1",
@@ -941,7 +1406,12 @@
       "kind": "curiosity",
       "prompt": "Como deviam ser as pedras do altar, em Deuteronômio?",
       "answer": "Inteiras, e sem ferro passado nelas.",
-      "reference": "Dt 27:5-6"
+      "reference": "Dt 27:5-6",
+      "wrongs": [
+        "Cortadas, e polidas com ferro.",
+        "De tijolo, queimadas no forno.",
+        "Pequenas, trazidas do Jordão."
+      ]
     },
     {
       "id": "DEU.27.curiosity.2",
@@ -951,7 +1421,12 @@
       "kind": "curiosity",
       "prompt": "O que o povo respondia a cada maldição, em Deuteronômio?",
       "answer": "Amém.",
-      "reference": "Dt 27:15"
+      "reference": "Dt 27:15",
+      "wrongs": [
+        "Aleluia.",
+        "Silêncio.",
+        "Nunca."
+      ]
     },
     {
       "id": "DEU.28.subject.1",
@@ -961,7 +1436,12 @@
       "kind": "subject",
       "prompt": "O que Deus prometeu antes da lista de bênçãos, se Israel obedecesse?",
       "answer": "O poria no alto, acima dos outros povos.",
-      "reference": "Dt 28:1"
+      "reference": "Dt 28:1",
+      "wrongs": [
+        "O esconderia no deserto, longe das nações.",
+        "O faria igual aos outros, nem maior nem menor.",
+        "O entregaria a um rei estrangeiro."
+      ]
     },
     {
       "id": "DEU.28.curiosity.1",
@@ -971,7 +1451,12 @@
       "kind": "curiosity",
       "prompt": "Como ficariam o céu e a terra na maldição, em Deuteronômio?",
       "answer": "O céu como bronze, e a terra como ferro.",
-      "reference": "Dt 28:23"
+      "reference": "Dt 28:23",
+      "wrongs": [
+        "O céu como ferro, e a terra como bronze.",
+        "O céu como ouro, e a terra como prata.",
+        "O céu aberto em chuva, e a terra em trigo."
+      ]
     },
     {
       "id": "DEU.28.curiosity.2",
@@ -981,7 +1466,12 @@
       "kind": "curiosity",
       "prompt": "Por quantos caminhos fugiria o inimigo de Israel?",
       "answer": "Por sete, depois de vir por um só.",
-      "reference": "Dt 28:7"
+      "reference": "Dt 28:7",
+      "wrongs": [
+        "Por um só, depois de vir por sete.",
+        "Por três, sem deixar ferido.",
+        "Por doze, um para cada tribo."
+      ]
     },
     {
       "id": "DEU.28.curiosity.3",
@@ -991,7 +1481,12 @@
       "kind": "curiosity",
       "prompt": "Para onde Deus faria Israel voltar de navio?",
       "answer": "Ao Egito, para ser vendido, e ninguém compraria.",
-      "reference": "Dt 28:68"
+      "reference": "Dt 28:68",
+      "wrongs": [
+        "À Assíria, para servir nas cidades.",
+        "A Canaã, para recomeçar a conquista.",
+        "A Midiã, para ser escravo dos reis."
+      ]
     },
     {
       "id": "DEU.29.subject.1",
@@ -1001,7 +1496,12 @@
       "kind": "subject",
       "prompt": "Onde Moisés fez um pacto além do pacto do Horebe?",
       "answer": "Na terra de Moabe.",
-      "reference": "Dt 29:1"
+      "reference": "Dt 29:1",
+      "wrongs": [
+        "No deserto do Sinai.",
+        "Em Siquém, diante das tribos.",
+        "No monte Nebo, no dia da morte."
+      ]
     },
     {
       "id": "DEU.29.name.1",
@@ -1011,7 +1511,12 @@
       "kind": "name",
       "prompt": "A quem Deus tinha jurado ao confirmar Israel?",
       "answer": "A Abraão, a Isaque e a Jacó.",
-      "reference": "Dt 29:13"
+      "reference": "Dt 29:13",
+      "wrongs": [
+        "A Moisés, a Arão e a Miriã.",
+        "A Josué, a Calebe e a Eleazar.",
+        "A Davi, a Salomão e aos reis."
+      ]
     },
     {
       "id": "DEU.29.curiosity.1",
@@ -1021,7 +1526,12 @@
       "kind": "curiosity",
       "prompt": "O que não envelheceu nos quarenta anos de deserto, em Deuteronômio?",
       "answer": "Nem a roupa nem o calçado.",
-      "reference": "Dt 29:5"
+      "reference": "Dt 29:5",
+      "wrongs": [
+        "Nem o pão nem o odre de água.",
+        "Nem a tenda nem a vara de Arão.",
+        "Nem o cabelo nem a barba do povo."
+      ]
     },
     {
       "id": "DEU.29.curiosity.2",
@@ -1031,7 +1541,12 @@
       "kind": "curiosity",
       "prompt": "A quem pertencem as coisas secretas, em Deuteronômio?",
       "answer": "A Deus; o que foi revelado fica com o povo.",
-      "reference": "Dt 29:29"
+      "reference": "Dt 29:29",
+      "wrongs": [
+        "Ao povo; o que foi revelado fica só com Deus.",
+        "Aos sacerdotes; o povo não recebe nada.",
+        "Aos profetas; ninguém mais pode saber."
+      ]
     },
     {
       "id": "DEU.30.subject.1",
@@ -1041,7 +1556,12 @@
       "kind": "subject",
       "prompt": "O que Moisés mandou Israel escolher?",
       "answer": "A vida, para que o povo e os filhos vivessem.",
-      "reference": "Dt 30:19"
+      "reference": "Dt 30:19",
+      "wrongs": [
+        "A morte, para descansar da lei.",
+        "O deserto, para não entrar na terra.",
+        "Outro deus, se a colheita falhasse."
+      ]
     },
     {
       "id": "DEU.30.curiosity.1",
@@ -1051,7 +1571,12 @@
       "kind": "curiosity",
       "prompt": "Onde estava a palavra que Israel devia cumprir?",
       "answer": "Perto, na boca e no coração.",
-      "reference": "Dt 30:14"
+      "reference": "Dt 30:14",
+      "wrongs": [
+        "Longe, do outro lado do mar.",
+        "Escondida, só no céu.",
+        "No Egito, com os sábios de lá."
+      ]
     },
     {
       "id": "DEU.30.curiosity.2",
@@ -1061,7 +1586,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus faria se Israel se convertesse no exílio?",
       "answer": "Teria misericórdia e o recolheria de todos os povos.",
-      "reference": "Dt 30:3"
+      "reference": "Dt 30:3",
+      "wrongs": [
+        "Esqueceria o povo e escolheria outra nação.",
+        "Deixaria Israel espalhado para sempre.",
+        "Cobraria o exílio por mais quarenta anos."
+      ]
     },
     {
       "id": "DEU.31.subject.1",
@@ -1071,7 +1601,12 @@
       "kind": "subject",
       "prompt": "O que Moisés disse sobre a idade dele e a travessia do Jordão?",
       "answer": "Tinha cento e vinte anos, e Deus lhe negou a passagem.",
-      "reference": "Dt 31:2"
+      "reference": "Dt 31:2",
+      "wrongs": [
+        "Tinha oitenta anos, e Deus lhe mandou passar.",
+        "Tinha cem anos, e ele mesmo guiaria a travessia.",
+        "Tinha cento e dez anos, e ficou em Moabe por escolha."
+      ]
     },
     {
       "id": "DEU.31.name.1",
@@ -1081,7 +1616,12 @@
       "kind": "name",
       "prompt": "Quem Moisés chamou para conduzir Israel à terra?",
       "answer": "Josué.",
-      "reference": "Dt 31:7"
+      "reference": "Dt 31:7",
+      "wrongs": [
+        "Calebe.",
+        "Eleazar.",
+        "Fineias."
+      ]
     },
     {
       "id": "DEU.31.place.1",
@@ -1091,7 +1631,12 @@
       "kind": "place",
       "prompt": "Onde Moisés e Josué esperaram Deus falar?",
       "answer": "Na tenda do testemunho.",
-      "reference": "Dt 31:14"
+      "reference": "Dt 31:14",
+      "wrongs": [
+        "No cume do Pisga.",
+        "À beira do Jordão.",
+        "No meio do acampamento de Rúben."
+      ]
     },
     {
       "id": "DEU.31.curiosity.1",
@@ -1101,7 +1646,12 @@
       "kind": "curiosity",
       "prompt": "Quando a lei seria lida diante de todo Israel?",
       "answer": "No ano sétimo, na festa das cabanas.",
-      "reference": "Dt 31:10"
+      "reference": "Dt 31:10",
+      "wrongs": [
+        "Todo ano, na Páscoa.",
+        "No ano cinquenta, no jubileu.",
+        "No dia dez do sétimo mês."
+      ]
     },
     {
       "id": "DEU.32.subject.1",
@@ -1111,7 +1661,12 @@
       "kind": "subject",
       "prompt": "Como o cântico final de Moisés apresenta Deus?",
       "answer": "Como Rocha, cuja obra não tem falha.",
-      "reference": "Dt 32:4"
+      "reference": "Dt 32:4",
+      "wrongs": [
+        "Como vento, que muda a cada manhã.",
+        "Como rei fraco, que precisa de exército.",
+        "Como nuvem, que passa e não volta."
+      ]
     },
     {
       "id": "DEU.32.name.1",
@@ -1121,7 +1676,12 @@
       "kind": "name",
       "prompt": "Quem recitou o cântico junto com Moisés?",
       "answer": "Josué, filho de Num.",
-      "reference": "Dt 32:44"
+      "reference": "Dt 32:44",
+      "wrongs": [
+        "Arão, irmão de Moisés.",
+        "Calebe, filho de Jefoné.",
+        "Eleazar, filho de Arão."
+      ]
     },
     {
       "id": "DEU.32.place.1",
@@ -1131,7 +1691,12 @@
       "kind": "place",
       "prompt": "A que monte de Abarim Deus mandou Moisés subir para morrer?",
       "answer": "Ao Nebo, de frente para Jericó.",
-      "reference": "Dt 32:49"
+      "reference": "Dt 32:49",
+      "wrongs": [
+        "Ao Hor, de frente para Edom.",
+        "Ao Sinai, de frente para o deserto.",
+        "Ao Carmelo, de frente para o mar."
+      ]
     },
     {
       "id": "DEU.32.curiosity.1",
@@ -1141,7 +1706,12 @@
       "kind": "curiosity",
       "prompt": "Como Deus guardou Israel no deserto, no cântico?",
       "answer": "Como a menina dos olhos.",
-      "reference": "Dt 32:10"
+      "reference": "Dt 32:10",
+      "wrongs": [
+        "Como um servo esquecido no campo.",
+        "Como um exército sem bandeira.",
+        "Como poeira levada pelo vento."
+      ]
     },
     {
       "id": "DEU.33.subject.1",
@@ -1151,7 +1721,12 @@
       "kind": "subject",
       "prompt": "O que Moisés fez com as tribos antes de morrer?",
       "answer": "Abençoou os filhos de Israel.",
-      "reference": "Dt 33:1"
+      "reference": "Dt 33:1",
+      "wrongs": [
+        "Repartiu o ouro do despojo.",
+        "Nomeou um rei para cada tribo.",
+        "Apagou os nomes dos rebeldes."
+      ]
     },
     {
       "id": "DEU.33.name.1",
@@ -1161,7 +1736,12 @@
       "kind": "name",
       "prompt": "Qual tribo a bênção chama de amada de Deus, em Deuteronômio?",
       "answer": "Benjamim.",
-      "reference": "Dt 33:12"
+      "reference": "Dt 33:12",
+      "wrongs": [
+        "Judá.",
+        "José.",
+        "Levi."
+      ]
     },
     {
       "id": "DEU.33.place.1",
@@ -1171,7 +1751,12 @@
       "kind": "place",
       "prompt": "De onde a bênção de Moisés diz que Deus veio?",
       "answer": "Do Sinai, e brilhou desde o Parã.",
-      "reference": "Dt 33:2"
+      "reference": "Dt 33:2",
+      "wrongs": [
+        "Do Egito, e subiu desde o Nilo.",
+        "De Moabe, e falou desde o Pisga.",
+        "De Jericó, e cruzou o Jordão."
+      ]
     },
     {
       "id": "DEU.33.curiosity.1",
@@ -1181,7 +1766,12 @@
       "kind": "curiosity",
       "prompt": "O que Moisés citou na bênção de Levi?",
       "answer": "O Urim e o Tumim.",
-      "reference": "Dt 33:8"
+      "reference": "Dt 33:8",
+      "wrongs": [
+        "A arca e o candelabro.",
+        "O maná e a rocha.",
+        "O cetro e a estrela."
+      ]
     },
     {
       "id": "DEU.34.subject.1",
@@ -1191,7 +1781,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu com Moisés na terra de Moabe?",
       "answer": "Morreu ali, como Deus tinha dito.",
-      "reference": "Dt 34:5"
+      "reference": "Dt 34:5",
+      "wrongs": [
+        "Entrou em Canaã com Josué.",
+        "Voltou ao Egito com o povo.",
+        "Ficou sacerdote no lugar de Arão."
+      ]
     },
     {
       "id": "DEU.34.name.1",
@@ -1201,7 +1796,12 @@
       "kind": "name",
       "prompt": "Quem liderou Israel depois que Moisés impôs as mãos?",
       "answer": "Josué, filho de Num.",
-      "reference": "Dt 34:9"
+      "reference": "Dt 34:9",
+      "wrongs": [
+        "Calebe, filho de Jefoné.",
+        "Eleazar, filho de Arão.",
+        "Fineias, filho de Eleazar."
+      ]
     },
     {
       "id": "DEU.34.place.1",
@@ -1211,7 +1811,12 @@
       "kind": "place",
       "prompt": "A que monte Moisés subiu para ver a terra?",
       "answer": "Ao Nebo, no cume do Pisga, diante de Jericó.",
-      "reference": "Dt 34:1"
+      "reference": "Dt 34:1",
+      "wrongs": [
+        "Ao Hor, no caminho de Edom.",
+        "Ao Sinai, no deserto de Parã.",
+        "Ao Ebal, diante de Siquém."
+      ]
     },
     {
       "id": "DEU.34.curiosity.1",
@@ -1221,7 +1826,12 @@
       "kind": "curiosity",
       "prompt": "Quem conhece o sepulcro de Moisés?",
       "answer": "Ninguém.",
-      "reference": "Dt 34:6"
+      "reference": "Dt 34:6",
+      "wrongs": [
+        "Só Josué.",
+        "Só Eleazar.",
+        "Os levitas."
+      ]
     },
     {
       "id": "DEU.34.curiosity.2",
@@ -1231,7 +1841,12 @@
       "kind": "curiosity",
       "prompt": "Com quantos anos Moisés morreu?",
       "answer": "Cento e vinte, com a vista boa e o vigor inteiro.",
-      "reference": "Dt 34:7"
+      "reference": "Dt 34:7",
+      "wrongs": [
+        "Cento e dez, já sem força para andar.",
+        "Oitenta, ao pé do monte Sinai.",
+        "Cento e trinta, cego e cansado."
+      ]
     },
     {
       "id": "DEU.34.curiosity.3",
@@ -1241,7 +1856,12 @@
       "kind": "curiosity",
       "prompt": "Quantos profetas como Moisés se levantaram em Israel?",
       "answer": "Nenhum, e ninguém falou com Deus cara a cara como ele.",
-      "reference": "Dt 34:10"
+      "reference": "Dt 34:10",
+      "wrongs": [
+        "Muitos, em cada geração seguinte.",
+        "Só Josué, que também falou cara a cara.",
+        "Doze, um em cada tribo."
+      ]
     },
     {
       "id": "DEU.0.curiosity.1",
@@ -1251,7 +1871,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Deuteronômio?",
       "answer": "Moisés.",
-      "reference": "Deuteronômio"
+      "reference": "Deuteronômio",
+      "wrongs": [
+        "Josué.",
+        "Samuel.",
+        "Esdras."
+      ]
     },
     {
       "id": "DEU.0.curiosity.2",
@@ -1261,7 +1886,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Deuteronômio?",
       "answer": "No século XV antes de Cristo, no fim da vida dele.",
-      "reference": "Deuteronômio"
+      "reference": "Deuteronômio",
+      "wrongs": [
+        "No século X antes de Cristo, no reinado de Davi.",
+        "No século V antes de Cristo, depois do exílio.",
+        "No século I depois de Cristo, na época dos reis."
+      ]
     }
   ]
 }

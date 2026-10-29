@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que existe de novo debaixo do sol?",
       "answer": "Nada. O que já aconteceu torna a se repetir.",
-      "reference": "Ec 1:9"
+      "reference": "Ec 1:9",
+      "wrongs": [
+        "Tudo. Cada manhã traz o que nunca houve.",
+        "O trabalho. Só ele muda o que já passou.",
+        "A fala. Cada geração inventa outro mundo."
+      ]
     },
     {
       "id": "ECC.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Como Eclesiastes chama o filho de Davi que reina em Jerusalém?",
       "answer": "O Pregador.",
-      "reference": "Ec 1:1"
+      "reference": "Ec 1:1",
+      "wrongs": [
+        "O Profeta.",
+        "O Juiz.",
+        "O Sacerdote."
+      ]
     },
     {
       "id": "ECC.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde o Pregador passou a reinar sobre Israel?",
       "answer": "Em Jerusalém.",
-      "reference": "Ec 1:12"
+      "reference": "Ec 1:12",
+      "wrongs": [
+        "Em Samaria.",
+        "Em Hebrom.",
+        "Em Siquém."
+      ]
     },
     {
       "id": "ECC.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que os rios fazem ao chegar no mar?",
       "answer": "Não o enchem, e voltam a correr de onde saíram.",
-      "reference": "Ec 1:7"
+      "reference": "Ec 1:7",
+      "wrongs": [
+        "Enchem o mar, e param de correr para sempre.",
+        "Secam o mar, e mudam o curso uma só vez.",
+        "Fogem do mar, e não tornam à nascente."
+      ]
     },
     {
       "id": "ECC.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que o Pregador viu em tudo o que fez?",
       "answer": "Que era fútil, como correr atrás do vento.",
-      "reference": "Ec 2:11"
+      "reference": "Ec 2:11",
+      "wrongs": [
+        "Que era eterno, como plantar um cedro.",
+        "Que era lucro certo, como encher um cofre.",
+        "Que era descanso, como achar a sombra."
+      ]
     },
     {
       "id": "ECC.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "Onde o Pregador superou os que vieram antes dele?",
       "answer": "Em Jerusalém.",
-      "reference": "Ec 2:9"
+      "reference": "Ec 2:9",
+      "wrongs": [
+        "Na Babilônia.",
+        "Em Damasco.",
+        "No Egito."
+      ]
     },
     {
       "id": "ECC.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "O que o Pregador juntou, além de cantores?",
       "answer": "Prata e ouro, com tesouros vindos de reis.",
-      "reference": "Ec 2:8"
+      "reference": "Ec 2:8",
+      "wrongs": [
+        "Só pão e água, sem tesouro algum.",
+        "Gado e tendas, com rebanhos do deserto.",
+        "Livros e cinza, sem metal nem canto."
+      ]
     },
     {
       "id": "ECC.3.subject.1",
@@ -78,7 +113,12 @@
       "kind": "subject",
       "prompt": "O que toda coisa debaixo do céu possui?",
       "answer": "Um tempo certo para acontecer.",
-      "reference": "Ec 3:1"
+      "reference": "Ec 3:1",
+      "wrongs": [
+        "Um dono que a impede de mudar.",
+        "Um preço fixo em ouro.",
+        "Uma cópia que nunca se repete."
+      ]
     },
     {
       "id": "ECC.3.curiosity.1",
@@ -88,7 +128,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus pôs no coração humano?",
       "answer": "A sensação da eternidade.",
-      "reference": "Ec 3:11"
+      "reference": "Ec 3:11",
+      "wrongs": [
+        "A medida de todo o ouro.",
+        "O mapa de cada reino.",
+        "O fim de toda pergunta."
+      ]
     },
     {
       "id": "ECC.3.curiosity.2",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "Para onde todos voltam no fim, em Eclesiastes?",
       "answer": "Ao pó, de onde também vieram.",
-      "reference": "Ec 3:20"
+      "reference": "Ec 3:20",
+      "wrongs": [
+        "Ao mar, de onde os rios saíram.",
+        "Ao palácio, de onde o rei governa.",
+        "Ao céu, sem passar pela terra."
+      ]
     },
     {
       "id": "ECC.4.subject.1",
@@ -108,7 +158,12 @@
       "kind": "subject",
       "prompt": "Que corda é a mais difícil de arrebentar?",
       "answer": "A de três dobras.",
-      "reference": "Ec 4:12"
+      "reference": "Ec 4:12",
+      "wrongs": [
+        "A de uma dobra só.",
+        "A de linha solta.",
+        "A que ninguém trança."
+      ]
     },
     {
       "id": "ECC.4.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Quem o Pregador viu chorar sem receber consolo?",
       "answer": "Os oprimidos. A força estava com quem oprimia.",
-      "reference": "Ec 4:1"
+      "reference": "Ec 4:1",
+      "wrongs": [
+        "Os reis. A força estava com os servos.",
+        "Os ricos. A força estava com os pobres.",
+        "Os sábios. A força estava com os tolos."
+      ]
     },
     {
       "id": "ECC.4.curiosity.2",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Quem é melhor do que um rei velho e tolo?",
       "answer": "Um jovem pobre e sábio.",
-      "reference": "Ec 4:13"
+      "reference": "Ec 4:13",
+      "wrongs": [
+        "Um jovem rico e tolo.",
+        "Um velho rico e surdo.",
+        "Um rei novo e vaidoso."
+      ]
     },
     {
       "id": "ECC.5.subject.1",
@@ -138,7 +203,12 @@
       "kind": "subject",
       "prompt": "O que é melhor do que fazer um voto e não pagar?",
       "answer": "Não fazer voto nenhum.",
-      "reference": "Ec 5:5"
+      "reference": "Ec 5:5",
+      "wrongs": [
+        "Prometer mais e pagar menos.",
+        "Jurar alto e esquecer depois.",
+        "Fazer dois votos e cumprir um."
+      ]
     },
     {
       "id": "ECC.5.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "Onde se deve chegar para ouvir, e não para oferta tola, em Eclesiastes?",
       "answer": "À casa de Deus.",
-      "reference": "Ec 5:1"
+      "reference": "Ec 5:1",
+      "wrongs": [
+        "À praça do mercado.",
+        "Ao palácio do rei.",
+        "À porta dos sábios."
+      ]
     },
     {
       "id": "ECC.5.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "O que nunca sacia quem ama o dinheiro?",
       "answer": "O próprio dinheiro. A riqueza também não sacia.",
-      "reference": "Ec 5:10"
+      "reference": "Ec 5:10",
+      "wrongs": [
+        "O trabalho curto. A pobreza sacia de vez.",
+        "Um só pão. A fome acaba na hora.",
+        "O sono longo. A alma fica cheia."
+      ]
     },
     {
       "id": "ECC.6.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "Quem come os bens de quem não pode desfrutá-los?",
       "answer": "Um estranho. Deus não deu a esse homem poder de desfrutar.",
-      "reference": "Ec 6:2"
+      "reference": "Ec 6:2",
+      "wrongs": [
+        "O próprio homem. Deus lhe deu fome sem fim.",
+        "O filho mais velho. Deus lhe deu a chave da casa.",
+        "O sacerdote. Deus lhe deu o direito da mesa."
+      ]
     },
     {
       "id": "ECC.6.curiosity.1",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "O que se ganha em viver mil anos duas vezes sem o bem?",
       "answer": "Nada. Todos acabam no mesmo lugar.",
-      "reference": "Ec 6:6"
+      "reference": "Ec 6:6",
+      "wrongs": [
+        "Tudo. A alma fica para sempre em festa.",
+        "O dobro. A morte espera os outros.",
+        "A fama. O nome não volta ao pó."
+      ]
     },
     {
       "id": "ECC.7.subject.1",
@@ -188,7 +278,12 @@
       "kind": "subject",
       "prompt": "O que vale mais do que um bom perfume?",
       "answer": "Uma boa reputação. O dia da morte supera o do nascimento.",
-      "reference": "Ec 7:1"
+      "reference": "Ec 7:1",
+      "wrongs": [
+        "Uma boa festa. O dia do nascimento supera o da morte.",
+        "Uma boa mesa. O dia da colheita supera o do nome.",
+        "Uma boa coroa. O dia do trono supera o da fama."
+      ]
     },
     {
       "id": "ECC.7.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Quem na terra faz o bem e nunca peca?",
       "answer": "Ninguém.",
-      "reference": "Ec 7:20"
+      "reference": "Ec 7:20",
+      "wrongs": [
+        "O sábio.",
+        "O rei.",
+        "O justo."
+      ]
     },
     {
       "id": "ECC.8.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "Quem controla o dia da própria morte?",
       "answer": "Ninguém. Também ninguém segura o espírito.",
-      "reference": "Ec 8:8"
+      "reference": "Ec 8:8",
+      "wrongs": [
+        "O rico. O ouro segura o espírito.",
+        "O forte. O braço segura o espírito.",
+        "O rei. O decreto segura o espírito."
+      ]
     },
     {
       "id": "ECC.8.curiosity.1",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "Por que o coração se anima a fazer o mal?",
       "answer": "Porque o julgamento da obra má não vem logo.",
-      "reference": "Ec 8:11"
+      "reference": "Ec 8:11",
+      "wrongs": [
+        "Porque o julgamento da obra má chega na hora.",
+        "Porque o bem não deixa rastro nenhum.",
+        "Porque a lei paga quem faz o mal."
+      ]
     },
     {
       "id": "ECC.9.subject.1",
@@ -228,7 +338,12 @@
       "kind": "subject",
       "prompt": "O que é melhor do que um leão morto?",
       "answer": "Um cão vivo.",
-      "reference": "Ec 9:4"
+      "reference": "Ec 9:4",
+      "wrongs": [
+        "Um boi gordo.",
+        "Uma águia morta.",
+        "Um corvo seco."
+      ]
     },
     {
       "id": "ECC.9.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Com quem ficam a corrida e a batalha?",
       "answer": "Não com os velozes nem com os fortes. O tempo alcança todos.",
-      "reference": "Ec 9:11"
+      "reference": "Ec 9:11",
+      "wrongs": [
+        "Sempre com os velozes e com os fortes. O tempo espera.",
+        "Só com os ricos e com os reis. O tempo obedece.",
+        "Com quem nasce primeiro. O tempo escolhe a casa."
+      ]
     },
     {
       "id": "ECC.9.curiosity.2",
@@ -248,7 +368,12 @@
       "kind": "curiosity",
       "prompt": "Quem livrou a cidade e mesmo assim foi esquecido?",
       "answer": "Um homem pobre e sábio.",
-      "reference": "Ec 9:15"
+      "reference": "Ec 9:15",
+      "wrongs": [
+        "Um general rico e famoso.",
+        "Um rei jovem e forte.",
+        "Um sacerdote de grande nome."
+      ]
     },
     {
       "id": "ECC.10.subject.1",
@@ -258,7 +383,12 @@
       "kind": "subject",
       "prompt": "O que um pouco de tolice faz com a sabedoria?",
       "answer": "Pesa mais do que ela, como moscas mortas estragam o perfume.",
-      "reference": "Ec 10:1"
+      "reference": "Ec 10:1",
+      "wrongs": [
+        "Some diante dela, como o sol seca o orvalho.",
+        "Vira tempero, como sal melhora a comida.",
+        "Não muda nada, como água derramada em mais água."
+      ]
     },
     {
       "id": "ECC.10.curiosity.1",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "O que o Pregador viu servos e príncipes fazerem?",
       "answer": "Servos iam a cavalo, e príncipes andavam a pé.",
-      "reference": "Ec 10:7"
+      "reference": "Ec 10:7",
+      "wrongs": [
+        "Príncipes iam a cavalo, e servos abriam caminho.",
+        "Servos e príncipes iam juntos no mesmo carro.",
+        "Ninguém andava, e a cidade ficava parada."
+      ]
     },
     {
       "id": "ECC.10.curiosity.2",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "Por que não amaldiçoar o rei nem dentro do quarto?",
       "answer": "Porque as aves levam a fala, e quem tem asa conta.",
-      "reference": "Ec 10:20"
+      "reference": "Ec 10:20",
+      "wrongs": [
+        "Porque as paredes guardam a fala, e ninguém conta.",
+        "Porque o rei nunca ouve, e o quarto é surdo.",
+        "Porque a maldição volta só se for na praça."
+      ]
     },
     {
       "id": "ECC.11.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "O que se deve lançar sobre as águas?",
       "answer": "O pão. Muito tempo depois ele é achado.",
-      "reference": "Ec 11:1"
+      "reference": "Ec 11:1",
+      "wrongs": [
+        "A rede. No mesmo dia ela volta vazia.",
+        "A semente seca. Ela nunca mais aparece.",
+        "O ouro. Na hora ele se perde de vez."
+      ]
     },
     {
       "id": "ECC.11.curiosity.1",
@@ -298,7 +443,12 @@
       "kind": "curiosity",
       "prompt": "A quantas pessoas se deve dar uma parte?",
       "answer": "A sete, e também a oito.",
-      "reference": "Ec 11:2"
+      "reference": "Ec 11:2",
+      "wrongs": [
+        "A uma, e nunca a duas.",
+        "A dez, e não além disso.",
+        "A ninguém, para guardar tudo."
+      ]
     },
     {
       "id": "ECC.11.curiosity.2",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "O que deixa de fazer quem só olha o vento?",
       "answer": "Não semeia. Quem olha as nuvens não colhe.",
-      "reference": "Ec 11:4"
+      "reference": "Ec 11:4",
+      "wrongs": [
+        "Não descansa. Quem olha as nuvens colhe dobrado.",
+        "Não viaja. Quem olha as nuvens acha ouro.",
+        "Não come. Quem olha as nuvens fica rico."
+      ]
     },
     {
       "id": "ECC.12.subject.1",
@@ -318,7 +473,12 @@
       "kind": "subject",
       "prompt": "Qual é a conclusão sobre o dever de toda pessoa?",
       "answer": "Temer a Deus e guardar os mandamentos dele.",
-      "reference": "Ec 12:13"
+      "reference": "Ec 12:13",
+      "wrongs": [
+        "Juntar bens e esquecer o dia de amanhã.",
+        "Seguir o coração e largar os mandamentos.",
+        "Temer os homens e guardar a própria fama."
+      ]
     },
     {
       "id": "ECC.12.curiosity.1",
@@ -328,7 +488,12 @@
       "kind": "curiosity",
       "prompt": "O que acontece com a prata e o ouro na imagem da velhice?",
       "answer": "A correia de prata se solta e a taça de ouro se quebra.",
-      "reference": "Ec 12:6"
+      "reference": "Ec 12:6",
+      "wrongs": [
+        "A correia de prata aperta e a taça de ouro transborda.",
+        "A correia de prata vira ouro e a taça se multiplica.",
+        "A correia de prata some no poço e a taça fica nova."
+      ]
     },
     {
       "id": "ECC.12.curiosity.2",
@@ -338,7 +503,12 @@
       "kind": "curiosity",
       "prompt": "O que cansa o corpo, além dos livros sem fim?",
       "answer": "Estudar demais.",
-      "reference": "Ec 12:12"
+      "reference": "Ec 12:12",
+      "wrongs": [
+        "Dormir demais.",
+        "Comer de menos.",
+        "Andar na sombra."
+      ]
     },
     {
       "id": "ECC.0.curiosity.1",
@@ -348,7 +518,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Eclesiastes?",
       "answer": "Salomão.",
-      "reference": "Eclesiastes"
+      "reference": "Eclesiastes",
+      "wrongs": [
+        "Davi.",
+        "Agur.",
+        "Lemuel."
+      ]
     },
     {
       "id": "ECC.0.curiosity.2",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Eclesiastes?",
       "answer": "No século X antes de Cristo.",
-      "reference": "Eclesiastes"
+      "reference": "Eclesiastes",
+      "wrongs": [
+        "No século V antes de Cristo.",
+        "No século VIII antes de Cristo.",
+        "No século II antes de Cristo."
+      ]
     }
   ]
 }

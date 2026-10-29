@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Quem entrou na contagem de Israel para a guerra?",
       "answer": "Os homens de vinte anos ou mais que podiam sair à luta.",
-      "reference": "Nm 1:45"
+      "reference": "Nm 1:45",
+      "wrongs": [
+        "Os meninos de doze anos que já pastoreavam o gado.",
+        "As mulheres e os levitas que serviam na tenda.",
+        "Só os chefes de mil e os chefes de cem."
+      ]
     },
     {
       "id": "NUM.1.place.1",
@@ -18,7 +23,12 @@
       "kind": "place",
       "prompt": "Onde Moisés e Arão contaram o povo de Israel?",
       "answer": "No deserto do Sinai.",
-      "reference": "Nm 1:19"
+      "reference": "Nm 1:19",
+      "wrongs": [
+        "No deserto de Parã.",
+        "Nas planícies de Moabe.",
+        "No acampamento de Gilgal."
+      ]
     },
     {
       "id": "NUM.1.curiosity.1",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "Qual foi o total da contagem de Israel no Sinai?",
       "answer": "O total foi 603.550.",
-      "reference": "Nm 1:46"
+      "reference": "Nm 1:46",
+      "wrongs": [
+        "O total foi 601.730.",
+        "O total foi 22.000.",
+        "O total foi 603.000."
+      ]
     },
     {
       "id": "NUM.1.curiosity.2",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Quem ficou de fora da contagem de guerra de Israel?",
       "answer": "Os levitas.",
-      "reference": "Nm 1:47"
+      "reference": "Nm 1:47",
+      "wrongs": [
+        "Os filhos de Judá.",
+        "Os de Rúben.",
+        "Os homens de vinte anos."
+      ]
     },
     {
       "id": "NUM.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Como as tribos de Israel deviam acampar?",
       "answer": "Cada uma junto da própria bandeira, em volta da tenda.",
-      "reference": "Nm 2:2"
+      "reference": "Nm 2:2",
+      "wrongs": [
+        "Todas misturadas, sem ordem de clã.",
+        "Só no lado leste, de frente para o mar.",
+        "Em fila única, longe da tenda."
+      ]
     },
     {
       "id": "NUM.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "Onde ia a tenda na marcha de Israel?",
       "answer": "No meio dos exércitos, com os levitas.",
-      "reference": "Nm 2:17"
+      "reference": "Nm 2:17",
+      "wrongs": [
+        "Sempre na frente, com a tribo de Judá.",
+        "No fim da marcha, atrás de Dã.",
+        "Fora do caminho, com as famílias."
+      ]
     },
     {
       "id": "NUM.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "Qual bloco de Israel marchava na frente?",
       "answer": "O exército de Judá.",
-      "reference": "Nm 2:9"
+      "reference": "Nm 2:9",
+      "wrongs": [
+        "O exército de Rúben.",
+        "O exército de Efraim.",
+        "O exército de Dã."
+      ]
     },
     {
       "id": "NUM.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Qual bloco fechava a marcha de Israel?",
       "answer": "O exército de Dã.",
-      "reference": "Nm 2:31"
+      "reference": "Nm 2:31",
+      "wrongs": [
+        "O exército de Judá.",
+        "O exército de Efraim.",
+        "O exército de Rúben."
+      ]
     },
     {
       "id": "NUM.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Por que Deus separou os levitas em Israel?",
       "answer": "Para ficarem no lugar de todo primogênito.",
-      "reference": "Nm 3:12"
+      "reference": "Nm 3:12",
+      "wrongs": [
+        "Para herdarem a melhor terra de Canaã.",
+        "Para substituírem os sacerdotes de Arão.",
+        "Para comandarem os exércitos na guerra."
+      ]
     },
     {
       "id": "NUM.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem, dos filhos de Arão, seguiu no sacerdócio?",
       "answer": "Eleazar e Itamar.",
-      "reference": "Nm 3:4"
+      "reference": "Nm 3:4",
+      "wrongs": [
+        "Nadabe e Abiú.",
+        "Moisés e Arão.",
+        "Fineias e Josué."
+      ]
     },
     {
       "id": "NUM.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Quantos levitas de um mês para cima a primeira contagem registrou, em Números?",
       "answer": "Vinte e dois mil.",
-      "reference": "Nm 3:39"
+      "reference": "Nm 3:39",
+      "wrongs": [
+        "Oito mil.",
+        "Doze mil.",
+        "Seiscentos mil."
+      ]
     },
     {
       "id": "NUM.3.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Quanto custava o resgate de cada primogênito a mais, em Números?",
       "answer": "Cinco siclos por pessoa.",
-      "reference": "Nm 3:47"
+      "reference": "Nm 3:47",
+      "wrongs": [
+        "Um siclo por pessoa.",
+        "Dez siclos por pessoa.",
+        "Trinta siclos por pessoa."
+      ]
     },
     {
       "id": "NUM.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "O que acontecia se um filho de Coate tocasse coisa santa?",
       "answer": "A pena era a morte.",
-      "reference": "Nm 4:15"
+      "reference": "Nm 4:15",
+      "wrongs": [
+        "Pagava cinco siclos.",
+        "Ficava impuro sete dias.",
+        "Saía do acampamento."
+      ]
     },
     {
       "id": "NUM.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Quem cuidava do óleo, do incenso e da unção, em Números?",
       "answer": "Eleazar, filho do sacerdote Arão.",
-      "reference": "Nm 4:16"
+      "reference": "Nm 4:16",
+      "wrongs": [
+        "Itamar, filho do sacerdote Arão.",
+        "Moisés, irmão do sacerdote Arão.",
+        "Fineias, neto do sacerdote Arão."
+      ]
     },
     {
       "id": "NUM.4.curiosity.1",
@@ -149,7 +219,12 @@
       "kind": "curiosity",
       "prompt": "Quantos levitas de trinta a cinquenta anos foram contados, em Números?",
       "answer": "Oito mil quinhentos e oitenta.",
-      "reference": "Nm 4:47-48"
+      "reference": "Nm 4:47-48",
+      "wrongs": [
+        "Vinte e dois mil.",
+        "Doze mil.",
+        "Oito mil e cinquenta."
+      ]
     },
     {
       "id": "NUM.5.subject.1",
@@ -159,7 +234,12 @@
       "kind": "subject",
       "prompt": "O que o marido ciumento levava com a mulher ao sacerdote, em Números?",
       "answer": "Oferta de farinha de cevada, sem azeite e sem incenso.",
-      "reference": "Nm 5:15"
+      "reference": "Nm 5:15",
+      "wrongs": [
+        "Um cordeiro sem defeito, com azeite e incenso.",
+        "Duas rolas e um cesto de pão fermentado.",
+        "Um bode pelo pecado, com farinha de trigo."
+      ]
     },
     {
       "id": "NUM.5.place.1",
@@ -170,7 +250,12 @@
       "kind": "place",
       "prompt": "Para onde iam o leproso e quem tivesse tocado um morto, em Números?",
       "answer": "Para fora do acampamento.",
-      "reference": "Nm 5:2-3"
+      "reference": "Nm 5:2-3",
+      "wrongs": [
+        "Para dentro da tenda.",
+        "Para o monte Sinai.",
+        "Para a cidade de refúgio."
+      ]
     },
     {
       "id": "NUM.5.curiosity.1",
@@ -180,7 +265,12 @@
       "kind": "curiosity",
       "prompt": "O que se somava ao devolver o prejuízo ao outro, em Números?",
       "answer": "A quinta parte do valor.",
-      "reference": "Nm 5:7"
+      "reference": "Nm 5:7",
+      "wrongs": [
+        "A décima parte do valor.",
+        "O dobro do valor.",
+        "Quatro vezes o valor."
+      ]
     },
     {
       "id": "NUM.5.curiosity.2",
@@ -190,7 +280,12 @@
       "kind": "curiosity",
       "prompt": "O que o sacerdote misturava na água do ciúme, em Números?",
       "answer": "Pó apanhado no chão da tenda.",
-      "reference": "Nm 5:17"
+      "reference": "Nm 5:17",
+      "wrongs": [
+        "Cinzas da novilha vermelha.",
+        "Azeite da unção e incenso.",
+        "Sangue de um cordeiro."
+      ]
     },
     {
       "id": "NUM.6.subject.1",
@@ -200,7 +295,12 @@
       "kind": "subject",
       "prompt": "O que o nazireu evitava beber e comer, em Números?",
       "answer": "Vinho, bebida forte e uvas.",
-      "reference": "Nm 6:3"
+      "reference": "Nm 6:3",
+      "wrongs": [
+        "Pão, azeite e mel.",
+        "Carne, leite e queijo.",
+        "Peixe, sal e figos."
+      ]
     },
     {
       "id": "NUM.6.name.1",
@@ -210,7 +310,12 @@
       "kind": "name",
       "prompt": "Quem devia abençoar os filhos de Israel na bênção sacerdotal?",
       "answer": "Arão e os filhos dele.",
-      "reference": "Nm 6:23"
+      "reference": "Nm 6:23",
+      "wrongs": [
+        "Moisés e os anciãos.",
+        "Os levitas de Coate.",
+        "Josué e Calebe."
+      ]
     },
     {
       "id": "NUM.6.curiosity.1",
@@ -220,7 +325,12 @@
       "kind": "curiosity",
       "prompt": "O que o nazireu fazia com o cabelo no tempo do voto, em Números?",
       "answer": "Deixava crescer e não usava navalha.",
-      "reference": "Nm 6:5"
+      "reference": "Nm 6:5",
+      "wrongs": [
+        "Raspava a cabeça todo sétimo dia.",
+        "Cortava as pontas e as queimava.",
+        "Cobria o cabelo com um véu."
+      ]
     },
     {
       "id": "NUM.6.curiosity.2",
@@ -230,7 +340,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus daria ao erguer o rosto sobre alguém, em Números?",
       "answer": "Paz.",
-      "reference": "Nm 6:26"
+      "reference": "Nm 6:26",
+      "wrongs": [
+        "Vitória.",
+        "Riqueza.",
+        "Filhos."
+      ]
     },
     {
       "id": "NUM.7.subject.1",
@@ -240,7 +355,12 @@
       "kind": "subject",
       "prompt": "Como os chefes ofertaram na dedicação do altar, em Números?",
       "answer": "Um príncipe em cada dia.",
-      "reference": "Nm 7:11"
+      "reference": "Nm 7:11",
+      "wrongs": [
+        "Todos juntos no mesmo dia.",
+        "Só a tribo de Levi, no fim.",
+        "Um clã por semana."
+      ]
     },
     {
       "id": "NUM.7.name.1",
@@ -250,7 +370,12 @@
       "kind": "name",
       "prompt": "Quem fez a oferta no primeiro dia da dedicação, em Números?",
       "answer": "Naassom, de Judá, filho de Aminadabe.",
-      "reference": "Nm 7:12"
+      "reference": "Nm 7:12",
+      "wrongs": [
+        "Eliabe, de Zebulom, filho de Helom.",
+        "Elizur, de Rúben, filho de Sedeur.",
+        "Aira, de Dã, filho de Enã."
+      ]
     },
     {
       "id": "NUM.7.curiosity.1",
@@ -260,7 +385,12 @@
       "kind": "curiosity",
       "prompt": "Por que os filhos de Coate não ganharam carro?",
       "answer": "Porque levavam o santuário nos ombros.",
-      "reference": "Nm 7:9"
+      "reference": "Nm 7:9",
+      "wrongs": [
+        "Porque o serviço deles já tinha acabado.",
+        "Porque preferiram levar ouro e prata.",
+        "Porque a tenda ficava parada no Sinai."
+      ]
     },
     {
       "id": "NUM.7.curiosity.2",
@@ -270,7 +400,12 @@
       "kind": "curiosity",
       "prompt": "De onde Moisés ouvia a voz dentro da tenda?",
       "answer": "De entre os dois querubins, por cima da arca.",
-      "reference": "Nm 7:89"
+      "reference": "Nm 7:89",
+      "wrongs": [
+        "Do altar de bronze, do lado de fora.",
+        "Do candelabro, no meio do véu.",
+        "Da porta da tenda, entre as cortinas."
+      ]
     },
     {
       "id": "NUM.8.subject.1",
@@ -280,7 +415,12 @@
       "kind": "subject",
       "prompt": "O que Arão fez com os levitas diante de Deus?",
       "answer": "Ofereceu-os e fez a purificação deles.",
-      "reference": "Nm 8:21"
+      "reference": "Nm 8:21",
+      "wrongs": [
+        "Deu a eles a terra de Canaã.",
+        "Mandou que saíssem para a guerra.",
+        "Pôs sobre eles as vestes de sacerdote."
+      ]
     },
     {
       "id": "NUM.8.curiosity.1",
@@ -290,7 +430,12 @@
       "kind": "curiosity",
       "prompt": "Quantas lâmpadas deviam iluminar o candelabro, em Números?",
       "answer": "Sete, voltadas para a frente.",
-      "reference": "Nm 8:2"
+      "reference": "Nm 8:2",
+      "wrongs": [
+        "Doze, uma para cada tribo.",
+        "Três, voltadas para o lado.",
+        "Dez, voltadas para a arca."
+      ]
     },
     {
       "id": "NUM.8.curiosity.2",
@@ -300,7 +445,12 @@
       "kind": "curiosity",
       "prompt": "Com que idade o levita começava o serviço da tenda, após a consagração, em Números?",
       "answer": "Aos vinte e cinco anos.",
-      "reference": "Nm 8:24"
+      "reference": "Nm 8:24",
+      "wrongs": [
+        "Aos vinte anos.",
+        "Aos trinta anos.",
+        "Aos cinquenta anos."
+      ]
     },
     {
       "id": "NUM.8.curiosity.3",
@@ -310,7 +460,12 @@
       "kind": "curiosity",
       "prompt": "Quando o levita deixava o ofício pesado da tenda, em Números?",
       "answer": "Aos cinquenta anos.",
-      "reference": "Nm 8:25"
+      "reference": "Nm 8:25",
+      "wrongs": [
+        "Aos quarenta anos.",
+        "Aos sessenta anos.",
+        "Aos setenta anos."
+      ]
     },
     {
       "id": "NUM.9.subject.1",
@@ -320,7 +475,12 @@
       "kind": "subject",
       "prompt": "O que indicava a hora de Israel partir ou acampar?",
       "answer": "A nuvem sobre a tenda: ao subir, partiam; ao parar, ficavam.",
-      "reference": "Nm 9:17"
+      "reference": "Nm 9:17",
+      "wrongs": [
+        "O toque de duas trombetas de bronze.",
+        "A ordem diária dos setenta anciãos.",
+        "O nascer do sol sobre o acampamento."
+      ]
     },
     {
       "id": "NUM.9.place.1",
@@ -330,7 +490,12 @@
       "kind": "place",
       "prompt": "Onde Israel fez a Páscoa no segundo ano da saída?",
       "answer": "No deserto do Sinai.",
-      "reference": "Nm 9:5"
+      "reference": "Nm 9:5",
+      "wrongs": [
+        "No deserto de Parã.",
+        "Nas planícies de Moabe.",
+        "Em Gilgal, junto a Jericó."
+      ]
     },
     {
       "id": "NUM.9.curiosity.1",
@@ -340,7 +505,12 @@
       "kind": "curiosity",
       "prompt": "Quando o impuro por um morto podia fazer a Páscoa?",
       "answer": "No dia catorze do segundo mês.",
-      "reference": "Nm 9:11"
+      "reference": "Nm 9:11",
+      "wrongs": [
+        "No dia dez do primeiro mês.",
+        "No dia quinze do sétimo mês.",
+        "No dia primeiro do terceiro mês."
+      ]
     },
     {
       "id": "NUM.9.curiosity.2",
@@ -350,7 +520,12 @@
       "kind": "curiosity",
       "prompt": "O que aparecia de tarde sobre a tenda, em Números?",
       "answer": "Algo parecido com fogo, até de manhã.",
-      "reference": "Nm 9:15"
+      "reference": "Nm 9:15",
+      "wrongs": [
+        "Uma nuvem escura, até o meio-dia.",
+        "Um arco no céu, até a noite.",
+        "Uma coluna de fumaça, só até a tarde."
+      ]
     },
     {
       "id": "NUM.10.subject.1",
@@ -360,7 +535,12 @@
       "kind": "subject",
       "prompt": "Para onde Israel foi ao sair do Sinai?",
       "answer": "Para o deserto de Parã.",
-      "reference": "Nm 10:12"
+      "reference": "Nm 10:12",
+      "wrongs": [
+        "Para o deserto de Zim.",
+        "Para as planícies de Moabe.",
+        "Para o vale do Jordão."
+      ]
     },
     {
       "id": "NUM.10.name.1",
@@ -370,7 +550,12 @@
       "kind": "name",
       "prompt": "Quem Moisés convidou para ir com Israel?",
       "answer": "Hobabe, filho de Reuel, o midianita.",
-      "reference": "Nm 10:29"
+      "reference": "Nm 10:29",
+      "wrongs": [
+        "Balaão, filho de Beor, de Petor.",
+        "Calebe, filho de Jefoné, o quenezeu.",
+        "Fineias, filho de Eleazar, o sacerdote."
+      ]
     },
     {
       "id": "NUM.10.curiosity.1",
@@ -380,7 +565,12 @@
       "kind": "curiosity",
       "prompt": "De que metal eram as trombetas da congregação, em Números?",
       "answer": "De prata.",
-      "reference": "Nm 10:2"
+      "reference": "Nm 10:2",
+      "wrongs": [
+        "De ouro.",
+        "De bronze.",
+        "De ferro."
+      ]
     },
     {
       "id": "NUM.10.curiosity.2",
@@ -390,7 +580,12 @@
       "kind": "curiosity",
       "prompt": "O que seguia três dias à frente do povo, em Números?",
       "answer": "A arca da aliança.",
-      "reference": "Nm 10:33"
+      "reference": "Nm 10:33",
+      "wrongs": [
+        "A nuvem de fumaça.",
+        "A bandeira de Judá.",
+        "O altar de bronze."
+      ]
     },
     {
       "id": "NUM.11.subject.1",
@@ -400,7 +595,12 @@
       "kind": "subject",
       "prompt": "O que feriu o povo antes de mastigar a carne, em Números?",
       "answer": "Uma praga muito grande.",
-      "reference": "Nm 11:33"
+      "reference": "Nm 11:33",
+      "wrongs": [
+        "Uma seca sem água.",
+        "Serpentes ardentes.",
+        "Um terremoto no acampamento."
+      ]
     },
     {
       "id": "NUM.11.name.1",
@@ -410,7 +610,12 @@
       "kind": "name",
       "prompt": "Quem profetizou no acampamento, longe da tenda, em Números?",
       "answer": "Eldade e Medade.",
-      "reference": "Nm 11:26"
+      "reference": "Nm 11:26",
+      "wrongs": [
+        "Nadabe e Abiú.",
+        "Datã e Abirão.",
+        "Arão e Miriã."
+      ]
     },
     {
       "id": "NUM.11.place.1",
@@ -420,7 +625,12 @@
       "kind": "place",
       "prompt": "Qual nome ganhou o lugar onde sepultaram os que tiveram desejo, em Números?",
       "answer": "Quibrote-Hataavá.",
-      "reference": "Nm 11:34"
+      "reference": "Nm 11:34",
+      "wrongs": [
+        "Taberá.",
+        "Hormá.",
+        "Meribá."
+      ]
     },
     {
       "id": "NUM.11.curiosity.1",
@@ -430,7 +640,12 @@
       "kind": "curiosity",
       "prompt": "O que fizeram os setenta anciãos quando o espírito pousou neles, em Números?",
       "answer": "Profetizaram, e isso não se repetiu.",
-      "reference": "Nm 11:25"
+      "reference": "Nm 11:25",
+      "wrongs": [
+        "Ficaram mudos até o dia seguinte.",
+        "Voltaram em silêncio, cada um à sua tenda.",
+        "Repetiram a profecia por sete dias."
+      ]
     },
     {
       "id": "NUM.12.subject.1",
@@ -440,7 +655,12 @@
       "kind": "subject",
       "prompt": "O que Arão viu em Miriã quando a nuvem se afastou?",
       "answer": "Ela estava leprosa, branca feito neve.",
-      "reference": "Nm 12:10"
+      "reference": "Nm 12:10",
+      "wrongs": [
+        "Ela estava curada e de pé.",
+        "Ela estava coberta de cinza.",
+        "Ela estava muda e caída."
+      ]
     },
     {
       "id": "NUM.12.name.1",
@@ -450,7 +670,12 @@
       "kind": "name",
       "prompt": "Quem era mais manso do que todos os homens da terra, em Números?",
       "answer": "Moisés.",
-      "reference": "Nm 12:3"
+      "reference": "Nm 12:3",
+      "wrongs": [
+        "Arão.",
+        "Calebe.",
+        "Josué."
+      ]
     },
     {
       "id": "NUM.12.curiosity.1",
@@ -460,7 +685,12 @@
       "kind": "curiosity",
       "prompt": "Por que Arão e Miriã se opuseram a Moisés?",
       "answer": "Por causa da mulher cuxita com quem ele tinha casado.",
-      "reference": "Nm 12:1"
+      "reference": "Nm 12:1",
+      "wrongs": [
+        "Porque ele não os deixou entrar na tenda.",
+        "Porque ele recusou dividir o maná.",
+        "Porque escolheu Josué no lugar deles."
+      ]
     },
     {
       "id": "NUM.12.curiosity.2",
@@ -470,7 +700,12 @@
       "kind": "curiosity",
       "prompt": "Quantos dias Miriã ficou fora do acampamento?",
       "answer": "Sete dias, e o povo só seguiu quando ela voltou.",
-      "reference": "Nm 12:15"
+      "reference": "Nm 12:15",
+      "wrongs": [
+        "Três dias, e o povo partiu sem ela.",
+        "Quarenta dias, até a lepra passar.",
+        "Um dia, e no outro já seguiram."
+      ]
     },
     {
       "id": "NUM.13.subject.1",
@@ -480,7 +715,12 @@
       "kind": "subject",
       "prompt": "O que a maioria dos espias disse sobre subir a Canaã?",
       "answer": "Que o povo de lá era forte demais para eles.",
-      "reference": "Nm 13:31"
+      "reference": "Nm 13:31",
+      "wrongs": [
+        "Que a terra era boa e a vitória era certa.",
+        "Que as cidades estavam vazias e sem muros.",
+        "Que deviam subir naquela mesma noite."
+      ]
     },
     {
       "id": "NUM.13.name.1",
@@ -490,7 +730,12 @@
       "kind": "name",
       "prompt": "Qual nome Moisés deu a Oseias, filho de Num?",
       "answer": "Josué.",
-      "reference": "Nm 13:16"
+      "reference": "Nm 13:16",
+      "wrongs": [
+        "Calebe.",
+        "Eleazar.",
+        "Gideão."
+      ]
     },
     {
       "id": "NUM.13.name.2",
@@ -500,7 +745,12 @@
       "kind": "name",
       "prompt": "Quem calou o povo e disse para subir logo, em Números?",
       "answer": "Calebe.",
-      "reference": "Nm 13:30"
+      "reference": "Nm 13:30",
+      "wrongs": [
+        "Josué.",
+        "Moisés.",
+        "Arão."
+      ]
     },
     {
       "id": "NUM.13.place.1",
@@ -510,7 +760,12 @@
       "kind": "place",
       "prompt": "Por que o lugar do cacho se chamou Escol?",
       "answer": "Por causa do cacho que cortaram ali.",
-      "reference": "Nm 13:24"
+      "reference": "Nm 13:24",
+      "wrongs": [
+        "Por causa da batalha que Israel venceu ali.",
+        "Por causa do poço que Abraão cavou ali.",
+        "Por causa da cidade que os espias queimaram."
+      ]
     },
     {
       "id": "NUM.13.curiosity.1",
@@ -520,7 +775,12 @@
       "kind": "curiosity",
       "prompt": "Como trouxeram o cacho de uvas de Escol?",
       "answer": "Dois homens o levaram numa vara.",
-      "reference": "Nm 13:23"
+      "reference": "Nm 13:23",
+      "wrongs": [
+        "Um homem o carregou no ombro.",
+        "Puseram o cacho num cesto, sobre um jumento.",
+        "Cada espião levou um cacho pequeno."
+      ]
     },
     {
       "id": "NUM.14.subject.1",
@@ -530,7 +790,12 @@
       "kind": "subject",
       "prompt": "Qual foi a pena pelos quarenta dias da espiagem, em Números?",
       "answer": "A pena foi de quarenta anos.",
-      "reference": "Nm 14:34"
+      "reference": "Nm 14:34",
+      "wrongs": [
+        "A pena foi de quarenta dias.",
+        "A pena foi de vinte anos.",
+        "A pena foi de sete anos."
+      ]
     },
     {
       "id": "NUM.14.name.1",
@@ -540,7 +805,12 @@
       "kind": "name",
       "prompt": "Quem da geração que recusou Canaã entraria na terra?",
       "answer": "Só Josué e Calebe.",
-      "reference": "Nm 14:30"
+      "reference": "Nm 14:30",
+      "wrongs": [
+        "Só Moisés e Arão.",
+        "Só Eleazar e Fineias.",
+        "Só os doze espias."
+      ]
     },
     {
       "id": "NUM.14.place.1",
@@ -550,7 +820,12 @@
       "kind": "place",
       "prompt": "Até onde amalequitas e cananeus perseguiram o povo, em Números?",
       "answer": "Até Hormá.",
-      "reference": "Nm 14:45"
+      "reference": "Nm 14:45",
+      "wrongs": [
+        "Até Cades.",
+        "Até Jericó.",
+        "Até o Jordão."
+      ]
     },
     {
       "id": "NUM.14.curiosity.1",
@@ -560,7 +835,12 @@
       "kind": "curiosity",
       "prompt": "O que houve com os homens que falaram mal da terra, em Números?",
       "answer": "Uma praga os matou.",
-      "reference": "Nm 14:37"
+      "reference": "Nm 14:37",
+      "wrongs": [
+        "Voltaram em paz.",
+        "Foram perdoados.",
+        "A terra os engoliu."
+      ]
     },
     {
       "id": "NUM.15.subject.1",
@@ -571,7 +851,12 @@
       "kind": "subject",
       "prompt": "O que fizeram com o homem que juntou lenha no sábado, em Números?",
       "answer": "Foi morto a pedradas, fora das tendas.",
-      "reference": "Nm 15:32-36"
+      "reference": "Nm 15:32-36",
+      "wrongs": [
+        "Pagou uma oferta pelo pecado.",
+        "Ficou impuro por sete dias.",
+        "Foi expulso e voltou no sétimo dia."
+      ]
     },
     {
       "id": "NUM.15.curiosity.1",
@@ -581,7 +866,12 @@
       "kind": "curiosity",
       "prompt": "O que Israel devia pôr nas pontas das roupas?",
       "answer": "Franjas, cada uma com um fio azul.",
-      "reference": "Nm 15:38"
+      "reference": "Nm 15:38",
+      "wrongs": [
+        "Um selo de ouro em cada ponta.",
+        "Borlas brancas, sem fio colorido.",
+        "Um cordão vermelho em cada manga."
+      ]
     },
     {
       "id": "NUM.15.curiosity.2",
@@ -591,7 +881,12 @@
       "kind": "curiosity",
       "prompt": "O que acontecia com quem pecava afrontando a Deus, em Números?",
       "answer": "Essa pessoa era cortada do povo.",
-      "reference": "Nm 15:30"
+      "reference": "Nm 15:30",
+      "wrongs": [
+        "Pagava apenas a quinta parte.",
+        "Oferecia dois cordeiros e ficava.",
+        "Recebia perdão sem mais consequência."
+      ]
     },
     {
       "id": "NUM.15.curiosity.3",
@@ -601,7 +896,12 @@
       "kind": "curiosity",
       "prompt": "Para quem valia a mesma lei e o mesmo regulamento, em Números?",
       "answer": "Para o povo e para o peregrino.",
-      "reference": "Nm 15:16"
+      "reference": "Nm 15:16",
+      "wrongs": [
+        "Só para os sacerdotes e os levitas.",
+        "Só para os homens nascidos em Israel.",
+        "Para Israel e para as nações de Canaã."
+      ]
     },
     {
       "id": "NUM.16.subject.1",
@@ -611,7 +911,12 @@
       "kind": "subject",
       "prompt": "O que a terra fez com os homens de Coré?",
       "answer": "Abriu a boca e os engoliu com as casas.",
-      "reference": "Nm 16:32"
+      "reference": "Nm 16:32",
+      "wrongs": [
+        "Os cobriu de granizo até morrerem.",
+        "Os deixou fugir para o deserto.",
+        "Abriu uma fonte e os afogou."
+      ]
     },
     {
       "id": "NUM.16.name.1",
@@ -621,7 +926,12 @@
       "kind": "name",
       "prompt": "Quem fez expiação pelo povo com o incensário, em Números?",
       "answer": "Arão.",
-      "reference": "Nm 16:47"
+      "reference": "Nm 16:47",
+      "wrongs": [
+        "Moisés.",
+        "Eleazar.",
+        "Fineias."
+      ]
     },
     {
       "id": "NUM.16.curiosity.1",
@@ -631,7 +941,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens o fogo consumiu ao oferecerem incenso, em Números?",
       "answer": "Duzentos e cinquenta.",
-      "reference": "Nm 16:35"
+      "reference": "Nm 16:35",
+      "wrongs": [
+        "Duzentos.",
+        "Quinhentos.",
+        "Três mil."
+      ]
     },
     {
       "id": "NUM.16.curiosity.2",
@@ -641,7 +956,12 @@
       "kind": "curiosity",
       "prompt": "Quantos morreram na mortandade, fora o grupo de Coré?",
       "answer": "Foram 14.700.",
-      "reference": "Nm 16:49"
+      "reference": "Nm 16:49",
+      "wrongs": [
+        "Foram 250.",
+        "Foram 24.000.",
+        "Foram 3.000."
+      ]
     },
     {
       "id": "NUM.17.subject.1",
@@ -651,7 +971,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu com a vara de Arão?",
       "answer": "Brotou, floresceu e deu amêndoas.",
-      "reference": "Nm 17:8"
+      "reference": "Nm 17:8",
+      "wrongs": [
+        "Secou e se partiu ao meio.",
+        "Ficou igual às outras varas.",
+        "Virou uma serpente de bronze."
+      ]
     },
     {
       "id": "NUM.17.place.1",
@@ -661,7 +986,12 @@
       "kind": "place",
       "prompt": "Onde Moisés colocou as varas dos chefes?",
       "answer": "Na tenda do testemunho, diante de Deus.",
-      "reference": "Nm 17:7"
+      "reference": "Nm 17:7",
+      "wrongs": [
+        "Fora do acampamento, sobre uma pedra.",
+        "No altar de bronze, diante do povo.",
+        "Na tenda de Arão, junto à cama."
+      ]
     },
     {
       "id": "NUM.17.curiosity.1",
@@ -671,7 +1001,12 @@
       "kind": "curiosity",
       "prompt": "Quantas varas os chefes deram a Moisés?",
       "answer": "Doze.",
-      "reference": "Nm 17:6"
+      "reference": "Nm 17:6",
+      "wrongs": [
+        "Sete.",
+        "Onze.",
+        "Treze."
+      ]
     },
     {
       "id": "NUM.17.curiosity.2",
@@ -681,7 +1016,12 @@
       "kind": "curiosity",
       "prompt": "Para que a vara de Arão ficou guardada na tenda?",
       "answer": "Como sinal para os filhos rebeldes.",
-      "reference": "Nm 17:10"
+      "reference": "Nm 17:10",
+      "wrongs": [
+        "Como lenha para o altar.",
+        "Como cetro do próximo rei.",
+        "Como medida do santuário."
+      ]
     },
     {
       "id": "NUM.18.subject.1",
@@ -691,7 +1031,12 @@
       "kind": "subject",
       "prompt": "Qual era a parte de Arão no meio de Israel?",
       "answer": "O próprio Deus, e não um terreno.",
-      "reference": "Nm 18:20"
+      "reference": "Nm 18:20",
+      "wrongs": [
+        "A melhor terra, junto ao Jordão.",
+        "O despojo de todas as guerras.",
+        "Uma cidade em cada tribo."
+      ]
     },
     {
       "id": "NUM.18.curiosity.1",
@@ -701,7 +1046,12 @@
       "kind": "curiosity",
       "prompt": "O que os levitas separavam dos dízimos recebidos, em Números?",
       "answer": "Um décimo, oferecido a Deus.",
-      "reference": "Nm 18:26"
+      "reference": "Nm 18:26",
+      "wrongs": [
+        "A metade, entregue aos pobres.",
+        "Um quinto, guardado na tenda.",
+        "Tudo, sem ficar com nada."
+      ]
     },
     {
       "id": "NUM.18.curiosity.2",
@@ -711,7 +1061,12 @@
       "kind": "curiosity",
       "prompt": "Que tipo de aliança ligava as ofertas a Arão?",
       "answer": "Uma aliança de sal, para sempre.",
-      "reference": "Nm 18:19"
+      "reference": "Nm 18:19",
+      "wrongs": [
+        "Uma aliança de sangue, por um ano.",
+        "Uma aliança de pão, até o deserto.",
+        "Uma aliança de ouro, só com Levi."
+      ]
     },
     {
       "id": "NUM.18.curiosity.3",
@@ -721,7 +1076,12 @@
       "kind": "curiosity",
       "prompt": "O que os filhos de Levi recebiam por herança?",
       "answer": "Os dízimos de Israel, pelo serviço da tenda.",
-      "reference": "Nm 18:21"
+      "reference": "Nm 18:21",
+      "wrongs": [
+        "Um território igual ao de Judá.",
+        "O ouro das ofertas de guerra.",
+        "As cidades reais de Canaã."
+      ]
     },
     {
       "id": "NUM.19.subject.1",
@@ -731,7 +1091,12 @@
       "kind": "subject",
       "prompt": "Para que Israel guardava as cinzas da vaca?",
       "answer": "Para a água da purificação.",
-      "reference": "Nm 19:9"
+      "reference": "Nm 19:9",
+      "wrongs": [
+        "Para o incenso do altar.",
+        "Para marcar as tendas de guerra.",
+        "Para adubar o campo do sacerdote."
+      ]
     },
     {
       "id": "NUM.19.name.1",
@@ -742,7 +1107,12 @@
       "kind": "name",
       "prompt": "Quem levava a novilha vermelha para fora e a fazia matar, em Números?",
       "answer": "O sacerdote Eleazar.",
-      "reference": "Nm 19:2-3"
+      "reference": "Nm 19:2-3",
+      "wrongs": [
+        "O sacerdote Arão.",
+        "O sacerdote Itamar.",
+        "Moisés, diante do povo."
+      ]
     },
     {
       "id": "NUM.19.curiosity.1",
@@ -752,7 +1122,12 @@
       "kind": "curiosity",
       "prompt": "O que jogavam no fogo em que a vaca ardia, em Números?",
       "answer": "Madeira de cedro, hissopo e pano escarlate.",
-      "reference": "Nm 19:6"
+      "reference": "Nm 19:6",
+      "wrongs": [
+        "Farinha, azeite e incenso.",
+        "Ouro, prata e bronze.",
+        "Sal, mel e vinho."
+      ]
     },
     {
       "id": "NUM.19.curiosity.2",
@@ -762,7 +1137,12 @@
       "kind": "curiosity",
       "prompt": "Por quantos dias ficava impuro quem tocasse um morto, em Números?",
       "answer": "Sete dias.",
-      "reference": "Nm 19:11"
+      "reference": "Nm 19:11",
+      "wrongs": [
+        "Três dias.",
+        "Quarenta dias.",
+        "Um dia."
+      ]
     },
     {
       "id": "NUM.20.subject.1",
@@ -772,7 +1152,12 @@
       "kind": "subject",
       "prompt": "Por que Moisés e Arão não levariam o povo à terra?",
       "answer": "Porque não confiaram em Deus nem o honraram diante de Israel.",
-      "reference": "Nm 20:12"
+      "reference": "Nm 20:12",
+      "wrongs": [
+        "Porque eram velhos demais para a viagem.",
+        "Porque o povo pediu outro guia.",
+        "Porque recusaram contar os homens."
+      ]
     },
     {
       "id": "NUM.20.name.1",
@@ -782,7 +1167,12 @@
       "kind": "name",
       "prompt": "Quem morreu e foi sepultada em Cades?",
       "answer": "Miriã.",
-      "reference": "Nm 20:1"
+      "reference": "Nm 20:1",
+      "wrongs": [
+        "Zípora.",
+        "Raabe.",
+        "Débora."
+      ]
     },
     {
       "id": "NUM.20.place.1",
@@ -793,7 +1183,12 @@
       "kind": "place",
       "prompt": "Onde Arão morreu, à vista da congregação?",
       "answer": "No cume do monte Hor.",
-      "reference": "Nm 20:27-28"
+      "reference": "Nm 20:27-28",
+      "wrongs": [
+        "No cume do monte Sinai.",
+        "No cume do monte Nebo.",
+        "No cume do monte Ebal."
+      ]
     },
     {
       "id": "NUM.20.curiosity.1",
@@ -803,7 +1198,12 @@
       "kind": "curiosity",
       "prompt": "Quantas vezes Moisés bateu na rocha em Cades?",
       "answer": "Duas vezes, e saiu muita água.",
-      "reference": "Nm 20:11"
+      "reference": "Nm 20:11",
+      "wrongs": [
+        "Uma vez, e a água não saiu.",
+        "Três vezes, e a rocha se partiu.",
+        "Sete vezes, como na travessia."
+      ]
     },
     {
       "id": "NUM.20.curiosity.2",
@@ -813,7 +1213,12 @@
       "kind": "curiosity",
       "prompt": "O que Edom respondeu ao pedido de passagem?",
       "answer": "Negou a travessia e ameaçou sair armado.",
-      "reference": "Nm 20:18"
+      "reference": "Nm 20:18",
+      "wrongs": [
+        "Abriu o caminho e vendeu comida.",
+        "Pediu um dia para pensar.",
+        "Deixou passar só os levitas."
+      ]
     },
     {
       "id": "NUM.21.subject.1",
@@ -823,7 +1228,12 @@
       "kind": "subject",
       "prompt": "O que fazia viver quem uma serpente mordia, em Números?",
       "answer": "Olhar para a cobra de bronze feita por Moisés.",
-      "reference": "Nm 21:9"
+      "reference": "Nm 21:9",
+      "wrongs": [
+        "Beber a água tirada da rocha.",
+        "Tocar a vara florida de Arão.",
+        "Oferecer incenso diante da tenda."
+      ]
     },
     {
       "id": "NUM.21.name.1",
@@ -833,7 +1243,12 @@
       "kind": "name",
       "prompt": "Quem era o rei de Basã que lutou em Edrei?",
       "answer": "Ogue.",
-      "reference": "Nm 21:33"
+      "reference": "Nm 21:33",
+      "wrongs": [
+        "Seom.",
+        "Balaque.",
+        "Jabim."
+      ]
     },
     {
       "id": "NUM.21.name.2",
@@ -843,7 +1258,12 @@
       "kind": "name",
       "prompt": "De quem Hesbom era a cidade?",
       "answer": "De Seom, rei dos amorreus.",
-      "reference": "Nm 21:26"
+      "reference": "Nm 21:26",
+      "wrongs": [
+        "De Ogue, rei de Basã.",
+        "De Balaque, rei de Moabe.",
+        "De Adoni-Zedeque, rei de Jerusalém."
+      ]
     },
     {
       "id": "NUM.21.place.1",
@@ -853,7 +1273,12 @@
       "kind": "place",
       "prompt": "Qual nome ganhou o lugar dos cananeus destruídos, em Números?",
       "answer": "Hormá.",
-      "reference": "Nm 21:3"
+      "reference": "Nm 21:3",
+      "wrongs": [
+        "Gilgal.",
+        "Ai.",
+        "Jericó."
+      ]
     },
     {
       "id": "NUM.21.curiosity.1",
@@ -863,7 +1288,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus enviou para morder o povo, em Números?",
       "answer": "Serpentes ardentes, e muitos morreram.",
-      "reference": "Nm 21:6"
+      "reference": "Nm 21:6",
+      "wrongs": [
+        "Uma praga de codornizes.",
+        "Gafanhotos sobre as tendas.",
+        "Leões ao redor do acampamento."
+      ]
     },
     {
       "id": "NUM.22.subject.1",
@@ -873,7 +1303,12 @@
       "kind": "subject",
       "prompt": "Quem falou com Balaão depois de três pancadas?",
       "answer": "A jumenta dele.",
-      "reference": "Nm 22:28"
+      "reference": "Nm 22:28",
+      "wrongs": [
+        "O rei Balaque.",
+        "Um servo de Balaão.",
+        "A mulher de Balaão."
+      ]
     },
     {
       "id": "NUM.22.name.1",
@@ -883,7 +1318,12 @@
       "kind": "name",
       "prompt": "Quem foi chamado em Petor, junto ao rio?",
       "answer": "Balaão, filho de Beor.",
-      "reference": "Nm 22:5"
+      "reference": "Nm 22:5",
+      "wrongs": [
+        "Balaque, filho de Zipor.",
+        "Hobabe, filho de Reuel.",
+        "Ogue, rei de Basã."
+      ]
     },
     {
       "id": "NUM.22.place.1",
@@ -893,7 +1333,12 @@
       "kind": "place",
       "prompt": "De onde Balaque mostrou a Balaão a ponta do povo?",
       "answer": "Dos lugares altos de Baal.",
-      "reference": "Nm 22:41"
+      "reference": "Nm 22:41",
+      "wrongs": [
+        "Do cume do Pisga.",
+        "Do monte Nebo.",
+        "Do topo de Peor."
+      ]
     },
     {
       "id": "NUM.22.curiosity.1",
@@ -903,7 +1348,12 @@
       "kind": "curiosity",
       "prompt": "O que a jumenta viu no caminho, de espada na mão, em Números?",
       "answer": "O anjo de Deus.",
-      "reference": "Nm 22:23"
+      "reference": "Nm 22:23",
+      "wrongs": [
+        "Um leão na vinha.",
+        "Homens de Balaque.",
+        "Uma serpente no caminho."
+      ]
     },
     {
       "id": "NUM.23.subject.1",
@@ -913,7 +1363,12 @@
       "kind": "subject",
       "prompt": "O que Balaão proferiu sobre os inimigos de Balaque?",
       "answer": "Bênçãos, em vez de maldição.",
-      "reference": "Nm 23:11"
+      "reference": "Nm 23:11",
+      "wrongs": [
+        "Maldições, como Balaque pediu.",
+        "Silêncio, sem abrir a boca.",
+        "Um cântico de guerra contra Israel."
+      ]
     },
     {
       "id": "NUM.23.place.1",
@@ -923,7 +1378,12 @@
       "kind": "place",
       "prompt": "Aonde Balaque levou Balaão na segunda tentativa?",
       "answer": "Ao cume de Pisga, no campo de Zofim.",
-      "reference": "Nm 23:14"
+      "reference": "Nm 23:14",
+      "wrongs": [
+        "Aos lugares altos de Baal.",
+        "Ao topo de Peor, de frente para o deserto.",
+        "Ao monte Hor, junto de Cades."
+      ]
     },
     {
       "id": "NUM.23.curiosity.1",
@@ -933,7 +1393,12 @@
       "kind": "curiosity",
       "prompt": "Quantos altares Balaão pediu que Balaque fizesse?",
       "answer": "Sete, com sete bezerros e sete carneiros.",
-      "reference": "Nm 23:1"
+      "reference": "Nm 23:1",
+      "wrongs": [
+        "Três, com três bezerros e três carneiros.",
+        "Doze, um por cada tribo de Israel.",
+        "Um só, com um bezerro e um carneiro."
+      ]
     },
     {
       "id": "NUM.23.curiosity.2",
@@ -943,7 +1408,12 @@
       "kind": "curiosity",
       "prompt": "O que Balaão disse sobre Deus mentir ou mudar?",
       "answer": "Deus não mente nem volta atrás, pois não é um homem.",
-      "reference": "Nm 23:19"
+      "reference": "Nm 23:19",
+      "wrongs": [
+        "Deus muda de ideia quando o povo pede.",
+        "Deus mente se isso salvar Israel.",
+        "Deus volta atrás como qualquer rei."
+      ]
     },
     {
       "id": "NUM.24.subject.1",
@@ -953,7 +1423,12 @@
       "kind": "subject",
       "prompt": "O que Balaão disse que sairia de Jacó?",
       "answer": "Uma estrela, e também um cetro vindo de Israel.",
-      "reference": "Nm 24:17"
+      "reference": "Nm 24:17",
+      "wrongs": [
+        "Um rio, e também um cedro plantado no Líbano.",
+        "Uma nuvem, e também fogo descendo do Sinai.",
+        "Um poço, e também água jorrando do deserto."
+      ]
     },
     {
       "id": "NUM.24.name.1",
@@ -963,7 +1438,12 @@
       "kind": "name",
       "prompt": "Quem ficou irado com a terceira bênção de Balaão?",
       "answer": "Balaque.",
-      "reference": "Nm 24:10"
+      "reference": "Nm 24:10",
+      "wrongs": [
+        "Moisés.",
+        "Balaão.",
+        "Fineias."
+      ]
     },
     {
       "id": "NUM.24.curiosity.1",
@@ -973,7 +1453,12 @@
       "kind": "curiosity",
       "prompt": "O que Balaão declarou sobre abençoar e amaldiçoar?",
       "answer": "Quem abençoasse seria bendito; quem amaldiçoasse, maldito.",
-      "reference": "Nm 24:9"
+      "reference": "Nm 24:9",
+      "wrongs": [
+        "Quem abençoasse seria maldito; quem amaldiçoasse, bendito.",
+        "A bênção e a maldição dariam no mesmo.",
+        "Só a maldição de Balaque teria efeito."
+      ]
     },
     {
       "id": "NUM.25.subject.1",
@@ -984,7 +1469,12 @@
       "kind": "subject",
       "prompt": "Como Fineias fez cessar a mortandade em Israel?",
       "answer": "Atravessou com uma lança o homem e a midianita.",
-      "reference": "Nm 25:7-8"
+      "reference": "Nm 25:7-8",
+      "wrongs": [
+        "Ofereceu um cordeiro no altar de bronze.",
+        "Levantou as mãos em oração até a tarde.",
+        "Expulsou Moabe para fora do acampamento."
+      ]
     },
     {
       "id": "NUM.25.name.1",
@@ -994,7 +1484,12 @@
       "kind": "name",
       "prompt": "Quem era o israelita morto junto da midianita, em Números?",
       "answer": "Zinri, filho de Salu, de Simeão.",
-      "reference": "Nm 25:14"
+      "reference": "Nm 25:14",
+      "wrongs": [
+        "Fineias, filho de Eleazar, de Levi.",
+        "Coré, filho de Izar, de Levi.",
+        "Datã, filho de Eliabe, de Rúben."
+      ]
     },
     {
       "id": "NUM.25.name.2",
@@ -1004,7 +1499,12 @@
       "kind": "name",
       "prompt": "Quem era a midianita que Fineias matou junto de Zinri?",
       "answer": "Cosbi, filha de Zur.",
-      "reference": "Nm 25:15"
+      "reference": "Nm 25:15",
+      "wrongs": [
+        "Raabe, de Jericó.",
+        "Zípora, filha de Reuel.",
+        "Miriã, irmã de Moisés."
+      ]
     },
     {
       "id": "NUM.25.place.1",
@@ -1014,7 +1514,12 @@
       "kind": "place",
       "prompt": "Onde Israel se envolveu com as filhas de Moabe?",
       "answer": "Em Sitim.",
-      "reference": "Nm 25:1"
+      "reference": "Nm 25:1",
+      "wrongs": [
+        "Em Cades.",
+        "Em Gilgal.",
+        "Em Hazerote."
+      ]
     },
     {
       "id": "NUM.25.curiosity.1",
@@ -1025,7 +1530,12 @@
       "kind": "curiosity",
       "prompt": "Quantos morreram na praga de Baal-Peor, segundo Moisés?",
       "answer": "Vinte e quatro mil.",
-      "reference": "Nm 25:3-9"
+      "reference": "Nm 25:3-9",
+      "wrongs": [
+        "Catorze mil.",
+        "Três mil.",
+        "Quarenta mil."
+      ]
     },
     {
       "id": "NUM.26.subject.1",
@@ -1035,7 +1545,12 @@
       "kind": "subject",
       "prompt": "Qual foi o total da contagem de Israel em Moabe?",
       "answer": "O total foi 601.730.",
-      "reference": "Nm 26:51"
+      "reference": "Nm 26:51",
+      "wrongs": [
+        "O total foi 603.550.",
+        "O total foi 601.000.",
+        "O total foi 22.000."
+      ]
     },
     {
       "id": "NUM.26.name.1",
@@ -1046,7 +1561,12 @@
       "kind": "name",
       "prompt": "Quem sobrou dos contados no deserto do Sinai?",
       "answer": "Só Calebe e Josué.",
-      "reference": "Nm 26:64-65"
+      "reference": "Nm 26:64-65",
+      "wrongs": [
+        "Só Moisés e Arão.",
+        "Só Eleazar e Fineias.",
+        "Só Eldade e Medade."
+      ]
     },
     {
       "id": "NUM.26.place.1",
@@ -1056,7 +1576,12 @@
       "kind": "place",
       "prompt": "Onde Moisés e Eleazar contaram os filhos de Israel?",
       "answer": "Nas planícies de Moabe, perto de Jericó.",
-      "reference": "Nm 26:63"
+      "reference": "Nm 26:63",
+      "wrongs": [
+        "No deserto do Sinai, junto ao monte.",
+        "No deserto de Parã, em Cades.",
+        "Em Gilgal, a leste de Jericó."
+      ]
     },
     {
       "id": "NUM.26.curiosity.1",
@@ -1066,7 +1591,12 @@
       "kind": "curiosity",
       "prompt": "O que houve com os filhos de Coré?",
       "answer": "Eles não morreram.",
-      "reference": "Nm 26:11"
+      "reference": "Nm 26:11",
+      "wrongs": [
+        "A terra os engoliu.",
+        "O fogo os consumiu.",
+        "Saíram de Israel."
+      ]
     },
     {
       "id": "NUM.27.subject.1",
@@ -1076,7 +1606,12 @@
       "kind": "subject",
       "prompt": "Quem Deus mandou Moisés tomar como sucessor?",
       "answer": "Josué, filho de Num.",
-      "reference": "Nm 27:18"
+      "reference": "Nm 27:18",
+      "wrongs": [
+        "Calebe, filho de Jefoné.",
+        "Eleazar, filho de Arão.",
+        "Fineias, filho de Eleazar."
+      ]
     },
     {
       "id": "NUM.27.name.1",
@@ -1086,7 +1621,12 @@
       "kind": "name",
       "prompt": "Quem tinha razão ao pedir a herança do pai, em Números?",
       "answer": "As filhas de Zelofeade.",
-      "reference": "Nm 27:7"
+      "reference": "Nm 27:7",
+      "wrongs": [
+        "As filhas de Coré.",
+        "As viúvas de Nadabe.",
+        "As irmãs de Arão."
+      ]
     },
     {
       "id": "NUM.27.place.1",
@@ -1096,7 +1636,12 @@
       "kind": "place",
       "prompt": "De que monte Moisés veria a terra antes de nomear Josué?",
       "answer": "Do monte Abarim.",
-      "reference": "Nm 27:12"
+      "reference": "Nm 27:12",
+      "wrongs": [
+        "Do monte Sinai.",
+        "Do monte Hor.",
+        "Do monte Carmelo."
+      ]
     },
     {
       "id": "NUM.27.curiosity.1",
@@ -1106,7 +1651,12 @@
       "kind": "curiosity",
       "prompt": "Quem herdava primeiro se o homem morresse sem filho, em Números?",
       "answer": "A filha dele.",
-      "reference": "Nm 27:8"
+      "reference": "Nm 27:8",
+      "wrongs": [
+        "O irmão dele.",
+        "O tio dele.",
+        "A viúva dele."
+      ]
     },
     {
       "id": "NUM.28.subject.1",
@@ -1116,7 +1666,12 @@
       "kind": "subject",
       "prompt": "Qual era o holocausto contínuo de cada dia, em Números?",
       "answer": "Dois cordeiros de um ano, sem defeito.",
-      "reference": "Nm 28:3"
+      "reference": "Nm 28:3",
+      "wrongs": [
+        "Um bezerro e um bode, pela manhã.",
+        "Sete cordeiros e dois carneiros.",
+        "Doze pães postos diante de Deus."
+      ]
     },
     {
       "id": "NUM.28.curiosity.1",
@@ -1126,7 +1681,12 @@
       "kind": "curiosity",
       "prompt": "O que se acrescentava ao sacrifício no sábado, em Números?",
       "answer": "Mais dois cordeiros.",
-      "reference": "Nm 28:9"
+      "reference": "Nm 28:9",
+      "wrongs": [
+        "Mais um bezerro.",
+        "Mais sete carneiros.",
+        "Mais doze pombas."
+      ]
     },
     {
       "id": "NUM.28.curiosity.2",
@@ -1136,7 +1696,12 @@
       "kind": "curiosity",
       "prompt": "Quando era a Páscoa no mês primeiro?",
       "answer": "No dia catorze.",
-      "reference": "Nm 28:16"
+      "reference": "Nm 28:16",
+      "wrongs": [
+        "No dia dez.",
+        "No dia quinze.",
+        "No dia primeiro."
+      ]
     },
     {
       "id": "NUM.28.curiosity.3",
@@ -1146,7 +1711,12 @@
       "kind": "curiosity",
       "prompt": "O que não se fazia no dia das primícias, em Números?",
       "answer": "Trabalho de servo. Havia reunião santa.",
-      "reference": "Nm 28:26"
+      "reference": "Nm 28:26",
+      "wrongs": [
+        "Jejum do povo. A alma ficava aflita.",
+        "Nenhuma oferta. O altar ficava em silêncio.",
+        "Canto no pátio. Ninguém se reunia."
+      ]
     },
     {
       "id": "NUM.29.subject.1",
@@ -1156,7 +1726,12 @@
       "kind": "subject",
       "prompt": "O que havia no dia dez do sétimo mês, em Números?",
       "answer": "Reunião santa, alma afligida e nenhum trabalho.",
-      "reference": "Nm 29:7"
+      "reference": "Nm 29:7",
+      "wrongs": [
+        "Toque de trombetas e festa, sem jejum.",
+        "Sete dias de cabanas, com muitos bezerros.",
+        "Só o holocausto diário, sem reunião."
+      ]
     },
     {
       "id": "NUM.29.curiosity.1",
@@ -1166,7 +1741,12 @@
       "kind": "curiosity",
       "prompt": "O que marcava o primeiro dia do sétimo mês, em Números?",
       "answer": "O toque das trombetas, sem trabalho de servo.",
-      "reference": "Nm 29:1"
+      "reference": "Nm 29:1",
+      "wrongs": [
+        "A alma afligida e o jejum do povo.",
+        "O início da festa das cabanas.",
+        "A Páscoa, com pão sem fermento."
+      ]
     },
     {
       "id": "NUM.29.curiosity.2",
@@ -1176,7 +1756,12 @@
       "kind": "curiosity",
       "prompt": "Quando começava a festa de sete dias do sétimo mês, em Números?",
       "answer": "No dia quinze.",
-      "reference": "Nm 29:12"
+      "reference": "Nm 29:12",
+      "wrongs": [
+        "No dia primeiro.",
+        "No dia dez.",
+        "No dia vinte e um."
+      ]
     },
     {
       "id": "NUM.29.curiosity.3",
@@ -1186,7 +1771,12 @@
       "kind": "curiosity",
       "prompt": "Quantos bezerros Moisés mandou oferecer no primeiro dia das cabanas?",
       "answer": "Treze.",
-      "reference": "Nm 29:13"
+      "reference": "Nm 29:13",
+      "wrongs": [
+        "Sete.",
+        "Doze.",
+        "Um."
+      ]
     },
     {
       "id": "NUM.30.subject.1",
@@ -1196,7 +1786,12 @@
       "kind": "subject",
       "prompt": "O que ocorria se o pai vedasse o voto da filha no dia, em Números?",
       "answer": "O voto não valia, e Deus a perdoava.",
-      "reference": "Nm 30:5"
+      "reference": "Nm 30:5",
+      "wrongs": [
+        "O voto ficava firme mesmo assim.",
+        "A filha pagava o dobro da oferta.",
+        "O pai cumpria o voto no lugar dela."
+      ]
     },
     {
       "id": "NUM.30.curiosity.1",
@@ -1206,7 +1801,12 @@
       "kind": "curiosity",
       "prompt": "O que valia o voto da viúva ou da divorciada, em Números?",
       "answer": "Ficava firme.",
-      "reference": "Nm 30:9"
+      "reference": "Nm 30:9",
+      "wrongs": [
+        "Não valia nada.",
+        "Só valia se o pai aprovasse.",
+        "Valia só por sete dias."
+      ]
     },
     {
       "id": "NUM.30.curiosity.2",
@@ -1216,7 +1816,12 @@
       "kind": "curiosity",
       "prompt": "Quem levava a culpa se anulasse o voto depois de ouvi-lo, em Números?",
       "answer": "O marido.",
-      "reference": "Nm 30:15"
+      "reference": "Nm 30:15",
+      "wrongs": [
+        "A esposa.",
+        "O sacerdote.",
+        "O pai dela."
+      ]
     },
     {
       "id": "NUM.30.curiosity.3",
@@ -1226,7 +1831,12 @@
       "kind": "curiosity",
       "prompt": "O que o homem devia fazer com o voto feito a Deus, em Números?",
       "answer": "Cumprir a própria palavra, sem quebrá-la.",
-      "reference": "Nm 30:2"
+      "reference": "Nm 30:2",
+      "wrongs": [
+        "Esperar o sacerdote cancelar o voto.",
+        "Trocar o voto por uma oferta menor.",
+        "Guardar o voto só se a família aceitasse."
+      ]
     },
     {
       "id": "NUM.31.subject.1",
@@ -1236,7 +1846,12 @@
       "kind": "subject",
       "prompt": "O que Israel fez na vingança de Deus contra Midiã?",
       "answer": "Guerreou e matou todos os homens.",
-      "reference": "Nm 31:7"
+      "reference": "Nm 31:7",
+      "wrongs": [
+        "Fez as pazes e cobrou tributo.",
+        "Fugiu e deixou o acampamento.",
+        "Só tomou o gado e poupou a todos."
+      ]
     },
     {
       "id": "NUM.31.name.1",
@@ -1246,7 +1861,12 @@
       "kind": "name",
       "prompt": "Quem foi morto à espada com os cinco reis de Midiã?",
       "answer": "Balaão, filho de Beor.",
-      "reference": "Nm 31:8"
+      "reference": "Nm 31:8",
+      "wrongs": [
+        "Balaque, rei de Moabe.",
+        "Ogue, rei de Basã.",
+        "Seom, rei de Hesbom."
+      ]
     },
     {
       "id": "NUM.31.curiosity.1",
@@ -1256,7 +1876,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens Israel separou para a guerra contra Midiã?",
       "answer": "Doze mil, mil de cada tribo.",
-      "reference": "Nm 31:5"
+      "reference": "Nm 31:5",
+      "wrongs": [
+        "Seis mil, quinhentos de cada tribo.",
+        "Quarenta mil, de todas as tribos.",
+        "Vinte e quatro mil, dois mil de cada tribo."
+      ]
     },
     {
       "id": "NUM.31.curiosity.2",
@@ -1266,7 +1891,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens faltaram na volta da guerra contra Midiã?",
       "answer": "Não faltou nenhum.",
-      "reference": "Nm 31:49"
+      "reference": "Nm 31:49",
+      "wrongs": [
+        "Faltaram mil.",
+        "Faltaram doze.",
+        "Faltou a metade."
+      ]
     },
     {
       "id": "NUM.32.subject.1",
@@ -1277,7 +1907,12 @@
       "kind": "subject",
       "prompt": "O que Gade e Rúben pediram a Moisés?",
       "answer": "A terra de gado, em herança, sem cruzar o Jordão.",
-      "reference": "Nm 32:2-5"
+      "reference": "Nm 32:2-5",
+      "wrongs": [
+        "A terra de Canaã, do outro lado do Jordão.",
+        "As cidades de refúgio no meio de Judá.",
+        "O deserto do Sinai, para ficar com o gado."
+      ]
     },
     {
       "id": "NUM.32.name.1",
@@ -1287,7 +1922,12 @@
       "kind": "name",
       "prompt": "Quem deu o próprio nome às aldeias que tomou, em Números?",
       "answer": "Jair, filho de Manassés.",
-      "reference": "Nm 32:41"
+      "reference": "Nm 32:41",
+      "wrongs": [
+        "Calebe, filho de Jefoné.",
+        "Maquir, filho de Manassés.",
+        "Seom, rei de Hesbom."
+      ]
     },
     {
       "id": "NUM.32.place.1",
@@ -1297,7 +1937,12 @@
       "kind": "place",
       "prompt": "Que terra Rúben e Gade acharam boa para o gado?",
       "answer": "Jazer e Gileade.",
-      "reference": "Nm 32:1"
+      "reference": "Nm 32:1",
+      "wrongs": [
+        "Hebrom e Debir.",
+        "Siquém e Siló.",
+        "Jericó e Ai."
+      ]
     },
     {
       "id": "NUM.32.curiosity.1",
@@ -1307,7 +1952,12 @@
       "kind": "curiosity",
       "prompt": "O que Gade e Rúben prometeram antes de se instalar?",
       "answer": "Ir armados na frente, até os irmãos receberem o lugar.",
-      "reference": "Nm 32:17"
+      "reference": "Nm 32:17",
+      "wrongs": [
+        "Ficar com o gado e não ir à guerra.",
+        "Cruzar o Jordão só com as famílias.",
+        "Devolver a terra se a guerra demorasse."
+      ]
     },
     {
       "id": "NUM.32.curiosity.2",
@@ -1317,7 +1967,12 @@
       "kind": "curiosity",
       "prompt": "Quem, com Rúben e Gade, recebeu os reinos de Seom e Ogue?",
       "answer": "A metade de Manassés.",
-      "reference": "Nm 32:33"
+      "reference": "Nm 32:33",
+      "wrongs": [
+        "A metade de Efraim.",
+        "A tribo de Judá.",
+        "A tribo de Benjamim."
+      ]
     },
     {
       "id": "NUM.33.subject.1",
@@ -1328,7 +1983,12 @@
       "kind": "subject",
       "prompt": "Quem escreveu a lista das marchas de Israel desde o Egito?",
       "answer": "Moisés.",
-      "reference": "Nm 33:1-2"
+      "reference": "Nm 33:1-2",
+      "wrongs": [
+        "Josué.",
+        "Arão.",
+        "Eleazar."
+      ]
     },
     {
       "id": "NUM.33.place.1",
@@ -1338,7 +1998,12 @@
       "kind": "place",
       "prompt": "De onde Israel saiu no dia seguinte à Páscoa?",
       "answer": "De Ramessés.",
-      "reference": "Nm 33:3"
+      "reference": "Nm 33:3",
+      "wrongs": [
+        "De Sucote.",
+        "De Elim.",
+        "Do Sinai."
+      ]
     },
     {
       "id": "NUM.33.curiosity.1",
@@ -1348,7 +2013,12 @@
       "kind": "curiosity",
       "prompt": "Com que idade Arão morreu no monte Hor?",
       "answer": "Aos 123 anos.",
-      "reference": "Nm 33:39"
+      "reference": "Nm 33:39",
+      "wrongs": [
+        "Aos 120 anos.",
+        "Aos 110 anos.",
+        "Aos 137 anos."
+      ]
     },
     {
       "id": "NUM.33.curiosity.2",
@@ -1358,7 +2028,12 @@
       "kind": "curiosity",
       "prompt": "O que havia em Elim, numa parada de Israel?",
       "answer": "Doze nascentes e setenta palmeiras.",
-      "reference": "Nm 33:9"
+      "reference": "Nm 33:9",
+      "wrongs": [
+        "Uma rocha de onde saiu água.",
+        "Sete nascentes e doze palmeiras.",
+        "Um poço amargo, sem árvore nenhuma."
+      ]
     },
     {
       "id": "NUM.33.curiosity.3",
@@ -1368,7 +2043,12 @@
       "kind": "curiosity",
       "prompt": "O que Moisés disse que os moradores deixados em Canaã seriam?",
       "answer": "Aguilhão no olho e espinho no flanco.",
-      "reference": "Nm 33:55"
+      "reference": "Nm 33:55",
+      "wrongs": [
+        "Aliados fiéis e guardas das cidades.",
+        "Escravos mansos, sem mais guerra.",
+        "Sacerdotes do altar em Siló."
+      ]
     },
     {
       "id": "NUM.34.subject.1",
@@ -1378,7 +2058,12 @@
       "kind": "subject",
       "prompt": "A quantas tribos Canaã seria dada por sorte?",
       "answer": "A nove tribos e à metade de outra.",
-      "reference": "Nm 34:13"
+      "reference": "Nm 34:13",
+      "wrongs": [
+        "Às doze tribos, por igual.",
+        "A duas tribos e meia, a leste.",
+        "Só à tribo de Judá."
+      ]
     },
     {
       "id": "NUM.34.name.1",
@@ -1388,7 +2073,12 @@
       "kind": "name",
       "prompt": "Quem foi encarregado de repartir a terra, em Números?",
       "answer": "O sacerdote Eleazar e Josué, filho de Num.",
-      "reference": "Nm 34:17"
+      "reference": "Nm 34:17",
+      "wrongs": [
+        "Moisés e Arão, diante do povo.",
+        "Calebe e os doze espias.",
+        "Fineias e os chefes de Levi."
+      ]
     },
     {
       "id": "NUM.34.place.1",
@@ -1398,7 +2088,12 @@
       "kind": "place",
       "prompt": "O que marcava o limite oeste da terra, em Números?",
       "answer": "O mar Grande.",
-      "reference": "Nm 34:6"
+      "reference": "Nm 34:6",
+      "wrongs": [
+        "O rio Jordão.",
+        "O ribeiro de Arnom.",
+        "O monte Hermom."
+      ]
     },
     {
       "id": "NUM.34.curiosity.1",
@@ -1408,7 +2103,12 @@
       "kind": "curiosity",
       "prompt": "Onde duas tribos e meia já tinham a herança, em Números?",
       "answer": "A leste do Jordão, na direção de Jericó.",
-      "reference": "Nm 34:15"
+      "reference": "Nm 34:15",
+      "wrongs": [
+        "A oeste do Jordão, junto ao mar Grande.",
+        "No deserto do Sinai, junto ao monte.",
+        "No Neguebe, na divisa de Edom."
+      ]
     },
     {
       "id": "NUM.35.subject.1",
@@ -1418,7 +2118,12 @@
       "kind": "subject",
       "prompt": "Para que serviam as cidades de refúgio, em Números?",
       "answer": "Para abrigar quem matasse alguém sem querer.",
-      "reference": "Nm 35:11"
+      "reference": "Nm 35:11",
+      "wrongs": [
+        "Para guardar o despojo das guerras.",
+        "Para abrigar quem matasse de propósito.",
+        "Para moradia só dos sacerdotes."
+      ]
     },
     {
       "id": "NUM.35.place.1",
@@ -1429,7 +2134,12 @@
       "kind": "place",
       "prompt": "Onde ficavam as seis cidades de refúgio, em Números?",
       "answer": "Três além do Jordão e três em Canaã.",
-      "reference": "Nm 35:13-14"
+      "reference": "Nm 35:13-14",
+      "wrongs": [
+        "Todas a leste do Jordão.",
+        "Todas no território de Judá.",
+        "Duas no deserto e quatro em Canaã."
+      ]
     },
     {
       "id": "NUM.35.curiosity.1",
@@ -1439,7 +2149,12 @@
       "kind": "curiosity",
       "prompt": "Quantas cidades os levitas receberiam, com os campos, em Números?",
       "answer": "Quarenta e oito.",
-      "reference": "Nm 35:7"
+      "reference": "Nm 35:7",
+      "wrongs": [
+        "Seis.",
+        "Doze.",
+        "Quarenta e duas."
+      ]
     },
     {
       "id": "NUM.35.curiosity.2",
@@ -1449,7 +2164,12 @@
       "kind": "curiosity",
       "prompt": "Até quando o homicida sem querer ficava no refúgio, em Números?",
       "answer": "Até morrer quem era o sumo sacerdote.",
-      "reference": "Nm 35:28"
+      "reference": "Nm 35:28",
+      "wrongs": [
+        "Até completar sete anos.",
+        "Até a próxima festa das cabanas.",
+        "Até pagar o resgate em prata."
+      ]
     },
     {
       "id": "NUM.36.subject.1",
@@ -1459,7 +2179,12 @@
       "kind": "subject",
       "prompt": "Com quem as filhas de Zelofeade deviam casar?",
       "answer": "Com quem quisessem, dentro da tribo do pai.",
-      "reference": "Nm 36:6"
+      "reference": "Nm 36:6",
+      "wrongs": [
+        "Com quem quisessem, em qualquer tribo.",
+        "Só com os filhos do sumo sacerdote.",
+        "Com ninguém, para a herança não sair."
+      ]
     },
     {
       "id": "NUM.36.name.1",
@@ -1469,7 +2194,12 @@
       "kind": "name",
       "prompt": "Quem eram as filhas de Zelofeade que casaram?",
       "answer": "Maalá, Tirsa, Hogla, Milca e Noa.",
-      "reference": "Nm 36:11"
+      "reference": "Nm 36:11",
+      "wrongs": [
+        "Raabe, Rute, Débora, Miriã e Ana.",
+        "Lia, Raquel, Bila, Zilpa e Diná.",
+        "Cosbi, Zípora, Acsa, Mical e Abigail."
+      ]
     },
     {
       "id": "NUM.36.place.1",
@@ -1479,7 +2209,12 @@
       "kind": "place",
       "prompt": "Onde Moisés deu a Israel a lei sobre as herdeiras?",
       "answer": "Nas planícies de Moabe, perto de Jericó.",
-      "reference": "Nm 36:13"
+      "reference": "Nm 36:13",
+      "wrongs": [
+        "No deserto do Sinai, junto ao monte.",
+        "No cume do monte Hor, diante do povo.",
+        "Em Cades, no deserto de Zim."
+      ]
     },
     {
       "id": "NUM.36.curiosity.1",
@@ -1489,7 +2224,12 @@
       "kind": "curiosity",
       "prompt": "Onde ficou a herança das filhas de Zelofeade?",
       "answer": "Em Manassés, no clã do pai delas.",
-      "reference": "Nm 36:12"
+      "reference": "Nm 36:12",
+      "wrongs": [
+        "Em Judá, na cidade de Hebrom.",
+        "Em Benjamim, perto de Jericó.",
+        "Em Levi, junto das cidades santas."
+      ]
     },
     {
       "id": "NUM.0.curiosity.1",
@@ -1499,7 +2239,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Números?",
       "answer": "Moisés.",
-      "reference": "Números"
+      "reference": "Números",
+      "wrongs": [
+        "Josué.",
+        "Arão.",
+        "Esdras."
+      ]
     },
     {
       "id": "NUM.0.curiosity.2",
@@ -1509,7 +2254,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Números?",
       "answer": "No século XV antes de Cristo.",
-      "reference": "Números"
+      "reference": "Números",
+      "wrongs": [
+        "No século X antes de Cristo.",
+        "No século V antes de Cristo.",
+        "No século I depois de Cristo."
+      ]
     }
   ]
 }

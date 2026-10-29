@@ -1,7 +1,9 @@
 package app.graphe.cartoes
 
 import android.os.Bundle
+import android.os.SystemClock
 import androidx.activity.ComponentActivity
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.activity.SystemBarStyle
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
@@ -44,6 +46,9 @@ class MainActivity : ComponentActivity() {
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        val splash = installSplashScreen()
+        val openedAt = SystemClock.elapsedRealtime()
+        splash.setKeepOnScreenCondition { SystemClock.elapsedRealtime() - openedAt < 700 }
         super.onCreate(savedInstanceState)
         enableEdgeToEdge(
             statusBarStyle = SystemBarStyle.dark(android.graphics.Color.TRANSPARENT),

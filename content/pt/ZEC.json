@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que Zacarias diz que Deus promete a Jerusalém?",
       "answer": "Voltar com misericórdia e refazer a casa.",
-      "reference": "Zc 1:16"
+      "reference": "Zc 1:16",
+      "wrongs": [
+        "Ficar longe e deixar a casa em ruínas.",
+        "Entregar a casa a uma nação inimiga.",
+        "Mudar a casa para a terra da Babilônia."
+      ]
     },
     {
       "id": "ZEC.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Qual profeta recebeu a palavra no ano dois de Dario?",
       "answer": "Zacarias, filho de Berequias.",
-      "reference": "Zc 1:1"
+      "reference": "Zc 1:1",
+      "wrongs": [
+        "Sofonias, filho de Cuxi.",
+        "Habacuque, filho de Josias.",
+        "Naum, filho de Elcós."
+      ]
     },
     {
       "id": "ZEC.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde estava o homem no cavalo vermelho, em Zacarias?",
       "answer": "Entre as murtas, num vale fundo.",
-      "reference": "Zc 1:8"
+      "reference": "Zc 1:8",
+      "wrongs": [
+        "Entre os cedros, num monte alto.",
+        "Junto ao rio, sobre uma ponte.",
+        "Diante do templo, no pátio."
+      ]
     },
     {
       "id": "ZEC.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Há quantos anos Deus estava irado com Jerusalém?",
       "answer": "Havia setenta anos.",
-      "reference": "Zc 1:12"
+      "reference": "Zc 1:12",
+      "wrongs": [
+        "Havia quarenta anos.",
+        "Havia vinte anos.",
+        "Havia cem anos."
+      ]
     },
     {
       "id": "ZEC.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que Deus será ao redor de Jerusalém?",
       "answer": "Um muro de fogo e a glória no meio.",
-      "reference": "Zc 2:5"
+      "reference": "Zc 2:5",
+      "wrongs": [
+        "Um muro de pedra e o medo no meio.",
+        "Um fosso de água e a noite no meio.",
+        "Um exército inimigo e silêncio no meio."
+      ]
     },
     {
       "id": "ZEC.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "De onde Zacarias manda Sião fugir?",
       "answer": "Da Babilônia.",
-      "reference": "Zc 2:7"
+      "reference": "Zc 2:7",
+      "wrongs": [
+        "Do Egito.",
+        "De Edom.",
+        "De Tiro."
+      ]
     },
     {
       "id": "ZEC.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "O que o homem da visão de Zacarias tinha na mão?",
       "answer": "Uma corda de medir.",
-      "reference": "Zc 2:1"
+      "reference": "Zc 2:1",
+      "wrongs": [
+        "Uma espada de fogo.",
+        "Um prumo de pedra.",
+        "Um cajado curto."
+      ]
     },
     {
       "id": "ZEC.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Por que Jerusalém será habitada sem muros?",
       "answer": "Por causa da muita gente e dos animais.",
-      "reference": "Zc 2:4"
+      "reference": "Zc 2:4",
+      "wrongs": [
+        "Por causa do medo constante da guerra.",
+        "Porque a cidade ficou vazia e quieta.",
+        "Porque o inimigo derrubou cada muro."
+      ]
     },
     {
       "id": "ZEC.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que tiram de Josué diante do anjo?",
       "answer": "A roupa suja e a culpa.",
-      "reference": "Zc 3:4"
+      "reference": "Zc 3:4",
+      "wrongs": [
+        "A coroa e o cetro.",
+        "O incenso e a oferta.",
+        "A espada e o escudo."
+      ]
     },
     {
       "id": "ZEC.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem era o sumo sacerdote diante do anjo, em Zacarias?",
       "answer": "Josué.",
-      "reference": "Zc 3:1"
+      "reference": "Zc 3:1",
+      "wrongs": [
+        "Esdras.",
+        "Zadoque.",
+        "Arão."
+      ]
     },
     {
       "id": "ZEC.3.name.2",
@@ -108,7 +158,12 @@
       "kind": "name",
       "prompt": "Quem acusava Josué, parado à direita dele?",
       "answer": "Satanás.",
-      "reference": "Zc 3:1"
+      "reference": "Zc 3:1",
+      "wrongs": [
+        "Miguel.",
+        "Gabriel.",
+        "Belzebu."
+      ]
     },
     {
       "id": "ZEC.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Quantos olhos há na pedra posta diante de Josué?",
       "answer": "São sete.",
-      "reference": "Zc 3:9"
+      "reference": "Zc 3:9",
+      "wrongs": [
+        "São doze.",
+        "São três.",
+        "São dez."
+      ]
     },
     {
       "id": "ZEC.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Como a obra de Zorobabel será feita?",
       "answer": "Não pela força nem pela violência, mas pelo Espírito.",
-      "reference": "Zc 4:6"
+      "reference": "Zc 4:6",
+      "wrongs": [
+        "Pela força e pela violência, não pelo Espírito.",
+        "Pelo exército do rei de Judá, e não pelo Espírito.",
+        "Pelo ouro trazido da Pérsia, e não pelo Espírito."
+      ]
     },
     {
       "id": "ZEC.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Quem completa a casa de Deus que ele mesmo fundou, em Zacarias?",
       "answer": "Zorobabel.",
-      "reference": "Zc 4:9"
+      "reference": "Zc 4:9",
+      "wrongs": [
+        "Josué.",
+        "Ageu.",
+        "Esdras."
+      ]
     },
     {
       "id": "ZEC.4.curiosity.1",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "Que objeto de ouro Zacarias viu na visão?",
       "answer": "Um castiçal com sete lâmpadas.",
-      "reference": "Zc 4:2"
+      "reference": "Zc 4:2",
+      "wrongs": [
+        "Uma mesa com doze pães.",
+        "Uma arca com dois querubins.",
+        "Um altar com quatro chifres."
+      ]
     },
     {
       "id": "ZEC.4.curiosity.2",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Quem são os dois ungidos da visão de Zacarias?",
       "answer": "Os dois ungidos diante de Deus.",
-      "reference": "Zc 4:14"
+      "reference": "Zc 4:14",
+      "wrongs": [
+        "Dois reis inimigos de Judá.",
+        "Dois profetas vindos do Egito.",
+        "Dois sacerdotes do tempo de Moisés."
+      ]
     },
     {
       "id": "ZEC.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "O que é o rolo que voa, em Zacarias?",
       "answer": "A maldição contra quem rouba e quem jura falso.",
-      "reference": "Zc 5:3"
+      "reference": "Zc 5:3",
+      "wrongs": [
+        "A bênção sobre quem rouba e quem jura falso.",
+        "A lei nova escrita só para os sacerdotes.",
+        "O mapa da terra que Deus prometeu a Israel."
+      ]
     },
     {
       "id": "ZEC.5.place.1",
@@ -178,7 +263,12 @@
       "kind": "place",
       "prompt": "Para onde levam o cesto na visão de Zacarias?",
       "answer": "Para a terra de Sinar.",
-      "reference": "Zc 5:11"
+      "reference": "Zc 5:11",
+      "wrongs": [
+        "Para a terra do Egito.",
+        "Para a terra de Canaã.",
+        "Para a terra de Edom."
+      ]
     },
     {
       "id": "ZEC.5.curiosity.1",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "Qual era o tamanho do rolo voador, em Zacarias?",
       "answer": "Vinte côvados de comprimento e dez de largura.",
-      "reference": "Zc 5:2"
+      "reference": "Zc 5:2",
+      "wrongs": [
+        "Dez côvados de comprimento e cinco de largura.",
+        "Trinta côvados de comprimento e vinte de largura.",
+        "Doze côvados de comprimento e oito de largura."
+      ]
     },
     {
       "id": "ZEC.5.curiosity.2",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Quem é lançada para dentro do cesto, em Zacarias?",
       "answer": "A Perversidade.",
-      "reference": "Zc 5:8"
+      "reference": "Zc 5:8",
+      "wrongs": [
+        "A Justiça.",
+        "A Misericórdia.",
+        "A Sabedoria."
+      ]
     },
     {
       "id": "ZEC.6.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "Quem, em Zacarias, será sacerdote no trono e construirá o templo?",
       "answer": "Aquele que se chama Renovo.",
-      "reference": "Zc 6:12"
+      "reference": "Zc 6:12",
+      "wrongs": [
+        "Aquele que se chama Zorobabel.",
+        "Aquele que se chama Josué.",
+        "Aquele que se chama Dario."
+      ]
     },
     {
       "id": "ZEC.6.name.1",
@@ -218,7 +323,12 @@
       "kind": "name",
       "prompt": "Na cabeça de quem põem a coroa, em Zacarias?",
       "answer": "De Josué, filho de Jeozadaque.",
-      "reference": "Zc 6:11"
+      "reference": "Zc 6:11",
+      "wrongs": [
+        "De Zorobabel, filho de Sealtiel.",
+        "De Ageu, profeta em Judá.",
+        "De Zacarias, filho de Berequias."
+      ]
     },
     {
       "id": "ZEC.6.place.1",
@@ -228,7 +338,12 @@
       "kind": "place",
       "prompt": "De onde voltaram Heldai, Tobias e Jedaías?",
       "answer": "Da Babilônia.",
-      "reference": "Zc 6:10"
+      "reference": "Zc 6:10",
+      "wrongs": [
+        "Do Egito.",
+        "De Tiro.",
+        "De Edom."
+      ]
     },
     {
       "id": "ZEC.6.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "O que são as quatro carruagens da visão, em Zacarias?",
       "answer": "Os quatro espíritos dos céus.",
-      "reference": "Zc 6:5"
+      "reference": "Zc 6:5",
+      "wrongs": [
+        "Os quatro reis da terra.",
+        "Os quatro exércitos de Judá.",
+        "Os quatro rios do Éden."
+      ]
     },
     {
       "id": "ZEC.7.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "O que Zacarias diz que Deus pede entre irmãos?",
       "answer": "Justiça verdadeira, piedade e misericórdia.",
-      "reference": "Zc 7:9"
+      "reference": "Zc 7:9",
+      "wrongs": [
+        "Jejum no quinto mês e também no sétimo.",
+        "Mais ofertas no altar e um dízimo dobrado.",
+        "Silêncio, medo e distância entre irmãos."
+      ]
     },
     {
       "id": "ZEC.7.name.1",
@@ -258,7 +383,12 @@
       "kind": "name",
       "prompt": "Quem Betel enviou para buscar o favor de Deus?",
       "answer": "Sarezer e Regém-Meleque.",
-      "reference": "Zc 7:2"
+      "reference": "Zc 7:2",
+      "wrongs": [
+        "Heldai, Tobias e Jedaías.",
+        "Josué e Zorobabel.",
+        "Ageu e o profeta Zacarias."
+      ]
     },
     {
       "id": "ZEC.7.place.1",
@@ -268,7 +398,12 @@
       "kind": "place",
       "prompt": "Para onde Zacarias diz que Deus espalhou o povo?",
       "answer": "Entre nações que eles não conheciam.",
-      "reference": "Zc 7:14"
+      "reference": "Zc 7:14",
+      "wrongs": [
+        "Só para o Egito, terra que eles conheciam.",
+        "Dentro de Judá, nas mesmas cidades de antes.",
+        "Para o mar, sem deixar nenhuma terra firme."
+      ]
     },
     {
       "id": "ZEC.7.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "Durante quanto tempo choraram no quinto mês e no sétimo, em Zacarias?",
       "answer": "Por setenta anos.",
-      "reference": "Zc 7:5"
+      "reference": "Zc 7:5",
+      "wrongs": [
+        "Por quarenta anos.",
+        "Por vinte anos.",
+        "Por sete anos."
+      ]
     },
     {
       "id": "ZEC.8.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "O que Zacarias diz que Deus fará em Sião?",
       "answer": "Voltará a morar no meio delas.",
-      "reference": "Zc 8:3"
+      "reference": "Zc 8:3",
+      "wrongs": [
+        "Vai deixar Sião vazia.",
+        "Vai mudar Sião para Sinar.",
+        "Vai entregar Sião ao inimigo."
+      ]
     },
     {
       "id": "ZEC.8.place.1",
@@ -298,7 +443,12 @@
       "kind": "place",
       "prompt": "Que nomes receberão Jerusalém e o monte de Deus?",
       "answer": "Cidade da Verdade e Monte Santo.",
-      "reference": "Zc 8:3"
+      "reference": "Zc 8:3",
+      "wrongs": [
+        "Cidade do Rei e Monte Alto.",
+        "Cidade da Paz e Monte Verde.",
+        "Cidade do Ouro e Monte Firme."
+      ]
     },
     {
       "id": "ZEC.8.curiosity.1",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "Quem vai brincar nas ruas de Jerusalém?",
       "answer": "Meninos e meninas.",
-      "reference": "Zc 8:5"
+      "reference": "Zc 8:5",
+      "wrongs": [
+        "Soldados e cavalos.",
+        "Reis e príncipes.",
+        "Sacerdotes e levitas."
+      ]
     },
     {
       "id": "ZEC.8.curiosity.2",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens segurarão a roupa de um judeu, em Zacarias?",
       "answer": "Dez homens, de línguas diferentes.",
-      "reference": "Zc 8:23"
+      "reference": "Zc 8:23",
+      "wrongs": [
+        "Sete homens, da mesma língua.",
+        "Dois homens apenas, só os de Judá.",
+        "Cem homens, e todos são de Israel."
+      ]
     },
     {
       "id": "ZEC.9.subject.1",
@@ -328,7 +488,12 @@
       "kind": "subject",
       "prompt": "Como o rei chega até a filha de Sião?",
       "answer": "Justo e humilde, montado num jumentinho.",
-      "reference": "Zc 9:9"
+      "reference": "Zc 9:9",
+      "wrongs": [
+        "Forte e armado, montado num cavalo.",
+        "Rico e orgulhoso, numa carruagem.",
+        "Escondido e mudo, a pé de noite."
+      ]
     },
     {
       "id": "ZEC.9.place.1",
@@ -338,7 +503,12 @@
       "kind": "place",
       "prompt": "Que cidades Zacarias cita ao lado de Hamate?",
       "answer": "Tiro e Sidom.",
-      "reference": "Zc 9:2"
+      "reference": "Zc 9:2",
+      "wrongs": [
+        "Gaza e Asdode.",
+        "Nô e Mênfis.",
+        "Jericó e Ai."
+      ]
     },
     {
       "id": "ZEC.9.curiosity.1",
@@ -348,7 +518,12 @@
       "kind": "curiosity",
       "prompt": "De onde saíram os prisioneiros libertos por Deus, em Zacarias?",
       "answer": "De uma cova sem água.",
-      "reference": "Zc 9:11"
+      "reference": "Zc 9:11",
+      "wrongs": [
+        "De um palácio em Sião.",
+        "De um navio em Társis.",
+        "De uma torre em Tiro."
+      ]
     },
     {
       "id": "ZEC.9.curiosity.2",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus anuncia aos prisioneiros com esperança, em Zacarias?",
       "answer": "Que vai recompensá-los em dobro.",
-      "reference": "Zc 9:12"
+      "reference": "Zc 9:12",
+      "wrongs": [
+        "Que vão continuar presos.",
+        "Que a recompensa deles será tirada.",
+        "Que só um deles vai voltar livre."
+      ]
     },
     {
       "id": "ZEC.10.subject.1",
@@ -368,7 +548,12 @@
       "kind": "subject",
       "prompt": "O que Deus fará com Judá e com José?",
       "answer": "Fortalecerá Judá e salvará José.",
-      "reference": "Zc 10:6"
+      "reference": "Zc 10:6",
+      "wrongs": [
+        "Entregará Judá e esquecerá José.",
+        "Dispersará Judá e venderá José.",
+        "Trocará Judá pelo povo de José."
+      ]
     },
     {
       "id": "ZEC.10.place.1",
@@ -378,7 +563,12 @@
       "kind": "place",
       "prompt": "Para onde vão, em Zacarias, os que voltam do Egito e da Assíria?",
       "answer": "Para Gileade e para o Líbano.",
-      "reference": "Zc 10:10"
+      "reference": "Zc 10:10",
+      "wrongs": [
+        "Para Edom e para Moabe.",
+        "Para Tiro e para Sidom.",
+        "Para Nô e para Mênfis."
+      ]
     },
     {
       "id": "ZEC.10.curiosity.1",
@@ -388,7 +578,12 @@
       "kind": "curiosity",
       "prompt": "O que Zacarias manda pedir a Deus na estação?",
       "answer": "A chuva tardia.",
-      "reference": "Zc 10:1"
+      "reference": "Zc 10:1",
+      "wrongs": [
+        "A neve do inverno.",
+        "O vento do leste.",
+        "A seca do verão."
+      ]
     },
     {
       "id": "ZEC.10.curiosity.2",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "O que sairá de Judá junto com o dominador?",
       "answer": "A pedra de esquina, a estaca e o arco.",
-      "reference": "Zc 10:4"
+      "reference": "Zc 10:4",
+      "wrongs": [
+        "A coroa real, o cetro e o manto.",
+        "O ouro fino, a prata e o incenso.",
+        "A vinha nova, o figo e o trigo."
+      ]
     },
     {
       "id": "ZEC.11.subject.1",
@@ -408,7 +608,12 @@
       "kind": "subject",
       "prompt": "O que o pastor fez com a vara Agrado?",
       "answer": "Quebrou-a e desfez a aliança com os povos.",
-      "reference": "Zc 11:10"
+      "reference": "Zc 11:10",
+      "wrongs": [
+        "Guardou-a e firmou a aliança com os povos.",
+        "Vendeu-a e comprou outro rebanho.",
+        "Plantou-a, e ela virou uma árvore."
+      ]
     },
     {
       "id": "ZEC.11.place.1",
@@ -418,7 +623,12 @@
       "kind": "place",
       "prompt": "Onde o fogo consome os cedros, em Zacarias?",
       "answer": "No Líbano.",
-      "reference": "Zc 11:1"
+      "reference": "Zc 11:1",
+      "wrongs": [
+        "No Carmelo.",
+        "No Hermom.",
+        "No Tabor."
+      ]
     },
     {
       "id": "ZEC.11.curiosity.1",
@@ -428,7 +638,12 @@
       "kind": "curiosity",
       "prompt": "Quantas moedas de prata pagaram ao pastor de Zacarias?",
       "answer": "Trinta moedas.",
-      "reference": "Zc 11:12"
+      "reference": "Zc 11:12",
+      "wrongs": [
+        "Vinte moedas.",
+        "Quinze moedas.",
+        "Dez moedas."
+      ]
     },
     {
       "id": "ZEC.11.curiosity.2",
@@ -438,7 +653,12 @@
       "kind": "curiosity",
       "prompt": "A quem o pastor entregou as trinta pratas, em Zacarias?",
       "answer": "Ao oleiro, na casa de Deus.",
-      "reference": "Zc 11:13"
+      "reference": "Zc 11:13",
+      "wrongs": [
+        "Ao rei, no palácio de Judá.",
+        "Ao mercador, na praça.",
+        "Ao pastor, no campo."
+      ]
     },
     {
       "id": "ZEC.12.subject.1",
@@ -448,7 +668,12 @@
       "kind": "subject",
       "prompt": "Por quem a casa de Davi fará pranto?",
       "answer": "Por aquele a quem traspassaram.",
-      "reference": "Zc 12:10"
+      "reference": "Zc 12:10",
+      "wrongs": [
+        "Pelo rei que os venceu na guerra.",
+        "Por um profeta que ninguém conhecia.",
+        "Pelo inimigo que veio de fora."
+      ]
     },
     {
       "id": "ZEC.12.place.1",
@@ -458,7 +683,12 @@
       "kind": "place",
       "prompt": "Qual vale Zacarias usa para comparar o pranto?",
       "answer": "O vale de Megido.",
-      "reference": "Zc 12:11"
+      "reference": "Zc 12:11",
+      "wrongs": [
+        "O vale de Josafá.",
+        "O vale de Jezreel.",
+        "O vale de Acor."
+      ]
     },
     {
       "id": "ZEC.12.curiosity.1",
@@ -468,7 +698,12 @@
       "kind": "curiosity",
       "prompt": "O que Jerusalém será para as nações?",
       "answer": "Uma pedra pesada, que fere quem a carrega.",
-      "reference": "Zc 12:3"
+      "reference": "Zc 12:3",
+      "wrongs": [
+        "Uma pedra leve, que todos levantam.",
+        "Um muro baixo demais, que ninguém nota.",
+        "Uma porta aberta, sem nenhuma guarda."
+      ]
     },
     {
       "id": "ZEC.12.curiosity.2",
@@ -478,7 +713,12 @@
       "kind": "curiosity",
       "prompt": "Como ficará o mais fraco em Jerusalém?",
       "answer": "Ficará como Davi.",
-      "reference": "Zc 12:8"
+      "reference": "Zc 12:8",
+      "wrongs": [
+        "Ficará como criança.",
+        "Ficará como pó.",
+        "Ficará como escravo."
+      ]
     },
     {
       "id": "ZEC.13.subject.1",
@@ -488,7 +728,12 @@
       "kind": "subject",
       "prompt": "O que Deus fará com a terça parte, em Zacarias?",
       "answer": "Vai prová-la no fogo e dizer que é seu povo.",
-      "reference": "Zc 13:9"
+      "reference": "Zc 13:9",
+      "wrongs": [
+        "Vai eliminá-la junto com as outras duas.",
+        "Vai deixá-la sem nenhuma prova no fogo.",
+        "Vai espalhá-la e negar que é seu povo."
+      ]
     },
     {
       "id": "ZEC.13.curiosity.1",
@@ -498,7 +743,12 @@
       "kind": "curiosity",
       "prompt": "O que será aberto para a casa de Davi?",
       "answer": "Uma fonte contra o pecado e a sujeira.",
-      "reference": "Zc 13:1"
+      "reference": "Zc 13:1",
+      "wrongs": [
+        "Uma porta larga para a guerra.",
+        "Um poço fundo de água salgada.",
+        "Um altar novo só para os bois."
+      ]
     },
     {
       "id": "ZEC.13.curiosity.2",
@@ -508,7 +758,12 @@
       "kind": "curiosity",
       "prompt": "Onde o homem de Zacarias diz que foi ferido?",
       "answer": "Na casa dos seus amigos.",
-      "reference": "Zc 13:6"
+      "reference": "Zc 13:6",
+      "wrongs": [
+        "Na guerra contra o inimigo.",
+        "No templo, pelo sacerdote.",
+        "No deserto, por um leão."
+      ]
     },
     {
       "id": "ZEC.13.curiosity.3",
@@ -518,7 +773,12 @@
       "kind": "curiosity",
       "prompt": "Quantas partes da terra serão eliminadas, em Zacarias?",
       "answer": "Duas, e a terceira fica.",
-      "reference": "Zc 13:8"
+      "reference": "Zc 13:8",
+      "wrongs": [
+        "Uma, e as outras duas ficam.",
+        "Três, e nenhuma fica.",
+        "Nenhuma, e as três ficam."
+      ]
     },
     {
       "id": "ZEC.14.subject.1",
@@ -528,7 +788,12 @@
       "kind": "subject",
       "prompt": "Quem Zacarias diz que será rei da terra inteira?",
       "answer": "Deus, e o nome dele será único.",
-      "reference": "Zc 14:9"
+      "reference": "Zc 14:9",
+      "wrongs": [
+        "O rei de Judá, com vários nomes.",
+        "O conquistador, e o nome dele muda.",
+        "Dois reis, um no norte e outro no sul."
+      ]
     },
     {
       "id": "ZEC.14.name.1",
@@ -538,7 +803,12 @@
       "kind": "name",
       "prompt": "Quem era rei de Judá no terremoto de Zacarias?",
       "answer": "Uzias.",
-      "reference": "Zc 14:5"
+      "reference": "Zc 14:5",
+      "wrongs": [
+        "Acaz.",
+        "Jotão.",
+        "Amom."
+      ]
     },
     {
       "id": "ZEC.14.place.1",
@@ -548,7 +818,12 @@
       "kind": "place",
       "prompt": "Sobre qual monte estarão os pés de Deus, em Zacarias?",
       "answer": "O monte das Oliveiras, diante de Jerusalém.",
-      "reference": "Zc 14:4"
+      "reference": "Zc 14:4",
+      "wrongs": [
+        "O monte Sião, no meio de Jerusalém.",
+        "O monte Carmelo, junto do mar de Israel.",
+        "O monte Sinai, longe no deserto de Moabe."
+      ]
     },
     {
       "id": "ZEC.14.curiosity.1",
@@ -558,7 +833,12 @@
       "kind": "curiosity",
       "prompt": "O que estará escrito nos sinos dos cavalos, em Zacarias?",
       "answer": "Consagrado a Deus.",
-      "reference": "Zc 14:20"
+      "reference": "Zc 14:20",
+      "wrongs": [
+        "Pertence ao rei.",
+        "Força na batalha.",
+        "Livre de serviço."
+      ]
     },
     {
       "id": "ZEC.0.curiosity.1",
@@ -568,7 +848,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Zacarias?",
       "answer": "Zacarias.",
-      "reference": "Zacarias"
+      "reference": "Zacarias",
+      "wrongs": [
+        "Malaquias.",
+        "Sofonias.",
+        "Habacuque."
+      ]
     },
     {
       "id": "ZEC.0.curiosity.2",
@@ -578,7 +863,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Zacarias?",
       "answer": "A partir de 520 antes de Cristo.",
-      "reference": "Zacarias"
+      "reference": "Zacarias",
+      "wrongs": [
+        "A partir de 586 antes de Cristo.",
+        "A partir de 445 antes de Cristo.",
+        "A partir de 70 depois de Cristo."
+      ]
     }
   ]
 }

@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Com que fim Cristo Jesus entrou no mundo?",
       "answer": "Para salvar os pecadores.",
-      "reference": "1Tm 1:15"
+      "reference": "1Tm 1:15",
+      "wrongs": [
+        "Para premiar os justos.",
+        "Para fundar um reino terreno.",
+        "Para anular a lei e deixar o pecado."
+      ]
     },
     {
       "id": "1TI.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem Paulo entregou a Satanás?",
       "answer": "Himeneu e Alexandre, para que parassem de blasfemar.",
-      "reference": "1Tm 1:20"
+      "reference": "1Tm 1:20",
+      "wrongs": [
+        "Demas e Crescente, para que voltassem à viagem.",
+        "Figelo e Hermógenes, para que ficassem em Roma.",
+        "Zenas e Apolo, para que seguissem a Tito."
+      ]
     },
     {
       "id": "1TI.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde Timóteo devia ficar enquanto Paulo ia à Macedônia?",
       "answer": "Em Éfeso, para impedir outro tipo de ensino.",
-      "reference": "1Tm 1:3"
+      "reference": "1Tm 1:3",
+      "wrongs": [
+        "Em Creta, para nomear presbíteros.",
+        "Em Corinto, para recolher a oferta.",
+        "Em Roma, para esperar o julgamento."
+      ]
     },
     {
       "id": "1TI.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu com alguns que rejeitaram a boa consciência?",
       "answer": "Naufragaram na fé.",
-      "reference": "1Tm 1:19"
+      "reference": "1Tm 1:19",
+      "wrongs": [
+        "Ganharam a coroa da vida.",
+        "Foram postos como bispos.",
+        "Recuperaram a boa consciência."
+      ]
     },
     {
       "id": "1TI.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Por quem Paulo pede oração, além de todas as pessoas?",
       "answer": "Pelos reis e por quem governa, para haver vida tranquila.",
-      "reference": "1Tm 2:2"
+      "reference": "1Tm 2:2",
+      "wrongs": [
+        "Só pelos apóstolos, para a missão avançar.",
+        "Pelos inimigos, para que sejam destruídos.",
+        "Por ninguém de fora, só pela própria igreja."
+      ]
     },
     {
       "id": "1TI.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem é o único mediador entre Deus e as pessoas?",
       "answer": "Cristo Jesus, que é homem.",
-      "reference": "1Tm 2:5"
+      "reference": "1Tm 2:5",
+      "wrongs": [
+        "Maria, que intercede no céu.",
+        "Moisés, que entregou a lei.",
+        "O sacerdote, que oferece o sacrifício."
+      ]
     },
     {
       "id": "1TI.2.name.2",
@@ -68,7 +98,12 @@
       "kind": "name",
       "prompt": "Quem foi formado primeiro, Adão ou Eva?",
       "answer": "Adão, e Eva veio depois.",
-      "reference": "1Tm 2:13"
+      "reference": "1Tm 2:13",
+      "wrongs": [
+        "Eva, e Adão veio depois.",
+        "Os dois, no mesmo instante.",
+        "Nenhum dos dois. O homem veio do céu."
+      ]
     },
     {
       "id": "1TI.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Com o que as mulheres não devem se enfeitar?",
       "answer": "Com trança, ouro, pérola ou roupa de alto preço.",
-      "reference": "1Tm 2:9"
+      "reference": "1Tm 2:9",
+      "wrongs": [
+        "Com cinza, pano de saco e jejum.",
+        "Com véu rasgado e pés descalços.",
+        "Com nada. O enfeite fica livre."
+      ]
     },
     {
       "id": "1TI.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Como deve ser quem deseja ser bispo?",
       "answer": "Irrepreensível, esposo de uma só mulher e capaz de ensinar.",
-      "reference": "1Tm 3:2"
+      "reference": "1Tm 3:2",
+      "wrongs": [
+        "Rico, de família nobre e amigo do governador.",
+        "Jovem, sem família e livre de todo trabalho.",
+        "Casado com várias mulheres e dado a discussões."
+      ]
     },
     {
       "id": "1TI.3.curiosity.1",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "Quando o diácono pode começar a servir?",
       "answer": "Depois de ser provado e achado sem falta.",
-      "reference": "1Tm 3:10"
+      "reference": "1Tm 3:10",
+      "wrongs": [
+        "No mesmo dia em que deseja o cargo.",
+        "Só depois dos sessenta anos.",
+        "Quando a igreja estiver sem nenhum presbítero."
+      ]
     },
     {
       "id": "1TI.3.curiosity.2",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "O que Paulo diz que a igreja é?",
       "answer": "Coluna e base da verdade.",
-      "reference": "1Tm 3:15"
+      "reference": "1Tm 3:15",
+      "wrongs": [
+        "Um clube sujeito ao imperador.",
+        "A herdeira do templo de Jerusalém.",
+        "Uma escola que corrige a Escritura."
+      ]
     },
     {
       "id": "1TI.4.subject.1",
@@ -118,7 +173,12 @@
       "kind": "subject",
       "prompt": "O que alguns vão proibir nos últimos tempos?",
       "answer": "O casamento e o uso de alimentos.",
-      "reference": "1Tm 4:3"
+      "reference": "1Tm 4:3",
+      "wrongs": [
+        "A oração e a leitura da Escritura.",
+        "O perdão e a ajuda aos pobres.",
+        "O trabalho e o cuidado da família."
+      ]
     },
     {
       "id": "1TI.4.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "O que Paulo diz de tudo o que Deus criou?",
       "answer": "É bom, se for recebido com gratidão.",
-      "reference": "1Tm 4:4"
+      "reference": "1Tm 4:4",
+      "wrongs": [
+        "É impuro, se não passar pelo altar.",
+        "É neutro, e a gratidão não muda nada.",
+        "É mau, e deve ser recusado."
+      ]
     },
     {
       "id": "1TI.4.curiosity.2",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "Como Timóteo recebeu o dom?",
       "answer": "Por profecia, quando os presbíteros puseram as mãos sobre ele.",
-      "reference": "1Tm 4:14"
+      "reference": "1Tm 4:14",
+      "wrongs": [
+        "Por herança, como filho de sacerdote.",
+        "Por compra, com a oferta da igreja.",
+        "Por um anjo, sem ninguém impor as mãos."
+      ]
     },
     {
       "id": "1TI.5.subject.1",
@@ -148,7 +218,12 @@
       "kind": "subject",
       "prompt": "O que faz quem não cuida da própria família?",
       "answer": "Nega a fé e fica pior do que quem não crê.",
-      "reference": "1Tm 5:8"
+      "reference": "1Tm 5:8",
+      "wrongs": [
+        "Ganha mérito e fica acima dos outros.",
+        "Cumpre a lei e não deve mais nada.",
+        "Erra pouco, e a fé continua inteira."
+      ]
     },
     {
       "id": "1TI.5.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Qual é a idade mínima para registrar uma viúva?",
       "answer": "Sessenta anos.",
-      "reference": "1Tm 5:9"
+      "reference": "1Tm 5:9",
+      "wrongs": [
+        "Quarenta anos.",
+        "Cinquenta anos.",
+        "Setenta anos."
+      ]
     },
     {
       "id": "1TI.5.curiosity.2",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "Quantas testemunhas são precisas contra um presbítero, em 1 Timóteo?",
       "answer": "Duas ou três.",
-      "reference": "1Tm 5:19"
+      "reference": "1Tm 5:19",
+      "wrongs": [
+        "Uma só.",
+        "Sete.",
+        "Doze."
+      ]
     },
     {
       "id": "1TI.5.curiosity.3",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "Por que Paulo manda Timóteo beber um pouco de vinho?",
       "answer": "Por causa do estômago e das doenças que se repetiam.",
-      "reference": "1Tm 5:23"
+      "reference": "1Tm 5:23",
+      "wrongs": [
+        "Para brindar nas festas da igreja.",
+        "Para cumprir um voto ao contrário.",
+        "Para não parecer mais fraco que os outros."
+      ]
     },
     {
       "id": "1TI.6.subject.1",
@@ -188,7 +278,12 @@
       "kind": "subject",
       "prompt": "O que é raiz de todo tipo de mal?",
       "answer": "O amor ao dinheiro.",
-      "reference": "1Tm 6:10"
+      "reference": "1Tm 6:10",
+      "wrongs": [
+        "O dinheiro em si, mesmo sem amor.",
+        "A pobreza de quem não tem nada.",
+        "O trabalho feito com as próprias mãos."
+      ]
     },
     {
       "id": "1TI.6.name.1",
@@ -198,7 +293,12 @@
       "kind": "name",
       "prompt": "Diante de quem Cristo Jesus fez a boa confissão?",
       "answer": "Diante de Pôncio Pilatos.",
-      "reference": "1Tm 6:13"
+      "reference": "1Tm 6:13",
+      "wrongs": [
+        "Diante de Caifás.",
+        "Diante de Herodes.",
+        "Diante de César."
+      ]
     },
     {
       "id": "1TI.6.curiosity.1",
@@ -208,7 +308,12 @@
       "kind": "curiosity",
       "prompt": "O que levamos quando saímos do mundo?",
       "answer": "Nada, do mesmo modo que nada trouxemos.",
-      "reference": "1Tm 6:7"
+      "reference": "1Tm 6:7",
+      "wrongs": [
+        "A fé, e também as obras feitas.",
+        "O nome, gravado na memória da família.",
+        "O ouro, se tiver sido guardado."
+      ]
     },
     {
       "id": "1TI.6.curiosity.2",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "Que títulos Paulo dá ao único Soberano?",
       "answer": "Rei dos reis, e ele governa todos os senhores.",
-      "reference": "1Tm 6:15"
+      "reference": "1Tm 6:15",
+      "wrongs": [
+        "Servo dos servos, e ele obedece aos reis.",
+        "Anjo dos anjos, abaixo do Pai.",
+        "Juiz de Israel, só sobre o povo da lei."
+      ]
     },
     {
       "id": "1TI.0.curiosity.1",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 1 Timóteo?",
       "answer": "Paulo.",
-      "reference": "1 Timóteo"
+      "reference": "1 Timóteo",
+      "wrongs": [
+        "Timóteo.",
+        "Lucas.",
+        "Pedro."
+      ]
     },
     {
       "id": "1TI.0.curiosity.2",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 1 Timóteo?",
       "answer": "Por volta do ano 63.",
-      "reference": "1 Timóteo"
+      "reference": "1 Timóteo",
+      "wrongs": [
+        "Por volta do ano 51.",
+        "Por volta do ano 57.",
+        "Por volta do ano 70."
+      ]
     },
     {
       "id": "1TI.0.curiosity.3",
@@ -248,7 +368,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu 1 Timóteo?",
       "answer": "Para Timóteo, seu filho na fé.",
-      "reference": "1Tm 1:2"
+      "reference": "1Tm 1:2",
+      "wrongs": [
+        "Para Tito, seu filho na fé.",
+        "Para Filemom, cooperador de Paulo.",
+        "Para a igreja que estava em Éfeso."
+      ]
     }
   ]
 }

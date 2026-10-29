@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Que nação Deus diz a Habacuque que vai levantar?",
       "answer": "Os caldeus, povo amargo e veloz.",
-      "reference": "Hc 1:6"
+      "reference": "Hc 1:6",
+      "wrongs": [
+        "Os assírios, povo calmo e lento.",
+        "Os egípcios, povo antigo e quieto.",
+        "Os persas, povo distante e fraco."
+      ]
     },
     {
       "id": "HAB.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem viu a revelação que abre Habacuque?",
       "answer": "O profeta Habacuque.",
-      "reference": "Hc 1:1"
+      "reference": "Hc 1:1",
+      "wrongs": [
+        "O profeta Malaquias.",
+        "O profeta Sofonias.",
+        "O profeta Zacarias."
+      ]
     },
     {
       "id": "HAB.1.curiosity.1",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "Os cavalos caldeus são mais velozes que qual bicho, em Habacuque?",
       "answer": "Mais velozes que os leopardos.",
-      "reference": "Hc 1:8"
+      "reference": "Hc 1:8",
+      "wrongs": [
+        "Mais velozes que os bois.",
+        "Mais velozes que as ovelhas.",
+        "Mais velozes que os camelos."
+      ]
     },
     {
       "id": "HAB.1.curiosity.2",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "A que o opressor oferece incenso, em Habacuque?",
       "answer": "À própria rede.",
-      "reference": "Hc 1:16"
+      "reference": "Hc 1:16",
+      "wrongs": [
+        "Ao Deus de Israel.",
+        "Ao altar de Sião.",
+        "Ao rei de Judá."
+      ]
     },
     {
       "id": "HAB.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Como o justo viverá, na resposta a Habacuque?",
       "answer": "Por meio da fé.",
-      "reference": "Hc 2:4"
+      "reference": "Hc 2:4",
+      "wrongs": [
+        "Por meio da força.",
+        "Por meio do ouro.",
+        "Por meio da espada."
+      ]
     },
     {
       "id": "HAB.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "Onde Habacuque diz que Deus está?",
       "answer": "No templo santo dele.",
-      "reference": "Hc 2:20"
+      "reference": "Hc 2:20",
+      "wrongs": [
+        "No palácio do rei.",
+        "No alto do Carmelo.",
+        "No meio do arraial."
+      ]
     },
     {
       "id": "HAB.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "Onde Deus manda Habacuque registrar a visão?",
       "answer": "Em tábuas, com letra bem clara.",
-      "reference": "Hc 2:2"
+      "reference": "Hc 2:2",
+      "wrongs": [
+        "Em pergaminho, com letra miúda.",
+        "Numa pedra, em código fechado.",
+        "Só de memória, sem escrever nada."
+      ]
     },
     {
       "id": "HAB.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "O que grita da parede contra a casa injusta, em Habacuque?",
       "answer": "A pedra.",
-      "reference": "Hc 2:11"
+      "reference": "Hc 2:11",
+      "wrongs": [
+        "O dono.",
+        "O rei.",
+        "O vento."
+      ]
     },
     {
       "id": "HAB.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Em quem Habacuque diz que vai se alegrar?",
       "answer": "Em Deus, que é a salvação dele.",
-      "reference": "Hc 3:18"
+      "reference": "Hc 3:18",
+      "wrongs": [
+        "Nas colheitas, que enchem o campo.",
+        "No exército, que vence a guerra.",
+        "No rei, que segura o trono."
+      ]
     },
     {
       "id": "HAB.3.place.1",
@@ -98,7 +143,12 @@
       "kind": "place",
       "prompt": "De onde Deus veio na visão de Habacuque?",
       "answer": "De Temã e do monte Parã.",
-      "reference": "Hc 3:3"
+      "reference": "Hc 3:3",
+      "wrongs": [
+        "De Sião e do monte Moriá.",
+        "De Seir e do monte Sinai.",
+        "De Ur e do monte Carmelo."
+      ]
     },
     {
       "id": "HAB.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "O que o sol e a lua fizeram na visão de Habacuque?",
       "answer": "Ficaram parados na morada deles.",
-      "reference": "Hc 3:11"
+      "reference": "Hc 3:11",
+      "wrongs": [
+        "Correram pelo céu mais depressa.",
+        "Apagaram-se e caíram no mar.",
+        "Nasceram duas vezes no mesmo dia."
+      ]
     },
     {
       "id": "HAB.3.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Com quais animais Deus compara os pés de Habacuque?",
       "answer": "Com as corças.",
-      "reference": "Hc 3:19"
+      "reference": "Hc 3:19",
+      "wrongs": [
+        "Com os leões.",
+        "Com os cavalos.",
+        "Com as águias."
+      ]
     },
     {
       "id": "HAB.0.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Habacuque?",
       "answer": "Habacuque.",
-      "reference": "Habacuque"
+      "reference": "Habacuque",
+      "wrongs": [
+        "Malaquias.",
+        "Sofonias.",
+        "Zacarias."
+      ]
     },
     {
       "id": "HAB.0.curiosity.2",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Habacuque?",
       "answer": "No fim do século VII antes de Cristo.",
-      "reference": "Habacuque"
+      "reference": "Habacuque",
+      "wrongs": [
+        "No início do século X antes de Cristo.",
+        "No meio do século V antes de Cristo.",
+        "No século I depois de Cristo."
+      ]
     }
   ]
 }

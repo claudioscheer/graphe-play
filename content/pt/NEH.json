@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Como estava Jerusalém no relato feito a Neemias?",
       "answer": "Com o muro rachado e as portas queimadas.",
-      "reference": "Ne 1:3"
+      "reference": "Ne 1:3",
+      "wrongs": [
+        "Com o templo pronto e as portas de ouro.",
+        "Com o muro alto e as portas novas.",
+        "Com o palácio em pé e as praças cheias."
+      ]
     },
     {
       "id": "NEH.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem trouxe notícias de Judá a Neemias?",
       "answer": "Hanani, um dos irmãos dele.",
-      "reference": "Ne 1:2"
+      "reference": "Ne 1:2",
+      "wrongs": [
+        "Esdras, o escriba da lei.",
+        "Sambalate, o horonita.",
+        "Eliasibe, o sumo sacerdote."
+      ]
     },
     {
       "id": "NEH.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Em que fortaleza Neemias estava no mês de quisleu?",
       "answer": "Na fortaleza de Susã.",
-      "reference": "Ne 1:1"
+      "reference": "Ne 1:1",
+      "wrongs": [
+        "Na fortaleza de Jerusalém.",
+        "Na fortaleza de Ecbatana.",
+        "Na fortaleza de Babilônia."
+      ]
     },
     {
       "id": "NEH.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que Neemias fez ao ouvir as notícias?",
       "answer": "Chorou, jejuou e orou ao Deus dos céus.",
-      "reference": "Ne 1:4"
+      "reference": "Ne 1:4",
+      "wrongs": [
+        "Riu, comeu e escreveu ao rei.",
+        "Calou, dormiu e partiu na hora.",
+        "Cantou, celebrou e mandou ouro."
+      ]
     },
     {
       "id": "NEH.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que Neemias pediu ao povo de Jerusalém?",
       "answer": "Que reconstruíssem o muro da cidade.",
-      "reference": "Ne 2:17"
+      "reference": "Ne 2:17",
+      "wrongs": [
+        "Que abandonassem o templo de Deus.",
+        "Que voltassem todos para a Pérsia.",
+        "Que abrissem guerra contra o Egito."
+      ]
     },
     {
       "id": "NEH.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem zombou da reconstrução do muro, em Neemias?",
       "answer": "Sambalate, Tobias e Gesém.",
-      "reference": "Ne 2:19"
+      "reference": "Ne 2:19",
+      "wrongs": [
+        "Esdras, Jesua e Zorobabel.",
+        "Ageu, Zacarias e Malaquias.",
+        "Hanani, Hananias e Eliasibe."
+      ]
     },
     {
       "id": "NEH.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Por qual porta Neemias saiu de noite?",
       "answer": "Pela porta do Vale.",
-      "reference": "Ne 2:13"
+      "reference": "Ne 2:13",
+      "wrongs": [
+        "Pela porta das Ovelhas.",
+        "Pela porta das Águas.",
+        "Pela porta do Esterco."
+      ]
     },
     {
       "id": "NEH.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "O que o rei decidiu sobre a viagem de Neemias?",
       "answer": "Aceitou enviá-lo depois de um prazo marcado.",
-      "reference": "Ne 2:6"
+      "reference": "Ne 2:6",
+      "wrongs": [
+        "Negou a viagem e o manteve em Susã.",
+        "Mandou-o partir sem prazo nenhum.",
+        "Entregou a obra a outro copeiro."
+      ]
     },
     {
       "id": "NEH.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Quem reconstruiu a porta das Ovelhas?",
       "answer": "Eliasibe, o sumo sacerdote, e os sacerdotes.",
-      "reference": "Ne 3:1"
+      "reference": "Ne 3:1",
+      "wrongs": [
+        "Salum, filho de Haloés, e as filhas.",
+        "Neemias, o governador, e os guardas.",
+        "Hanani, irmão de Neemias, e os levitas."
+      ]
     },
     {
       "id": "NEH.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem reparou o muro junto com as próprias filhas, em Neemias?",
       "answer": "Salum, filho de Haloés.",
-      "reference": "Ne 3:12"
+      "reference": "Ne 3:12",
+      "wrongs": [
+        "Eliasibe, o sumo sacerdote.",
+        "Malquias, filho de Recabe.",
+        "Hanum, chefe de Zanoa."
+      ]
     },
     {
       "id": "NEH.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Que porta o povo de Zanoa reparou?",
       "answer": "A porta do Vale.",
-      "reference": "Ne 3:13"
+      "reference": "Ne 3:13",
+      "wrongs": [
+        "A porta das Ovelhas.",
+        "A porta dos Peixes.",
+        "A porta das Águas."
+      ]
     },
     {
       "id": "NEH.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "O que os mais ilustres de Tecoa não quiseram fazer?",
       "answer": "Servir na obra do chefe deles.",
-      "reference": "Ne 3:5"
+      "reference": "Ne 3:5",
+      "wrongs": [
+        "Pagar o ouro do templo.",
+        "Guardar a porta da cidade.",
+        "Jejuar com o restante do povo."
+      ]
     },
     {
       "id": "NEH.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Como trabalhavam os homens no muro de Jerusalém?",
       "answer": "Com uma das mãos na obra e a outra armada.",
-      "reference": "Ne 4:17"
+      "reference": "Ne 4:17",
+      "wrongs": [
+        "Com as duas mãos livres e sem sentinela.",
+        "Só de noite, escondidos dentro do templo.",
+        "Em turnos longos, longe de qualquer arma."
+      ]
     },
     {
       "id": "NEH.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Quem se indignou ao saber que o muro de Jerusalém era reparado?",
       "answer": "Sambalate.",
-      "reference": "Ne 4:1"
+      "reference": "Ne 4:1",
+      "wrongs": [
+        "Neemias.",
+        "Esdras.",
+        "Hananias."
+      ]
     },
     {
       "id": "NEH.4.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "Diante de que exército Sambalate zombou dos judeus?",
       "answer": "Do exército de Samaria.",
-      "reference": "Ne 4:2"
+      "reference": "Ne 4:2",
+      "wrongs": [
+        "Do exército da Pérsia.",
+        "Do exército do Egito.",
+        "Do exército de Judá."
+      ]
     },
     {
       "id": "NEH.4.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "O que Tobias falou que uma raposa faria?",
       "answer": "Derrubaria sozinha o muro de pedra.",
-      "reference": "Ne 4:3"
+      "reference": "Ne 4:3",
+      "wrongs": [
+        "Guardaria sozinha a porta da cidade.",
+        "Subiria sozinha a torre do templo.",
+        "Abriria sozinha o portão do rei."
+      ]
     },
     {
       "id": "NEH.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "O que os credores prometeram a Neemias?",
       "answer": "Devolver tudo e não exigir mais nada.",
-      "reference": "Ne 5:12"
+      "reference": "Ne 5:12",
+      "wrongs": [
+        "Cobrar juros dobrados no ano seguinte.",
+        "Tomar os campos e manter os penhores.",
+        "Vender os devedores aos vizinhos."
+      ]
     },
     {
       "id": "NEH.5.place.1",
@@ -178,7 +263,12 @@
       "kind": "place",
       "prompt": "Em que terra Neemias foi governador?",
       "answer": "Na terra de Judá.",
-      "reference": "Ne 5:14"
+      "reference": "Ne 5:14",
+      "wrongs": [
+        "Na terra do Egito.",
+        "Na terra de Samaria.",
+        "Na terra da Pérsia."
+      ]
     },
     {
       "id": "NEH.5.curiosity.1",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "Por quantos anos Neemias recusou o pão de governador?",
       "answer": "Por doze anos.",
-      "reference": "Ne 5:14"
+      "reference": "Ne 5:14",
+      "wrongs": [
+        "Por sete anos.",
+        "Por quarenta anos.",
+        "Por três anos."
+      ]
     },
     {
       "id": "NEH.5.curiosity.2",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "O que Neemias fez com a própria roupa?",
       "answer": "Sacudiu a roupa e pediu o mesmo a quem falhasse.",
-      "reference": "Ne 5:13"
+      "reference": "Ne 5:13",
+      "wrongs": [
+        "Rasgou a roupa e cobriu a cabeça de cinza.",
+        "Tirou a roupa e a deu aos pobres.",
+        "Lavou a roupa e a pôs sobre o altar."
+      ]
     },
     {
       "id": "NEH.6.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "Em quanto tempo o muro de Jerusalém foi concluído?",
       "answer": "Em cinquenta e dois dias.",
-      "reference": "Ne 6:15"
+      "reference": "Ne 6:15",
+      "wrongs": [
+        "Em sete anos de obra.",
+        "Em quarenta dias de luta.",
+        "Em três meses seguidos."
+      ]
     },
     {
       "id": "NEH.6.name.1",
@@ -218,7 +323,12 @@
       "kind": "name",
       "prompt": "Quem quis que Neemias se escondesse no templo?",
       "answer": "Semaías, filho de Delaías.",
-      "reference": "Ne 6:10"
+      "reference": "Ne 6:10",
+      "wrongs": [
+        "Sambalate, o horonita.",
+        "Tobias, o amonita.",
+        "Gesém, o árabe."
+      ]
     },
     {
       "id": "NEH.6.place.1",
@@ -228,7 +338,12 @@
       "kind": "place",
       "prompt": "Onde Sambalate marcou encontro com Neemias?",
       "answer": "Nas aldeias do vale de Ono.",
-      "reference": "Ne 6:2"
+      "reference": "Ne 6:2",
+      "wrongs": [
+        "Na porta do Vale, em Jerusalém.",
+        "Na fortaleza de Susã.",
+        "No pátio do templo."
+      ]
     },
     {
       "id": "NEH.6.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "De que Neemias foi acusado na obra do muro?",
       "answer": "De querer ser rei dos judeus.",
-      "reference": "Ne 6:6"
+      "reference": "Ne 6:6",
+      "wrongs": [
+        "De roubar o ouro do templo.",
+        "De servir ao rei do Egito.",
+        "De fechar aliança com Sambalate."
+      ]
     },
     {
       "id": "NEH.7.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "Quem voltou do exílio para a própria cidade, em Neemias?",
       "answer": "Os levados por Nabucodonosor a Babilônia.",
-      "reference": "Ne 7:6"
+      "reference": "Ne 7:6",
+      "wrongs": [
+        "Os levados por Senaqueribe a Nínive.",
+        "Os levados por Faraó ao Egito.",
+        "Os levados por Ciro à Pérsia."
+      ]
     },
     {
       "id": "NEH.7.name.1",
@@ -258,7 +383,12 @@
       "kind": "name",
       "prompt": "Quem era o chefe fiel do palácio no tempo de Neemias?",
       "answer": "Hananias.",
-      "reference": "Ne 7:2"
+      "reference": "Ne 7:2",
+      "wrongs": [
+        "Hanani.",
+        "Eliasibe.",
+        "Semaías."
+      ]
     },
     {
       "id": "NEH.7.curiosity.1",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "Quando Neemias mandou abrir as portas de Jerusalém?",
       "answer": "Só depois que o sol esquentasse.",
-      "reference": "Ne 7:3"
+      "reference": "Ne 7:3",
+      "wrongs": [
+        "Logo ao romper da aurora.",
+        "Só depois do pôr do sol.",
+        "Apenas no dia de sábado."
+      ]
     },
     {
       "id": "NEH.7.curiosity.2",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "Quantas pessoas havia na congregação que voltou do exílio, em Neemias?",
       "answer": "42.360 pessoas.",
-      "reference": "Ne 7:66"
+      "reference": "Ne 7:66",
+      "wrongs": [
+        "12.000 pessoas.",
+        "70.000 pessoas.",
+        "5.400 pessoas."
+      ]
     },
     {
       "id": "NEH.8.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "Que livro o povo pediu a Esdras?",
       "answer": "A lei de Moisés, que Deus mandou a Israel.",
-      "reference": "Ne 8:1"
+      "reference": "Ne 8:1",
+      "wrongs": [
+        "O livro das crônicas dos reis.",
+        "A carta de Artaxerxes sobre o muro.",
+        "Os salmos de Davi para a festa."
+      ]
     },
     {
       "id": "NEH.8.place.1",
@@ -298,7 +443,12 @@
       "kind": "place",
       "prompt": "Onde o povo se reuniu para ouvir Esdras?",
       "answer": "Na praça da porta das Águas.",
-      "reference": "Ne 8:1"
+      "reference": "Ne 8:1",
+      "wrongs": [
+        "Na praça da porta do Vale.",
+        "No pátio da porta das Ovelhas.",
+        "Na margem do rio de Aava."
+      ]
     },
     {
       "id": "NEH.8.curiosity.1",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "O que foi chamado de força do povo, em Neemias?",
       "answer": "A alegria que vem de Deus.",
-      "reference": "Ne 8:10"
+      "reference": "Ne 8:10",
+      "wrongs": [
+        "O muro recém-construído.",
+        "O jejum de três dias.",
+        "O ouro trazido da Pérsia."
+      ]
     },
     {
       "id": "NEH.8.curiosity.2",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "Desde que época Israel não fazia tendas assim?",
       "answer": "Desde o tempo de Josué, filho de Num.",
-      "reference": "Ne 8:17"
+      "reference": "Ne 8:17",
+      "wrongs": [
+        "Desde o tempo de Moisés, no deserto.",
+        "Desde o tempo de Davi, em Sião.",
+        "Desde o tempo de Salomão, no templo."
+      ]
     },
     {
       "id": "NEH.9.subject.1",
@@ -328,7 +488,12 @@
       "kind": "subject",
       "prompt": "O que Israel confessou no jejum depois de erguer o muro?",
       "answer": "Seus pecados e as injustiças dos pais.",
-      "reference": "Ne 9:2"
+      "reference": "Ne 9:2",
+      "wrongs": [
+        "Só a falta de ouro para o templo.",
+        "A vitória sobre os povos vizinhos.",
+        "A bondade dos reis da Pérsia."
+      ]
     },
     {
       "id": "NEH.9.name.1",
@@ -338,7 +503,12 @@
       "kind": "name",
       "prompt": "Que nome Deus deu a Abrão?",
       "answer": "Abraão.",
-      "reference": "Ne 9:7"
+      "reference": "Ne 9:7",
+      "wrongs": [
+        "Israel.",
+        "Jacó.",
+        "Isaque."
+      ]
     },
     {
       "id": "NEH.9.place.1",
@@ -348,7 +518,12 @@
       "kind": "place",
       "prompt": "De onde Deus tirou Abrão?",
       "answer": "De Ur dos caldeus.",
-      "reference": "Ne 9:7"
+      "reference": "Ne 9:7",
+      "wrongs": [
+        "De Harã, na Síria.",
+        "Do Egito, terra de Faraó.",
+        "De Berseba, no Neguebe."
+      ]
     },
     {
       "id": "NEH.9.curiosity.1",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "O que príncipes, levitas e sacerdotes selaram, em Neemias?",
       "answer": "Uma aliança escrita e fiel.",
-      "reference": "Ne 9:38"
+      "reference": "Ne 9:38",
+      "wrongs": [
+        "Um tratado de paz com Samaria.",
+        "A carta do rei Artaxerxes.",
+        "O decreto que liberava o sábado."
+      ]
     },
     {
       "id": "NEH.10.subject.1",
@@ -368,7 +548,12 @@
       "kind": "subject",
       "prompt": "A que o povo jurou obedecer, em Neemias?",
       "answer": "À lei de Deus dada por meio de Moisés.",
-      "reference": "Ne 10:29"
+      "reference": "Ne 10:29",
+      "wrongs": [
+        "Ao decreto de Hamã contra os judeus.",
+        "Às ordens de Sambalate sobre o muro.",
+        "Aos costumes dos povos vizinhos."
+      ]
     },
     {
       "id": "NEH.10.name.1",
@@ -378,7 +563,12 @@
       "kind": "name",
       "prompt": "Quem encabeça os nomes que selaram o acordo, em Neemias?",
       "answer": "O governador Neemias, filho de Hacalias.",
-      "reference": "Ne 10:1"
+      "reference": "Ne 10:1",
+      "wrongs": [
+        "O escriba Esdras, filho de Seraías.",
+        "O sacerdote Eliasibe, filho de Joiaquim.",
+        "O profeta Ageu, filho de Ido."
+      ]
     },
     {
       "id": "NEH.10.curiosity.1",
@@ -388,7 +578,12 @@
       "kind": "curiosity",
       "prompt": "O que o povo prometeu não comprar no sábado, em Neemias?",
       "answer": "Comida nem mercadoria dos povos vizinhos.",
-      "reference": "Ne 10:31"
+      "reference": "Ne 10:31",
+      "wrongs": [
+        "Lenha nem água dos levitas.",
+        "Pão nem vinho dos mercados de Judá.",
+        "Ouro nem prata dos ourives da cidade."
+      ]
     },
     {
       "id": "NEH.10.curiosity.2",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "Que oferta anual marcaram para o templo no tempo de Neemias?",
       "answer": "Um terço de siclo por pessoa.",
-      "reference": "Ne 10:32"
+      "reference": "Ne 10:32",
+      "wrongs": [
+        "Um siclo inteiro por família.",
+        "Meio siclo por casa.",
+        "Dois siclos por sacerdote."
+      ]
     },
     {
       "id": "NEH.11.subject.1",
@@ -408,7 +608,12 @@
       "kind": "subject",
       "prompt": "Como escolheram moradores para Jerusalém?",
       "answer": "Sortearam um de cada dez.",
-      "reference": "Ne 11:1"
+      "reference": "Ne 11:1",
+      "wrongs": [
+        "Chamaram só os sacerdotes.",
+        "Mandaram vir todas as famílias.",
+        "Escolheram um de cada cem."
+      ]
     },
     {
       "id": "NEH.11.name.1",
@@ -418,7 +623,12 @@
       "kind": "name",
       "prompt": "Quem era o segundo no comando de Jerusalém no tempo de Neemias?",
       "answer": "Judá, filho de Senua.",
-      "reference": "Ne 11:9"
+      "reference": "Ne 11:9",
+      "wrongs": [
+        "Joel, filho de Zicri.",
+        "Hananias, chefe do palácio.",
+        "Salum, filho de Haloés."
+      ]
     },
     {
       "id": "NEH.11.place.1",
@@ -428,7 +638,12 @@
       "kind": "place",
       "prompt": "Onde moravam os servos do templo, em Neemias?",
       "answer": "Em Ofel.",
-      "reference": "Ne 11:21"
+      "reference": "Ne 11:21",
+      "wrongs": [
+        "Em Tecoa.",
+        "Em Jericó.",
+        "Em Zanoa."
+      ]
     },
     {
       "id": "NEH.11.curiosity.1",
@@ -438,7 +653,12 @@
       "kind": "curiosity",
       "prompt": "Quantos filhos de Perez moravam em Jerusalém?",
       "answer": "478 homens valentes.",
-      "reference": "Ne 11:6"
+      "reference": "Ne 11:6",
+      "wrongs": [
+        "128 homens valentes.",
+        "928 homens valentes.",
+        "242 homens valentes."
+      ]
     },
     {
       "id": "NEH.12.subject.1",
@@ -448,7 +668,12 @@
       "kind": "subject",
       "prompt": "Como foi a dedicação dos muros de Jerusalém?",
       "answer": "Com alegria, gratidão, cânticos e música.",
-      "reference": "Ne 12:27"
+      "reference": "Ne 12:27",
+      "wrongs": [
+        "Em silêncio, com jejum e pano de saco.",
+        "Com luto, cinza e confissão pública.",
+        "Só com sacrifício, sem canto nem festa."
+      ]
     },
     {
       "id": "NEH.12.name.1",
@@ -458,7 +683,12 @@
       "kind": "name",
       "prompt": "Quem ia à frente dos músicos com instrumentos de Davi?",
       "answer": "O escriba Esdras.",
-      "reference": "Ne 12:36"
+      "reference": "Ne 12:36",
+      "wrongs": [
+        "O governador Neemias.",
+        "O sacerdote Eliasibe.",
+        "O levita Jesua."
+      ]
     },
     {
       "id": "NEH.12.place.1",
@@ -468,7 +698,12 @@
       "kind": "place",
       "prompt": "Para que lado foi o primeiro coro no muro, em Neemias?",
       "answer": "Pela direita, rumo à porta do Esterco.",
-      "reference": "Ne 12:31"
+      "reference": "Ne 12:31",
+      "wrongs": [
+        "Pela esquerda, rumo à porta das Águas.",
+        "Pelo centro, rumo à porta das Ovelhas.",
+        "Pela direita, rumo à porta dos Peixes."
+      ]
     },
     {
       "id": "NEH.12.curiosity.1",
@@ -478,7 +713,12 @@
       "kind": "curiosity",
       "prompt": "Até onde se ouviu a alegria de Jerusalém?",
       "answer": "Até bem longe da cidade.",
-      "reference": "Ne 12:43"
+      "reference": "Ne 12:43",
+      "wrongs": [
+        "Só dentro do pátio do templo.",
+        "Apenas na porta do Vale.",
+        "Somente na casa do governador."
+      ]
     },
     {
       "id": "NEH.13.subject.1",
@@ -488,7 +728,12 @@
       "kind": "subject",
       "prompt": "O que Neemias fez com os estrangeiros no povo?",
       "answer": "Separou-os e reordenou o serviço sagrado.",
-      "reference": "Ne 13:30"
+      "reference": "Ne 13:30",
+      "wrongs": [
+        "Recebeu-os e deu-lhes salas no templo.",
+        "Casou-os com as filhas dos sacerdotes.",
+        "Mandou-os guardar o muro no sábado."
+      ]
     },
     {
       "id": "NEH.13.name.1",
@@ -498,7 +743,12 @@
       "kind": "name",
       "prompt": "Com quem o sacerdote Eliasibe era parente?",
       "answer": "Com Tobias.",
-      "reference": "Ne 13:4"
+      "reference": "Ne 13:4",
+      "wrongs": [
+        "Com Gesém.",
+        "Com Hamã.",
+        "Com Reum."
+      ]
     },
     {
       "id": "NEH.13.place.1",
@@ -508,7 +758,12 @@
       "kind": "place",
       "prompt": "Onde Tobias tinha uma sala em Jerusalém?",
       "answer": "Num cômodo nos pátios do templo.",
-      "reference": "Ne 13:7"
+      "reference": "Ne 13:7",
+      "wrongs": [
+        "Num quarto do palácio do governador.",
+        "Numa casa junto à porta do Vale.",
+        "Num depósito na fortaleza de Susã."
+      ]
     },
     {
       "id": "NEH.13.curiosity.1",
@@ -518,7 +773,12 @@
       "kind": "curiosity",
       "prompt": "O que Neemias ordenou nas portas antes do sábado?",
       "answer": "Fechar as portas e não abrir no sábado.",
-      "reference": "Ne 13:19"
+      "reference": "Ne 13:19",
+      "wrongs": [
+        "Abrir as portas e dobrar o comércio.",
+        "Deixar as portas abertas a noite toda.",
+        "Entregar as chaves aos mercadores."
+      ]
     },
     {
       "id": "NEH.0.curiosity.1",
@@ -528,7 +788,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Neemias?",
       "answer": "Neemias.",
-      "reference": "Neemias"
+      "reference": "Neemias",
+      "wrongs": [
+        "Esdras.",
+        "Malaquias.",
+        "Ageu."
+      ]
     },
     {
       "id": "NEH.0.curiosity.2",
@@ -538,7 +803,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Neemias?",
       "answer": "No século V antes de Cristo.",
-      "reference": "Neemias"
+      "reference": "Neemias",
+      "wrongs": [
+        "No século X antes de Cristo.",
+        "No século VIII antes de Cristo.",
+        "No século I antes de Cristo."
+      ]
     }
   ]
 }

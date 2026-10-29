@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Para que Paulo deixou Tito em Creta?",
       "answer": "Para organizar o que faltava e nomear presbíteros.",
-      "reference": "Tt 1:5"
+      "reference": "Tt 1:5",
+      "wrongs": [
+        "Para recolher a oferta e levar a Paulo.",
+        "Para pregar só aos judeus da sinagoga.",
+        "Para esperar o inverno longe de Creta."
+      ]
     },
     {
       "id": "TIT.1.place.1",
@@ -18,7 +23,12 @@
       "kind": "place",
       "prompt": "Em que ilha Tito devia constituir presbíteros?",
       "answer": "Em Creta, de cidade em cidade.",
-      "reference": "Tt 1:5"
+      "reference": "Tt 1:5",
+      "wrongs": [
+        "Em Chipre, de cidade em cidade.",
+        "Em Malta, de porto em porto.",
+        "Em Patmos, de casa em casa."
+      ]
     },
     {
       "id": "TIT.1.curiosity.1",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "O que um profeta de Creta dizia do próprio povo?",
       "answer": "Que eram mentirosos, bichos maus e preguiçosos para comer.",
-      "reference": "Tt 1:12"
+      "reference": "Tt 1:12",
+      "wrongs": [
+        "Que eram justos, hospitaleiros e prontos para o trabalho.",
+        "Que eram sábios, ricos e fiéis à lei de Moisés.",
+        "Que eram tímidos, pobres e dados à oração."
+      ]
     },
     {
       "id": "TIT.2.subject.1",
@@ -38,7 +53,12 @@
       "kind": "subject",
       "prompt": "Como a graça de Deus ensina a viver agora?",
       "answer": "Com sobriedade, justiça e devoção, longe dos maus desejos.",
-      "reference": "Tt 2:12"
+      "reference": "Tt 2:12",
+      "wrongs": [
+        "Com festa, folga e desejo, perto dos prazeres.",
+        "Com medo, silêncio e dívida, debaixo da lei.",
+        "Com orgulho, briga e pressa, como a cidade vive."
+      ]
     },
     {
       "id": "TIT.2.curiosity.1",
@@ -48,7 +68,12 @@
       "kind": "curiosity",
       "prompt": "O que as mulheres idosas devem ensinar às moças?",
       "answer": "A serem prudentes e a amar o marido e os filhos.",
-      "reference": "Tt 2:4"
+      "reference": "Tt 2:4",
+      "wrongs": [
+        "A deixarem o marido e criarem os filhos longe.",
+        "A guardarem silêncio e não aprenderem nada.",
+        "A buscarem beleza, ouro e roupa cara."
+      ]
     },
     {
       "id": "TIT.2.curiosity.2",
@@ -58,7 +83,12 @@
       "kind": "curiosity",
       "prompt": "O que os crentes ficam aguardando?",
       "answer": "A esperança feliz e a glória de Jesus Cristo.",
-      "reference": "Tt 2:13"
+      "reference": "Tt 2:13",
+      "wrongs": [
+        "A volta de Paulo e a oferta completa.",
+        "O reino de Roma e a paz do imperador.",
+        "A glória do templo e o fogo do altar."
+      ]
     },
     {
       "id": "TIT.3.subject.1",
@@ -68,7 +98,12 @@
       "kind": "subject",
       "prompt": "Como Deus salvou, se não foi pelas obras?",
       "answer": "Pela misericórdia, no banho do novo nascimento.",
-      "reference": "Tt 3:5"
+      "reference": "Tt 3:5",
+      "wrongs": [
+        "Pelo mérito, no cumprimento da lei.",
+        "Pelo pagamento, no sangue de animais.",
+        "Pela decisão, sem nenhuma misericórdia."
+      ]
     },
     {
       "id": "TIT.3.name.1",
@@ -78,7 +113,12 @@
       "kind": "name",
       "prompt": "Quem Tito devia ajudar na viagem?",
       "answer": "Zenas, entendido na lei, e Apolo.",
-      "reference": "Tt 3:13"
+      "reference": "Tt 3:13",
+      "wrongs": [
+        "Timóteo, filho na fé, e Silas.",
+        "Tíquico, o mensageiro, e Onesíforo.",
+        "Epafras, de Colossos, e Arquipo."
+      ]
     },
     {
       "id": "TIT.3.place.1",
@@ -88,7 +128,12 @@
       "kind": "place",
       "prompt": "Onde Paulo decidiu passar o inverno?",
       "answer": "Em Nicópolis.",
-      "reference": "Tt 3:12"
+      "reference": "Tt 3:12",
+      "wrongs": [
+        "Em Corinto.",
+        "Em Creta.",
+        "Em Éfeso."
+      ]
     },
     {
       "id": "TIT.3.curiosity.1",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "Depois de quantas advertências se rejeita o rebelde?",
       "answer": "Depois de duas.",
-      "reference": "Tt 3:10"
+      "reference": "Tt 3:10",
+      "wrongs": [
+        "Depois de uma.",
+        "Depois de sete.",
+        "Depois de doze."
+      ]
     },
     {
       "id": "TIT.0.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Tito?",
       "answer": "Paulo.",
-      "reference": "Tito"
+      "reference": "Tito",
+      "wrongs": [
+        "Tito.",
+        "Lucas.",
+        "Pedro."
+      ]
     },
     {
       "id": "TIT.0.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Tito?",
       "answer": "Por volta do ano 63.",
-      "reference": "Tito"
+      "reference": "Tito",
+      "wrongs": [
+        "Por volta do ano 51.",
+        "Por volta do ano 57.",
+        "Por volta do ano 70."
+      ]
     },
     {
       "id": "TIT.0.curiosity.3",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu Tito?",
       "answer": "Para Tito, seu filho na fé.",
-      "reference": "Tt 1:4"
+      "reference": "Tt 1:4",
+      "wrongs": [
+        "Para Timóteo, seu filho na fé.",
+        "Para Filemom, cooperador de Paulo.",
+        "Para a igreja que estava em Creta."
+      ]
     }
   ]
 }

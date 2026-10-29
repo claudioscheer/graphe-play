@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que Paulo diz de quem anunciar outro evangelho?",
       "answer": "Que fique maldito, ainda que seja um anjo do céu.",
-      "reference": "Gl 1:8"
+      "reference": "Gl 1:8",
+      "wrongs": [
+        "Que seja ouvido, se for um anjo do céu.",
+        "Que corrija Paulo, se trouxer outra mensagem.",
+        "Que fique livre, porque todo evangelho salva."
+      ]
     },
     {
       "id": "GAL.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem Paulo foi visitar em Jerusalém depois de três anos?",
       "answer": "Pedro.",
-      "reference": "Gl 1:18"
+      "reference": "Gl 1:18",
+      "wrongs": [
+        "Tiago.",
+        "João.",
+        "Barnabé."
+      ]
     },
     {
       "id": "GAL.1.name.2",
@@ -28,7 +38,12 @@
       "kind": "name",
       "prompt": "Que outro apóstolo Paulo viu ao visitar Pedro em Jerusalém?",
       "answer": "Somente Tiago, irmão de Jesus.",
-      "reference": "Gl 1:19"
+      "reference": "Gl 1:19",
+      "wrongs": [
+        "Somente João, o discípulo amado.",
+        "Todos os doze, reunidos.",
+        "Nenhum outro apóstolo."
+      ]
     },
     {
       "id": "GAL.1.place.1",
@@ -38,7 +53,12 @@
       "kind": "place",
       "prompt": "Para onde Paulo foi em vez de subir logo a Jerusalém?",
       "answer": "Para a Arábia, e depois voltou a Damasco.",
-      "reference": "Gl 1:17"
+      "reference": "Gl 1:17",
+      "wrongs": [
+        "Para Jerusalém, e depois ficou com os doze.",
+        "Para Antioquia, e depois subiu a Cesareia.",
+        "Para Tarso, e não voltou a Damasco."
+      ]
     },
     {
       "id": "GAL.1.curiosity.1",
@@ -48,7 +68,12 @@
       "kind": "curiosity",
       "prompt": "Quantos dias Paulo ficou com Pedro?",
       "answer": "Quinze dias.",
-      "reference": "Gl 1:18"
+      "reference": "Gl 1:18",
+      "wrongs": [
+        "Três dias.",
+        "Quarenta dias.",
+        "Três anos."
+      ]
     },
     {
       "id": "GAL.2.subject.1",
@@ -58,7 +83,12 @@
       "kind": "subject",
       "prompt": "De que modo a pessoa fica justa diante de Deus?",
       "answer": "Pela fé em Jesus Cristo, e não por cumprir a lei.",
-      "reference": "Gl 2:16"
+      "reference": "Gl 2:16",
+      "wrongs": [
+        "Pelas obras da lei, somadas à fé.",
+        "Pela circuncisão, como sinal que torna justo.",
+        "Pelo esforço moral, sem precisar de Cristo."
+      ]
     },
     {
       "id": "GAL.2.name.1",
@@ -68,7 +98,12 @@
       "kind": "name",
       "prompt": "Quem, sendo grego, não foi obrigado a se circuncidar?",
       "answer": "Tito, que estava com Paulo.",
-      "reference": "Gl 2:3"
+      "reference": "Gl 2:3",
+      "wrongs": [
+        "Timóteo, que Paulo circuncidou.",
+        "Barnabé, companheiro hebreu.",
+        "Silas, profeta de Jerusalém."
+      ]
     },
     {
       "id": "GAL.2.place.1",
@@ -78,7 +113,12 @@
       "kind": "place",
       "prompt": "Onde Paulo enfrentou Pedro face a face?",
       "answer": "Em Antioquia.",
-      "reference": "Gl 2:11"
+      "reference": "Gl 2:11",
+      "wrongs": [
+        "Em Jerusalém.",
+        "Em Damasco.",
+        "Em Corinto."
+      ]
     },
     {
       "id": "GAL.2.curiosity.1",
@@ -88,7 +128,12 @@
       "kind": "curiosity",
       "prompt": "Depois de quanto tempo Paulo subiu outra vez a Jerusalém?",
       "answer": "Depois de catorze anos.",
-      "reference": "Gl 2:1"
+      "reference": "Gl 2:1",
+      "wrongs": [
+        "Depois de três anos.",
+        "Depois de sete anos.",
+        "Depois de quarenta dias."
+      ]
     },
     {
       "id": "GAL.2.curiosity.2",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "O que Tiago, Cefas e João estenderam a Paulo e Barnabé?",
       "answer": "A mão direita, em sinal de parceria.",
-      "reference": "Gl 2:9"
+      "reference": "Gl 2:9",
+      "wrongs": [
+        "Uma carta, impondo a circuncisão.",
+        "O manto, como sinal de autoridade.",
+        "Uma oferta, para calar os gentios."
+      ]
     },
     {
       "id": "GAL.3.subject.1",
@@ -108,7 +158,12 @@
       "kind": "subject",
       "prompt": "Como alguém se torna filho de Deus?",
       "answer": "Pela fé em Cristo Jesus.",
-      "reference": "Gl 3:26"
+      "reference": "Gl 3:26",
+      "wrongs": [
+        "Pela lei de Moisés.",
+        "Pelo sangue de família.",
+        "Pelo rito do templo."
+      ]
     },
     {
       "id": "GAL.3.name.1",
@@ -118,7 +173,12 @@
       "kind": "name",
       "prompt": "Quem creu em Deus e isso lhe foi contado como justiça?",
       "answer": "Abraão.",
-      "reference": "Gl 3:6"
+      "reference": "Gl 3:6",
+      "wrongs": [
+        "Davi.",
+        "Moisés.",
+        "Jacó."
+      ]
     },
     {
       "id": "GAL.3.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo depois da promessa a lei foi dada, em Gálatas?",
       "answer": "Quatrocentos e trinta anos, e ela não anulou a promessa.",
-      "reference": "Gl 3:17"
+      "reference": "Gl 3:17",
+      "wrongs": [
+        "Quarenta anos, e ela substituiu a promessa.",
+        "Sete anos, e ela cancelou a promessa.",
+        "Mil anos, e ela ficou acima da promessa."
+      ]
     },
     {
       "id": "GAL.3.curiosity.2",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "Como Cristo nos livrou da maldição da lei?",
       "answer": "Tornando-se maldição, pendurado num madeiro.",
-      "reference": "Gl 3:13"
+      "reference": "Gl 3:13",
+      "wrongs": [
+        "Cumprindo a lei no lugar do povo, sem a cruz.",
+        "Apagando a lei, para ninguém mais ser culpado.",
+        "Oferecendo um cordeiro, como na páscoa antiga."
+      ]
     },
     {
       "id": "GAL.4.subject.1",
@@ -148,7 +218,12 @@
       "kind": "subject",
       "prompt": "Para que Deus enviou o Filho nascido de mulher?",
       "answer": "Para libertar quem vivia sob a lei e nos adotar como filhos.",
-      "reference": "Gl 4:5"
+      "reference": "Gl 4:5",
+      "wrongs": [
+        "Para entregar uma lei nova, mais pesada que a antiga.",
+        "Para fundar um reino terreno em Jerusalém.",
+        "Para escolher só Israel e deixar os outros de fora."
+      ]
     },
     {
       "id": "GAL.4.name.1",
@@ -158,7 +233,12 @@
       "kind": "name",
       "prompt": "A quem Paulo compara os que creem?",
       "answer": "A Isaque, filho da promessa.",
-      "reference": "Gl 4:28"
+      "reference": "Gl 4:28",
+      "wrongs": [
+        "A Ismael, filho da escrava.",
+        "A Esaú, o filho mais velho.",
+        "A Jacó, neto que lutou com o anjo."
+      ]
     },
     {
       "id": "GAL.4.place.1",
@@ -168,7 +248,12 @@
       "kind": "place",
       "prompt": "A que lugar Paulo compara Agar?",
       "answer": "Ao monte Sinai, na Arábia, e à Jerusalém atual.",
-      "reference": "Gl 4:25"
+      "reference": "Gl 4:25",
+      "wrongs": [
+        "Ao monte Sião, e à Jerusalém de cima.",
+        "Ao monte Carmelo, e à cidade de Samaria.",
+        "Ao rio Jordão, e à cidade de Damasco."
+      ]
     },
     {
       "id": "GAL.4.curiosity.1",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "O que o Espírito do Filho clama no coração?",
       "answer": "Aba, Pai.",
-      "reference": "Gl 4:6"
+      "reference": "Gl 4:6",
+      "wrongs": [
+        "Senhor, Rei.",
+        "Santo, Santo.",
+        "Cordeiro de Deus."
+      ]
     },
     {
       "id": "GAL.4.curiosity.2",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "O que os gálatas teriam dado a Paulo, se pudessem?",
       "answer": "Os próprios olhos.",
-      "reference": "Gl 4:15"
+      "reference": "Gl 4:15",
+      "wrongs": [
+        "A própria casa.",
+        "Todo o ouro.",
+        "Os filhos primogênitos."
+      ]
     },
     {
       "id": "GAL.5.subject.1",
@@ -198,7 +293,12 @@
       "kind": "subject",
       "prompt": "O que fazer com a liberdade que Cristo deu?",
       "answer": "Ficar firme nela e não voltar à escravidão.",
-      "reference": "Gl 5:1"
+      "reference": "Gl 5:1",
+      "wrongs": [
+        "Trocar a liberdade pela circuncisão.",
+        "Usar a liberdade para viver na carne.",
+        "Entregar a liberdade aos mestres da lei."
+      ]
     },
     {
       "id": "GAL.5.curiosity.1",
@@ -208,7 +308,12 @@
       "kind": "curiosity",
       "prompt": "O que vale em Cristo Jesus, e não a circuncisão?",
       "answer": "A fé que age por meio do amor.",
-      "reference": "Gl 5:6"
+      "reference": "Gl 5:6",
+      "wrongs": [
+        "A circuncisão feita no oitavo dia.",
+        "O sábado guardado sem falhar.",
+        "O conhecimento das genealogias."
+      ]
     },
     {
       "id": "GAL.5.curiosity.2",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "Como Paulo manda andar, em vez de ceder à carne?",
       "answer": "No Espírito.",
-      "reference": "Gl 5:16"
+      "reference": "Gl 5:16",
+      "wrongs": [
+        "Na carne.",
+        "Na lei.",
+        "No medo."
+      ]
     },
     {
       "id": "GAL.5.curiosity.3",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "O que um pouco de fermento faz com a massa?",
       "answer": "Faz a massa inteira crescer.",
-      "reference": "Gl 5:9"
+      "reference": "Gl 5:9",
+      "wrongs": [
+        "Não muda o restante da massa.",
+        "Azeda só um canto da massa.",
+        "Seca a massa por completo."
+      ]
     },
     {
       "id": "GAL.6.subject.1",
@@ -238,7 +353,12 @@
       "kind": "subject",
       "prompt": "O que colhe quem semeia para o Espírito?",
       "answer": "A vida eterna.",
-      "reference": "Gl 6:8"
+      "reference": "Gl 6:8",
+      "wrongs": [
+        "Uma colheita de corrupção.",
+        "O louvor das pessoas.",
+        "Nada além desta vida."
+      ]
     },
     {
       "id": "GAL.6.curiosity.1",
@@ -248,7 +368,12 @@
       "kind": "curiosity",
       "prompt": "O que importa em Cristo, e não a circuncisão?",
       "answer": "Ser uma nova criatura.",
-      "reference": "Gl 6:15"
+      "reference": "Gl 6:15",
+      "wrongs": [
+        "Ser circuncidado no oitavo dia.",
+        "Guardar o calendário e os dias.",
+        "Pertencer à família de Abraão por sangue."
+      ]
     },
     {
       "id": "GAL.6.curiosity.2",
@@ -258,7 +383,12 @@
       "kind": "curiosity",
       "prompt": "Como Paulo escreveu o fim da carta aos gálatas?",
       "answer": "Com letras grandes, de próprio punho.",
-      "reference": "Gl 6:11"
+      "reference": "Gl 6:11",
+      "wrongs": [
+        "Com letra miúda, pela mão de um secretário.",
+        "Em grego formal, copiado por Timóteo.",
+        "Só de memória, sem nada escrito."
+      ]
     },
     {
       "id": "GAL.6.curiosity.3",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "O que Paulo diz que traz no corpo?",
       "answer": "As marcas de Jesus.",
-      "reference": "Gl 6:17"
+      "reference": "Gl 6:17",
+      "wrongs": [
+        "A circuncisão, como prova da lei.",
+        "Uma cicatriz de naufrágio.",
+        "O selo do governador romano."
+      ]
     },
     {
       "id": "GAL.0.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Gálatas?",
       "answer": "Paulo.",
-      "reference": "Gálatas"
+      "reference": "Gálatas",
+      "wrongs": [
+        "Pedro.",
+        "Tiago.",
+        "João."
+      ]
     },
     {
       "id": "GAL.0.curiosity.2",
@@ -288,7 +428,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Gálatas?",
       "answer": "Por volta do ano 49, ou pouco depois.",
-      "reference": "Gálatas"
+      "reference": "Gálatas",
+      "wrongs": [
+        "Por volta do ano 57, na viagem a Roma.",
+        "Por volta do ano 63, na prisão.",
+        "Por volta do ano 70, depois da queda."
+      ]
     },
     {
       "id": "GAL.0.curiosity.3",
@@ -298,7 +443,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu Gálatas?",
       "answer": "Para as igrejas da Galácia.",
-      "reference": "Gl 1:2"
+      "reference": "Gl 1:2",
+      "wrongs": [
+        "Para as igrejas da Macedônia.",
+        "Para as igrejas da Acaia.",
+        "Para a igreja de Roma."
+      ]
     }
   ]
 }

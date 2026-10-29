@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que Sofonias diz que está perto?",
       "answer": "O grande dia de Deus.",
-      "reference": "Sf 1:14"
+      "reference": "Sf 1:14",
+      "wrongs": [
+        "A festa da colheita.",
+        "A volta do exílio.",
+        "A coroação do rei."
+      ]
     },
     {
       "id": "ZEP.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem, filho de Cuxi, falou nos dias de Josias?",
       "answer": "Sofonias, filho de Cuxi.",
-      "reference": "Sf 1:1"
+      "reference": "Sf 1:1",
+      "wrongs": [
+        "Jeremias, filho de Hilquias.",
+        "Naum, filho de Elcós.",
+        "Habacuque, filho de Josias."
+      ]
     },
     {
       "id": "ZEP.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Contra quais lugares Deus estende a mão, em Sofonias?",
       "answer": "Contra Judá e Jerusalém.",
-      "reference": "Sf 1:4"
+      "reference": "Sf 1:4",
+      "wrongs": [
+        "Contra o Egito e Mênfis.",
+        "Contra Tiro e Sidom.",
+        "Contra Damasco e Hamate."
+      ]
     },
     {
       "id": "ZEP.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Com o que Deus vasculhará Jerusalém?",
       "answer": "Com lâmpadas.",
-      "reference": "Sf 1:12"
+      "reference": "Sf 1:12",
+      "wrongs": [
+        "Com espadas.",
+        "Com redes.",
+        "Com trombetas."
+      ]
     },
     {
       "id": "ZEP.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que Sofonias anuncia para Nínive?",
       "answer": "Ficará desolada e seca como um deserto.",
-      "reference": "Sf 2:13"
+      "reference": "Sf 2:13",
+      "wrongs": [
+        "Ficará rica e cheia como um mercado.",
+        "Será a capital eterna da Assíria.",
+        "Crescerá e tomará a terra de Judá."
+      ]
     },
     {
       "id": "ZEP.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "Quais quatro cidades Sofonias ameaça de ruína?",
       "answer": "Gaza, Asquelom, Asdode e Ecrom.",
-      "reference": "Sf 2:4"
+      "reference": "Sf 2:4",
+      "wrongs": [
+        "Tiro, Sidom, Gebal e Arvade.",
+        "Damasco, Hamate, Arpade e Zobá.",
+        "Nô, Mênfis, Zoã e Táfnes."
+      ]
     },
     {
       "id": "ZEP.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "A que cidades Moabe e Amom serão iguais?",
       "answer": "A Sodoma e a Gomorra.",
-      "reference": "Sf 2:9"
+      "reference": "Sf 2:9",
+      "wrongs": [
+        "A Tiro e a Sidom.",
+        "A Jericó e a Ai.",
+        "A Nínive e a Babilônia."
+      ]
     },
     {
       "id": "ZEP.3.subject.1",
@@ -78,7 +113,12 @@
       "kind": "subject",
       "prompt": "Quem está no meio de Sião como rei?",
       "answer": "Deus, o rei de Israel.",
-      "reference": "Sf 3:15"
+      "reference": "Sf 3:15",
+      "wrongs": [
+        "O rei da Assíria.",
+        "O governador persa.",
+        "O sumo sacerdote."
+      ]
     },
     {
       "id": "ZEP.3.place.1",
@@ -88,7 +128,12 @@
       "kind": "place",
       "prompt": "De onde virão adoradores com ofertas, em Sofonias?",
       "answer": "De além dos rios de Cuxe.",
-      "reference": "Sf 3:10"
+      "reference": "Sf 3:10",
+      "wrongs": [
+        "De além dos rios da Assíria.",
+        "Das ilhas do mar Grande.",
+        "Do deserto de Edom."
+      ]
     },
     {
       "id": "ZEP.3.curiosity.1",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus dará aos povos para que o sirvam unidos, em Sofonias?",
       "answer": "Uma fala limpa.",
-      "reference": "Sf 3:9"
+      "reference": "Sf 3:9",
+      "wrongs": [
+        "Uma espada só.",
+        "Um rei de fora.",
+        "Uma lei do Egito."
+      ]
     },
     {
       "id": "ZEP.3.curiosity.2",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Que povo Sofonias diz que vai restar?",
       "answer": "Um grupo humilde e pobre.",
-      "reference": "Sf 3:12"
+      "reference": "Sf 3:12",
+      "wrongs": [
+        "Um grupo rico e orgulhoso.",
+        "Os exércitos das nações.",
+        "Os reis antigos de Judá."
+      ]
     },
     {
       "id": "ZEP.0.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Sofonias?",
       "answer": "Sofonias.",
-      "reference": "Sofonias"
+      "reference": "Sofonias",
+      "wrongs": [
+        "Miquéias.",
+        "Zacarias.",
+        "Obadias."
+      ]
     },
     {
       "id": "ZEP.0.curiosity.2",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Sofonias?",
       "answer": "No reinado de Josias, no século VII antes de Cristo.",
-      "reference": "Sofonias"
+      "reference": "Sofonias",
+      "wrongs": [
+        "No reinado de Davi, no século X antes de Cristo.",
+        "No reinado de Ciro, no século VI antes de Cristo.",
+        "No século I depois de Cristo, fora de Judá."
+      ]
     }
   ]
 }

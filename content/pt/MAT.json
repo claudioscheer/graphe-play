@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Por que o filho de Maria se chamaria Jesus?",
       "answer": "Porque ele salvaria o povo dos pecados dele.",
-      "reference": "Mt 1:21"
+      "reference": "Mt 1:21",
+      "wrongs": [
+        "Porque ele reinaria em Jerusalém no lugar de Herodes.",
+        "Porque ele nasceria em Belém, cidade de Davi.",
+        "Porque ele seria o primogênito da casa de José."
+      ]
     },
     {
       "id": "MAT.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem era o marido de Maria, mãe de Jesus?",
       "answer": "José.",
-      "reference": "Mt 1:16"
+      "reference": "Mt 1:16",
+      "wrongs": [
+        "Zacarias.",
+        "Joaquim.",
+        "Eliú."
+      ]
     },
     {
       "id": "MAT.1.curiosity.1",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "Quantas gerações Mateus conta de Abraão até Davi?",
       "answer": "Catorze gerações.",
-      "reference": "Mt 1:17"
+      "reference": "Mt 1:17",
+      "wrongs": [
+        "Doze gerações.",
+        "Vinte gerações.",
+        "Sete gerações."
+      ]
     },
     {
       "id": "MAT.1.curiosity.2",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Que nome quer dizer Deus conosco, em Mateus?",
       "answer": "Emanuel.",
-      "reference": "Mt 1:23"
+      "reference": "Mt 1:23",
+      "wrongs": [
+        "Messias.",
+        "Adonai.",
+        "Jesus."
+      ]
     },
     {
       "id": "MAT.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que os magos fizeram ao achar o menino com Maria?",
       "answer": "Adoraram o menino e entregaram ouro, incenso e mirra.",
-      "reference": "Mt 2:11"
+      "reference": "Mt 2:11",
+      "wrongs": [
+        "Pediram ao menino que fosse com eles até Herodes.",
+        "Esconderam o menino e partiram sem deixar presente.",
+        "Ofereceram pão, vinho e um manto novo."
+      ]
     },
     {
       "id": "MAT.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem mandou matar os meninos de Belém?",
       "answer": "O rei Herodes.",
-      "reference": "Mt 2:16"
+      "reference": "Mt 2:16",
+      "wrongs": [
+        "Pôncio Pilatos.",
+        "Caifás.",
+        "O rei Acaz."
+      ]
     },
     {
       "id": "MAT.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Para onde José fugiu de noite com o menino e a mãe?",
       "answer": "Para o Egito.",
-      "reference": "Mt 2:14"
+      "reference": "Mt 2:14",
+      "wrongs": [
+        "Para Damasco.",
+        "Para Jericó.",
+        "Para o deserto da Judeia."
+      ]
     },
     {
       "id": "MAT.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Até que idade Herodes mandou matar os meninos?",
       "answer": "De dois anos para baixo.",
-      "reference": "Mt 2:16"
+      "reference": "Mt 2:16",
+      "wrongs": [
+        "De um ano para baixo.",
+        "De cinco anos para baixo.",
+        "Só os recém-nascidos."
+      ]
     },
     {
       "id": "MAT.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que desceu sobre Jesus depois do batismo?",
       "answer": "O Espírito de Deus, em forma de pomba.",
-      "reference": "Mt 3:16"
+      "reference": "Mt 3:16",
+      "wrongs": [
+        "Uma nuvem escura, com som de trovão.",
+        "Fogo, como línguas sobre a cabeça dele.",
+        "Um anjo, em forma de homem."
+      ]
     },
     {
       "id": "MAT.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem pregava no deserto da Judeia?",
       "answer": "João Batista.",
-      "reference": "Mt 3:1"
+      "reference": "Mt 3:1",
+      "wrongs": [
+        "Elias.",
+        "Isaías.",
+        "André."
+      ]
     },
     {
       "id": "MAT.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Onde João batizou Jesus, vindo da Galileia?",
       "answer": "No Jordão.",
-      "reference": "Mt 3:13"
+      "reference": "Mt 3:13",
+      "wrongs": [
+        "No mar da Galileia.",
+        "No tanque de Siloé.",
+        "No poço de Jacó."
+      ]
     },
     {
       "id": "MAT.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "De que era feita a roupa de João Batista?",
       "answer": "De pelos de camelo, com um cinto de couro.",
-      "reference": "Mt 3:4"
+      "reference": "Mt 3:4",
+      "wrongs": [
+        "De linho fino, com um cinto de ouro.",
+        "De lã de ovelha, com um cinto de pano.",
+        "De pele de cabra, sem cinto algum."
+      ]
     },
     {
       "id": "MAT.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Para que o Espírito levou Jesus ao deserto?",
       "answer": "Para que o diabo o tentasse.",
-      "reference": "Mt 4:1"
+      "reference": "Mt 4:1",
+      "wrongs": [
+        "Para que ele descansasse longe da multidão.",
+        "Para que João o batizasse outra vez.",
+        "Para que ele escolhesse os doze ali."
+      ]
     },
     {
       "id": "MAT.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Que pescadores Jesus chamou no mar da Galileia?",
       "answer": "Simão Pedro e André, irmão dele.",
-      "reference": "Mt 4:18"
+      "reference": "Mt 4:18",
+      "wrongs": [
+        "Filipe e Bartolomeu.",
+        "Mateus e Tomé, cobradores.",
+        "Zebedeu e o filho mais novo."
+      ]
     },
     {
       "id": "MAT.4.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "Onde Jesus foi morar depois de deixar Nazaré?",
       "answer": "Em Cafarnaum, cidade à beira do mar.",
-      "reference": "Mt 4:13"
+      "reference": "Mt 4:13",
+      "wrongs": [
+        "Em Jerusalém, junto ao templo.",
+        "Em Betsaida, na casa de André.",
+        "Em Jericó, cidade dos palmeirais."
+      ]
     },
     {
       "id": "MAT.4.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo Jesus jejuou no deserto?",
       "answer": "Quarenta dias e quarenta noites.",
-      "reference": "Mt 4:2"
+      "reference": "Mt 4:2",
+      "wrongs": [
+        "Sete dias e sete noites.",
+        "Três dias e três noites.",
+        "Vinte dias, sem as noites."
+      ]
     },
     {
       "id": "MAT.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "O que Jesus prometeu aos humildes de espírito?",
       "answer": "O Reino dos céus.",
-      "reference": "Mt 5:3"
+      "reference": "Mt 5:3",
+      "wrongs": [
+        "Uma terra nova em Israel.",
+        "Riqueza e saúde nesta vida.",
+        "O trono de Davi em Jerusalém."
+      ]
     },
     {
       "id": "MAT.5.place.1",
@@ -178,7 +263,12 @@
       "kind": "place",
       "prompt": "Onde Jesus sentou para ensinar os humildes de espírito?",
       "answer": "Num monte.",
-      "reference": "Mt 5:1"
+      "reference": "Mt 5:1",
+      "wrongs": [
+        "Num barco, junto à praia.",
+        "No pátio do templo.",
+        "Na sinagoga de Nazaré."
+      ]
     },
     {
       "id": "MAT.5.curiosity.1",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "A que Jesus comparou os discípulos, além do sal da terra?",
       "answer": "À luz do mundo.",
-      "reference": "Mt 5:14"
+      "reference": "Mt 5:14",
+      "wrongs": [
+        "Ao fermento na massa.",
+        "À porta estreita.",
+        "A um grão de mostarda."
+      ]
     },
     {
       "id": "MAT.5.curiosity.2",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus mandou fazer pelos inimigos?",
       "answer": "Amá-los e orar por quem os persegue.",
-      "reference": "Mt 5:44"
+      "reference": "Mt 5:44",
+      "wrongs": [
+        "Evitar o encontro e não lhes falar.",
+        "Pagar o mal com o mesmo mal.",
+        "Entregá-los aos juízes da cidade."
+      ]
     },
     {
       "id": "MAT.6.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "Como Jesus ensinou a começar a oração?",
       "answer": "Chamando a Deus de Pai nosso, que está nos céus.",
-      "reference": "Mt 6:9"
+      "reference": "Mt 6:9",
+      "wrongs": [
+        "Chamando a Deus de Rei, sentado no templo.",
+        "Pedindo primeiro o pão de cada dia.",
+        "Louvar o nome de Abraão, pai do povo."
+      ]
     },
     {
       "id": "MAT.6.name.1",
@@ -218,7 +323,12 @@
       "kind": "name",
       "prompt": "Quem Jesus disse que não se vestiu como os lírios?",
       "answer": "Salomão, nem na maior glória dele.",
-      "reference": "Mt 6:29"
+      "reference": "Mt 6:29",
+      "wrongs": [
+        "Davi, nem no dia em que foi ungido.",
+        "Elias, nem com o manto de profeta.",
+        "Herodes, nem no palácio real."
+      ]
     },
     {
       "id": "MAT.6.curiosity.1",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "A quem não se pode servir junto com Deus, em Mateus?",
       "answer": "Às riquezas.",
-      "reference": "Mt 6:24"
+      "reference": "Mt 6:24",
+      "wrongs": [
+        "À família.",
+        "Ao sábado.",
+        "Aos sacerdotes."
+      ]
     },
     {
       "id": "MAT.6.curiosity.2",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus mandou buscar antes de tudo?",
       "answer": "O Reino de Deus, junto com a justiça dele.",
-      "reference": "Mt 6:33"
+      "reference": "Mt 6:33",
+      "wrongs": [
+        "O pão de cada dia, antes de qualquer outra coisa.",
+        "A saúde do corpo e uma vida longa.",
+        "O favor dos reis e a paz da cidade."
+      ]
     },
     {
       "id": "MAT.7.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "Como Jesus resumiu a Lei e os Profetas, antes da porta estreita?",
       "answer": "Fazer aos outros o que se quer receber deles.",
-      "reference": "Mt 7:12"
+      "reference": "Mt 7:12",
+      "wrongs": [
+        "Amar a Deus acima de qualquer pessoa.",
+        "Oferecer sacrifícios toda manhã no templo.",
+        "Guardar o sábado sem carregar peso."
+      ]
     },
     {
       "id": "MAT.7.curiosity.1",
@@ -258,7 +383,12 @@
       "kind": "curiosity",
       "prompt": "Como Jesus descreveu a rota que conduz à vida?",
       "answer": "Apertada, e pouca gente a encontra.",
-      "reference": "Mt 7:14"
+      "reference": "Mt 7:14",
+      "wrongs": [
+        "Larga, e muita gente entra por ela.",
+        "Plana, e qualquer um a percorre.",
+        "Curta, e termina ainda nesta vida."
+      ]
     },
     {
       "id": "MAT.7.curiosity.2",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "Sobre o que o homem prudente firmou a casa, em Mateus?",
       "answer": "Sobre a rocha.",
-      "reference": "Mt 7:24"
+      "reference": "Mt 7:24",
+      "wrongs": [
+        "Sobre a areia.",
+        "Sobre o barro.",
+        "Sobre estacas de madeira."
+      ]
     },
     {
       "id": "MAT.8.subject.1",
@@ -278,7 +413,12 @@
       "kind": "subject",
       "prompt": "O que Jesus fez quando a tormenta cobria o barco?",
       "answer": "Repreendeu a ventania e o mar, e tudo se acalmou.",
-      "reference": "Mt 8:26"
+      "reference": "Mt 8:26",
+      "wrongs": [
+        "Pediu aos discípulos que remassem até a praia.",
+        "A tormenta cresceu, e o barco começou a afundar.",
+        "Lançaram sortes para achar um culpado a bordo."
+      ]
     },
     {
       "id": "MAT.8.name.1",
@@ -288,7 +428,12 @@
       "kind": "name",
       "prompt": "Quem pediu a cura do servo em Cafarnaum?",
       "answer": "Um centurião.",
-      "reference": "Mt 8:5"
+      "reference": "Mt 8:5",
+      "wrongs": [
+        "Um fariseu.",
+        "Jairo.",
+        "Um leproso."
+      ]
     },
     {
       "id": "MAT.8.place.1",
@@ -298,7 +443,12 @@
       "kind": "place",
       "prompt": "Onde dois endemoninhados saíram ao encontro de Jesus?",
       "answer": "Na terra dos gergesenos.",
-      "reference": "Mt 8:28"
+      "reference": "Mt 8:28",
+      "wrongs": [
+        "Na terra dos samaritanos.",
+        "Nos portões de Jericó.",
+        "Na praia de Tiro."
+      ]
     },
     {
       "id": "MAT.8.curiosity.1",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "Para onde se lançou a manada de porcos do precipício, em Mateus?",
       "answer": "Despenhou-se de um precipício no mar e morreu.",
-      "reference": "Mt 8:32"
+      "reference": "Mt 8:32",
+      "wrongs": [
+        "Correu para a cidade e se espalhou pelas ruas.",
+        "Desceu ao vale e parou no pasto.",
+        "Atravessou o rio e fugiu para o deserto."
+      ]
     },
     {
       "id": "MAT.9.subject.1",
@@ -318,7 +473,12 @@
       "kind": "subject",
       "prompt": "O que Jesus provou ao mandar o paralítico andar?",
       "answer": "Que tinha poder na terra para perdoar pecados.",
-      "reference": "Mt 9:6"
+      "reference": "Mt 9:6",
+      "wrongs": [
+        "Que podia curar sem tocar no doente.",
+        "Que era maior que o templo de Jerusalém.",
+        "Que os discípulos deviam jejuar com ele."
+      ]
     },
     {
       "id": "MAT.9.name.1",
@@ -328,7 +488,12 @@
       "kind": "name",
       "prompt": "Quem Jesus chamou na coletoria de impostos?",
       "answer": "Mateus, e ele se levantou e o seguiu.",
-      "reference": "Mt 9:9"
+      "reference": "Mt 9:9",
+      "wrongs": [
+        "Zaqueu, e ele desceu da figueira.",
+        "Bartolomeu, e ele largou as redes.",
+        "Simão, o zelote, e ele fechou a banca."
+      ]
     },
     {
       "id": "MAT.9.curiosity.1",
@@ -338,7 +503,12 @@
       "kind": "curiosity",
       "prompt": "Havia quanto tempo a mulher perdia sangue, em Mateus?",
       "answer": "Havia doze anos.",
-      "reference": "Mt 9:20"
+      "reference": "Mt 9:20",
+      "wrongs": [
+        "Havia sete anos.",
+        "Havia três anos.",
+        "Havia vinte anos."
+      ]
     },
     {
       "id": "MAT.9.curiosity.2",
@@ -348,7 +518,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus fez à menina dada como morta?",
       "answer": "Tomou-a pela mão, e ela se ergueu.",
-      "reference": "Mt 9:25"
+      "reference": "Mt 9:25",
+      "wrongs": [
+        "Mandou deixá-la descansar no leito.",
+        "Chorou com a família, e a menina ficou imóvel.",
+        "Pôs óleo na testa, e a febre passou."
+      ]
     },
     {
       "id": "MAT.10.subject.1",
@@ -358,7 +533,12 @@
       "kind": "subject",
       "prompt": "A quem Jesus enviou os doze primeiro?",
       "answer": "Às ovelhas perdidas de Israel.",
-      "reference": "Mt 10:6"
+      "reference": "Mt 10:6",
+      "wrongs": [
+        "Aos gentios das cidades costeiras.",
+        "Aos samaritanos de Sicar.",
+        "Aos sacerdotes de Jerusalém."
+      ]
     },
     {
       "id": "MAT.10.name.1",
@@ -368,7 +548,12 @@
       "kind": "name",
       "prompt": "Qual dos doze traiu Jesus?",
       "answer": "Judas Iscariotes.",
-      "reference": "Mt 10:4"
+      "reference": "Mt 10:4",
+      "wrongs": [
+        "Simão, o zelote.",
+        "Tomé.",
+        "Judas, filho de Tiago."
+      ]
     },
     {
       "id": "MAT.10.place.1",
@@ -378,7 +563,12 @@
       "kind": "place",
       "prompt": "Que caminho Jesus proibiu aos doze no início?",
       "answer": "O dos gentios e as cidades dos samaritanos.",
-      "reference": "Mt 10:5"
+      "reference": "Mt 10:5",
+      "wrongs": [
+        "O de Jerusalém e as cidades da Judeia.",
+        "O caminho do mar da Galileia.",
+        "As aldeias da Galileia."
+      ]
     },
     {
       "id": "MAT.10.curiosity.1",
@@ -388,7 +578,12 @@
       "kind": "curiosity",
       "prompt": "Por quanto Jesus disse que se vendem dois pardais?",
       "answer": "Por uma moeda pequena.",
-      "reference": "Mt 10:29"
+      "reference": "Mt 10:29",
+      "wrongs": [
+        "Por duas moedas de prata.",
+        "Por um denário inteiro.",
+        "Por cinco moedas de ouro."
+      ]
     },
     {
       "id": "MAT.11.subject.1",
@@ -398,7 +593,12 @@
       "kind": "subject",
       "prompt": "A quem Jesus prometeu descanso?",
       "answer": "Aos cansados e aos que carregam peso demais.",
-      "reference": "Mt 11:28"
+      "reference": "Mt 11:28",
+      "wrongs": [
+        "Aos ricos que já tinham cumprido a Lei.",
+        "Aos sacerdotes que serviam no templo.",
+        "Só aos doze que andavam com ele."
+      ]
     },
     {
       "id": "MAT.11.name.1",
@@ -408,7 +608,12 @@
       "kind": "name",
       "prompt": "Quem, da prisão, mandou perguntar se Jesus era o esperado?",
       "answer": "João.",
-      "reference": "Mt 11:2"
+      "reference": "Mt 11:2",
+      "wrongs": [
+        "Pedro.",
+        "André.",
+        "Nicodemos."
+      ]
     },
     {
       "id": "MAT.11.place.1",
@@ -418,7 +623,12 @@
       "kind": "place",
       "prompt": "Que cidades Jesus censurou comparando-as a Tiro e Sidom?",
       "answer": "Corazim e Betsaida.",
-      "reference": "Mt 11:21"
+      "reference": "Mt 11:21",
+      "wrongs": [
+        "Nazaré e Caná.",
+        "Jericó e Betânia.",
+        "Damasco e Antioquia."
+      ]
     },
     {
       "id": "MAT.11.curiosity.1",
@@ -428,7 +638,12 @@
       "kind": "curiosity",
       "prompt": "Como Jesus descreveu o jugo e a carga dele?",
       "answer": "O jugo é suave, e a carga é leve.",
-      "reference": "Mt 11:30"
+      "reference": "Mt 11:30",
+      "wrongs": [
+        "O jugo é pesado, e a carga é dura.",
+        "O jugo é de ferro, e a carga não se move.",
+        "O jugo é curto, e a carga fica pela metade."
+      ]
     },
     {
       "id": "MAT.12.subject.1",
@@ -438,7 +653,12 @@
       "kind": "subject",
       "prompt": "O que houve quando o homem estendeu a mão atrofiada, em Mateus?",
       "answer": "A mão foi restaurada e ficou sã.",
-      "reference": "Mt 12:13"
+      "reference": "Mt 12:13",
+      "wrongs": [
+        "A mão continuou atrofiada como antes.",
+        "A mão inchou e doeu ainda mais.",
+        "A mão secou, e ele não pôde movê-la."
+      ]
     },
     {
       "id": "MAT.12.name.1",
@@ -448,7 +668,12 @@
       "kind": "name",
       "prompt": "Por quem os fariseus diziam que Jesus expulsava demônios?",
       "answer": "Por Belzebu, o chefe deles.",
-      "reference": "Mt 12:24"
+      "reference": "Mt 12:24",
+      "wrongs": [
+        "Pelo Espírito de Deus.",
+        "Por Moisés, com a vara do Egito.",
+        "Por Elias, o profeta."
+      ]
     },
     {
       "id": "MAT.12.curiosity.1",
@@ -458,7 +683,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo Jesus disse que ficaria sob a terra?",
       "answer": "Três dias e três noites, como Jonas.",
-      "reference": "Mt 12:40"
+      "reference": "Mt 12:40",
+      "wrongs": [
+        "Um dia e uma noite, como Elias.",
+        "Sete dias, como o luto de José.",
+        "Quarenta dias, como o jejum no deserto."
+      ]
     },
     {
       "id": "MAT.13.subject.1",
@@ -468,7 +698,12 @@
       "kind": "subject",
       "prompt": "Que parábola Jesus contou de quem saiu a lançar semente?",
       "answer": "A do semeador.",
-      "reference": "Mt 13:3"
+      "reference": "Mt 13:3",
+      "wrongs": [
+        "A do filho perdido.",
+        "A das dez virgens.",
+        "A do bom samaritano."
+      ]
     },
     {
       "id": "MAT.13.name.1",
@@ -478,7 +713,12 @@
       "kind": "name",
       "prompt": "Quem os vizinhos diziam ser a mãe de Jesus?",
       "answer": "Maria.",
-      "reference": "Mt 13:55"
+      "reference": "Mt 13:55",
+      "wrongs": [
+        "Isabel.",
+        "Ana.",
+        "Marta."
+      ]
     },
     {
       "id": "MAT.13.place.1",
@@ -488,7 +728,12 @@
       "kind": "place",
       "prompt": "Onde Jesus se sentou ao sair de casa, no dia das parábolas?",
       "answer": "Junto ao mar.",
-      "reference": "Mt 13:1"
+      "reference": "Mt 13:1",
+      "wrongs": [
+        "No alto do monte.",
+        "Dentro da sinagoga.",
+        "No pátio do templo."
+      ]
     },
     {
       "id": "MAT.13.curiosity.1",
@@ -498,7 +743,12 @@
       "kind": "curiosity",
       "prompt": "A que semente Jesus comparou o Reino dos céus?",
       "answer": "A um grão de mostarda.",
-      "reference": "Mt 13:31"
+      "reference": "Mt 13:31",
+      "wrongs": [
+        "A um grão de trigo.",
+        "A uma semente de figueira.",
+        "A um caroço de azeitona."
+      ]
     },
     {
       "id": "MAT.14.subject.1",
@@ -508,7 +758,12 @@
       "kind": "subject",
       "prompt": "O que Jesus fez com cinco pães e dois peixes?",
       "answer": "Abençoou, partiu e deu aos discípulos para a multidão.",
-      "reference": "Mt 14:19"
+      "reference": "Mt 14:19",
+      "wrongs": [
+        "Guardou os pães para a viagem do dia seguinte.",
+        "Mandou a multidão comprar comida nas aldeias.",
+        "Devolveu os pães e serviu só os peixes."
+      ]
     },
     {
       "id": "MAT.14.name.1",
@@ -518,7 +773,12 @@
       "kind": "name",
       "prompt": "Por causa de quem Herodes prendeu João Batista?",
       "answer": "Por causa de Herodias, mulher de Filipe.",
-      "reference": "Mt 14:3"
+      "reference": "Mt 14:3",
+      "wrongs": [
+        "Por causa de Salomé, filha do rei.",
+        "Por causa da mulher de Pilatos.",
+        "Por causa de Isabel, mãe de João."
+      ]
     },
     {
       "id": "MAT.14.place.1",
@@ -528,7 +788,12 @@
       "kind": "place",
       "prompt": "A que terra Jesus chegou depois que Pedro andou sobre as águas?",
       "answer": "À terra de Genesaré.",
-      "reference": "Mt 14:34"
+      "reference": "Mt 14:34",
+      "wrongs": [
+        "À terra de Gileade.",
+        "Ao porto de Jope.",
+        "Às praias de Tiro."
+      ]
     },
     {
       "id": "MAT.14.curiosity.1",
@@ -538,7 +803,12 @@
       "kind": "curiosity",
       "prompt": "Fora mulheres e crianças, quase quantos homens comeram dos cinco pães, em Mateus?",
       "answer": "Cinco mil.",
-      "reference": "Mt 14:21"
+      "reference": "Mt 14:21",
+      "wrongs": [
+        "Quatro mil.",
+        "Doze mil.",
+        "Sete mil."
+      ]
     },
     {
       "id": "MAT.15.subject.1",
@@ -548,7 +818,12 @@
       "kind": "subject",
       "prompt": "O que a fé da mulher cananeia conseguiu, em Mateus?",
       "answer": "A filha dela ficou curada naquela hora.",
-      "reference": "Mt 15:28"
+      "reference": "Mt 15:28",
+      "wrongs": [
+        "A filha ficou doente por mais sete dias.",
+        "A própria mulher foi curada da febre.",
+        "Jesus recusou o pedido e seguiu viagem."
+      ]
     },
     {
       "id": "MAT.15.place.1",
@@ -558,7 +833,12 @@
       "kind": "place",
       "prompt": "Para os lados de que cidades Jesus se retirou?",
       "answer": "De Tiro e de Sidom.",
-      "reference": "Mt 15:21"
+      "reference": "Mt 15:21",
+      "wrongs": [
+        "De Corazim e de Betsaida.",
+        "De Sodoma e de Gomorra.",
+        "De Damasco e de Antioquia."
+      ]
     },
     {
       "id": "MAT.15.curiosity.1",
@@ -568,7 +848,12 @@
       "kind": "curiosity",
       "prompt": "Quantos pães havia para a multidão que já estava três dias com Jesus?",
       "answer": "Sete, e mais uns poucos peixes.",
-      "reference": "Mt 15:34"
+      "reference": "Mt 15:34",
+      "wrongs": [
+        "Cinco, e mais dois peixes.",
+        "Doze, sem peixe algum.",
+        "Três, e um cesto de pão."
+      ]
     },
     {
       "id": "MAT.15.curiosity.2",
@@ -578,7 +863,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens comeram dos sete pães, sem mulheres e crianças, em Mateus?",
       "answer": "Quatro mil.",
-      "reference": "Mt 15:38"
+      "reference": "Mt 15:38",
+      "wrongs": [
+        "Cinco mil.",
+        "Dois mil.",
+        "Dez mil."
+      ]
     },
     {
       "id": "MAT.16.subject.1",
@@ -588,7 +878,12 @@
       "kind": "subject",
       "prompt": "Quem Simão Pedro disse que Jesus era?",
       "answer": "O Cristo e o Filho do Deus vivo.",
-      "reference": "Mt 16:16"
+      "reference": "Mt 16:16",
+      "wrongs": [
+        "Um profeta, igual a Elias.",
+        "João Batista, voltado dos mortos.",
+        "Só um mestre vindo de Nazaré."
+      ]
     },
     {
       "id": "MAT.16.name.1",
@@ -598,7 +893,12 @@
       "kind": "name",
       "prompt": "De quem Jesus disse que Simão era filho?",
       "answer": "De Jonas.",
-      "reference": "Mt 16:17"
+      "reference": "Mt 16:17",
+      "wrongs": [
+        "De Zebedeu.",
+        "De Alfeu.",
+        "De José."
+      ]
     },
     {
       "id": "MAT.16.place.1",
@@ -608,7 +908,12 @@
       "kind": "place",
       "prompt": "Onde Jesus perguntou quem o povo dizia que ele era?",
       "answer": "Nas partes da Cesareia de Filipe.",
-      "reference": "Mt 16:13"
+      "reference": "Mt 16:13",
+      "wrongs": [
+        "Nas portas de Jerusalém.",
+        "No monte das Oliveiras.",
+        "À beira do mar da Galileia."
+      ]
     },
     {
       "id": "MAT.16.curiosity.1",
@@ -618,7 +923,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus disse que daria a Pedro?",
       "answer": "As chaves do Reino celestial.",
-      "reference": "Mt 16:19"
+      "reference": "Mt 16:19",
+      "wrongs": [
+        "Um trono à direita dele.",
+        "A espada para guardar o templo.",
+        "O manto do sumo sacerdote."
+      ]
     },
     {
       "id": "MAT.17.subject.1",
@@ -628,7 +938,12 @@
       "kind": "subject",
       "prompt": "Como Jesus apareceu ao se transfigurar?",
       "answer": "O rosto brilhou feito o sol, e a roupa ficou branca.",
-      "reference": "Mt 17:2"
+      "reference": "Mt 17:2",
+      "wrongs": [
+        "O corpo ficou em sombra, e a roupa escureceu.",
+        "Surgiram chagas nas mãos, e a roupa rasgou.",
+        "O rosto se cobriu de nuvem, e a voz sumiu."
+      ]
     },
     {
       "id": "MAT.17.name.1",
@@ -638,7 +953,12 @@
       "kind": "name",
       "prompt": "Quem apareceu conversando com Jesus no monte?",
       "answer": "Moisés e Elias.",
-      "reference": "Mt 17:3"
+      "reference": "Mt 17:3",
+      "wrongs": [
+        "Abraão e Davi.",
+        "Isaías e Jeremias.",
+        "Enoque e Daniel."
+      ]
     },
     {
       "id": "MAT.17.place.1",
@@ -648,7 +968,12 @@
       "kind": "place",
       "prompt": "Aonde Jesus levou Pedro, Tiago e João na transfiguração?",
       "answer": "A um monte alto, a sós.",
-      "reference": "Mt 17:1"
+      "reference": "Mt 17:1",
+      "wrongs": [
+        "Ao templo, na hora da oração.",
+        "Ao deserto, junto do Jordão.",
+        "A um barco, no meio do mar."
+      ]
     },
     {
       "id": "MAT.17.curiosity.1",
@@ -658,7 +983,12 @@
       "kind": "curiosity",
       "prompt": "O que Pedro acharia na boca do primeiro peixe?",
       "answer": "Uma moeda de quatro dracmas.",
-      "reference": "Mt 17:27"
+      "reference": "Mt 17:27",
+      "wrongs": [
+        "Uma pérola de grande valor.",
+        "Um anel de ouro.",
+        "Duas moedas pequenas."
+      ]
     },
     {
       "id": "MAT.18.subject.1",
@@ -668,7 +998,12 @@
       "kind": "subject",
       "prompt": "Até quantas vezes Jesus mandou Pedro perdoar?",
       "answer": "Até setenta vezes sete.",
-      "reference": "Mt 18:22"
+      "reference": "Mt 18:22",
+      "wrongs": [
+        "Até sete vezes.",
+        "Até três vezes.",
+        "Só uma vez."
+      ]
     },
     {
       "id": "MAT.18.curiosity.1",
@@ -678,7 +1013,12 @@
       "kind": "curiosity",
       "prompt": "Quantas ovelhas ficam enquanto uma é procurada, em Mateus?",
       "answer": "Noventa e nove.",
-      "reference": "Mt 18:12"
+      "reference": "Mt 18:12",
+      "wrongs": [
+        "Cem.",
+        "Doze.",
+        "Sete."
+      ]
     },
     {
       "id": "MAT.18.curiosity.2",
@@ -688,7 +1028,12 @@
       "kind": "curiosity",
       "prompt": "Quanto o servo devia ao rei na parábola, em Mateus?",
       "answer": "Dez mil talentos.",
-      "reference": "Mt 18:24"
+      "reference": "Mt 18:24",
+      "wrongs": [
+        "Cem denários.",
+        "Trinta moedas de prata.",
+        "Um talento só."
+      ]
     },
     {
       "id": "MAT.19.subject.1",
@@ -698,7 +1043,12 @@
       "kind": "subject",
       "prompt": "Por que o rapaz foi embora triste de Jesus?",
       "answer": "Porque tinha muitos bens.",
-      "reference": "Mt 19:22"
+      "reference": "Mt 19:22",
+      "wrongs": [
+        "Porque não queria deixar o pai idoso.",
+        "Porque os discípulos zombaram dele.",
+        "Porque Jesus recusou o cumprimento da Lei."
+      ]
     },
     {
       "id": "MAT.19.name.1",
@@ -708,7 +1058,12 @@
       "kind": "name",
       "prompt": "Quem os fariseus disseram que permitiu o divórcio, em Mateus?",
       "answer": "Moisés.",
-      "reference": "Mt 19:7"
+      "reference": "Mt 19:7",
+      "wrongs": [
+        "Davi.",
+        "Abraão.",
+        "Elias."
+      ]
     },
     {
       "id": "MAT.19.place.1",
@@ -718,7 +1073,12 @@
       "kind": "place",
       "prompt": "Para onde Jesus foi ao sair da Galileia, antes do jovem rico?",
       "answer": "Para a Judeia, além do Jordão.",
-      "reference": "Mt 19:1"
+      "reference": "Mt 19:1",
+      "wrongs": [
+        "Para a Samaria, rumo a Sicar.",
+        "Para o Egito, pela estrada do mar.",
+        "Para a Fenícia, perto de Tiro."
+      ]
     },
     {
       "id": "MAT.19.curiosity.1",
@@ -728,7 +1088,12 @@
       "kind": "curiosity",
       "prompt": "O que passa mais fácil que um rico no Reino de Deus?",
       "answer": "Um camelo, pelo buraco de uma agulha.",
-      "reference": "Mt 19:24"
+      "reference": "Mt 19:24",
+      "wrongs": [
+        "Um cavalo, pela porta estreita.",
+        "Um fio, pelo fundo de uma agulha.",
+        "Uma ovelha, pelo portão do curral."
+      ]
     },
     {
       "id": "MAT.20.subject.1",
@@ -738,7 +1103,12 @@
       "kind": "subject",
       "prompt": "O que Jesus disse dos últimos e dos primeiros?",
       "answer": "Os de trás ficam na frente, e os da frente, atrás.",
-      "reference": "Mt 20:16"
+      "reference": "Mt 20:16",
+      "wrongs": [
+        "Os de trás continuam atrás, e os da frente, na frente.",
+        "Os primeiros recebem o dobro, e os últimos, nada.",
+        "Todos ficam no mesmo lugar, sem mudança."
+      ]
     },
     {
       "id": "MAT.20.name.1",
@@ -748,7 +1118,12 @@
       "kind": "name",
       "prompt": "Quem pediu tronos para os filhos de Zebedeu?",
       "answer": "A mãe deles.",
-      "reference": "Mt 20:20"
+      "reference": "Mt 20:20",
+      "wrongs": [
+        "O pai deles, Zebedeu.",
+        "Pedro, em nome dos dois.",
+        "João, o mais novo dos dois."
+      ]
     },
     {
       "id": "MAT.20.place.1",
@@ -758,7 +1133,12 @@
       "kind": "place",
       "prompt": "De que cidade Jesus saía quando dois cegos clamaram?",
       "answer": "De Jericó.",
-      "reference": "Mt 20:29"
+      "reference": "Mt 20:29",
+      "wrongs": [
+        "De Nazaré.",
+        "De Cafarnaum.",
+        "De Betânia."
+      ]
     },
     {
       "id": "MAT.20.curiosity.1",
@@ -768,7 +1148,12 @@
       "kind": "curiosity",
       "prompt": "Que pagamento diário foi combinado na vinha, em Mateus?",
       "answer": "Um denário.",
-      "reference": "Mt 20:2"
+      "reference": "Mt 20:2",
+      "wrongs": [
+        "Um talento.",
+        "Duas moedas.",
+        "Meio siclo."
+      ]
     },
     {
       "id": "MAT.21.subject.1",
@@ -778,7 +1163,12 @@
       "kind": "subject",
       "prompt": "O que a multidão clamava a Jesus no caminho?",
       "answer": "Aclamava o Filho de Davi, que vinha da parte de Deus.",
-      "reference": "Mt 21:9"
+      "reference": "Mt 21:9",
+      "wrongs": [
+        "Pedia que ele descesse do jumentinho.",
+        "Gritava que ele era enviado de Roma.",
+        "Clamava só por pão naquela hora."
+      ]
     },
     {
       "id": "MAT.21.place.1",
@@ -788,7 +1178,12 @@
       "kind": "place",
       "prompt": "Perto de que monte fica Betfagé, antes de Jerusalém?",
       "answer": "Do monte das Oliveiras.",
-      "reference": "Mt 21:1"
+      "reference": "Mt 21:1",
+      "wrongs": [
+        "Do monte Sião.",
+        "Do monte Carmelo.",
+        "Do monte Gerizim."
+      ]
     },
     {
       "id": "MAT.21.curiosity.1",
@@ -798,7 +1193,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus derrubou no Templo?",
       "answer": "As mesas de quem trocava dinheiro e os bancos das pombas.",
-      "reference": "Mt 21:12"
+      "reference": "Mt 21:12",
+      "wrongs": [
+        "O véu que fechava o lugar santo.",
+        "As colunas do pátio dos gentios.",
+        "O altar dos sacrifícios da manhã."
+      ]
     },
     {
       "id": "MAT.21.curiosity.2",
@@ -808,7 +1208,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu à figueira que só tinha folhas, em Mateus?",
       "answer": "Secou na mesma hora.",
-      "reference": "Mt 21:19"
+      "reference": "Mt 21:19",
+      "wrongs": [
+        "Floresceu e deu fruto na hora.",
+        "Ficou verde até o outro dia.",
+        "Foi cortada pelos discípulos."
+      ]
     },
     {
       "id": "MAT.22.subject.1",
@@ -818,7 +1223,12 @@
       "kind": "subject",
       "prompt": "Como Jesus disse para amar a Deus?",
       "answer": "Com o coração, a alma e o entendimento por inteiro.",
-      "reference": "Mt 22:37"
+      "reference": "Mt 22:37",
+      "wrongs": [
+        "Com ofertas, jejum e oração no templo.",
+        "Com medo, silêncio e distância.",
+        "Só de boca, sem envolver a vida."
+      ]
     },
     {
       "id": "MAT.22.name.1",
@@ -828,7 +1238,12 @@
       "kind": "name",
       "prompt": "De quem era a imagem na moeda do tributo, em Mateus?",
       "answer": "De César.",
-      "reference": "Mt 22:21"
+      "reference": "Mt 22:21",
+      "wrongs": [
+        "De Herodes.",
+        "De Davi.",
+        "De Pilatos."
+      ]
     },
     {
       "id": "MAT.22.curiosity.1",
@@ -838,7 +1253,12 @@
       "kind": "curiosity",
       "prompt": "Quem encheu a festa depois que os convidados recusaram, em Mateus?",
       "answer": "Gente achada pelos caminhos, maus e bons.",
-      "reference": "Mt 22:10"
+      "reference": "Mt 22:10",
+      "wrongs": [
+        "Só os parentes do rei, já vestidos de festa.",
+        "Os sacerdotes que serviam naquela semana.",
+        "Ninguém. A sala ficou vazia."
+      ]
     },
     {
       "id": "MAT.22.curiosity.2",
@@ -848,7 +1268,12 @@
       "kind": "curiosity",
       "prompt": "Como serão as pessoas na ressurreição, em Mateus?",
       "answer": "Como os anjos de Deus, sem se casarem.",
-      "reference": "Mt 22:30"
+      "reference": "Mt 22:30",
+      "wrongs": [
+        "Como nesta vida, formando novas famílias.",
+        "Como sombras, sem corpo nem voz.",
+        "Como reis, cada um no seu trono."
+      ]
     },
     {
       "id": "MAT.23.subject.1",
@@ -858,7 +1283,12 @@
       "kind": "subject",
       "prompt": "A que Jesus comparou os escribas e fariseus?",
       "answer": "A túmulos caiados, belos fora e impuros dentro.",
-      "reference": "Mt 23:27"
+      "reference": "Mt 23:27",
+      "wrongs": [
+        "A ovelhas sem pastor, perdidas no campo.",
+        "A lírios do campo, belos e frágeis.",
+        "A uma cidade no monte, visível de longe."
+      ]
     },
     {
       "id": "MAT.23.name.1",
@@ -868,7 +1298,12 @@
       "kind": "name",
       "prompt": "De Abel até quem Jesus falou do sangue justo?",
       "answer": "Até Zacarias, filho de Baraquias.",
-      "reference": "Mt 23:35"
+      "reference": "Mt 23:35",
+      "wrongs": [
+        "Até Isaías, filho de Amós.",
+        "Até Urias, o profeta.",
+        "Até João, filho de Zacarias."
+      ]
     },
     {
       "id": "MAT.23.place.1",
@@ -878,7 +1313,12 @@
       "kind": "place",
       "prompt": "Que cidade Jesus disse que mata os profetas?",
       "answer": "Jerusalém.",
-      "reference": "Mt 23:37"
+      "reference": "Mt 23:37",
+      "wrongs": [
+        "Samaria.",
+        "Babilônia.",
+        "Nazaré."
+      ]
     },
     {
       "id": "MAT.23.curiosity.1",
@@ -888,7 +1328,12 @@
       "kind": "curiosity",
       "prompt": "O que os guias cegos coam e o que engolem, em Mateus?",
       "answer": "Coam um mosquito e engolem um camelo.",
-      "reference": "Mt 23:24"
+      "reference": "Mt 23:24",
+      "wrongs": [
+        "Coam um camelo e engolem um mosquito.",
+        "Coam a água e engolem a poeira.",
+        "Coam um grão e engolem uma pedra."
+      ]
     },
     {
       "id": "MAT.24.subject.1",
@@ -898,7 +1343,12 @@
       "kind": "subject",
       "prompt": "Como as tribos verão o Filho do homem vir, em Mateus?",
       "answer": "Sobre as nuvens, com poder e muita glória.",
-      "reference": "Mt 24:30"
+      "reference": "Mt 24:30",
+      "wrongs": [
+        "Em segredo, só para os doze.",
+        "Num cavalo, pelas ruas de Jerusalém.",
+        "De noite, sem que as tribos vejam."
+      ]
     },
     {
       "id": "MAT.24.name.1",
@@ -908,7 +1358,12 @@
       "kind": "name",
       "prompt": "Aos dias de quem Jesus comparou a vinda dele?",
       "answer": "Aos dias de Noé.",
-      "reference": "Mt 24:37"
+      "reference": "Mt 24:37",
+      "wrongs": [
+        "Aos dias de Moisés.",
+        "Aos dias de Davi.",
+        "Aos dias de Elias."
+      ]
     },
     {
       "id": "MAT.24.place.1",
@@ -918,7 +1373,12 @@
       "kind": "place",
       "prompt": "Onde os discípulos perguntaram pelo fim, em Mateus?",
       "answer": "No monte das Oliveiras.",
-      "reference": "Mt 24:3"
+      "reference": "Mt 24:3",
+      "wrongs": [
+        "No monte Sião.",
+        "No pátio do templo.",
+        "Na sala de cima, em Jerusalém."
+      ]
     },
     {
       "id": "MAT.24.curiosity.1",
@@ -928,7 +1388,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus disse das pedras do templo?",
       "answer": "Nenhuma ficaria sobre a outra.",
-      "reference": "Mt 24:2"
+      "reference": "Mt 24:2",
+      "wrongs": [
+        "Ficariam de pé até o fim dos tempos.",
+        "Só o véu interno seria rasgado.",
+        "Seriam douradas de novo pelo rei."
+      ]
     },
     {
       "id": "MAT.25.subject.1",
@@ -938,7 +1403,12 @@
       "kind": "subject",
       "prompt": "De que lado o Rei porá ovelhas e bodes?",
       "answer": "As ovelhas à direita e os bodes à esquerda.",
-      "reference": "Mt 25:33"
+      "reference": "Mt 25:33",
+      "wrongs": [
+        "As ovelhas à esquerda e os bodes à direita.",
+        "Todos juntos, no meio do trono.",
+        "Os bodes à direita e as ovelhas fora."
+      ]
     },
     {
       "id": "MAT.25.curiosity.1",
@@ -948,7 +1418,12 @@
       "kind": "curiosity",
       "prompt": "Quantas das dez virgens eram prudentes, em Mateus?",
       "answer": "Cinco. As outras cinco eram tolas.",
-      "reference": "Mt 25:2"
+      "reference": "Mt 25:2",
+      "wrongs": [
+        "Sete. As outras três eram tolas.",
+        "Dez. Nenhuma delas era tola.",
+        "Três. As outras sete eram tolas."
+      ]
     },
     {
       "id": "MAT.25.curiosity.2",
@@ -958,7 +1433,12 @@
       "kind": "curiosity",
       "prompt": "Quantos talentos o homem entregou aos três servos, em Mateus?",
       "answer": "Cinco, dois e um.",
-      "reference": "Mt 25:15"
+      "reference": "Mt 25:15",
+      "wrongs": [
+        "Dez, cinco e um.",
+        "Três, três e três.",
+        "Um, um e um."
+      ]
     },
     {
       "id": "MAT.26.subject.1",
@@ -968,7 +1448,12 @@
       "kind": "subject",
       "prompt": "O que Jesus disse que o cálice era, na ceia?",
       "answer": "O sangue da nova aliança, derramado para perdoar.",
-      "reference": "Mt 26:28"
+      "reference": "Mt 26:28",
+      "wrongs": [
+        "O vinho novo da festa, só para os doze.",
+        "A água da purificação, guardada no templo.",
+        "O sinal de Moisés, lembrado uma vez por ano."
+      ]
     },
     {
       "id": "MAT.26.name.1",
@@ -978,7 +1463,12 @@
       "kind": "name",
       "prompt": "Quem foi entregar Jesus aos chefes dos sacerdotes?",
       "answer": "Judas Iscariotes, um dos doze.",
-      "reference": "Mt 26:14"
+      "reference": "Mt 26:14",
+      "wrongs": [
+        "Pedro, o mais velho dos doze.",
+        "Simão, o zelote, um dos doze.",
+        "João, filho de Zebedeu."
+      ]
     },
     {
       "id": "MAT.26.place.1",
@@ -988,7 +1478,12 @@
       "kind": "place",
       "prompt": "Onde Jesus orou com Pedro, Tiago e João antes da prisão?",
       "answer": "Num lugar chamado Getsêmani.",
-      "reference": "Mt 26:36"
+      "reference": "Mt 26:36",
+      "wrongs": [
+        "Num quarto alto, dentro da cidade.",
+        "No pátio de Caifás.",
+        "Na estrada de Emaús."
+      ]
     },
     {
       "id": "MAT.26.curiosity.1",
@@ -998,7 +1493,12 @@
       "kind": "curiosity",
       "prompt": "Por quanto Judas combinou entregar Jesus?",
       "answer": "Por trinta moedas de prata.",
-      "reference": "Mt 26:15"
+      "reference": "Mt 26:15",
+      "wrongs": [
+        "Por dez moedas de ouro.",
+        "Por cem denários.",
+        "Por um talento de prata."
+      ]
     },
     {
       "id": "MAT.27.subject.1",
@@ -1008,7 +1508,12 @@
       "kind": "subject",
       "prompt": "Como Jesus morreu na cruz?",
       "answer": "Gritou bem alto e entregou o espírito.",
-      "reference": "Mt 27:50"
+      "reference": "Mt 27:50",
+      "wrongs": [
+        "Desceu da cruz ainda com vida.",
+        "Ficou em silêncio e adormeceu.",
+        "Pediu água e continuou ali."
+      ]
     },
     {
       "id": "MAT.27.name.1",
@@ -1018,7 +1523,12 @@
       "kind": "name",
       "prompt": "Quem foi obrigado a carregar a cruz de Jesus?",
       "answer": "Simão, homem de Cirene.",
-      "reference": "Mt 27:32"
+      "reference": "Mt 27:32",
+      "wrongs": [
+        "José de Arimateia.",
+        "André, irmão de Pedro.",
+        "João, o discípulo amado."
+      ]
     },
     {
       "id": "MAT.27.place.1",
@@ -1028,7 +1538,12 @@
       "kind": "place",
       "prompt": "Como se chama o lugar onde Jesus foi crucificado?",
       "answer": "Gólgota, o lugar da caveira.",
-      "reference": "Mt 27:33"
+      "reference": "Mt 27:33",
+      "wrongs": [
+        "Getsêmani, o horto da oração.",
+        "Betânia, a aldeia de Lázaro.",
+        "O pretório, o pátio de Pilatos."
+      ]
     },
     {
       "id": "MAT.27.curiosity.1",
@@ -1038,7 +1553,12 @@
       "kind": "curiosity",
       "prompt": "Em que horas houve trevas na crucificação, em Mateus?",
       "answer": "Da hora sexta até a hora nona.",
-      "reference": "Mt 27:45"
+      "reference": "Mt 27:45",
+      "wrongs": [
+        "Da hora terceira até a hora sexta.",
+        "Da hora nona até o pôr do sol.",
+        "Só na hora terceira, por um instante."
+      ]
     },
     {
       "id": "MAT.28.subject.1",
@@ -1048,7 +1568,12 @@
       "kind": "subject",
       "prompt": "O que o anjo disse às mulheres no sepulcro, em Mateus?",
       "answer": "Que Jesus tinha ressuscitado e não estava ali.",
-      "reference": "Mt 28:6"
+      "reference": "Mt 28:6",
+      "wrongs": [
+        "Que o corpo tinha sido levado pelos soldados.",
+        "Que Jesus ainda dormia no sepulcro.",
+        "Que elas tinham ido ao túmulo errado."
+      ]
     },
     {
       "id": "MAT.28.name.1",
@@ -1058,7 +1583,12 @@
       "kind": "name",
       "prompt": "No fim do sábado, quem foi ver o sepulcro ao clarear, em Mateus?",
       "answer": "Madalena e a outra, também chamada Maria.",
-      "reference": "Mt 28:1"
+      "reference": "Mt 28:1",
+      "wrongs": [
+        "Salomé e Joana, mulher de Cuza.",
+        "Marta e Maria, de Betânia.",
+        "Só a mãe de Jesus, vinda de Nazaré."
+      ]
     },
     {
       "id": "MAT.28.place.1",
@@ -1068,7 +1598,12 @@
       "kind": "place",
       "prompt": "Aonde foram os onze receber a ordem de fazer discípulos, em Mateus?",
       "answer": "A um monte na Galileia.",
-      "reference": "Mt 28:16"
+      "reference": "Mt 28:16",
+      "wrongs": [
+        "Ao cenáculo, em Jerusalém.",
+        "Ao templo, na hora do sacrifício.",
+        "À beira do Jordão."
+      ]
     },
     {
       "id": "MAT.28.curiosity.1",
@@ -1078,7 +1613,12 @@
       "kind": "curiosity",
       "prompt": "Em nome de quem Jesus mandou batizar?",
       "answer": "No nome do Pai e do Filho, com o Espírito Santo.",
-      "reference": "Mt 28:19"
+      "reference": "Mt 28:19",
+      "wrongs": [
+        "Só no nome de Jesus, o Cristo.",
+        "No nome de Abraão, Isaque e Jacó.",
+        "No nome de Moisés e dos profetas."
+      ]
     },
     {
       "id": "MAT.0.curiosity.1",
@@ -1088,7 +1628,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Mateus?",
       "answer": "Mateus.",
-      "reference": "Mateus"
+      "reference": "Mateus",
+      "wrongs": [
+        "Marcos.",
+        "Lucas.",
+        "João."
+      ]
     },
     {
       "id": "MAT.0.curiosity.2",
@@ -1098,7 +1643,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Mateus?",
       "answer": "Antes do ano 70.",
-      "reference": "Mateus"
+      "reference": "Mateus",
+      "wrongs": [
+        "Por volta do ano 90.",
+        "No fim do século II.",
+        "Depois do ano 150."
+      ]
     }
   ]
 }

@@ -66,6 +66,7 @@ dependencies {
     implementation(libs.lifecycle.runtime.compose)
     implementation(libs.lifecycle.viewmodel.compose)
     implementation(libs.core.ktx)
+    implementation(libs.core.splashscreen)
     implementation(libs.room.runtime)
     implementation(libs.room.ktx)
     implementation(libs.work.runtime)

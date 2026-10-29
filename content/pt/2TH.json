@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que é justo Deus fazer com quem aflige os crentes?",
       "answer": "Devolver aflição a quem causa aflição.",
-      "reference": "2Ts 1:6"
+      "reference": "2Ts 1:6",
+      "wrongs": [
+        "Ignorar a aflição e não julgar ninguém.",
+        "Afligir os crentes até eles se calarem.",
+        "Transferir a aflição para os anjos."
+      ]
     },
     {
       "id": "2TH.1.place.1",
@@ -18,7 +23,12 @@
       "kind": "place",
       "prompt": "De onde Jesus virá trazer alívio aos que sofrem?",
       "answer": "Do céu, acompanhado dos anjos do poder dele.",
-      "reference": "2Ts 1:7"
+      "reference": "2Ts 1:7",
+      "wrongs": [
+        "Do monte Sinai, com as tábuas da lei.",
+        "De Roma, com as legiões do império.",
+        "Do templo, acompanhado dos sacerdotes."
+      ]
     },
     {
       "id": "2TH.1.curiosity.1",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "Com o que Jesus castiga quem não conhece a Deus?",
       "answer": "Com chama de fogo.",
-      "reference": "2Ts 1:8"
+      "reference": "2Ts 1:8",
+      "wrongs": [
+        "Com um dilúvio.",
+        "Com praga e fome.",
+        "Com exílio para o deserto."
+      ]
     },
     {
       "id": "2TH.2.subject.1",
@@ -38,7 +53,12 @@
       "kind": "subject",
       "prompt": "O que vem antes do dia de Cristo?",
       "answer": "A rebelião e o aparecimento do homem do pecado.",
-      "reference": "2Ts 2:3"
+      "reference": "2Ts 2:3",
+      "wrongs": [
+        "A conversão de Israel e a paz de Roma.",
+        "A morte de Paulo e o fim das cartas.",
+        "Nada. O dia chega sem nenhum sinal."
+      ]
     },
     {
       "id": "2TH.2.name.1",
@@ -48,7 +68,12 @@
       "kind": "name",
       "prompt": "Quem age na vinda do injusto?",
       "answer": "Satanás, com poder, sinais e prodígios falsos.",
-      "reference": "2Ts 2:9"
+      "reference": "2Ts 2:9",
+      "wrongs": [
+        "Miguel, com os anjos fiéis.",
+        "O imperador, com os exércitos de Roma.",
+        "Elias, com o fogo do céu."
+      ]
     },
     {
       "id": "2TH.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "Onde o homem do pecado vai sentar-se, em 2 Tessalonicenses?",
       "answer": "No templo de Deus, fingindo ser Deus.",
-      "reference": "2Ts 2:4"
+      "reference": "2Ts 2:4",
+      "wrongs": [
+        "No palácio de César, fingindo ser rei.",
+        "No monte Sinai, fingindo ser Moisés.",
+        "Na sinagoga, fingindo ser profeta."
+      ]
     },
     {
       "id": "2TH.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "Como Jesus destruirá o injusto?",
       "answer": "Com o sopro da boca e com o brilho da vinda dele.",
-      "reference": "2Ts 2:8"
+      "reference": "2Ts 2:8",
+      "wrongs": [
+        "Com um exército de anjos em batalha longa.",
+        "Com o fogo de Roma, na queda da cidade.",
+        "Com um acordo, se o injusto se arrepender."
+      ]
     },
     {
       "id": "2TH.3.subject.1",
@@ -78,7 +113,12 @@
       "kind": "subject",
       "prompt": "O que Paulo ordena a quem não quer trabalhar?",
       "answer": "Que também não coma.",
-      "reference": "2Ts 3:10"
+      "reference": "2Ts 3:10",
+      "wrongs": [
+        "Que coma da mesa da igreja.",
+        "Que trabalhe só um dia por semana.",
+        "Que jejue até mudar de ideia."
+      ]
     },
     {
       "id": "2TH.3.curiosity.1",
@@ -88,7 +128,12 @@
       "kind": "curiosity",
       "prompt": "Como Paulo conseguia o próprio pão?",
       "answer": "Trabalhando noite e dia, para não incomodar ninguém.",
-      "reference": "2Ts 3:8"
+      "reference": "2Ts 3:8",
+      "wrongs": [
+        "Pedindo esmola de igreja em igreja.",
+        "Vivendo da herança da família.",
+        "Recebendo soldo do governador."
+      ]
     },
     {
       "id": "2TH.3.curiosity.2",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "Como Paulo mostra que a carta é dele?",
       "answer": "Com a saudação escrita pela própria mão.",
-      "reference": "2Ts 3:17"
+      "reference": "2Ts 3:17",
+      "wrongs": [
+        "Com o selo do imperador na cera.",
+        "Com a assinatura de Timóteo no fim.",
+        "Com um código que só Tito entendia."
+      ]
     },
     {
       "id": "2TH.0.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 2 Tessalonicenses?",
       "answer": "Paulo.",
-      "reference": "2 Tessalonicenses"
+      "reference": "2 Tessalonicenses",
+      "wrongs": [
+        "Silvano.",
+        "Timóteo.",
+        "Pedro."
+      ]
     },
     {
       "id": "2TH.0.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 2 Tessalonicenses?",
       "answer": "Pouco depois da primeira carta, por volta do ano 51.",
-      "reference": "2 Tessalonicenses"
+      "reference": "2 Tessalonicenses",
+      "wrongs": [
+        "Muitos anos depois, por volta do ano 64.",
+        "Antes da primeira carta, por volta do ano 45.",
+        "No fim da vida de Paulo, por volta do ano 67."
+      ]
     },
     {
       "id": "2TH.0.curiosity.3",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu 2 Tessalonicenses?",
       "answer": "Para a igreja dos tessalonicenses.",
-      "reference": "2Ts 1:1"
+      "reference": "2Ts 1:1",
+      "wrongs": [
+        "Para a igreja dos filipenses.",
+        "Para a igreja dos coríntios.",
+        "Para a igreja dos efésios."
+      ]
     }
   ]
 }

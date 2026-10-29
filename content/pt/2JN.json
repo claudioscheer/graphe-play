@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Quem são os enganadores que surgiram no mundo, em 2 João?",
       "answer": "Os que não afirmam que Jesus Cristo veio como homem.",
-      "reference": "2Jo 1:7"
+      "reference": "2Jo 1:7",
+      "wrongs": [
+        "Os que afirmam que Jesus Cristo veio como homem.",
+        "Os que não pagam o imposto a Roma.",
+        "Os que comem carne sacrificada aos ídolos."
+      ]
     },
     {
       "id": "2JN.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem é a destinatária do ancião, com os filhos dela?",
       "answer": "A senhora eleita.",
-      "reference": "2Jo 1:1"
+      "reference": "2Jo 1:1",
+      "wrongs": [
+        "Maria, mãe de Jesus.",
+        "Lídia, vendedora de púrpura.",
+        "Febe, servidora da igreja."
+      ]
     },
     {
       "id": "2JN.1.curiosity.1",
@@ -29,7 +39,12 @@
       "kind": "curiosity",
       "prompt": "O que não se deve fazer com quem não traz a doutrina de Cristo?",
       "answer": "Não o receber em casa nem cumprimentá-lo.",
-      "reference": "2Jo 1:9-10"
+      "reference": "2Jo 1:9-10",
+      "wrongs": [
+        "Recebê-lo em casa e ouvir o ensino.",
+        "Cumprimentá-lo na rua e seguir junto.",
+        "Entregá-lo ao tribunal da cidade."
+      ]
     },
     {
       "id": "2JN.1.curiosity.2",
@@ -39,7 +54,12 @@
       "kind": "curiosity",
       "prompt": "Com o que o ancião não quis escrever o restante?",
       "answer": "Com papel e tinta; preferiu falar cara a cara.",
-      "reference": "2Jo 1:12"
+      "reference": "2Jo 1:12",
+      "wrongs": [
+        "Com pergaminho caro; preferiu um mensageiro.",
+        "Com uma carta longa; preferiu não ir.",
+        "Com o próprio sangue; preferiu o silêncio."
+      ]
     },
     {
       "id": "2JN.0.curiosity.1",
@@ -49,7 +69,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 2 João?",
       "answer": "João, o apóstolo.",
-      "reference": "2 João"
+      "reference": "2 João",
+      "wrongs": [
+        "Pedro, o apóstolo.",
+        "Paulo, o apóstolo.",
+        "Judas, irmão de Tiago."
+      ]
     },
     {
       "id": "2JN.0.curiosity.2",
@@ -59,7 +84,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 2 João?",
       "answer": "No fim do século I.",
-      "reference": "2 João"
+      "reference": "2 João",
+      "wrongs": [
+        "No meio do século II.",
+        "Por volta do ano 50.",
+        "No século III."
+      ]
     },
     {
       "id": "2JN.0.curiosity.3",
@@ -69,7 +99,12 @@
       "kind": "curiosity",
       "prompt": "A quem João escreve a segunda carta?",
       "answer": "À senhora eleita e aos filhos dela.",
-      "reference": "2Jo 1:1"
+      "reference": "2Jo 1:1",
+      "wrongs": [
+        "A Gaio, amado na verdade.",
+        "À igreja de Éfeso, e aos presbíteros.",
+        "A Diótrefes, que queria mandar na igreja."
+      ]
     }
   ]
 }

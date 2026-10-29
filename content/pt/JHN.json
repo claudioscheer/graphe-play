@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que a Palavra fez ao vir para as pessoas?",
       "answer": "Tornou-se humana e viveu entre o povo.",
-      "reference": "Jo 1:14"
+      "reference": "Jo 1:14",
+      "wrongs": [
+        "Ficou só no céu e enviou um anjo.",
+        "Apareceu como fogo e não ficou.",
+        "Falou pelos profetas e se calou."
+      ]
     },
     {
       "id": "JHN.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem Deus enviou para testemunhar a respeito da luz, em João?",
       "answer": "Um homem chamado João.",
-      "reference": "Jo 1:6"
+      "reference": "Jo 1:6",
+      "wrongs": [
+        "Um homem chamado Pedro.",
+        "Um homem chamado André.",
+        "Um homem chamado Filipe."
+      ]
     },
     {
       "id": "JHN.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde João batizava, além do Jordão?",
       "answer": "Em Betábara.",
-      "reference": "Jo 1:28"
+      "reference": "Jo 1:28",
+      "wrongs": [
+        "Em Enom.",
+        "Em Caná.",
+        "Em Salim."
+      ]
     },
     {
       "id": "JHN.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Que nome Jesus deu a Simão, filho de Jonas?",
       "answer": "Cefas, que significa Pedro.",
-      "reference": "Jo 1:42"
+      "reference": "Jo 1:42",
+      "wrongs": [
+        "Emanuel, que significa Deus conosco.",
+        "Rabôni, que significa mestre.",
+        "Messias, que significa ungido."
+      ]
     },
     {
       "id": "JHN.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que Jesus fez da água no casamento em Caná?",
       "answer": "Transformou a água em vinho.",
-      "reference": "Jo 2:9"
+      "reference": "Jo 2:9",
+      "wrongs": [
+        "Transformou a água em azeite.",
+        "Deixou a água como estava.",
+        "Mandou comprar vinho na cidade."
+      ]
     },
     {
       "id": "JHN.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem avisou Jesus de que o vinho tinha acabado?",
       "answer": "A mãe dele.",
-      "reference": "Jo 2:3"
+      "reference": "Jo 2:3",
+      "wrongs": [
+        "O mestre-sala.",
+        "Um servo.",
+        "Maria Madalena."
+      ]
     },
     {
       "id": "JHN.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "Quantos vasos de pedra havia no casamento em Caná?",
       "answer": "Seis.",
-      "reference": "Jo 2:6"
+      "reference": "Jo 2:6",
+      "wrongs": [
+        "Três.",
+        "Doze.",
+        "Dez."
+      ]
     },
     {
       "id": "JHN.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Em quantos dias Jesus disse que levantaria o templo?",
       "answer": "Em três dias.",
-      "reference": "Jo 2:19"
+      "reference": "Jo 2:19",
+      "wrongs": [
+        "Em sete dias.",
+        "Em quarenta dias.",
+        "Em um dia."
+      ]
     },
     {
       "id": "JHN.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Por que Deus entregou o Filho único ao mundo, em João?",
       "answer": "Por amor ao mundo, para dar vida eterna a quem crê.",
-      "reference": "Jo 3:16"
+      "reference": "Jo 3:16",
+      "wrongs": [
+        "Para condenar o mundo de uma vez.",
+        "Para cumprir um voto de Moisés.",
+        "Porque o mundo já era inocente."
+      ]
     },
     {
       "id": "JHN.3.name.1",
@@ -99,7 +144,12 @@
       "kind": "name",
       "prompt": "Quem foi conversar com Jesus de noite?",
       "answer": "Nicodemos, um líder dos judeus.",
-      "reference": "Jo 3:1-2"
+      "reference": "Jo 3:1-2",
+      "wrongs": [
+        "José de Arimateia, um homem rico.",
+        "Gamaliel, um mestre da Lei.",
+        "Zaqueu, chefe dos cobradores."
+      ]
     },
     {
       "id": "JHN.3.place.1",
@@ -109,7 +159,12 @@
       "kind": "place",
       "prompt": "Onde João batizava, porque havia muita água?",
       "answer": "Em Enom, junto a Salim.",
-      "reference": "Jo 3:23"
+      "reference": "Jo 3:23",
+      "wrongs": [
+        "Em Betábara, além do Jordão.",
+        "Em Caná da Galileia.",
+        "No tanque de Siloé."
+      ]
     },
     {
       "id": "JHN.3.curiosity.1",
@@ -119,7 +174,12 @@
       "kind": "curiosity",
       "prompt": "Com o que Jesus comparou o Filho do homem levantado?",
       "answer": "Com a serpente que Moisés ergueu no deserto.",
-      "reference": "Jo 3:14"
+      "reference": "Jo 3:14",
+      "wrongs": [
+        "Com a sarça que ardia no deserto.",
+        "Com o maná que caía do céu.",
+        "Com a rocha que Moisés feriu."
+      ]
     },
     {
       "id": "JHN.4.subject.1",
@@ -130,7 +190,12 @@
       "kind": "subject",
       "prompt": "Quem Jesus disse ser à mulher samaritana, no poço?",
       "answer": "O Messias, aquele que falava com ela.",
-      "reference": "Jo 4:25-26"
+      "reference": "Jo 4:25-26",
+      "wrongs": [
+        "Um profeta, e nada além disso.",
+        "Elias, esperado de volta.",
+        "O rei que tiraria Roma da terra."
+      ]
     },
     {
       "id": "JHN.4.name.1",
@@ -140,7 +205,12 @@
       "kind": "name",
       "prompt": "Quem tinha um filho doente em Cafarnaum?",
       "answer": "Um nobre.",
-      "reference": "Jo 4:46"
+      "reference": "Jo 4:46",
+      "wrongs": [
+        "Um centurião.",
+        "Um fariseu.",
+        "Um pescador."
+      ]
     },
     {
       "id": "JHN.4.place.1",
@@ -150,7 +220,12 @@
       "kind": "place",
       "prompt": "Em que cidade da Samaria Jesus parou, na terra de Jacó?",
       "answer": "Em Sicar.",
-      "reference": "Jo 4:5"
+      "reference": "Jo 4:5",
+      "wrongs": [
+        "Em Nazaré.",
+        "Em Cafarnaum.",
+        "Em Jericó."
+      ]
     },
     {
       "id": "JHN.4.curiosity.1",
@@ -160,7 +235,12 @@
       "kind": "curiosity",
       "prompt": "Quantos maridos a mulher de Sicar já tinha tido?",
       "answer": "Cinco, e o homem da época não era marido.",
-      "reference": "Jo 4:18"
+      "reference": "Jo 4:18",
+      "wrongs": [
+        "Três, e na época vivia sozinha.",
+        "Sete, e o último ainda era marido.",
+        "Um só, e esse já tinha morrido."
+      ]
     },
     {
       "id": "JHN.5.subject.1",
@@ -170,7 +250,12 @@
       "kind": "subject",
       "prompt": "O que Jesus mandou ao doente do tanque em Jerusalém?",
       "answer": "Que se levantasse, pegasse a cama e andasse.",
-      "reference": "Jo 5:8"
+      "reference": "Jo 5:8",
+      "wrongs": [
+        "Que esperasse a água se mover.",
+        "Que pedisse esmola na porta.",
+        "Que voltasse para casa sem a cama."
+      ]
     },
     {
       "id": "JHN.5.place.1",
@@ -180,7 +265,12 @@
       "kind": "place",
       "prompt": "Qual é o nome do tanque junto à porta das ovelhas, em João?",
       "answer": "Betesda.",
-      "reference": "Jo 5:2"
+      "reference": "Jo 5:2",
+      "wrongs": [
+        "Siloé.",
+        "Enom.",
+        "Salim."
+      ]
     },
     {
       "id": "JHN.5.curiosity.1",
@@ -190,7 +280,12 @@
       "kind": "curiosity",
       "prompt": "Havia quantos anos o doente do tanque em Jerusalém estava enfermo?",
       "answer": "Trinta e oito anos.",
-      "reference": "Jo 5:5"
+      "reference": "Jo 5:5",
+      "wrongs": [
+        "Doze anos.",
+        "Vinte anos.",
+        "Sete anos."
+      ]
     },
     {
       "id": "JHN.6.subject.1",
@@ -200,7 +295,12 @@
       "kind": "subject",
       "prompt": "O que Jesus disse ser para quem vem a ele?",
       "answer": "O pão da vida.",
-      "reference": "Jo 6:35"
+      "reference": "Jo 6:35",
+      "wrongs": [
+        "A porta do curral.",
+        "A luz do mundo.",
+        "A videira verdadeira."
+      ]
     },
     {
       "id": "JHN.6.name.1",
@@ -210,7 +310,12 @@
       "kind": "name",
       "prompt": "Quem disse que duzentos dinheiros de pão não bastavam, em João?",
       "answer": "Filipe.",
-      "reference": "Jo 6:7"
+      "reference": "Jo 6:7",
+      "wrongs": [
+        "André.",
+        "Pedro.",
+        "Judas."
+      ]
     },
     {
       "id": "JHN.6.place.1",
@@ -220,7 +325,12 @@
       "kind": "place",
       "prompt": "Como João também chama o mar da Galileia?",
       "answer": "Mar de Tibérias.",
-      "reference": "Jo 6:1"
+      "reference": "Jo 6:1",
+      "wrongs": [
+        "Mar Morto.",
+        "Mar Grande.",
+        "Lago de Samaria."
+      ]
     },
     {
       "id": "JHN.6.curiosity.1",
@@ -230,7 +340,12 @@
       "kind": "curiosity",
       "prompt": "Quantos cestos de sobras foram recolhidos dos cinco pães, em João?",
       "answer": "Doze.",
-      "reference": "Jo 6:13"
+      "reference": "Jo 6:13",
+      "wrongs": [
+        "Sete.",
+        "Cinco.",
+        "Dois."
+      ]
     },
     {
       "id": "JHN.7.subject.1",
@@ -240,7 +355,12 @@
       "kind": "subject",
       "prompt": "O que Jesus gritou no último dia da festa?",
       "answer": "Que quem tivesse sede viesse a ele beber.",
-      "reference": "Jo 7:37"
+      "reference": "Jo 7:37",
+      "wrongs": [
+        "Que a festa acabasse em silêncio.",
+        "Que todos subissem ao altar.",
+        "Que ninguém bebesse até o sábado."
+      ]
     },
     {
       "id": "JHN.7.name.1",
@@ -251,7 +371,12 @@
       "kind": "name",
       "prompt": "Quem lembrou que a lei não julga alguém sem ouvir, em João?",
       "answer": "Nicodemos.",
-      "reference": "Jo 7:50-51"
+      "reference": "Jo 7:50-51",
+      "wrongs": [
+        "Caifás.",
+        "Gamaliel.",
+        "José de Arimateia."
+      ]
     },
     {
       "id": "JHN.7.place.1",
@@ -261,7 +386,12 @@
       "kind": "place",
       "prompt": "Onde Jesus ensinou no meio da festa?",
       "answer": "No templo.",
-      "reference": "Jo 7:14"
+      "reference": "Jo 7:14",
+      "wrongs": [
+        "Na sinagoga de Nazaré.",
+        "Na praça, junto ao poço.",
+        "No palácio de Herodes."
+      ]
     },
     {
       "id": "JHN.7.curiosity.1",
@@ -271,7 +401,12 @@
       "kind": "curiosity",
       "prompt": "O que os guardas disseram ao voltar sem prender Jesus?",
       "answer": "Que ninguém jamais tinha falado como aquele homem.",
-      "reference": "Jo 7:46"
+      "reference": "Jo 7:46",
+      "wrongs": [
+        "Que ele tinha fugido por um túnel.",
+        "Que a ordem de prisão era falsa.",
+        "Que ninguém o tinha visto no templo."
+      ]
     },
     {
       "id": "JHN.8.subject.1",
@@ -281,7 +416,12 @@
       "kind": "subject",
       "prompt": "O que Jesus disse à mulher acusada de adultério?",
       "answer": "Que não a condenava, e que não pecasse de novo.",
-      "reference": "Jo 8:11"
+      "reference": "Jo 8:11",
+      "wrongs": [
+        "Que a apedrejassem, como pedia a Lei.",
+        "Que ela pagasse uma multa ao templo.",
+        "Que os acusadores cumprissem a pena."
+      ]
     },
     {
       "id": "JHN.8.name.1",
@@ -291,7 +431,12 @@
       "kind": "name",
       "prompt": "Quem se alegrou por ver o dia de Jesus?",
       "answer": "Abraão.",
-      "reference": "Jo 8:56"
+      "reference": "Jo 8:56",
+      "wrongs": [
+        "Moisés.",
+        "Davi.",
+        "Isaías."
+      ]
     },
     {
       "id": "JHN.8.place.1",
@@ -301,7 +446,12 @@
       "kind": "place",
       "prompt": "Para onde Jesus foi antes de voltar ao templo, na manhã da adúltera?",
       "answer": "Para o monte das Oliveiras.",
-      "reference": "Jo 8:1"
+      "reference": "Jo 8:1",
+      "wrongs": [
+        "Para Betânia.",
+        "Para a casa de Caifás.",
+        "Para o rio Cedrom."
+      ]
     },
     {
       "id": "JHN.8.curiosity.1",
@@ -311,7 +461,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus fazia no chão enquanto acusavam a mulher?",
       "answer": "Rabiscava o chão com o dedo.",
-      "reference": "Jo 8:6"
+      "reference": "Jo 8:6",
+      "wrongs": [
+        "Lia em voz alta a acusação.",
+        "Desenhava a cruz no pó.",
+        "Juntava pedras com as mãos."
+      ]
     },
     {
       "id": "JHN.9.subject.1",
@@ -321,7 +476,12 @@
       "kind": "subject",
       "prompt": "O que houve quando o cego se lavou em Siloé?",
       "answer": "Voltou enxergando.",
-      "reference": "Jo 9:7"
+      "reference": "Jo 9:7",
+      "wrongs": [
+        "Continuou cego e voltou assim.",
+        "Passou a ver só vultos.",
+        "A lama secou, e nada mudou."
+      ]
     },
     {
       "id": "JHN.9.name.1",
@@ -331,7 +491,12 @@
       "kind": "name",
       "prompt": "De quem os fariseus disseram que eram discípulos, em João?",
       "answer": "De Moisés.",
-      "reference": "Jo 9:28"
+      "reference": "Jo 9:28",
+      "wrongs": [
+        "De Abraão.",
+        "De Elias.",
+        "De João."
+      ]
     },
     {
       "id": "JHN.9.curiosity.1",
@@ -341,7 +506,12 @@
       "kind": "curiosity",
       "prompt": "Com o que Jesus untou os olhos do cego de nascença?",
       "answer": "Com lama feita de terra e saliva.",
-      "reference": "Jo 9:6"
+      "reference": "Jo 9:6",
+      "wrongs": [
+        "Com óleo da lâmpada do templo.",
+        "Com água pura do tanque.",
+        "Com um pano limpo, sem lama."
+      ]
     },
     {
       "id": "JHN.9.curiosity.2",
@@ -351,7 +521,12 @@
       "kind": "curiosity",
       "prompt": "Em que dia Jesus abriu os olhos do cego de nascença?",
       "answer": "No sábado.",
-      "reference": "Jo 9:14"
+      "reference": "Jo 9:14",
+      "wrongs": [
+        "Numa segunda-feira.",
+        "Num dia de festa.",
+        "Na véspera da Páscoa."
+      ]
     },
     {
       "id": "JHN.10.subject.1",
@@ -361,7 +536,12 @@
       "kind": "subject",
       "prompt": "Quem Jesus disse que dá a vida pelas ovelhas?",
       "answer": "Ele mesmo, o bom pastor.",
-      "reference": "Jo 10:11"
+      "reference": "Jo 10:11",
+      "wrongs": [
+        "O mercenário, que foge do lobo.",
+        "Moisés, que guiou o povo.",
+        "Pedro, o porteiro das ovelhas."
+      ]
     },
     {
       "id": "JHN.10.name.1",
@@ -371,7 +551,12 @@
       "kind": "name",
       "prompt": "Quem os visitantes disseram ter falado a verdade sobre Jesus?",
       "answer": "João.",
-      "reference": "Jo 10:41"
+      "reference": "Jo 10:41",
+      "wrongs": [
+        "Moisés.",
+        "Isaías.",
+        "Elias."
+      ]
     },
     {
       "id": "JHN.10.place.1",
@@ -381,7 +566,12 @@
       "kind": "place",
       "prompt": "Por onde Jesus passeava dentro do templo?",
       "answer": "Na entrada de Salomão.",
-      "reference": "Jo 10:23"
+      "reference": "Jo 10:23",
+      "wrongs": [
+        "No pátio das mulheres.",
+        "Na sala do sinédrio.",
+        "Junto ao altar do incenso."
+      ]
     },
     {
       "id": "JHN.10.curiosity.1",
@@ -391,7 +581,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus afirmou sobre ele e o Pai?",
       "answer": "Que os dois são um.",
-      "reference": "Jo 10:30"
+      "reference": "Jo 10:30",
+      "wrongs": [
+        "Que o Pai é maior, e ele é servo.",
+        "Que os dois nunca se encontraram.",
+        "Que só o Pai deve ser adorado."
+      ]
     },
     {
       "id": "JHN.11.subject.1",
@@ -401,7 +596,12 @@
       "kind": "subject",
       "prompt": "Quem Jesus chamou em voz alta para sair do túmulo?",
       "answer": "Lázaro.",
-      "reference": "Jo 11:43"
+      "reference": "Jo 11:43",
+      "wrongs": [
+        "Marta.",
+        "Maria.",
+        "Tomé."
+      ]
     },
     {
       "id": "JHN.11.name.1",
@@ -411,7 +611,12 @@
       "kind": "name",
       "prompt": "Quem chamou os outros para irem morrer com Jesus?",
       "answer": "Tomé, também chamado Dídimo.",
-      "reference": "Jo 11:16"
+      "reference": "Jo 11:16",
+      "wrongs": [
+        "Pedro, também chamado Cefas.",
+        "Judas, também chamado Iscariotes.",
+        "João, também chamado Marcos."
+      ]
     },
     {
       "id": "JHN.11.place.1",
@@ -421,7 +626,12 @@
       "kind": "place",
       "prompt": "Em que aldeia moravam Marta, Maria e Lázaro?",
       "answer": "Em Betânia.",
-      "reference": "Jo 11:1"
+      "reference": "Jo 11:1",
+      "wrongs": [
+        "Em Betfagé.",
+        "Em Emaús.",
+        "Em Caná."
+      ]
     },
     {
       "id": "JHN.11.curiosity.1",
@@ -431,7 +641,12 @@
       "kind": "curiosity",
       "prompt": "Havia quantos dias Lázaro estava morto?",
       "answer": "Quatro dias.",
-      "reference": "Jo 11:39"
+      "reference": "Jo 11:39",
+      "wrongs": [
+        "Dois dias.",
+        "Sete dias.",
+        "Um dia."
+      ]
     },
     {
       "id": "JHN.12.subject.1",
@@ -441,7 +656,12 @@
       "kind": "subject",
       "prompt": "Como a multidão recebeu Jesus na chegada a Jerusalém?",
       "answer": "Saiu com ramos e aclamou o rei de Israel.",
-      "reference": "Jo 12:13"
+      "reference": "Jo 12:13",
+      "wrongs": [
+        "Ficou em casa e fechou as portas.",
+        "Saiu com espadas para prendê-lo.",
+        "Recebeu-o em silêncio, sem ramos."
+      ]
     },
     {
       "id": "JHN.12.name.1",
@@ -451,7 +671,12 @@
       "kind": "name",
       "prompt": "Quem era o discípulo que iria trair Jesus?",
       "answer": "Judas Iscariotes.",
-      "reference": "Jo 12:4"
+      "reference": "Jo 12:4",
+      "wrongs": [
+        "Pedro.",
+        "Tomé.",
+        "Simão, o zelote."
+      ]
     },
     {
       "id": "JHN.12.place.1",
@@ -461,7 +686,12 @@
       "kind": "place",
       "prompt": "A que aldeia Jesus chegou antes da Páscoa, onde Lázaro morava?",
       "answer": "A Betânia.",
-      "reference": "Jo 12:1"
+      "reference": "Jo 12:1",
+      "wrongs": [
+        "A Emaús.",
+        "A Caná.",
+        "A Jericó."
+      ]
     },
     {
       "id": "JHN.12.curiosity.1",
@@ -471,7 +701,12 @@
       "kind": "curiosity",
       "prompt": "Por quanto Judas queria vender o perfume?",
       "answer": "Por trezentos dinheiros.",
-      "reference": "Jo 12:5"
+      "reference": "Jo 12:5",
+      "wrongs": [
+        "Por trinta moedas de prata.",
+        "Por cem denários.",
+        "Por dez moedas de ouro."
+      ]
     },
     {
       "id": "JHN.13.subject.1",
@@ -481,7 +716,12 @@
       "kind": "subject",
       "prompt": "O que Jesus fez com os pés dos discípulos na ceia?",
       "answer": "Lavou os pés deles e enxugou com a toalha.",
-      "reference": "Jo 13:5"
+      "reference": "Jo 13:5",
+      "wrongs": [
+        "Ungiu a cabeça deles com óleo.",
+        "Mandou que um servo lavasse os pés.",
+        "Só abençoou a mesa e sentou."
+      ]
     },
     {
       "id": "JHN.13.name.1",
@@ -491,7 +731,12 @@
       "kind": "name",
       "prompt": "A quem Jesus deu o pedaço de pão molhado?",
       "answer": "A Judas, filho de Simão Iscariotes.",
-      "reference": "Jo 13:26"
+      "reference": "Jo 13:26",
+      "wrongs": [
+        "A Pedro, filho de Jonas.",
+        "A Tomé, também chamado Dídimo.",
+        "A João, filho de Zebedeu."
+      ]
     },
     {
       "id": "JHN.13.curiosity.1",
@@ -501,7 +746,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus avisou que Pedro faria antes do galo cantar?",
       "answer": "Que o negaria três vezes.",
-      "reference": "Jo 13:38"
+      "reference": "Jo 13:38",
+      "wrongs": [
+        "Que o defenderia com a espada.",
+        "Que fugiria sem o manto.",
+        "Que o negaria uma vez só."
+      ]
     },
     {
       "id": "JHN.13.curiosity.2",
@@ -511,7 +761,12 @@
       "kind": "curiosity",
       "prompt": "Qual foi o mandamento novo que Jesus deu na ceia?",
       "answer": "Que os seus se amassem uns aos outros.",
-      "reference": "Jo 13:34"
+      "reference": "Jo 13:34",
+      "wrongs": [
+        "Que lavassem os pés uns dos outros.",
+        "Que jejuassem toda sexta-feira.",
+        "Que não falassem com estranhos."
+      ]
     },
     {
       "id": "JHN.14.subject.1",
@@ -521,7 +776,12 @@
       "kind": "subject",
       "prompt": "O que Jesus respondeu a Tomé sobre o caminho ao Pai?",
       "answer": "Que ele é o caminho, a verdade e a vida.",
-      "reference": "Jo 14:6"
+      "reference": "Jo 14:6",
+      "wrongs": [
+        "Que a Lei é o caminho seguro.",
+        "Que Pedro mostraria a estrada.",
+        "Que o templo é a única porta."
+      ]
     },
     {
       "id": "JHN.14.name.1",
@@ -531,7 +791,12 @@
       "kind": "name",
       "prompt": "Quem pediu que Jesus mostrasse o Pai?",
       "answer": "Filipe.",
-      "reference": "Jo 14:8"
+      "reference": "Jo 14:8",
+      "wrongs": [
+        "Tomé.",
+        "Pedro.",
+        "Judas, não o Iscariotes."
+      ]
     },
     {
       "id": "JHN.14.place.1",
@@ -541,7 +806,12 @@
       "kind": "place",
       "prompt": "Para onde Jesus disse que ia preparar lugar?",
       "answer": "Para a casa do Pai.",
-      "reference": "Jo 14:2"
+      "reference": "Jo 14:2",
+      "wrongs": [
+        "Para o monte das Oliveiras.",
+        "Para o templo renovado.",
+        "Para uma cidade nova na Galileia."
+      ]
     },
     {
       "id": "JHN.14.curiosity.1",
@@ -551,7 +821,12 @@
       "kind": "curiosity",
       "prompt": "Quem Jesus disse que o Pai enviaria aos discípulos?",
       "answer": "Outro Consolador.",
-      "reference": "Jo 14:16"
+      "reference": "Jo 14:16",
+      "wrongs": [
+        "Outro Moisés.",
+        "Elias, de volta.",
+        "Um anjo guerreiro."
+      ]
     },
     {
       "id": "JHN.15.subject.1",
@@ -561,7 +836,12 @@
       "kind": "subject",
       "prompt": "O que os discípulos são, se Jesus é a videira?",
       "answer": "Os ramos, e sem ele nada conseguem fazer.",
-      "reference": "Jo 15:5"
+      "reference": "Jo 15:5",
+      "wrongs": [
+        "O tronco, e o fruto nasce sem ele.",
+        "Os sarmentos secos, já cortados.",
+        "Os lavradores do campo."
+      ]
     },
     {
       "id": "JHN.15.curiosity.1",
@@ -571,7 +851,12 @@
       "kind": "curiosity",
       "prompt": "Qual é o maior amor, segundo Jesus?",
       "answer": "Dar a vida em favor dos amigos.",
-      "reference": "Jo 15:13"
+      "reference": "Jo 15:13",
+      "wrongs": [
+        "Oferecer todo o rebanho no altar.",
+        "Jejuar quarenta dias pelo amigo.",
+        "Guardar segredo até a morte."
+      ]
     },
     {
       "id": "JHN.15.curiosity.2",
@@ -581,7 +866,12 @@
       "kind": "curiosity",
       "prompt": "Como Jesus passou a chamar os discípulos?",
       "answer": "De amigos, e não mais de empregados.",
-      "reference": "Jo 15:15"
+      "reference": "Jo 15:15",
+      "wrongs": [
+        "De servos, e não mais de irmãos.",
+        "De embaixadores do templo.",
+        "De filhos de Zebedeu."
+      ]
     },
     {
       "id": "JHN.16.subject.1",
@@ -591,7 +881,12 @@
       "kind": "subject",
       "prompt": "Por que Jesus disse que convinha ele partir?",
       "answer": "Porque só assim o Consolador viria.",
-      "reference": "Jo 16:7"
+      "reference": "Jo 16:7",
+      "wrongs": [
+        "Porque o templo precisava dele lá.",
+        "Porque os doze já não queriam ouvir.",
+        "Porque a festa tinha terminado."
+      ]
     },
     {
       "id": "JHN.16.curiosity.1",
@@ -601,7 +896,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus disse que já tinha vencido?",
       "answer": "O mundo.",
-      "reference": "Jo 16:33"
+      "reference": "Jo 16:33",
+      "wrongs": [
+        "A morte.",
+        "Roma.",
+        "O templo."
+      ]
     },
     {
       "id": "JHN.16.curiosity.2",
@@ -611,7 +911,12 @@
       "kind": "curiosity",
       "prompt": "De que o Consolador convenceria o mundo?",
       "answer": "Do pecado, da justiça e do juízo.",
-      "reference": "Jo 16:8"
+      "reference": "Jo 16:8",
+      "wrongs": [
+        "Da fome, da peste e da guerra.",
+        "Da Lei, do sábado e do dízimo.",
+        "Do medo, da fuga e do silêncio."
+      ]
     },
     {
       "id": "JHN.17.subject.1",
@@ -621,7 +926,12 @@
       "kind": "subject",
       "prompt": "O que é a vida eterna, na oração de Jesus?",
       "answer": "Conhecer a Deus de verdade e aquele que ele enviou.",
-      "reference": "Jo 17:3"
+      "reference": "Jo 17:3",
+      "wrongs": [
+        "Guardar o sábado sem falhar um dia.",
+        "Oferecer sacrifícios todas as manhãs.",
+        "Subir a Jerusalém três vezes por ano."
+      ]
     },
     {
       "id": "JHN.17.curiosity.1",
@@ -631,7 +941,12 @@
       "kind": "curiosity",
       "prompt": "Quem se perdeu entre os que o Pai deu a Jesus?",
       "answer": "O filho da perdição.",
-      "reference": "Jo 17:12"
+      "reference": "Jo 17:12",
+      "wrongs": [
+        "Pedro, na noite da negação.",
+        "Tomé, enquanto duvidava.",
+        "João, o mais jovem."
+      ]
     },
     {
       "id": "JHN.17.curiosity.2",
@@ -641,7 +956,12 @@
       "kind": "curiosity",
       "prompt": "Por quem mais Jesus orou, além dos que estavam ali?",
       "answer": "Pelos que ainda haveriam de crer.",
-      "reference": "Jo 17:20"
+      "reference": "Jo 17:20",
+      "wrongs": [
+        "Só pelos doze que estavam à mesa.",
+        "Pelos sacerdotes do templo.",
+        "Pelos soldados de Pilatos."
+      ]
     },
     {
       "id": "JHN.18.subject.1",
@@ -651,7 +971,12 @@
       "kind": "subject",
       "prompt": "Depois de orar pelos que viriam a crer, para onde Jesus foi?",
       "answer": "A um jardim, além do riacho de Cedrom.",
-      "reference": "Jo 18:1"
+      "reference": "Jo 18:1",
+      "wrongs": [
+        "À sala de cima, dentro da cidade.",
+        "Ao palácio de Herodes, já de noite.",
+        "Ao pátio do templo, entre os guardas."
+      ]
     },
     {
       "id": "JHN.18.name.1",
@@ -661,7 +986,12 @@
       "kind": "name",
       "prompt": "Como se chamava o servo a quem Pedro cortou a orelha?",
       "answer": "Malco.",
-      "reference": "Jo 18:10"
+      "reference": "Jo 18:10",
+      "wrongs": [
+        "Barrabás.",
+        "Anás.",
+        "Demas."
+      ]
     },
     {
       "id": "JHN.18.place.1",
@@ -671,7 +1001,12 @@
       "kind": "place",
       "prompt": "Para onde levaram Jesus ao sair de Caifás?",
       "answer": "Ao tribunal.",
-      "reference": "Jo 18:28"
+      "reference": "Jo 18:28",
+      "wrongs": [
+        "De volta à casa de Anás.",
+        "Ao monte das Oliveiras.",
+        "Ao templo, diante do sinédrio."
+      ]
     },
     {
       "id": "JHN.18.curiosity.1",
@@ -681,7 +1016,12 @@
       "kind": "curiosity",
       "prompt": "Quem a multidão pediu no lugar de Jesus?",
       "answer": "Barrabás, um ladrão.",
-      "reference": "Jo 18:40"
+      "reference": "Jo 18:40",
+      "wrongs": [
+        "Pedro, ainda armado.",
+        "João, o mais jovem.",
+        "Dimas, o criminoso."
+      ]
     },
     {
       "id": "JHN.19.subject.1",
@@ -691,7 +1031,12 @@
       "kind": "subject",
       "prompt": "Para onde Jesus saiu carregando a própria cruz?",
       "answer": "Ao lugar da Caveira, chamado Gólgota.",
-      "reference": "Jo 19:17"
+      "reference": "Jo 19:17",
+      "wrongs": [
+        "Ao pretório, para uma nova audiência.",
+        "Ao Getsêmani, já de madrugada.",
+        "À porta Formosa do templo."
+      ]
     },
     {
       "id": "JHN.19.name.1",
@@ -701,7 +1046,12 @@
       "kind": "name",
       "prompt": "Quem pediu a Pilatos para levar o corpo de Jesus?",
       "answer": "José de Arimateia.",
-      "reference": "Jo 19:38"
+      "reference": "Jo 19:38",
+      "wrongs": [
+        "Nicodemos, o mestre de noite.",
+        "Simão de Cirene.",
+        "Pedro, escondido no pátio."
+      ]
     },
     {
       "id": "JHN.19.place.1",
@@ -711,7 +1061,12 @@
       "kind": "place",
       "prompt": "Como se chamava o lugar onde Pilatos sentou para julgar?",
       "answer": "Litóstrotos, em hebraico Gabatá.",
-      "reference": "Jo 19:13"
+      "reference": "Jo 19:13",
+      "wrongs": [
+        "Getsêmani, em hebraico Betânia.",
+        "Pretório, em hebraico Sião.",
+        "Gólgota, em hebraico Emaús."
+      ]
     },
     {
       "id": "JHN.19.curiosity.1",
@@ -721,7 +1076,12 @@
       "kind": "curiosity",
       "prompt": "O que saiu do lado de Jesus quando a lança o furou?",
       "answer": "Sangue e água.",
-      "reference": "Jo 19:34"
+      "reference": "Jo 19:34",
+      "wrongs": [
+        "Só sangue, em grande quantidade.",
+        "Água pura, sem mistura.",
+        "Vinho azedo, ainda no lado."
+      ]
     },
     {
       "id": "JHN.20.subject.1",
@@ -731,7 +1091,12 @@
       "kind": "subject",
       "prompt": "O que Tomé declarou ao ver Jesus ressuscitado?",
       "answer": "Que Jesus era o Deus dele.",
-      "reference": "Jo 20:28"
+      "reference": "Jo 20:28",
+      "wrongs": [
+        "Que Jesus era só um fantasma.",
+        "Que ainda precisava de outro sinal.",
+        "Que Pedro devia confirmar primeiro."
+      ]
     },
     {
       "id": "JHN.20.name.1",
@@ -741,7 +1106,12 @@
       "kind": "name",
       "prompt": "Quem anunciou sozinha aos discípulos que tinha visto Jesus?",
       "answer": "Maria Madalena.",
-      "reference": "Jo 20:18"
+      "reference": "Jo 20:18",
+      "wrongs": [
+        "Joana.",
+        "Salomé.",
+        "Marta."
+      ]
     },
     {
       "id": "JHN.20.place.1",
@@ -751,7 +1121,12 @@
       "kind": "place",
       "prompt": "Aonde Maria Madalena foi de madrugada, ainda no escuro?",
       "answer": "Ao sepulcro.",
-      "reference": "Jo 20:1"
+      "reference": "Jo 20:1",
+      "wrongs": [
+        "Ao templo.",
+        "Ao cenáculo.",
+        "Ao mercado."
+      ]
     },
     {
       "id": "JHN.20.curiosity.1",
@@ -761,7 +1136,12 @@
       "kind": "curiosity",
       "prompt": "O que Tomé exigiu ver para crer?",
       "answer": "A marca dos pregos e a ferida do lado.",
-      "reference": "Jo 20:25"
+      "reference": "Jo 20:25",
+      "wrongs": [
+        "O rosto e a voz, sem as chagas.",
+        "As faixas deixadas no sepulcro.",
+        "Os pés, para ter certeza de que andava."
+      ]
     },
     {
       "id": "JHN.21.subject.1",
@@ -771,7 +1151,12 @@
       "kind": "subject",
       "prompt": "O que houve ao lançarem a rede pelo lado direito do barco, em João?",
       "answer": "Veio tanto peixe que não conseguiam puxar a rede.",
-      "reference": "Jo 21:6"
+      "reference": "Jo 21:6",
+      "wrongs": [
+        "A rede veio vazia outra vez.",
+        "Pegaram um peixe só, bem pequeno.",
+        "A rede rasgou, e os peixes fugiram."
+      ]
     },
     {
       "id": "JHN.21.name.1",
@@ -781,7 +1166,12 @@
       "kind": "name",
       "prompt": "A quem Jesus mandou alimentar os cordeiros?",
       "answer": "A Simão Pedro.",
-      "reference": "Jo 21:15"
+      "reference": "Jo 21:15",
+      "wrongs": [
+        "A João, o filho de Zebedeu.",
+        "A Tomé, também chamado Dídimo.",
+        "A André, irmão de Pedro."
+      ]
     },
     {
       "id": "JHN.21.place.1",
@@ -791,7 +1181,12 @@
       "kind": "place",
       "prompt": "Junto a qual mar Jesus apareceu de novo?",
       "answer": "Ao mar de Tibérias.",
-      "reference": "Jo 21:1"
+      "reference": "Jo 21:1",
+      "wrongs": [
+        "Ao mar Morto.",
+        "Ao Jordão.",
+        "Ao lago de Samaria."
+      ]
     },
     {
       "id": "JHN.21.curiosity.1",
@@ -801,7 +1196,12 @@
       "kind": "curiosity",
       "prompt": "Quantos peixes grandes vieram na rede, em João?",
       "answer": "Cento e cinquenta e três.",
-      "reference": "Jo 21:11"
+      "reference": "Jo 21:11",
+      "wrongs": [
+        "Setenta.",
+        "Doze.",
+        "Trezentos."
+      ]
     },
     {
       "id": "JHN.0.curiosity.1",
@@ -811,7 +1211,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu João?",
       "answer": "João, o apóstolo.",
-      "reference": "João"
+      "reference": "João",
+      "wrongs": [
+        "Pedro.",
+        "Paulo.",
+        "João Batista."
+      ]
     },
     {
       "id": "JHN.0.curiosity.2",
@@ -821,7 +1226,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de João?",
       "answer": "No fim do século I.",
-      "reference": "João"
+      "reference": "João",
+      "wrongs": [
+        "Por volta do ano 50.",
+        "Antes do ano 40.",
+        "No século III."
+      ]
     }
   ]
 }

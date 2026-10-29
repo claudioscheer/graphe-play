@@ -167,10 +167,10 @@ class QuizViewModel(
         if (count <= 0 || scope.history) {
             return emptyList()
         }
-        val pool = practice.sampleVerses(Scope.all, count * 4 + 6)
         val inScope = practice.sampleVerses(scope, count + 2)
         return inScope.mapNotNull { correct ->
-            verseQuizQuestion(correct, pool.filter { it.text != correct.text }, random)
+            val sameBook = practice.sampleVerses(Scope(bookNumber = correct.bookNumber), 8)
+            verseQuizQuestion(correct, sameBook, random)
         }.take(count)
     }
 

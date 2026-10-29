@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que comeu a plantação na profecia de Joel?",
       "answer": "Gafanhotos, em levas, até acabar o resto.",
-      "reference": "Jl 1:4"
+      "reference": "Jl 1:4",
+      "wrongs": [
+        "O granizo, numa noite, até acabar o trigo.",
+        "A seca, por anos, até secar o ribeiro.",
+        "O fogo, no campo, até queimar a palha."
+      ]
     },
     {
       "id": "JOL.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "De quem Joel era filho?",
       "answer": "De Petuel.",
-      "reference": "Jl 1:1"
+      "reference": "Jl 1:1",
+      "wrongs": [
+        "De Amitai.",
+        "De Beeri.",
+        "De Buzi."
+      ]
     },
     {
       "id": "JOL.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde o povo devia clamar por causa da praga, em Joel?",
       "answer": "Na casa de Deus.",
-      "reference": "Jl 1:14"
+      "reference": "Jl 1:14",
+      "wrongs": [
+        "Na praça do mercado.",
+        "Na porta da cidade.",
+        "No vale de Josafá."
+      ]
     },
     {
       "id": "JOL.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que ficou branco na plantação devastada, em Joel?",
       "answer": "Os ramos da videira.",
-      "reference": "Jl 1:7"
+      "reference": "Jl 1:7",
+      "wrongs": [
+        "As espigas de trigo.",
+        "As folhas da oliveira.",
+        "Os figos ainda verdes."
+      ]
     },
     {
       "id": "JOL.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que Deus derrama sobre todas as pessoas em Joel?",
       "answer": "O Espírito, e filhos e filhas profetizam.",
-      "reference": "Jl 2:28"
+      "reference": "Jl 2:28",
+      "wrongs": [
+        "A chuva, e os campos voltam a produzir.",
+        "O juízo, e os velhos ficam calados.",
+        "O medo, e ninguém mais volta a sonhar."
+      ]
     },
     {
       "id": "JOL.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "Onde a trombeta anuncia o dia em Joel?",
       "answer": "Em Sião.",
-      "reference": "Jl 2:1"
+      "reference": "Jl 2:1",
+      "wrongs": [
+        "Em Betel.",
+        "Em Nínive.",
+        "Em Laquis."
+      ]
     },
     {
       "id": "JOL.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "O que Israel deve rasgar, segundo Joel?",
       "answer": "O coração, e não as vestes.",
-      "reference": "Jl 2:13"
+      "reference": "Jl 2:13",
+      "wrongs": [
+        "As vestes, e não o coração.",
+        "O manto, e não o jejum.",
+        "A aliança, e não a oferta."
+      ]
     },
     {
       "id": "JOL.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Em que o sol e a lua se tornam antes do dia grande, em Joel?",
       "answer": "O sol vira trevas e a lua vira sangue.",
-      "reference": "Jl 2:31"
+      "reference": "Jl 2:31",
+      "wrongs": [
+        "O sol vira sangue e a lua vira ouro.",
+        "O sol fica claro e a lua desaparece.",
+        "O sol avança e a lua recua no céu."
+      ]
     },
     {
       "id": "JOL.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Onde Deus se senta para julgar as nações, em Joel?",
       "answer": "No vale de Josafá.",
-      "reference": "Jl 3:12"
+      "reference": "Jl 3:12",
+      "wrongs": [
+        "No vale de Jezreel.",
+        "No monte Carmelo.",
+        "No vale de Megido."
+      ]
     },
     {
       "id": "JOL.3.place.1",
@@ -98,7 +143,12 @@
       "kind": "place",
       "prompt": "Quais povos costeiros Joel confronta?",
       "answer": "Tiro, Sidom e a Filístia.",
-      "reference": "Jl 3:4"
+      "reference": "Jl 3:4",
+      "wrongs": [
+        "Egito, Edom e Moabe.",
+        "Damasco, Hamate e Arã.",
+        "Elão, Média e Pérsia."
+      ]
     },
     {
       "id": "JOL.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Por que preço venderam os jovens de Judá?",
       "answer": "Rapazes por prostitutas e moças por vinho.",
-      "reference": "Jl 3:3"
+      "reference": "Jl 3:3",
+      "wrongs": [
+        "Rapazes por prata e moças por ouro.",
+        "Rapazes por bois e moças por ovelhas.",
+        "Rapazes por trigo e moças por azeite."
+      ]
     },
     {
       "id": "JOL.3.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "O que corre dos montes quando Judá é restaurado, em Joel?",
       "answer": "Suco doce, e leite dos morros.",
-      "reference": "Jl 3:18"
+      "reference": "Jl 3:18",
+      "wrongs": [
+        "Sangue, e fumaça dos morros.",
+        "Água salgada, e poeira dos vales.",
+        "Azeite, e cinza das colinas."
+      ]
     },
     {
       "id": "JOL.0.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Joel?",
       "answer": "Joel.",
-      "reference": "Joel"
+      "reference": "Joel",
+      "wrongs": [
+        "Amós.",
+        "Naum.",
+        "Ageu."
+      ]
     },
     {
       "id": "JOL.0.curiosity.2",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Joel?",
       "answer": "A data é incerta. Muitos a põem antes do exílio.",
-      "reference": "Joel"
+      "reference": "Joel",
+      "wrongs": [
+        "A data é certa. O livro é do reinado de Davi.",
+        "A data é certa. O livro é do século I depois de Cristo.",
+        "A data é incerta. Muitos a põem no tempo de Abraão."
+      ]
     }
   ]
 }

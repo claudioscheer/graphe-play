@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Quem Zadoque ungiu com o azeite do tabernáculo?",
       "answer": "Salomão, e o povo aclamou o novo rei.",
-      "reference": "1Rs 1:39"
+      "reference": "1Rs 1:39",
+      "wrongs": [
+        "Adonias, e o povo aclamou o novo rei.",
+        "Absalão, e o povo aclamou o novo rei.",
+        "Joabe, e o povo aclamou o novo rei."
+      ]
     },
     {
       "id": "1KI.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Que moça trouxeram ao rei Davi?",
       "answer": "Abisague, a sunamita.",
-      "reference": "1Rs 1:3"
+      "reference": "1Rs 1:3",
+      "wrongs": [
+        "Bate-Seba, a de Jerusalém.",
+        "Mical, a filha de Saul.",
+        "Tamar, a filha de Davi."
+      ]
     },
     {
       "id": "1KI.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Para onde levaram Salomão montado na mula de Davi?",
       "answer": "Para Giom.",
-      "reference": "1Rs 1:38"
+      "reference": "1Rs 1:38",
+      "wrongs": [
+        "Para En-Rogel.",
+        "Para Hebrom.",
+        "Para Siquém."
+      ]
     },
     {
       "id": "1KI.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que Adonias segurou, com medo de Salomão?",
       "answer": "As pontas do altar.",
-      "reference": "1Rs 1:50"
+      "reference": "1Rs 1:50",
+      "wrongs": [
+        "A mula do rei.",
+        "A espada de Joabe.",
+        "O manto de Davi."
+      ]
     },
     {
       "id": "1KI.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu quando Salomão sentou no trono de Davi?",
       "answer": "O reino dele ficou muito firme.",
-      "reference": "1Rs 2:12"
+      "reference": "1Rs 2:12",
+      "wrongs": [
+        "O reino se partiu em dois.",
+        "Israel o rejeitou de imediato.",
+        "O trono passou a Jeroboão."
+      ]
     },
     {
       "id": "1KI.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem Salomão pôs no comando do exército?",
       "answer": "Benaia, filho de Joiada.",
-      "reference": "1Rs 2:35"
+      "reference": "1Rs 2:35",
+      "wrongs": [
+        "Joabe, filho de Zeruia.",
+        "Abiatar, o sacerdote.",
+        "Adonias, filho de Hagite."
+      ]
     },
     {
       "id": "1KI.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Onde Davi foi sepultado?",
       "answer": "Na cidade de Davi.",
-      "reference": "1Rs 2:10"
+      "reference": "1Rs 2:10",
+      "wrongs": [
+        "Em Hebrom, com os pais.",
+        "No monte das Oliveiras.",
+        "No jardim de Uzá."
+      ]
     },
     {
       "id": "1KI.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Quantos anos Davi reinou sobre Israel?",
       "answer": "Quarenta anos: sete em Hebrom, trinta e três em Jerusalém.",
-      "reference": "1Rs 2:11"
+      "reference": "1Rs 2:11",
+      "wrongs": [
+        "Vinte anos: dez em Hebrom, dez em Jerusalém.",
+        "Cinquenta anos: vinte em Hebrom, trinta em Jerusalém.",
+        "Trinta anos: três em Hebrom, vinte e sete em Jerusalém."
+      ]
     },
     {
       "id": "1KI.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que Salomão pediu para julgar o povo?",
       "answer": "Um coração que distinguisse o bem do mal.",
-      "reference": "1Rs 3:9"
+      "reference": "1Rs 3:9",
+      "wrongs": [
+        "Vida longa e muitas riquezas.",
+        "A morte de todos os inimigos.",
+        "Um exército maior que o de Davi."
+      ]
     },
     {
       "id": "1KI.3.place.1",
@@ -98,7 +143,12 @@
       "kind": "place",
       "prompt": "Onde Salomão ofereceu mil holocaustos?",
       "answer": "Em Gibeão, no principal lugar alto.",
-      "reference": "1Rs 3:4"
+      "reference": "1Rs 3:4",
+      "wrongs": [
+        "Em Jerusalém, no monte Sião.",
+        "Em Betel, junto ao altar de ouro.",
+        "Em Dã, no extremo do norte."
+      ]
     },
     {
       "id": "1KI.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "O que Salomão não pediu a Deus?",
       "answer": "Vida longa, riquezas nem a morte dos inimigos.",
-      "reference": "1Rs 3:11"
+      "reference": "1Rs 3:11",
+      "wrongs": [
+        "Sabedoria para julgar o povo.",
+        "Um coração que entendesse o certo.",
+        "Discernimento entre o bem e o mal."
+      ]
     },
     {
       "id": "1KI.3.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Quem era a mulher que ficou com o menino vivo no juízo de Salomão?",
       "answer": "A mãe dele.",
-      "reference": "1Rs 3:27"
+      "reference": "1Rs 3:27",
+      "wrongs": [
+        "A outra mulher, que mentiu.",
+        "A serva do palácio.",
+        "A rainha de Sabá."
+      ]
     },
     {
       "id": "1KI.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "O que Deus deu a Salomão?",
       "answer": "Sabedoria e um coração largo como a areia do mar.",
-      "reference": "1Rs 4:29"
+      "reference": "1Rs 4:29",
+      "wrongs": [
+        "Um exército sem fim e carros de ferro.",
+        "A vitória sobre o Egito e sobre Tiro.",
+        "A vida eterna, sem velhice nem morte."
+      ]
     },
     {
       "id": "1KI.4.place.1",
@@ -138,7 +203,12 @@
       "kind": "place",
       "prompt": "De onde até onde Judá e Israel viveram seguros?",
       "answer": "De Dã até Berseba, cada um sob a parreira e a figueira.",
-      "reference": "1Rs 4:25"
+      "reference": "1Rs 4:25",
+      "wrongs": [
+        "Do Egito até o Eufrates, cada um em cidade murada.",
+        "De Jope até Edom, cada um junto ao mar.",
+        "De Siquém até Hebrom, cada um no deserto."
+      ]
     },
     {
       "id": "1KI.4.curiosity.1",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "Quantos cavalos Salomão tinha para os carros, no relato de Reis?",
       "answer": "Quarenta mil, e também doze mil cavaleiros.",
-      "reference": "1Rs 4:26"
+      "reference": "1Rs 4:26",
+      "wrongs": [
+        "Quatro mil, e também mil cavaleiros.",
+        "Dez mil, e também dois mil cavaleiros.",
+        "Cem mil, e também vinte mil cavaleiros."
+      ]
     },
     {
       "id": "1KI.4.curiosity.2",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Quantas parábolas Salomão compôs?",
       "answer": "Três mil, além de mil e cinco versos.",
-      "reference": "1Rs 4:32"
+      "reference": "1Rs 4:32",
+      "wrongs": [
+        "Mil, além de trezentos versos.",
+        "Quinhentas, além de cem versos.",
+        "Dez mil, além de dois mil versos."
+      ]
     },
     {
       "id": "1KI.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "O que Hirão e Salomão fizeram entre si?",
       "answer": "Uma aliança, e houve paz entre os dois.",
-      "reference": "1Rs 5:12"
+      "reference": "1Rs 5:12",
+      "wrongs": [
+        "Uma guerra, e houve ruptura entre os dois.",
+        "Uma troca de tronos, e houve disputa.",
+        "Um cerco, e houve tributo de Israel a Tiro."
+      ]
     },
     {
       "id": "1KI.5.name.1",
@@ -178,7 +263,12 @@
       "kind": "name",
       "prompt": "Quem era Hirão, que enviou servos a Salomão?",
       "answer": "O rei de Tiro, que sempre teve amor por Davi.",
-      "reference": "1Rs 5:1"
+      "reference": "1Rs 5:1",
+      "wrongs": [
+        "O rei de Moabe, que sempre foi inimigo de Davi.",
+        "O rei do Egito, que deu uma filha a Salomão.",
+        "O rei da Síria, que cercou as cidades do norte."
+      ]
     },
     {
       "id": "1KI.5.place.1",
@@ -188,7 +278,12 @@
       "kind": "place",
       "prompt": "De onde Salomão pediu madeira a Hirão?",
       "answer": "Dos cedros do Líbano.",
-      "reference": "1Rs 5:6"
+      "reference": "1Rs 5:6",
+      "wrongs": [
+        "Dos carvalhos de Basã.",
+        "Das palmeiras de Jericó.",
+        "Das oliveiras do Carmelo."
+      ]
     },
     {
       "id": "1KI.5.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Quantos carregadores e cortadores Salomão tinha?",
       "answer": "Setenta mil carregadores e oitenta mil cortadores.",
-      "reference": "1Rs 5:15"
+      "reference": "1Rs 5:15",
+      "wrongs": [
+        "Trinta mil carregadores e quarenta mil cortadores.",
+        "Dez mil carregadores e vinte mil cortadores.",
+        "Cem mil carregadores e cinquenta mil cortadores."
+      ]
     },
     {
       "id": "1KI.6.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "O que Salomão começou no quarto ano do reinado?",
       "answer": "A casa de Deus, no mês de Zife.",
-      "reference": "1Rs 6:1"
+      "reference": "1Rs 6:1",
+      "wrongs": [
+        "O palácio real, no mês de etanim.",
+        "A frota de Ofir, no mês de bul.",
+        "A muralha de Jerusalém, no mês de nisã."
+      ]
     },
     {
       "id": "1KI.6.place.1",
@@ -218,7 +323,12 @@
       "kind": "place",
       "prompt": "Que sala interna Salomão fez na casa?",
       "answer": "O lugar santíssimo, de madeira de cedro.",
-      "reference": "1Rs 6:16"
+      "reference": "1Rs 6:16",
+      "wrongs": [
+        "O pátio externo, de pedra bruta.",
+        "A sala do tesouro, de bronze puro.",
+        "O quarto dos porteiros, de acácia."
+      ]
     },
     {
       "id": "1KI.6.curiosity.1",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "Que ferramentas não se ouviram na obra da casa, em 1 Reis?",
       "answer": "Martelo, machado e nenhum outro ferro.",
-      "reference": "1Rs 6:7"
+      "reference": "1Rs 6:7",
+      "wrongs": [
+        "Trombeta, címbalo e nenhum outro canto.",
+        "Corda, roldana e nenhum outro pano.",
+        "Tocha, incenso e nenhum outro fogo."
+      ]
     },
     {
       "id": "1KI.6.curiosity.2",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Em quantos anos Salomão acabou a casa de Deus?",
       "answer": "Em sete anos.",
-      "reference": "1Rs 6:38"
+      "reference": "1Rs 6:38",
+      "wrongs": [
+        "Em treze anos.",
+        "Em três anos.",
+        "Em quarenta anos."
+      ]
     },
     {
       "id": "1KI.7.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "O que Salomão terminou para a casa de Deus?",
       "answer": "Toda a obra que ele tinha planejado.",
-      "reference": "1Rs 7:51"
+      "reference": "1Rs 7:51",
+      "wrongs": [
+        "Só o altar, e deixou o resto.",
+        "A muralha da cidade, nada mais.",
+        "A frota de Társis, no mesmo ano."
+      ]
     },
     {
       "id": "1KI.7.name.1",
@@ -258,7 +383,12 @@
       "kind": "name",
       "prompt": "Quem fez a obra de bronze para Salomão?",
       "answer": "Hirão, filho de uma viúva de Naftali.",
-      "reference": "1Rs 7:14"
+      "reference": "1Rs 7:14",
+      "wrongs": [
+        "Benaia, filho de Joiada.",
+        "Hirão, o rei de Tiro.",
+        "Bezalel, filho de Uri."
+      ]
     },
     {
       "id": "1KI.7.place.1",
@@ -268,7 +398,12 @@
       "kind": "place",
       "prompt": "Onde o bronze da casa foi fundido, em 1 Reis?",
       "answer": "Na planície do Jordão, entre Sucote e Zaretã.",
-      "reference": "1Rs 7:46"
+      "reference": "1Rs 7:46",
+      "wrongs": [
+        "Na planície do Jordão, entre Jericó e Gilgal.",
+        "No monte Carmelo, junto ao ribeiro.",
+        "No vale de Hinom, ao sul de Jerusalém."
+      ]
     },
     {
       "id": "1KI.7.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "Que nomes Salomão deu às duas colunas do pórtico?",
       "answer": "Jaquim à direita e Boaz à esquerda.",
-      "reference": "1Rs 7:21"
+      "reference": "1Rs 7:21",
+      "wrongs": [
+        "Boaz à direita e Jaquim à esquerda.",
+        "Sadraque à direita e Mesaque à esquerda.",
+        "Eliã à direita e Hebrom à esquerda."
+      ]
     },
     {
       "id": "1KI.8.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "Por que os sacerdotes não puderam ministrar, em 1 Reis?",
       "answer": "Porque a glória de Deus encheu a casa.",
-      "reference": "1Rs 8:11"
+      "reference": "1Rs 8:11",
+      "wrongs": [
+        "Porque o fogo consumiu o altar.",
+        "Porque a arca ainda estava em Siló.",
+        "Porque Salomão os afastou do serviço."
+      ]
     },
     {
       "id": "1KI.8.place.1",
@@ -298,7 +443,12 @@
       "kind": "place",
       "prompt": "De onde trouxeram a arca para o templo de Salomão?",
       "answer": "Da cidade de Davi, também chamada Sião.",
-      "reference": "1Rs 8:1"
+      "reference": "1Rs 8:1",
+      "wrongs": [
+        "De Siló, onde estava o tabernáculo.",
+        "De Gibeão, no principal lugar alto.",
+        "De Quiriate-Jearim, da casa de Abinadabe."
+      ]
     },
     {
       "id": "1KI.8.curiosity.1",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "O que havia dentro da arca no templo de Salomão?",
       "answer": "Só as duas tábuas de pedra que Moisés colocou.",
-      "reference": "1Rs 8:9"
+      "reference": "1Rs 8:9",
+      "wrongs": [
+        "O maná, a vara de Arão e as tábuas.",
+        "O livro da lei e uma urna de ouro.",
+        "Nada; a arca estava vazia."
+      ]
     },
     {
       "id": "1KI.8.curiosity.2",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "Quantos animais Salomão ofereceu na dedicação da casa?",
       "answer": "Vinte e dois mil bois, mais cento e vinte mil ovelhas.",
-      "reference": "1Rs 8:63"
+      "reference": "1Rs 8:63",
+      "wrongs": [
+        "Sete bois, mais sete carneiros.",
+        "Mil bois, mais mil ovelhas.",
+        "Três mil bois, mais doze mil ovelhas."
+      ]
     },
     {
       "id": "1KI.9.subject.1",
@@ -328,7 +488,12 @@
       "kind": "subject",
       "prompt": "O que Deus fez com a casa edificada por Salomão?",
       "answer": "Santificou-a, para o nome dele permanecer ali.",
-      "reference": "1Rs 9:3"
+      "reference": "1Rs 9:3",
+      "wrongs": [
+        "Rejeitou-a, porque o lugar era alto demais.",
+        "Entregou-a a Hirão, em troca das cidades.",
+        "Escondeu-a, para o nome dele sair dali."
+      ]
     },
     {
       "id": "1KI.9.place.1",
@@ -338,7 +503,12 @@
       "kind": "place",
       "prompt": "Que nome Hirão deu às cidades que recebeu?",
       "answer": "Terra de Cabul.",
-      "reference": "1Rs 9:13"
+      "reference": "1Rs 9:13",
+      "wrongs": [
+        "Terra de Ofir.",
+        "Terra de Canaã.",
+        "Terra de Basã."
+      ]
     },
     {
       "id": "1KI.9.curiosity.1",
@@ -348,7 +518,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus disse a Salomão que faria com Israel e com a casa?",
       "answer": "Tiraria Israel da terra e rejeitaria aquela casa.",
-      "reference": "1Rs 9:7"
+      "reference": "1Rs 9:7",
+      "wrongs": [
+        "Firmaria Israel na terra e honraria aquela casa.",
+        "Mudaria Israel para o Egito e venderia aquela casa.",
+        "Entregaria Israel a Hirão e mudaria aquela casa de lugar."
+      ]
     },
     {
       "id": "1KI.9.curiosity.2",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "Quanto ouro os navios trouxeram de Ofir, no relato de Reis?",
       "answer": "Quatrocentos e vinte talentos.",
-      "reference": "1Rs 9:28"
+      "reference": "1Rs 9:28",
+      "wrongs": [
+        "Quatrocentos e cinquenta talentos.",
+        "Trezentos talentos.",
+        "Seiscentos e sessenta e seis talentos."
+      ]
     },
     {
       "id": "1KI.10.subject.1",
@@ -368,7 +548,12 @@
       "kind": "subject",
       "prompt": "Por que a rainha de Sabá foi falar com Salomão?",
       "answer": "Porque ouviu a fama dele e quis prová-lo com perguntas.",
-      "reference": "1Rs 10:1"
+      "reference": "1Rs 10:1",
+      "wrongs": [
+        "Porque fugia de um inimigo e buscava abrigo.",
+        "Porque queria o trono dele e mudar a corte.",
+        "Porque trazia um tributo de guerra e pedia paz."
+      ]
     },
     {
       "id": "1KI.10.place.1",
@@ -378,7 +563,12 @@
       "kind": "place",
       "prompt": "A que cidade a rainha de Sabá chegou?",
       "answer": "A Jerusalém, com uma comitiva enorme.",
-      "reference": "1Rs 10:2"
+      "reference": "1Rs 10:2",
+      "wrongs": [
+        "A Samaria, com uma comitiva enorme.",
+        "A Tiro, com uma comitiva enorme.",
+        "A Damasco, com uma comitiva enorme."
+      ]
     },
     {
       "id": "1KI.10.curiosity.1",
@@ -388,7 +578,12 @@
       "kind": "curiosity",
       "prompt": "Quanto ouro Salomão recebia por ano?",
       "answer": "Seiscentos e sessenta e seis talentos.",
-      "reference": "1Rs 10:14"
+      "reference": "1Rs 10:14",
+      "wrongs": [
+        "Quatrocentos e vinte talentos.",
+        "Cem talentos.",
+        "Mil talentos."
+      ]
     },
     {
       "id": "1KI.10.curiosity.2",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "O que a frota trazia de três em três anos, em 1 Reis?",
       "answer": "Ouro e prata, além de marfim, macacos e pavões.",
-      "reference": "1Rs 10:22"
+      "reference": "1Rs 10:22",
+      "wrongs": [
+        "Trigo e azeite, além de vinho, linho e mel.",
+        "Cedro e cipreste, além de pedra e bronze.",
+        "Cavalos e carros, além de especiarias e incenso."
+      ]
     },
     {
       "id": "1KI.11.subject.1",
@@ -408,7 +608,12 @@
       "kind": "subject",
       "prompt": "O que as mulheres de Salomão fizeram na velhice dele?",
       "answer": "Desviaram o coração dele para outros deuses.",
-      "reference": "1Rs 11:4"
+      "reference": "1Rs 11:4",
+      "wrongs": [
+        "Firmaram o coração dele só no Deus de Israel.",
+        "Afastaram o coração dele do trono e da corte.",
+        "Levaram o coração dele a deixar Jerusalém."
+      ]
     },
     {
       "id": "1KI.11.name.1",
@@ -418,7 +623,12 @@
       "kind": "name",
       "prompt": "Quem, sendo servo de Salomão, se levantou contra o rei?",
       "answer": "Jeroboão, filho de Nebate.",
-      "reference": "1Rs 11:26"
+      "reference": "1Rs 11:26",
+      "wrongs": [
+        "Hadade, o edomita.",
+        "Rezom, filho de Eliada.",
+        "Benaia, filho de Joiada."
+      ]
     },
     {
       "id": "1KI.11.curiosity.1",
@@ -428,7 +638,12 @@
       "kind": "curiosity",
       "prompt": "Quantas esposas e concubinas Salomão teve?",
       "answer": "Setecentas esposas e trezentas concubinas.",
-      "reference": "1Rs 11:3"
+      "reference": "1Rs 11:3",
+      "wrongs": [
+        "Trezentas esposas e setecentas concubinas.",
+        "Cem esposas e cinquenta concubinas.",
+        "Mil esposas e mil concubinas."
+      ]
     },
     {
       "id": "1KI.11.curiosity.2",
@@ -438,7 +653,12 @@
       "kind": "curiosity",
       "prompt": "Em quantos pedaços Aías rasgou a capa nova?",
       "answer": "Em doze pedaços.",
-      "reference": "1Rs 11:30"
+      "reference": "1Rs 11:30",
+      "wrongs": [
+        "Em dez pedaços.",
+        "Em dois pedaços.",
+        "Em sete pedaços."
+      ]
     },
     {
       "id": "1KI.12.subject.1",
@@ -448,7 +668,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu entre Israel e a casa de Davi?",
       "answer": "Israel se separou dela, e a divisão seguiu.",
-      "reference": "1Rs 12:19"
+      "reference": "1Rs 12:19",
+      "wrongs": [
+        "Israel voltou a ela, e a união seguiu.",
+        "Israel a serviu em paz, e o tributo seguiu.",
+        "Israel a mudou para Samaria, e o culto seguiu."
+      ]
     },
     {
       "id": "1KI.12.name.1",
@@ -458,7 +683,12 @@
       "kind": "name",
       "prompt": "Quem o povo fez rei sobre Israel ao rejeitar Roboão?",
       "answer": "Jeroboão, e só Judá ficou com a casa de Davi.",
-      "reference": "1Rs 12:20"
+      "reference": "1Rs 12:20",
+      "wrongs": [
+        "Baasa, e só Judá ficou com a casa de Davi.",
+        "Onri, e só Judá ficou com a casa de Davi.",
+        "Acabe, e só Judá ficou com a casa de Davi."
+      ]
     },
     {
       "id": "1KI.12.place.1",
@@ -468,7 +698,12 @@
       "kind": "place",
       "prompt": "Onde Israel se reuniu para fazer Roboão rei?",
       "answer": "Em Siquém.",
-      "reference": "1Rs 12:1"
+      "reference": "1Rs 12:1",
+      "wrongs": [
+        "Em Hebrom.",
+        "Em Jerusalém.",
+        "Em Samaria."
+      ]
     },
     {
       "id": "1KI.12.curiosity.1",
@@ -478,7 +713,12 @@
       "kind": "curiosity",
       "prompt": "O que Jeroboão apresentou a Israel como deuses?",
       "answer": "Dois bezerros de ouro.",
-      "reference": "1Rs 12:28"
+      "reference": "1Rs 12:28",
+      "wrongs": [
+        "Uma imagem de Baal.",
+        "Dois postes de Aserá.",
+        "Uma serpente de bronze."
+      ]
     },
     {
       "id": "1KI.13.subject.1",
@@ -488,7 +728,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu ao altar de Jeroboão, como o homem de Deus avisou?",
       "answer": "Quebrou-se, e a cinza se derramou.",
-      "reference": "1Rs 13:5"
+      "reference": "1Rs 13:5",
+      "wrongs": [
+        "Ficou inteiro, e o fogo se apagou.",
+        "Afundou, e o ouro se derreteu.",
+        "Sumiu, e o bezerro se partiu."
+      ]
     },
     {
       "id": "1KI.13.name.1",
@@ -498,7 +743,12 @@
       "kind": "name",
       "prompt": "Que filho da casa de Davi o homem de Deus anunciou em Betel?",
       "answer": "Josias.",
-      "reference": "1Rs 13:2"
+      "reference": "1Rs 13:2",
+      "wrongs": [
+        "Roboão.",
+        "Ezequias.",
+        "Salomão."
+      ]
     },
     {
       "id": "1KI.13.place.1",
@@ -508,7 +758,12 @@
       "kind": "place",
       "prompt": "A que cidade veio o homem de Deus, saindo de Judá?",
       "answer": "A Betel, onde Jeroboão estava junto ao altar.",
-      "reference": "1Rs 13:1"
+      "reference": "1Rs 13:1",
+      "wrongs": [
+        "A Dã, onde Jeroboão estava junto ao altar.",
+        "A Samaria, onde Jeroboão estava junto ao altar.",
+        "A Siló, onde Jeroboão estava junto ao altar."
+      ]
     },
     {
       "id": "1KI.13.curiosity.1",
@@ -518,7 +773,12 @@
       "kind": "curiosity",
       "prompt": "Quem matou no caminho o homem de Deus vindo de Judá?",
       "answer": "Um leão, e o asno ficou parado ao lado.",
-      "reference": "1Rs 13:24"
+      "reference": "1Rs 13:24",
+      "wrongs": [
+        "Um urso, e o asno fugiu para o mato.",
+        "Bandidos, e o asno foi levado embora.",
+        "O profeta velho, e o asno voltou sozinho."
+      ]
     },
     {
       "id": "1KI.14.subject.1",
@@ -528,7 +788,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu ao filho de Jeroboão quando a mulher chegou a Tirza?",
       "answer": "Ele morreu assim que ela entrou em casa.",
-      "reference": "1Rs 14:17"
+      "reference": "1Rs 14:17",
+      "wrongs": [
+        "Ele sarou assim que ela entrou em casa.",
+        "Ele fugiu assim que ela entrou em casa.",
+        "Ele foi ungido assim que ela entrou em casa."
+      ]
     },
     {
       "id": "1KI.14.name.1",
@@ -538,7 +803,12 @@
       "kind": "name",
       "prompt": "Que profeta a mulher de Jeroboão devia consultar?",
       "answer": "Aías, que estava em Siló.",
-      "reference": "1Rs 14:2"
+      "reference": "1Rs 14:2",
+      "wrongs": [
+        "Natã, que estava em Jerusalém.",
+        "Elias, que estava no Carmelo.",
+        "Micaías, que estava na prisão."
+      ]
     },
     {
       "id": "1KI.14.place.1",
@@ -548,7 +818,12 @@
       "kind": "place",
       "prompt": "Contra qual cidade Sisaque subiu no quinto ano de Roboão?",
       "answer": "Contra Jerusalém.",
-      "reference": "1Rs 14:25"
+      "reference": "1Rs 14:25",
+      "wrongs": [
+        "Contra Samaria.",
+        "Contra Damasco.",
+        "Contra Tiro."
+      ]
     },
     {
       "id": "1KI.14.curiosity.1",
@@ -558,7 +833,12 @@
       "kind": "curiosity",
       "prompt": "De que metal Roboão fez os escudos novos?",
       "answer": "De bronze, e os entregou aos chefes da guarda.",
-      "reference": "1Rs 14:27"
+      "reference": "1Rs 14:27",
+      "wrongs": [
+        "De ouro, e os entregou aos chefes da guarda.",
+        "De prata, e os entregou aos chefes da guarda.",
+        "De ferro, e os entregou aos chefes da guarda."
+      ]
     },
     {
       "id": "1KI.15.subject.1",
@@ -568,7 +848,12 @@
       "kind": "subject",
       "prompt": "Como Asa agiu diante de Deus?",
       "answer": "Fez o que era certo, à maneira de Davi.",
-      "reference": "1Rs 15:11"
+      "reference": "1Rs 15:11",
+      "wrongs": [
+        "Fez o que era mau, à maneira de Jeroboão.",
+        "Fez o que era certo, à maneira de Acabe.",
+        "Fez o que era mau, à maneira de Manassés."
+      ]
     },
     {
       "id": "1KI.15.name.1",
@@ -578,7 +863,12 @@
       "kind": "name",
       "prompt": "Quem Asa afastou do posto de rainha-mãe?",
       "answer": "A avó Maaca, que tinha feito um ídolo.",
-      "reference": "1Rs 15:13"
+      "reference": "1Rs 15:13",
+      "wrongs": [
+        "A rainha Jezabel, que tinha feito um ídolo.",
+        "A esposa Atalia, que tinha feito um ídolo.",
+        "A filha Tamar, que tinha feito um ídolo."
+      ]
     },
     {
       "id": "1KI.15.place.1",
@@ -588,7 +878,12 @@
       "kind": "place",
       "prompt": "Que cidade Baasa construiu para apertar Asa?",
       "answer": "Ramá, para ninguém entrar nem sair.",
-      "reference": "1Rs 15:17"
+      "reference": "1Rs 15:17",
+      "wrongs": [
+        "Gibeão, para ninguém entrar nem sair.",
+        "Laquis, para ninguém entrar nem sair.",
+        "Jericó, para ninguém entrar nem sair."
+      ]
     },
     {
       "id": "1KI.15.curiosity.1",
@@ -598,7 +893,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu com Asa quando envelheceu?",
       "answer": "Ficou doente dos pés.",
-      "reference": "1Rs 15:23"
+      "reference": "1Rs 15:23",
+      "wrongs": [
+        "Ficou cego dos olhos.",
+        "Ficou leproso na testa.",
+        "Ficou mudo até morrer."
+      ]
     },
     {
       "id": "1KI.16.subject.1",
@@ -608,7 +908,12 @@
       "kind": "subject",
       "prompt": "Como Acabe se comparou aos reis de Israel anteriores?",
       "answer": "Fez o mal pior do que todos os de antes.",
-      "reference": "1Rs 16:30"
+      "reference": "1Rs 16:30",
+      "wrongs": [
+        "Fez o bem melhor do que todos os de antes.",
+        "Fez o mal igual só ao de Davi, e nada além.",
+        "Fez o bem à maneira de Asa, sem ídolo."
+      ]
     },
     {
       "id": "1KI.16.name.1",
@@ -618,7 +923,12 @@
       "kind": "name",
       "prompt": "Quem Acabe tomou por mulher?",
       "answer": "Jezabel, filha de Etbaal, rei de Sidom.",
-      "reference": "1Rs 16:31"
+      "reference": "1Rs 16:31",
+      "wrongs": [
+        "Atalia, filha de Onri, rei de Israel.",
+        "Maaca, filha de Absalão.",
+        "Abisague, a sunamita."
+      ]
     },
     {
       "id": "1KI.16.place.1",
@@ -628,7 +938,12 @@
       "kind": "place",
       "prompt": "Que cidade Onri fundou no monte de Semer?",
       "answer": "Samaria, usando o nome do antigo dono.",
-      "reference": "1Rs 16:24"
+      "reference": "1Rs 16:24",
+      "wrongs": [
+        "Jezreel, usando o nome do antigo dono.",
+        "Tirza, usando o nome do antigo dono.",
+        "Ramá, usando o nome do antigo dono."
+      ]
     },
     {
       "id": "1KI.16.curiosity.1",
@@ -638,7 +953,12 @@
       "kind": "curiosity",
       "prompt": "À custa de quem Hiel reconstruiu Jericó?",
       "answer": "Do primogênito Abirão e do filho mais novo Segube.",
-      "reference": "1Rs 16:34"
+      "reference": "1Rs 16:34",
+      "wrongs": [
+        "Do primogênito Segube e do filho mais novo Abirão.",
+        "Do rei Acabe e da rainha Jezabel.",
+        "Dos dois filhos de Jeroboão, Nadabe e Abias."
+      ]
     },
     {
       "id": "1KI.17.subject.1",
@@ -648,7 +968,12 @@
       "kind": "subject",
       "prompt": "O que Elias anunciou a Acabe sobre a chuva?",
       "answer": "Não haveria orvalho nem chuva, senão pela palavra dele.",
-      "reference": "1Rs 17:1"
+      "reference": "1Rs 17:1",
+      "wrongs": [
+        "Haveria orvalho e chuva abundante naquele mesmo dia.",
+        "Não haveria sol nem vento, senão pela ordem do rei.",
+        "A chuva viria só do Carmelo, sem nenhuma palavra."
+      ]
     },
     {
       "id": "1KI.17.place.1",
@@ -658,7 +983,12 @@
       "kind": "place",
       "prompt": "Onde Deus mandou Elias se esconder?",
       "answer": "No ribeiro de Querite, diante do Jordão.",
-      "reference": "1Rs 17:3"
+      "reference": "1Rs 17:3",
+      "wrongs": [
+        "No monte Horebe, ao sul do deserto.",
+        "Na caverna do Carmelo, junto ao mar.",
+        "Na casa da viúva em Sarepta, desde o primeiro dia."
+      ]
     },
     {
       "id": "1KI.17.curiosity.1",
@@ -668,7 +998,12 @@
       "kind": "curiosity",
       "prompt": "O que os corvos levavam a Elias?",
       "answer": "Pão e carne, de manhã e à tarde.",
-      "reference": "1Rs 17:6"
+      "reference": "1Rs 17:6",
+      "wrongs": [
+        "Água e mel, de manhã e à tarde.",
+        "Peixe e figos, de manhã e à tarde.",
+        "Azeite e farinha, de manhã e à tarde."
+      ]
     },
     {
       "id": "1KI.17.curiosity.2",
@@ -678,7 +1013,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus fez quando Elias orou pelo filho da viúva?",
       "answer": "A vida voltou ao corpo, e o menino reviveu.",
-      "reference": "1Rs 17:22"
+      "reference": "1Rs 17:22",
+      "wrongs": [
+        "A febre passou, mas o menino continuou dormindo.",
+        "O corpo foi sepultado, e o menino não voltou.",
+        "A alma subiu, e o menino ficou em paz."
+      ]
     },
     {
       "id": "1KI.18.subject.1",
@@ -688,7 +1028,12 @@
       "kind": "subject",
       "prompt": "O que o fogo de Deus fez no altar de Elias?",
       "answer": "Queimou o sacrifício, a lenha, as pedras, o pó e a água.",
-      "reference": "1Rs 18:38"
+      "reference": "1Rs 18:38",
+      "wrongs": [
+        "Apagou o sacrifício e deixou a água intacta.",
+        "Queimou só a lenha e poupou o novilho.",
+        "Caiu no altar de Baal e não tocou o de Elias."
+      ]
     },
     {
       "id": "1KI.18.name.1",
@@ -698,7 +1043,12 @@
       "kind": "name",
       "prompt": "Quem escondeu cem profetas da perseguição de Jezabel?",
       "answer": "Obadias, em grupos de cinquenta, dentro de covas.",
-      "reference": "1Rs 18:4"
+      "reference": "1Rs 18:4",
+      "wrongs": [
+        "Elias, em grupos de cinquenta, dentro de covas.",
+        "Eliseu, em grupos de dez, dentro de covas.",
+        "Micaías, em grupos de vinte, dentro do palácio."
+      ]
     },
     {
       "id": "1KI.18.place.1",
@@ -708,7 +1058,12 @@
       "kind": "place",
       "prompt": "Onde Acabe reuniu o povo e os profetas?",
       "answer": "No monte Carmelo.",
-      "reference": "1Rs 18:20"
+      "reference": "1Rs 18:20",
+      "wrongs": [
+        "No monte Sinai.",
+        "No monte Sião.",
+        "No monte Gilboa."
+      ]
     },
     {
       "id": "1KI.18.curiosity.1",
@@ -718,7 +1073,12 @@
       "kind": "curiosity",
       "prompt": "Quantos profetas de Baal estavam diante de Elias?",
       "answer": "Quatrocentos e cinquenta.",
-      "reference": "1Rs 18:22"
+      "reference": "1Rs 18:22",
+      "wrongs": [
+        "Quatrocentos.",
+        "Oitocentos e cinquenta.",
+        "Duzentos."
+      ]
     },
     {
       "id": "1KI.19.subject.1",
@@ -728,7 +1088,12 @@
       "kind": "subject",
       "prompt": "Como Deus falou a Elias depois do fogo?",
       "answer": "Numa voz suave e agradável.",
-      "reference": "1Rs 19:12"
+      "reference": "1Rs 19:12",
+      "wrongs": [
+        "Num trovão que partiu as pedras.",
+        "Num vento forte que fendeu os montes.",
+        "Num terremoto que sacudiu a caverna."
+      ]
     },
     {
       "id": "1KI.19.name.1",
@@ -738,7 +1103,12 @@
       "kind": "name",
       "prompt": "Quem Elias encontrou arando e cobriu com o manto?",
       "answer": "Eliseu, filho de Safate.",
-      "reference": "1Rs 19:19"
+      "reference": "1Rs 19:19",
+      "wrongs": [
+        "Obadias, mordomo de Acabe.",
+        "Geazi, criado de Eliseu.",
+        "Micaías, filho de Inlá."
+      ]
     },
     {
       "id": "1KI.19.place.1",
@@ -748,7 +1118,12 @@
       "kind": "place",
       "prompt": "Até onde Elias chegou com a comida que o anjo trouxe?",
       "answer": "Ao monte Horebe, depois de quarenta dias e quarenta noites.",
-      "reference": "1Rs 19:8"
+      "reference": "1Rs 19:8",
+      "wrongs": [
+        "Ao monte Carmelo, depois de três dias e três noites.",
+        "Ao ribeiro de Querite, depois de sete dias.",
+        "A Nínive, depois de quarenta dias e quarenta noites."
+      ]
     },
     {
       "id": "1KI.19.curiosity.1",
@@ -758,7 +1133,12 @@
       "kind": "curiosity",
       "prompt": "Quantos em Israel não tinham dobrado o joelho a Baal?",
       "answer": "Sete mil.",
-      "reference": "1Rs 19:18"
+      "reference": "1Rs 19:18",
+      "wrongs": [
+        "Setecentos.",
+        "Três mil.",
+        "Doze mil."
+      ]
     },
     {
       "id": "1KI.20.subject.1",
@@ -768,7 +1148,12 @@
       "kind": "subject",
       "prompt": "Por que a vida de Acabe ficaria no lugar da do prisioneiro?",
       "answer": "Porque ele soltou o homem que Deus tinha condenado.",
-      "reference": "1Rs 20:42"
+      "reference": "1Rs 20:42",
+      "wrongs": [
+        "Porque ele matou o homem que Deus tinha poupado.",
+        "Porque ele recusou o resgate que Deus tinha pedido.",
+        "Porque ele escondeu o homem que Deus tinha chamado."
+      ]
     },
     {
       "id": "1KI.20.name.1",
@@ -778,7 +1163,12 @@
       "kind": "name",
       "prompt": "Quem cercou Samaria acompanhado de trinta e dois reis?",
       "answer": "Ben-Hadade, rei da Síria.",
-      "reference": "1Rs 20:1"
+      "reference": "1Rs 20:1",
+      "wrongs": [
+        "Senaqueribe, rei da Assíria.",
+        "Sisaque, rei do Egito.",
+        "Nabucodonosor, rei da Babilônia."
+      ]
     },
     {
       "id": "1KI.20.place.1",
@@ -788,7 +1178,12 @@
       "kind": "place",
       "prompt": "Onde Ben-Hadade voltou para lutar contra Israel?",
       "answer": "Em Afeque.",
-      "reference": "1Rs 20:26"
+      "reference": "1Rs 20:26",
+      "wrongs": [
+        "Em Ramote de Gileade.",
+        "Em Megido.",
+        "Em Carquemis."
+      ]
     },
     {
       "id": "1KI.20.curiosity.1",
@@ -798,7 +1193,12 @@
       "kind": "curiosity",
       "prompt": "Quantos soldados sírios a pé morreram num só dia, em 1 Reis?",
       "answer": "Cem mil.",
-      "reference": "1Rs 20:29"
+      "reference": "1Rs 20:29",
+      "wrongs": [
+        "Dez mil.",
+        "Vinte e sete mil.",
+        "Um milhão."
+      ]
     },
     {
       "id": "1KI.21.subject.1",
@@ -808,7 +1208,12 @@
       "kind": "subject",
       "prompt": "O que Acabe foi fazer quando soube que Nabote morreu?",
       "answer": "Tomar posse da vinha dele em Jezreel.",
-      "reference": "1Rs 21:16"
+      "reference": "1Rs 21:16",
+      "wrongs": [
+        "Chorar no túmulo dele em Samaria.",
+        "Devolver a vinha à família dele.",
+        "Construir um altar no campo dele."
+      ]
     },
     {
       "id": "1KI.21.name.1",
@@ -818,7 +1223,12 @@
       "kind": "name",
       "prompt": "De quem era a vinha ao lado do palácio de Acabe?",
       "answer": "De Nabote, morador de Jezreel.",
-      "reference": "1Rs 21:1"
+      "reference": "1Rs 21:1",
+      "wrongs": [
+        "De Obadias, morador de Samaria.",
+        "De Nabote, morador de Samaria.",
+        "De Geazi, morador de Jezreel."
+      ]
     },
     {
       "id": "1KI.21.curiosity.1",
@@ -828,7 +1238,12 @@
       "kind": "curiosity",
       "prompt": "Onde os cães lamberiam o sangue de Acabe?",
       "answer": "No mesmo lugar em que lamberam o de Nabote.",
-      "reference": "1Rs 21:19"
+      "reference": "1Rs 21:19",
+      "wrongs": [
+        "No palácio de Samaria, junto ao trono.",
+        "No ribeiro de Querite, fora da cidade.",
+        "No monte Carmelo, sobre o altar."
+      ]
     },
     {
       "id": "1KI.21.curiosity.2",
@@ -838,7 +1253,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceria com Jezabel em Jezreel?",
       "answer": "Os cães a comeriam junto ao muro.",
-      "reference": "1Rs 21:23"
+      "reference": "1Rs 21:23",
+      "wrongs": [
+        "O fogo a consumiria no palácio.",
+        "O povo a sepultaria com honra.",
+        "As aves a levariam para o deserto."
+      ]
     },
     {
       "id": "1KI.22.subject.1",
@@ -848,7 +1268,12 @@
       "kind": "subject",
       "prompt": "Como o rei Acabe foi ferido na batalha?",
       "answer": "Uma flecha ao acaso entrou entre as peças da armadura.",
-      "reference": "1Rs 22:34"
+      "reference": "1Rs 22:34",
+      "wrongs": [
+        "Uma lança certeira atravessou o escudo.",
+        "Uma pedra de funda bateu na testa.",
+        "Uma espada de perto cortou o pescoço."
+      ]
     },
     {
       "id": "1KI.22.name.1",
@@ -858,7 +1283,12 @@
       "kind": "name",
       "prompt": "Qual profeta Acabe dizia que só anunciava desgraça?",
       "answer": "Micaías, filho de Inlá.",
-      "reference": "1Rs 22:8"
+      "reference": "1Rs 22:8",
+      "wrongs": [
+        "Elias, o tisbita.",
+        "Eliseu, filho de Safate.",
+        "Natã, o profeta de Davi."
+      ]
     },
     {
       "id": "1KI.22.place.1",
@@ -868,7 +1298,12 @@
       "kind": "place",
       "prompt": "Para onde Acabe e Josafá subiram à guerra?",
       "answer": "Para Ramote de Gileade.",
-      "reference": "1Rs 22:29"
+      "reference": "1Rs 22:29",
+      "wrongs": [
+        "Para Ramá de Benjamim.",
+        "Para Rabá dos amonitas.",
+        "Para Gate dos filisteus."
+      ]
     },
     {
       "id": "1KI.22.curiosity.1",
@@ -878,7 +1313,12 @@
       "kind": "curiosity",
       "prompt": "O que os cães fizeram com o sangue de Acabe?",
       "answer": "Lamberam, como Deus já tinha dito.",
-      "reference": "1Rs 22:38"
+      "reference": "1Rs 22:38",
+      "wrongs": [
+        "Fugiram, como o povo já esperava.",
+        "Beberam a água, sem tocar o sangue.",
+        "Guardaram o corpo, como Jezabel pediu."
+      ]
     },
     {
       "id": "1KI.0.curiosity.1",
@@ -888,7 +1328,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 1 Reis?",
       "answer": "O livro não nomeia o autor.",
-      "reference": "1 Reis"
+      "reference": "1 Reis",
+      "wrongs": [
+        "O livro nomeia Moisés como autor.",
+        "O livro nomeia Salomão como autor.",
+        "O livro nomeia Davi como autor."
+      ]
     },
     {
       "id": "1KI.0.curiosity.2",
@@ -898,7 +1343,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 1 Reis?",
       "answer": "No tempo do exílio, no século VI antes de Cristo.",
-      "reference": "1 Reis"
+      "reference": "1 Reis",
+      "wrongs": [
+        "No tempo de Salomão, no século X antes de Cristo.",
+        "No tempo dos juízes, no século XII antes de Cristo.",
+        "No século I, depois do nascimento de Cristo."
+      ]
     }
   ]
 }

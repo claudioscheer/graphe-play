@@ -16,8 +16,8 @@ data class QuizQuestion(
 
 /**
  * Builds a multiple-choice quiz from [prompts], which must already be limited
- * to the active scope. Wrong options prefer other cards of the same kind from
- * [distractorPool], then any other answer if that kind runs out.
+ * to the active scope. Wrong options are the three written on the card.
+ * If a card has none yet, other answers of the same kind fill in.
  */
 /**
  * Cards the quiz may ask. A book or chapter also includes that book's own
@@ -46,7 +46,7 @@ fun verseQuizQuestion(
     random: Random,
 ): QuizQuestion? {
     val wrong = distractors
-        .filter { it.text != correct.text }
+        .filter { it.bookNumber == correct.bookNumber && it.text != correct.text }
         .distinctBy { it.text }
         .shuffled(random)
         .take(3)
@@ -87,6 +87,10 @@ fun buildQuiz(
 }
 
 private fun wrongAnswers(card: Card, pool: List<Card>, random: Random): List<String> {
+    val written = card.wrongs.filter { it.isNotBlank() && it != card.answer }.distinct()
+    if (written.size >= 3) {
+        return written.shuffled(random).take(3)
+    }
     val sameKind = pool
         .asSequence()
         .filter { it.id != card.id && it.kind == card.kind && it.answer != card.answer }

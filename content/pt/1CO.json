@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Como a mensagem da cruz soa para quem se perde?",
       "answer": "Como loucura. Para quem se salva, é poder de Deus.",
-      "reference": "1Co 1:18"
+      "reference": "1Co 1:18",
+      "wrongs": [
+        "Como sabedoria. Para quem se salva, é peso da lei.",
+        "Como ameaça. Para quem se salva, é motivo de medo.",
+        "Como novidade. Para quem se salva, é só um discurso."
+      ]
     },
     {
       "id": "1CO.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem avisou Paulo das brigas na igreja?",
       "answer": "Os da casa de Cloé.",
-      "reference": "1Co 1:11"
+      "reference": "1Co 1:11",
+      "wrongs": [
+        "Os da casa de Estéfanas.",
+        "Os da casa de César.",
+        "Os da casa de Lídia."
+      ]
     },
     {
       "id": "1CO.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Em que cidade estava a igreja dividida a quem Paulo escreve?",
       "answer": "Em Corinto.",
-      "reference": "1Co 1:2"
+      "reference": "1Co 1:2",
+      "wrongs": [
+        "Em Éfeso.",
+        "Em Roma.",
+        "Em Filipos."
+      ]
     },
     {
       "id": "1CO.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Quais homens Paulo lembra que batizou, além da casa de Estéfanas?",
       "answer": "Crispo e Gaio.",
-      "reference": "1Co 1:14"
+      "reference": "1Co 1:14",
+      "wrongs": [
+        "Pedro e André.",
+        "Áquila e Priscila.",
+        "Silas e Timóteo."
+      ]
     },
     {
       "id": "1CO.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que Paulo resolveu saber entre os coríntios?",
       "answer": "Só Jesus Cristo, e ele na cruz.",
-      "reference": "1Co 2:2"
+      "reference": "1Co 2:2",
+      "wrongs": [
+        "A sabedoria grega, e os discursos dela.",
+        "A lei de Moisés, e cada mandamento.",
+        "Os milagres, e nada da cruz."
+      ]
     },
     {
       "id": "1CO.2.curiosity.1",
@@ -58,7 +83,12 @@
       "kind": "curiosity",
       "prompt": "A fala de Paulo convencia pela sabedoria humana?",
       "answer": "Não. Pela ação do Espírito e do poder.",
-      "reference": "1Co 2:4"
+      "reference": "1Co 2:4",
+      "wrongs": [
+        "Sim. Pela eloquência e pelos argumentos finos.",
+        "Sim. Pelo título de apóstolo e pelo medo.",
+        "Sim. Pela fama dos milagres, sem a mensagem."
+      ]
     },
     {
       "id": "1CO.2.curiosity.2",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "Alguém viu o que Deus preparou para quem o ama?",
       "answer": "Não. Olho nenhum viu, e isso não subiu ao coração.",
-      "reference": "1Co 2:9"
+      "reference": "1Co 2:9",
+      "wrongs": [
+        "Sim. Os profetas já descreveram cada detalhe.",
+        "Sim. Os sábios já tinham alcançado isso.",
+        "Sim. Quem ama a Deus vê isso com os próprios olhos."
+      ]
     },
     {
       "id": "1CO.3.subject.1",
@@ -78,7 +113,12 @@
       "kind": "subject",
       "prompt": "O plantio e a rega fazem a igreja crescer?",
       "answer": "Não. Quem faz crescer é Deus.",
-      "reference": "1Co 3:6"
+      "reference": "1Co 3:6",
+      "wrongs": [
+        "Sim. O plantio de Paulo basta para crescer.",
+        "Sim. A rega de Apolo é o que faz crescer.",
+        "Não. A igreja cresce pelo esforço dos membros."
+      ]
     },
     {
       "id": "1CO.3.curiosity.1",
@@ -88,7 +128,12 @@
       "kind": "curiosity",
       "prompt": "Qual fundamento Paulo diz que já está posto?",
       "answer": "Jesus Cristo. Não dá para pôr outro.",
-      "reference": "1Co 3:11"
+      "reference": "1Co 3:11",
+      "wrongs": [
+        "Moisés. A lei é a base que permanece.",
+        "Pedro. A igreja se apoia só nele.",
+        "A sabedoria. Cada um põe o fundamento que quiser."
+      ]
     },
     {
       "id": "1CO.3.curiosity.2",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "O que é a igreja onde mora o Espírito de Deus?",
       "answer": "O templo de Deus.",
-      "reference": "1Co 3:16"
+      "reference": "1Co 3:16",
+      "wrongs": [
+        "Uma escola de filosofia.",
+        "Uma sinagoga da lei.",
+        "Um clube da cidade."
+      ]
     },
     {
       "id": "1CO.4.subject.1",
@@ -108,7 +158,12 @@
       "kind": "subject",
       "prompt": "O reino de Deus se resume a discurso?",
       "answer": "Não. Ele se mostra em poder.",
-      "reference": "1Co 4:20"
+      "reference": "1Co 4:20",
+      "wrongs": [
+        "Sim. Basta um discurso bonito.",
+        "Sim. Ele se resume a regras e votos.",
+        "Não. Ele se mostra em riqueza e fama."
+      ]
     },
     {
       "id": "1CO.4.name.1",
@@ -118,7 +173,12 @@
       "kind": "name",
       "prompt": "Quem Paulo enviou para lembrar os caminhos dele?",
       "answer": "Timóteo, a quem chama de filho amado e fiel.",
-      "reference": "1Co 4:17"
+      "reference": "1Co 4:17",
+      "wrongs": [
+        "Tito, a quem chama de irmão na coleta.",
+        "Apolo, a quem chama de regador da igreja.",
+        "Silas, a quem chama de parceiro de viagem."
+      ]
     },
     {
       "id": "1CO.4.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Como Paulo descreve a vida dos apóstolos?",
       "answer": "Com fome, sede, sem roupa, espancados e sem casa.",
-      "reference": "1Co 4:11"
+      "reference": "1Co 4:11",
+      "wrongs": [
+        "Com honra, mesa farta, casa própria e descanso.",
+        "Com cargos na cidade, ouro e escolta romana.",
+        "Com saúde, fama e aplauso nas sinagogas."
+      ]
     },
     {
       "id": "1CO.5.subject.1",
@@ -139,7 +204,12 @@
       "kind": "subject",
       "prompt": "O que Paulo manda fazer com quem tomou a mulher do pai?",
       "answer": "Tirar essa pessoa do meio, sem a igreja se orgulhar.",
-      "reference": "1Co 5:1-2"
+      "reference": "1Co 5:1-2",
+      "wrongs": [
+        "Recebê-la à mesa e tratar o caso em segredo.",
+        "Entregá-la ao tribunal romano da cidade.",
+        "Deixar o caso, porque a graça cobre tudo."
+      ]
     },
     {
       "id": "1CO.5.curiosity.1",
@@ -149,7 +219,12 @@
       "kind": "curiosity",
       "prompt": "O que faz um pouco de fermento na massa?",
       "answer": "Faz a massa toda crescer.",
-      "reference": "1Co 5:6"
+      "reference": "1Co 5:6",
+      "wrongs": [
+        "Não muda o restante da massa.",
+        "Azeda só a beirada da massa.",
+        "Seca a massa e a deixa sem uso."
+      ]
     },
     {
       "id": "1CO.5.curiosity.2",
@@ -159,7 +234,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi oferecido como o cordeiro da páscoa, em 1 Coríntios?",
       "answer": "Cristo, em favor do povo.",
-      "reference": "1Co 5:7"
+      "reference": "1Co 5:7",
+      "wrongs": [
+        "Moisés, no deserto.",
+        "O cordeiro de cada família.",
+        "Paulo, pelos coríntios."
+      ]
     },
     {
       "id": "1CO.6.subject.1",
@@ -169,7 +249,12 @@
       "kind": "subject",
       "prompt": "De quem é o corpo de quem crê?",
       "answer": "De Deus. É templo do Espírito, e a pessoa não é dona dele.",
-      "reference": "1Co 6:19"
+      "reference": "1Co 6:19",
+      "wrongs": [
+        "Da pessoa. Ela faz com o corpo o que quiser.",
+        "Da cidade. O corpo serve aos costumes de Corinto.",
+        "Da lei. Só o casamento o torna propriedade."
+      ]
     },
     {
       "id": "1CO.6.curiosity.1",
@@ -179,7 +264,12 @@
       "kind": "curiosity",
       "prompt": "Paulo aprova irmão processando irmão diante de gente injusta?",
       "answer": "Não. A causa devia ficar entre o povo de Deus.",
-      "reference": "1Co 6:1"
+      "reference": "1Co 6:1",
+      "wrongs": [
+        "Sim. O juiz da cidade é quem deve decidir.",
+        "Sim. O mais forte leva a causa, e pronto.",
+        "Não. Irmão nenhum deve julgar outro irmão."
+      ]
     },
     {
       "id": "1CO.6.curiosity.2",
@@ -189,7 +279,12 @@
       "kind": "curiosity",
       "prompt": "Por que honrar a Deus com o corpo?",
       "answer": "Porque a pessoa foi comprada por um preço alto.",
-      "reference": "1Co 6:20"
+      "reference": "1Co 6:20",
+      "wrongs": [
+        "Porque o corpo vale menos que a alma.",
+        "Porque a lei romana exige esse respeito.",
+        "Porque o jejum torna o corpo aceitável."
+      ]
     },
     {
       "id": "1CO.7.subject.1",
@@ -199,7 +294,12 @@
       "kind": "subject",
       "prompt": "Por causa do sexo fora do casamento, o que Paulo manda?",
       "answer": "Que cada um tenha a própria esposa, e cada uma o próprio marido.",
-      "reference": "1Co 7:2"
+      "reference": "1Co 7:2",
+      "wrongs": [
+        "Que todos fiquem solteiros, sem exceção.",
+        "Que o casamento seja proibido na igreja.",
+        "Que cada um tenha quantas esposas quiser."
+      ]
     },
     {
       "id": "1CO.7.curiosity.1",
@@ -209,7 +309,12 @@
       "kind": "curiosity",
       "prompt": "O que é melhor para quem não consegue se controlar?",
       "answer": "Casar, em vez de ficar queimando de desejo.",
-      "reference": "1Co 7:9"
+      "reference": "1Co 7:9",
+      "wrongs": [
+        "Jejuar, até o desejo passar de vez.",
+        "Fazer um voto e viver isolado.",
+        "Ceder ao desejo fora do casamento."
+      ]
     },
     {
       "id": "1CO.7.curiosity.2",
@@ -219,7 +324,12 @@
       "kind": "curiosity",
       "prompt": "Quando a mulher fica livre para casar de novo?",
       "answer": "Se o marido morrer, com quem ela quiser, desde que siga a Deus.",
-      "reference": "1Co 7:39"
+      "reference": "1Co 7:39",
+      "wrongs": [
+        "Quando quiser, mesmo com o marido vivo.",
+        "Só se o marido a rejeitar por escrito.",
+        "Nunca. O vínculo dura além da morte."
+      ]
     },
     {
       "id": "1CO.8.subject.1",
@@ -229,7 +339,12 @@
       "kind": "subject",
       "prompt": "O que Paulo faz se a comida derruba o irmão?",
       "answer": "Para de comer carne, para não fazê-lo cair.",
-      "reference": "1Co 8:13"
+      "reference": "1Co 8:13",
+      "wrongs": [
+        "Continua comendo, porque o irmão é fraco.",
+        "Obriga o irmão a comer da mesma carne.",
+        "Entrega a carne no templo, como oferta."
+      ]
     },
     {
       "id": "1CO.8.curiosity.1",
@@ -239,7 +354,12 @@
       "kind": "curiosity",
       "prompt": "O saber e o amor produzem o mesmo efeito?",
       "answer": "Não. O saber enche de orgulho, e o amor faz crescer.",
-      "reference": "1Co 8:1"
+      "reference": "1Co 8:1",
+      "wrongs": [
+        "Sim. Os dois só enchem a pessoa de orgulho.",
+        "Sim. Os dois produzem o mesmo crescimento.",
+        "Não. O saber humilha, e o amor divide."
+      ]
     },
     {
       "id": "1CO.8.curiosity.2",
@@ -249,7 +369,12 @@
       "kind": "curiosity",
       "prompt": "O ídolo é um deus de verdade?",
       "answer": "Não. Ele não é nada, e só existe um Deus.",
-      "reference": "1Co 8:4"
+      "reference": "1Co 8:4",
+      "wrongs": [
+        "Sim. Cada ídolo é um deus de verdade.",
+        "Sim. Há muitos deuses, e o ídolo é um deles.",
+        "Não. O ídolo é um anjo caído com poder próprio."
+      ]
     },
     {
       "id": "1CO.9.subject.1",
@@ -259,7 +384,12 @@
       "kind": "subject",
       "prompt": "Por que Paulo se tornou tudo para todos?",
       "answer": "Para salvar pelo menos algumas pessoas.",
-      "reference": "1Co 9:22"
+      "reference": "1Co 9:22",
+      "wrongs": [
+        "Para agradar a todos e evitar conflito.",
+        "Para ganhar o sustento em cada cidade.",
+        "Para mostrar que nenhuma lei o prendia."
+      ]
     },
     {
       "id": "1CO.9.name.1",
@@ -269,7 +399,12 @@
       "kind": "name",
       "prompt": "Quem Paulo cita consigo sobre o direito de não trabalhar?",
       "answer": "Barnabé.",
-      "reference": "1Co 9:6"
+      "reference": "1Co 9:6",
+      "wrongs": [
+        "Pedro.",
+        "Apolo.",
+        "Tiago."
+      ]
     },
     {
       "id": "1CO.9.curiosity.1",
@@ -279,7 +414,12 @@
       "kind": "curiosity",
       "prompt": "O que a lei não permite fazer com o boi que debulha?",
       "answer": "Amarrar a boca dele.",
-      "reference": "1Co 9:9"
+      "reference": "1Co 9:9",
+      "wrongs": [
+        "Soltar o boi no pasto.",
+        "Cobrar taxa do dono do boi.",
+        "Oferecer o boi no altar."
+      ]
     },
     {
       "id": "1CO.9.curiosity.2",
@@ -289,7 +429,12 @@
       "kind": "curiosity",
       "prompt": "Que coroa os cristãos buscam, diferente da dos outros?",
       "answer": "Uma que não se acaba.",
-      "reference": "1Co 9:25"
+      "reference": "1Co 9:25",
+      "wrongs": [
+        "Uma de folhas, que seca logo.",
+        "Uma de ouro, dada pelo imperador.",
+        "Uma de louro, como a dos atletas."
+      ]
     },
     {
       "id": "1CO.10.subject.1",
@@ -299,7 +444,12 @@
       "kind": "subject",
       "prompt": "A pessoa pode ficar na mesa de Jesus e na mesa dos demônios?",
       "answer": "Não. Não dá para participar das duas.",
-      "reference": "1Co 10:21"
+      "reference": "1Co 10:21",
+      "wrongs": [
+        "Sim. Quem é forte participa das duas.",
+        "Sim. A mesa dos ídolos é só comida comum.",
+        "Não. Dá para ir às duas, em dias diferentes."
+      ]
     },
     {
       "id": "1CO.10.place.1",
@@ -309,7 +459,12 @@
       "kind": "place",
       "prompt": "Onde ficaram os antepassados de quem Deus não gostou, em 1 Coríntios?",
       "answer": "No deserto.",
-      "reference": "1Co 10:5"
+      "reference": "1Co 10:5",
+      "wrongs": [
+        "No Egito.",
+        "Em Canaã.",
+        "Em Babilônia."
+      ]
     },
     {
       "id": "1CO.10.curiosity.1",
@@ -319,7 +474,12 @@
       "kind": "curiosity",
       "prompt": "Quantos Paulo diz que caíram num único dia por pecado sexual?",
       "answer": "Vinte e três mil.",
-      "reference": "1Co 10:8"
+      "reference": "1Co 10:8",
+      "wrongs": [
+        "Vinte e quatro mil.",
+        "Três mil.",
+        "Quarenta mil."
+      ]
     },
     {
       "id": "1CO.10.curiosity.2",
@@ -329,7 +489,12 @@
       "kind": "curiosity",
       "prompt": "Deus deixa a prova maior do que a pessoa aguenta?",
       "answer": "Não. Ele é fiel e abre uma saída.",
-      "reference": "1Co 10:13"
+      "reference": "1Co 10:13",
+      "wrongs": [
+        "Sim. Algumas provas não têm saída.",
+        "Sim. Deus prova além das forças de propósito.",
+        "Não. A pessoa é que cria a própria saída."
+      ]
     },
     {
       "id": "1CO.11.subject.1",
@@ -339,7 +504,12 @@
       "kind": "subject",
       "prompt": "Para que serve comer o pão e beber o copo?",
       "answer": "Para anunciar a morte de Jesus até ele voltar.",
-      "reference": "1Co 11:26"
+      "reference": "1Co 11:26",
+      "wrongs": [
+        "Para repetir o sacrifício cada vez que se come.",
+        "Para lembrar só a páscoa de Moisés.",
+        "Para alimentar quem não tem o que comer."
+      ]
     },
     {
       "id": "1CO.11.curiosity.1",
@@ -349,7 +519,12 @@
       "kind": "curiosity",
       "prompt": "O cabelo comprido envergonha a mulher?",
       "answer": "Não. É honra, e lhe serve de cobertura.",
-      "reference": "1Co 11:15"
+      "reference": "1Co 11:15",
+      "wrongs": [
+        "Sim. Ela deve cortá-lo para entrar na igreja.",
+        "Sim. É vergonha, e a lei manda rapá-lo.",
+        "Não. É vaidade, e não significa nada."
+      ]
     },
     {
       "id": "1CO.11.curiosity.2",
@@ -359,7 +534,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus disse que o pão é?",
       "answer": "O corpo dele, partido em favor do povo.",
-      "reference": "1Co 11:24"
+      "reference": "1Co 11:24",
+      "wrongs": [
+        "O maná guardado na arca da aliança.",
+        "O pão de cada dia, pedido na oração.",
+        "O fermento que se esconde na massa."
+      ]
     },
     {
       "id": "1CO.11.curiosity.3",
@@ -369,7 +549,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus disse que o copo é?",
       "answer": "A nova aliança, no sangue dele.",
-      "reference": "1Co 11:25"
+      "reference": "1Co 11:25",
+      "wrongs": [
+        "A aliança antiga, gravada em pedra.",
+        "O vinho da festa, sem ligação com ele.",
+        "O cálice da ira, reservado aos inimigos."
+      ]
     },
     {
       "id": "1CO.12.subject.1",
@@ -379,7 +564,12 @@
       "kind": "subject",
       "prompt": "Como é o corpo que Paulo compara a Cristo?",
       "answer": "É um só, embora tenha muitos membros.",
-      "reference": "1Co 12:12"
+      "reference": "1Co 12:12",
+      "wrongs": [
+        "São muitos corpos, um para cada dom.",
+        "É um só membro, e os outros não contam.",
+        "São partes soltas, sem ligação entre si."
+      ]
     },
     {
       "id": "1CO.12.curiosity.1",
@@ -389,7 +579,12 @@
       "kind": "curiosity",
       "prompt": "Se o corpo inteiro fosse só olho, o que faltaria?",
       "answer": "O ouvido.",
-      "reference": "1Co 12:17"
+      "reference": "1Co 12:17",
+      "wrongs": [
+        "Nada. O olho já basta para tudo.",
+        "O próprio olho, porque ele se perderia.",
+        "A visão, que outro sentido teria de suprir."
+      ]
     },
     {
       "id": "1CO.12.curiosity.2",
@@ -399,7 +594,12 @@
       "kind": "curiosity",
       "prompt": "Quem Deus pôs em primeiro, segundo e terceiro na igreja?",
       "answer": "Apóstolos, profetas e mestres.",
-      "reference": "1Co 12:28"
+      "reference": "1Co 12:28",
+      "wrongs": [
+        "Reis, sacerdotes e levitas.",
+        "Bispos, diáconos e viúvas.",
+        "Anjos, querubins e serafins."
+      ]
     },
     {
       "id": "1CO.13.subject.1",
@@ -409,7 +609,12 @@
       "kind": "subject",
       "prompt": "Qual é o maior: a fé, a esperança ou o amor?",
       "answer": "O amor.",
-      "reference": "1Co 13:13"
+      "reference": "1Co 13:13",
+      "wrongs": [
+        "A fé.",
+        "A esperança.",
+        "A profecia."
+      ]
     },
     {
       "id": "1CO.13.curiosity.1",
@@ -419,7 +624,12 @@
       "kind": "curiosity",
       "prompt": "O que a pessoa vira se fala língua até de anjo, sem amor?",
       "answer": "Barulho de metal ou de sino.",
-      "reference": "1Co 13:1"
+      "reference": "1Co 13:1",
+      "wrongs": [
+        "Voz de anjo, ainda sem amor.",
+        "Profeta fiel, mesmo sem amor.",
+        "Nada muda. A língua já basta."
+      ]
     },
     {
       "id": "1CO.13.curiosity.2",
@@ -429,7 +639,12 @@
       "kind": "curiosity",
       "prompt": "O amor é apressado e invejoso?",
       "answer": "Não. Tem paciência, é bondoso, e não inveja nem se acha.",
-      "reference": "1Co 13:4"
+      "reference": "1Co 13:4",
+      "wrongs": [
+        "Sim. É apressado, e guarda a ofensa.",
+        "Sim. Inveja, se gaba e busca o próprio interesse.",
+        "Não. É frio, e não se importa com ninguém."
+      ]
     },
     {
       "id": "1CO.14.subject.1",
@@ -439,7 +654,12 @@
       "kind": "subject",
       "prompt": "Paulo prefere línguas ou profecia na igreja?",
       "answer": "Profecia, pois ela faz a igreja inteira crescer.",
-      "reference": "1Co 14:5"
+      "reference": "1Co 14:5",
+      "wrongs": [
+        "Línguas, pois o som impressiona mais.",
+        "As duas iguais, pois o efeito é o mesmo.",
+        "Nenhuma. O silêncio é o que edifica."
+      ]
     },
     {
       "id": "1CO.14.curiosity.1",
@@ -449,7 +669,12 @@
       "kind": "curiosity",
       "prompt": "Quantas palavras claras Paulo prefere na igreja?",
       "answer": "Cinco, que ensinam, em vez de dez mil numa língua estranha.",
-      "reference": "1Co 14:19"
+      "reference": "1Co 14:19",
+      "wrongs": [
+        "Dez mil, numa língua, em vez de uma frase clara.",
+        "Cem, bem altas, em vez de uma oração simples.",
+        "Uma, sussurrada, em vez de um canto da igreja."
+      ]
     },
     {
       "id": "1CO.14.curiosity.2",
@@ -459,7 +684,12 @@
       "kind": "curiosity",
       "prompt": "Quantas pessoas podem falar em língua numa reunião, em 1 Coríntios?",
       "answer": "No máximo três, uma por vez, com quem traduza.",
-      "reference": "1Co 14:27"
+      "reference": "1Co 14:27",
+      "wrongs": [
+        "Quantas quiserem, todas juntas, sem tradução.",
+        "Só sete, ao mesmo tempo, com canto e grito.",
+        "Uma só, no fim do culto, sem intérprete."
+      ]
     },
     {
       "id": "1CO.15.subject.1",
@@ -469,7 +699,12 @@
       "kind": "subject",
       "prompt": "Cristo ficou entre os mortos?",
       "answer": "Não. Ele ressuscitou e é o primeiro dos que morreram.",
-      "reference": "1Co 15:20"
+      "reference": "1Co 15:20",
+      "wrongs": [
+        "Sim. O corpo dele ficou no sepulcro.",
+        "Sim. Só a alma voltou, sem o corpo.",
+        "Não. Ele subiu ao céu sem passar pela morte."
+      ]
     },
     {
       "id": "1CO.15.name.1",
@@ -479,7 +714,12 @@
       "kind": "name",
       "prompt": "Quem Paulo coloca ao lado de Cristo na morte de todos?",
       "answer": "Adão. Nele todos morrem; em Cristo, todos viverão.",
-      "reference": "1Co 15:22"
+      "reference": "1Co 15:22",
+      "wrongs": [
+        "Moisés. Nele a lei mata; em Cristo, a lei salva.",
+        "Abraão. Nele a promessa para; em Cristo, ela acaba.",
+        "Davi. Nele o reino cai; em Cristo, ninguém reina."
+      ]
     },
     {
       "id": "1CO.15.place.1",
@@ -489,7 +729,12 @@
       "kind": "place",
       "prompt": "Onde Paulo diz que lutou contra feras?",
       "answer": "Em Éfeso.",
-      "reference": "1Co 15:32"
+      "reference": "1Co 15:32",
+      "wrongs": [
+        "Em Corinto.",
+        "Em Filipos.",
+        "Em Roma."
+      ]
     },
     {
       "id": "1CO.15.curiosity.1",
@@ -499,7 +744,12 @@
       "kind": "curiosity",
       "prompt": "Em que dia Cristo ressuscitou?",
       "answer": "No terceiro dia.",
-      "reference": "1Co 15:4"
+      "reference": "1Co 15:4",
+      "wrongs": [
+        "No sétimo dia.",
+        "No mesmo dia.",
+        "Depois de quarenta dias."
+      ]
     },
     {
       "id": "1CO.15.curiosity.2",
@@ -509,7 +759,12 @@
       "kind": "curiosity",
       "prompt": "Quantos irmãos viram Jesus de uma só vez?",
       "answer": "Mais de quinhentos, e a maior parte ainda vivia.",
-      "reference": "1Co 15:6"
+      "reference": "1Co 15:6",
+      "wrongs": [
+        "Cerca de doze, e todos já tinham morrido.",
+        "Só as mulheres, e nenhuma voltou a vê-lo.",
+        "Três mil, reunidos no dia de Pentecostes."
+      ]
     },
     {
       "id": "1CO.16.subject.1",
@@ -519,7 +774,12 @@
       "kind": "subject",
       "prompt": "O que cada um deve fazer no primeiro dia da semana?",
       "answer": "Separar uma oferta, conforme o que tiver.",
-      "reference": "1Co 16:2"
+      "reference": "1Co 16:2",
+      "wrongs": [
+        "Levar tudo de uma vez, só no fim do ano.",
+        "Esperar Paulo chegar para então separar.",
+        "Oferecer um animal no templo da cidade."
+      ]
     },
     {
       "id": "1CO.16.name.1",
@@ -529,7 +789,12 @@
       "kind": "name",
       "prompt": "Quem Paulo pediu que fosse a Corinto, mas não quis ir agora?",
       "answer": "Apolo.",
-      "reference": "1Co 16:12"
+      "reference": "1Co 16:12",
+      "wrongs": [
+        "Pedro.",
+        "Barnabé.",
+        "Silas."
+      ]
     },
     {
       "id": "1CO.16.place.1",
@@ -539,7 +804,12 @@
       "kind": "place",
       "prompt": "Onde Paulo ficaria até a festa de Pentecostes?",
       "answer": "Em Éfeso.",
-      "reference": "1Co 16:8"
+      "reference": "1Co 16:8",
+      "wrongs": [
+        "Em Corinto.",
+        "Em Trôade.",
+        "Em Mileto."
+      ]
     },
     {
       "id": "1CO.16.curiosity.1",
@@ -549,7 +819,12 @@
       "kind": "curiosity",
       "prompt": "Como os irmãos deviam se saudar?",
       "answer": "Com um beijo santo.",
-      "reference": "1Co 16:20"
+      "reference": "1Co 16:20",
+      "wrongs": [
+        "Com um aperto de mão.",
+        "Com uma carta selada.",
+        "Com uma oferta em dinheiro."
+      ]
     },
     {
       "id": "1CO.0.curiosity.1",
@@ -559,7 +834,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 1 Coríntios?",
       "answer": "Paulo.",
-      "reference": "1 Coríntios"
+      "reference": "1 Coríntios",
+      "wrongs": [
+        "Pedro.",
+        "Apolo.",
+        "Lucas."
+      ]
     },
     {
       "id": "1CO.0.curiosity.2",
@@ -569,7 +849,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 1 Coríntios?",
       "answer": "Por volta do ano 55.",
-      "reference": "1 Coríntios"
+      "reference": "1 Coríntios",
+      "wrongs": [
+        "Por volta do ano 48.",
+        "Por volta do ano 62.",
+        "Por volta do ano 70."
+      ]
     },
     {
       "id": "1CO.0.curiosity.3",
@@ -579,7 +864,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu 1 Coríntios?",
       "answer": "Para a igreja de Deus em Corinto.",
-      "reference": "1Co 1:2"
+      "reference": "1Co 1:2",
+      "wrongs": [
+        "Para a igreja de Deus em Éfeso.",
+        "Para a igreja de Deus em Roma.",
+        "Para a igreja de Deus em Filipos."
+      ]
     }
   ]
 }

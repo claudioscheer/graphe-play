@@ -8,7 +8,12 @@
       "kind": "curiosity",
       "prompt": "Onde a igreja de Cristo começou?",
       "answer": "No Pentecostes, em Jerusalém, por volta do ano 30.",
-      "reference": "Pentecostes"
+      "reference": "Pentecostes",
+      "wrongs": [
+        "Em Roma, com Pedro, por volta do ano 64.",
+        "Em Niceia, com Constantino, no ano 325.",
+        "Em Wittenberg, com Lutero, no ano 1517."
+      ]
     },
     {
       "id": "HIS.0.curiosity.2",
@@ -18,7 +23,12 @@
       "kind": "curiosity",
       "prompt": "Cristo fundou a Igreja de Roma com um papa?",
       "answer": "Não. Cristo fundou a igreja. O papado veio séculos depois.",
-      "reference": "Reforma"
+      "reference": "Reforma",
+      "wrongs": [
+        "Sim. Pedro foi o primeiro papa em Roma.",
+        "Sim. Cristo entregou as chaves só ao bispo de Roma.",
+        "Não. A igreja só começou com a Reforma."
+      ]
     },
     {
       "id": "HIS.0.curiosity.3",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "Quando a Igreja Católica Romana foi fundada?",
       "answer": "Não houve fundação por Cristo. O cisma com o Oriente foi em 1054.",
-      "reference": "1054"
+      "reference": "1054",
+      "wrongs": [
+        "Cristo a fundou sobre Pedro no ano 33.",
+        "Constantino a fundou no Édito de Milão, em 313.",
+        "Lutero a fundou ao publicar as teses, em 1517."
+      ]
     },
     {
       "id": "HIS.0.curiosity.4",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Em que ano Roma e Constantinopla se separaram?",
       "answer": "Em 1054, no Grande Cisma.",
-      "reference": "1054"
+      "reference": "1054",
+      "wrongs": [
+        "Em 313, no Édito de Milão.",
+        "Em 325, no Concílio de Niceia.",
+        "Em 1517, na Reforma."
+      ]
     },
     {
       "id": "HIS.0.curiosity.5",
@@ -48,7 +68,12 @@
       "kind": "curiosity",
       "prompt": "O Édito de Milão, em 313, fundou a igreja?",
       "answer": "Não. Só deu liberdade ao culto cristão no Império.",
-      "reference": "313"
+      "reference": "313",
+      "wrongs": [
+        "Sim. Constantino criou a igreja nesse ano.",
+        "Sim. O édito definiu o cânon da Bíblia.",
+        "Não. Ele proibiu o culto cristão no Império."
+      ]
     },
     {
       "id": "HIS.0.curiosity.6",
@@ -58,7 +83,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Constantino?",
       "answer": "Imperador romano que favoreceu a igreja. Não foi o fundador dela.",
-      "reference": "Constantino"
+      "reference": "Constantino",
+      "wrongs": [
+        "O primeiro papa, que fundou a igreja em Roma.",
+        "Um apóstolo que escreveu o Apocalipse.",
+        "O reformador que publicou as 95 teses."
+      ]
     },
     {
       "id": "HIS.0.curiosity.7",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "A igreja criou a Bíblia?",
       "answer": "Não. Ela reconheceu os livros que Deus já tinha dado.",
-      "reference": "Cânon"
+      "reference": "Cânon",
+      "wrongs": [
+        "Sim. Os bispos escolheram o que seria inspirado.",
+        "Sim. O papa escreveu os livros do Novo Testamento.",
+        "Não. A Bíblia surgiu só na Reforma, no século XVI."
+      ]
     },
     {
       "id": "HIS.0.curiosity.8",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "A tradição da igreja manda mais que a Bíblia?",
       "answer": "Não. A Bíblia é a regra final da fé.",
-      "reference": "Sola Scriptura"
+      "reference": "Sola Scriptura",
+      "wrongs": [
+        "Sim. O magistério da igreja corrige a Bíblia.",
+        "Sim. As visões novas pesam mais que o texto.",
+        "Não. Só conta o que o concílio votar."
+      ]
     },
     {
       "id": "HIS.0.curiosity.9",
@@ -88,7 +128,12 @@
       "kind": "curiosity",
       "prompt": "O que os cinco solas resumem?",
       "answer": "Somente a Escritura, a fé, a graça, Cristo e a glória de Deus.",
-      "reference": "Cinco solas"
+      "reference": "Cinco solas",
+      "wrongs": [
+        "Escritura e tradição, fé e obras, graça e mérito.",
+        "O papa, os sacramentos, Maria e o purgatório.",
+        "A lei, a circuncisão, o sábado, o templo e os votos."
+      ]
     },
     {
       "id": "HIS.0.curiosity.10",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "O que é sola Scriptura?",
       "answer": "A Bíblia é a regra final da fé, acima da tradição.",
-      "reference": "Sola Scriptura"
+      "reference": "Sola Scriptura",
+      "wrongs": [
+        "A tradição da igreja julga o que a Bíblia ensina.",
+        "O papa define a fé quando a Bíblia se cala.",
+        "A razão humana fica acima do texto bíblico."
+      ]
     },
     {
       "id": "HIS.0.curiosity.11",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "O que é sola fide?",
       "answer": "O pecador é aceito por Deus somente pela fé em Cristo.",
-      "reference": "Sola fide"
+      "reference": "Sola fide",
+      "wrongs": [
+        "O pecador é aceito por Deus pela fé mais as obras.",
+        "O pecador é aceito por Deus pelo batismo e pela penitência.",
+        "O pecador é aceito por Deus porque já nasceu justo."
+      ]
     },
     {
       "id": "HIS.0.curiosity.12",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "O que é sola gratia?",
       "answer": "A salvação é só pela graça de Deus, não por mérito humano.",
-      "reference": "Sola gratia"
+      "reference": "Sola gratia",
+      "wrongs": [
+        "A salvação mistura graça de Deus e mérito humano.",
+        "A salvação se compra com esmolas e indulgências.",
+        "A salvação depende de a pessoa dar o primeiro passo sozinha."
+      ]
     },
     {
       "id": "HIS.0.curiosity.13",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "O que é solus Christus?",
       "answer": "Só Cristo é o mediador entre Deus e os homens.",
-      "reference": "Solus Christus"
+      "reference": "Solus Christus",
+      "wrongs": [
+        "Cristo e Maria medeiam entre Deus e os homens.",
+        "Os santos e os anjos levam as orações a Deus.",
+        "O sacerdote na missa refaz o sacrifício de Cristo."
+      ]
     },
     {
       "id": "HIS.0.curiosity.14",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "O que é soli Deo gloria?",
       "answer": "Toda a glória da salvação pertence a Deus.",
-      "reference": "Soli Deo gloria"
+      "reference": "Soli Deo gloria",
+      "wrongs": [
+        "A glória se divide entre Deus e quem cooperou.",
+        "A glória cabe a quem perseverou por mérito próprio.",
+        "A glória da salvação cabe à igreja que a administra."
+      ]
     },
     {
       "id": "HIS.0.curiosity.15",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "O papa é o cabeça da igreja?",
       "answer": "Não. O cabeça da igreja é Cristo.",
-      "reference": "Cristo"
+      "reference": "Cristo",
+      "wrongs": [
+        "Sim. O papa é o cabeça visível no lugar de Cristo.",
+        "Sim. Pedro ainda governa a igreja desde Roma.",
+        "Não. O cabeça da igreja é cada concílio."
+      ]
     },
     {
       "id": "HIS.0.curiosity.16",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Maria intercede pelos salvos?",
       "answer": "Não. Há um só mediador entre Deus e os homens: Jesus.",
-      "reference": "1 Timóteo 2"
+      "reference": "1 Timóteo 2",
+      "wrongs": [
+        "Sim. Maria leva a Deus o que Cristo não cobre.",
+        "Sim. Os santos completam a mediação de Jesus.",
+        "Não. O mediador é o sacerdote que oferece a missa."
+      ]
     },
     {
       "id": "HIS.0.curiosity.17",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "Quais são os cinco pontos do calvinismo?",
       "answer": "Depravação total, eleição incondicional, expiação limitada, graça irresistível e perseverança dos santos.",
-      "reference": "Dort"
+      "reference": "Dort",
+      "wrongs": [
+        "Livre-arbítrio, eleição prevista, expiação universal, graça resistível e queda possível.",
+        "Somente a Escritura, a fé, a graça, Cristo e a glória de Deus.",
+        "Batismo, crisma, penitência, eucaristia e unção dos enfermos."
+      ]
     },
     {
       "id": "HIS.0.curiosity.18",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "O que é a depravação total?",
       "answer": "O pecado atingiu a pessoa inteira, e sem graça ela não busca a Deus.",
-      "reference": "Dort"
+      "reference": "Dort",
+      "wrongs": [
+        "O pecado só mancha o corpo, e a vontade segue livre.",
+        "A pessoa nasce boa e só se perde pelo exemplo.",
+        "Sem graça a pessoa ainda escolhe a Deus por si."
+      ]
     },
     {
       "id": "HIS.0.curiosity.19",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "O que é a eleição incondicional?",
       "answer": "Deus escolhe salvar por sua vontade, não por um mérito que previu.",
-      "reference": "Dort"
+      "reference": "Dort",
+      "wrongs": [
+        "Deus escolhe quem ele previu que iria crer.",
+        "Deus escolhe quem guarda a lei com mais zelo.",
+        "Deus não escolhe ninguém; todos se salvam do mesmo modo."
+      ]
     },
     {
       "id": "HIS.0.curiosity.20",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "O que é a expiação limitada?",
       "answer": "Cristo morreu para salvar de fato o seu povo.",
-      "reference": "Dort"
+      "reference": "Dort",
+      "wrongs": [
+        "Cristo morreu só para dar exemplo, sem salvar ninguém.",
+        "Cristo morreu por todos, e cada um já está salvo.",
+        "Cristo tornou a salvação possível, se a pessoa completar."
+      ]
     },
     {
       "id": "HIS.0.curiosity.21",
@@ -208,7 +308,12 @@
       "kind": "curiosity",
       "prompt": "O que é a graça irresistível?",
       "answer": "Quando Deus chama de verdade, o pecador vem a Cristo.",
-      "reference": "Dort"
+      "reference": "Dort",
+      "wrongs": [
+        "O pecador pode recusar para sempre o chamado verdadeiro.",
+        "A graça só ajuda quem já deu o primeiro passo.",
+        "O chamado verdadeiro salva mesmo quem não crê."
+      ]
     },
     {
       "id": "HIS.0.curiosity.22",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "O que é a perseverança dos santos?",
       "answer": "Quem Deus salvou, ele guarda até o fim.",
-      "reference": "Dort"
+      "reference": "Dort",
+      "wrongs": [
+        "Quem Deus salvou pode se perder de novo.",
+        "A perseverança é o mérito que segura a salvação.",
+        "Só persevera quem nunca volta a pecar."
+      ]
     },
     {
       "id": "HIS.0.curiosity.23",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "Onde os cinco pontos foram afirmados?",
       "answer": "No Sínodo de Dort, em 1618 e 1619.",
-      "reference": "Dort, 1619"
+      "reference": "Dort, 1619",
+      "wrongs": [
+        "No Concílio de Trento, em 1545.",
+        "Na Confissão de Augsburgo, em 1530.",
+        "No Concílio de Niceia, em 325."
+      ]
     },
     {
       "id": "HIS.0.curiosity.24",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Contra quem o Sínodo de Dort respondeu?",
       "answer": "Contra os remonstrantes, seguidores de Armínio.",
-      "reference": "Dort, 1619"
+      "reference": "Dort, 1619",
+      "wrongs": [
+        "Contra os luteranos, seguidores de Lutero.",
+        "Contra os papistas, reunidos em Trento.",
+        "Contra os anabatistas, seguidores de Münzer."
+      ]
     },
     {
       "id": "HIS.0.curiosity.25",
@@ -248,7 +368,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Armínio?",
       "answer": "Teólogo holandês (1560–1609). Ensinou que a graça pode ser resistida.",
-      "reference": "Armínio"
+      "reference": "Armínio",
+      "wrongs": [
+        "Reformador de Genebra. Ensinou a graça irresistível.",
+        "Papa do século XVI. Condenou a justificação pela fé.",
+        "Monge alemão. Publicou as 95 teses em 1517."
+      ]
     },
     {
       "id": "HIS.0.curiosity.26",
@@ -258,7 +383,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Clemente de Roma?",
       "answer": "Bispo de Roma no fim do século I. Escreveu uma carta aos coríntios.",
-      "reference": "Clemente"
+      "reference": "Clemente",
+      "wrongs": [
+        "Bispo de Alexandria no século IV. Defendeu Niceia.",
+        "Reformador suíço. Morreu em batalha em 1531.",
+        "Apóstolo que escreveu o Apocalipse em Patmos."
+      ]
     },
     {
       "id": "HIS.0.curiosity.27",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Inácio de Antioquia?",
       "answer": "Bispo e mártir no começo do século II. Escreveu cartas às igrejas.",
-      "reference": "Inácio"
+      "reference": "Inácio",
+      "wrongs": [
+        "Bispo de Roma no fim do século I. Escreveu aos coríntios.",
+        "Teólogo africano do século III. Defendeu a Trindade.",
+        "Pregador da Boêmia. Foi queimado em 1415."
+      ]
     },
     {
       "id": "HIS.0.curiosity.28",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Policarpo?",
       "answer": "Bispo de Esmirna e mártir. Conheceu o apóstolo João.",
-      "reference": "Policarpo"
+      "reference": "Policarpo",
+      "wrongs": [
+        "Bispo de Lyon. Escreveu Contra as heresias.",
+        "Bispo de Hipona. Escreveu as Confissões.",
+        "Tradutor da Bíblia para o latim, a Vulgata."
+      ]
     },
     {
       "id": "HIS.0.curiosity.29",
@@ -288,7 +428,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Justino Mártir?",
       "answer": "Defensor da fé no século II. Escreveu as Apologias e morreu mártir.",
-      "reference": "Justino"
+      "reference": "Justino",
+      "wrongs": [
+        "Bispo de Antioquia. Escreveu cartas a caminho do martírio.",
+        "Imperador romano. Publicou o Édito de Milão.",
+        "Reformador inglês. Traduziu o Novo Testamento."
+      ]
     },
     {
       "id": "HIS.0.curiosity.30",
@@ -298,7 +443,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Irineu de Lyon?",
       "answer": "Bispo do século II. Escreveu Contra as heresias.",
-      "reference": "Irineu"
+      "reference": "Irineu",
+      "wrongs": [
+        "Defensor da fé em Roma. Escreveu as Apologias.",
+        "Bispo de Alexandria. Defendeu que Jesus é Deus.",
+        "Pregador de Constantinopla no fim do século IV."
+      ]
     },
     {
       "id": "HIS.0.curiosity.31",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Tertuliano?",
       "answer": "Escritor do norte da África, nos séculos II e III.",
-      "reference": "Tertuliano"
+      "reference": "Tertuliano",
+      "wrongs": [
+        "Bispo de Lyon no século II. Escreveu Contra as heresias.",
+        "Tradutor da Bíblia para o inglês. Morreu em 1536.",
+        "Reformador da Escócia no século XVI."
+      ]
     },
     {
       "id": "HIS.0.curiosity.32",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Atanásio?",
       "answer": "Bispo de Alexandria. Defendeu que Jesus é Deus.",
-      "reference": "Atanásio"
+      "reference": "Atanásio",
+      "wrongs": [
+        "Bispo de Hipona. Escreveu A cidade de Deus.",
+        "Presbítero de Alexandria. Negou que o Filho é Deus.",
+        "Papa que presidiu o Concílio de Trento."
+      ]
     },
     {
       "id": "HIS.0.curiosity.33",
@@ -328,7 +488,12 @@
       "kind": "curiosity",
       "prompt": "O que o Concílio de Niceia afirmou em 325?",
       "answer": "Que o Filho é da mesma essência que o Pai.",
-      "reference": "Niceia, 325"
+      "reference": "Niceia, 325",
+      "wrongs": [
+        "Que Jesus é Deus, mas não chegou a ser homem.",
+        "Que Jesus é homem, mas não é Deus como o Pai.",
+        "Que Deus é uma só pessoa, ora Pai, ora Filho."
+      ]
     },
     {
       "id": "HIS.0.curiosity.34",
@@ -338,7 +503,12 @@
       "kind": "curiosity",
       "prompt": "O que o Concílio de Calcedônia afirmou em 451?",
       "answer": "Que Cristo é uma pessoa, verdadeiramente Deus e homem.",
-      "reference": "Calcedônia, 451"
+      "reference": "Calcedônia, 451",
+      "wrongs": [
+        "Que o Filho foi criado e não é eterno como o Pai.",
+        "Que Jesus é Deus, mas o corpo era só aparência.",
+        "Que há dois Cristos, um divino e outro humano."
+      ]
     },
     {
       "id": "HIS.0.curiosity.35",
@@ -348,7 +518,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Agostinho?",
       "answer": "Bispo de Hipona (354–430). Escreveu as Confissões e A cidade de Deus.",
-      "reference": "Agostinho"
+      "reference": "Agostinho",
+      "wrongs": [
+        "Bispo de Alexandria. Defendeu o Credo de Niceia.",
+        "Reformador de Genebra. Escreveu as Institutas.",
+        "Monge inglês. Traduziu a Bíblia no século XIV."
+      ]
     },
     {
       "id": "HIS.0.curiosity.36",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "O que Agostinho ensinou sobre a graça?",
       "answer": "Que o pecador depende da graça de Deus para crer e ser salvo.",
-      "reference": "Agostinho"
+      "reference": "Agostinho",
+      "wrongs": [
+        "Que o pecador crê por livre vontade, sem precisar da graça.",
+        "Que a graça só perdoa quem já mereceu com as obras.",
+        "Que Deus salva a todos, creiam ou não."
+      ]
     },
     {
       "id": "HIS.0.curiosity.37",
@@ -368,7 +548,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Jerônimo?",
       "answer": "Estudioso que traduziu a Bíblia para o latim. Essa tradução é a Vulgata.",
-      "reference": "Jerônimo"
+      "reference": "Jerônimo",
+      "wrongs": [
+        "Traduziu a Bíblia para o alemão na Reforma.",
+        "Traduziu o Novo Testamento para o inglês e morreu em 1536.",
+        "Copiou os manuscritos gregos em Constantinopla."
+      ]
     },
     {
       "id": "HIS.0.curiosity.38",
@@ -378,7 +563,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi João Crisóstomo?",
       "answer": "Grande pregador de Constantinopla, no fim do século IV.",
-      "reference": "Crisóstomo"
+      "reference": "Crisóstomo",
+      "wrongs": [
+        "Bispo de Hipona e autor das Confissões.",
+        "Bispo de Roma que escreveu aos coríntios.",
+        "Reformador de Zurique que morreu em 1531."
+      ]
     },
     {
       "id": "HIS.0.curiosity.39",
@@ -388,7 +578,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi João Wycliffe?",
       "answer": "Professor inglês do século XIV. Defendeu a Bíblia acima do papa.",
-      "reference": "Wycliffe"
+      "reference": "Wycliffe",
+      "wrongs": [
+        "Pregador da Boêmia, queimado em 1415.",
+        "Monge alemão que iniciou a Reforma em 1517.",
+        "Tradutor inglês do Novo Testamento, morto em 1536."
+      ]
     },
     {
       "id": "HIS.0.curiosity.40",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi João Hus?",
       "answer": "Pregador da Boêmia. Foi queimado em 1415 por criticar Roma.",
-      "reference": "Hus, 1415"
+      "reference": "Hus, 1415",
+      "wrongs": [
+        "Professor inglês do século XIV. Traduziu a Bíblia.",
+        "Reformador de Genebra. Escreveu as Institutas.",
+        "Teólogo holandês. Ensinou que a graça pode ser resistida."
+      ]
     },
     {
       "id": "HIS.0.curiosity.41",
@@ -408,7 +608,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Martinho Lutero?",
       "answer": "Monge alemão (1483–1546). Iniciou a Reforma em 1517.",
-      "reference": "Lutero"
+      "reference": "Lutero",
+      "wrongs": [
+        "Reformador suíço de Zurique. Morreu em 1531.",
+        "Reformador francês de Genebra. Escreveu as Institutas.",
+        "Reformador escocês. Organizou a igreja da Escócia."
+      ]
     },
     {
       "id": "HIS.0.curiosity.42",
@@ -418,7 +623,12 @@
       "kind": "curiosity",
       "prompt": "O que Lutero publicou em Wittenberg, em 1517?",
       "answer": "As 95 teses, contra a venda de indulgências.",
-      "reference": "1517"
+      "reference": "1517",
+      "wrongs": [
+        "A Confissão de Augsburgo, junto com os príncipes.",
+        "As Institutas da Religião Cristã, em latim.",
+        "A tradução completa da Bíblia para o alemão."
+      ]
     },
     {
       "id": "HIS.0.curiosity.43",
@@ -428,7 +638,12 @@
       "kind": "curiosity",
       "prompt": "Como o pecador é justificado, segundo a Reforma?",
       "answer": "Somente pela fé, por causa de Cristo, não pelas obras.",
-      "reference": "Sola fide"
+      "reference": "Sola fide",
+      "wrongs": [
+        "Pela fé e pelas obras, somadas como mérito.",
+        "Pelos sacramentos, que infundem a justiça aos poucos.",
+        "Pela decisão humana, antes de qualquer graça."
+      ]
     },
     {
       "id": "HIS.0.curiosity.44",
@@ -438,7 +653,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Ulrico Zuínglio?",
       "answer": "Reformador de Zurique. Morreu em 1531.",
-      "reference": "Zuínglio"
+      "reference": "Zuínglio",
+      "wrongs": [
+        "Reformador de Genebra. Escreveu as Institutas.",
+        "Monge alemão. Publicou as 95 teses.",
+        "Reformador da Escócia no século XVI."
+      ]
     },
     {
       "id": "HIS.0.curiosity.45",
@@ -448,7 +668,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi João Calvino?",
       "answer": "Reformador de Genebra (1509–1564). Escreveu as Institutas.",
-      "reference": "Calvino"
+      "reference": "Calvino",
+      "wrongs": [
+        "Reformador de Zurique. Morreu em batalha em 1531.",
+        "Monge alemão. Iniciou a Reforma em 1517.",
+        "Tradutor inglês. Publicou o Novo Testamento e morreu em 1536."
+      ]
     },
     {
       "id": "HIS.0.curiosity.46",
@@ -458,7 +683,12 @@
       "kind": "curiosity",
       "prompt": "Quando Calvino publicou as Institutas?",
       "answer": "Em 1536.",
-      "reference": "1536"
+      "reference": "1536",
+      "wrongs": [
+        "Em 1517.",
+        "Em 1563.",
+        "Em 1646."
+      ]
     },
     {
       "id": "HIS.0.curiosity.47",
@@ -468,7 +698,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi Guilherme Tyndale?",
       "answer": "Traduziu o Novo Testamento para o inglês. Morreu em 1536.",
-      "reference": "Tyndale"
+      "reference": "Tyndale",
+      "wrongs": [
+        "Traduziu a Bíblia para o latim. Essa obra é a Vulgata.",
+        "Traduziu a Bíblia para o alemão na Wartburg.",
+        "Pregou na Boêmia e foi queimado em 1415."
+      ]
     },
     {
       "id": "HIS.0.curiosity.48",
@@ -478,7 +713,12 @@
       "kind": "curiosity",
       "prompt": "Quem foi João Knox?",
       "answer": "Reformador da Escócia, no século XVI.",
-      "reference": "Knox"
+      "reference": "Knox",
+      "wrongs": [
+        "Reformador de Genebra e autor das Institutas.",
+        "Reformador de Zurique, morto em 1531.",
+        "Professor inglês que pôs a Bíblia acima do papa."
+      ]
     },
     {
       "id": "HIS.0.curiosity.49",
@@ -488,7 +728,12 @@
       "kind": "curiosity",
       "prompt": "O que é a Confissão de Westminster?",
       "answer": "Confissão reformada escrita na Inglaterra em 1646.",
-      "reference": "1646"
+      "reference": "1646",
+      "wrongs": [
+        "Catecismo reformado de 1563, feito para ensinar a fé.",
+        "Confissão luterana apresentada em 1530.",
+        "Credo escrito no Concílio de Niceia, em 325."
+      ]
     },
     {
       "id": "HIS.0.curiosity.50",
@@ -498,7 +743,12 @@
       "kind": "curiosity",
       "prompt": "O que é o Catecismo de Heidelberg?",
       "answer": "Catecismo reformado de 1563, feito para ensinar a fé.",
-      "reference": "1563"
+      "reference": "1563",
+      "wrongs": [
+        "Confissão escrita na Inglaterra em 1646.",
+        "Catecismo católico publicado depois de Trento.",
+        "Credo usado desde o século II, sem data fixa."
+      ]
     },
     {
       "id": "HIS.0.curiosity.51",
@@ -508,7 +758,12 @@
       "kind": "curiosity",
       "prompt": "Quantos sacramentos Cristo ordenou, segundo a Reforma?",
       "answer": "Dois: o batismo e a ceia do Senhor.",
-      "reference": "Reforma"
+      "reference": "Reforma",
+      "wrongs": [
+        "Sete, incluindo a missa, a penitência e a unção.",
+        "Um só: a ceia. O batismo não foi ordenado.",
+        "Nenhum. A fé dispensa todo sinal visível."
+      ]
     }
   ]
 }

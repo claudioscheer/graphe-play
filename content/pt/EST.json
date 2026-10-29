@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que a rainha Vasti fez ao ser chamada?",
       "answer": "Recusou ir, e o rei Assuero ficou furioso.",
-      "reference": "Et 1:12"
+      "reference": "Et 1:12",
+      "wrongs": [
+        "Obedeceu logo, e o rei Assuero ficou alegre.",
+        "Pediu prazo, e o rei Assuero esperou calado.",
+        "Enviou outra, e o rei Assuero a coroou."
+      ]
     },
     {
       "id": "EST.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "O conselho de quem o rei Assuero seguiu?",
       "answer": "O de Memucã.",
-      "reference": "Et 1:21"
+      "reference": "Et 1:21",
+      "wrongs": [
+        "O de Hamã.",
+        "O de Mardoqueu.",
+        "O de Harbona."
+      ]
     },
     {
       "id": "EST.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde ficava o trono do rei Assuero?",
       "answer": "Na fortaleza de Susã.",
-      "reference": "Et 1:2"
+      "reference": "Et 1:2",
+      "wrongs": [
+        "Na fortaleza de Ecbatana.",
+        "No palácio de Jerusalém.",
+        "Na cidade de Babilônia."
+      ]
     },
     {
       "id": "EST.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Por quantos dias Assuero exibiu as riquezas do reino?",
       "answer": "Por cento e oitenta dias.",
-      "reference": "Et 1:4"
+      "reference": "Et 1:4",
+      "wrongs": [
+        "Por sete dias.",
+        "Por trinta dias.",
+        "Por um ano inteiro."
+      ]
     },
     {
       "id": "EST.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Quem Assuero coroou no lugar de Vasti?",
       "answer": "Ester.",
-      "reference": "Et 2:17"
+      "reference": "Et 2:17",
+      "wrongs": [
+        "Zeres.",
+        "Vasti.",
+        "Sara."
+      ]
     },
     {
       "id": "EST.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem era o judeu benjamita na fortaleza de Susã?",
       "answer": "Mardoqueu, filho de Jair.",
-      "reference": "Et 2:5"
+      "reference": "Et 2:5",
+      "wrongs": [
+        "Hamã, filho de Hamedata.",
+        "Esdras, filho de Seraías.",
+        "Neemias, filho de Hacalias."
+      ]
     },
     {
       "id": "EST.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "Por que Ester escondeu o seu povo?",
       "answer": "Porque Mardoqueu mandou que ela não contasse.",
-      "reference": "Et 2:10"
+      "reference": "Et 2:10",
+      "wrongs": [
+        "Porque o rei já conhecia a família dela.",
+        "Porque Hamã pediu segredo no palácio.",
+        "Porque a lei persa proibia dizer a origem."
+      ]
     },
     {
       "id": "EST.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "O que Mardoqueu fez ao descobrir o plano contra o rei?",
       "answer": "Contou a Ester, e ela avisou o rei.",
-      "reference": "Et 2:22"
+      "reference": "Et 2:22",
+      "wrongs": [
+        "Calou o caso e fugiu de Susã.",
+        "Contou a Hamã, e ele prendeu os dois.",
+        "Escreveu ao Egito pedindo socorro."
+      ]
     },
     {
       "id": "EST.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que Hamã quis fazer com o povo de Mardoqueu?",
       "answer": "Exterminar os judeus de todo o reino.",
-      "reference": "Et 3:6"
+      "reference": "Et 3:6",
+      "wrongs": [
+        "Dar-lhes cargos em todo o reino.",
+        "Mudá-los para a terra de Judá.",
+        "Cobrar deles um tributo leve."
+      ]
     },
     {
       "id": "EST.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem Assuero pôs acima de todos os príncipes?",
       "answer": "Hamã, filho de Hamedata, o agagita.",
-      "reference": "Et 3:1"
+      "reference": "Et 3:1",
+      "wrongs": [
+        "Mardoqueu, filho de Jair, o benjamita.",
+        "Memucã, um dos sábios da Pérsia.",
+        "Harbona, um dos eunucos do rei."
+      ]
     },
     {
       "id": "EST.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Que cidade ficou confusa quando o decreto saiu, em Ester?",
       "answer": "A cidade de Susã.",
-      "reference": "Et 3:15"
+      "reference": "Et 3:15",
+      "wrongs": [
+        "A cidade de Jerusalém.",
+        "A cidade de Babilônia.",
+        "A cidade de Samaria."
+      ]
     },
     {
       "id": "EST.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Para qual mês caiu a sorte lançada por Hamã?",
       "answer": "Para o mês de Adar.",
-      "reference": "Et 3:7"
+      "reference": "Et 3:7",
+      "wrongs": [
+        "Para o mês de Nisã.",
+        "Para o mês de Tisri.",
+        "Para o mês de Ab."
+      ]
     },
     {
       "id": "EST.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "O que Ester decidiu, mesmo contra a lei?",
       "answer": "Ir ao rei, mesmo que viesse a morrer.",
-      "reference": "Et 4:16"
+      "reference": "Et 4:16",
+      "wrongs": [
+        "Ficar calada, mesmo que o povo morresse.",
+        "Fugir de Susã, mesmo sem o rei saber.",
+        "Pedir ouro, mesmo contra o decreto."
+      ]
     },
     {
       "id": "EST.4.place.1",
@@ -138,7 +203,12 @@
       "kind": "place",
       "prompt": "Por que Mardoqueu não entrou pela porta do rei?",
       "answer": "Porque ninguém de saco podia passar.",
-      "reference": "Et 4:2"
+      "reference": "Et 4:2",
+      "wrongs": [
+        "Porque o portão estava fechado à noite.",
+        "Porque Hamã tinha mudado a guarda.",
+        "Porque Ester proibiu a entrada dele."
+      ]
     },
     {
       "id": "EST.4.curiosity.1",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "O que Mardoqueu disse se Ester ficasse calada?",
       "answer": "O socorro viria de outro lugar, mas ela e a família pereceriam.",
-      "reference": "Et 4:14"
+      "reference": "Et 4:14",
+      "wrongs": [
+        "O rei mudaria o decreto, e a família dela reinaria.",
+        "Hamã desistiria sozinho, e ela ficaria em paz.",
+        "Os judeus fugiriam todos, e ela guardaria o trono."
+      ]
     },
     {
       "id": "EST.4.curiosity.2",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Por quantos dias Ester pediu jejum em Susã?",
       "answer": "Três dias, sem comer e sem beber.",
-      "reference": "Et 4:16"
+      "reference": "Et 4:16",
+      "wrongs": [
+        "Sete dias, só com pão e água.",
+        "Um dia, até o sol se pôr.",
+        "Quarenta dias, em silêncio total."
+      ]
     },
     {
       "id": "EST.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "Quem Ester convidou para o banquete?",
       "answer": "O rei e Hamã.",
-      "reference": "Et 5:4"
+      "reference": "Et 5:4",
+      "wrongs": [
+        "O rei e Mardoqueu.",
+        "Hamã e Zeres.",
+        "Ester e Harbona."
+      ]
     },
     {
       "id": "EST.5.name.1",
@@ -178,7 +263,12 @@
       "kind": "name",
       "prompt": "Quem aconselhou Hamã a fazer uma forca?",
       "answer": "Zeres, a mulher dele, e os amigos.",
-      "reference": "Et 5:14"
+      "reference": "Et 5:14",
+      "wrongs": [
+        "Ester, a rainha, e as servas.",
+        "Memucã, o conselheiro, e os sábios.",
+        "Harbona, o eunuco, e os guardas."
+      ]
     },
     {
       "id": "EST.5.place.1",
@@ -188,7 +278,12 @@
       "kind": "place",
       "prompt": "Onde Hamã viu Mardoqueu e se irritou?",
       "answer": "À porta do rei.",
-      "reference": "Et 5:9"
+      "reference": "Et 5:9",
+      "wrongs": [
+        "No jardim do palácio.",
+        "Na casa de Ester.",
+        "Na praça de Jerusalém."
+      ]
     },
     {
       "id": "EST.5.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Qual era a altura da forca contra Mardoqueu?",
       "answer": "Cinquenta côvados de altura.",
-      "reference": "Et 5:14"
+      "reference": "Et 5:14",
+      "wrongs": [
+        "Vinte côvados de altura.",
+        "Dez côvados de altura.",
+        "Cem côvados de altura."
+      ]
     },
     {
       "id": "EST.6.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "O que Hamã teve de fazer com Mardoqueu?",
       "answer": "Levá-lo a cavalo pela cidade, anunciando a honra do rei.",
-      "reference": "Et 6:11"
+      "reference": "Et 6:11",
+      "wrongs": [
+        "Prendê-lo na forca da casa, sem dizer nada ao povo.",
+        "Mandá-lo embora de Susã, com um decreto real.",
+        "Entregá-lo aos guardas, para o banquete da rainha."
+      ]
     },
     {
       "id": "EST.6.name.1",
@@ -218,7 +323,12 @@
       "kind": "name",
       "prompt": "O que Zeres avisou a Hamã sobre Mardoqueu?",
       "answer": "Que Hamã cairia diante dele.",
-      "reference": "Et 6:13"
+      "reference": "Et 6:13",
+      "wrongs": [
+        "Que Hamã venceria no banquete.",
+        "Que Mardoqueu fugiria de noite.",
+        "Que o rei esqueceria o caso."
+      ]
     },
     {
       "id": "EST.6.place.1",
@@ -228,7 +338,12 @@
       "kind": "place",
       "prompt": "Para onde Mardoqueu voltou após a honra?",
       "answer": "Para a porta do rei.",
-      "reference": "Et 6:12"
+      "reference": "Et 6:12",
+      "wrongs": [
+        "Para a casa de Hamã.",
+        "Para o jardim do palácio.",
+        "Para a terra de Judá."
+      ]
     },
     {
       "id": "EST.6.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "O que o rei fez na noite sem sono, em Ester?",
       "answer": "Mandou ler as crônicas do reino.",
-      "reference": "Et 6:1"
+      "reference": "Et 6:1",
+      "wrongs": [
+        "Mandou chamar Hamã ao palácio.",
+        "Saiu a passear pelo jardim.",
+        "Pediu vinho e música."
+      ]
     },
     {
       "id": "EST.7.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "Onde Hamã acabou sendo morto?",
       "answer": "Na forca feita para Mardoqueu.",
-      "reference": "Et 7:10"
+      "reference": "Et 7:10",
+      "wrongs": [
+        "No jardim do palácio real.",
+        "Na porta da cidade de Susã.",
+        "No quarto dos eunucos do rei."
+      ]
     },
     {
       "id": "EST.7.name.1",
@@ -258,7 +383,12 @@
       "kind": "name",
       "prompt": "Quem revelou ao rei a forca de Hamã?",
       "answer": "Harbona, um dos eunucos.",
-      "reference": "Et 7:9"
+      "reference": "Et 7:9",
+      "wrongs": [
+        "Zeres, a mulher de Hamã.",
+        "Memucã, um dos sábios.",
+        "Mardoqueu, o judeu da porta."
+      ]
     },
     {
       "id": "EST.7.place.1",
@@ -268,7 +398,12 @@
       "kind": "place",
       "prompt": "Para onde o rei foi, irado, durante o banquete, em Ester?",
       "answer": "Para o jardim do palácio.",
-      "reference": "Et 7:7"
+      "reference": "Et 7:7",
+      "wrongs": [
+        "Para a sala do tesouro.",
+        "Para a porta da cidade.",
+        "Para o quarto de Hamã."
+      ]
     },
     {
       "id": "EST.7.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "Onde estava Hamã quando o rei voltou?",
       "answer": "No divã em que Ester se achava.",
-      "reference": "Et 7:8"
+      "reference": "Et 7:8",
+      "wrongs": [
+        "No jardim, aos pés do rei.",
+        "Na forca, já sem fala.",
+        "À porta, ao lado de Mardoqueu."
+      ]
     },
     {
       "id": "EST.8.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "O que o novo decreto autorizou os judeus a fazer, em Ester?",
       "answer": "Reunir-se para defender a própria vida.",
-      "reference": "Et 8:11"
+      "reference": "Et 8:11",
+      "wrongs": [
+        "Deixar o reino e voltar a Judá.",
+        "Tomar o trono e mudar a lei.",
+        "Pagar tributo e ficar em silêncio."
+      ]
     },
     {
       "id": "EST.8.name.1",
@@ -298,7 +443,12 @@
       "kind": "name",
       "prompt": "Quem recebeu o anel real que Hamã usava?",
       "answer": "Mardoqueu.",
-      "reference": "Et 8:2"
+      "reference": "Et 8:2",
+      "wrongs": [
+        "Ester.",
+        "Harbona.",
+        "Memucã."
+      ]
     },
     {
       "id": "EST.8.place.1",
@@ -308,7 +458,12 @@
       "kind": "place",
       "prompt": "De onde até onde se estendia o reino no novo decreto, em Ester?",
       "answer": "Da Índia até Cuxe.",
-      "reference": "Et 8:9"
+      "reference": "Et 8:9",
+      "wrongs": [
+        "Do Egito até a Assíria.",
+        "De Judá até a Babilônia.",
+        "De Susã até Jerusalém."
+      ]
     },
     {
       "id": "EST.8.curiosity.1",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "Como Mardoqueu saiu da presença do rei?",
       "answer": "Com roupa real azul e branca, e coroa de ouro.",
-      "reference": "Et 8:15"
+      "reference": "Et 8:15",
+      "wrongs": [
+        "Com pano de saco, cinza na cabeça e choro.",
+        "Com manto escuro, sem coroa e descalço.",
+        "Com armadura de guerra e lança na mão."
+      ]
     },
     {
       "id": "EST.9.subject.1",
@@ -328,7 +488,12 @@
       "kind": "subject",
       "prompt": "O que ocorreu no dia em que queriam vencer os judeus, em Ester?",
       "answer": "Aconteceu o inverso: os judeus venceram.",
-      "reference": "Et 9:1"
+      "reference": "Et 9:1",
+      "wrongs": [
+        "Cumpriu-se o decreto: os judeus caíram.",
+        "Nada mudou: os dois lados pararam.",
+        "A luta foi adiada: ninguém saiu à rua."
+      ]
     },
     {
       "id": "EST.9.place.1",
@@ -338,7 +503,12 @@
       "kind": "place",
       "prompt": "Em que fortaleza os judeus mataram quinhentos homens, em Ester?",
       "answer": "Na fortaleza de Susã.",
-      "reference": "Et 9:6"
+      "reference": "Et 9:6",
+      "wrongs": [
+        "Na fortaleza de Ecbatana.",
+        "Na fortaleza de Jerusalém.",
+        "Na fortaleza de Babilônia."
+      ]
     },
     {
       "id": "EST.9.curiosity.1",
@@ -348,7 +518,12 @@
       "kind": "curiosity",
       "prompt": "O que foi feito com os dez filhos de Hamã?",
       "answer": "Foram enforcados.",
-      "reference": "Et 9:14"
+      "reference": "Et 9:14",
+      "wrongs": [
+        "Foram soltos.",
+        "Foram exilados.",
+        "Foram coroados."
+      ]
     },
     {
       "id": "EST.9.curiosity.2",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "De onde vem o nome Purim?",
       "answer": "Da palavra Pur.",
-      "reference": "Et 9:26"
+      "reference": "Et 9:26",
+      "wrongs": [
+        "Da palavra Páscoa.",
+        "Da palavra Adar.",
+        "Da palavra Ester."
+      ]
     },
     {
       "id": "EST.10.subject.1",
@@ -368,7 +548,12 @@
       "kind": "subject",
       "prompt": "Qual cargo Mardoqueu teve diante de Assuero?",
       "answer": "Foi o segundo, logo abaixo do rei.",
-      "reference": "Et 10:3"
+      "reference": "Et 10:3",
+      "wrongs": [
+        "Foi o copeiro, só na fortaleza.",
+        "Foi um escriba, sem poder real.",
+        "Foi o general, acima do próprio rei."
+      ]
     },
     {
       "id": "EST.10.place.1",
@@ -378,7 +563,12 @@
       "kind": "place",
       "prompt": "Sobre quais lugares Assuero pôs tributo?",
       "answer": "Sobre a terra e as ilhas do mar.",
-      "reference": "Et 10:1"
+      "reference": "Et 10:1",
+      "wrongs": [
+        "Sobre Judá e as cidades do Neguebe.",
+        "Sobre o Egito e as margens do Nilo.",
+        "Sobre Susã e os pátios do palácio."
+      ]
     },
     {
       "id": "EST.10.curiosity.1",
@@ -388,7 +578,12 @@
       "kind": "curiosity",
       "prompt": "Onde ficou registrada a grandeza de Mardoqueu?",
       "answer": "No livro oficial dos reis medos e persas.",
-      "reference": "Et 10:2"
+      "reference": "Et 10:2",
+      "wrongs": [
+        "Só na memória do povo de Susã.",
+        "Nas cartas seladas de Ester.",
+        "No mural do templo em Jerusalém."
+      ]
     },
     {
       "id": "EST.0.curiosity.1",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Ester?",
       "answer": "O livro não diz o autor.",
-      "reference": "Ester"
+      "reference": "Ester",
+      "wrongs": [
+        "O livro aponta Ester como autora.",
+        "O livro aponta Mardoqueu como autor.",
+        "O livro aponta Esdras como autor."
+      ]
     },
     {
       "id": "EST.0.curiosity.2",
@@ -408,7 +608,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Ester?",
       "answer": "No tempo da Pérsia, no século V antes de Cristo.",
-      "reference": "Ester"
+      "reference": "Ester",
+      "wrongs": [
+        "No tempo do Egito, no século XV antes de Cristo.",
+        "No tempo da Babilônia, no século VII antes de Cristo.",
+        "No tempo da Grécia, no século III antes de Cristo."
+      ]
     }
   ]
 }

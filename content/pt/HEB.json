@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Como o Filho supera os anjos?",
       "answer": "Recebeu um nome mais honrado que o deles.",
-      "reference": "Hb 1:4"
+      "reference": "Hb 1:4",
+      "wrongs": [
+        "Recebeu asas e ficou igual a eles.",
+        "Ficou abaixo deles, como servo.",
+        "Perdeu o nome ao entrar no mundo."
+      ]
     },
     {
       "id": "HEB.1.curiosity.1",
@@ -18,7 +23,12 @@
       "kind": "curiosity",
       "prompt": "O que será feito dos inimigos do Filho?",
       "answer": "Serão postos como apoio debaixo dos pés dele.",
-      "reference": "Hb 1:13"
+      "reference": "Hb 1:13",
+      "wrongs": [
+        "Serão recebidos como irmãos no trono.",
+        "Fugirão para o abismo e não voltarão.",
+        "Reinarão com ele sobre as nações."
+      ]
     },
     {
       "id": "HEB.1.curiosity.2",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "Para que os anjos são enviados?",
       "answer": "Para ajudar quem vai herdar a salvação.",
-      "reference": "Hb 1:14"
+      "reference": "Hb 1:14",
+      "wrongs": [
+        "Para serem adorados junto com o Filho.",
+        "Para governar as nações no lugar dele.",
+        "Para substituir o sacerdócio de Arão."
+      ]
     },
     {
       "id": "HEB.2.subject.1",
@@ -38,7 +53,12 @@
       "kind": "subject",
       "prompt": "Por que Jesus compartilhou a carne e o sangue?",
       "answer": "Para destruir o diabo, que tinha poder sobre a morte.",
-      "reference": "Hb 2:14"
+      "reference": "Hb 2:14",
+      "wrongs": [
+        "Para se tornar anjo e deixar a carne.",
+        "Para evitar a morte e ficar só divino.",
+        "Para fundar um reino sem passar pela cruz."
+      ]
     },
     {
       "id": "HEB.2.name.1",
@@ -48,7 +68,12 @@
       "kind": "name",
       "prompt": "De quem é a descendência que Jesus socorre?",
       "answer": "De Abraão, e não dos anjos.",
-      "reference": "Hb 2:16"
+      "reference": "Hb 2:16",
+      "wrongs": [
+        "De Adão, e não de Abraão.",
+        "Dos anjos, e não dos homens.",
+        "De Davi, e não de Abraão."
+      ]
     },
     {
       "id": "HEB.2.curiosity.1",
@@ -58,7 +83,12 @@
       "kind": "curiosity",
       "prompt": "Por quem Jesus experimentou a morte?",
       "answer": "Por todas as pessoas.",
-      "reference": "Hb 2:9"
+      "reference": "Hb 2:9",
+      "wrongs": [
+        "Só pelos judeus.",
+        "Só pelos que já eram justos.",
+        "Por ninguém além dos anjos."
+      ]
     },
     {
       "id": "HEB.3.subject.1",
@@ -68,7 +98,12 @@
       "kind": "subject",
       "prompt": "Por que há mais glória do que a de Moisés?",
       "answer": "O construtor é mais honrado do que a própria casa.",
-      "reference": "Hb 3:3"
+      "reference": "Hb 3:3",
+      "wrongs": [
+        "Moisés construiu a casa, e por isso tem mais glória.",
+        "A casa vale mais do que quem a construiu.",
+        "Os dois têm a mesma glória, sem diferença."
+      ]
     },
     {
       "id": "HEB.3.name.1",
@@ -78,7 +113,12 @@
       "kind": "name",
       "prompt": "Como Moisés foi fiel na casa de Deus?",
       "answer": "Foi fiel no papel de servo.",
-      "reference": "Hb 3:5"
+      "reference": "Hb 3:5",
+      "wrongs": [
+        "Foi fiel no papel de filho.",
+        "Foi infiel e não entrou na terra.",
+        "Foi sacerdote, como Arão."
+      ]
     },
     {
       "id": "HEB.3.place.1",
@@ -88,7 +128,12 @@
       "kind": "place",
       "prompt": "De onde saiu parte do povo conduzido por Moisés?",
       "answer": "Do Egito.",
-      "reference": "Hb 3:16"
+      "reference": "Hb 3:16",
+      "wrongs": [
+        "De Canaã.",
+        "Da Babilônia.",
+        "Do deserto."
+      ]
     },
     {
       "id": "HEB.3.curiosity.1",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "Por quanto tempo Deus se indignou com os que pecaram, em Hebreus?",
       "answer": "Por quarenta anos.",
-      "reference": "Hb 3:17"
+      "reference": "Hb 3:17",
+      "wrongs": [
+        "Por sete anos.",
+        "Por quatrocentos anos.",
+        "Por um ano."
+      ]
     },
     {
       "id": "HEB.4.subject.1",
@@ -108,7 +158,12 @@
       "kind": "subject",
       "prompt": "Qual descanso ainda resta ao povo de Deus?",
       "answer": "Um repouso parecido com o do sábado.",
-      "reference": "Hb 4:9"
+      "reference": "Hb 4:9",
+      "wrongs": [
+        "O sábado da lei, já cumprido por Josué.",
+        "Nenhum. O descanso acabou no deserto.",
+        "O sono da morte, sem mais nada."
+      ]
     },
     {
       "id": "HEB.4.name.1",
@@ -118,7 +173,12 @@
       "kind": "name",
       "prompt": "Quem não deu ao povo o descanso definitivo?",
       "answer": "Josué.",
-      "reference": "Hb 4:8"
+      "reference": "Hb 4:8",
+      "wrongs": [
+        "Moisés.",
+        "Calebe.",
+        "Davi."
+      ]
     },
     {
       "id": "HEB.4.place.1",
@@ -128,7 +188,12 @@
       "kind": "place",
       "prompt": "Para onde entrou Jesus, o grande sacerdote?",
       "answer": "Nos céus.",
-      "reference": "Hb 4:14"
+      "reference": "Hb 4:14",
+      "wrongs": [
+        "No templo.",
+        "No deserto.",
+        "No monte Sinai."
+      ]
     },
     {
       "id": "HEB.4.curiosity.1",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "Com o que a palavra de Deus se compara no corte?",
       "answer": "Com uma espada de dois gumes, só que mais afiada.",
-      "reference": "Hb 4:12"
+      "reference": "Hb 4:12",
+      "wrongs": [
+        "Com um martelo que quebra a pedra.",
+        "Com uma rede que prende o peixe.",
+        "Com uma lâmpada que só ilumina."
+      ]
     },
     {
       "id": "HEB.5.subject.1",
@@ -148,7 +218,12 @@
       "kind": "subject",
       "prompt": "De quem é a ordem do sacerdócio de Jesus?",
       "answer": "De Melquisedeque.",
-      "reference": "Hb 5:10"
+      "reference": "Hb 5:10",
+      "wrongs": [
+        "De Arão.",
+        "De Levi.",
+        "De Moisés."
+      ]
     },
     {
       "id": "HEB.5.name.1",
@@ -158,7 +233,12 @@
       "kind": "name",
       "prompt": "Quem Hebreus cita como chamado ao sacerdócio, além de Cristo?",
       "answer": "Arão.",
-      "reference": "Hb 5:4"
+      "reference": "Hb 5:4",
+      "wrongs": [
+        "Moisés.",
+        "Josué.",
+        "Davi."
+      ]
     },
     {
       "id": "HEB.5.curiosity.1",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "Como Jesus orou quando ainda vivia na carne?",
       "answer": "Com grande clamor e com lágrimas.",
-      "reference": "Hb 5:7"
+      "reference": "Hb 5:7",
+      "wrongs": [
+        "Em silêncio, sem nenhuma palavra.",
+        "Com um discurso calmo, diante da multidão.",
+        "Por escrito, numa oração deixada aos discípulos."
+      ]
     },
     {
       "id": "HEB.6.subject.1",
@@ -179,7 +264,12 @@
       "kind": "subject",
       "prompt": "O que é impossível para quem foi iluminado e depois caiu?",
       "answer": "Ser renovado outra vez para o arrependimento.",
-      "reference": "Hb 6:4-6"
+      "reference": "Hb 6:4-6",
+      "wrongs": [
+        "Voltar a oferecer sacrifícios de animais.",
+        "Receber de novo o batismo de João.",
+        "Entrar outra vez no sacerdócio de Arão."
+      ]
     },
     {
       "id": "HEB.6.name.1",
@@ -189,7 +279,12 @@
       "kind": "name",
       "prompt": "Por quem Deus jurou ao prometer a Abraão?",
       "answer": "Por si mesmo, pois não havia ninguém maior.",
-      "reference": "Hb 6:13"
+      "reference": "Hb 6:13",
+      "wrongs": [
+        "Por Abraão, porque ele era o pai da fé.",
+        "Por um anjo, testemunha da promessa.",
+        "Pela lei, escrita nas tábuas."
+      ]
     },
     {
       "id": "HEB.6.curiosity.1",
@@ -199,7 +294,12 @@
       "kind": "curiosity",
       "prompt": "O que serve de âncora firme para a alma?",
       "answer": "A esperança, que entra além do véu.",
-      "reference": "Hb 6:19"
+      "reference": "Hb 6:19",
+      "wrongs": [
+        "A lei, que fica fora do véu.",
+        "O medo, que prende a alma ao chão.",
+        "O ouro, guardado na arca."
+      ]
     },
     {
       "id": "HEB.7.subject.1",
@@ -209,7 +309,12 @@
       "kind": "subject",
       "prompt": "Por que o sacerdócio de Jesus é definitivo?",
       "answer": "Porque ele permanece para sempre.",
-      "reference": "Hb 7:24"
+      "reference": "Hb 7:24",
+      "wrongs": [
+        "Porque a família dele é de Arão.",
+        "Porque ele oferece sacrifício todo ano.",
+        "Porque o templo de pedra ainda está de pé."
+      ]
     },
     {
       "id": "HEB.7.name.1",
@@ -219,7 +324,12 @@
       "kind": "name",
       "prompt": "Quem era rei de Salém e sacerdote do Deus Altíssimo?",
       "answer": "Melquisedeque.",
-      "reference": "Hb 7:1"
+      "reference": "Hb 7:1",
+      "wrongs": [
+        "Arão.",
+        "Davi.",
+        "Abraão."
+      ]
     },
     {
       "id": "HEB.7.place.1",
@@ -229,7 +339,12 @@
       "kind": "place",
       "prompt": "De que cidade Melquisedeque era rei?",
       "answer": "De Salém.",
-      "reference": "Hb 7:1"
+      "reference": "Hb 7:1",
+      "wrongs": [
+        "De Hebrom.",
+        "De Berseba.",
+        "De Siquém."
+      ]
     },
     {
       "id": "HEB.7.curiosity.1",
@@ -239,7 +354,12 @@
       "kind": "curiosity",
       "prompt": "O que Abraão entregou a Melquisedeque?",
       "answer": "O dízimo de tudo.",
-      "reference": "Hb 7:2"
+      "reference": "Hb 7:2",
+      "wrongs": [
+        "Um cordeiro, e nada mais.",
+        "A terra de Canaã, por inteiro.",
+        "O filho Isaque, como oferta."
+      ]
     },
     {
       "id": "HEB.8.subject.1",
@@ -249,7 +369,12 @@
       "kind": "subject",
       "prompt": "Qual aliança tem Jesus como mediador?",
       "answer": "Uma aliança melhor, baseada em promessas melhores.",
-      "reference": "Hb 8:6"
+      "reference": "Hb 8:6",
+      "wrongs": [
+        "A mesma aliança do Sinai, sem mudança.",
+        "Uma aliança só com Israel, fechada aos outros.",
+        "Nenhuma. Ele medeia a lei antiga."
+      ]
     },
     {
       "id": "HEB.8.name.1",
@@ -259,7 +384,12 @@
       "kind": "name",
       "prompt": "Quem foi avisado para seguir o modelo do tabernáculo, em Hebreus?",
       "answer": "Moisés.",
-      "reference": "Hb 8:5"
+      "reference": "Hb 8:5",
+      "wrongs": [
+        "Arão.",
+        "Josué.",
+        "Davi."
+      ]
     },
     {
       "id": "HEB.8.place.1",
@@ -269,7 +399,12 @@
       "kind": "place",
       "prompt": "De onde Deus tirou os antepassados de Israel?",
       "answer": "Da terra do Egito.",
-      "reference": "Hb 8:9"
+      "reference": "Hb 8:9",
+      "wrongs": [
+        "Da terra de Canaã.",
+        "Da Babilônia.",
+        "Do deserto de Midiã."
+      ]
     },
     {
       "id": "HEB.8.curiosity.1",
@@ -279,7 +414,12 @@
       "kind": "curiosity",
       "prompt": "Onde Deus escreveria as leis na aliança com Israel?",
       "answer": "Nas mentes e nos corações.",
-      "reference": "Hb 8:10"
+      "reference": "Hb 8:10",
+      "wrongs": [
+        "Nas tábuas de pedra.",
+        "Nas portas das casas.",
+        "No livro guardado na arca."
+      ]
     },
     {
       "id": "HEB.9.subject.1",
@@ -289,7 +429,12 @@
       "kind": "subject",
       "prompt": "Qual sangue Cristo levou ao entrar no santuário?",
       "answer": "O próprio sangue, não o de bodes e bezerros.",
-      "reference": "Hb 9:12"
+      "reference": "Hb 9:12",
+      "wrongs": [
+        "O sangue de bodes e de bezerros.",
+        "O incenso, sem nenhum sangue.",
+        "Água, e não sangue."
+      ]
     },
     {
       "id": "HEB.9.name.1",
@@ -299,7 +444,12 @@
       "kind": "name",
       "prompt": "Quem aspergiu o livro e todo o povo com sangue?",
       "answer": "Moisés.",
-      "reference": "Hb 9:19"
+      "reference": "Hb 9:19",
+      "wrongs": [
+        "Arão.",
+        "Josué.",
+        "Esdras."
+      ]
     },
     {
       "id": "HEB.9.place.1",
@@ -309,7 +459,12 @@
       "kind": "place",
       "prompt": "Onde Cristo entrou para comparecer diante de Deus?",
       "answer": "No próprio céu, não num santuário feito por mãos.",
-      "reference": "Hb 9:24"
+      "reference": "Hb 9:24",
+      "wrongs": [
+        "No templo de Herodes, feito por mãos.",
+        "No tabernáculo do deserto, copiado por Moisés.",
+        "No santo dos santos, uma vez por ano só."
+      ]
     },
     {
       "id": "HEB.9.curiosity.1",
@@ -319,7 +474,12 @@
       "kind": "curiosity",
       "prompt": "O que a carta aos Hebreus diz que estava na arca da aliança?",
       "answer": "O maná num vaso de ouro, a vara de Arão e as tábuas.",
-      "reference": "Hb 9:4"
+      "reference": "Hb 9:4",
+      "wrongs": [
+        "Só as tábuas da lei, e mais nada.",
+        "A serpente de bronze e o incenso.",
+        "O manto de Elias e um jarro de azeite."
+      ]
     },
     {
       "id": "HEB.10.subject.1",
@@ -329,7 +489,12 @@
       "kind": "subject",
       "prompt": "Quantas ofertas aperfeiçoam para sempre quem é santificado, em Hebreus?",
       "answer": "Uma só oferta.",
-      "reference": "Hb 10:14"
+      "reference": "Hb 10:14",
+      "wrongs": [
+        "Ofertas todo ano.",
+        "Sete ofertas.",
+        "O sangue de cada festa."
+      ]
     },
     {
       "id": "HEB.10.place.1",
@@ -339,7 +504,12 @@
       "kind": "place",
       "prompt": "Onde está o bem melhor que não se perde, em Hebreus?",
       "answer": "Nos céus.",
-      "reference": "Hb 10:34"
+      "reference": "Hb 10:34",
+      "wrongs": [
+        "No templo.",
+        "Na terra prometida.",
+        "No túmulo."
+      ]
     },
     {
       "id": "HEB.10.curiosity.1",
@@ -349,7 +519,12 @@
       "kind": "curiosity",
       "prompt": "Qual sangue não consegue tirar pecados?",
       "answer": "O sangue de touros e o de bodes.",
-      "reference": "Hb 10:4"
+      "reference": "Hb 10:4",
+      "wrongs": [
+        "O sangue de Cristo.",
+        "A água do batismo.",
+        "O incenso do altar."
+      ]
     },
     {
       "id": "HEB.10.curiosity.2",
@@ -359,7 +534,12 @@
       "kind": "curiosity",
       "prompt": "O que alguns já costumavam abandonar, segundo Hebreus?",
       "answer": "A reunião da comunidade.",
-      "reference": "Hb 10:25"
+      "reference": "Hb 10:25",
+      "wrongs": [
+        "O sábado e a lua nova.",
+        "O jejum de segunda e quinta.",
+        "A leitura da lei em casa."
+      ]
     },
     {
       "id": "HEB.11.subject.1",
@@ -369,7 +549,12 @@
       "kind": "subject",
       "prompt": "O que a fé garante a quem ainda espera?",
       "answer": "A certeza daquilo que se espera e a prova do invisível.",
-      "reference": "Hb 11:1"
+      "reference": "Hb 11:1",
+      "wrongs": [
+        "A vista daquilo que já se toca.",
+        "Um sentimento sem nenhum conteúdo.",
+        "A lista das obras que salvam sozinhas."
+      ]
     },
     {
       "id": "HEB.11.name.1",
@@ -379,7 +564,12 @@
       "kind": "name",
       "prompt": "Quem a carta aos Hebreus diz que Deus levou sem ver a morte?",
       "answer": "Enoque.",
-      "reference": "Hb 11:5"
+      "reference": "Hb 11:5",
+      "wrongs": [
+        "Elias.",
+        "Moisés.",
+        "Noé."
+      ]
     },
     {
       "id": "HEB.11.place.1",
@@ -389,7 +579,12 @@
       "kind": "place",
       "prompt": "Onde os muros caíram depois de sete dias, em Hebreus?",
       "answer": "Em Jericó.",
-      "reference": "Hb 11:30"
+      "reference": "Hb 11:30",
+      "wrongs": [
+        "Em Ai.",
+        "Em Hazor.",
+        "Em Jebus."
+      ]
     },
     {
       "id": "HEB.11.curiosity.1",
@@ -399,7 +594,12 @@
       "kind": "curiosity",
       "prompt": "Por quanto tempo os pais esconderam Moisés bebê?",
       "answer": "Por três meses.",
-      "reference": "Hb 11:23"
+      "reference": "Hb 11:23",
+      "wrongs": [
+        "Por sete dias.",
+        "Por um ano.",
+        "Por quarenta dias."
+      ]
     },
     {
       "id": "HEB.12.subject.1",
@@ -409,7 +609,12 @@
       "kind": "subject",
       "prompt": "Quem é o autor e o aperfeiçoador da fé?",
       "answer": "Jesus.",
-      "reference": "Hb 12:2"
+      "reference": "Hb 12:2",
+      "wrongs": [
+        "Moisés.",
+        "Abraão.",
+        "Paulo."
+      ]
     },
     {
       "id": "HEB.12.name.1",
@@ -419,7 +624,12 @@
       "kind": "name",
       "prompt": "Quem vendeu o direito de filho mais velho por uma refeição?",
       "answer": "Esaú.",
-      "reference": "Hb 12:16"
+      "reference": "Hb 12:16",
+      "wrongs": [
+        "Jacó.",
+        "Caim.",
+        "Rúben."
+      ]
     },
     {
       "id": "HEB.12.place.1",
@@ -429,7 +639,12 @@
       "kind": "place",
       "prompt": "Qual é o monte da cidade celestial a que os crentes chegaram?",
       "answer": "O monte Sião, na Jerusalém celestial.",
-      "reference": "Hb 12:22"
+      "reference": "Hb 12:22",
+      "wrongs": [
+        "O monte Sinai, no deserto.",
+        "O monte Carmelo, em Israel.",
+        "O monte das Oliveiras, junto à cidade."
+      ]
     },
     {
       "id": "HEB.12.curiosity.1",
@@ -439,7 +654,12 @@
       "kind": "curiosity",
       "prompt": "O que devia ocorrer com o animal que tocasse o monte?",
       "answer": "Seria apedrejado ou atravessado por um dardo.",
-      "reference": "Hb 12:20"
+      "reference": "Hb 12:20",
+      "wrongs": [
+        "Seria levado ao sacerdote e solto.",
+        "Seria oferecido no altar sem defeito.",
+        "Nada. O monte podia ser tocado."
+      ]
     },
     {
       "id": "HEB.13.subject.1",
@@ -449,7 +669,12 @@
       "kind": "subject",
       "prompt": "O que não muda em Jesus Cristo?",
       "answer": "Ele é o mesmo no passado, agora e para sempre.",
-      "reference": "Hb 13:8"
+      "reference": "Hb 13:8",
+      "wrongs": [
+        "Ele muda conforme o tempo e a aliança.",
+        "Ele era anjo e depois se tornou homem só.",
+        "Ele deixa de ser sacerdote no fim."
+      ]
     },
     {
       "id": "HEB.13.name.1",
@@ -459,7 +684,12 @@
       "kind": "name",
       "prompt": "Qual irmão a carta aos Hebreus diz que já estava solto?",
       "answer": "Timóteo.",
-      "reference": "Hb 13:23"
+      "reference": "Hb 13:23",
+      "wrongs": [
+        "Paulo.",
+        "Tito.",
+        "Barnabé."
+      ]
     },
     {
       "id": "HEB.13.place.1",
@@ -469,7 +699,12 @@
       "kind": "place",
       "prompt": "De onde vieram as saudações no fim da carta aos Hebreus?",
       "answer": "Da Itália.",
-      "reference": "Hb 13:24"
+      "reference": "Hb 13:24",
+      "wrongs": [
+        "Da Judeia.",
+        "Do Egito.",
+        "Da Acaia."
+      ]
     },
     {
       "id": "HEB.13.curiosity.1",
@@ -479,7 +714,12 @@
       "kind": "curiosity",
       "prompt": "Por que a hospitalidade não deve ser esquecida?",
       "answer": "Porque alguns acolheram anjos sem saber.",
-      "reference": "Hb 13:2"
+      "reference": "Hb 13:2",
+      "wrongs": [
+        "Porque a lei cobra pousada ao estrangeiro.",
+        "Porque o hóspede sempre traz uma oferta.",
+        "Porque a cidade multa quem fecha a porta."
+      ]
     },
     {
       "id": "HEB.0.curiosity.1",
@@ -489,7 +729,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Hebreus?",
       "answer": "A carta não diz o autor.",
-      "reference": "Hebreus"
+      "reference": "Hebreus",
+      "wrongs": [
+        "Paulo a escreveu na prisão em Roma.",
+        "Apolo a escreveu em Alexandria.",
+        "Barnabé a escreveu em Chipre."
+      ]
     },
     {
       "id": "HEB.0.curiosity.2",
@@ -499,7 +744,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Hebreus?",
       "answer": "Antes do ano 70.",
-      "reference": "Hebreus"
+      "reference": "Hebreus",
+      "wrongs": [
+        "Por volta do ano 95.",
+        "No fim do século II.",
+        "Logo depois do ano 30."
+      ]
     },
     {
       "id": "HEB.0.curiosity.3",
@@ -509,7 +759,12 @@
       "kind": "curiosity",
       "prompt": "Para quem foi escrita a carta aos Hebreus?",
       "answer": "Para cristãos pressionados a deixar a fé.",
-      "reference": "Hebreus"
+      "reference": "Hebreus",
+      "wrongs": [
+        "Para a igreja de Corinto, dividida por líderes.",
+        "Para os gentios de Roma, que nunca ouviram a lei.",
+        "Para os sacerdotes do templo, ainda em serviço."
+      ]
     }
   ]
 }

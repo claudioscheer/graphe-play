@@ -14,6 +14,7 @@ data class CardEntity(
     val prompt: String,
     val answer: String,
     val reference: String,
+    val wrongs: String = "",
 )
 
 @Entity(tableName = "progress")

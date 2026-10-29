@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Como os crentes nasceram de novo para uma esperança viva?",
       "answer": "Pela ressurreição de Jesus Cristo.",
-      "reference": "1Pe 1:3"
+      "reference": "1Pe 1:3",
+      "wrongs": [
+        "Pelo cumprimento da lei de Moisés.",
+        "Pelo batismo, sem a ressurreição.",
+        "Pela descendência de Abraão."
+      ]
     },
     {
       "id": "1PE.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem escreveu aos forasteiros do Ponto e da Galácia?",
       "answer": "Pedro, apóstolo de Jesus Cristo.",
-      "reference": "1Pe 1:1"
+      "reference": "1Pe 1:1",
+      "wrongs": [
+        "Paulo, apóstolo dos gentios.",
+        "Tiago, irmão do Senhor.",
+        "João, o discípulo amado."
+      ]
     },
     {
       "id": "1PE.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde estavam os forasteiros a quem Pedro escreveu?",
       "answer": "No Ponto, na Galácia, na Capadócia, na Ásia e na Bitínia.",
-      "reference": "1Pe 1:1"
+      "reference": "1Pe 1:1",
+      "wrongs": [
+        "Na Judeia, na Galileia, em Samaria e em Jerusalém.",
+        "Em Roma, em Corinto, em Éfeso e em Filipos.",
+        "No Egito, na Líbia, em Creta e na Síria."
+      ]
     },
     {
       "id": "1PE.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que vale menos do que a prova da fé?",
       "answer": "O ouro, que se acaba mesmo no fogo.",
-      "reference": "1Pe 1:7"
+      "reference": "1Pe 1:7",
+      "wrongs": [
+        "A prata, guardada no templo.",
+        "A fé de quem nunca foi provado.",
+        "A coroa que os reis deixam aos filhos."
+      ]
     },
     {
       "id": "1PE.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Qual identidade Pedro dá a quem crê?",
       "answer": "Geração escolhida, sacerdócio real, nação santa e povo adquirido.",
-      "reference": "1Pe 2:9"
+      "reference": "1Pe 2:9",
+      "wrongs": [
+        "Povo sem lei, sacerdócio acabado, nação qualquer e gente esquecida.",
+        "Só Israel segundo a carne, e mais ninguém.",
+        "Escravos de Roma, sem nenhuma identidade."
+      ]
     },
     {
       "id": "1PE.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "Onde Deus coloca a pedra principal da construção, em 1 Pedro?",
       "answer": "Em Sião.",
-      "reference": "1Pe 2:6"
+      "reference": "1Pe 2:6",
+      "wrongs": [
+        "Em Sinai.",
+        "Em Betel.",
+        "Em Siquém."
+      ]
     },
     {
       "id": "1PE.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "O que nunca se achou na boca de Cristo?",
       "answer": "Engano.",
-      "reference": "1Pe 2:22"
+      "reference": "1Pe 2:22",
+      "wrongs": [
+        "Uma maldição.",
+        "Um cântico de guerra.",
+        "Um voto à lei."
+      ]
     },
     {
       "id": "1PE.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Onde Cristo carregou os pecados no próprio corpo?",
       "answer": "Sobre o madeiro.",
-      "reference": "1Pe 2:24"
+      "reference": "1Pe 2:24",
+      "wrongs": [
+        "Sobre o altar do templo.",
+        "Sobre os ombros de Simão.",
+        "No pó, diante de Pilatos."
+      ]
     },
     {
       "id": "1PE.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Por que Cristo sofreu uma vez?",
       "answer": "O justo sofreu pelos injustos, para levar as pessoas a Deus.",
-      "reference": "1Pe 3:18"
+      "reference": "1Pe 3:18",
+      "wrongs": [
+        "O injusto sofreu pelo justo, para pagar a própria culpa.",
+        "Ele sofreu várias vezes, uma para cada pecado.",
+        "Ele sofreu para dar exemplo, sem levar ninguém a Deus."
+      ]
     },
     {
       "id": "1PE.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem obedecia a Abraão?",
       "answer": "Sara.",
-      "reference": "1Pe 3:6"
+      "reference": "1Pe 3:6",
+      "wrongs": [
+        "Agar.",
+        "Rebeca.",
+        "Raabe."
+      ]
     },
     {
       "id": "1PE.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Quantas pessoas foram salvas na arca, nos dias de Noé?",
       "answer": "Oito.",
-      "reference": "1Pe 3:20"
+      "reference": "1Pe 3:20",
+      "wrongs": [
+        "Duas.",
+        "Doze.",
+        "Quarenta."
+      ]
     },
     {
       "id": "1PE.3.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "O que é o batismo, para além da limpeza do corpo?",
       "answer": "Um pedido de boa consciência diante de Deus.",
-      "reference": "1Pe 3:21"
+      "reference": "1Pe 3:21",
+      "wrongs": [
+        "Um banho que lava a sujeira do corpo.",
+        "Um sacrifício repetido a cada ano.",
+        "Um selo da cidade, sem ligação com Cristo."
+      ]
     },
     {
       "id": "1PE.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Como reagir ao sofrer por ser cristão?",
       "answer": "Sem vergonha, dando glória a Deus por isso.",
-      "reference": "1Pe 4:16"
+      "reference": "1Pe 4:16",
+      "wrongs": [
+        "Com vergonha, escondendo o nome de cristão.",
+        "Com vingança, devolvendo o mal recebido.",
+        "Com orgulho, como se o sofrimento salvasse por si."
+      ]
     },
     {
       "id": "1PE.4.curiosity.1",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "O que Pedro diz que está perto?",
       "answer": "O final de todas as coisas.",
-      "reference": "1Pe 4:7"
+      "reference": "1Pe 4:7",
+      "wrongs": [
+        "O reinado de um novo César.",
+        "A reconstrução do templo.",
+        "Nada. O tempo segue sem fim à vista."
+      ]
     },
     {
       "id": "1PE.4.curiosity.2",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "O que o amor intenso cobre?",
       "answer": "Uma multidão de pecados.",
-      "reference": "1Pe 4:8"
+      "reference": "1Pe 4:8",
+      "wrongs": [
+        "Só um pecado, o primeiro.",
+        "A dívida do templo.",
+        "Nenhum pecado. O amor os expõe."
+      ]
     },
     {
       "id": "1PE.5.subject.1",
@@ -158,7 +233,12 @@
       "kind": "subject",
       "prompt": "Como os anciãos devem cuidar do rebanho de Deus?",
       "answer": "De livre vontade, sem obrigação e sem ganância.",
-      "reference": "1Pe 5:2"
+      "reference": "1Pe 5:2",
+      "wrongs": [
+        "Por obrigação, e de olho no lucro.",
+        "Com mão dura, como donos do rebanho.",
+        "De longe, deixando o rebanho por conta própria."
+      ]
     },
     {
       "id": "1PE.5.name.1",
@@ -168,7 +248,12 @@
       "kind": "name",
       "prompt": "Por meio de quem Pedro disse ter escrito?",
       "answer": "Por Silvano, um irmão fiel.",
-      "reference": "1Pe 5:12"
+      "reference": "1Pe 5:12",
+      "wrongs": [
+        "Por Marcos, filho na fé.",
+        "Por Paulo, apóstolo dos gentios.",
+        "Por Timóteo, cooperador no evangelho."
+      ]
     },
     {
       "id": "1PE.5.place.1",
@@ -178,7 +263,12 @@
       "kind": "place",
       "prompt": "Onde estava a comunidade escolhida que saúda com Marcos?",
       "answer": "Na Babilônia.",
-      "reference": "1Pe 5:13"
+      "reference": "1Pe 5:13",
+      "wrongs": [
+        "Em Roma.",
+        "Em Antioquia.",
+        "Em Jerusalém."
+      ]
     },
     {
       "id": "1PE.5.curiosity.1",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "Com qual animal Pedro compara o diabo?",
       "answer": "Com um leão que ruge e procura quem devorar.",
-      "reference": "1Pe 5:8"
+      "reference": "1Pe 5:8",
+      "wrongs": [
+        "Com uma serpente quieta no jardim.",
+        "Com um lobo disfarçado de ovelha.",
+        "Com um cão que volta ao que vomitou."
+      ]
     },
     {
       "id": "1PE.0.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 1 Pedro?",
       "answer": "Pedro.",
-      "reference": "1 Pedro"
+      "reference": "1 Pedro",
+      "wrongs": [
+        "Paulo.",
+        "Tiago.",
+        "João."
+      ]
     },
     {
       "id": "1PE.0.curiosity.2",
@@ -208,7 +308,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 1 Pedro?",
       "answer": "Por volta do ano 63.",
-      "reference": "1 Pedro"
+      "reference": "1 Pedro",
+      "wrongs": [
+        "Por volta do ano 45.",
+        "Por volta do ano 70.",
+        "Por volta do ano 90."
+      ]
     },
     {
       "id": "1PE.0.curiosity.3",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "A quem Pedro escreve a primeira carta?",
       "answer": "Aos cristãos espalhados por várias regiões.",
-      "reference": "1Pe 1:1"
+      "reference": "1Pe 1:1",
+      "wrongs": [
+        "À igreja que estava em Roma.",
+        "Aos presbíteros de Jerusalém.",
+        "A uma só pessoa, de nome Silas."
+      ]
     }
   ]
 }

@@ -11,13 +11,13 @@ class CardValidatorTest {
 
     @Test
     fun bundledBooksAreComplete() {
-        val problems = validateCards(loadBundledCards(), requireBookAbout = true)
+        val problems = validateCards(loadBundledCards(), requireBookAbout = true, requireWrongs = true)
         assertEquals(problems.joinToString("\n"), emptyList<CardProblem>(), problems)
     }
 
     @Test
     fun fullCanon() {
-        val problems = validateCards(loadBundledCards(), requireEveryChapter = true)
+        val problems = validateCards(loadBundledCards(), requireEveryChapter = true, requireWrongs = true)
         assertTrue(problems.joinToString("\n"), problems.isEmpty())
     }
 

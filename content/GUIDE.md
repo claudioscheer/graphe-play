@@ -11,7 +11,12 @@ Cada arquivo em `content/pt/` é um livro. O id da carta não muda quando houver
   "kind": "subject",
   "prompt": "O que Deus fez no princípio?",
   "answer": "Criou os céus e a terra.",
-  "reference": "Gn 1:1"
+  "reference": "Gn 1:1",
+  "wrongs": [
+    "Separou a luz das trevas.",
+    "Formou o homem do pó.",
+    "Pôs o sol e a lua no céu."
+  ]
 }
 ```
 
@@ -26,6 +31,7 @@ Cada arquivo em `content/pt/` é um livro. O id da carta não muda quando houver
 - A resposta é uma frase nossa. O app não leva o texto do versículo.
 - A referência de um capítulo usa a abreviação portuguesa do Graphe e o mesmo capítulo da carta: `Gn 1:1`.
 - Um fato por carta. Sem pegadinha.
+- `wrongs` são três respostas erradas para o quiz. Respondem a mesma pergunta, no mesmo tamanho da certa, e só uma opção fica correta.
 
 `content/version.txt` sobe quando o conjunto de cartas muda, para o app recolocar as cartas sem apagar os acertos.
 

@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Como a amada se descreve às filhas de Jerusalém?",
       "answer": "Morena como tenda de Quedar e bela como cortina de Salomão.",
-      "reference": "Ct 1:5"
+      "reference": "Ct 1:5",
+      "wrongs": [
+        "Clara como a neve do Hermom e frágil como linho novo.",
+        "Pálida como a lua cheia e baixa como a relva do campo.",
+        "Dourada como o trigo maduro e leve como a gazela."
+      ]
     },
     {
       "id": "SNG.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "De quem é o cântico dos cânticos, em Cantares?",
       "answer": "De Salomão.",
-      "reference": "Ct 1:1"
+      "reference": "Ct 1:1",
+      "wrongs": [
+        "De Davi.",
+        "De Asafe.",
+        "De Jeremias."
+      ]
     },
     {
       "id": "SNG.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Em que vinhas o amado é como um ramo de hena, em Cantares?",
       "answer": "Nas vinhas de Engedi.",
-      "reference": "Ct 1:14"
+      "reference": "Ct 1:14",
+      "wrongs": [
+        "Nas vinhas de Sarom.",
+        "Nas vinhas de Hesbom.",
+        "Nas vinhas de Baal-Hamom."
+      ]
     },
     {
       "id": "SNG.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "A que o amado compara a mulher querida, em Cantares?",
       "answer": "Às éguas que puxam a carruagem do faraó.",
-      "reference": "Ct 1:9"
+      "reference": "Ct 1:9",
+      "wrongs": [
+        "Às leoas que rondam o deserto de Judá.",
+        "Às águias que voam no alto do penhasco.",
+        "Às vacas que pastam nos campos de Basã."
+      ]
     },
     {
       "id": "SNG.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Que sinais de primavera o amado anuncia, em Cantares?",
       "answer": "Flores na terra, tempo de cantar e a voz da rolinha.",
-      "reference": "Ct 2:12"
+      "reference": "Ct 2:12",
+      "wrongs": [
+        "Neve no monte, tempo de calar e a voz do trovão.",
+        "Trigo maduro, tempo de ceifar e a voz do galo.",
+        "Folhas secas, tempo de partir e a voz da coruja."
+      ]
     },
     {
       "id": "SNG.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "De onde é a rosa com que a amada se compara, em Cantares?",
       "answer": "De Sarom, e ela é o lírio dos vales.",
-      "reference": "Ct 2:1"
+      "reference": "Ct 2:1",
+      "wrongs": [
+        "De Engedi, e ela é o cedro do Líbano.",
+        "De Hesbom, e ela é a vinha de Salomão.",
+        "De Quedar, e ela é o cardo do deserto."
+      ]
     },
     {
       "id": "SNG.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "Que bichos estragam as vinhas em flor, em Cantares?",
       "answer": "As raposas, até as bem pequenas.",
-      "reference": "Ct 2:15"
+      "reference": "Ct 2:15",
+      "wrongs": [
+        "Os leões, só os mais velhos.",
+        "Os corvos, só ao meio-dia.",
+        "Os jumentos, até os que pastam longe."
+      ]
     },
     {
       "id": "SNG.3.subject.1",
@@ -78,7 +113,12 @@
       "kind": "subject",
       "prompt": "Para onde a amada levou o amado ao achá-lo, em Cantares?",
       "answer": "À casa da mãe dela, e não o soltou.",
-      "reference": "Ct 3:4"
+      "reference": "Ct 3:4",
+      "wrongs": [
+        "À porta da cidade, e o entregou aos guardas.",
+        "Ao palácio do rei, e o deixou na sala.",
+        "Ao campo aberto, e voltou sozinha."
+      ]
     },
     {
       "id": "SNG.3.name.1",
@@ -88,7 +128,12 @@
       "kind": "name",
       "prompt": "Quem a mãe coroou no dia do casamento, em Cantares?",
       "answer": "O rei Salomão.",
-      "reference": "Ct 3:11"
+      "reference": "Ct 3:11",
+      "wrongs": [
+        "O rei Davi.",
+        "O rei Ezequias.",
+        "O rei Saul."
+      ]
     },
     {
       "id": "SNG.3.place.1",
@@ -98,7 +143,12 @@
       "kind": "place",
       "prompt": "De onde veio a madeira da liteira de Salomão?",
       "answer": "Do Líbano.",
-      "reference": "Ct 3:9"
+      "reference": "Ct 3:9",
+      "wrongs": [
+        "De Basã.",
+        "De Sarom.",
+        "De Ofir."
+      ]
     },
     {
       "id": "SNG.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Quantos guerreiros rodeiam a cama de Salomão?",
       "answer": "Sessenta, dos guerreiros de Israel.",
-      "reference": "Ct 3:7"
+      "reference": "Ct 3:7",
+      "wrongs": [
+        "Trinta, dos guerreiros de Judá.",
+        "Cem, dos guerreiros do Egito.",
+        "Doze, dos guerreiros de Davi."
+      ]
     },
     {
       "id": "SNG.4.subject.1",
@@ -118,7 +173,12 @@
       "kind": "subject",
       "prompt": "A que o amado compara a esposa em Cantares?",
       "answer": "A um jardim fechado e a uma fonte selada.",
-      "reference": "Ct 4:12"
+      "reference": "Ct 4:12",
+      "wrongs": [
+        "A uma praça aberta e a uma cisterna pública.",
+        "A um mercado cheio e a um rio sem margem.",
+        "A uma tenda rasgada e a um poço seco."
+      ]
     },
     {
       "id": "SNG.4.place.1",
@@ -128,7 +188,12 @@
       "kind": "place",
       "prompt": "De que montes o amado chama a esposa, em Cantares?",
       "answer": "Do Líbano, de Amaná, de Senir e de Hermom.",
-      "reference": "Ct 4:8"
+      "reference": "Ct 4:8",
+      "wrongs": [
+        "Do Carmelo, de Tabor, de Gilboa e de Sião.",
+        "Do Sinai, de Horebe, de Nebo e de Pisga.",
+        "De Gerizim, de Ebal, de Ofel e de Moriá."
+      ]
     },
     {
       "id": "SNG.4.curiosity.1",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "A que se parece o pescoço da amada, em Cantares?",
       "answer": "À torre de Davi, com mil escudos pendurados.",
-      "reference": "Ct 4:4"
+      "reference": "Ct 4:4",
+      "wrongs": [
+        "À porta de Jope, com redes de pesca.",
+        "À muralha de Jericó, sem escudo algum.",
+        "À coluna de Gaza, com lanças quebradas."
+      ]
     },
     {
       "id": "SNG.5.subject.1",
@@ -148,7 +218,12 @@
       "kind": "subject",
       "prompt": "O que houve quando a amada de Cantares abriu a porta?",
       "answer": "O amado já tinha ido embora.",
-      "reference": "Ct 5:6"
+      "reference": "Ct 5:6",
+      "wrongs": [
+        "O amado entrou e ficou.",
+        "Os guardas abriram caminho.",
+        "A mãe dela o recebeu."
+      ]
     },
     {
       "id": "SNG.5.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "O que os guardas da cidade fizeram à amada, em Cantares?",
       "answer": "Bateram nela, a feriram e tiraram o véu.",
-      "reference": "Ct 5:7"
+      "reference": "Ct 5:7",
+      "wrongs": [
+        "A coroaram, a perfumaram e abriram a porta.",
+        "A guiaram, a honraram e chamaram o rei.",
+        "A esconderam, a cobriram e calaram a boca."
+      ]
     },
     {
       "id": "SNG.5.curiosity.2",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "Entre quantos o amado de Cantares se destaca?",
       "answer": "Entre dez mil.",
-      "reference": "Ct 5:10"
+      "reference": "Ct 5:10",
+      "wrongs": [
+        "Entre cem.",
+        "Entre mil.",
+        "Entre doze."
+      ]
     },
     {
       "id": "SNG.6.subject.1",
@@ -178,7 +263,12 @@
       "kind": "subject",
       "prompt": "Como o amado chama a única filha da mãe, em Cantares?",
       "answer": "De pomba perfeita.",
-      "reference": "Ct 6:9"
+      "reference": "Ct 6:9",
+      "wrongs": [
+        "De leoa forte.",
+        "De estrela da manhã.",
+        "De rainha de Sabá."
+      ]
     },
     {
       "id": "SNG.6.name.1",
@@ -188,7 +278,12 @@
       "kind": "name",
       "prompt": "A quem as moças pedem que volte para ser vista, em Cantares?",
       "answer": "À Sulamita.",
-      "reference": "Ct 6:13"
+      "reference": "Ct 6:13",
+      "wrongs": [
+        "À moabita.",
+        "À edomita.",
+        "À egípcia."
+      ]
     },
     {
       "id": "SNG.6.place.1",
@@ -198,7 +293,12 @@
       "kind": "place",
       "prompt": "A que cidades a beleza da amada é comparada, em Cantares?",
       "answer": "A Tirza e a Jerusalém.",
-      "reference": "Ct 6:4"
+      "reference": "Ct 6:4",
+      "wrongs": [
+        "A Jericó e a Hebrom.",
+        "A Samaria e a Damasco.",
+        "A Nínive e a Babilônia."
+      ]
     },
     {
       "id": "SNG.6.curiosity.1",
@@ -208,7 +308,12 @@
       "kind": "curiosity",
       "prompt": "Quantas rainhas e concubinas o amado menciona, em Cantares?",
       "answer": "Sessenta rainhas e oitenta concubinas.",
-      "reference": "Ct 6:8"
+      "reference": "Ct 6:8",
+      "wrongs": [
+        "Cem rainhas e vinte concubinas.",
+        "Doze rainhas e trinta concubinas.",
+        "Sete rainhas e quarenta concubinas."
+      ]
     },
     {
       "id": "SNG.7.subject.1",
@@ -218,7 +323,12 @@
       "kind": "subject",
       "prompt": "Para onde a amada de Cantares convida o amado?",
       "answer": "Ao campo, para passar as noites nas aldeias.",
-      "reference": "Ct 7:11"
+      "reference": "Ct 7:11",
+      "wrongs": [
+        "Ao palácio, para passar os dias no trono.",
+        "Ao templo, para passar a festa em silêncio.",
+        "Ao porto, para passar o inverno no navio."
+      ]
     },
     {
       "id": "SNG.7.place.1",
@@ -228,7 +338,12 @@
       "kind": "place",
       "prompt": "A que tanques os olhos da amada se parecem, em Cantares?",
       "answer": "Aos viveiros de peixe que há em Hesbom.",
-      "reference": "Ct 7:4"
+      "reference": "Ct 7:4",
+      "wrongs": [
+        "Aos poços de betume que há no vale.",
+        "Aos tanques de sal que há no mar Morto.",
+        "Aos canais de irrigação que há no Egito."
+      ]
     },
     {
       "id": "SNG.7.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Que planta solta perfume junto às portas, em Cantares?",
       "answer": "As mandrágoras. Há também frutos novos e velhos.",
-      "reference": "Ct 7:13"
+      "reference": "Ct 7:13",
+      "wrongs": [
+        "As oliveiras. Há também só espinhos secos.",
+        "Os cardos. Há também palha do ano passado.",
+        "As urtigas. Há também lenha sem fruto."
+      ]
     },
     {
       "id": "SNG.8.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "Com o que o amor se iguala em força, em Cantares?",
       "answer": "Com a morte. O ciúme é duro como a sepultura.",
-      "reference": "Ct 8:6"
+      "reference": "Ct 8:6",
+      "wrongs": [
+        "Com o ouro. O ciúme é leve como a brisa.",
+        "Com o vinho. O ciúme é doce como o mel.",
+        "Com a seda. O ciúme é macio como o linho."
+      ]
     },
     {
       "id": "SNG.8.place.1",
@@ -258,7 +383,12 @@
       "kind": "place",
       "prompt": "Onde Salomão tinha uma vinha?",
       "answer": "Em Baal-Hamom.",
-      "reference": "Ct 8:11"
+      "reference": "Ct 8:11",
+      "wrongs": [
+        "Em Engedi.",
+        "Em Sarom.",
+        "Em Hesbom."
+      ]
     },
     {
       "id": "SNG.8.curiosity.1",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "Como se repartem as moedas da vinha de Salomão?",
       "answer": "Mil ficam com Salomão e duzentas com os guardas.",
-      "reference": "Ct 8:12"
+      "reference": "Ct 8:12",
+      "wrongs": [
+        "Tudo fica com os guardas e nada com Salomão.",
+        "Cem ficam com Salomão e mil com os guardas.",
+        "Metade fica com a cidade e metade com o rei."
+      ]
     },
     {
       "id": "SNG.0.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Cantares?",
       "answer": "Salomão.",
-      "reference": "Cantares"
+      "reference": "Cantares",
+      "wrongs": [
+        "Davi.",
+        "Asafe.",
+        "Ezequias."
+      ]
     },
     {
       "id": "SNG.0.curiosity.2",
@@ -288,7 +428,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Cantares?",
       "answer": "No século X antes de Cristo.",
-      "reference": "Cantares"
+      "reference": "Cantares",
+      "wrongs": [
+        "No século V antes de Cristo.",
+        "No século VIII antes de Cristo.",
+        "No século I antes de Cristo."
+      ]
     }
   ]
 }

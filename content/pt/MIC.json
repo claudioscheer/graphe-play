@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Em que Samaria vai ser transformada?",
       "answer": "Em ruína no campo e em vinhas.",
-      "reference": "Mq 1:6"
+      "reference": "Mq 1:6",
+      "wrongs": [
+        "Em capital mais forte e rica.",
+        "Em porto aberto no mar.",
+        "Em templo coberto de ouro."
+      ]
     },
     {
       "id": "MIC.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Em que reinados Miquéias falou?",
       "answer": "Jotão, Acaz e Ezequias, em Judá.",
-      "reference": "Mq 1:1"
+      "reference": "Mq 1:1",
+      "wrongs": [
+        "Davi, Salomão e Roboão, em Judá.",
+        "Josias, Jeoaquim e Zedequias, em Judá.",
+        "Jeroboão, Nadabe e Baasa, em Israel."
+      ]
     },
     {
       "id": "MIC.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Quais cidades Miquéias aponta como foco do pecado?",
       "answer": "Samaria, por Jacó, e Jerusalém, por Judá.",
-      "reference": "Mq 1:5"
+      "reference": "Mq 1:5",
+      "wrongs": [
+        "Betel, por Jacó, e Hebrom, por Judá.",
+        "Dã, por Jacó, e Berseba, por Judá.",
+        "Siquém, por Jacó, e Laquis, por Judá."
+      ]
     },
     {
       "id": "MIC.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Como Miquéias diz que vai chorar o desastre?",
       "answer": "Descalço, nu, com uivo de chacal.",
-      "reference": "Mq 1:8"
+      "reference": "Mq 1:8",
+      "wrongs": [
+        "Calado, sentado, com canto de festa.",
+        "Vestido de linho, com uma trombeta.",
+        "No templo, com uma oferta de bois."
+      ]
     },
     {
       "id": "MIC.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que os poderosos de Israel fazem com campos e casas, em Miquéias?",
       "answer": "Cobiçam e tomam a terra e a moradia alheia.",
-      "reference": "Mq 2:2"
+      "reference": "Mq 2:2",
+      "wrongs": [
+        "Compram e pagam o preço combinado.",
+        "Devolvem a terra a quem a perdeu na disputa.",
+        "Repartem a casa com o morador pobre."
+      ]
     },
     {
       "id": "MIC.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem Deus promete reunir como ovelhas, em Miquéias?",
       "answer": "Jacó inteiro, o que restou de Israel.",
-      "reference": "Mq 2:12"
+      "reference": "Mq 2:12",
+      "wrongs": [
+        "Só Judá, e deixa Israel de fora.",
+        "Só Efraim, sem o restante do povo.",
+        "As nações, no lugar de Israel."
+      ]
     },
     {
       "id": "MIC.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Com ovelhas de qual lugar o rebanho é comparado, em Miquéias?",
       "answer": "Com as de Bosra.",
-      "reference": "Mq 2:12"
+      "reference": "Mq 2:12",
+      "wrongs": [
+        "Com as de Basã.",
+        "Com as de Tecoa.",
+        "Com as de Hebrom."
+      ]
     },
     {
       "id": "MIC.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Que bebida o profeta mentiroso promete, em Miquéias?",
       "answer": "Vinho e bebida forte.",
-      "reference": "Mq 2:11"
+      "reference": "Mq 2:11",
+      "wrongs": [
+        "Água e leite fresco.",
+        "Azeite e mel puro.",
+        "Suco e vinagre."
+      ]
     },
     {
       "id": "MIC.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "No que Sião vai se tornar, segundo Miquéias?",
       "answer": "Num campo lavrado.",
-      "reference": "Mq 3:12"
+      "reference": "Mq 3:12",
+      "wrongs": [
+        "Numa cidade maior.",
+        "Num monte de ouro.",
+        "Num porto seguro."
+      ]
     },
     {
       "id": "MIC.3.place.1",
@@ -98,7 +143,12 @@
       "kind": "place",
       "prompt": "Quais cidades Miquéias diz que foram erguidas com crime?",
       "answer": "Sião e Jerusalém.",
-      "reference": "Mq 3:10"
+      "reference": "Mq 3:10",
+      "wrongs": [
+        "Samaria e Betel.",
+        "Jericó e Ai.",
+        "Tiro e Sidom."
+      ]
     },
     {
       "id": "MIC.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Quando o profeta, em Miquéias, anuncia paz?",
       "answer": "Quando ganha comida; se não, anuncia guerra.",
-      "reference": "Mq 3:5"
+      "reference": "Mq 3:5",
+      "wrongs": [
+        "Quando o rei pede; se não, fica calado.",
+        "Quando o povo jejua; se não, vai embora.",
+        "Quando há vitória; se não, anuncia chuva."
+      ]
     },
     {
       "id": "MIC.3.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Por que juízes, sacerdotes e profetas de Miquéias julgam, ensinam e adivinham?",
       "answer": "Por suborno, pagamento e dinheiro.",
-      "reference": "Mq 3:11"
+      "reference": "Mq 3:11",
+      "wrongs": [
+        "Por justiça, aliança e verdade.",
+        "Por medo, jejum e silêncio.",
+        "Por lei antiga, por voto e herança."
+      ]
     },
     {
       "id": "MIC.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Em que as nações vão transformar as armas, em Miquéias?",
       "answer": "Em enxadas e foices, e acaba o treino de guerra.",
-      "reference": "Mq 4:3"
+      "reference": "Mq 4:3",
+      "wrongs": [
+        "Em espadas e lanças, e começa o treino.",
+        "Em escudos e arcos, e o treino de guerra dobra.",
+        "Em ouro e em prata, e a paz do povo se desfaz."
+      ]
     },
     {
       "id": "MIC.4.place.1",
@@ -138,7 +203,12 @@
       "kind": "place",
       "prompt": "De onde virão a lei e a palavra para as nações, em Miquéias?",
       "answer": "A lei de Sião e a palavra de Jerusalém.",
-      "reference": "Mq 4:2"
+      "reference": "Mq 4:2",
+      "wrongs": [
+        "A lei de Samaria e a palavra de Betel.",
+        "A lei do Egito e a palavra de Mênfis.",
+        "A lei da Assíria e a palavra de Nínive."
+      ]
     },
     {
       "id": "MIC.4.curiosity.1",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "Debaixo de quais plantas o povo descansa sem medo, em Miquéias?",
       "answer": "Da videira e da figueira de cada um.",
-      "reference": "Mq 4:4"
+      "reference": "Mq 4:4",
+      "wrongs": [
+        "Do cedro e do carvalho do rei.",
+        "Da oliveira e da romã do templo.",
+        "Do lírio alto e do junco do rio."
+      ]
     },
     {
       "id": "MIC.4.curiosity.2",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Para onde a filha de Sião vai antes de ser liberta?",
       "answer": "Para a Babilônia.",
-      "reference": "Mq 4:10"
+      "reference": "Mq 4:10",
+      "wrongs": [
+        "Para o Egito.",
+        "Para Damasco.",
+        "Para Nínive."
+      ]
     },
     {
       "id": "MIC.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "De qual cidade pequena sai o governante de Israel?",
       "answer": "De Belém Efrata.",
-      "reference": "Mq 5:2"
+      "reference": "Mq 5:2",
+      "wrongs": [
+        "De Jerusalém.",
+        "De Nazaré.",
+        "De Hebrom."
+      ]
     },
     {
       "id": "MIC.5.name.1",
@@ -178,7 +263,12 @@
       "kind": "name",
       "prompt": "A terra de quem cai junto com a Assíria?",
       "answer": "A terra de Ninrode.",
-      "reference": "Mq 5:6"
+      "reference": "Mq 5:6",
+      "wrongs": [
+        "A terra de Cuxe.",
+        "A terra de Edom.",
+        "A terra de Canaã."
+      ]
     },
     {
       "id": "MIC.5.place.1",
@@ -188,7 +278,12 @@
       "kind": "place",
       "prompt": "Quem invade a terra quando se anuncia paz, em Miquéias?",
       "answer": "A Assíria.",
-      "reference": "Mq 5:5"
+      "reference": "Mq 5:5",
+      "wrongs": [
+        "O Egito.",
+        "Edom.",
+        "Moabe."
+      ]
     },
     {
       "id": "MIC.5.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Quantos líderes se levantam contra a Assíria?",
       "answer": "Sete pastores e oito príncipes.",
-      "reference": "Mq 5:5"
+      "reference": "Mq 5:5",
+      "wrongs": [
+        "Três pastores e quatro príncipes.",
+        "Doze pastores e doze príncipes.",
+        "Dois pastores e um príncipe."
+      ]
     },
     {
       "id": "MIC.6.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "O que Deus pede do ser humano em Miquéias?",
       "answer": "Justiça, amor à bondade e um andar humilde.",
-      "reference": "Mq 6:8"
+      "reference": "Mq 6:8",
+      "wrongs": [
+        "Milhares de carneiros e rios de azeite.",
+        "Ouro, incenso e um jejum contínuo.",
+        "O filho oferecido e ofertas sem fim."
+      ]
     },
     {
       "id": "MIC.6.name.1",
@@ -218,7 +323,12 @@
       "kind": "name",
       "prompt": "Quem Miquéias diz que foi na frente de Israel ao sair do Egito?",
       "answer": "Moisés, Arão e Miriã.",
-      "reference": "Mq 6:4"
+      "reference": "Mq 6:4",
+      "wrongs": [
+        "Josué, Calebe e Fineias.",
+        "Abraão, Isaque e Jacó.",
+        "Davi, Natã e Gad."
+      ]
     },
     {
       "id": "MIC.6.place.1",
@@ -228,7 +338,12 @@
       "kind": "place",
       "prompt": "De Sitim, o caminho lembrado segue até onde?",
       "answer": "Até Gilgal.",
-      "reference": "Mq 6:5"
+      "reference": "Mq 6:5",
+      "wrongs": [
+        "Até Jericó.",
+        "Até Betel.",
+        "Até Siquém."
+      ]
     },
     {
       "id": "MIC.6.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Que ofertas enormes Miquéias põe em dúvida?",
       "answer": "Milhares de carneiros e dez mil rios de azeite.",
-      "reference": "Mq 6:7"
+      "reference": "Mq 6:7",
+      "wrongs": [
+        "Um só cordeiro pequeno e um jarro de vinho.",
+        "Duas pombas pequenas e um pouco de farinha.",
+        "Um pouco de pão ázimo e água sobre o altar."
+      ]
     },
     {
       "id": "MIC.7.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "Como o Deus de Miquéias trata a maldade?",
       "answer": "Perdoa, e não segura a ira para sempre.",
-      "reference": "Mq 7:18"
+      "reference": "Mq 7:18",
+      "wrongs": [
+        "Cobra, e guarda a ira para sempre.",
+        "Esquece o mal feito, e desfaz a aliança.",
+        "Esconde, e deixa a culpa no povo."
+      ]
     },
     {
       "id": "MIC.7.name.1",
@@ -258,7 +383,12 @@
       "kind": "name",
       "prompt": "A quem Deus guarda fidelidade e bondade, em Miquéias?",
       "answer": "Fidelidade a Jacó e bondade a Abraão.",
-      "reference": "Mq 7:20"
+      "reference": "Mq 7:20",
+      "wrongs": [
+        "Fidelidade a Esaú e bondade a Ló.",
+        "Fidelidade a Davi e bondade a Moisés.",
+        "Fidelidade a José e bondade a Arão."
+      ]
     },
     {
       "id": "MIC.7.place.1",
@@ -268,7 +398,12 @@
       "kind": "place",
       "prompt": "Em quais pastos o rebanho de Deus volta a comer, em Miquéias?",
       "answer": "Em Basã e em Gileade.",
-      "reference": "Mq 7:14"
+      "reference": "Mq 7:14",
+      "wrongs": [
+        "Em Bosra e em Seir.",
+        "Em Sitim e em Gilgal.",
+        "Em Carmelo e em Sarom."
+      ]
     },
     {
       "id": "MIC.7.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "Onde Deus joga os pecados do povo, em Miquéias?",
       "answer": "No fundo do mar.",
-      "reference": "Mq 7:19"
+      "reference": "Mq 7:19",
+      "wrongs": [
+        "No topo do monte.",
+        "No fogo do altar.",
+        "No deserto seco."
+      ]
     },
     {
       "id": "MIC.0.curiosity.1",
@@ -288,7 +428,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Miquéias?",
       "answer": "Miquéias.",
-      "reference": "Miquéias"
+      "reference": "Miquéias",
+      "wrongs": [
+        "Sofonias.",
+        "Zacarias.",
+        "Obadias."
+      ]
     },
     {
       "id": "MIC.0.curiosity.2",
@@ -298,7 +443,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Miquéias?",
       "answer": "No século VIII antes de Cristo.",
-      "reference": "Miquéias"
+      "reference": "Miquéias",
+      "wrongs": [
+        "No século VI antes de Cristo.",
+        "No século IV antes de Cristo.",
+        "No século I depois de Cristo."
+      ]
     }
   ]
 }

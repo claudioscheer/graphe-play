@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que o anjo Gabriel anunciou a Maria em Nazaré?",
       "answer": "Que ela teria um filho e o chamaria de Jesus.",
-      "reference": "Lc 1:31"
+      "reference": "Lc 1:31",
+      "wrongs": [
+        "Que ela ficaria viúva ainda jovem.",
+        "Que o filho dela reinaria em Roma.",
+        "Que Isabel é quem daria à luz Jesus."
+      ]
     },
     {
       "id": "LUK.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Que nome o anjo deu ao filho de Zacarias e Isabel?",
       "answer": "João.",
-      "reference": "Lc 1:13"
+      "reference": "Lc 1:13",
+      "wrongs": [
+        "Jesus.",
+        "Elias.",
+        "Zacarias."
+      ]
     },
     {
       "id": "LUK.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "A que cidade da Galileia o anjo Gabriel foi enviado?",
       "answer": "A Nazaré.",
-      "reference": "Lc 1:26"
+      "reference": "Lc 1:26",
+      "wrongs": [
+        "A Belém.",
+        "A Cafarnaum.",
+        "A Jerusalém."
+      ]
     },
     {
       "id": "LUK.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Como Zacarias indicou o nome do menino?",
       "answer": "Escreveu numa tábua que o nome era João.",
-      "reference": "Lc 1:63"
+      "reference": "Lc 1:63",
+      "wrongs": [
+        "Falou em voz alta que o nome era Elias.",
+        "Fez um sinal pedindo o nome do pai.",
+        "Escreveu numa tábua que o nome era Jesus."
+      ]
     },
     {
       "id": "LUK.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Onde Maria deitou Jesus ao nascer em Belém?",
       "answer": "Numa manjedoura, porque a hospedaria estava lotada.",
-      "reference": "Lc 2:7"
+      "reference": "Lc 2:7",
+      "wrongs": [
+        "Num berço do palácio de Herodes.",
+        "Num quarto da hospedaria, já pago.",
+        "No templo, sobre o altar."
+      ]
     },
     {
       "id": "LUK.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem esperava em Jerusalém a consolação de Israel?",
       "answer": "Simeão, homem justo e devoto.",
-      "reference": "Lc 2:25"
+      "reference": "Lc 2:25",
+      "wrongs": [
+        "José, carpinteiro de Nazaré.",
+        "Zacarias, sacerdote idoso.",
+        "Ana, da tribo de Aser."
+      ]
     },
     {
       "id": "LUK.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Para que cidade José subiu com Maria, saindo de Nazaré?",
       "answer": "Para Belém, a cidade de Davi.",
-      "reference": "Lc 2:4"
+      "reference": "Lc 2:4",
+      "wrongs": [
+        "Para Nazaré, a cidade de Maria.",
+        "Para Jerusalém, a cidade do templo.",
+        "Para Hebrom, a cidade dos sacerdotes."
+      ]
     },
     {
       "id": "LUK.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Com quantos anos Jesus subiu à Páscoa em Jerusalém?",
       "answer": "Com doze anos.",
-      "reference": "Lc 2:42"
+      "reference": "Lc 2:42",
+      "wrongs": [
+        "Com sete anos.",
+        "Com trinta anos.",
+        "Com três anos."
+      ]
     },
     {
       "id": "LUK.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que desceu sobre Jesus quando ele foi batizado?",
       "answer": "O Espírito Santo, em forma de pomba.",
-      "reference": "Lc 3:22"
+      "reference": "Lc 3:22",
+      "wrongs": [
+        "Uma nuvem, cobrindo o rio.",
+        "Fogo, em línguas sobre ele.",
+        "Um anjo, descendo em silêncio."
+      ]
     },
     {
       "id": "LUK.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "A quem a palavra de Deus veio no deserto, em Lucas?",
       "answer": "A João, filho de Zacarias.",
-      "reference": "Lc 3:2"
+      "reference": "Lc 3:2",
+      "wrongs": [
+        "A Zacarias, já idoso.",
+        "A Simeão, no templo.",
+        "A José, em Nazaré."
+      ]
     },
     {
       "id": "LUK.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Onde João pregava o batismo de arrependimento?",
       "answer": "Na região ao redor do Jordão.",
-      "reference": "Lc 3:3"
+      "reference": "Lc 3:3",
+      "wrongs": [
+        "No mar da Galileia.",
+        "No deserto da Síria.",
+        "No tanque de Siloé."
+      ]
     },
     {
       "id": "LUK.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Com que idade Jesus começou o seu trabalho?",
       "answer": "Com cerca de trinta anos.",
-      "reference": "Lc 3:23"
+      "reference": "Lc 3:23",
+      "wrongs": [
+        "Com cerca de vinte anos.",
+        "Com cerca de quarenta anos.",
+        "Com doze anos."
+      ]
     },
     {
       "id": "LUK.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Quem tentou Jesus no deserto?",
       "answer": "O diabo, ao longo de quarenta dias.",
-      "reference": "Lc 4:2"
+      "reference": "Lc 4:2",
+      "wrongs": [
+        "Os fariseus, durante uma semana.",
+        "Pedro, logo depois do batismo.",
+        "Um anjo, por três dias."
+      ]
     },
     {
       "id": "LUK.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Quem Jesus mandou ficar para trás, no alto monte?",
       "answer": "Satanás.",
-      "reference": "Lc 4:8"
+      "reference": "Lc 4:8",
+      "wrongs": [
+        "Pedro.",
+        "Moisés.",
+        "Um anjo."
+      ]
     },
     {
       "id": "LUK.4.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "Em que cidade Jesus leu o livro de Isaías na sinagoga?",
       "answer": "Em Nazaré, onde tinha sido criado.",
-      "reference": "Lc 4:16"
+      "reference": "Lc 4:16",
+      "wrongs": [
+        "Em Cafarnaum, já adulto.",
+        "Em Jerusalém, na festa.",
+        "Em Belém, cidade de Davi."
+      ]
     },
     {
       "id": "LUK.4.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "O que a multidão de Nazaré tentou fazer com Jesus?",
       "answer": "Jogá-lo monte abaixo, para fora da cidade.",
-      "reference": "Lc 4:29"
+      "reference": "Lc 4:29",
+      "wrongs": [
+        "Coroá-lo rei na praça.",
+        "Levá-lo preso ao sinédrio.",
+        "Expulsá-lo só com um discurso."
+      ]
     },
     {
       "id": "LUK.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "O que Jesus disse que Simão passaria a pescar?",
       "answer": "Pessoas, dali em diante.",
-      "reference": "Lc 5:10"
+      "reference": "Lc 5:10",
+      "wrongs": [
+        "Moedas, dali em diante.",
+        "Redes maiores, dali em diante.",
+        "Só peixes, e em maior número."
+      ]
     },
     {
       "id": "LUK.5.name.1",
@@ -178,7 +263,12 @@
       "kind": "name",
       "prompt": "Quem Jesus chamou na banca de impostos?",
       "answer": "Levi.",
-      "reference": "Lc 5:27"
+      "reference": "Lc 5:27",
+      "wrongs": [
+        "Zaqueu.",
+        "Bartolomeu.",
+        "Simão."
+      ]
     },
     {
       "id": "LUK.5.place.1",
@@ -188,7 +278,12 @@
       "kind": "place",
       "prompt": "Junto a que lago a multidão apertava Jesus?",
       "answer": "O lago de Genesaré.",
-      "reference": "Lc 5:1"
+      "reference": "Lc 5:1",
+      "wrongs": [
+        "O mar Morto.",
+        "O rio Jordão.",
+        "O tanque de Betesda."
+      ]
     },
     {
       "id": "LUK.5.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Como o paralítico chegou diante de Jesus?",
       "answer": "Desceram ele pelo telhado, no meio da casa.",
-      "reference": "Lc 5:19"
+      "reference": "Lc 5:19",
+      "wrongs": [
+        "Entrou pela porta dos fundos.",
+        "Esperou Jesus sair à rua.",
+        "Foi carregado até a sinagoga."
+      ]
     },
     {
       "id": "LUK.6.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "Quantos discípulos Jesus escolheu como apóstolos?",
       "answer": "Doze.",
-      "reference": "Lc 6:13"
+      "reference": "Lc 6:13",
+      "wrongs": [
+        "Sete.",
+        "Setenta.",
+        "Três."
+      ]
     },
     {
       "id": "LUK.6.name.1",
@@ -218,7 +323,12 @@
       "kind": "name",
       "prompt": "Qual dos doze entregou Jesus?",
       "answer": "Judas Iscariotes.",
-      "reference": "Lc 6:16"
+      "reference": "Lc 6:16",
+      "wrongs": [
+        "Simão, o zelote.",
+        "Tomé.",
+        "Judas, filho de Tiago."
+      ]
     },
     {
       "id": "LUK.6.place.1",
@@ -228,7 +338,12 @@
       "kind": "place",
       "prompt": "Onde Jesus passou a noite antes de escolher os doze?",
       "answer": "No monte, em oração.",
-      "reference": "Lc 6:12"
+      "reference": "Lc 6:12",
+      "wrongs": [
+        "No barco, em alto-mar.",
+        "No templo, diante do altar.",
+        "No deserto, sem comida."
+      ]
     },
     {
       "id": "LUK.6.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu com a mão mirrada, no sábado, em Lucas?",
       "answer": "Ficou boa como a outra.",
-      "reference": "Lc 6:10"
+      "reference": "Lc 6:10",
+      "wrongs": [
+        "Continuou mirrada.",
+        "Inchou e doeu mais.",
+        "Secou por completo."
+      ]
     },
     {
       "id": "LUK.7.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "O que Jesus fez pelo filho da viúva, em Naim?",
       "answer": "Levantou o morto e o entregou de volta à mãe.",
-      "reference": "Lc 7:15"
+      "reference": "Lc 7:15",
+      "wrongs": [
+        "Consolou a mãe, e o filho ficou morto.",
+        "Ungiu o corpo e o mandou sepultar.",
+        "O jovem sentou, mas não voltou à mãe."
+      ]
     },
     {
       "id": "LUK.7.name.1",
@@ -258,7 +383,12 @@
       "kind": "name",
       "prompt": "Como Jesus chamou o fariseu que o tinha convidado?",
       "answer": "De Simão.",
-      "reference": "Lc 7:40"
+      "reference": "Lc 7:40",
+      "wrongs": [
+        "De Nicodemos.",
+        "De Levi.",
+        "De Zaqueu."
+      ]
     },
     {
       "id": "LUK.7.place.1",
@@ -268,7 +398,12 @@
       "kind": "place",
       "prompt": "Em que cidade Jesus entrou antes de curar o servo do centurião?",
       "answer": "Em Cafarnaum.",
-      "reference": "Lc 7:1"
+      "reference": "Lc 7:1",
+      "wrongs": [
+        "Em Naim.",
+        "Em Nazaré.",
+        "Em Jericó."
+      ]
     },
     {
       "id": "LUK.7.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "Quanto deviam os dois homens da história de Jesus?",
       "answer": "Um devia quinhentas moedas, e o outro cinquenta.",
-      "reference": "Lc 7:41"
+      "reference": "Lc 7:41",
+      "wrongs": [
+        "Um devia dez moedas, e o outro uma.",
+        "Os dois deviam a mesma quantia.",
+        "Um devia mil moedas, e o outro nada."
+      ]
     },
     {
       "id": "LUK.8.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "O que Jesus fez quando a tempestade encheu o barco?",
       "answer": "Fez o vento e a água pararem, e o lago acalmou.",
-      "reference": "Lc 8:24"
+      "reference": "Lc 8:24",
+      "wrongs": [
+        "Pediu que remassem até a margem.",
+        "A água subiu, e o barco virou.",
+        "Esperou a tempestade passar sozinha."
+      ]
     },
     {
       "id": "LUK.8.name.1",
@@ -298,7 +443,12 @@
       "kind": "name",
       "prompt": "Quem era o chefe da sinagoga com a filha doente, em Lucas?",
       "answer": "Jairo.",
-      "reference": "Lc 8:41"
+      "reference": "Lc 8:41",
+      "wrongs": [
+        "Zaqueu.",
+        "Nicodemos.",
+        "Simão."
+      ]
     },
     {
       "id": "LUK.8.place.1",
@@ -308,7 +458,12 @@
       "kind": "place",
       "prompt": "Em que terra estava o homem que vivia entre os sepulcros, em Lucas?",
       "answer": "Na terra dos gadarenos.",
-      "reference": "Lc 8:26"
+      "reference": "Lc 8:26",
+      "wrongs": [
+        "Na terra dos samaritanos.",
+        "Nas colinas de Jericó.",
+        "Nas praias de Tiro."
+      ]
     },
     {
       "id": "LUK.8.curiosity.1",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "Que nome o homem deu, por causa dos demônios, em Lucas?",
       "answer": "Legião.",
-      "reference": "Lc 8:30"
+      "reference": "Lc 8:30",
+      "wrongs": [
+        "Belzebu.",
+        "Satanás.",
+        "Mudo."
+      ]
     },
     {
       "id": "LUK.9.subject.1",
@@ -328,7 +488,12 @@
       "kind": "subject",
       "prompt": "Com o que Jesus alimentou a multidão perto de Betsaida?",
       "answer": "Com cinco pães e dois peixes.",
-      "reference": "Lc 9:16"
+      "reference": "Lc 9:16",
+      "wrongs": [
+        "Com sete pães e alguns peixes.",
+        "Com doze cestos já cheios.",
+        "Com maná recolhido de manhã."
+      ]
     },
     {
       "id": "LUK.9.name.1",
@@ -338,7 +503,12 @@
       "kind": "name",
       "prompt": "Quem disse que Jesus é o Cristo de Deus?",
       "answer": "Pedro.",
-      "reference": "Lc 9:20"
+      "reference": "Lc 9:20",
+      "wrongs": [
+        "João.",
+        "Tiago.",
+        "André."
+      ]
     },
     {
       "id": "LUK.9.place.1",
@@ -348,7 +518,12 @@
       "kind": "place",
       "prompt": "Aonde Jesus subiu com três discípulos para orar?",
       "answer": "A um monte.",
-      "reference": "Lc 9:28"
+      "reference": "Lc 9:28",
+      "wrongs": [
+        "A um barco.",
+        "Ao templo.",
+        "Ao deserto."
+      ]
     },
     {
       "id": "LUK.9.curiosity.1",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "Quem apareceu conversando com Jesus no monte?",
       "answer": "Moisés e Elias.",
-      "reference": "Lc 9:30"
+      "reference": "Lc 9:30",
+      "wrongs": [
+        "Abraão e Davi.",
+        "Isaías e Jeremias.",
+        "Enoque e Daniel."
+      ]
     },
     {
       "id": "LUK.10.subject.1",
@@ -368,7 +548,12 @@
       "kind": "subject",
       "prompt": "Quantos discípulos Jesus enviou de dois em dois?",
       "answer": "Setenta.",
-      "reference": "Lc 10:1"
+      "reference": "Lc 10:1",
+      "wrongs": [
+        "Doze.",
+        "Quarenta.",
+        "Cento e vinte."
+      ]
     },
     {
       "id": "LUK.10.name.1",
@@ -378,7 +563,12 @@
       "kind": "name",
       "prompt": "Quem recebeu Jesus em casa, numa aldeia?",
       "answer": "Marta.",
-      "reference": "Lc 10:38"
+      "reference": "Lc 10:38",
+      "wrongs": [
+        "Maria.",
+        "Susana.",
+        "Joana."
+      ]
     },
     {
       "id": "LUK.10.place.1",
@@ -388,7 +578,12 @@
       "kind": "place",
       "prompt": "De onde o homem da história descia quando foi assaltado, em Lucas?",
       "answer": "De Jerusalém para Jericó.",
-      "reference": "Lc 10:30"
+      "reference": "Lc 10:30",
+      "wrongs": [
+        "De Jericó para Jerusalém.",
+        "De Nazaré para Cafarnaum.",
+        "De Belém para o Egito."
+      ]
     },
     {
       "id": "LUK.10.curiosity.1",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "Quanto o samaritano deixou com o dono da hospedaria, em Lucas?",
       "answer": "Dois dinheiros.",
-      "reference": "Lc 10:35"
+      "reference": "Lc 10:35",
+      "wrongs": [
+        "Cinco dinheiros.",
+        "Um talento.",
+        "Dez moedas de prata."
+      ]
     },
     {
       "id": "LUK.11.subject.1",
@@ -408,7 +608,12 @@
       "kind": "subject",
       "prompt": "O que um discípulo pediu que Jesus ensinasse?",
       "answer": "A orar, como João ensinava os dele.",
-      "reference": "Lc 11:1"
+      "reference": "Lc 11:1",
+      "wrongs": [
+        "A jejuar duas vezes por semana.",
+        "A ler a Lei em voz alta.",
+        "A oferecer um cordeiro no templo."
+      ]
     },
     {
       "id": "LUK.11.name.1",
@@ -418,7 +623,12 @@
       "kind": "name",
       "prompt": "Que profeta Jesus citou como sinal àquela geração?",
       "answer": "Jonas.",
-      "reference": "Lc 11:29"
+      "reference": "Lc 11:29",
+      "wrongs": [
+        "Elias.",
+        "Isaías.",
+        "Daniel."
+      ]
     },
     {
       "id": "LUK.11.place.1",
@@ -428,7 +638,12 @@
       "kind": "place",
       "prompt": "Que cidade se arrependeu com a pregação de Jonas?",
       "answer": "Nínive.",
-      "reference": "Lc 11:32"
+      "reference": "Lc 11:32",
+      "wrongs": [
+        "Babilônia.",
+        "Tiro.",
+        "Sodoma."
+      ]
     },
     {
       "id": "LUK.11.curiosity.1",
@@ -438,7 +653,12 @@
       "kind": "curiosity",
       "prompt": "Quantos pães o homem pediu ao amigo de madrugada, em Lucas?",
       "answer": "Três.",
-      "reference": "Lc 11:5"
+      "reference": "Lc 11:5",
+      "wrongs": [
+        "Cinco.",
+        "Sete.",
+        "Um."
+      ]
     },
     {
       "id": "LUK.12.subject.1",
@@ -448,7 +668,12 @@
       "kind": "subject",
       "prompt": "O que Deus disse ao rico dos celeiros novos, em Lucas?",
       "answer": "Que naquela noite a vida dele seria pedida.",
-      "reference": "Lc 12:20"
+      "reference": "Lc 12:20",
+      "wrongs": [
+        "Que os celeiros novos durariam cem anos.",
+        "Que ele devia construir mais um.",
+        "Que a colheita seria dobrada de manhã."
+      ]
     },
     {
       "id": "LUK.12.name.1",
@@ -458,7 +683,12 @@
       "kind": "name",
       "prompt": "Quem perguntou se a parábola era só para eles, em Lucas?",
       "answer": "Pedro.",
-      "reference": "Lc 12:41"
+      "reference": "Lc 12:41",
+      "wrongs": [
+        "João.",
+        "Tiago.",
+        "André."
+      ]
     },
     {
       "id": "LUK.12.curiosity.1",
@@ -468,7 +698,12 @@
       "kind": "curiosity",
       "prompt": "Por quanto Jesus disse que se vendiam cinco passarinhos?",
       "answer": "Por duas moedinhas.",
-      "reference": "Lc 12:6"
+      "reference": "Lc 12:6",
+      "wrongs": [
+        "Por um denário.",
+        "Por cinco moedas de prata.",
+        "Por uma moeda de ouro."
+      ]
     },
     {
       "id": "LUK.13.subject.1",
@@ -478,7 +713,12 @@
       "kind": "subject",
       "prompt": "O que houve quando Jesus pôs as mãos na mulher curvada?",
       "answer": "Ela se endireitou na hora e louvou a Deus.",
-      "reference": "Lc 13:13"
+      "reference": "Lc 13:13",
+      "wrongs": [
+        "Ela continuou curvada e saiu em silêncio.",
+        "Ela caiu e não conseguiu levantar.",
+        "A dor passou, mas as costas não mudaram."
+      ]
     },
     {
       "id": "LUK.13.name.1",
@@ -488,7 +728,12 @@
       "kind": "name",
       "prompt": "Quem os fariseus disseram que queria matar Jesus?",
       "answer": "Herodes.",
-      "reference": "Lc 13:31"
+      "reference": "Lc 13:31",
+      "wrongs": [
+        "Pilatos.",
+        "Caifás.",
+        "Barrabás."
+      ]
     },
     {
       "id": "LUK.13.place.1",
@@ -498,7 +743,12 @@
       "kind": "place",
       "prompt": "Onde caiu a torre que matou dezoito pessoas, em Lucas?",
       "answer": "Em Siloé.",
-      "reference": "Lc 13:4"
+      "reference": "Lc 13:4",
+      "wrongs": [
+        "Em Betesda.",
+        "Em Jericó.",
+        "No monte das Oliveiras."
+      ]
     },
     {
       "id": "LUK.13.curiosity.1",
@@ -508,7 +758,12 @@
       "kind": "curiosity",
       "prompt": "Havia quanto tempo a mulher andava encurvada, em Lucas?",
       "answer": "Havia dezoito anos.",
-      "reference": "Lc 13:11"
+      "reference": "Lc 13:11",
+      "wrongs": [
+        "Havia sete anos.",
+        "Havia doze anos.",
+        "Havia três anos."
+      ]
     },
     {
       "id": "LUK.14.subject.1",
@@ -518,7 +773,12 @@
       "kind": "subject",
       "prompt": "O que Jesus fez com o homem de corpo inchado?",
       "answer": "Curou-o e o mandou embora.",
-      "reference": "Lc 14:4"
+      "reference": "Lc 14:4",
+      "wrongs": [
+        "Mandou que ele voltasse no dia seguinte.",
+        "O inchaço aumentou, e ele ficou.",
+        "Só lhe deu um conselho e água."
+      ]
     },
     {
       "id": "LUK.14.curiosity.1",
@@ -528,7 +788,12 @@
       "kind": "curiosity",
       "prompt": "Quem o dono do jantar mandou chamar depois das desculpas, em Lucas?",
       "answer": "Pobres, aleijados, mancos e cegos.",
-      "reference": "Lc 14:21"
+      "reference": "Lc 14:21",
+      "wrongs": [
+        "Os amigos ricos e os parentes próximos.",
+        "Os convidados que tinham recusado antes.",
+        "Só os servos da própria casa."
+      ]
     },
     {
       "id": "LUK.14.curiosity.2",
@@ -538,7 +803,12 @@
       "kind": "curiosity",
       "prompt": "Que desculpa deu quem tinha comprado bois, em Lucas?",
       "answer": "Ia experimentar cinco pares de bois.",
-      "reference": "Lc 14:19"
+      "reference": "Lc 14:19",
+      "wrongs": [
+        "Ia experimentar dez pares de bois.",
+        "Ia vender um par de bois.",
+        "Precisava casar naquela tarde."
+      ]
     },
     {
       "id": "LUK.15.subject.1",
@@ -548,7 +818,12 @@
       "kind": "subject",
       "prompt": "Como o pai recebeu o filho que voltou para casa, em Lucas?",
       "answer": "Correu ao encontro, abraçou o filho e o beijou.",
-      "reference": "Lc 15:20"
+      "reference": "Lc 15:20",
+      "wrongs": [
+        "Esperou sentado e mandou um servo.",
+        "Recusou a entrada e fechou a porta.",
+        "Cobrou a herança antes de abraçar."
+      ]
     },
     {
       "id": "LUK.15.curiosity.1",
@@ -558,7 +833,12 @@
       "kind": "curiosity",
       "prompt": "Que animal mandaram matar na festa do filho, em Lucas?",
       "answer": "O bezerro que estava engordado.",
-      "reference": "Lc 15:23"
+      "reference": "Lc 15:23",
+      "wrongs": [
+        "O cabrito que era do filho mais velho.",
+        "Uma ovelha tirada do rebanho.",
+        "O boi que puxava o arado."
+      ]
     },
     {
       "id": "LUK.15.curiosity.2",
@@ -568,7 +848,12 @@
       "kind": "curiosity",
       "prompt": "Quantas ovelhas o pastor deixou para buscar a perdida, em Lucas?",
       "answer": "Noventa e nove.",
-      "reference": "Lc 15:4"
+      "reference": "Lc 15:4",
+      "wrongs": [
+        "Cem.",
+        "Doze.",
+        "Cinquenta."
+      ]
     },
     {
       "id": "LUK.16.subject.1",
@@ -578,7 +863,12 @@
       "kind": "subject",
       "prompt": "Para onde os anjos levaram o mendigo Lázaro?",
       "answer": "Para o colo de Abraão.",
-      "reference": "Lc 16:22"
+      "reference": "Lc 16:22",
+      "wrongs": [
+        "Para o palácio do rico.",
+        "Para o sepulcro da família.",
+        "Para o templo, entre os sacerdotes."
+      ]
     },
     {
       "id": "LUK.16.name.1",
@@ -588,7 +878,12 @@
       "kind": "name",
       "prompt": "Como se chamava o mendigo coberto de feridas, em Lucas?",
       "answer": "Lázaro.",
-      "reference": "Lc 16:20"
+      "reference": "Lc 16:20",
+      "wrongs": [
+        "Cleofas.",
+        "Bartimeu.",
+        "Zaqueu."
+      ]
     },
     {
       "id": "LUK.16.curiosity.1",
@@ -598,7 +893,12 @@
       "kind": "curiosity",
       "prompt": "Quantos irmãos o rico disse que ainda tinha, em Lucas?",
       "answer": "Cinco.",
-      "reference": "Lc 16:28"
+      "reference": "Lc 16:28",
+      "wrongs": [
+        "Dois.",
+        "Sete.",
+        "Dez."
+      ]
     },
     {
       "id": "LUK.16.curiosity.2",
@@ -608,7 +908,12 @@
       "kind": "curiosity",
       "prompt": "Para quanto caiu a dívida de cem medidas de azeite, em Lucas?",
       "answer": "Para cinquenta.",
-      "reference": "Lc 16:6"
+      "reference": "Lc 16:6",
+      "wrongs": [
+        "Para oitenta.",
+        "Para vinte.",
+        "Para dez."
+      ]
     },
     {
       "id": "LUK.17.subject.1",
@@ -618,7 +923,12 @@
       "kind": "subject",
       "prompt": "Quem voltou para dar glória a Deus, entre os leprosos, em Lucas?",
       "answer": "Só um estrangeiro.",
-      "reference": "Lc 17:18"
+      "reference": "Lc 17:18",
+      "wrongs": [
+        "Os dez, todos juntos.",
+        "Nenhum deles.",
+        "Só o sacerdote que os tinha visto."
+      ]
     },
     {
       "id": "LUK.17.name.1",
@@ -628,7 +938,12 @@
       "kind": "name",
       "prompt": "Aos dias de quem Jesus comparou primeiro a vinda do Filho do homem?",
       "answer": "Aos dias de Noé.",
-      "reference": "Lc 17:26"
+      "reference": "Lc 17:26",
+      "wrongs": [
+        "Aos dias de Moisés.",
+        "Aos dias de Davi.",
+        "Aos dias de Elias."
+      ]
     },
     {
       "id": "LUK.17.place.1",
@@ -638,7 +953,12 @@
       "kind": "place",
       "prompt": "Por onde Jesus passava, a caminho de Jerusalém?",
       "answer": "Ele cruzou a Samaria e a Galileia.",
-      "reference": "Lc 17:11"
+      "reference": "Lc 17:11",
+      "wrongs": [
+        "Ele cruzou a Judeia e a Pereia.",
+        "Ele ficou só na margem do Jordão.",
+        "Ele subiu direto pelo monte das Oliveiras."
+      ]
     },
     {
       "id": "LUK.17.curiosity.1",
@@ -648,7 +968,12 @@
       "kind": "curiosity",
       "prompt": "De quem Jesus mandou que se lembrassem?",
       "answer": "Da mulher de Ló.",
-      "reference": "Lc 17:32"
+      "reference": "Lc 17:32",
+      "wrongs": [
+        "De Noé.",
+        "De Abraão.",
+        "De Raabe."
+      ]
     },
     {
       "id": "LUK.18.subject.1",
@@ -658,7 +983,12 @@
       "kind": "subject",
       "prompt": "O que ainda faltava ao rico que guardava os mandamentos, em Lucas?",
       "answer": "Vender tudo, dar aos pobres e seguir Jesus.",
-      "reference": "Lc 18:22"
+      "reference": "Lc 18:22",
+      "wrongs": [
+        "Jejuar duas vezes e dar o dízimo.",
+        "Subir ao templo três vezes por ano.",
+        "Aprender a Lei com os escribas."
+      ]
     },
     {
       "id": "LUK.18.name.1",
@@ -668,7 +998,12 @@
       "kind": "name",
       "prompt": "Quem lembrou que tinham deixado tudo para seguir Jesus?",
       "answer": "Pedro.",
-      "reference": "Lc 18:28"
+      "reference": "Lc 18:28",
+      "wrongs": [
+        "João.",
+        "Tiago.",
+        "Mateus."
+      ]
     },
     {
       "id": "LUK.18.place.1",
@@ -678,7 +1013,12 @@
       "kind": "place",
       "prompt": "Onde mendigava o cego que clamou Filho de Davi?",
       "answer": "Perto de Jericó, à beira do caminho.",
-      "reference": "Lc 18:35"
+      "reference": "Lc 18:35",
+      "wrongs": [
+        "Dentro de Jericó, na praça.",
+        "Na porta do templo, entre os pedintes.",
+        "À beira do Jordão, longe da cidade."
+      ]
     },
     {
       "id": "LUK.18.curiosity.1",
@@ -688,7 +1028,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus disse ser mais fácil do que um rico no Reino?",
       "answer": "Um camelo passar no olho da agulha.",
-      "reference": "Lc 18:25"
+      "reference": "Lc 18:25",
+      "wrongs": [
+        "Um cavalo passar pela porta da cidade.",
+        "Um fio passar no fundo da agulha.",
+        "Uma ovelha entrar no curral à noite."
+      ]
     },
     {
       "id": "LUK.19.subject.1",
@@ -698,7 +1043,12 @@
       "kind": "subject",
       "prompt": "Na casa de quem Jesus disse que ficaria, em Jericó?",
       "answer": "Na casa de Zaqueu.",
-      "reference": "Lc 19:5"
+      "reference": "Lc 19:5",
+      "wrongs": [
+        "Na casa do chefe da sinagoga.",
+        "Na hospedaria da estrada.",
+        "Na casa de um fariseu."
+      ]
     },
     {
       "id": "LUK.19.name.1",
@@ -708,7 +1058,12 @@
       "kind": "name",
       "prompt": "Quem era Zaqueu?",
       "answer": "O chefe dos cobradores de impostos, e era rico.",
-      "reference": "Lc 19:2"
+      "reference": "Lc 19:2",
+      "wrongs": [
+        "Um pescador pobre de Jericó.",
+        "O centurião daquela cidade.",
+        "Um sacerdote de folga."
+      ]
     },
     {
       "id": "LUK.19.place.1",
@@ -718,7 +1073,12 @@
       "kind": "place",
       "prompt": "Perto de quais povoados Jesus mandou buscar o potro?",
       "answer": "Betfagé e Betânia.",
-      "reference": "Lc 19:29"
+      "reference": "Lc 19:29",
+      "wrongs": [
+        "Cafarnaum e Betsaida.",
+        "Nazaré e Caná.",
+        "Jericó e Siloé."
+      ]
     },
     {
       "id": "LUK.19.curiosity.1",
@@ -728,7 +1088,12 @@
       "kind": "curiosity",
       "prompt": "O que Zaqueu prometeu se tivesse enganado alguém?",
       "answer": "Devolver quatro vezes mais.",
-      "reference": "Lc 19:8"
+      "reference": "Lc 19:8",
+      "wrongs": [
+        "Devolver só a metade.",
+        "Pedir desculpas, sem devolver.",
+        "Dobrar a oferta no templo."
+      ]
     },
     {
       "id": "LUK.20.subject.1",
@@ -738,7 +1103,12 @@
       "kind": "subject",
       "prompt": "O que Jesus mandou fazer com o imposto de César?",
       "answer": "Deem ao governante o que é dele, e a Deus o que lhe cabe.",
-      "reference": "Lc 20:25"
+      "reference": "Lc 20:25",
+      "wrongs": [
+        "Guardem o imposto e não paguem a César.",
+        "Entreguem tudo a César, e nada a Deus.",
+        "Queimem a moeda no pátio do templo."
+      ]
     },
     {
       "id": "LUK.20.name.1",
@@ -748,7 +1118,12 @@
       "kind": "name",
       "prompt": "Sobre o batismo de quem Jesus perguntou aos chefes?",
       "answer": "Sobre o batismo de João.",
-      "reference": "Lc 20:4"
+      "reference": "Lc 20:4",
+      "wrongs": [
+        "Sobre o batismo de Moisés.",
+        "Sobre o batismo dos fariseus.",
+        "Sobre o batismo de Elias."
+      ]
     },
     {
       "id": "LUK.20.place.1",
@@ -758,7 +1133,12 @@
       "kind": "place",
       "prompt": "Onde Jesus ensinava quando os chefes o interrogaram?",
       "answer": "No templo.",
-      "reference": "Lc 20:1"
+      "reference": "Lc 20:1",
+      "wrongs": [
+        "Na sinagoga de Nazaré.",
+        "No monte das Oliveiras.",
+        "No palácio de Herodes."
+      ]
     },
     {
       "id": "LUK.20.curiosity.1",
@@ -768,7 +1148,12 @@
       "kind": "curiosity",
       "prompt": "De quem era a imagem na moeda mostrada a Jesus?",
       "answer": "De César.",
-      "reference": "Lc 20:24"
+      "reference": "Lc 20:24",
+      "wrongs": [
+        "De Herodes.",
+        "De Davi.",
+        "De Pilatos."
+      ]
     },
     {
       "id": "LUK.21.subject.1",
@@ -778,7 +1163,12 @@
       "kind": "subject",
       "prompt": "O que Jesus disse que aconteceria com o templo?",
       "answer": "Nenhuma pedra ficaria em cima da outra.",
-      "reference": "Lc 21:6"
+      "reference": "Lc 21:6",
+      "wrongs": [
+        "As pedras seriam douradas de novo.",
+        "Só o véu interno seria rasgado.",
+        "O templo ficaria de pé para sempre."
+      ]
     },
     {
       "id": "LUK.21.place.1",
@@ -788,7 +1178,12 @@
       "kind": "place",
       "prompt": "Onde Lucas conta que Jesus passava as noites ao ensinar no templo?",
       "answer": "No monte das Oliveiras.",
-      "reference": "Lc 21:37"
+      "reference": "Lc 21:37",
+      "wrongs": [
+        "Na casa de um fariseu, na cidade.",
+        "No cenáculo, com as portas fechadas.",
+        "No deserto, além do Jordão."
+      ]
     },
     {
       "id": "LUK.21.curiosity.1",
@@ -798,7 +1193,12 @@
       "kind": "curiosity",
       "prompt": "Que parte do que tinha a viúva pobre pôs na caixa do templo, em Lucas?",
       "answer": "Tudo o que tinha para se sustentar.",
-      "reference": "Lc 21:4"
+      "reference": "Lc 21:4",
+      "wrongs": [
+        "Só as duas moedinhas que lhe sobravam.",
+        "A metade do que ganhava no mês.",
+        "Nada. As mãos dela estavam vazias."
+      ]
     },
     {
       "id": "LUK.22.subject.1",
@@ -808,7 +1208,12 @@
       "kind": "subject",
       "prompt": "Como Judas se aproximou de Jesus no monte das Oliveiras?",
       "answer": "Chegou perto para beijá-lo.",
-      "reference": "Lc 22:47"
+      "reference": "Lc 22:47",
+      "wrongs": [
+        "Chegou de longe e apontou com a mão.",
+        "Ficou entre os guardas, sem se chegar.",
+        "Abraçou Pedro para confundir os soldados."
+      ]
     },
     {
       "id": "LUK.22.name.1",
@@ -818,7 +1223,12 @@
       "kind": "name",
       "prompt": "Quem Jesus disse que o negaria antes do galo cantar?",
       "answer": "Pedro, três vezes.",
-      "reference": "Lc 22:34"
+      "reference": "Lc 22:34",
+      "wrongs": [
+        "João, uma vez.",
+        "Tiago, duas vezes.",
+        "Judas, diante do conselho."
+      ]
     },
     {
       "id": "LUK.22.place.1",
@@ -828,7 +1238,12 @@
       "kind": "place",
       "prompt": "Para onde levaram Jesus depois de prendê-lo no monte das Oliveiras?",
       "answer": "À casa do sumo sacerdote.",
-      "reference": "Lc 22:54"
+      "reference": "Lc 22:54",
+      "wrongs": [
+        "Ao palácio de Herodes.",
+        "Ao pretório de Pilatos.",
+        "À fortaleza de Antônia."
+      ]
     },
     {
       "id": "LUK.22.curiosity.1",
@@ -838,7 +1253,12 @@
       "kind": "curiosity",
       "prompt": "Como ficou o suor de Jesus enquanto ele orava?",
       "answer": "Parecia gotas de sangue caindo até o chão.",
-      "reference": "Lc 22:44"
+      "reference": "Lc 22:44",
+      "wrongs": [
+        "Parecia orvalho seco sobre a testa.",
+        "Parecia lágrimas comuns no rosto.",
+        "Parou de todo, e o rosto ficou seco."
+      ]
     },
     {
       "id": "LUK.23.subject.1",
@@ -848,7 +1268,12 @@
       "kind": "subject",
       "prompt": "Onde crucificaram Jesus entre dois criminosos?",
       "answer": "No lugar chamado Caveira.",
-      "reference": "Lc 23:33"
+      "reference": "Lc 23:33",
+      "wrongs": [
+        "No pátio do templo.",
+        "No Getsêmani.",
+        "Na porta de Jericó."
+      ]
     },
     {
       "id": "LUK.23.name.1",
@@ -858,7 +1283,12 @@
       "kind": "name",
       "prompt": "Quem carregou a cruz atrás de Jesus?",
       "answer": "Simão Cireneu.",
-      "reference": "Lc 23:26"
+      "reference": "Lc 23:26",
+      "wrongs": [
+        "José de Arimateia.",
+        "André de Betsaida.",
+        "João, filho de Zebedeu."
+      ]
     },
     {
       "id": "LUK.23.place.1",
@@ -869,7 +1299,12 @@
       "kind": "place",
       "prompt": "De que cidade era José, que pediu o corpo de Jesus?",
       "answer": "De Arimateia.",
-      "reference": "Lc 23:50-52"
+      "reference": "Lc 23:50-52",
+      "wrongs": [
+        "De Nazaré.",
+        "De Cafarnaum.",
+        "De Belém."
+      ]
     },
     {
       "id": "LUK.23.curiosity.1",
@@ -879,7 +1314,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus prometeu ao criminoso que lhe pediu lembrança?",
       "answer": "Que naquele dia estariam juntos no paraíso.",
-      "reference": "Lc 23:43"
+      "reference": "Lc 23:43",
+      "wrongs": [
+        "Que ele sairia da cruz naquela tarde.",
+        "Que os dois se encontrariam no templo.",
+        "Que o crime seria esquecido pelo governador."
+      ]
     },
     {
       "id": "LUK.24.subject.1",
@@ -889,7 +1329,12 @@
       "kind": "subject",
       "prompt": "O que disseram a respeito de Jesus no sepulcro vazio?",
       "answer": "Que ele não estava ali, pois já tinha ressuscitado.",
-      "reference": "Lc 24:6"
+      "reference": "Lc 24:6",
+      "wrongs": [
+        "Que o corpo tinha sido levado pelos guardas.",
+        "Que Jesus ainda dormia no sepulcro.",
+        "Que elas estavam no túmulo errado."
+      ]
     },
     {
       "id": "LUK.24.name.1",
@@ -899,7 +1344,12 @@
       "kind": "name",
       "prompt": "Quem era um dos dois que iam para Emaús?",
       "answer": "Cleofas.",
-      "reference": "Lc 24:18"
+      "reference": "Lc 24:18",
+      "wrongs": [
+        "Simão.",
+        "Bartolomeu.",
+        "Zaqueu."
+      ]
     },
     {
       "id": "LUK.24.place.1",
@@ -909,7 +1359,12 @@
       "kind": "place",
       "prompt": "Para que aldeia iam dois discípulos no dia da ressurreição, em Lucas?",
       "answer": "Para Emaús.",
-      "reference": "Lc 24:13"
+      "reference": "Lc 24:13",
+      "wrongs": [
+        "Para Jope.",
+        "Para Nazaré.",
+        "Para Jericó."
+      ]
     },
     {
       "id": "LUK.24.curiosity.1",
@@ -919,7 +1374,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu enquanto Jesus abençoava os discípulos?",
       "answer": "Ele foi levado para o céu.",
-      "reference": "Lc 24:51"
+      "reference": "Lc 24:51",
+      "wrongs": [
+        "Ele ficou no monte e continuou a abençoar.",
+        "Ele voltou a pé para Jerusalém.",
+        "Uma nuvem desceu, e ele permaneceu."
+      ]
     },
     {
       "id": "LUK.0.curiosity.1",
@@ -929,7 +1389,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Lucas?",
       "answer": "Lucas, o médico.",
-      "reference": "Lucas"
+      "reference": "Lucas",
+      "wrongs": [
+        "Mateus.",
+        "Marcos.",
+        "Paulo."
+      ]
     },
     {
       "id": "LUK.0.curiosity.2",
@@ -939,7 +1404,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Lucas?",
       "answer": "Por volta do ano 60.",
-      "reference": "Lucas"
+      "reference": "Lucas",
+      "wrongs": [
+        "Por volta do ano 90.",
+        "Antes do ano 40.",
+        "No século II."
+      ]
     }
   ]
 }

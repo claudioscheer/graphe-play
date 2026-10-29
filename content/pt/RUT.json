@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que Rute prometeu a Noemi?",
       "answer": "Ir com ela, e ter o mesmo povo e o mesmo Deus.",
-      "reference": "Rt 1:16"
+      "reference": "Rt 1:16",
+      "wrongs": [
+        "Voltar a Moabe e cuidar da mãe de lá.",
+        "Ficar em Belém só até o fim da colheita.",
+        "Casar de novo e esquecer a família dela."
+      ]
     },
     {
       "id": "RUT.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem beijou Noemi e não seguiu viagem com ela?",
       "answer": "Orfa.",
-      "reference": "Rt 1:14"
+      "reference": "Rt 1:14",
+      "wrongs": [
+        "Rute.",
+        "Noemi.",
+        "Mara."
+      ]
     },
     {
       "id": "RUT.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Para onde Noemi e Rute chegaram, vindas de Moabe?",
       "answer": "Para Belém, no começo da colheita de cevada.",
-      "reference": "Rt 1:22"
+      "reference": "Rt 1:22",
+      "wrongs": [
+        "Para Moabe, no fim da colheita de trigo.",
+        "Para Hebrom, no meio do inverno.",
+        "Para Jericó, na época das primícias."
+      ]
     },
     {
       "id": "RUT.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Como Noemi pediu para ser chamada em Belém?",
       "answer": "Mara, porque a vida dela tinha amargado.",
-      "reference": "Rt 1:20"
+      "reference": "Rt 1:20",
+      "wrongs": [
+        "Noemi, porque a vida tinha ficado doce.",
+        "Rute, porque ganhara uma nova filha.",
+        "Orfa, porque a viagem tinha acabado."
+      ]
     },
     {
       "id": "RUT.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que Boaz pediu que Rute não fizesse?",
       "answer": "Que não fosse colher espigas em outro campo.",
-      "reference": "Rt 2:8"
+      "reference": "Rt 2:8",
+      "wrongs": [
+        "Que não falasse com os ceifeiros dele.",
+        "Que voltasse no mesmo dia para Moabe.",
+        "Que escondesse a cevada da sogra."
+      ]
     },
     {
       "id": "RUT.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem era o parente rico da família de Elimeleque?",
       "answer": "Boaz.",
-      "reference": "Rt 2:1"
+      "reference": "Rt 2:1",
+      "wrongs": [
+        "Elimeleque.",
+        "Malom.",
+        "Quiliom."
+      ]
     },
     {
       "id": "RUT.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "De que cidade Boaz chegou ao campo?",
       "answer": "De Belém.",
-      "reference": "Rt 2:4"
+      "reference": "Rt 2:4",
+      "wrongs": [
+        "De Moabe.",
+        "De Hebrom.",
+        "De Jerusalém."
+      ]
     },
     {
       "id": "RUT.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Quanta cevada Rute juntou no dia em que achou Boaz?",
       "answer": "Cerca de um efa.",
-      "reference": "Rt 2:17"
+      "reference": "Rt 2:17",
+      "wrongs": [
+        "Cerca de um ômer.",
+        "Seis medidas.",
+        "Dois seás."
+      ]
     },
     {
       "id": "RUT.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que Rute pediu a Boaz, parente da família?",
       "answer": "Que a cobrisse com a capa, por ser parente próximo.",
-      "reference": "Rt 3:9"
+      "reference": "Rt 3:9",
+      "wrongs": [
+        "Que a mandasse de volta ao campo de outro dono.",
+        "Que pagasse a Noemi e a deixasse em Moabe.",
+        "Que entregasse a colheita aos pobres da porta."
+      ]
     },
     {
       "id": "RUT.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem buscava um futuro seguro para Rute?",
       "answer": "Noemi, a sogra dela.",
-      "reference": "Rt 3:1"
+      "reference": "Rt 3:1",
+      "wrongs": [
+        "Orfa, a concunhada.",
+        "Boaz, o parente rico.",
+        "A mulher do outro resgatador."
+      ]
     },
     {
       "id": "RUT.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Para onde Rute desceu a fim de falar com Boaz?",
       "answer": "Para o terreiro da colheita.",
-      "reference": "Rt 3:6"
+      "reference": "Rt 3:6",
+      "wrongs": [
+        "Para a porta da cidade.",
+        "Para o poço de Belém.",
+        "Para a casa do outro parente."
+      ]
     },
     {
       "id": "RUT.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Quantas medidas de cevada Boaz entregou a Rute?",
       "answer": "Seis.",
-      "reference": "Rt 3:15"
+      "reference": "Rt 3:15",
+      "wrongs": [
+        "Três.",
+        "Dez.",
+        "Uma."
+      ]
     },
     {
       "id": "RUT.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Quem é o filho nascido para Noemi, antepassado de Davi?",
       "answer": "Obede.",
-      "reference": "Rt 4:17"
+      "reference": "Rt 4:17",
+      "wrongs": [
+        "Jessé.",
+        "Boaz.",
+        "Elimeleque."
+      ]
     },
     {
       "id": "RUT.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Quem se casou com Rute?",
       "answer": "Boaz.",
-      "reference": "Rt 4:13"
+      "reference": "Rt 4:13",
+      "wrongs": [
+        "O outro parente.",
+        "Malom.",
+        "Elimeleque."
+      ]
     },
     {
       "id": "RUT.4.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "Onde Boaz tratou do resgate com o outro parente?",
       "answer": "Na porta da cidade.",
-      "reference": "Rt 4:1"
+      "reference": "Rt 4:1",
+      "wrongs": [
+        "No terreiro da colheita.",
+        "No campo de cevada.",
+        "Na casa de Noemi."
+      ]
     },
     {
       "id": "RUT.4.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "O que o parente tirou ao ceder o direito a Boaz?",
       "answer": "O sapato.",
-      "reference": "Rt 4:8"
+      "reference": "Rt 4:8",
+      "wrongs": [
+        "O manto.",
+        "O cajado.",
+        "O anel."
+      ]
     },
     {
       "id": "RUT.0.curiosity.1",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Rute?",
       "answer": "O livro não diz o autor.",
-      "reference": "Rute"
+      "reference": "Rute",
+      "wrongs": [
+        "O livro diz que foi Rute.",
+        "O livro diz que foi Boaz.",
+        "O livro diz que foi Noemi."
+      ]
     },
     {
       "id": "RUT.0.curiosity.2",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Rute?",
       "answer": "Depois do tempo dos juízes. A história chega até Davi.",
-      "reference": "Rute"
+      "reference": "Rute",
+      "wrongs": [
+        "Antes de Moisés, ainda no Egito. A história não passa dali.",
+        "No exílio, depois da queda. A história para em Nabucodonosor.",
+        "No tempo de Sansão, só entre os juízes. Não chega a Davi."
+      ]
     }
   ]
 }

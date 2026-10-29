@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Por que Paulo não se envergonha do evangelho?",
       "answer": "Porque essa mensagem é o poder de Deus que salva quem crê.",
-      "reference": "Rm 1:16"
+      "reference": "Rm 1:16",
+      "wrongs": [
+        "Porque essa mensagem agrada aos sábios de Roma.",
+        "Porque essa mensagem evita a perseguição.",
+        "Porque essa mensagem prova o valor das obras."
+      ]
     },
     {
       "id": "ROM.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem se apresenta aos romanos como servo de Jesus e apóstolo?",
       "answer": "Paulo.",
-      "reference": "Rm 1:1"
+      "reference": "Rm 1:1",
+      "wrongs": [
+        "Pedro.",
+        "Apolo.",
+        "Timóteo."
+      ]
     },
     {
       "id": "ROM.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde estavam os cristãos a quem Paulo escreve que não se envergonha do evangelho?",
       "answer": "Em Roma.",
-      "reference": "Rm 1:7"
+      "reference": "Rm 1:7",
+      "wrongs": [
+        "Em Corinto.",
+        "Em Éfeso.",
+        "Em Filipos."
+      ]
     },
     {
       "id": "ROM.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Por que figura as pessoas trocaram a glória de Deus?",
       "answer": "Pela de gente, pássaros, animais de quatro patas e bichos rastejantes.",
-      "reference": "Rm 1:23"
+      "reference": "Rm 1:23",
+      "wrongs": [
+        "Pela glória dos anjos e das estrelas do céu.",
+        "Pela imagem de um único bezerro de ouro.",
+        "Pela sabedoria dos gregos e pelas leis de Roma."
+      ]
     },
     {
       "id": "ROM.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Quem Deus elogia como judeu?",
       "answer": "Quem o é por dentro, no coração, e não por regra escrita.",
-      "reference": "Rm 2:29"
+      "reference": "Rm 2:29",
+      "wrongs": [
+        "Quem cumpre a lei à vista de todos.",
+        "Quem nasce de família de Israel.",
+        "Quem guarda o sábado e a circuncisão."
+      ]
     },
     {
       "id": "ROM.2.curiosity.1",
@@ -58,7 +83,12 @@
       "kind": "curiosity",
       "prompt": "Como Deus vai retribuir cada pessoa?",
       "answer": "Conforme o que cada uma fez.",
-      "reference": "Rm 2:6"
+      "reference": "Rm 2:6",
+      "wrongs": [
+        "Conforme a família em que nasceu.",
+        "Conforme o que cada uma prometeu.",
+        "Conforme os anos que cada uma viveu."
+      ]
     },
     {
       "id": "ROM.2.curiosity.2",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus vai julgar por meio de Jesus?",
       "answer": "Os segredos das pessoas.",
-      "reference": "Rm 2:16"
+      "reference": "Rm 2:16",
+      "wrongs": [
+        "Só os atos feitos em público.",
+        "As ofertas deixadas no templo.",
+        "Os nomes escritos no censo."
+      ]
     },
     {
       "id": "ROM.3.subject.1",
@@ -78,7 +113,12 @@
       "kind": "subject",
       "prompt": "A pessoa fica justa diante de Deus por cumprir a lei?",
       "answer": "Não. Fica justa pela fé, sem depender das obras da lei.",
-      "reference": "Rm 3:28"
+      "reference": "Rm 3:28",
+      "wrongs": [
+        "Sim. Fica justa se cumprir todos os mandamentos.",
+        "Não. Fica justa pelo batismo e pela penitência.",
+        "Sim. Fica justa quando sofre o bastante pelo pecado."
+      ]
     },
     {
       "id": "ROM.3.curiosity.1",
@@ -88,7 +128,12 @@
       "kind": "curiosity",
       "prompt": "Há alguém justo por conta própria?",
       "answer": "Ninguém. Nem sequer um.",
-      "reference": "Rm 3:10"
+      "reference": "Rm 3:10",
+      "wrongs": [
+        "Só os que nasceram em Israel.",
+        "Só quem nunca ouviu a lei.",
+        "Os que guardam o sábado sem falhar."
+      ]
     },
     {
       "id": "ROM.3.curiosity.2",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "Quem pecou e ficou sem a glória de Deus?",
       "answer": "Todo mundo.",
-      "reference": "Rm 3:23"
+      "reference": "Rm 3:23",
+      "wrongs": [
+        "Só os gentios.",
+        "Só quem adora ídolos.",
+        "Só os que rejeitam a lei."
+      ]
     },
     {
       "id": "ROM.4.subject.1",
@@ -108,7 +158,12 @@
       "kind": "subject",
       "prompt": "Como Abraão foi aceito como justo?",
       "answer": "Ele confiou em Deus, e isso foi contado como justiça.",
-      "reference": "Rm 4:3"
+      "reference": "Rm 4:3",
+      "wrongs": [
+        "Ele obedeceu à lei, e isso pagou a dívida.",
+        "Ele ofereceu Isaque, e isso comprou o perdão.",
+        "Ele foi circuncidado, e isso o tornou justo."
+      ]
     },
     {
       "id": "ROM.4.name.1",
@@ -118,7 +173,12 @@
       "kind": "name",
       "prompt": "Quem Paulo cita ao falar de perdão sem olhar as obras?",
       "answer": "Davi.",
-      "reference": "Rm 4:6"
+      "reference": "Rm 4:6",
+      "wrongs": [
+        "Moisés.",
+        "Abraão.",
+        "Elias."
+      ]
     },
     {
       "id": "ROM.4.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Quantos anos Abraão tinha, mais ou menos, ao crer com o corpo já sem vigor?",
       "answer": "Quase cem anos.",
-      "reference": "Rm 4:19"
+      "reference": "Rm 4:19",
+      "wrongs": [
+        "Quase quarenta anos.",
+        "Quase setenta anos.",
+        "Quase cento e vinte anos."
+      ]
     },
     {
       "id": "ROM.5.subject.1",
@@ -138,7 +203,12 @@
       "kind": "subject",
       "prompt": "O que entrou no mundo por um só homem?",
       "answer": "O pecado, e por meio dele a morte.",
-      "reference": "Rm 5:12"
+      "reference": "Rm 5:12",
+      "wrongs": [
+        "A lei, e por meio dela a condenação.",
+        "A idolatria, e por meio dela os impérios.",
+        "A circuncisão, e por meio dela a aliança."
+      ]
     },
     {
       "id": "ROM.5.name.1",
@@ -148,7 +218,12 @@
       "kind": "name",
       "prompt": "Quem Paulo diz que era figura de Cristo?",
       "answer": "Adão.",
-      "reference": "Rm 5:14"
+      "reference": "Rm 5:14",
+      "wrongs": [
+        "Abraão.",
+        "Moisés.",
+        "Noé."
+      ]
     },
     {
       "id": "ROM.5.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Em que condição as pessoas estavam quando Cristo morreu por elas?",
       "answer": "Ainda eram pecadoras.",
-      "reference": "Rm 5:8"
+      "reference": "Rm 5:8",
+      "wrongs": [
+        "Já eram justas pela lei.",
+        "Já tinham se arrependido.",
+        "Já viviam sem pecado."
+      ]
     },
     {
       "id": "ROM.6.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "Como quem crê deve se ver diante do pecado?",
       "answer": "Como alguém morto para o pecado e vivo para Deus, em Jesus.",
-      "reference": "Rm 6:11"
+      "reference": "Rm 6:11",
+      "wrongs": [
+        "Como alguém ainda escravo do pecado, sem saída.",
+        "Como alguém justo por cumprir a lei de Moisés.",
+        "Como alguém livre para pecar, já que a graça cobre."
+      ]
     },
     {
       "id": "ROM.6.curiosity.1",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "Para que a pessoa é sepultada com Cristo no batismo?",
       "answer": "Para viver de um modo novo, já que ele ressuscitou.",
-      "reference": "Rm 6:4"
+      "reference": "Rm 6:4",
+      "wrongs": [
+        "Para apagar os pecados só com a água.",
+        "Para voltar à lei e cumprir cada regra.",
+        "Para ficar morto e não ter mais dever."
+      ]
     },
     {
       "id": "ROM.6.curiosity.2",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "Qual é o pagamento de quem peca?",
       "answer": "A morte. A vida sem fim é um presente de Deus, em Jesus.",
-      "reference": "Rm 6:23"
+      "reference": "Rm 6:23",
+      "wrongs": [
+        "Uma multa. A vida sem fim se compra com obras.",
+        "O exílio. A vida sem fim vem de cumprir a lei.",
+        "Uma advertência. A vida sem fim se ganha no templo."
+      ]
     },
     {
       "id": "ROM.7.subject.1",
@@ -198,7 +293,12 @@
       "kind": "subject",
       "prompt": "O que Paulo pratica quando quer fazer o bem?",
       "answer": "Não faz o bem que deseja, e faz o mal que rejeita.",
-      "reference": "Rm 7:19"
+      "reference": "Rm 7:19",
+      "wrongs": [
+        "Faz sempre o bem que deseja, sem falhar.",
+        "Deixa de pecar e cumpre a lei por inteiro.",
+        "Faz só o bem, porque a carne já não pesa."
+      ]
     },
     {
       "id": "ROM.7.curiosity.1",
@@ -208,7 +308,12 @@
       "kind": "curiosity",
       "prompt": "Até quando a mulher casada fica presa ao marido pela lei?",
       "answer": "Enquanto o marido viver.",
-      "reference": "Rm 7:2"
+      "reference": "Rm 7:2",
+      "wrongs": [
+        "Até o fim do sábado.",
+        "Enquanto morar em Israel.",
+        "Até cumprir um voto."
+      ]
     },
     {
       "id": "ROM.7.curiosity.2",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "A lei é algo ruim?",
       "answer": "Não. Ela é santa, e a ordem dela é justa e boa.",
-      "reference": "Rm 7:12"
+      "reference": "Rm 7:12",
+      "wrongs": [
+        "Sim. Ela é má, e a ordem dela só condena.",
+        "Sim. Ela veio do pecado, e Deus a rejeita.",
+        "Sim. Ela é inútil, e já não vale nada."
+      ]
     },
     {
       "id": "ROM.8.subject.1",
@@ -228,7 +338,12 @@
       "kind": "subject",
       "prompt": "Quem vive pelo Espírito, em Jesus, está condenado?",
       "answer": "Não. Para essa pessoa não existe condenação.",
-      "reference": "Rm 8:1"
+      "reference": "Rm 8:1",
+      "wrongs": [
+        "Sim. A carne ainda a deixa condenada.",
+        "Sim. Só escapa quem cumprir a lei toda.",
+        "Sim. Um pecado novo traz a condenação de volta."
+      ]
     },
     {
       "id": "ROM.8.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Para quem todas as coisas ajudam no bem?",
       "answer": "Para quem ama a Deus e é chamado pelo plano dele.",
-      "reference": "Rm 8:28"
+      "reference": "Rm 8:28",
+      "wrongs": [
+        "Para qualquer pessoa, ame a Deus ou não.",
+        "Para quem cumpre a lei sem falhar.",
+        "Para quem sofre mais do que os outros."
+      ]
     },
     {
       "id": "ROM.8.curiosity.2",
@@ -249,7 +369,12 @@
       "kind": "curiosity",
       "prompt": "A morte ou alguma criatura separa do amor de Deus?",
       "answer": "Não. Nada disso separa quem está em Jesus.",
-      "reference": "Rm 8:38-39"
+      "reference": "Rm 8:38-39",
+      "wrongs": [
+        "Sim. A morte corta o amor de Deus.",
+        "Sim. Um anjo mau pode separar desse amor.",
+        "Sim. Um pecado grave afasta para sempre."
+      ]
     },
     {
       "id": "ROM.9.subject.1",
@@ -259,7 +384,12 @@
       "kind": "subject",
       "prompt": "A compaixão de Deus depende de quem se esforça?",
       "answer": "Não. Ela vem dele, que escolhe ter pena.",
-      "reference": "Rm 9:16"
+      "reference": "Rm 9:16",
+      "wrongs": [
+        "Sim. Ela premia quem corre e se esforça.",
+        "Sim. Ela segue o mérito que Deus previu.",
+        "Não. Ela depende de quem nasceu em Israel."
+      ]
     },
     {
       "id": "ROM.9.name.1",
@@ -269,7 +399,12 @@
       "kind": "name",
       "prompt": "O que a citação de Paulo diz que Deus fez com Jacó e Esaú?",
       "answer": "Amou Jacó e odiou Esaú.",
-      "reference": "Rm 9:13"
+      "reference": "Rm 9:13",
+      "wrongs": [
+        "Amou Esaú e odiou Jacó.",
+        "Amou os dois do mesmo modo.",
+        "Rejeitou os dois por igual."
+      ]
     },
     {
       "id": "ROM.9.place.1",
@@ -279,7 +414,12 @@
       "kind": "place",
       "prompt": "Onde foi posta a pedra que faz tropeçar, em Romanos?",
       "answer": "Em Sião.",
-      "reference": "Rm 9:33"
+      "reference": "Rm 9:33",
+      "wrongs": [
+        "Em Roma.",
+        "No deserto.",
+        "Em Damasco."
+      ]
     },
     {
       "id": "ROM.9.curiosity.1",
@@ -289,7 +429,12 @@
       "kind": "curiosity",
       "prompt": "Qual filho serviria o outro, na palavra citada por Paulo?",
       "answer": "O mais velho serviria o mais novo.",
-      "reference": "Rm 9:12"
+      "reference": "Rm 9:12",
+      "wrongs": [
+        "O mais novo serviria o mais velho.",
+        "Os dois serviriam a Faraó.",
+        "Nenhum dos dois serviria o outro."
+      ]
     },
     {
       "id": "ROM.10.subject.1",
@@ -299,7 +444,12 @@
       "kind": "subject",
       "prompt": "O que é preciso dizer e crer para ser salvo?",
       "answer": "Dizer que Jesus é o dono, e crer que Deus o fez viver de novo.",
-      "reference": "Rm 10:9"
+      "reference": "Rm 10:9",
+      "wrongs": [
+        "Cumprir a lei de Moisés e guardar o sábado.",
+        "Oferecer sacrifícios e jejuar duas vezes por semana.",
+        "Dizer que Jesus foi só um mestre, e crer nas próprias obras."
+      ]
     },
     {
       "id": "ROM.10.curiosity.1",
@@ -309,7 +459,12 @@
       "kind": "curiosity",
       "prompt": "A palavra da fé está longe de quem crê?",
       "answer": "Não. Está perto, na boca e no coração.",
-      "reference": "Rm 10:8"
+      "reference": "Rm 10:8",
+      "wrongs": [
+        "Sim. Está no céu, longe demais para alcançar.",
+        "Sim. Está só no templo, fora do alcance.",
+        "Sim. Ficou com Moisés, e não chega a ninguém."
+      ]
     },
     {
       "id": "ROM.10.curiosity.2",
@@ -319,7 +474,12 @@
       "kind": "curiosity",
       "prompt": "De onde nasce a fé, em Romanos?",
       "answer": "Do ouvir a palavra de Deus.",
-      "reference": "Rm 10:17"
+      "reference": "Rm 10:17",
+      "wrongs": [
+        "De um sentimento que nasce sozinho.",
+        "De sonhos e visões particulares.",
+        "Das obras que a pessoa acumula."
+      ]
     },
     {
       "id": "ROM.11.subject.1",
@@ -329,7 +489,12 @@
       "kind": "subject",
       "prompt": "O que Paulo afirma que vai acontecer com Israel?",
       "answer": "Todo o Israel será salvo.",
-      "reference": "Rm 11:26"
+      "reference": "Rm 11:26",
+      "wrongs": [
+        "Israel ficou rejeitado para sempre.",
+        "Só um resto gentio será salvo.",
+        "Israel se salva pela lei, sem Cristo."
+      ]
     },
     {
       "id": "ROM.11.name.1",
@@ -339,7 +504,12 @@
       "kind": "name",
       "prompt": "Quem falou a Deus contra Israel, no caso que Paulo lembra?",
       "answer": "Elias.",
-      "reference": "Rm 11:2"
+      "reference": "Rm 11:2",
+      "wrongs": [
+        "Moisés.",
+        "Davi.",
+        "Isaías."
+      ]
     },
     {
       "id": "ROM.11.curiosity.1",
@@ -349,7 +519,12 @@
       "kind": "curiosity",
       "prompt": "Quantos Deus guardou que não se dobraram a Baal?",
       "answer": "Sete mil homens.",
-      "reference": "Rm 11:4"
+      "reference": "Rm 11:4",
+      "wrongs": [
+        "Quinhentos homens.",
+        "Doze mil homens.",
+        "Três mil homens."
+      ]
     },
     {
       "id": "ROM.11.curiosity.2",
@@ -359,7 +534,12 @@
       "kind": "curiosity",
       "prompt": "Onde o ramo da oliveira brava foi enxertado, em Romanos?",
       "answer": "Na oliveira boa, no lugar de ramos arrancados.",
-      "reference": "Rm 11:17"
+      "reference": "Rm 11:17",
+      "wrongs": [
+        "Numa figueira seca, longe da raiz antiga.",
+        "Numa videira nova, sem ligação com Israel.",
+        "No cedro do Líbano, acima dos ramos velhos."
+      ]
     },
     {
       "id": "ROM.12.subject.1",
@@ -369,7 +549,12 @@
       "kind": "subject",
       "prompt": "O que Paulo pede que se entregue a Deus?",
       "answer": "O corpo, como oferta viva, santa e que agrada a ele.",
-      "reference": "Rm 12:1"
+      "reference": "Rm 12:1",
+      "wrongs": [
+        "Um animal, como oferta queimada no altar.",
+        "Dinheiro, como taxa devida ao templo.",
+        "O sábado, como prova de obediência à lei."
+      ]
     },
     {
       "id": "ROM.12.curiosity.1",
@@ -379,7 +564,12 @@
       "kind": "curiosity",
       "prompt": "O que muitas pessoas formam em Cristo?",
       "answer": "Um só corpo, e cada uma é membro das outras.",
-      "reference": "Rm 12:5"
+      "reference": "Rm 12:5",
+      "wrongs": [
+        "Várias igrejas, sem ligação entre si.",
+        "Uma nação, com rei e terra próprios.",
+        "Um grupo, unido só pelo sangue."
+      ]
     },
     {
       "id": "ROM.12.curiosity.2",
@@ -389,7 +579,12 @@
       "kind": "curiosity",
       "prompt": "Como o mal deve ser vencido?",
       "answer": "Com o bem, sem deixar que ele ganhe.",
-      "reference": "Rm 12:21"
+      "reference": "Rm 12:21",
+      "wrongs": [
+        "Com vingança igual ao dano recebido.",
+        "Com fuga, para evitar todo conflito.",
+        "Com a lei, devolvendo mal por mal."
+      ]
     },
     {
       "id": "ROM.13.subject.1",
@@ -399,7 +594,12 @@
       "kind": "subject",
       "prompt": "Por que a pessoa deve obedecer às autoridades?",
       "answer": "Porque toda autoridade que existe vem de Deus.",
-      "reference": "Rm 13:1"
+      "reference": "Rm 13:1",
+      "wrongs": [
+        "Porque o imperador é divino e não erra.",
+        "Porque a igreja deve governar o Estado.",
+        "Porque só se obedece a quem é cristão."
+      ]
     },
     {
       "id": "ROM.13.curiosity.1",
@@ -409,7 +609,12 @@
       "kind": "curiosity",
       "prompt": "O que Paulo manda entregar a cada um, conforme o caso?",
       "answer": "Imposto, taxa, respeito e honra.",
-      "reference": "Rm 13:7"
+      "reference": "Rm 13:7",
+      "wrongs": [
+        "Oração, jejum, esmola e voto.",
+        "Culto, incenso, sacrifício e festa.",
+        "Medo, suborno, silêncio e fuga."
+      ]
     },
     {
       "id": "ROM.13.curiosity.2",
@@ -419,7 +624,12 @@
       "kind": "curiosity",
       "prompt": "O que cumpre a lei no trato com o próximo?",
       "answer": "O amor, pois ele não machuca ninguém.",
-      "reference": "Rm 13:10"
+      "reference": "Rm 13:10",
+      "wrongs": [
+        "O medo, pois ele segura a violência.",
+        "O dízimo, pois ele cobre a dívida.",
+        "O rito, pois ele substitui o próximo."
+      ]
     },
     {
       "id": "ROM.14.subject.1",
@@ -429,7 +639,12 @@
       "kind": "subject",
       "prompt": "O reino de Deus é comida e bebida?",
       "answer": "Não. É justiça, paz e alegria dadas pelo Espírito.",
-      "reference": "Rm 14:17"
+      "reference": "Rm 14:17",
+      "wrongs": [
+        "Sim. É o cardápio puro da lei de Moisés.",
+        "Não. É poder político sobre as nações.",
+        "Sim. É festa, vinho e liberdade sem limite."
+      ]
     },
     {
       "id": "ROM.14.curiosity.1",
@@ -439,7 +654,12 @@
       "kind": "curiosity",
       "prompt": "O que come quem é fraco na fé?",
       "answer": "Só vegetais.",
-      "reference": "Rm 14:2"
+      "reference": "Rm 14:2",
+      "wrongs": [
+        "Só carne.",
+        "Pão e vinho.",
+        "De tudo."
+      ]
     },
     {
       "id": "ROM.14.curiosity.2",
@@ -449,7 +669,12 @@
       "kind": "curiosity",
       "prompt": "O que vira pecado para quem age em dúvida?",
       "answer": "O que não é feito com fé.",
-      "reference": "Rm 14:23"
+      "reference": "Rm 14:23",
+      "wrongs": [
+        "O que é feito em jejum.",
+        "O que a lei não lista.",
+        "O que o irmão não vê."
+      ]
     },
     {
       "id": "ROM.15.subject.1",
@@ -459,7 +684,12 @@
       "kind": "subject",
       "prompt": "O que os fortes devem fazer com os fracos?",
       "answer": "Aguentar as fraquezas deles e não buscar o próprio gosto.",
-      "reference": "Rm 15:1"
+      "reference": "Rm 15:1",
+      "wrongs": [
+        "Corrigi-los em público até eles mudarem.",
+        "Separar-se deles para não se contaminar.",
+        "Obrigá-los a seguir o próprio gosto."
+      ]
     },
     {
       "id": "ROM.15.place.1",
@@ -469,7 +699,12 @@
       "kind": "place",
       "prompt": "Para qual terra Paulo pretendia seguir depois de passar por Roma?",
       "answer": "Para a Espanha.",
-      "reference": "Rm 15:24"
+      "reference": "Rm 15:24",
+      "wrongs": [
+        "Para o Egito.",
+        "Para a Síria.",
+        "Para a Gália."
+      ]
     },
     {
       "id": "ROM.15.place.2",
@@ -479,7 +714,12 @@
       "kind": "place",
       "prompt": "Aonde Paulo ia para ajudar o povo de Deus?",
       "answer": "A Jerusalém.",
-      "reference": "Rm 15:25"
+      "reference": "Rm 15:25",
+      "wrongs": [
+        "A Antioquia.",
+        "A Cesareia.",
+        "A Éfeso."
+      ]
     },
     {
       "id": "ROM.15.curiosity.1",
@@ -489,7 +729,12 @@
       "kind": "curiosity",
       "prompt": "Quem decidiu mandar ajuda aos pobres de Jerusalém?",
       "answer": "Os cristãos da Macedônia e da Acaia.",
-      "reference": "Rm 15:26"
+      "reference": "Rm 15:26",
+      "wrongs": [
+        "Os cristãos da Galileia e de Samaria.",
+        "Os cristãos de Roma e da Espanha.",
+        "Os apóstolos que ficaram em Jerusalém."
+      ]
     },
     {
       "id": "ROM.16.subject.1",
@@ -499,7 +744,12 @@
       "kind": "subject",
       "prompt": "O que Paulo pede quanto a quem causa divisão?",
       "answer": "Que a igreja tome cuidado e se afaste dessa gente.",
-      "reference": "Rm 16:17"
+      "reference": "Rm 16:17",
+      "wrongs": [
+        "Que a igreja os receba e copie o ensino deles.",
+        "Que a igreja os ignore e não tome partido.",
+        "Que a igreja os entregue ao governo romano."
+      ]
     },
     {
       "id": "ROM.16.name.1",
@@ -509,7 +759,12 @@
       "kind": "name",
       "prompt": "Quem Paulo recomenda como servidora da igreja?",
       "answer": "Febe.",
-      "reference": "Rm 16:1"
+      "reference": "Rm 16:1",
+      "wrongs": [
+        "Lídia.",
+        "Dorcas.",
+        "Marta."
+      ]
     },
     {
       "id": "ROM.16.place.1",
@@ -519,7 +774,12 @@
       "kind": "place",
       "prompt": "Em que cidade Febe servia a igreja?",
       "answer": "Em Cencreia.",
-      "reference": "Rm 16:1"
+      "reference": "Rm 16:1",
+      "wrongs": [
+        "Em Corinto.",
+        "Em Atenas.",
+        "Em Beréia."
+      ]
     },
     {
       "id": "ROM.16.curiosity.1",
@@ -529,7 +789,12 @@
       "kind": "curiosity",
       "prompt": "O que o Deus da paz fará com Satanás?",
       "answer": "Vai despedaçá-lo sob os pés do povo.",
-      "reference": "Rm 16:20"
+      "reference": "Rm 16:20",
+      "wrongs": [
+        "Vai entregá-lo para sempre ao mar.",
+        "Vai fazer as pazes com ele no fim.",
+        "Vai deixá-lo livre sobre a terra."
+      ]
     },
     {
       "id": "ROM.0.curiosity.1",
@@ -539,7 +804,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Romanos?",
       "answer": "Paulo.",
-      "reference": "Romanos"
+      "reference": "Romanos",
+      "wrongs": [
+        "Pedro.",
+        "Tiago.",
+        "Lucas."
+      ]
     },
     {
       "id": "ROM.0.curiosity.2",
@@ -549,7 +819,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Romanos?",
       "answer": "Por volta do ano 57.",
-      "reference": "Romanos"
+      "reference": "Romanos",
+      "wrongs": [
+        "Por volta do ano 45.",
+        "Por volta do ano 70.",
+        "Por volta do ano 90."
+      ]
     },
     {
       "id": "ROM.0.curiosity.3",
@@ -559,7 +834,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu Romanos?",
       "answer": "Para os crentes que estavam em Roma.",
-      "reference": "Rm 1:7"
+      "reference": "Rm 1:7",
+      "wrongs": [
+        "Para os crentes que estavam em Corinto.",
+        "Para os crentes que estavam em Éfeso.",
+        "Para os crentes que estavam em Filipos."
+      ]
     }
   ]
 }

@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que Salomão pediu a Deus em Gibeão?",
       "answer": "Sabedoria e conhecimento para julgar o povo.",
-      "reference": "2Cr 1:10"
+      "reference": "2Cr 1:10",
+      "wrongs": [
+        "Riquezas e honra acima de todos os reis.",
+        "Vida longa e a morte dos inimigos.",
+        "Um exército maior do que o de Davi."
+      ]
     },
     {
       "id": "2CH.1.place.1",
@@ -18,7 +23,12 @@
       "kind": "place",
       "prompt": "Onde Salomão foi adorar com todo Israel?",
       "answer": "No alto de Gibeão, onde estava o tabernáculo.",
-      "reference": "2Cr 1:3"
+      "reference": "2Cr 1:3",
+      "wrongs": [
+        "No monte Sião, onde estava a arca.",
+        "Em Betel, onde estava o bezerro.",
+        "Em Berseba, onde Abraão tinha o poço."
+      ]
     },
     {
       "id": "2CH.1.curiosity.1",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "Quantos holocaustos Salomão ofereceu em Gibeão?",
       "answer": "Mil.",
-      "reference": "2Cr 1:6"
+      "reference": "2Cr 1:6",
+      "wrongs": [
+        "Cem.",
+        "Sete.",
+        "Vinte e dois mil."
+      ]
     },
     {
       "id": "2CH.2.subject.1",
@@ -38,7 +53,12 @@
       "kind": "subject",
       "prompt": "O que Salomão decidiu construir?",
       "answer": "Uma casa para o nome de Deus e outra para o reino.",
-      "reference": "2Cr 2:1"
+      "reference": "2Cr 2:1",
+      "wrongs": [
+        "Só uma muralha para a cidade, e nada mais.",
+        "Uma frota para Ofir e um porto em Eziom-Geber.",
+        "Um altar em Dã e outro em Betel."
+      ]
     },
     {
       "id": "2CH.2.name.1",
@@ -48,7 +68,12 @@
       "kind": "name",
       "prompt": "A qual rei Salomão pediu madeira de cedro?",
       "answer": "A Hirão, rei de Tiro.",
-      "reference": "2Cr 2:3"
+      "reference": "2Cr 2:3",
+      "wrongs": [
+        "A Hirão, o artífice de bronze.",
+        "A Sisaque, rei do Egito.",
+        "A Ben-Hadade, rei da Síria."
+      ]
     },
     {
       "id": "2CH.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "Até que porto Hirão enviaria a madeira do Líbano?",
       "answer": "Até Jope.",
-      "reference": "2Cr 2:16"
+      "reference": "2Cr 2:16",
+      "wrongs": [
+        "Até Tiro.",
+        "Até Eziom-Geber.",
+        "Até Sidom."
+      ]
     },
     {
       "id": "2CH.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "Quantos carregadores Salomão separou para a obra?",
       "answer": "Setenta mil.",
-      "reference": "2Cr 2:2"
+      "reference": "2Cr 2:2",
+      "wrongs": [
+        "Oitenta mil.",
+        "Trinta mil.",
+        "Cinquenta mil."
+      ]
     },
     {
       "id": "2CH.3.subject.1",
@@ -78,7 +113,12 @@
       "kind": "subject",
       "prompt": "Onde Salomão começou a casa de Deus?",
       "answer": "Em Jerusalém, no monte Moriá, na eira de Ornã.",
-      "reference": "2Cr 3:1"
+      "reference": "2Cr 3:1",
+      "wrongs": [
+        "Em Gibeão, no lugar alto, junto ao tabernáculo.",
+        "Em Hebrom, na cidade antiga, na eira de Boaz.",
+        "Em Betel, no monte, na eira de Jacó."
+      ]
     },
     {
       "id": "2CH.3.curiosity.1",
@@ -88,7 +128,12 @@
       "kind": "curiosity",
       "prompt": "Qual era o comprimento da casa de Deus, em 2 Crônicas?",
       "answer": "Sessenta côvados.",
-      "reference": "2Cr 3:3"
+      "reference": "2Cr 3:3",
+      "wrongs": [
+        "Trinta côvados.",
+        "Cento e vinte côvados.",
+        "Vinte côvados."
+      ]
     },
     {
       "id": "2CH.3.curiosity.2",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "Que nomes Salomão deu às duas colunas?",
       "answer": "Jaquim e Boaz.",
-      "reference": "2Cr 3:17"
+      "reference": "2Cr 3:17",
+      "wrongs": [
+        "Sadraque e Mesaque.",
+        "Eliã e Hebrom.",
+        "Uzá e Ornã."
+      ]
     },
     {
       "id": "2CH.4.subject.1",
@@ -108,7 +158,12 @@
       "kind": "subject",
       "prompt": "Que peça redonda Salomão fundiu para o templo?",
       "answer": "Um grande tanque, de dez côvados de uma borda à outra.",
-      "reference": "2Cr 4:2"
+      "reference": "2Cr 4:2",
+      "wrongs": [
+        "Um altar de bronze, de vinte côvados de uma borda à outra.",
+        "Uma bacia pequena, de três côvados de uma borda à outra.",
+        "Um tanque de pedra, de quarenta côvados de uma borda à outra."
+      ]
     },
     {
       "id": "2CH.4.place.1",
@@ -118,7 +173,12 @@
       "kind": "place",
       "prompt": "Onde fundiram os utensílios de bronze, em 2 Crônicas?",
       "answer": "Nas planícies do Jordão, entre Sucote e Zeredá.",
-      "reference": "2Cr 4:17"
+      "reference": "2Cr 4:17",
+      "wrongs": [
+        "Nas planícies do Jordão, entre Jericó e Gilgal.",
+        "No vale de Hinom, entre Jerusalém e Belém.",
+        "Na planície de Sarom, entre Jope e Dor."
+      ]
     },
     {
       "id": "2CH.4.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Quantos bois sustentavam o tanque, em 2 Crônicas?",
       "answer": "Doze.",
-      "reference": "2Cr 4:4"
+      "reference": "2Cr 4:4",
+      "wrongs": [
+        "Dez.",
+        "Sete.",
+        "Quatro."
+      ]
     },
     {
       "id": "2CH.5.subject.1",
@@ -138,7 +203,12 @@
       "kind": "subject",
       "prompt": "Onde os sacerdotes colocaram a arca no templo de Salomão?",
       "answer": "No lugar santíssimo, debaixo das asas dos querubins.",
-      "reference": "2Cr 5:7"
+      "reference": "2Cr 5:7",
+      "wrongs": [
+        "No pátio, debaixo do altar de bronze.",
+        "Na tenda de Davi, debaixo de um véu de linho.",
+        "No pórtico, debaixo das duas colunas."
+      ]
     },
     {
       "id": "2CH.5.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "De onde trouxeram a arca até o templo, em 2 Crônicas?",
       "answer": "De Sião, a cidade de Davi.",
-      "reference": "2Cr 5:2"
+      "reference": "2Cr 5:2",
+      "wrongs": [
+        "De Gibeão, onde estava o tabernáculo.",
+        "De Siló, a casa antiga.",
+        "De Quiriate-Jearim, a casa de Abinadabe."
+      ]
     },
     {
       "id": "2CH.5.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "O que havia dentro da arca no templo de Salomão?",
       "answer": "Só as duas tábuas que Moisés tinha posto em Horebe.",
-      "reference": "2Cr 5:10"
+      "reference": "2Cr 5:10",
+      "wrongs": [
+        "As tábuas, o maná e a vara de Arão.",
+        "O livro da lei inteiro, enrolado.",
+        "Nada; a arca estava vazia."
+      ]
     },
     {
       "id": "2CH.5.curiosity.2",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "Por que os sacerdotes não conseguiam ficar ministrando, em 2 Crônicas?",
       "answer": "Porque a glória de Deus, numa nuvem, enchia a casa.",
-      "reference": "2Cr 5:14"
+      "reference": "2Cr 5:14",
+      "wrongs": [
+        "Porque o fogo do céu os expulsou da casa.",
+        "Porque a arca ainda não tinha chegado.",
+        "Porque Salomão fechou as portas da casa."
+      ]
     },
     {
       "id": "2CH.6.subject.1",
@@ -178,7 +263,12 @@
       "kind": "subject",
       "prompt": "O que Salomão pediu quando o povo orasse no templo?",
       "answer": "Que Deus ouvisse do céu e perdoasse.",
-      "reference": "2Cr 6:21"
+      "reference": "2Cr 6:21",
+      "wrongs": [
+        "Que Deus calasse o céu e castigasse.",
+        "Que o povo não precisasse mais orar.",
+        "Que a oração ficasse só com os sacerdotes."
+      ]
     },
     {
       "id": "2CH.6.place.1",
@@ -188,7 +278,12 @@
       "kind": "place",
       "prompt": "Qual cidade Deus escolheu para pôr o nome dele, em 2 Crônicas?",
       "answer": "Jerusalém.",
-      "reference": "2Cr 6:6"
+      "reference": "2Cr 6:6",
+      "wrongs": [
+        "Samaria.",
+        "Gibeão.",
+        "Hebrom."
+      ]
     },
     {
       "id": "2CH.6.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Como Salomão orou diante de Israel?",
       "answer": "De joelhos, sobre uma plataforma de bronze, com as mãos ao céu.",
-      "reference": "2Cr 6:13"
+      "reference": "2Cr 6:13",
+      "wrongs": [
+        "De pé, sobre o altar de pedra, com o rosto no chão.",
+        "Sentado no trono, com as mãos fechadas.",
+        "De bruços, fora do templo, sem dizer palavra."
+      ]
     },
     {
       "id": "2CH.7.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "O que desceu do céu quando Salomão terminou a oração?",
       "answer": "Fogo, que consumiu o sacrifício, e a glória encheu a casa.",
-      "reference": "2Cr 7:1"
+      "reference": "2Cr 7:1",
+      "wrongs": [
+        "Chuva, que apagou o sacrifício, e a nuvem saiu da casa.",
+        "Um anjo, que levou o sacrifício, e o povo ficou em silêncio.",
+        "Vento, que espalhou o sacrifício, e a glória se retirou."
+      ]
     },
     {
       "id": "2CH.7.place.1",
@@ -218,7 +323,12 @@
       "kind": "place",
       "prompt": "De onde até onde veio Israel para a festa da dedicação?",
       "answer": "Da fronteira de Hamate até o riacho do Egito.",
-      "reference": "2Cr 7:8"
+      "reference": "2Cr 7:8",
+      "wrongs": [
+        "De Dã até Berseba, sem passar do Jordão.",
+        "Do Eufrates até o Nilo, com todas as nações.",
+        "De Jope até Eziom-Geber, só no litoral."
+      ]
     },
     {
       "id": "2CH.7.curiosity.1",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "Quantos bois e ovelhas Salomão ofereceu na dedicação?",
       "answer": "Vinte e dois mil bois, mais cento e vinte mil ovelhas.",
-      "reference": "2Cr 7:5"
+      "reference": "2Cr 7:5",
+      "wrongs": [
+        "Mil bois, mais mil ovelhas.",
+        "Sete mil bois, mais sete mil ovelhas.",
+        "Cem bois, mais duzentas ovelhas."
+      ]
     },
     {
       "id": "2CH.7.curiosity.2",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus faria se o povo se humilhasse, orasse e mudasse de caminho, em 2 Crônicas?",
       "answer": "Ouviria, perdoaria e curaria a terra.",
-      "reference": "2Cr 7:14"
+      "reference": "2Cr 7:14",
+      "wrongs": [
+        "Calaria, esqueceria e deixaria a terra.",
+        "Ouviria, mas não perdoaria a terra.",
+        "Mandaria fogo e acabaria com a terra."
+      ]
     },
     {
       "id": "2CH.8.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "Que trabalho Salomão não deu aos filhos de Israel?",
       "answer": "Não os pôs como escravos na obra; ficaram na guerra e no comando.",
-      "reference": "2Cr 8:9"
+      "reference": "2Cr 8:9",
+      "wrongs": [
+        "Não os pôs na guerra; ficaram só como escravos na obra.",
+        "Não os deixou em Jerusalém; mandou todos para Tiro.",
+        "Não lhes deu comando; ficaram cortando pedra a vida toda."
+      ]
     },
     {
       "id": "2CH.8.place.1",
@@ -258,7 +383,12 @@
       "kind": "place",
       "prompt": "A que costa Salomão foi, na terra de Edom?",
       "answer": "Eziom-Geber e Elote, no litoral.",
-      "reference": "2Cr 8:17"
+      "reference": "2Cr 8:17",
+      "wrongs": [
+        "Jope e Dor, no litoral.",
+        "Tiro e Sidom, no litoral.",
+        "Gaza e Asdode, no litoral."
+      ]
     },
     {
       "id": "2CH.8.curiosity.1",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "Quanto ouro os navios trouxeram de Ofir, no relato de Crônicas?",
       "answer": "Quatrocentos e cinquenta talentos.",
-      "reference": "2Cr 8:18"
+      "reference": "2Cr 8:18",
+      "wrongs": [
+        "Quatrocentos e vinte talentos.",
+        "Trezentos talentos.",
+        "Seiscentos e sessenta e seis talentos."
+      ]
     },
     {
       "id": "2CH.9.subject.1",
@@ -278,7 +413,12 @@
       "kind": "subject",
       "prompt": "Por que a rainha de Sabá foi falar com Salomão?",
       "answer": "Para testá-lo com perguntas difíceis.",
-      "reference": "2Cr 9:1"
+      "reference": "2Cr 9:1",
+      "wrongs": [
+        "Para fugir de uma guerra e pedir abrigo.",
+        "Para cobrar um tributo antigo de Israel.",
+        "Para levar o trono dele para Sabá."
+      ]
     },
     {
       "id": "2CH.9.place.1",
@@ -288,7 +428,12 @@
       "kind": "place",
       "prompt": "A que cidade a rainha de Sabá chegou com a comitiva?",
       "answer": "A Jerusalém.",
-      "reference": "2Cr 9:1"
+      "reference": "2Cr 9:1",
+      "wrongs": [
+        "A Samaria.",
+        "A Tiro.",
+        "A Hebrom."
+      ]
     },
     {
       "id": "2CH.9.curiosity.1",
@@ -298,7 +443,12 @@
       "kind": "curiosity",
       "prompt": "Quanto ouro chegava a Salomão a cada ano?",
       "answer": "Seiscentos e sessenta e seis talentos.",
-      "reference": "2Cr 9:13"
+      "reference": "2Cr 9:13",
+      "wrongs": [
+        "Quatrocentos e cinquenta talentos.",
+        "Duzentos talentos.",
+        "Mil talentos."
+      ]
     },
     {
       "id": "2CH.9.curiosity.2",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "Quantos anos Salomão reinou em Jerusalém?",
       "answer": "Quarenta anos.",
-      "reference": "2Cr 9:30"
+      "reference": "2Cr 9:30",
+      "wrongs": [
+        "Vinte anos.",
+        "Sete anos.",
+        "Oitenta anos."
+      ]
     },
     {
       "id": "2CH.10.subject.1",
@@ -318,7 +473,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu entre Israel e a casa de Davi?",
       "answer": "Israel rompeu com essa família, e a separação permaneceu.",
-      "reference": "2Cr 10:19"
+      "reference": "2Cr 10:19",
+      "wrongs": [
+        "Israel se uniu de novo a essa família, e a paz permaneceu.",
+        "Israel mudou essa família para Samaria, e o culto permaneceu.",
+        "Israel serviu essa família em silêncio, e o tributo permaneceu."
+      ]
     },
     {
       "id": "2CH.10.place.1",
@@ -328,7 +488,12 @@
       "kind": "place",
       "prompt": "Onde o povo se reuniu para fazer Roboão rei?",
       "answer": "Em Siquém.",
-      "reference": "2Cr 10:1"
+      "reference": "2Cr 10:1",
+      "wrongs": [
+        "Em Hebrom.",
+        "Em Jerusalém.",
+        "Em Samaria."
+      ]
     },
     {
       "id": "2CH.10.curiosity.1",
@@ -338,7 +503,12 @@
       "kind": "curiosity",
       "prompt": "Como Roboão ameaçou castigar o povo?",
       "answer": "Pior que o pai: com escorpiões, não só com açoites.",
-      "reference": "2Cr 10:14"
+      "reference": "2Cr 10:14",
+      "wrongs": [
+        "Mais leve que o pai: só com palavras, sem açoites.",
+        "Igual ao pai: com o mesmo jugo, sem novidade.",
+        "Pior que o pai: com fogo, não só com a espada."
+      ]
     },
     {
       "id": "2CH.11.subject.1",
@@ -348,7 +518,12 @@
       "kind": "subject",
       "prompt": "O que Deus mandou a Roboão sobre a guerra com Jeroboão?",
       "answer": "Não lutar contra os irmãos e cada um voltar para casa.",
-      "reference": "2Cr 11:4"
+      "reference": "2Cr 11:4",
+      "wrongs": [
+        "Subir logo contra os irmãos e não voltar sem vitória.",
+        "Pedir ajuda ao Egito e cercar Samaria.",
+        "Dividir o exército e atacar de noite."
+      ]
     },
     {
       "id": "2CH.11.place.1",
@@ -358,7 +533,12 @@
       "kind": "place",
       "prompt": "Onde Roboão morou e levantou fortalezas?",
       "answer": "Em Jerusalém, e fortificou cidades de Judá.",
-      "reference": "2Cr 11:5"
+      "reference": "2Cr 11:5",
+      "wrongs": [
+        "Em Siquém, e fortificou cidades de Efraim.",
+        "Em Samaria, e fortificou cidades de Israel.",
+        "Em Laquis, e deixou Jerusalém sem muros."
+      ]
     },
     {
       "id": "2CH.11.curiosity.1",
@@ -368,7 +548,12 @@
       "kind": "curiosity",
       "prompt": "Por quantos anos Judá seguiu o exemplo de Davi e o de Salomão?",
       "answer": "Três anos.",
-      "reference": "2Cr 11:17"
+      "reference": "2Cr 11:17",
+      "wrongs": [
+        "Quarenta anos.",
+        "Um ano.",
+        "Vinte anos."
+      ]
     },
     {
       "id": "2CH.12.subject.1",
@@ -378,7 +563,12 @@
       "kind": "subject",
       "prompt": "O que Sisaque levou de Jerusalém?",
       "answer": "Os tesouros do templo e do palácio, e os escudos de ouro.",
-      "reference": "2Cr 12:9"
+      "reference": "2Cr 12:9",
+      "wrongs": [
+        "Só a arca da aliança, e deixou o resto.",
+        "Os tesouros, mas devolveu os escudos de ouro.",
+        "Nada, porque a cidade não se rendeu."
+      ]
     },
     {
       "id": "2CH.12.name.1",
@@ -388,7 +578,12 @@
       "kind": "name",
       "prompt": "Quem subiu contra Jerusalém no quinto ano de Roboão?",
       "answer": "Sisaque, rei do Egito.",
-      "reference": "2Cr 12:2"
+      "reference": "2Cr 12:2",
+      "wrongs": [
+        "Senaqueribe, rei da Assíria.",
+        "Nabucodonosor, rei da Babilônia.",
+        "Ben-Hadade, rei da Síria."
+      ]
     },
     {
       "id": "2CH.12.curiosity.1",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "O que Roboão fez no lugar dos escudos de ouro?",
       "answer": "Escudos de bronze.",
-      "reference": "2Cr 12:10"
+      "reference": "2Cr 12:10",
+      "wrongs": [
+        "Escudos de ferro.",
+        "Escudos de prata.",
+        "Escudos de ouro de novo."
+      ]
     },
     {
       "id": "2CH.12.curiosity.2",
@@ -408,7 +608,12 @@
       "kind": "curiosity",
       "prompt": "Por que Jerusalém não foi destruída por Sisaque?",
       "answer": "Porque o rei e os chefes se humilharam.",
-      "reference": "2Cr 12:7"
+      "reference": "2Cr 12:7",
+      "wrongs": [
+        "Porque o exército egípcio ficou sem água.",
+        "Porque Roboão venceu Sisaque no campo.",
+        "Porque Deus não tinha visto o pecado deles."
+      ]
     },
     {
       "id": "2CH.13.subject.1",
@@ -418,7 +623,12 @@
       "kind": "subject",
       "prompt": "Quem perdeu quando Judá clamou na batalha de Abias?",
       "answer": "Jeroboão e o povo de Israel.",
-      "reference": "2Cr 13:15"
+      "reference": "2Cr 13:15",
+      "wrongs": [
+        "Abias e o povo de Judá.",
+        "Os dois lados, sem restar ninguém.",
+        "Só os sacerdotes que tocavam as trombetas."
+      ]
     },
     {
       "id": "2CH.13.place.1",
@@ -428,7 +638,12 @@
       "kind": "place",
       "prompt": "De onde Abias falou a Jeroboão?",
       "answer": "Do monte de Zemaraim.",
-      "reference": "2Cr 13:4"
+      "reference": "2Cr 13:4",
+      "wrongs": [
+        "Do monte Carmelo.",
+        "Do monte Sião.",
+        "Do monte Gerizim."
+      ]
     },
     {
       "id": "2CH.13.curiosity.1",
@@ -438,7 +653,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens escolhidos de Israel caíram diante de Abias?",
       "answer": "Quinhentos mil.",
-      "reference": "2Cr 13:17"
+      "reference": "2Cr 13:17",
+      "wrongs": [
+        "Cinquenta mil.",
+        "Cinco mil.",
+        "Um milhão."
+      ]
     },
     {
       "id": "2CH.14.subject.1",
@@ -448,7 +668,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu aos etíopes diante de Asa?",
       "answer": "Foram vencidos e fugiram.",
-      "reference": "2Cr 14:12"
+      "reference": "2Cr 14:12",
+      "wrongs": [
+        "Venceram e tomaram Jerusalém.",
+        "Fizeram paz e ficaram em Judá.",
+        "Recuaram sem luta e sem perda."
+      ]
     },
     {
       "id": "2CH.14.place.1",
@@ -458,7 +683,12 @@
       "kind": "place",
       "prompt": "Onde Asa enfrentou Zerá?",
       "answer": "No vale de Zefatá, perto de Maressa.",
-      "reference": "2Cr 14:10"
+      "reference": "2Cr 14:10",
+      "wrongs": [
+        "No vale de Refaim, perto de Jerusalém.",
+        "No vale de Ela, perto de Socó.",
+        "No vale das salinas, perto de Edom."
+      ]
     },
     {
       "id": "2CH.14.curiosity.1",
@@ -468,7 +698,12 @@
       "kind": "curiosity",
       "prompt": "Quão grande era o exército de Zerá?",
       "answer": "Um milhão de homens e trezentos carros.",
-      "reference": "2Cr 14:9"
+      "reference": "2Cr 14:9",
+      "wrongs": [
+        "Cem mil homens e trinta carros.",
+        "Dez mil homens e cem carros.",
+        "Três milhões de homens e mil carros."
+      ]
     },
     {
       "id": "2CH.15.subject.1",
@@ -478,7 +713,12 @@
       "kind": "subject",
       "prompt": "O que Judá jurou na assembleia de Asa?",
       "answer": "Buscar o Deus dos pais com coração e alma por inteiro.",
-      "reference": "2Cr 15:12"
+      "reference": "2Cr 15:12",
+      "wrongs": [
+        "Servir aos baalins com coração e alma por inteiro.",
+        "Não voltar mais ao templo em Jerusalém.",
+        "Pagar tributo a Zerá todos os anos."
+      ]
     },
     {
       "id": "2CH.15.name.1",
@@ -488,7 +728,12 @@
       "kind": "name",
       "prompt": "Qual profeta foi ao encontro de Asa?",
       "answer": "Azarias, filho de Obede.",
-      "reference": "2Cr 15:1"
+      "reference": "2Cr 15:1",
+      "wrongs": [
+        "Hanani, o vidente.",
+        "Micaías, filho de Inlá.",
+        "Natã, o profeta."
+      ]
     },
     {
       "id": "2CH.15.place.1",
@@ -498,7 +743,12 @@
       "kind": "place",
       "prompt": "Onde Asa queimou o ídolo de Maaca?",
       "answer": "No ribeiro de Cedrom.",
-      "reference": "2Cr 15:16"
+      "reference": "2Cr 15:16",
+      "wrongs": [
+        "No vale de Hinom.",
+        "No monte das Oliveiras.",
+        "No ribeiro de Querite."
+      ]
     },
     {
       "id": "2CH.15.curiosity.1",
@@ -508,7 +758,12 @@
       "kind": "curiosity",
       "prompt": "O que Asa fez com Maaca, a mãe dele?",
       "answer": "Tirou-a do posto, porque ela tinha feito um ídolo.",
-      "reference": "2Cr 15:16"
+      "reference": "2Cr 15:16",
+      "wrongs": [
+        "Deixou-a no posto, porque ela tinha feito um ídolo.",
+        "Coroou-a rainha, porque ela tinha quebrado o ídolo.",
+        "Mandou-a para o Egito, sem tirar o posto."
+      ]
     },
     {
       "id": "2CH.16.subject.1",
@@ -518,7 +773,12 @@
       "kind": "subject",
       "prompt": "O que Hanani repreendeu em Asa?",
       "answer": "Ter se apoiado no rei da Síria, e não em Deus.",
-      "reference": "2Cr 16:7"
+      "reference": "2Cr 16:7",
+      "wrongs": [
+        "Ter se apoiado em Deus, e não no rei da Síria.",
+        "Ter derrubado os lugares altos de Judá.",
+        "Ter recusado ouro ao rei da Assíria."
+      ]
     },
     {
       "id": "2CH.16.place.1",
@@ -528,7 +788,12 @@
       "kind": "place",
       "prompt": "Que cidade Baasa começou a fortificar contra Asa?",
       "answer": "Ramá.",
-      "reference": "2Cr 16:1"
+      "reference": "2Cr 16:1",
+      "wrongs": [
+        "Gibeão.",
+        "Mispa.",
+        "Laquis."
+      ]
     },
     {
       "id": "2CH.16.curiosity.1",
@@ -538,7 +803,12 @@
       "kind": "curiosity",
       "prompt": "A quem Asa buscou quando os pés adoeceram?",
       "answer": "Aos médicos, e não a Deus.",
-      "reference": "2Cr 16:12"
+      "reference": "2Cr 16:12",
+      "wrongs": [
+        "A Deus, e não aos médicos.",
+        "Ao rei da Síria, e não aos médicos.",
+        "Aos profetas, e não aos médicos."
+      ]
     },
     {
       "id": "2CH.17.subject.1",
@@ -548,7 +818,12 @@
       "kind": "subject",
       "prompt": "O que os enviados de Josafá fizeram nas cidades de Judá?",
       "answer": "Ensinaram o povo, levando o livro da lei.",
-      "reference": "2Cr 17:9"
+      "reference": "2Cr 17:9",
+      "wrongs": [
+        "Cobraram tributo, levando a lista dos soldados.",
+        "Derrubaram altares, levando só machados.",
+        "Recrutaram crianças, levando-as para Jerusalém."
+      ]
     },
     {
       "id": "2CH.17.curiosity.1",
@@ -558,7 +833,12 @@
       "kind": "curiosity",
       "prompt": "O que caiu sobre os reinos vizinhos de Judá?",
       "answer": "Medo de Deus, e ninguém ousou atacar Josafá.",
-      "reference": "2Cr 17:10"
+      "reference": "2Cr 17:10",
+      "wrongs": [
+        "Fome longa, e todos pediram trigo a Josafá.",
+        "Coragem de guerra, e todos atacaram Josafá.",
+        "Aliança com Baal, e todos serviram Josafá."
+      ]
     },
     {
       "id": "2CH.17.curiosity.2",
@@ -568,7 +848,12 @@
       "kind": "curiosity",
       "prompt": "Por que Deus estava com Josafá no começo?",
       "answer": "Porque ele andou nos caminhos de Davi e não buscou os baalins.",
-      "reference": "2Cr 17:3"
+      "reference": "2Cr 17:3",
+      "wrongs": [
+        "Porque ele andou nos caminhos de Acabe e buscou os baalins.",
+        "Porque ele pagou ouro a todos os vizinhos.",
+        "Porque ele recusou o livro da lei."
+      ]
     },
     {
       "id": "2CH.18.subject.1",
@@ -579,7 +864,12 @@
       "kind": "subject",
       "prompt": "O que houve com Acabe em Ramote de Gileade?",
       "answer": "Uma flecha o feriu, e ele morreu ao fim do dia.",
-      "reference": "2Cr 18:33-34"
+      "reference": "2Cr 18:33-34",
+      "wrongs": [
+        "Uma lança o derrubou, e ele morreu na hora.",
+        "Nenhuma arma o tocou, e ele voltou são.",
+        "Uma pedra o feriu, e ele morreu em Samaria na mesma hora."
+      ]
     },
     {
       "id": "2CH.18.name.1",
@@ -589,7 +879,12 @@
       "kind": "name",
       "prompt": "Qual profeta Acabe não suportava ouvir?",
       "answer": "Micaías, filho de Inlá.",
-      "reference": "2Cr 18:7"
+      "reference": "2Cr 18:7",
+      "wrongs": [
+        "Elias, o tisbita.",
+        "Eliseu, filho de Safate.",
+        "Natã, profeta de Davi."
+      ]
     },
     {
       "id": "2CH.18.place.1",
@@ -599,7 +894,12 @@
       "kind": "place",
       "prompt": "Para onde Acabe quis levar Josafá à guerra?",
       "answer": "A Ramote de Gileade.",
-      "reference": "2Cr 18:2"
+      "reference": "2Cr 18:2",
+      "wrongs": [
+        "A Ramá de Benjamim.",
+        "A Rabá dos amonitas.",
+        "A Damasco."
+      ]
     },
     {
       "id": "2CH.18.curiosity.1",
@@ -609,7 +909,12 @@
       "kind": "curiosity",
       "prompt": "Como Acabe entrou na batalha?",
       "answer": "Disfarçado, enquanto Josafá ficou com a própria roupa.",
-      "reference": "2Cr 18:29"
+      "reference": "2Cr 18:29",
+      "wrongs": [
+        "Com a própria roupa, enquanto Josafá foi disfarçado.",
+        "Os dois disfarçados, com a mesma armadura.",
+        "Sem armadura, à frente de Josafá."
+      ]
     },
     {
       "id": "2CH.19.subject.1",
@@ -619,7 +924,12 @@
       "kind": "subject",
       "prompt": "Quem Josafá nomeou nas cidades fortes de Judá?",
       "answer": "Juízes.",
-      "reference": "2Cr 19:5"
+      "reference": "2Cr 19:5",
+      "wrongs": [
+        "Generais.",
+        "Cobradores.",
+        "Reis."
+      ]
     },
     {
       "id": "2CH.19.place.1",
@@ -629,7 +939,12 @@
       "kind": "place",
       "prompt": "De onde até onde Josafá levou o povo de volta a Deus?",
       "answer": "De Berseba à região montanhosa de Efraim.",
-      "reference": "2Cr 19:4"
+      "reference": "2Cr 19:4",
+      "wrongs": [
+        "De Dã até Berseba, sem sair de Judá.",
+        "Do Nilo até o Eufrates.",
+        "De Jope até Eziom-Geber."
+      ]
     },
     {
       "id": "2CH.19.curiosity.1",
@@ -639,7 +954,12 @@
       "kind": "curiosity",
       "prompt": "O que Josafá disse que não existe em Deus?",
       "answer": "Injustiça, favoritismo e suborno.",
-      "reference": "2Cr 19:7"
+      "reference": "2Cr 19:7",
+      "wrongs": [
+        "Misericórdia, perdão e paciência.",
+        "Justiça, verdade e firmeza.",
+        "Amor, aliança e promessa."
+      ]
     },
     {
       "id": "2CH.20.subject.1",
@@ -649,7 +969,12 @@
       "kind": "subject",
       "prompt": "O que houve quando Judá começou a louvar?",
       "answer": "Os inimigos se atacaram uns aos outros e morreram.",
-      "reference": "2Cr 20:22"
+      "reference": "2Cr 20:22",
+      "wrongs": [
+        "Os inimigos venceram Judá e tomaram Jerusalém.",
+        "Os inimigos fugiram sem luta e sem morte.",
+        "O louvor parou e o exército recuou."
+      ]
     },
     {
       "id": "2CH.20.place.1",
@@ -659,7 +984,12 @@
       "kind": "place",
       "prompt": "Como ficou chamado o vale onde bendisseram a Deus, em 2 Crônicas?",
       "answer": "Vale de Beraca.",
-      "reference": "2Cr 20:26"
+      "reference": "2Cr 20:26",
+      "wrongs": [
+        "Vale de Hinom.",
+        "Vale de Refaim.",
+        "Vale de Sidim."
+      ]
     },
     {
       "id": "2CH.20.curiosity.1",
@@ -669,7 +999,12 @@
       "kind": "curiosity",
       "prompt": "Por quantos dias recolheram o despojo na vitória de Josafá?",
       "answer": "Três dias, de tão grande que era.",
-      "reference": "2Cr 20:25"
+      "reference": "2Cr 20:25",
+      "wrongs": [
+        "Um dia, porque era pouco.",
+        "Sete dias, e ainda sobrou.",
+        "Quarenta dias, no deserto."
+      ]
     },
     {
       "id": "2CH.21.subject.1",
@@ -679,7 +1014,12 @@
       "kind": "subject",
       "prompt": "O que Jeorão fez com os irmãos ao se firmar no trono?",
       "answer": "Matou todos eles.",
-      "reference": "2Cr 21:4"
+      "reference": "2Cr 21:4",
+      "wrongs": [
+        "Deu a cada um uma cidade.",
+        "Pôs todos como sacerdotes.",
+        "Mandou todos para o Egito, vivos."
+      ]
     },
     {
       "id": "2CH.21.place.1",
@@ -689,7 +1029,12 @@
       "kind": "place",
       "prompt": "Onde Jeorão foi sepultado?",
       "answer": "Na cidade de Davi, fora dos túmulos reais.",
-      "reference": "2Cr 21:20"
+      "reference": "2Cr 21:20",
+      "wrongs": [
+        "Nos túmulos reais, com honra de rei.",
+        "No jardim de Uzá, fora da cidade.",
+        "Em Samaria, com os reis de Israel."
+      ]
     },
     {
       "id": "2CH.21.curiosity.1",
@@ -699,7 +1044,12 @@
       "kind": "curiosity",
       "prompt": "Como Deus feriu Jeorão no fim?",
       "answer": "Com uma doença sem cura nas entranhas.",
-      "reference": "2Cr 21:18"
+      "reference": "2Cr 21:18",
+      "wrongs": [
+        "Com lepra na testa, até a morte.",
+        "Com cegueira, no caminho de Ribla.",
+        "Com uma ferida de flecha, na batalha."
+      ]
     },
     {
       "id": "2CH.22.subject.1",
@@ -709,7 +1059,12 @@
       "kind": "subject",
       "prompt": "O que Atalia fez ao ver o filho morto?",
       "answer": "Matou a descendência real de Judá.",
-      "reference": "2Cr 22:10"
+      "reference": "2Cr 22:10",
+      "wrongs": [
+        "Coroou o neto e se retirou.",
+        "Entregou o trono aos sacerdotes.",
+        "Fugiu para Sidom e deixou Judá."
+      ]
     },
     {
       "id": "2CH.22.name.1",
@@ -719,7 +1074,12 @@
       "kind": "name",
       "prompt": "Quem escondeu o menino Joás de Atalia?",
       "answer": "Jeosebate, filha do rei.",
-      "reference": "2Cr 22:11"
+      "reference": "2Cr 22:11",
+      "wrongs": [
+        "Atalia, mãe do rei.",
+        "Jezabel, filha de Etbaal.",
+        "Hulda, a profetisa."
+      ]
     },
     {
       "id": "2CH.22.curiosity.1",
@@ -729,7 +1089,12 @@
       "kind": "curiosity",
       "prompt": "Por quanto tempo Joás ficou escondido na casa de Deus?",
       "answer": "Seis anos, enquanto Atalia reinava.",
-      "reference": "2Cr 22:12"
+      "reference": "2Cr 22:12",
+      "wrongs": [
+        "Três anos, enquanto Jezabel reinava.",
+        "Doze anos, enquanto Atalia reinava.",
+        "Um ano, enquanto Joiada reinava."
+      ]
     },
     {
       "id": "2CH.23.subject.1",
@@ -739,7 +1104,12 @@
       "kind": "subject",
       "prompt": "O que fizeram com o menino Joás na casa de Deus?",
       "answer": "Puseram-lhe a coroa, ungiram-no e o aclamaram rei.",
-      "reference": "2Cr 23:11"
+      "reference": "2Cr 23:11",
+      "wrongs": [
+        "Esconderam-no de novo, sem coroa e sem aclamação.",
+        "Entregaram-no a Atalia, e ela o poupou.",
+        "Fizeram-no sacerdote, sem ungir rei."
+      ]
     },
     {
       "id": "2CH.23.place.1",
@@ -749,7 +1119,12 @@
       "kind": "place",
       "prompt": "Onde mataram Atalia?",
       "answer": "Na porta dos cavalos, fora da casa de Deus.",
-      "reference": "2Cr 23:15"
+      "reference": "2Cr 23:15",
+      "wrongs": [
+        "No altar de bronze, dentro da casa de Deus.",
+        "No quarto das camas, com o menino.",
+        "Na porta de Samaria, longe de Jerusalém."
+      ]
     },
     {
       "id": "2CH.23.curiosity.1",
@@ -759,7 +1134,12 @@
       "kind": "curiosity",
       "prompt": "O que o povo fez com o templo de Baal ao coroar Joás?",
       "answer": "Derrubou-o, quebrou as imagens e matou o sacerdote Matã.",
-      "reference": "2Cr 23:17"
+      "reference": "2Cr 23:17",
+      "wrongs": [
+        "Reformou-o, guardou as imagens e honrou o sacerdote Matã.",
+        "Vendeu-o, levou as imagens para Tiro e soltou Matã.",
+        "Fechou-o por um dia e deixou Matã no posto."
+      ]
     },
     {
       "id": "2CH.24.subject.1",
@@ -769,7 +1149,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu com a casa de Deus no tempo de Joás?",
       "answer": "Foi consertada e ficou firme de novo.",
-      "reference": "2Cr 24:13"
+      "reference": "2Cr 24:13",
+      "wrongs": [
+        "Foi queimada e não sobrou pedra.",
+        "Foi abandonada e ninguém a tocou.",
+        "Foi entregue a Baal e perdeu o altar."
+      ]
     },
     {
       "id": "2CH.24.name.1",
@@ -779,7 +1164,12 @@
       "kind": "name",
       "prompt": "Quem avisou o povo que Deus os deixaria se o deixassem, em 2 Crônicas?",
       "answer": "Zacarias, filho de Joiada.",
-      "reference": "2Cr 24:20"
+      "reference": "2Cr 24:20",
+      "wrongs": [
+        "Joiada, o sacerdote velho.",
+        "Hulda, a profetisa.",
+        "Isaías, filho de Amós."
+      ]
     },
     {
       "id": "2CH.24.curiosity.1",
@@ -789,7 +1179,12 @@
       "kind": "curiosity",
       "prompt": "Quantos anos Joiada tinha ao morrer?",
       "answer": "Cento e trinta.",
-      "reference": "2Cr 24:15"
+      "reference": "2Cr 24:15",
+      "wrongs": [
+        "Cem.",
+        "Oitenta.",
+        "Cento e vinte."
+      ]
     },
     {
       "id": "2CH.24.curiosity.2",
@@ -800,7 +1195,12 @@
       "kind": "curiosity",
       "prompt": "Como morreu Zacarias, filho de Joiada?",
       "answer": "Foi apedrejado no pátio do templo, por ordem do rei.",
-      "reference": "2Cr 24:20-21"
+      "reference": "2Cr 24:20-21",
+      "wrongs": [
+        "Morreu de velhice no quarto, longe do templo.",
+        "Caiu na batalha, sem ordem do rei.",
+        "Foi queimado no vale, por ordem do povo."
+      ]
     },
     {
       "id": "2CH.25.subject.1",
@@ -810,7 +1210,12 @@
       "kind": "subject",
       "prompt": "O que Amazias fez com os deuses de Seir depois da vitória?",
       "answer": "Passou a adorá-los e queimou incenso para eles.",
-      "reference": "2Cr 25:14"
+      "reference": "2Cr 25:14",
+      "wrongs": [
+        "Queimou-os no fogo e não os adorou.",
+        "Devolveu-os a Seir, sem incenso.",
+        "Enterrou-os e voltou ao Deus de Israel."
+      ]
     },
     {
       "id": "2CH.25.place.1",
@@ -820,7 +1225,12 @@
       "kind": "place",
       "prompt": "Onde Joás de Israel enfrentou Amazias?",
       "answer": "Em Bete-Semes.",
-      "reference": "2Cr 25:21"
+      "reference": "2Cr 25:21",
+      "wrongs": [
+        "Em Betel.",
+        "Em Megido.",
+        "Em Ramote de Gileade."
+      ]
     },
     {
       "id": "2CH.25.curiosity.1",
@@ -830,7 +1240,12 @@
       "kind": "curiosity",
       "prompt": "O que Judá fez com dez mil prisioneiros de Seir?",
       "answer": "Atirou-os de um penhasco, e todos se despedaçaram.",
-      "reference": "2Cr 25:12"
+      "reference": "2Cr 25:12",
+      "wrongs": [
+        "Soltou-os no caminho, e todos voltaram para casa.",
+        "Vendeu-os como escravos, e nenhum morreu.",
+        "Pôs-os no exército, e todos ficaram em Judá."
+      ]
     },
     {
       "id": "2CH.26.subject.1",
@@ -840,7 +1255,12 @@
       "kind": "subject",
       "prompt": "O que Uzias fez quando o poder subiu à cabeça?",
       "answer": "Entrou no templo para oferecer incenso.",
-      "reference": "2Cr 26:16"
+      "reference": "2Cr 26:16",
+      "wrongs": [
+        "Saiu do templo e deixou o incenso aos sacerdotes.",
+        "Derrubou o altar e proibiu o incenso.",
+        "Foi para o deserto e recusou o reino."
+      ]
     },
     {
       "id": "2CH.26.curiosity.1",
@@ -850,7 +1270,12 @@
       "kind": "curiosity",
       "prompt": "O que apareceu na testa de Uzias ali mesmo?",
       "answer": "Lepra.",
-      "reference": "2Cr 26:19"
+      "reference": "2Cr 26:19",
+      "wrongs": [
+        "Cegueira.",
+        "Febre.",
+        "Ferida."
+      ]
     },
     {
       "id": "2CH.26.curiosity.2",
@@ -860,7 +1285,12 @@
       "kind": "curiosity",
       "prompt": "Até quando Uzias viveu com lepra?",
       "answer": "Até morrer, numa casa separada.",
-      "reference": "2Cr 26:21"
+      "reference": "2Cr 26:21",
+      "wrongs": [
+        "Só por sete dias, e ficou curado.",
+        "Até o próximo ano, no palácio real.",
+        "Até o sacerdote orar, e a pele se renovou."
+      ]
     },
     {
       "id": "2CH.27.subject.1",
@@ -870,7 +1300,12 @@
       "kind": "subject",
       "prompt": "Por que Jotão se fortaleceu?",
       "answer": "Porque endireitou a conduta diante de Deus.",
-      "reference": "2Cr 27:6"
+      "reference": "2Cr 27:6",
+      "wrongs": [
+        "Porque comprou a ajuda da Assíria.",
+        "Porque copiou o altar de Damasco.",
+        "Porque entrou no templo para queimar incenso."
+      ]
     },
     {
       "id": "2CH.27.place.1",
@@ -880,7 +1315,12 @@
       "kind": "place",
       "prompt": "O que Jotão construiu na casa de Deus?",
       "answer": "A porta maior e muito do muro da fortaleza.",
-      "reference": "2Cr 27:3"
+      "reference": "2Cr 27:3",
+      "wrongs": [
+        "Um bezerro de ouro e um altar novo.",
+        "A arca e os querubins de ouro.",
+        "Nada; só consertou o palácio."
+      ]
     },
     {
       "id": "2CH.27.curiosity.1",
@@ -890,7 +1330,12 @@
       "kind": "curiosity",
       "prompt": "O que os amonitas pagaram a Jotão depois da vitória?",
       "answer": "Cem talentos de prata, além de trigo e cevada.",
-      "reference": "2Cr 27:5"
+      "reference": "2Cr 27:5",
+      "wrongs": [
+        "Mil talentos de ouro, além de cavalos e carros.",
+        "Dez talentos de bronze, além de vinho e azeite.",
+        "Nada, porque Jotão perdeu a guerra."
+      ]
     },
     {
       "id": "2CH.28.subject.1",
@@ -900,7 +1345,12 @@
       "kind": "subject",
       "prompt": "O que Acaz fez com os filhos no vale de Hinom?",
       "answer": "Queimou-os no fogo, como as nações faziam.",
-      "reference": "2Cr 28:3"
+      "reference": "2Cr 28:3",
+      "wrongs": [
+        "Entregou-os a Joiada, para o serviço do templo.",
+        "Mandou-os ao Egito, para ficarem a salvo.",
+        "Coroou-os em Jerusalém, sem fogo."
+      ]
     },
     {
       "id": "2CH.28.name.1",
@@ -911,7 +1361,12 @@
       "kind": "name",
       "prompt": "Quem mandou Israel devolver os cativos de Judá?",
       "answer": "O profeta Obede.",
-      "reference": "2Cr 28:9-11"
+      "reference": "2Cr 28:9-11",
+      "wrongs": [
+        "O profeta Elias.",
+        "O rei Acaz.",
+        "O sacerdote Urias."
+      ]
     },
     {
       "id": "2CH.28.place.1",
@@ -921,7 +1376,12 @@
       "kind": "place",
       "prompt": "Para onde os sírios levaram a presa tomada de Acaz?",
       "answer": "Para Damasco.",
-      "reference": "2Cr 28:5"
+      "reference": "2Cr 28:5",
+      "wrongs": [
+        "Para Nínive.",
+        "Para a Babilônia.",
+        "Para Samaria."
+      ]
     },
     {
       "id": "2CH.28.curiosity.1",
@@ -931,7 +1391,12 @@
       "kind": "curiosity",
       "prompt": "Quantos valentes de Judá Peca matou num só dia?",
       "answer": "Cento e vinte mil.",
-      "reference": "2Cr 28:6"
+      "reference": "2Cr 28:6",
+      "wrongs": [
+        "Dez mil.",
+        "Cinquenta mil.",
+        "Duzentos mil."
+      ]
     },
     {
       "id": "2CH.29.subject.1",
@@ -941,7 +1406,12 @@
       "kind": "subject",
       "prompt": "O que Ezequias mandou os levitas fazer na casa de Deus?",
       "answer": "Santificar-se e tirar a sujeira do santuário.",
-      "reference": "2Cr 29:5"
+      "reference": "2Cr 29:5",
+      "wrongs": [
+        "Fechar as portas e deixar a sujeira no santuário.",
+        "Quebrar as colunas e esvaziar o santuário.",
+        "Oferecer incenso a Baal dentro do santuário."
+      ]
     },
     {
       "id": "2CH.29.place.1",
@@ -951,7 +1421,12 @@
       "kind": "place",
       "prompt": "Para onde levaram a imundícia do templo, em 2 Crônicas?",
       "answer": "Para o ribeiro de Cedrom.",
-      "reference": "2Cr 29:16"
+      "reference": "2Cr 29:16",
+      "wrongs": [
+        "Para o vale de Hinom.",
+        "Para o monte das Oliveiras.",
+        "Para o tanque de Siloé."
+      ]
     },
     {
       "id": "2CH.29.curiosity.1",
@@ -961,7 +1436,12 @@
       "kind": "curiosity",
       "prompt": "Quando terminaram de purificar a casa de Deus no tempo de Ezequias?",
       "answer": "No dia dezesseis do primeiro mês.",
-      "reference": "2Cr 29:17"
+      "reference": "2Cr 29:17",
+      "wrongs": [
+        "No dia primeiro do sétimo mês.",
+        "No dia dez do terceiro mês.",
+        "No dia vinte e cinco do segundo mês."
+      ]
     },
     {
       "id": "2CH.30.subject.1",
@@ -971,7 +1451,12 @@
       "kind": "subject",
       "prompt": "O que Ezequias convidou Israel e Judá a celebrar?",
       "answer": "A Páscoa, na casa de Deus em Jerusalém.",
-      "reference": "2Cr 30:1"
+      "reference": "2Cr 30:1",
+      "wrongs": [
+        "A Festa das Tendas, em Samaria.",
+        "O Ano do Jubileu, em Hebrom.",
+        "Um jejum a Baal, em Betel."
+      ]
     },
     {
       "id": "2CH.30.curiosity.1",
@@ -981,7 +1466,12 @@
       "kind": "curiosity",
       "prompt": "Por que a Páscoa de Ezequias ficou para o segundo mês?",
       "answer": "Faltavam sacerdotes purificados e o povo ainda não estava junto.",
-      "reference": "2Cr 30:3"
+      "reference": "2Cr 30:3",
+      "wrongs": [
+        "O rei estava doente e a cidade estava cercada.",
+        "A lei mandava a Páscoa só no sétimo mês.",
+        "Não havia cordeiro e o templo ainda estava fechado."
+      ]
     },
     {
       "id": "2CH.30.curiosity.2",
@@ -991,7 +1481,12 @@
       "kind": "curiosity",
       "prompt": "Desde quando não havia festa assim em Jerusalém, com Ezequias?",
       "answer": "Desde o tempo de Salomão, filho de Davi.",
-      "reference": "2Cr 30:26"
+      "reference": "2Cr 30:26",
+      "wrongs": [
+        "Desde o tempo dos juízes, antes de qualquer rei.",
+        "Desde o tempo de Moisés, no deserto.",
+        "Desde o tempo de Saul, em Gibeá."
+      ]
     },
     {
       "id": "2CH.31.subject.1",
@@ -1001,7 +1496,12 @@
       "kind": "subject",
       "prompt": "O que o povo levou em grande quantidade à casa de Deus no tempo de Ezequias?",
       "answer": "Primícias dos frutos e o dízimo de tudo.",
-      "reference": "2Cr 31:5"
+      "reference": "2Cr 31:5",
+      "wrongs": [
+        "Armas de guerra e o despojo da Assíria.",
+        "Ídolos quebrados e a cinza dos altares.",
+        "Só ouro do palácio, sem alimento."
+      ]
     },
     {
       "id": "2CH.31.place.1",
@@ -1011,7 +1511,12 @@
       "kind": "place",
       "prompt": "Onde Ezequias mandou guardar as ofertas do povo?",
       "answer": "Em câmaras na casa de Deus.",
-      "reference": "2Cr 31:11"
+      "reference": "2Cr 31:11",
+      "wrongs": [
+        "Em celeiros no palácio do rei.",
+        "Em tendas fora da cidade.",
+        "No ribeiro de Cedrom, ao ar livre."
+      ]
     },
     {
       "id": "2CH.31.curiosity.1",
@@ -1021,7 +1526,12 @@
       "kind": "curiosity",
       "prompt": "Em quanto tempo juntaram os montes de ofertas, em 2 Crônicas?",
       "answer": "Do terceiro mês até o sétimo.",
-      "reference": "2Cr 31:7"
+      "reference": "2Cr 31:7",
+      "wrongs": [
+        "Do primeiro mês até o segundo.",
+        "De um sábado até o outro.",
+        "Do sétimo mês até o terceiro do ano seguinte."
+      ]
     },
     {
       "id": "2CH.32.subject.1",
@@ -1031,7 +1541,12 @@
       "kind": "subject",
       "prompt": "Como Jerusalém escapou de Senaqueribe?",
       "answer": "Um anjo feriu o exército, e o rei voltou envergonhado.",
-      "reference": "2Cr 32:21"
+      "reference": "2Cr 32:21",
+      "wrongs": [
+        "Ezequias pagou o tributo, e o rei foi embora satisfeito.",
+        "O exército de Judá venceu no campo, e o rei foi preso.",
+        "A cidade abriu as portas, e o rei fez paz."
+      ]
     },
     {
       "id": "2CH.32.place.1",
@@ -1041,7 +1556,12 @@
       "kind": "place",
       "prompt": "De onde Senaqueribe enviou os mensageiros a Ezequias?",
       "answer": "De Laquis.",
-      "reference": "2Cr 32:9"
+      "reference": "2Cr 32:9",
+      "wrongs": [
+        "De Nínive.",
+        "De Jerusalém.",
+        "De Damasco."
+      ]
     },
     {
       "id": "2CH.32.curiosity.1",
@@ -1051,7 +1571,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus deu a Ezequias quando ele orou, já à morte?",
       "answer": "Resposta e um sinal.",
-      "reference": "2Cr 32:24"
+      "reference": "2Cr 32:24",
+      "wrongs": [
+        "Silêncio, sem resposta e sem sinal.",
+        "Só uma repreensão, sem cura.",
+        "Um sonho, sem nada no relógio de sol."
+      ]
     },
     {
       "id": "2CH.32.curiosity.2",
@@ -1061,7 +1586,12 @@
       "kind": "curiosity",
       "prompt": "Por que Deus deixou Ezequias diante dos enviados da Babilônia?",
       "answer": "Para prová-lo e mostrar o que havia no coração dele.",
-      "reference": "2Cr 32:31"
+      "reference": "2Cr 32:31",
+      "wrongs": [
+        "Para entregá-lo e acabar com o reino naquele dia.",
+        "Para enriquecê-lo e esconder o que havia no coração dele.",
+        "Para coroá-lo rei da Babilônia."
+      ]
     },
     {
       "id": "2CH.33.subject.1",
@@ -1072,7 +1602,12 @@
       "kind": "subject",
       "prompt": "O que houve quando Manassés orou na angústia?",
       "answer": "Deus ouviu e o devolveu a Jerusalém, ao reino dele.",
-      "reference": "2Cr 33:12-13"
+      "reference": "2Cr 33:12-13",
+      "wrongs": [
+        "Deus calou e o deixou preso na Babilônia.",
+        "Deus ouviu e o mandou para o Egito.",
+        "O rei assírio o matou antes da oração."
+      ]
     },
     {
       "id": "2CH.33.place.1",
@@ -1082,7 +1617,12 @@
       "kind": "place",
       "prompt": "Para onde os assírios levaram Manassés preso?",
       "answer": "Para a Babilônia.",
-      "reference": "2Cr 33:11"
+      "reference": "2Cr 33:11",
+      "wrongs": [
+        "Para Nínive.",
+        "Para Damasco.",
+        "Para Mênfis."
+      ]
     },
     {
       "id": "2CH.33.curiosity.1",
@@ -1092,7 +1632,12 @@
       "kind": "curiosity",
       "prompt": "Quantos anos Manassés reinou em Jerusalém?",
       "answer": "Cinquenta e cinco.",
-      "reference": "2Cr 33:1"
+      "reference": "2Cr 33:1",
+      "wrongs": [
+        "Quarenta e cinco.",
+        "Vinte e nove.",
+        "Doze."
+      ]
     },
     {
       "id": "2CH.34.subject.1",
@@ -1102,7 +1647,12 @@
       "kind": "subject",
       "prompt": "O que Hilquias achou na casa de Deus?",
       "answer": "O livro da lei dada por meio de Moisés.",
-      "reference": "2Cr 34:14"
+      "reference": "2Cr 34:14",
+      "wrongs": [
+        "A coroa perdida de Davi.",
+        "A arca, que estava escondida.",
+        "Uma carta de Jeremias."
+      ]
     },
     {
       "id": "2CH.34.name.1",
@@ -1112,7 +1662,12 @@
       "kind": "name",
       "prompt": "Que profetisa Josias consultou sobre o livro da lei?",
       "answer": "Hulda, que morava em Jerusalém.",
-      "reference": "2Cr 34:22"
+      "reference": "2Cr 34:22",
+      "wrongs": [
+        "Débora, que morava em Efraim.",
+        "Ana, que morava em Siló.",
+        "Miriã, que morava no deserto."
+      ]
     },
     {
       "id": "2CH.34.curiosity.1",
@@ -1122,7 +1677,12 @@
       "kind": "curiosity",
       "prompt": "O que Josias fez ao ouvir as palavras da lei?",
       "answer": "Rasgou a própria roupa.",
-      "reference": "2Cr 34:19"
+      "reference": "2Cr 34:19",
+      "wrongs": [
+        "Queimou o livro no fogo.",
+        "Jogou o livro no Cedrom.",
+        "Guardou o livro sem reação."
+      ]
     },
     {
       "id": "2CH.35.subject.1",
@@ -1132,7 +1692,12 @@
       "kind": "subject",
       "prompt": "Como foi a Páscoa que Josias celebrou?",
       "answer": "Não houve outra igual em Israel desde o profeta Samuel.",
-      "reference": "2Cr 35:18"
+      "reference": "2Cr 35:18",
+      "wrongs": [
+        "Não houve outra igual desde o rei Salomão.",
+        "Foi menor do que a de Ezequias, e o povo faltou.",
+        "Foi a primeira Páscoa desde o êxodo."
+      ]
     },
     {
       "id": "2CH.35.place.1",
@@ -1142,7 +1707,12 @@
       "kind": "place",
       "prompt": "Onde Josias lutou contra Neco, rei do Egito?",
       "answer": "No campo de Megido.",
-      "reference": "2Cr 35:22"
+      "reference": "2Cr 35:22",
+      "wrongs": [
+        "No campo de Ramote.",
+        "No vale de Ela.",
+        "Nas margens do Nilo."
+      ]
     },
     {
       "id": "2CH.35.curiosity.1",
@@ -1152,7 +1722,12 @@
       "kind": "curiosity",
       "prompt": "Onde Josias morreu?",
       "answer": "Em Jerusalém, e todo Judá fez luto por ele.",
-      "reference": "2Cr 35:24"
+      "reference": "2Cr 35:24",
+      "wrongs": [
+        "Em Ribla, e todo Judá fez luto por ele.",
+        "No Egito, e todo Judá fez luto por ele.",
+        "Em Samaria, e ninguém fez luto por ele."
+      ]
     },
     {
       "id": "2CH.36.subject.1",
@@ -1163,7 +1738,12 @@
       "kind": "subject",
       "prompt": "O que os caldeus fizeram com o templo e com Jerusalém?",
       "answer": "O templo foi queimado, o muro caiu e quem sobrou foi levado embora.",
-      "reference": "2Cr 36:19-20"
+      "reference": "2Cr 36:19-20",
+      "wrongs": [
+        "O templo foi poupado, o muro ficou de pé e o povo permaneceu.",
+        "Só o palácio caiu, e o templo foi restaurado no mesmo ano.",
+        "O templo foi levado inteiro para Nínive, sem fogo."
+      ]
     },
     {
       "id": "2CH.36.name.1",
@@ -1173,7 +1753,12 @@
       "kind": "name",
       "prompt": "Quem mandou avisar que a casa de Deus seria reconstruída, em 2 Crônicas?",
       "answer": "Ciro, rei dos persas.",
-      "reference": "2Cr 36:22"
+      "reference": "2Cr 36:22",
+      "wrongs": [
+        "Nabucodonosor, rei da Babilônia.",
+        "Dario, rei dos medos.",
+        "Artaxerxes, rei da Pérsia."
+      ]
     },
     {
       "id": "2CH.36.place.1",
@@ -1183,7 +1768,12 @@
       "kind": "place",
       "prompt": "Onde Ciro mandou reconstruir a casa de Deus?",
       "answer": "Em Jerusalém de Judá.",
-      "reference": "2Cr 36:23"
+      "reference": "2Cr 36:23",
+      "wrongs": [
+        "Em Samaria de Israel.",
+        "Na Babilônia, junto ao rio.",
+        "Em Susã, a capital."
+      ]
     },
     {
       "id": "2CH.36.curiosity.1",
@@ -1193,7 +1783,12 @@
       "kind": "curiosity",
       "prompt": "Quantos anos a terra descansou, como Jeremias tinha dito?",
       "answer": "Setenta anos.",
-      "reference": "2Cr 36:21"
+      "reference": "2Cr 36:21",
+      "wrongs": [
+        "Quarenta anos.",
+        "Cinquenta anos.",
+        "Quatrocentos e noventa anos."
+      ]
     },
     {
       "id": "2CH.0.curiosity.1",
@@ -1203,7 +1798,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 2 Crônicas?",
       "answer": "Esdras, pela tradição.",
-      "reference": "2 Crônicas"
+      "reference": "2 Crônicas",
+      "wrongs": [
+        "Moisés, pela tradição.",
+        "Davi, pela tradição.",
+        "Salomão, pela tradição."
+      ]
     },
     {
       "id": "2CH.0.curiosity.2",
@@ -1213,7 +1813,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 2 Crônicas?",
       "answer": "No século V antes de Cristo.",
-      "reference": "2 Crônicas"
+      "reference": "2 Crônicas",
+      "wrongs": [
+        "No século X antes de Cristo.",
+        "No século I depois de Cristo.",
+        "No século XV antes de Cristo."
+      ]
     }
   ]
 }

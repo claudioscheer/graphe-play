@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que temos em Cristo por meio do sangue dele?",
       "answer": "A libertação e o perdão dos pecados.",
-      "reference": "Ef 1:7"
+      "reference": "Ef 1:7",
+      "wrongs": [
+        "A riqueza desta vida e a saúde do corpo.",
+        "O direito de cumprir a lei e ser justo.",
+        "Um reino terreno sobre as nações."
+      ]
     },
     {
       "id": "EPH.1.place.1",
@@ -18,7 +23,12 @@
       "kind": "place",
       "prompt": "Onde estavam os santos a quem Paulo escreve sobre a armadura de Deus?",
       "answer": "Em Éfeso.",
-      "reference": "Ef 1:1"
+      "reference": "Ef 1:1",
+      "wrongs": [
+        "Em Colossos.",
+        "Em Roma.",
+        "Em Filipos."
+      ]
     },
     {
       "id": "EPH.1.curiosity.1",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "Quando Deus escolheu os crentes em Cristo?",
       "answer": "Antes de o mundo existir.",
-      "reference": "Ef 1:4"
+      "reference": "Ef 1:4",
+      "wrongs": [
+        "Depois que a pessoa crê.",
+        "No dia do batismo.",
+        "Quando Israel saiu do Egito."
+      ]
     },
     {
       "id": "EPH.1.curiosity.2",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Com o que os crentes foram selados?",
       "answer": "Com o Espírito Santo prometido.",
-      "reference": "Ef 1:13"
+      "reference": "Ef 1:13",
+      "wrongs": [
+        "Com o sangue de animais.",
+        "Com a circuncisão da lei.",
+        "Com um selo de cera na carta."
+      ]
     },
     {
       "id": "EPH.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Como a pessoa é salva, se isso não vem dela?",
       "answer": "Pela graça, por meio da fé, e isso é presente de Deus.",
-      "reference": "Ef 2:8"
+      "reference": "Ef 2:8",
+      "wrongs": [
+        "Pelas obras, como pagamento justo do esforço.",
+        "Pelo mérito que Deus previu na pessoa.",
+        "Pelo rito, repetido até a dívida acabar."
+      ]
     },
     {
       "id": "EPH.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem é a pedra principal do edifício de Deus?",
       "answer": "Jesus Cristo.",
-      "reference": "Ef 2:20"
+      "reference": "Ef 2:20",
+      "wrongs": [
+        "Pedro.",
+        "Moisés.",
+        "Paulo."
+      ]
     },
     {
       "id": "EPH.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "O que Cristo derrubou entre os dois povos?",
       "answer": "O muro que os separava.",
-      "reference": "Ef 2:14"
+      "reference": "Ef 2:14",
+      "wrongs": [
+        "O templo, pedra por pedra.",
+        "A lei, para ninguém mais a ler.",
+        "O trono de Davi em Jerusalém."
+      ]
     },
     {
       "id": "EPH.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Por que a salvação não depende de obras?",
       "answer": "Para que ninguém se orgulhe.",
-      "reference": "Ef 2:9"
+      "reference": "Ef 2:9",
+      "wrongs": [
+        "Para que a lei fique sem uso.",
+        "Para que só Israel receba o dom.",
+        "Para que a fé deixe de ser necessária."
+      ]
     },
     {
       "id": "EPH.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Qual mistério Paulo diz que foi revelado?",
       "answer": "Que os outros povos também herdam a promessa em Cristo.",
-      "reference": "Ef 3:6"
+      "reference": "Ef 3:6",
+      "wrongs": [
+        "Que só Israel entra na promessa, e os outros ficam de fora.",
+        "Que a lei nova substitui a promessa feita a Abraão.",
+        "Que os gentios se salvam sem Cristo, pela própria sabedoria."
+      ]
     },
     {
       "id": "EPH.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem se diz o menor dos santos?",
       "answer": "Paulo.",
-      "reference": "Ef 3:8"
+      "reference": "Ef 3:8",
+      "wrongs": [
+        "Pedro.",
+        "Timóteo.",
+        "Tíquico."
+      ]
     },
     {
       "id": "EPH.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Como Paulo se põe diante do Pai para orar?",
       "answer": "De joelhos.",
-      "reference": "Ef 3:14"
+      "reference": "Ef 3:14",
+      "wrongs": [
+        "De pé, de braços erguidos.",
+        "Sentado, como mestre.",
+        "Caminhando, sem parar."
+      ]
     },
     {
       "id": "EPH.3.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "O que Paulo quer que entendam do amor de Cristo?",
       "answer": "A largura, o comprimento, a profundidade e a altura.",
-      "reference": "Ef 3:18"
+      "reference": "Ef 3:18",
+      "wrongs": [
+        "Só a altura, acima do que se pode pedir.",
+        "O peso, o brilho, o som e o número.",
+        "A lei, o sábado, o templo e o altar."
+      ]
     },
     {
       "id": "EPH.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "O que Paulo pede que se guarde entre os crentes?",
       "answer": "A unidade do Espírito, ligada pela paz.",
-      "reference": "Ef 4:3"
+      "reference": "Ef 4:3",
+      "wrongs": [
+        "A uniformidade dos ritos, ligada pela lei.",
+        "A separação dos grupos, para evitar mistura.",
+        "A obediência a um só bispo, em cada cidade."
+      ]
     },
     {
       "id": "EPH.4.curiosity.1",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "Quantas fés e quantos batismos Paulo afirma?",
       "answer": "Uma fé e um batismo.",
-      "reference": "Ef 4:5"
+      "reference": "Ef 4:5",
+      "wrongs": [
+        "Sete fés e sete batismos.",
+        "Duas fés, a de Israel e a dos gentios.",
+        "Nenhuma fé fixa, e o batismo à escolha."
+      ]
     },
     {
       "id": "EPH.4.curiosity.2",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "O que não deve ocorrer com a ira ao fim do dia?",
       "answer": "O sol não deve se pôr sobre ela.",
-      "reference": "Ef 4:26"
+      "reference": "Ef 4:26",
+      "wrongs": [
+        "A ira deve ser guardada até de manhã.",
+        "O sol deve se pôr, e a ira continuar.",
+        "A noite deve apagar também o perdão."
+      ]
     },
     {
       "id": "EPH.4.curiosity.3",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "O que quem furtava deve fazer em vez de furtar?",
       "answer": "Trabalhar com as mãos e repartir com quem precisa.",
-      "reference": "Ef 4:28"
+      "reference": "Ef 4:28",
+      "wrongs": [
+        "Devolver o dobro e ficar sem ofício.",
+        "Pedir esmola e viver do que a igreja der.",
+        "Jejuar em público para cobrir o furto."
+      ]
     },
     {
       "id": "EPH.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "Como o marido deve amar a esposa?",
       "answer": "Do modo como Cristo amou a igreja, entregando-se por ela.",
-      "reference": "Ef 5:25"
+      "reference": "Ef 5:25",
+      "wrongs": [
+        "Como quem manda, e a esposa só obedece calada.",
+        "Como um contrato, medido pelo que ela fizer.",
+        "Como o mundo ama, enquanto for conveniente."
+      ]
     },
     {
       "id": "EPH.5.curiosity.1",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "O que Paulo manda no lugar de ficar bêbado de vinho?",
       "answer": "Encher-se do Espírito.",
-      "reference": "Ef 5:18"
+      "reference": "Ef 5:18",
+      "wrongs": [
+        "Beber com moderação, sem passar do limite.",
+        "Cantar mais alto para cobrir a bebida.",
+        "Jejuar de vinho só no sábado."
+      ]
     },
     {
       "id": "EPH.5.curiosity.2",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "O que o homem e a mulher se tornam ao se unir?",
       "answer": "Uma só carne.",
-      "reference": "Ef 5:31"
+      "reference": "Ef 5:31",
+      "wrongs": [
+        "Dois espíritos sem corpo.",
+        "Uma só família de sangue.",
+        "Senhor e serva."
+      ]
     },
     {
       "id": "EPH.6.subject.1",
@@ -198,7 +293,12 @@
       "kind": "subject",
       "prompt": "O que vestir para ficar firme contra o diabo?",
       "answer": "A armadura completa de Deus.",
-      "reference": "Ef 6:11"
+      "reference": "Ef 6:11",
+      "wrongs": [
+        "A espada do soldado romano.",
+        "A lei de Moisés, peça por peça.",
+        "Só a fé, sem nenhuma outra peça."
+      ]
     },
     {
       "id": "EPH.6.name.1",
@@ -208,7 +308,12 @@
       "kind": "name",
       "prompt": "Quem Paulo enviou para contar como ele estava?",
       "answer": "Tíquico, irmão querido e servidor fiel.",
-      "reference": "Ef 6:21"
+      "reference": "Ef 6:21",
+      "wrongs": [
+        "Onésimo, que voltou à casa de Filemom.",
+        "Epafras, que orava pelos de Colossos.",
+        "Timóteo, filho amado na fé."
+      ]
     },
     {
       "id": "EPH.6.curiosity.1",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "Com o que se apagam as flechas de fogo do maligno?",
       "answer": "Com o escudo da fé.",
-      "reference": "Ef 6:16"
+      "reference": "Ef 6:16",
+      "wrongs": [
+        "Com o capacete da salvação.",
+        "Com a espada do Espírito.",
+        "Com o cinto da verdade."
+      ]
     },
     {
       "id": "EPH.6.curiosity.2",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "O que é a espada do Espírito?",
       "answer": "A palavra de Deus.",
-      "reference": "Ef 6:17"
+      "reference": "Ef 6:17",
+      "wrongs": [
+        "A oração de cada noite.",
+        "O escudo da fé.",
+        "A tradição dos apóstolos."
+      ]
     },
     {
       "id": "EPH.0.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Efésios?",
       "answer": "Paulo.",
-      "reference": "Efésios"
+      "reference": "Efésios",
+      "wrongs": [
+        "Pedro.",
+        "Tíquico.",
+        "João."
+      ]
     },
     {
       "id": "EPH.0.curiosity.2",
@@ -248,7 +368,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Efésios?",
       "answer": "Na prisão, por volta do ano 60.",
-      "reference": "Efésios"
+      "reference": "Efésios",
+      "wrongs": [
+        "Na viagem, por volta do ano 55.",
+        "Em liberdade, por volta do ano 51.",
+        "Depois de Nero, por volta do ano 80."
+      ]
     },
     {
       "id": "EPH.0.curiosity.3",
@@ -258,7 +383,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu Efésios?",
       "answer": "Para os santos que estavam em Éfeso.",
-      "reference": "Ef 1:1"
+      "reference": "Ef 1:1",
+      "wrongs": [
+        "Para os santos que estavam em Colossos.",
+        "Para os santos que estavam em Filipos.",
+        "Para os santos que estavam em Roma."
+      ]
     }
   ]
 }

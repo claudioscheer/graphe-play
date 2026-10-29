@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Por que Edom fica coberto de vergonha?",
       "answer": "Pela violência feita ao irmão Jacó.",
-      "reference": "Ob 1:10"
+      "reference": "Ob 1:10",
+      "wrongs": [
+        "Pela ajuda dada na hora a Jerusalém.",
+        "Pela aliança fiel guardada com Jacó.",
+        "Pelo comércio justo mantido com Judá."
+      ]
     },
     {
       "id": "OBA.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem Obadias mostra saqueado?",
       "answer": "Esaú, que perdeu os tesouros.",
-      "reference": "Ob 1:6"
+      "reference": "Ob 1:6",
+      "wrongs": [
+        "Jacó, que perdeu os rebanhos.",
+        "Moabe, que perdeu as cidades.",
+        "Amom, que perdeu os vales."
+      ]
     },
     {
       "id": "OBA.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde o povo de Jacó encontra livramento?",
       "answer": "No monte Sião.",
-      "reference": "Ob 1:17"
+      "reference": "Ob 1:17",
+      "wrongs": [
+        "No monte Seir.",
+        "No monte Sinai.",
+        "No monte Tabor."
+      ]
     },
     {
       "id": "OBA.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Se Edom aninhar entre as estrelas, o que Deus faz?",
       "answer": "Derruba Edom dali.",
-      "reference": "Ob 1:4"
+      "reference": "Ob 1:4",
+      "wrongs": [
+        "Deixa Edom morar ali.",
+        "Esconde Edom na nuvem.",
+        "Coroa Edom nesse céu."
+      ]
     },
     {
       "id": "OBA.0.curiosity.1",
@@ -48,7 +68,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Obadias?",
       "answer": "Obadias.",
-      "reference": "Obadias"
+      "reference": "Obadias",
+      "wrongs": [
+        "Miquéias.",
+        "Sofonias.",
+        "Zacarias."
+      ]
     },
     {
       "id": "OBA.0.curiosity.2",
@@ -58,7 +83,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Obadias?",
       "answer": "A data é incerta. Muitos a põem depois de 586 antes de Cristo.",
-      "reference": "Obadias"
+      "reference": "Obadias",
+      "wrongs": [
+        "A data é certa. O livro é do reinado de Davi, no século X.",
+        "A data é certa. O livro é do século I, muito depois de Cristo.",
+        "A data é incerta. Muitos a põem no tempo de Abraão, ainda em Ur."
+      ]
     }
   ]
 }

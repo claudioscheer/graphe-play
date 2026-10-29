@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Como os egípcios trataram os filhos de Israel?",
       "answer": "Fizeram o povo servir com muita dureza.",
-      "reference": "Êx 1:13"
+      "reference": "Êx 1:13",
+      "wrongs": [
+        "Deixaram o povo livre nas cidades.",
+        "Deram ao povo terras e rebanhos.",
+        "Trataram o povo como hóspedes reais."
+      ]
     },
     {
       "id": "EXO.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Como se chamavam as parteiras das hebreias, em Êxodo?",
       "answer": "Sifrá e Puá.",
-      "reference": "Êx 1:15"
+      "reference": "Êx 1:15",
+      "wrongs": [
+        "Miriã e Zípora.",
+        "Débora e Jael.",
+        "Raquel e Leia."
+      ]
     },
     {
       "id": "EXO.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Que cidades-armazém Israel edificou para Faraó?",
       "answer": "Pitom e Ramessés.",
-      "reference": "Êx 1:11"
+      "reference": "Êx 1:11",
+      "wrongs": [
+        "Gósen e Sucote.",
+        "Pi-Hairote e Migdol.",
+        "Zoã e Mênfis."
+      ]
     },
     {
       "id": "EXO.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que Faraó mandou fazer com todo menino recém-nascido?",
       "answer": "Lançá-lo no rio.",
-      "reference": "Êx 1:22"
+      "reference": "Êx 1:22",
+      "wrongs": [
+        "Escondê-lo em casa.",
+        "Deixá-lo no deserto.",
+        "Entregá-lo aos soldados."
+      ]
     },
     {
       "id": "EXO.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Por que a filha de Faraó chamou o menino de Moisés?",
       "answer": "Porque o tirou das águas.",
-      "reference": "Êx 2:10"
+      "reference": "Êx 2:10",
+      "wrongs": [
+        "Porque ele chorava no cesto.",
+        "Porque era filho de hebreus.",
+        "Porque Jetro pediu esse nome."
+      ]
     },
     {
       "id": "EXO.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem foi a mulher de Moisés em Midiã?",
       "answer": "Zípora.",
-      "reference": "Êx 2:21"
+      "reference": "Êx 2:21",
+      "wrongs": [
+        "Miriã.",
+        "Joquebede.",
+        "Elisabete."
+      ]
     },
     {
       "id": "EXO.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Para onde Moisés fugiu de Faraó?",
       "answer": "Para a terra de Midiã.",
-      "reference": "Êx 2:15"
+      "reference": "Êx 2:15",
+      "wrongs": [
+        "Para a terra de Canaã.",
+        "Para a terra de Edom.",
+        "Para o deserto de Sim."
+      ]
     },
     {
       "id": "EXO.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "O que Moisés fez ao egípcio?",
       "answer": "Matou-o e escondeu o corpo na areia.",
-      "reference": "Êx 2:12"
+      "reference": "Êx 2:12",
+      "wrongs": [
+        "Prendeu-o e o levou a Faraó.",
+        "Expulsou-o para fora da cidade.",
+        "Avisou-o e deixou que fugisse."
+      ]
     },
     {
       "id": "EXO.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Para que Deus enviou Moisés a Faraó?",
       "answer": "Para tirar Israel do Egito.",
-      "reference": "Êx 3:10"
+      "reference": "Êx 3:10",
+      "wrongs": [
+        "Para cobrar impostos de Israel.",
+        "Para coroar Faraó no Egito.",
+        "Para construir cidades-armazém."
+      ]
     },
     {
       "id": "EXO.3.place.1",
@@ -98,7 +143,12 @@
       "kind": "place",
       "prompt": "A que monte Moisés chegou com o rebanho de Jetro?",
       "answer": "Ao Horebe, o monte de Deus.",
-      "reference": "Êx 3:1"
+      "reference": "Êx 3:1",
+      "wrongs": [
+        "Ao Carmelo, perto do mar.",
+        "Ao Nebo, na terra de Moabe.",
+        "Ao Sião, na cidade santa."
+      ]
     },
     {
       "id": "EXO.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "O que havia de estranho na sarça em fogo, em Êxodo?",
       "answer": "Ela ardia e não se consumia.",
-      "reference": "Êx 3:2"
+      "reference": "Êx 3:2",
+      "wrongs": [
+        "Ela falava sem nenhuma chama.",
+        "Ela se apagava a cada instante.",
+        "Ela queimava todo o chão ao redor."
+      ]
     },
     {
       "id": "EXO.3.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Que nome Deus revelou a Moisés?",
       "answer": "Eu sou o que sou.",
-      "reference": "Êx 3:14"
+      "reference": "Êx 3:14",
+      "wrongs": [
+        "Eu sou o Deus de Faraó.",
+        "Eu sou o fogo da sarça.",
+        "Eu sou o rei de Israel."
+      ]
     },
     {
       "id": "EXO.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Como Israel reagiu ao saber que Deus tinha visto sua aflição?",
       "answer": "Creu, inclinou-se e adorou.",
-      "reference": "Êx 4:31"
+      "reference": "Êx 4:31",
+      "wrongs": [
+        "Duvidou, zombou e foi embora.",
+        "Calou-se, com medo de Faraó.",
+        "Pediu para ficar no Egito."
+      ]
     },
     {
       "id": "EXO.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Qual irmão de Moisés falava bem?",
       "answer": "Arão, que era levita.",
-      "reference": "Êx 4:14"
+      "reference": "Êx 4:14",
+      "wrongs": [
+        "Hur, que era de Judá.",
+        "Jetro, que era de Midiã.",
+        "Josué, que era de Efraim."
+      ]
     },
     {
       "id": "EXO.4.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "Onde Arão encontrou Moisés?",
       "answer": "No monte de Deus.",
-      "reference": "Êx 4:27"
+      "reference": "Êx 4:27",
+      "wrongs": [
+        "No palácio de Faraó.",
+        "Na terra de Gósen.",
+        "Junto ao rio Nilo."
+      ]
     },
     {
       "id": "EXO.4.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Em que a vara de Moisés se transformou no chão?",
       "answer": "Numa cobra.",
-      "reference": "Êx 4:3"
+      "reference": "Êx 4:3",
+      "wrongs": [
+        "Numa pedra.",
+        "Num ramo seco.",
+        "Numa espada."
+      ]
     },
     {
       "id": "EXO.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "Por que Faraó recusou deixar Israel sair?",
       "answer": "Porque disse que não conhecia Deus.",
-      "reference": "Êx 5:2"
+      "reference": "Êx 5:2",
+      "wrongs": [
+        "Porque o povo ainda lhe devia ouro.",
+        "Porque Moisés não levou um sinal.",
+        "Porque a colheita ainda não tinha acabado."
+      ]
     },
     {
       "id": "EXO.5.curiosity.1",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "O que Faraó deixou de dar para fazer tijolos?",
       "answer": "A palha.",
-      "reference": "Êx 5:7"
+      "reference": "Êx 5:7",
+      "wrongs": [
+        "A água.",
+        "O barro.",
+        "O salário."
+      ]
     },
     {
       "id": "EXO.6.subject.1",
@@ -188,7 +278,12 @@
       "kind": "subject",
       "prompt": "O que Deus prometeu fazer com a servidão de Israel no Egito?",
       "answer": "Livrá-los da servidão e resgatá-los.",
-      "reference": "Êx 6:6"
+      "reference": "Êx 6:6",
+      "wrongs": [
+        "Alongar a servidão por mais anos.",
+        "Entregar a servidão a outro rei.",
+        "Deixar a servidão como estava."
+      ]
     },
     {
       "id": "EXO.6.name.1",
@@ -198,7 +293,12 @@
       "kind": "name",
       "prompt": "Quem foram os pais de Arão e de Moisés?",
       "answer": "Anrão e Joquebede.",
-      "reference": "Êx 6:20"
+      "reference": "Êx 6:20",
+      "wrongs": [
+        "Coate e Miriã.",
+        "Levi e Eliseba.",
+        "Hur e Zípora."
+      ]
     },
     {
       "id": "EXO.6.place.1",
@@ -208,7 +308,12 @@
       "kind": "place",
       "prompt": "Que terra Deus prometeu na aliança, em Êxodo?",
       "answer": "A terra de Canaã.",
-      "reference": "Êx 6:4"
+      "reference": "Êx 6:4",
+      "wrongs": [
+        "A terra do Egito.",
+        "A terra de Midiã.",
+        "A terra de Edom."
+      ]
     },
     {
       "id": "EXO.6.curiosity.1",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "Quantos anos viveu Levi?",
       "answer": "Cento e trinta e sete anos.",
-      "reference": "Êx 6:16"
+      "reference": "Êx 6:16",
+      "wrongs": [
+        "Cento e trinta e três anos.",
+        "Cento e vinte anos.",
+        "Cento e dez anos."
+      ]
     },
     {
       "id": "EXO.7.subject.1",
@@ -228,7 +338,12 @@
       "kind": "subject",
       "prompt": "O que aconteceu com a água do rio diante de Faraó?",
       "answer": "Toda ela virou sangue.",
-      "reference": "Êx 7:20"
+      "reference": "Êx 7:20",
+      "wrongs": [
+        "Toda ela secou na hora.",
+        "Toda ela ficou doce.",
+        "Toda ela subiu em rãs."
+      ]
     },
     {
       "id": "EXO.7.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "Que idade tinham Moisés e Arão ao falar com Faraó?",
       "answer": "Moisés tinha oitenta anos, e Arão, oitenta e três.",
-      "reference": "Êx 7:7"
+      "reference": "Êx 7:7",
+      "wrongs": [
+        "Moisés tinha quarenta anos, e Arão, quarenta e três.",
+        "Moisés tinha cem anos, e Arão, cento e três.",
+        "Moisés tinha sessenta anos, e Arão, sessenta e três."
+      ]
     },
     {
       "id": "EXO.7.curiosity.2",
@@ -248,7 +368,12 @@
       "kind": "curiosity",
       "prompt": "O que a vara de Arão fez com as varas dos magos?",
       "answer": "Engoliu todas as outras.",
-      "reference": "Êx 7:12"
+      "reference": "Êx 7:12",
+      "wrongs": [
+        "Quebrou todas as outras.",
+        "Transformou-as em sangue.",
+        "Ficou igual às outras."
+      ]
     },
     {
       "id": "EXO.8.subject.1",
@@ -258,7 +383,12 @@
       "kind": "subject",
       "prompt": "O que subiu e cobriu o Egito quando Arão estendeu a mão?",
       "answer": "Uma praga de rãs.",
-      "reference": "Êx 8:6"
+      "reference": "Êx 8:6",
+      "wrongs": [
+        "Uma nuvem de gafanhotos.",
+        "Uma chuva de granizo.",
+        "Uma nuvem de moscas."
+      ]
     },
     {
       "id": "EXO.8.place.1",
@@ -268,7 +398,12 @@
       "kind": "place",
       "prompt": "Que terra Deus separou para não ter moscas, em Êxodo?",
       "answer": "A terra de Gósen.",
-      "reference": "Êx 8:22"
+      "reference": "Êx 8:22",
+      "wrongs": [
+        "A terra de Midiã.",
+        "A terra de Canaã.",
+        "A terra de Edom."
+      ]
     },
     {
       "id": "EXO.8.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "Como os magos explicaram a Faraó o que não puderam imitar?",
       "answer": "Disseram que era o dedo de Deus.",
-      "reference": "Êx 8:19"
+      "reference": "Êx 8:19",
+      "wrongs": [
+        "Disseram que era feitiço comum.",
+        "Disseram que era um vento do deserto.",
+        "Disseram que era invenção de Moisés."
+      ]
     },
     {
       "id": "EXO.9.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "O que caiu sobre o Egito junto com fogo?",
       "answer": "Um granizo enorme.",
-      "reference": "Êx 9:24"
+      "reference": "Êx 9:24",
+      "wrongs": [
+        "Uma chuva de enxofre.",
+        "Uma nuvem de cinza.",
+        "Um vento de areia."
+      ]
     },
     {
       "id": "EXO.9.place.1",
@@ -298,7 +443,12 @@
       "kind": "place",
       "prompt": "Onde o granizo não caiu, em Êxodo?",
       "answer": "Na terra de Gósen.",
-      "reference": "Êx 9:26"
+      "reference": "Êx 9:26",
+      "wrongs": [
+        "Na cidade de Mênfis.",
+        "No palácio de Faraó.",
+        "Na margem do Nilo."
+      ]
     },
     {
       "id": "EXO.9.curiosity.1",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "O que Faraó admitiu a Moisés depois do granizo?",
       "answer": "Que tinha pecado, e que Deus é justo.",
-      "reference": "Êx 9:27"
+      "reference": "Êx 9:27",
+      "wrongs": [
+        "Que era inocente, e que Moisés mentia.",
+        "Que Israel podia ficar para sempre.",
+        "Que os magos eram mais fortes."
+      ]
     },
     {
       "id": "EXO.10.subject.1",
@@ -318,7 +473,12 @@
       "kind": "subject",
       "prompt": "O que os gafanhotos fizeram com a vegetação do Egito?",
       "answer": "Comeram tudo o que o granizo tinha deixado.",
-      "reference": "Êx 10:15"
+      "reference": "Êx 10:15",
+      "wrongs": [
+        "Deixaram intacto o que o granizo poupara.",
+        "Plantaram de novo o que tinha caído.",
+        "Cobriram as casas, sem tocar nas plantas."
+      ]
     },
     {
       "id": "EXO.10.place.1",
@@ -328,7 +488,12 @@
       "kind": "place",
       "prompt": "Para onde o vento lançou os gafanhotos, em Êxodo?",
       "answer": "No mar Vermelho.",
-      "reference": "Êx 10:19"
+      "reference": "Êx 10:19",
+      "wrongs": [
+        "No rio Nilo.",
+        "No deserto de Sim.",
+        "No mar da Galileia."
+      ]
     },
     {
       "id": "EXO.10.curiosity.1",
@@ -338,7 +503,12 @@
       "kind": "curiosity",
       "prompt": "Por quanto tempo houve trevas em todo o Egito?",
       "answer": "Por três dias.",
-      "reference": "Êx 10:22"
+      "reference": "Êx 10:22",
+      "wrongs": [
+        "Por sete dias.",
+        "Por uma noite.",
+        "Por quarenta dias."
+      ]
     },
     {
       "id": "EXO.10.curiosity.2",
@@ -348,7 +518,12 @@
       "kind": "curiosity",
       "prompt": "O que Faraó ameaçou a quem visse de novo o rosto dele?",
       "answer": "Morreria nesse dia.",
-      "reference": "Êx 10:28"
+      "reference": "Êx 10:28",
+      "wrongs": [
+        "Voltaria ao trabalho dos tijolos.",
+        "Seria expulso para Gósen.",
+        "Perderia a casa e o gado."
+      ]
     },
     {
       "id": "EXO.11.subject.1",
@@ -358,7 +533,12 @@
       "kind": "subject",
       "prompt": "Quem Deus anunciou que morreria em todo o Egito?",
       "answer": "Todo primogênito, de gente e de animais.",
-      "reference": "Êx 11:5"
+      "reference": "Êx 11:5",
+      "wrongs": [
+        "Todo estrangeiro, de gente e de gado.",
+        "Só os magos, e não o povo.",
+        "Todo menino lançado no rio."
+      ]
     },
     {
       "id": "EXO.11.curiosity.1",
@@ -368,7 +548,12 @@
       "kind": "curiosity",
       "prompt": "A que horas Deus disse que passaria pelo Egito?",
       "answer": "À meia-noite.",
-      "reference": "Êx 11:4"
+      "reference": "Êx 11:4",
+      "wrongs": [
+        "Ao meio-dia.",
+        "Ao amanhecer.",
+        "À tarde."
+      ]
     },
     {
       "id": "EXO.11.curiosity.2",
@@ -378,7 +563,12 @@
       "kind": "curiosity",
       "prompt": "O que o povo devia pedir aos vizinhos egípcios, em Êxodo?",
       "answer": "Joias de prata e de ouro.",
-      "reference": "Êx 11:2"
+      "reference": "Êx 11:2",
+      "wrongs": [
+        "Pão e água para a viagem.",
+        "Armas e carros de guerra.",
+        "Mapas do caminho pelo deserto."
+      ]
     },
     {
       "id": "EXO.12.subject.1",
@@ -388,7 +578,12 @@
       "kind": "subject",
       "prompt": "O que Deus fez à meia-noite na terra do Egito?",
       "answer": "Matou os primogênitos de gente e de animais.",
-      "reference": "Êx 12:29"
+      "reference": "Êx 12:29",
+      "wrongs": [
+        "Abriu o mar diante de Israel.",
+        "Mandou trevas por três dias.",
+        "Derrubou as casas com granizo."
+      ]
     },
     {
       "id": "EXO.12.place.1",
@@ -398,7 +593,12 @@
       "kind": "place",
       "prompt": "De que cidade Israel partiu para Sucote?",
       "answer": "De Ramessés.",
-      "reference": "Êx 12:37"
+      "reference": "Êx 12:37",
+      "wrongs": [
+        "De Pitom.",
+        "De Gósen.",
+        "De Pi-Hairote."
+      ]
     },
     {
       "id": "EXO.12.curiosity.1",
@@ -408,7 +608,12 @@
       "kind": "curiosity",
       "prompt": "Onde o sangue devia ser posto nas casas, em Êxodo?",
       "answer": "Nos batentes e no alto da porta.",
-      "reference": "Êx 12:7"
+      "reference": "Êx 12:7",
+      "wrongs": [
+        "Só no chão, diante da cama.",
+        "Nas janelas e no telhado.",
+        "Na mesa, sobre o pão."
+      ]
     },
     {
       "id": "EXO.12.curiosity.2",
@@ -418,7 +623,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo Israel morou no Egito?",
       "answer": "Quatrocentos e trinta anos.",
-      "reference": "Êx 12:40"
+      "reference": "Êx 12:40",
+      "wrongs": [
+        "Duzentos anos.",
+        "Quarenta anos.",
+        "Setenta anos."
+      ]
     },
     {
       "id": "EXO.13.subject.1",
@@ -428,7 +638,12 @@
       "kind": "subject",
       "prompt": "O que ia diante de Israel de dia e de noite?",
       "answer": "Uma coluna de nuvem de dia e uma de fogo à noite.",
-      "reference": "Êx 13:21"
+      "reference": "Êx 13:21",
+      "wrongs": [
+        "Uma coluna de fogo de dia e uma de nuvem à noite.",
+        "Um anjo com espada, de dia e de noite.",
+        "A arca da aliança, parada de dia e de noite."
+      ]
     },
     {
       "id": "EXO.13.name.1",
@@ -438,7 +653,12 @@
       "kind": "name",
       "prompt": "De quem eram os ossos que Moisés levou consigo?",
       "answer": "De José.",
-      "reference": "Êx 13:19"
+      "reference": "Êx 13:19",
+      "wrongs": [
+        "De Jacó.",
+        "De Arão.",
+        "De Levi."
+      ]
     },
     {
       "id": "EXO.13.place.1",
@@ -448,7 +668,12 @@
       "kind": "place",
       "prompt": "Que caminho Deus evitou na saída do Egito?",
       "answer": "O caminho da terra dos filisteus.",
-      "reference": "Êx 13:17"
+      "reference": "Êx 13:17",
+      "wrongs": [
+        "O caminho do mar Vermelho.",
+        "O caminho do deserto de Sur.",
+        "O caminho da terra de Midiã."
+      ]
     },
     {
       "id": "EXO.13.curiosity.1",
@@ -458,7 +683,12 @@
       "kind": "curiosity",
       "prompt": "Com o que se resgatava o primeiro jumento, em Êxodo?",
       "answer": "Com um cordeiro.",
-      "reference": "Êx 13:13"
+      "reference": "Êx 13:13",
+      "wrongs": [
+        "Com um bezerro.",
+        "Com um bode.",
+        "Com um punhado de prata."
+      ]
     },
     {
       "id": "EXO.14.subject.1",
@@ -468,7 +698,12 @@
       "kind": "subject",
       "prompt": "O que as águas fizeram com o exército de Faraó?",
       "answer": "Cobriram todos, e não sobrou ninguém.",
-      "reference": "Êx 14:28"
+      "reference": "Êx 14:28",
+      "wrongs": [
+        "Abriram caminho, e o exército passou.",
+        "Pararam longe, e o exército voltou.",
+        "Molharam só os carros, e os homens fugiram."
+      ]
     },
     {
       "id": "EXO.14.place.1",
@@ -478,7 +713,12 @@
       "kind": "place",
       "prompt": "Onde Israel acampou junto ao mar?",
       "answer": "Junto a Pi-Hairote, entre Migdol e Baal-Zefom.",
-      "reference": "Êx 14:2"
+      "reference": "Êx 14:2",
+      "wrongs": [
+        "Junto a Elim, entre Mara e o Sinai.",
+        "Junto a Cades, entre Edom e Moabe.",
+        "Junto a Sucote, entre Ramessés e Etã."
+      ]
     },
     {
       "id": "EXO.14.curiosity.1",
@@ -488,7 +728,12 @@
       "kind": "curiosity",
       "prompt": "Como os filhos de Israel passaram pelo mar?",
       "answer": "Em seco, com as águas como muros dos dois lados.",
-      "reference": "Êx 14:22"
+      "reference": "Êx 14:22",
+      "wrongs": [
+        "A nado, com as águas acima da cabeça.",
+        "De barco, com o vento a favor.",
+        "Pela margem, sem entrar no mar."
+      ]
     },
     {
       "id": "EXO.14.curiosity.2",
@@ -498,7 +743,12 @@
       "kind": "curiosity",
       "prompt": "Quantos carros escolhidos Faraó levou na perseguição?",
       "answer": "Seiscentos.",
-      "reference": "Êx 14:7"
+      "reference": "Êx 14:7",
+      "wrongs": [
+        "Trezentos.",
+        "Mil.",
+        "Duzentos."
+      ]
     },
     {
       "id": "EXO.15.subject.1",
@@ -508,7 +758,12 @@
       "kind": "subject",
       "prompt": "O que o cântico de Moisés celebra sobre o mar?",
       "answer": "Deus lançou nele o cavalo e quem o montava.",
-      "reference": "Êx 15:1"
+      "reference": "Êx 15:1",
+      "wrongs": [
+        "Deus secou o Nilo diante de Faraó.",
+        "Deus plantou palmeiras à beira da água.",
+        "Deus fez chover pão sobre as ondas."
+      ]
     },
     {
       "id": "EXO.15.name.1",
@@ -518,7 +773,12 @@
       "kind": "name",
       "prompt": "Quem guiou as mulheres com pandeiros e danças, em Êxodo?",
       "answer": "Miriã, irmã de Arão.",
-      "reference": "Êx 15:20"
+      "reference": "Êx 15:20",
+      "wrongs": [
+        "Zípora, mulher de Moisés.",
+        "Joquebede, mãe de Moisés.",
+        "Eliseba, mulher de Arão."
+      ]
     },
     {
       "id": "EXO.15.place.1",
@@ -528,7 +788,12 @@
       "kind": "place",
       "prompt": "Que nome deram ao lugar de água que não se podia beber, em Êxodo?",
       "answer": "Mara.",
-      "reference": "Êx 15:23"
+      "reference": "Êx 15:23",
+      "wrongs": [
+        "Elim.",
+        "Massá.",
+        "Refidim."
+      ]
     },
     {
       "id": "EXO.15.curiosity.1",
@@ -538,7 +803,12 @@
       "kind": "curiosity",
       "prompt": "O que havia em Elim?",
       "answer": "Doze fontes e setenta palmeiras.",
-      "reference": "Êx 15:27"
+      "reference": "Êx 15:27",
+      "wrongs": [
+        "Sete fontes e doze palmeiras.",
+        "Uma fonte e nenhuma palmeira.",
+        "Três poços e quarenta tendas."
+      ]
     },
     {
       "id": "EXO.16.subject.1",
@@ -548,7 +818,12 @@
       "kind": "subject",
       "prompt": "O que Deus prometeu fazer chover para Israel?",
       "answer": "Pão vindo do céu.",
-      "reference": "Êx 16:4"
+      "reference": "Êx 16:4",
+      "wrongs": [
+        "Carne vinda do mar.",
+        "Água vinda da rocha.",
+        "Codornizes todos os dias."
+      ]
     },
     {
       "id": "EXO.16.place.1",
@@ -558,7 +833,12 @@
       "kind": "place",
       "prompt": "A qual deserto Israel chegou entre Elim e Sinai?",
       "answer": "Ao deserto de Sim.",
-      "reference": "Êx 16:1"
+      "reference": "Êx 16:1",
+      "wrongs": [
+        "Ao deserto de Zim.",
+        "Ao deserto de Parã.",
+        "Ao deserto de Sur."
+      ]
     },
     {
       "id": "EXO.16.curiosity.1",
@@ -568,7 +848,12 @@
       "kind": "curiosity",
       "prompt": "O que cobriu o acampamento ao anoitecer, em Êxodo?",
       "answer": "Codornizes.",
-      "reference": "Êx 16:13"
+      "reference": "Êx 16:13",
+      "wrongs": [
+        "Maná.",
+        "Orvalho apenas.",
+        "Gafanhotos."
+      ]
     },
     {
       "id": "EXO.16.curiosity.2",
@@ -578,7 +863,12 @@
       "kind": "curiosity",
       "prompt": "Por quantos anos Israel comeu o maná?",
       "answer": "Por quarenta anos, até o limite de Canaã.",
-      "reference": "Êx 16:35"
+      "reference": "Êx 16:35",
+      "wrongs": [
+        "Por sete anos, até chegar ao Sinai.",
+        "Por um ano, até cruzar o mar.",
+        "Por vinte anos, até o rio Jordão."
+      ]
     },
     {
       "id": "EXO.17.subject.1",
@@ -588,7 +878,12 @@
       "kind": "subject",
       "prompt": "De onde saiu água para o povo em Horebe?",
       "answer": "De uma rocha que Moisés feriu.",
-      "reference": "Êx 17:6"
+      "reference": "Êx 17:6",
+      "wrongs": [
+        "De um poço que o povo cavou.",
+        "De uma nuvem que se abriu.",
+        "De um rio que mudou de curso."
+      ]
     },
     {
       "id": "EXO.17.name.1",
@@ -598,7 +893,12 @@
       "kind": "name",
       "prompt": "Quem Moisés mandou lutar contra Amaleque?",
       "answer": "Josué.",
-      "reference": "Êx 17:9"
+      "reference": "Êx 17:9",
+      "wrongs": [
+        "Arão.",
+        "Hur.",
+        "Calebe."
+      ]
     },
     {
       "id": "EXO.17.place.1",
@@ -608,7 +908,12 @@
       "kind": "place",
       "prompt": "Que nome recebeu o lugar da briga de Israel em Refidim?",
       "answer": "Massá e Meribá.",
-      "reference": "Êx 17:7"
+      "reference": "Êx 17:7",
+      "wrongs": [
+        "Mara e Elim.",
+        "Taberá e Quibrote-Hataavá.",
+        "Pi-Hairote e Migdol."
+      ]
     },
     {
       "id": "EXO.17.curiosity.1",
@@ -618,7 +923,12 @@
       "kind": "curiosity",
       "prompt": "Quem vencia quando Moisés erguia a mão?",
       "answer": "Israel.",
-      "reference": "Êx 17:11"
+      "reference": "Êx 17:11",
+      "wrongs": [
+        "Amaleque.",
+        "O Egito.",
+        "Midiã."
+      ]
     },
     {
       "id": "EXO.18.subject.1",
@@ -628,7 +938,12 @@
       "kind": "subject",
       "prompt": "Que chefes Moisés colocou sobre o povo?",
       "answer": "Líderes de mil, de cem, de cinquenta e de dez.",
-      "reference": "Êx 18:25"
+      "reference": "Êx 18:25",
+      "wrongs": [
+        "Líderes só das doze tribos.",
+        "Juízes de uma cidade apenas.",
+        "Sacerdotes de cada família."
+      ]
     },
     {
       "id": "EXO.18.name.1",
@@ -638,7 +953,12 @@
       "kind": "name",
       "prompt": "Quem era Jetro?",
       "answer": "Sacerdote de Midiã e sogro de Moisés.",
-      "reference": "Êx 18:1"
+      "reference": "Êx 18:1",
+      "wrongs": [
+        "Rei de Midiã e irmão de Moisés.",
+        "Profeta de Canaã e pai de Arão.",
+        "Pastor de Gósen e tio de Josué."
+      ]
     },
     {
       "id": "EXO.18.place.1",
@@ -648,7 +968,12 @@
       "kind": "place",
       "prompt": "Onde Jetro encontrou Moisés?",
       "answer": "No deserto, junto ao monte de Deus.",
-      "reference": "Êx 18:5"
+      "reference": "Êx 18:5",
+      "wrongs": [
+        "No Egito, junto ao palácio.",
+        "Em Canaã, junto ao Jordão.",
+        "Em Edom, junto ao monte Seir."
+      ]
     },
     {
       "id": "EXO.18.curiosity.1",
@@ -658,7 +983,12 @@
       "kind": "curiosity",
       "prompt": "O que Jetro concluiu a respeito de Deus?",
       "answer": "Que ele é maior do que todos os deuses.",
-      "reference": "Êx 18:11"
+      "reference": "Êx 18:11",
+      "wrongs": [
+        "Que ele era só o Deus da montanha.",
+        "Que ele era igual aos deuses do Egito.",
+        "Que ele não tinha livrado Israel."
+      ]
     },
     {
       "id": "EXO.19.subject.1",
@@ -668,7 +998,12 @@
       "kind": "subject",
       "prompt": "Como Deus desceu sobre o monte Sinai?",
       "answer": "Em fogo, e o monte fumegava.",
-      "reference": "Êx 19:18"
+      "reference": "Êx 19:18",
+      "wrongs": [
+        "Em silêncio, e o monte ficou escuro.",
+        "Em chuva, e o monte se alagou.",
+        "Em vento, e o monte ficou liso."
+      ]
     },
     {
       "id": "EXO.19.place.1",
@@ -678,7 +1013,12 @@
       "kind": "place",
       "prompt": "Onde Israel chegou no terceiro mês após sair do Egito?",
       "answer": "No deserto de Sinai.",
-      "reference": "Êx 19:1"
+      "reference": "Êx 19:1",
+      "wrongs": [
+        "No deserto de Sim.",
+        "No deserto de Parã.",
+        "Na terra de Canaã."
+      ]
     },
     {
       "id": "EXO.19.curiosity.1",
@@ -688,7 +1028,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus disse que Israel seria para ele?",
       "answer": "Um reino de sacerdotes e um povo santo.",
-      "reference": "Êx 19:6"
+      "reference": "Êx 19:6",
+      "wrongs": [
+        "Um exército de reis e um povo rico.",
+        "Uma nação isolada e um povo sem lei.",
+        "Um grupo de escravos e um povo do Egito."
+      ]
     },
     {
       "id": "EXO.19.curiosity.2",
@@ -698,7 +1043,12 @@
       "kind": "curiosity",
       "prompt": "O que acontecia com quem tocasse o monte, em Êxodo?",
       "answer": "Pessoa ou animal morreria.",
-      "reference": "Êx 19:12"
+      "reference": "Êx 19:12",
+      "wrongs": [
+        "Pessoa ou animal seria abençoado.",
+        "Só o sacerdote podia continuar ali.",
+        "Nada, porque o monte era comum."
+      ]
     },
     {
       "id": "EXO.20.subject.1",
@@ -708,7 +1058,12 @@
       "kind": "subject",
       "prompt": "O que Deus proibiu sobre outros deuses, em Êxodo?",
       "answer": "Não ter nenhum outro diante dele.",
-      "reference": "Êx 20:3"
+      "reference": "Êx 20:3",
+      "wrongs": [
+        "Não falar o nome deles em voz alta.",
+        "Não entrar nos templos aos sábados.",
+        "Não oferecer incenso fora do deserto."
+      ]
     },
     {
       "id": "EXO.20.curiosity.1",
@@ -718,7 +1073,12 @@
       "kind": "curiosity",
       "prompt": "O que era proibido no sétimo dia, em Êxodo?",
       "answer": "Fazer qualquer trabalho.",
-      "reference": "Êx 20:10"
+      "reference": "Êx 20:10",
+      "wrongs": [
+        "Comer pão e beber água.",
+        "Oferecer um sacrifício.",
+        "Descansar dentro de casa."
+      ]
     },
     {
       "id": "EXO.20.curiosity.2",
@@ -728,7 +1088,12 @@
       "kind": "curiosity",
       "prompt": "O que o povo pediu a Moisés, com medo de morrer?",
       "answer": "Que ele falasse, e não Deus.",
-      "reference": "Êx 20:19"
+      "reference": "Êx 20:19",
+      "wrongs": [
+        "Que Deus falasse ainda mais alto.",
+        "Que voltassem logo ao Egito.",
+        "Que o fogo descesse outra vez."
+      ]
     },
     {
       "id": "EXO.21.subject.1",
@@ -738,7 +1103,12 @@
       "kind": "subject",
       "prompt": "Por quanto tempo um servo hebreu devia servir, em Êxodo?",
       "answer": "Seis anos, e no sétimo saía livre.",
-      "reference": "Êx 21:2"
+      "reference": "Êx 21:2",
+      "wrongs": [
+        "Três anos, e no quarto saía livre.",
+        "Dez anos, e no décimo saía livre.",
+        "A vida toda, sem nunca sair livre."
+      ]
     },
     {
       "id": "EXO.21.curiosity.1",
@@ -748,7 +1118,12 @@
       "kind": "curiosity",
       "prompt": "O que a lei exigia em troca de um ferimento, em Êxodo?",
       "answer": "Um dano igual ao que foi causado.",
-      "reference": "Êx 21:24"
+      "reference": "Êx 21:24",
+      "wrongs": [
+        "Uma multa fixa de prata.",
+        "O perdão, sem nenhuma pena.",
+        "A morte, em todo ferimento."
+      ]
     },
     {
       "id": "EXO.21.curiosity.2",
@@ -758,7 +1133,12 @@
       "kind": "curiosity",
       "prompt": "Quanto se pagava se um boi chifrasse um servo, em Êxodo?",
       "answer": "Trinta siclos de prata.",
-      "reference": "Êx 21:32"
+      "reference": "Êx 21:32",
+      "wrongs": [
+        "Vinte siclos de prata.",
+        "Cinquenta siclos de prata.",
+        "Dez siclos de ouro."
+      ]
     },
     {
       "id": "EXO.22.subject.1",
@@ -768,7 +1148,12 @@
       "kind": "subject",
       "prompt": "Qual era a multa por um boi roubado e morto, em Êxodo?",
       "answer": "Cinco bois.",
-      "reference": "Êx 22:1"
+      "reference": "Êx 22:1",
+      "wrongs": [
+        "Quatro bois.",
+        "Dois bois.",
+        "Sete bois."
+      ]
     },
     {
       "id": "EXO.22.curiosity.1",
@@ -778,7 +1163,12 @@
       "kind": "curiosity",
       "prompt": "O que a lei determinava sobre a feiticeira, em Êxodo?",
       "answer": "Que ela não fosse deixada viva.",
-      "reference": "Êx 22:18"
+      "reference": "Êx 22:18",
+      "wrongs": [
+        "Que ela fosse expulsa da terra.",
+        "Que ela pagasse uma multa.",
+        "Que ela servisse no santuário."
+      ]
     },
     {
       "id": "EXO.22.curiosity.2",
@@ -788,7 +1178,12 @@
       "kind": "curiosity",
       "prompt": "Até quando se devolvia a roupa tomada como garantia, em Êxodo?",
       "answer": "Até o pôr do sol.",
-      "reference": "Êx 22:26"
+      "reference": "Êx 22:26",
+      "wrongs": [
+        "Até o fim do mês.",
+        "Até o ano do jubileu.",
+        "Até a festa seguinte."
+      ]
     },
     {
       "id": "EXO.23.subject.1",
@@ -798,7 +1193,12 @@
       "kind": "subject",
       "prompt": "Quantas vezes por ano Israel devia celebrar festa?",
       "answer": "Três vezes.",
-      "reference": "Êx 23:14"
+      "reference": "Êx 23:14",
+      "wrongs": [
+        "Duas vezes.",
+        "Sete vezes.",
+        "Uma vez."
+      ]
     },
     {
       "id": "EXO.23.place.1",
@@ -808,7 +1208,12 @@
       "kind": "place",
       "prompt": "Qual seria o limite da terra dada a Israel?",
       "answer": "Do mar Vermelho ao mar da Filístia, e do deserto ao rio.",
-      "reference": "Êx 23:31"
+      "reference": "Êx 23:31",
+      "wrongs": [
+        "Do Nilo ao monte Sinai, e de Gósen ao palácio.",
+        "Do monte Seir à terra de Midiã, sem passar o Jordão.",
+        "Só em volta do acampamento, sem sair do deserto."
+      ]
     },
     {
       "id": "EXO.23.curiosity.1",
@@ -818,7 +1223,12 @@
       "kind": "curiosity",
       "prompt": "O que era proibido cozinhar no leite da própria mãe, em Êxodo?",
       "answer": "O cabrito.",
-      "reference": "Êx 23:19"
+      "reference": "Êx 23:19",
+      "wrongs": [
+        "O cordeiro.",
+        "O bezerro.",
+        "O pão."
+      ]
     },
     {
       "id": "EXO.23.curiosity.2",
@@ -828,7 +1238,12 @@
       "kind": "curiosity",
       "prompt": "O que acontecia com a terra no sétimo ano, em Êxodo?",
       "answer": "Ficava sem plantio, e os pobres comiam dela.",
-      "reference": "Êx 23:11"
+      "reference": "Êx 23:11",
+      "wrongs": [
+        "Era vendida, e os ricos a colhiam.",
+        "Recebia chuva dobrada, e todos semeavam.",
+        "Ficava fechada, e ninguém entrava nela."
+      ]
     },
     {
       "id": "EXO.24.subject.1",
@@ -838,7 +1253,12 @@
       "kind": "subject",
       "prompt": "O que Moisés espalhou sobre o povo na aliança?",
       "answer": "O sangue da aliança.",
-      "reference": "Êx 24:8"
+      "reference": "Êx 24:8",
+      "wrongs": [
+        "A água do monte.",
+        "O azeite da unção.",
+        "A cinza do altar."
+      ]
     },
     {
       "id": "EXO.24.name.1",
@@ -848,7 +1268,12 @@
       "kind": "name",
       "prompt": "Quem subiu com Moisés e Arão?",
       "answer": "Nadabe, Abiú e setenta anciãos.",
-      "reference": "Êx 24:9"
+      "reference": "Êx 24:9",
+      "wrongs": [
+        "Eleazar, Itamar e doze príncipes.",
+        "Hur, Miriã e os levitas.",
+        "Bezalel, Aoliabe e o povo."
+      ]
     },
     {
       "id": "EXO.24.place.1",
@@ -858,7 +1283,12 @@
       "kind": "place",
       "prompt": "Sobre qual monte pousou a glória de Deus, em Êxodo?",
       "answer": "Sobre o monte Sinai.",
-      "reference": "Êx 24:16"
+      "reference": "Êx 24:16",
+      "wrongs": [
+        "Sobre o monte Carmelo.",
+        "Sobre o monte Nebo.",
+        "Sobre o monte Sião."
+      ]
     },
     {
       "id": "EXO.24.curiosity.1",
@@ -868,7 +1298,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo Moisés ficou no monte?",
       "answer": "Quarenta dias e quarenta noites.",
-      "reference": "Êx 24:18"
+      "reference": "Êx 24:18",
+      "wrongs": [
+        "Sete dias e sete noites.",
+        "Três dias e três noites.",
+        "Doze dias e doze noites."
+      ]
     },
     {
       "id": "EXO.25.subject.1",
@@ -878,7 +1313,12 @@
       "kind": "subject",
       "prompt": "Para que o povo devia fazer um santuário, em Êxodo?",
       "answer": "Para Deus habitar no meio deles.",
-      "reference": "Êx 25:8"
+      "reference": "Êx 25:8",
+      "wrongs": [
+        "Para guardar o ouro de Faraó.",
+        "Para esconder Israel dos inimigos.",
+        "Para Moisés morar longe do povo."
+      ]
     },
     {
       "id": "EXO.25.curiosity.1",
@@ -888,7 +1328,12 @@
       "kind": "curiosity",
       "prompt": "De que madeira Deus mandou fazer a arca da aliança, em Êxodo?",
       "answer": "De acácia.",
-      "reference": "Êx 25:10"
+      "reference": "Êx 25:10",
+      "wrongs": [
+        "De cedro.",
+        "De oliveira.",
+        "De carvalho."
+      ]
     },
     {
       "id": "EXO.25.curiosity.2",
@@ -898,7 +1343,12 @@
       "kind": "curiosity",
       "prompt": "O que ficava nas pontas da tampa da arca, em Êxodo?",
       "answer": "Dois querubins de ouro.",
-      "reference": "Êx 25:18"
+      "reference": "Êx 25:18",
+      "wrongs": [
+        "Duas lâmpadas de prata.",
+        "Dois bois de bronze.",
+        "Duas tábuas soltas."
+      ]
     },
     {
       "id": "EXO.25.curiosity.3",
@@ -908,7 +1358,12 @@
       "kind": "curiosity",
       "prompt": "O que devia ficar sempre sobre a mesa, diante de Deus, em Êxodo?",
       "answer": "O pão da proposição.",
-      "reference": "Êx 25:30"
+      "reference": "Êx 25:30",
+      "wrongs": [
+        "O incenso da manhã.",
+        "O azeite da unção.",
+        "O sangue da oferta."
+      ]
     },
     {
       "id": "EXO.26.subject.1",
@@ -918,7 +1373,12 @@
       "kind": "subject",
       "prompt": "O que separava o lugar santo do santíssimo, em Êxodo?",
       "answer": "Um véu.",
-      "reference": "Êx 26:33"
+      "reference": "Êx 26:33",
+      "wrongs": [
+        "Uma parede de pedra.",
+        "Uma grade de bronze.",
+        "Uma porta de acácia."
+      ]
     },
     {
       "id": "EXO.26.curiosity.1",
@@ -928,7 +1388,12 @@
       "kind": "curiosity",
       "prompt": "De quantas cortinas de linho era o tabernáculo, em Êxodo?",
       "answer": "De dez cortinas.",
-      "reference": "Êx 26:1"
+      "reference": "Êx 26:1",
+      "wrongs": [
+        "De doze cortinas.",
+        "De sete cortinas.",
+        "De quatro cortinas."
+      ]
     },
     {
       "id": "EXO.26.curiosity.2",
@@ -938,7 +1403,12 @@
       "kind": "curiosity",
       "prompt": "De que madeira eram as tábuas do tabernáculo, em Êxodo?",
       "answer": "De acácia.",
-      "reference": "Êx 26:15"
+      "reference": "Êx 26:15",
+      "wrongs": [
+        "De cedro.",
+        "De cipreste.",
+        "De oliveira."
+      ]
     },
     {
       "id": "EXO.27.subject.1",
@@ -948,7 +1418,12 @@
       "kind": "subject",
       "prompt": "Como devia ser o altar de acácia do holocausto, em Êxodo?",
       "answer": "Quadrado, com cinco côvados de lado e três de altura.",
-      "reference": "Êx 27:1"
+      "reference": "Êx 27:1",
+      "wrongs": [
+        "Redondo, com três côvados de lado e cinco de altura.",
+        "Quadrado, com dois côvados de lado e um de altura.",
+        "Retangular, com dez côvados de lado e quatro de altura."
+      ]
     },
     {
       "id": "EXO.27.curiosity.1",
@@ -958,7 +1433,12 @@
       "kind": "curiosity",
       "prompt": "Que azeite devia alimentar as lâmpadas, em Êxodo?",
       "answer": "Azeite puro de olivas, espremido.",
-      "reference": "Êx 27:20"
+      "reference": "Êx 27:20",
+      "wrongs": [
+        "Azeite comum, de várias sementes.",
+        "Azeite misturado com incenso.",
+        "Gordura derretida dos sacrifícios."
+      ]
     },
     {
       "id": "EXO.27.curiosity.2",
@@ -968,7 +1448,12 @@
       "kind": "curiosity",
       "prompt": "Qual era o tamanho do átrio do tabernáculo, em Êxodo?",
       "answer": "Cem côvados por cinquenta, e cinco de altura.",
-      "reference": "Êx 27:18"
+      "reference": "Êx 27:18",
+      "wrongs": [
+        "Cinquenta côvados por vinte, e dez de altura.",
+        "Duzentos côvados por cem, e três de altura.",
+        "Trinta côvados por dez, e cinco de altura."
+      ]
     },
     {
       "id": "EXO.28.subject.1",
@@ -978,7 +1463,12 @@
       "kind": "subject",
       "prompt": "O que Deus mandou fazer para Arão?",
       "answer": "Vestes sagradas, para honra e beleza.",
-      "reference": "Êx 28:2"
+      "reference": "Êx 28:2",
+      "wrongs": [
+        "Uma coroa de rei, para governar o povo.",
+        "Armas de bronze, para guardar o monte.",
+        "Uma casa de cedro, para morar à parte."
+      ]
     },
     {
       "id": "EXO.28.name.1",
@@ -988,7 +1478,12 @@
       "kind": "name",
       "prompt": "Quais filhos de Arão foram chamados ao sacerdócio?",
       "answer": "Nadabe, Abiú, Eleazar e Itamar.",
-      "reference": "Êx 28:1"
+      "reference": "Êx 28:1",
+      "wrongs": [
+        "Gérson, Coate e Merari.",
+        "Finéias, Eli e Samuel.",
+        "Hur, Uri e Bezalel."
+      ]
     },
     {
       "id": "EXO.28.curiosity.1",
@@ -998,7 +1493,12 @@
       "kind": "curiosity",
       "prompt": "O que Arão levava no peitoral do juízo?",
       "answer": "O Urim e o Tumim.",
-      "reference": "Êx 28:30"
+      "reference": "Êx 28:30",
+      "wrongs": [
+        "O maná e a vara.",
+        "As tábuas da lei.",
+        "O azeite e o incenso."
+      ]
     },
     {
       "id": "EXO.28.curiosity.2",
@@ -1008,7 +1508,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus mandou gravar na placa de ouro, em Êxodo?",
       "answer": "Santidade a Deus.",
-      "reference": "Êx 28:36"
+      "reference": "Êx 28:36",
+      "wrongs": [
+        "Glória a Israel.",
+        "Lei de Moisés.",
+        "Nome de Arão."
+      ]
     },
     {
       "id": "EXO.29.subject.1",
@@ -1018,7 +1523,12 @@
       "kind": "subject",
       "prompt": "Para que Deus santificaria Arão e os filhos dele?",
       "answer": "Para serem sacerdotes dele.",
-      "reference": "Êx 29:44"
+      "reference": "Êx 29:44",
+      "wrongs": [
+        "Para serem reis sobre Israel.",
+        "Para serem profetas no Egito.",
+        "Para serem juízes em Midiã."
+      ]
     },
     {
       "id": "EXO.29.curiosity.1",
@@ -1028,7 +1538,12 @@
       "kind": "curiosity",
       "prompt": "Onde se punha o sangue do carneiro em Arão?",
       "answer": "Na orelha direita e nos polegares da mão e do pé.",
-      "reference": "Êx 29:20"
+      "reference": "Êx 29:20",
+      "wrongs": [
+        "Na testa e nos dois joelhos.",
+        "No peito e nas duas palmas.",
+        "Na boca e nos dois ombros."
+      ]
     },
     {
       "id": "EXO.29.curiosity.2",
@@ -1038,7 +1553,12 @@
       "kind": "curiosity",
       "prompt": "Quantos cordeiros se ofereciam cada dia no altar, em Êxodo?",
       "answer": "Dois, sem faltar um dia.",
-      "reference": "Êx 29:38"
+      "reference": "Êx 29:38",
+      "wrongs": [
+        "Um, só pela manhã.",
+        "Sete, um em cada dia da semana.",
+        "Doze, um por cada tribo."
+      ]
     },
     {
       "id": "EXO.29.curiosity.3",
@@ -1048,7 +1568,12 @@
       "kind": "curiosity",
       "prompt": "Onde se queimava a carne do bezerro da expiação, em Êxodo?",
       "answer": "Fora do acampamento.",
-      "reference": "Êx 29:14"
+      "reference": "Êx 29:14",
+      "wrongs": [
+        "Sobre o altar de ouro.",
+        "Dentro da tenda santa.",
+        "Na porta da casa de Arão."
+      ]
     },
     {
       "id": "EXO.30.subject.1",
@@ -1058,7 +1583,12 @@
       "kind": "subject",
       "prompt": "Para que servia o altar de acácia revestido de ouro, em Êxodo?",
       "answer": "Para queimar incenso.",
-      "reference": "Êx 30:1"
+      "reference": "Êx 30:1",
+      "wrongs": [
+        "Para queimar o holocausto.",
+        "Para guardar os pães.",
+        "Para derramar o sangue."
+      ]
     },
     {
       "id": "EXO.30.curiosity.1",
@@ -1068,7 +1598,12 @@
       "kind": "curiosity",
       "prompt": "Quanto cada um dava de oferta na contagem, em Êxodo?",
       "answer": "Meio siclo.",
-      "reference": "Êx 30:13"
+      "reference": "Êx 30:13",
+      "wrongs": [
+        "Um siclo.",
+        "Dois siclos.",
+        "Dez siclos."
+      ]
     },
     {
       "id": "EXO.30.curiosity.2",
@@ -1078,7 +1613,12 @@
       "kind": "curiosity",
       "prompt": "O que Arão e os filhos dele deviam lavar?",
       "answer": "As mãos e os pés.",
-      "reference": "Êx 30:19"
+      "reference": "Êx 30:19",
+      "wrongs": [
+        "Só o rosto.",
+        "A roupa e o cabelo.",
+        "O altar e a pia."
+      ]
     },
     {
       "id": "EXO.31.subject.1",
@@ -1088,7 +1628,12 @@
       "kind": "subject",
       "prompt": "Quem Deus chamou pelo nome na tribo de Judá?",
       "answer": "Bezalel, filho de Uri.",
-      "reference": "Êx 31:2"
+      "reference": "Êx 31:2",
+      "wrongs": [
+        "Aoliabe, filho de Aisamaque.",
+        "Calebe, filho de Jefoné.",
+        "Naassom, filho de Aminadabe."
+      ]
     },
     {
       "id": "EXO.31.name.1",
@@ -1098,7 +1643,12 @@
       "kind": "name",
       "prompt": "Quem Deus pôs para ajudar Bezalel?",
       "answer": "Aoliabe, da tribo de Dã.",
-      "reference": "Êx 31:6"
+      "reference": "Êx 31:6",
+      "wrongs": [
+        "Hur, da tribo de Judá.",
+        "Josué, da tribo de Efraim.",
+        "Itamar, da tribo de Levi."
+      ]
     },
     {
       "id": "EXO.31.place.1",
@@ -1108,7 +1658,12 @@
       "kind": "place",
       "prompt": "Em que monte Moisés recebeu as tábuas de pedra?",
       "answer": "No monte Sinai.",
-      "reference": "Êx 31:18"
+      "reference": "Êx 31:18",
+      "wrongs": [
+        "No monte Nebo.",
+        "No monte Carmelo.",
+        "No monte Sião."
+      ]
     },
     {
       "id": "EXO.31.curiosity.1",
@@ -1118,7 +1673,12 @@
       "kind": "curiosity",
       "prompt": "Com o que foram escritas as tábuas de pedra, em Êxodo?",
       "answer": "Com o dedo de Deus.",
-      "reference": "Êx 31:18"
+      "reference": "Êx 31:18",
+      "wrongs": [
+        "Com o cinzel de Moisés.",
+        "Com a pena de Arão.",
+        "Com o fogo do altar."
+      ]
     },
     {
       "id": "EXO.32.subject.1",
@@ -1128,7 +1688,12 @@
       "kind": "subject",
       "prompt": "Que imagem Arão fez para Israel?",
       "answer": "Um bezerro de metal fundido.",
-      "reference": "Êx 32:4"
+      "reference": "Êx 32:4",
+      "wrongs": [
+        "Uma serpente de bronze.",
+        "Um boi de madeira.",
+        "Uma imagem de Faraó."
+      ]
     },
     {
       "id": "EXO.32.name.1",
@@ -1138,7 +1703,12 @@
       "kind": "name",
       "prompt": "Quem se juntou a Moisés à porta do acampamento?",
       "answer": "Os filhos de Levi.",
-      "reference": "Êx 32:26"
+      "reference": "Êx 32:26",
+      "wrongs": [
+        "Os filhos de Judá.",
+        "Os anciãos de Israel.",
+        "Os homens de Efraim."
+      ]
     },
     {
       "id": "EXO.32.curiosity.1",
@@ -1148,7 +1718,12 @@
       "kind": "curiosity",
       "prompt": "O que Moisés fez com as tábuas ao ver o bezerro?",
       "answer": "Atirou-as e as quebrou.",
-      "reference": "Êx 32:19"
+      "reference": "Êx 32:19",
+      "wrongs": [
+        "Guardou-as dentro da arca.",
+        "Enterrou-as no monte.",
+        "Entregou-as a Arão."
+      ]
     },
     {
       "id": "EXO.32.curiosity.2",
@@ -1158,7 +1733,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens morreram no dia do bezerro de ouro, em Êxodo?",
       "answer": "Cerca de três mil.",
-      "reference": "Êx 32:28"
+      "reference": "Êx 32:28",
+      "wrongs": [
+        "Cerca de quinhentos.",
+        "Cerca de dez mil.",
+        "Cerca de setenta."
+      ]
     },
     {
       "id": "EXO.33.subject.1",
@@ -1168,7 +1748,12 @@
       "kind": "subject",
       "prompt": "Por que ninguém pode ver o rosto de Deus, em Êxodo?",
       "answer": "Porque não sobreviveria.",
-      "reference": "Êx 33:20"
+      "reference": "Êx 33:20",
+      "wrongs": [
+        "Porque o rosto ficava dentro da arca.",
+        "Porque só Arão tinha essa ordem.",
+        "Porque a glória ainda não tinha descido."
+      ]
     },
     {
       "id": "EXO.33.name.1",
@@ -1178,7 +1763,12 @@
       "kind": "name",
       "prompt": "Quem não saía do meio do tabernáculo, em Êxodo?",
       "answer": "Josué, filho de Num.",
-      "reference": "Êx 33:11"
+      "reference": "Êx 33:11",
+      "wrongs": [
+        "Arão, filho de Anrão.",
+        "Hur, filho de Calebe.",
+        "Bezalel, filho de Uri."
+      ]
     },
     {
       "id": "EXO.33.place.1",
@@ -1188,7 +1778,12 @@
       "kind": "place",
       "prompt": "Desde que monte Israel deixou os enfeites?",
       "answer": "Desde o monte Horebe.",
-      "reference": "Êx 33:6"
+      "reference": "Êx 33:6",
+      "wrongs": [
+        "Desde o monte Seir.",
+        "Desde o monte Nebo.",
+        "Desde o monte Carmelo."
+      ]
     },
     {
       "id": "EXO.33.curiosity.1",
@@ -1198,7 +1793,12 @@
       "kind": "curiosity",
       "prompt": "Onde Deus pôs Moisés enquanto a glória passava?",
       "answer": "Numa fenda da rocha, coberto pela mão de Deus.",
-      "reference": "Êx 33:22"
+      "reference": "Êx 33:22",
+      "wrongs": [
+        "No alto do monte, à vista do povo.",
+        "Dentro da arca, entre os querubins.",
+        "Na tenda, atrás do véu."
+      ]
     },
     {
       "id": "EXO.34.subject.1",
@@ -1208,7 +1808,12 @@
       "kind": "subject",
       "prompt": "O que Deus firmou com Moisés e com Israel?",
       "answer": "Uma aliança.",
-      "reference": "Êx 34:27"
+      "reference": "Êx 34:27",
+      "wrongs": [
+        "Um reino.",
+        "Um tributo.",
+        "Um exílio."
+      ]
     },
     {
       "id": "EXO.34.curiosity.1",
@@ -1218,7 +1823,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu com o rosto de Moisés ao descer do Sinai?",
       "answer": "A pele ficou brilhando.",
-      "reference": "Êx 34:29"
+      "reference": "Êx 34:29",
+      "wrongs": [
+        "A pele ficou coberta de cinza.",
+        "A barba ficou queimada.",
+        "O rosto ficou marcado de sangue."
+      ]
     },
     {
       "id": "EXO.34.curiosity.2",
@@ -1228,7 +1838,12 @@
       "kind": "curiosity",
       "prompt": "O que Moisés não consumiu naqueles quarenta dias?",
       "answer": "Pão e água.",
-      "reference": "Êx 34:28"
+      "reference": "Êx 34:28",
+      "wrongs": [
+        "Carne, mas bebeu água.",
+        "Vinho, mas comeu pão.",
+        "Mel, mas bebeu leite."
+      ]
     },
     {
       "id": "EXO.34.curiosity.3",
@@ -1238,7 +1853,12 @@
       "kind": "curiosity",
       "prompt": "Como Deus se apresentou ao passar diante de Moisés?",
       "answer": "Misericordioso, paciente e cheio de bondade.",
-      "reference": "Êx 34:6"
+      "reference": "Êx 34:6",
+      "wrongs": [
+        "Distante, apressado e sem perdão.",
+        "Temível, impaciente e cheio de ira.",
+        "Silencioso, oculto e sem nome."
+      ]
     },
     {
       "id": "EXO.35.subject.1",
@@ -1248,7 +1868,12 @@
       "kind": "subject",
       "prompt": "O que o povo de coração disposto trouxe, em Êxodo?",
       "answer": "Ofertas voluntárias para a obra do tabernáculo.",
-      "reference": "Êx 35:21"
+      "reference": "Êx 35:21",
+      "wrongs": [
+        "Tributos obrigatórios para o palácio de Faraó.",
+        "Armas e carros para a guerra.",
+        "Mantimentos só para a casa de Moisés."
+      ]
     },
     {
       "id": "EXO.35.name.1",
@@ -1258,7 +1883,12 @@
       "kind": "name",
       "prompt": "De que tribo era Bezalel, nomeado por Deus?",
       "answer": "Da tribo de Judá.",
-      "reference": "Êx 35:30"
+      "reference": "Êx 35:30",
+      "wrongs": [
+        "Da tribo de Dã.",
+        "Da tribo de Levi.",
+        "Da tribo de Efraim."
+      ]
     },
     {
       "id": "EXO.35.curiosity.1",
@@ -1268,7 +1898,12 @@
       "kind": "curiosity",
       "prompt": "O que era proibido acender nas casas no sábado, em Êxodo?",
       "answer": "Fogo.",
-      "reference": "Êx 35:3"
+      "reference": "Êx 35:3",
+      "wrongs": [
+        "Lâmpadas do santuário.",
+        "Incenso de especiarias.",
+        "O forno do maná."
+      ]
     },
     {
       "id": "EXO.35.curiosity.2",
@@ -1278,7 +1913,12 @@
       "kind": "curiosity",
       "prompt": "Que joias de ouro os voluntários trouxeram para o tabernáculo, em Êxodo?",
       "answer": "Correntes, pingentes, anéis e pulseiras.",
-      "reference": "Êx 35:22"
+      "reference": "Êx 35:22",
+      "wrongs": [
+        "Coroas, cetros, escudos e capacetes.",
+        "Taças, pratos, facas e caldeirões.",
+        "Moedas, colares de prata e sandálias."
+      ]
     },
     {
       "id": "EXO.36.subject.1",
@@ -1288,7 +1928,12 @@
       "kind": "subject",
       "prompt": "Como ficou o material juntado para a obra do tabernáculo, em Êxodo?",
       "answer": "Era tanto que ainda sobrava.",
-      "reference": "Êx 36:7"
+      "reference": "Êx 36:7",
+      "wrongs": [
+        "Era pouco, e a obra parou.",
+        "Chegou justo, sem faltar nem sobrar.",
+        "Foi recusado, e devolveram tudo."
+      ]
     },
     {
       "id": "EXO.36.name.1",
@@ -1298,7 +1943,12 @@
       "kind": "name",
       "prompt": "Quem fez a obra do tabernáculo, em Êxodo?",
       "answer": "Bezalel, Aoliabe e os demais artesãos.",
-      "reference": "Êx 36:1"
+      "reference": "Êx 36:1",
+      "wrongs": [
+        "Arão, Nadabe e os sacerdotes.",
+        "Moisés, Josué e os anciãos.",
+        "Hur, Calebe e os príncipes."
+      ]
     },
     {
       "id": "EXO.36.curiosity.1",
@@ -1308,7 +1958,12 @@
       "kind": "curiosity",
       "prompt": "Quantos colchetes de ouro uniam as cortinas, em Êxodo?",
       "answer": "Cinquenta.",
-      "reference": "Êx 36:13"
+      "reference": "Êx 36:13",
+      "wrongs": [
+        "Dez.",
+        "Cem.",
+        "Doze."
+      ]
     },
     {
       "id": "EXO.37.subject.1",
@@ -1318,7 +1973,12 @@
       "kind": "subject",
       "prompt": "Como Bezalel revestiu a arca?",
       "answer": "Com ouro puro, por dentro e por fora.",
-      "reference": "Êx 37:2"
+      "reference": "Êx 37:2",
+      "wrongs": [
+        "Com bronze, só por fora.",
+        "Com prata, só por dentro.",
+        "Com ouro, só na tampa."
+      ]
     },
     {
       "id": "EXO.37.name.1",
@@ -1328,7 +1988,12 @@
       "kind": "name",
       "prompt": "Quem fez a arca de acácia, em Êxodo?",
       "answer": "Bezalel.",
-      "reference": "Êx 37:1"
+      "reference": "Êx 37:1",
+      "wrongs": [
+        "Aoliabe.",
+        "Moisés.",
+        "Arão."
+      ]
     },
     {
       "id": "EXO.37.curiosity.1",
@@ -1339,7 +2004,12 @@
       "kind": "curiosity",
       "prompt": "Quanto ouro puro entrou no candelabro e nos utensílios, em Êxodo?",
       "answer": "Um talento.",
-      "reference": "Êx 37:17-24"
+      "reference": "Êx 37:17-24",
+      "wrongs": [
+        "Meio talento.",
+        "Dois talentos.",
+        "Dez talentos."
+      ]
     },
     {
       "id": "EXO.38.subject.1",
@@ -1349,7 +2019,12 @@
       "kind": "subject",
       "prompt": "Quanto ouro de oferta entrou na obra do tabernáculo, em Êxodo?",
       "answer": "29 talentos e 730 siclos.",
-      "reference": "Êx 38:24"
+      "reference": "Êx 38:24",
+      "wrongs": [
+        "100 talentos e 1.775 siclos.",
+        "70 talentos e 2.400 siclos.",
+        "20 talentos e 500 siclos."
+      ]
     },
     {
       "id": "EXO.38.name.1",
@@ -1359,7 +2034,12 @@
       "kind": "name",
       "prompt": "Quem fez a conta dos materiais do tabernáculo, em Êxodo?",
       "answer": "Itamar, filho de Arão.",
-      "reference": "Êx 38:21"
+      "reference": "Êx 38:21",
+      "wrongs": [
+        "Eleazar, filho de Arão.",
+        "Nadabe, filho de Arão.",
+        "Finéias, filho de Eleazar."
+      ]
     },
     {
       "id": "EXO.38.curiosity.1",
@@ -1369,7 +2049,12 @@
       "kind": "curiosity",
       "prompt": "De que foi feita a pia de bronze, em Êxodo?",
       "answer": "Dos espelhos de quem servia à porta.",
-      "reference": "Êx 38:8"
+      "reference": "Êx 38:8",
+      "wrongs": [
+        "Das panelas tomadas no Egito.",
+        "Das lanças deixadas por Amaleque.",
+        "Das moedas da contagem do povo."
+      ]
     },
     {
       "id": "EXO.38.curiosity.2",
@@ -1379,7 +2064,12 @@
       "kind": "curiosity",
       "prompt": "Quantos homens de vinte anos ou mais foram contados no Sinai?",
       "answer": "603.550.",
-      "reference": "Êx 38:26"
+      "reference": "Êx 38:26",
+      "wrongs": [
+        "601.730.",
+        "22.000.",
+        "400.000."
+      ]
     },
     {
       "id": "EXO.39.subject.1",
@@ -1389,7 +2079,12 @@
       "kind": "subject",
       "prompt": "O que Moisés fez ao ver a obra terminada?",
       "answer": "Abençoou os que a fizeram.",
-      "reference": "Êx 39:43"
+      "reference": "Êx 39:43",
+      "wrongs": [
+        "Mandou desfazer o que viu.",
+        "Pagou com prata os artesãos.",
+        "Entregou a obra a Faraó."
+      ]
     },
     {
       "id": "EXO.39.curiosity.1",
@@ -1399,7 +2094,12 @@
       "kind": "curiosity",
       "prompt": "O que gravaram na placa da coroa santa, em Êxodo?",
       "answer": "Santidade a Deus.",
-      "reference": "Êx 39:30"
+      "reference": "Êx 39:30",
+      "wrongs": [
+        "Glória a Israel.",
+        "Lei de Moisés.",
+        "Nome de Arão."
+      ]
     },
     {
       "id": "EXO.39.curiosity.2",
@@ -1409,7 +2109,12 @@
       "kind": "curiosity",
       "prompt": "Quantas pedras do peitoral traziam os nomes das tribos, em Êxodo?",
       "answer": "Doze.",
-      "reference": "Êx 39:14"
+      "reference": "Êx 39:14",
+      "wrongs": [
+        "Sete.",
+        "Dez.",
+        "Quatorze."
+      ]
     },
     {
       "id": "EXO.40.subject.1",
@@ -1419,7 +2124,12 @@
       "kind": "subject",
       "prompt": "O que encheu o tabernáculo quando a nuvem o cobriu, em Êxodo?",
       "answer": "A glória de Deus.",
-      "reference": "Êx 40:34"
+      "reference": "Êx 40:34",
+      "wrongs": [
+        "A fumaça do incenso.",
+        "O fogo do altar.",
+        "A poeira do deserto."
+      ]
     },
     {
       "id": "EXO.40.name.1",
@@ -1429,7 +2139,12 @@
       "kind": "name",
       "prompt": "Quem Deus mandou ungir primeiro como sacerdote, em Êxodo?",
       "answer": "Arão.",
-      "reference": "Êx 40:13"
+      "reference": "Êx 40:13",
+      "wrongs": [
+        "Moisés.",
+        "Eleazar.",
+        "Nadabe."
+      ]
     },
     {
       "id": "EXO.40.curiosity.1",
@@ -1439,7 +2154,12 @@
       "kind": "curiosity",
       "prompt": "Quando o tabernáculo foi armado, em Êxodo?",
       "answer": "No primeiro dia do primeiro mês do segundo ano.",
-      "reference": "Êx 40:17"
+      "reference": "Êx 40:17",
+      "wrongs": [
+        "No décimo dia do primeiro mês do primeiro ano.",
+        "No sétimo dia do terceiro mês do segundo ano.",
+        "No último dia do décimo segundo mês."
+      ]
     },
     {
       "id": "EXO.40.curiosity.2",
@@ -1449,7 +2169,12 @@
       "kind": "curiosity",
       "prompt": "O que ficava sobre o tabernáculo de dia e de noite, em Êxodo?",
       "answer": "A nuvem de dia e o fogo de noite.",
-      "reference": "Êx 40:38"
+      "reference": "Êx 40:38",
+      "wrongs": [
+        "O fogo de dia e a nuvem de noite.",
+        "A glória só de dia, e nada de noite.",
+        "Duas colunas, uma de pó e outra de vento."
+      ]
     },
     {
       "id": "EXO.0.curiosity.1",
@@ -1459,7 +2184,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Êxodo?",
       "answer": "Moisés.",
-      "reference": "Êxodo"
+      "reference": "Êxodo",
+      "wrongs": [
+        "Josué.",
+        "Esdras.",
+        "Davi."
+      ]
     },
     {
       "id": "EXO.0.curiosity.2",
@@ -1469,7 +2199,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Êxodo?",
       "answer": "No século XV antes de Cristo.",
-      "reference": "Êxodo"
+      "reference": "Êxodo",
+      "wrongs": [
+        "No século X antes de Cristo.",
+        "No século V antes de Cristo.",
+        "No século I depois de Cristo."
+      ]
     }
   ]
 }

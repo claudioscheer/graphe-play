@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Quem produziu a profecia da Escritura?",
       "answer": "Homens santos conduzidos pelo Espírito Santo, não pela vontade humana.",
-      "reference": "2Pe 1:21"
+      "reference": "2Pe 1:21",
+      "wrongs": [
+        "Anjos, que ditaram cada frase aos escribas.",
+        "A igreja, reunida para decidir o que seria verdade.",
+        "Sábios, que escreveram só a partir da própria vontade."
+      ]
     },
     {
       "id": "2PE.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem escreve aos que receberam uma fé igualmente preciosa?",
       "answer": "Simão Pedro.",
-      "reference": "2Pe 1:1"
+      "reference": "2Pe 1:1",
+      "wrongs": [
+        "Simão, o zelote.",
+        "Saulo, também chamado Paulo.",
+        "João, filho de Zebedeu."
+      ]
     },
     {
       "id": "2PE.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde Pedro diz ter ouvido a voz vinda do céu?",
       "answer": "No santo monte.",
-      "reference": "2Pe 1:18"
+      "reference": "2Pe 1:18",
+      "wrongs": [
+        "No monte Sinai.",
+        "No monte Sião.",
+        "No monte Carmelo."
+      ]
     },
     {
       "id": "2PE.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que Jesus Cristo revelou que estava perto para Pedro?",
       "answer": "A saída da tenda em que ele vivia.",
-      "reference": "2Pe 1:14"
+      "reference": "2Pe 1:14",
+      "wrongs": [
+        "A queda de Jerusalém naquele ano.",
+        "Uma visão do terceiro céu.",
+        "A coroa de mártir em Antioquia."
+      ]
     },
     {
       "id": "2PE.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "O que os falsos instrutores farão com quem os comprou?",
       "answer": "Vão negá-lo e trazer destruição rápida sobre si.",
-      "reference": "2Pe 2:1"
+      "reference": "2Pe 2:1",
+      "wrongs": [
+        "Vão honrá-lo e trazer paz à igreja.",
+        "Vão esquecê-lo, sem dano para ninguém.",
+        "Vão comprá-lo de novo com ouro."
+      ]
     },
     {
       "id": "2PE.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem foi preservado quando veio o dilúvio, em 2 Pedro?",
       "answer": "Noé, pregador da justiça, e mais sete.",
-      "reference": "2Pe 2:5"
+      "reference": "2Pe 2:5",
+      "wrongs": [
+        "Ló, e as duas filhas.",
+        "Abraão, e toda a casa.",
+        "Elias, sozinho, numa caverna."
+      ]
     },
     {
       "id": "2PE.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Quais cidades Deus destruiu até virarem cinza?",
       "answer": "Sodoma e Gomorra.",
-      "reference": "2Pe 2:6"
+      "reference": "2Pe 2:6",
+      "wrongs": [
+        "Nínive e Babilônia.",
+        "Jericó e Ai.",
+        "Tiro e Sidom."
+      ]
     },
     {
       "id": "2PE.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Qual animal mudo falou com voz humana?",
       "answer": "O animal de jugo.",
-      "reference": "2Pe 2:16"
+      "reference": "2Pe 2:16",
+      "wrongs": [
+        "A serpente do jardim.",
+        "Um leão do deserto.",
+        "Uma pomba do sacrifício."
+      ]
     },
     {
       "id": "2PE.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que Pedro diz que a promessa manda aguardar?",
       "answer": "Céus novos e uma terra nova, onde mora a justiça.",
-      "reference": "2Pe 3:13"
+      "reference": "2Pe 3:13",
+      "wrongs": [
+        "O mesmo céu e a mesma terra, sem mudança.",
+        "Só o templo reconstruído em Jerusalém.",
+        "O fim de tudo, sem céu nem terra."
+      ]
     },
     {
       "id": "2PE.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Qual irmão escreveu sobre a paciência de Deus?",
       "answer": "Paulo.",
-      "reference": "2Pe 3:15"
+      "reference": "2Pe 3:15",
+      "wrongs": [
+        "Tiago.",
+        "João.",
+        "Judas."
+      ]
     },
     {
       "id": "2PE.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "O que equivale a um dia para Deus?",
       "answer": "Mil anos.",
-      "reference": "2Pe 3:8"
+      "reference": "2Pe 3:8",
+      "wrongs": [
+        "Um ano.",
+        "Cem anos.",
+        "Sete dias."
+      ]
     },
     {
       "id": "2PE.3.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Como chegará o dia de Deus?",
       "answer": "De surpresa, como ladrão à noite.",
-      "reference": "2Pe 3:10"
+      "reference": "2Pe 3:10",
+      "wrongs": [
+        "Com aviso, marcado no calendário.",
+        "Devagar, como a maré que sobe.",
+        "Só para Israel, e não para os outros."
+      ]
     },
     {
       "id": "2PE.0.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 2 Pedro?",
       "answer": "Pedro.",
-      "reference": "2 Pedro"
+      "reference": "2 Pedro",
+      "wrongs": [
+        "Paulo.",
+        "João.",
+        "Tiago."
+      ]
     },
     {
       "id": "2PE.0.curiosity.2",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 2 Pedro?",
       "answer": "Pouco antes da morte dele, por volta do ano 67.",
-      "reference": "2 Pedro"
+      "reference": "2 Pedro",
+      "wrongs": [
+        "Logo depois de Pentecostes, por volta do ano 30.",
+        "Junto com a primeira carta, por volta do ano 45.",
+        "Na metade do século II."
+      ]
     }
   ]
 }

@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que é viver e o que é morrer, para Paulo?",
       "answer": "Viver é Cristo, e morrer é ganho.",
-      "reference": "Fp 1:21"
+      "reference": "Fp 1:21",
+      "wrongs": [
+        "Viver é a lei, e morrer é perda.",
+        "Viver é sofrer, e morrer é o fim.",
+        "Viver é o mundo, e morrer é castigo."
+      ]
     },
     {
       "id": "PHP.1.place.1",
@@ -18,7 +23,12 @@
       "kind": "place",
       "prompt": "Onde estavam os santos a quem Paulo escreve que viver é Cristo?",
       "answer": "Em Filipos.",
-      "reference": "Fp 1:1"
+      "reference": "Fp 1:1",
+      "wrongs": [
+        "Em Tessalônica.",
+        "Em Corinto.",
+        "Em Éfeso."
+      ]
     },
     {
       "id": "PHP.1.curiosity.1",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "Até quando Deus completa a boa obra nos filipenses?",
       "answer": "Até o dia em que Jesus Cristo vier.",
-      "reference": "Fp 1:6"
+      "reference": "Fp 1:6",
+      "wrongs": [
+        "Até a morte de Paulo na prisão.",
+        "Até a oferta chegar a Jerusalém.",
+        "Só enquanto a igreja não falhar."
+      ]
     },
     {
       "id": "PHP.1.curiosity.2",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "A quem ficou claro que Paulo estava preso por Cristo?",
       "answer": "A toda a guarda do pretório e aos demais.",
-      "reference": "Fp 1:13"
+      "reference": "Fp 1:13",
+      "wrongs": [
+        "Só a Timóteo e a Lucas, na cela.",
+        "Aos sacerdotes do templo em Jerusalém.",
+        "A ninguém. A prisão ficou em segredo."
+      ]
     },
     {
       "id": "PHP.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Até onde foi a obediência de Jesus?",
       "answer": "Até morrer, e morte de cruz.",
-      "reference": "Fp 2:8"
+      "reference": "Fp 2:8",
+      "wrongs": [
+        "Até o batismo no Jordão.",
+        "Até entrar em Jerusalém montado.",
+        "Até discutir com os mestres no templo."
+      ]
     },
     {
       "id": "PHP.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem Paulo enviou de volta aos filipenses?",
       "answer": "Epafrodito, cooperador e companheiro de luta.",
-      "reference": "Fp 2:25"
+      "reference": "Fp 2:25",
+      "wrongs": [
+        "Timóteo, filho na fé e mensageiro.",
+        "Tito, irmão enviado à coleta.",
+        "Tíquico, servidor que levou a carta."
+      ]
     },
     {
       "id": "PHP.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Onde todo joelho se dobrará ao nome de Jesus?",
       "answer": "No céu, na terra e também debaixo dela.",
-      "reference": "Fp 2:10"
+      "reference": "Fp 2:10",
+      "wrongs": [
+        "Só no céu, entre os anjos.",
+        "Só em Israel, na terra prometida.",
+        "No templo, diante dos sacerdotes."
+      ]
     },
     {
       "id": "PHP.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Quão doente Epafrodito chegou a ficar?",
       "answer": "Quase morreu, mas Deus teve misericórdia.",
-      "reference": "Fp 2:27"
+      "reference": "Fp 2:27",
+      "wrongs": [
+        "Sarou no mesmo dia, sem ficar grave.",
+        "Morreu na viagem e foi sepultado.",
+        "Fingiu a doença para voltar mais cedo."
+      ]
     },
     {
       "id": "PHP.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Por que Paulo tratou tudo o que tinha como perda?",
       "answer": "Para ganhar Cristo e conhecê-lo.",
-      "reference": "Fp 3:8"
+      "reference": "Fp 3:8",
+      "wrongs": [
+        "Para guardar a justiça que vinha da lei.",
+        "Para recuperar o cargo que tinha perdido.",
+        "Para ser louvado pelas igrejas da Judeia."
+      ]
     },
     {
       "id": "PHP.3.place.1",
@@ -98,7 +143,12 @@
       "kind": "place",
       "prompt": "De onde Paulo diz que os crentes são cidadãos?",
       "answer": "Do céu, de onde esperam o Salvador.",
-      "reference": "Fp 3:20"
+      "reference": "Fp 3:20",
+      "wrongs": [
+        "De Roma, onde César governa.",
+        "De Jerusalém, a cidade do templo.",
+        "Da terra, onde está a cidadania deles."
+      ]
     },
     {
       "id": "PHP.3.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "Em que dia Paulo foi circuncidado?",
       "answer": "No oitavo dia.",
-      "reference": "Fp 3:5"
+      "reference": "Fp 3:5",
+      "wrongs": [
+        "No sétimo dia.",
+        "No trigésimo dia.",
+        "No primeiro dia."
+      ]
     },
     {
       "id": "PHP.3.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Para que alvo Paulo continua avançando?",
       "answer": "O prêmio do chamado de Deus lá em cima.",
-      "reference": "Fp 3:14"
+      "reference": "Fp 3:14",
+      "wrongs": [
+        "A coroa de louro dos jogos romanos.",
+        "O cargo de fariseu que ele deixou.",
+        "A herança de terra em Israel."
+      ]
     },
     {
       "id": "PHP.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "O que fazer em vez de viver ansioso?",
       "answer": "Levar os pedidos a Deus, com gratidão.",
-      "reference": "Fp 4:6"
+      "reference": "Fp 4:6",
+      "wrongs": [
+        "Esconder a preocupação e não orar.",
+        "Resolver tudo sozinho, sem pedir nada.",
+        "Jejuar em silêncio até a ansiedade passar."
+      ]
     },
     {
       "id": "PHP.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Quem Paulo pede que pensem do mesmo modo?",
       "answer": "Evódia e Síntique.",
-      "reference": "Fp 4:2"
+      "reference": "Fp 4:2",
+      "wrongs": [
+        "Priscila e Áquila.",
+        "Marta e Maria.",
+        "Lídia e Febe."
+      ]
     },
     {
       "id": "PHP.4.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "Onde estavam os santos que Paulo destaca na saudação?",
       "answer": "Na casa de César.",
-      "reference": "Fp 4:22"
+      "reference": "Fp 4:22",
+      "wrongs": [
+        "Na casa de Lídia.",
+        "Na casa de Filemom.",
+        "No templo de Jerusalém."
+      ]
     },
     {
       "id": "PHP.4.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Em quem Paulo diz que pode todas as coisas?",
       "answer": "Em Cristo, que lhe dá força.",
-      "reference": "Fp 4:13"
+      "reference": "Fp 4:13",
+      "wrongs": [
+        "Em si mesmo, treinado desde jovem.",
+        "Na lei, que ele cumpria sem falta.",
+        "Nos amigos, que supriam cada necessidade."
+      ]
     },
     {
       "id": "PHP.0.curiosity.1",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Filipenses?",
       "answer": "Paulo.",
-      "reference": "Filipenses"
+      "reference": "Filipenses",
+      "wrongs": [
+        "Timóteo.",
+        "Epafrodito.",
+        "Lucas."
+      ]
     },
     {
       "id": "PHP.0.curiosity.2",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Filipenses?",
       "answer": "Na prisão, por volta do ano 61.",
-      "reference": "Filipenses"
+      "reference": "Filipenses",
+      "wrongs": [
+        "Na viagem, por volta do ano 51.",
+        "Em liberdade, por volta do ano 57.",
+        "Depois da morte de Nero, por volta do ano 70."
+      ]
     },
     {
       "id": "PHP.0.curiosity.3",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu Filipenses?",
       "answer": "Para os santos que estavam em Filipos.",
-      "reference": "Fp 1:1"
+      "reference": "Fp 1:1",
+      "wrongs": [
+        "Para os santos que estavam em Tessalônica.",
+        "Para os santos que estavam em Corinto.",
+        "Para os santos que estavam em Éfeso."
+      ]
     }
   ]
 }

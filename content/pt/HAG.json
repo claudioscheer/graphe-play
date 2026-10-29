@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que o povo começou a fazer na casa de Deus, em Ageu?",
       "answer": "A obra de reconstruir a casa.",
-      "reference": "Ag 1:14"
+      "reference": "Ag 1:14",
+      "wrongs": [
+        "A obra de derrubar a casa.",
+        "A festa sem mexer na obra.",
+        "A mudança da casa para o Egito."
+      ]
     },
     {
       "id": "HAG.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem governava Judá quando Ageu falou?",
       "answer": "Zorobabel, filho de Sealtiel.",
-      "reference": "Ag 1:1"
+      "reference": "Ag 1:1",
+      "wrongs": [
+        "Josué, filho de Jeozadaque.",
+        "Neemias, filho de Hacalias.",
+        "Esdras, filho de Seraías."
+      ]
     },
     {
       "id": "HAG.1.name.2",
@@ -28,7 +38,12 @@
       "kind": "name",
       "prompt": "Quem era o sumo sacerdote no tempo de Ageu?",
       "answer": "Josué, filho de Jeozadaque.",
-      "reference": "Ag 1:1"
+      "reference": "Ag 1:1",
+      "wrongs": [
+        "Zorobabel, filho de Sealtiel.",
+        "Eli, filho de Fineias.",
+        "Arão, filho de Anrão."
+      ]
     },
     {
       "id": "HAG.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Onde o salário do trabalhador ia parar, em Ageu?",
       "answer": "Numa bolsa furada.",
-      "reference": "Ag 1:6"
+      "reference": "Ag 1:6",
+      "wrongs": [
+        "Num cofre cheio.",
+        "No altar do templo.",
+        "Na mão do rei."
+      ]
     },
     {
       "id": "HAG.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Como será a glória da nova casa de Deus, em Ageu?",
       "answer": "Maior do que a glória da primeira.",
-      "reference": "Ag 2:9"
+      "reference": "Ag 2:9",
+      "wrongs": [
+        "Menor do que a glória da primeira.",
+        "Igual à glória da casa primeira.",
+        "Nenhuma, pois a casa fica vazia."
+      ]
     },
     {
       "id": "HAG.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem Ageu diz que Deus chama de servo escolhido?",
       "answer": "Zorobabel, filho de Sealtiel.",
-      "reference": "Ag 2:23"
+      "reference": "Ag 2:23",
+      "wrongs": [
+        "Josué, filho de Jeozadaque.",
+        "Dario, rei da Pérsia.",
+        "Ageu, servo do templo."
+      ]
     },
     {
       "id": "HAG.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "De que terra o povo tinha saído na aliança, em Ageu?",
       "answer": "Do Egito.",
-      "reference": "Ag 2:5"
+      "reference": "Ag 2:5",
+      "wrongs": [
+        "Da Babilônia.",
+        "Da Assíria.",
+        "De Ur."
+      ]
     },
     {
       "id": "HAG.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "A que objeto Deus compara Zorobabel?",
       "answer": "A um anel de selar.",
-      "reference": "Ag 2:23"
+      "reference": "Ag 2:23",
+      "wrongs": [
+        "A uma coroa de ouro.",
+        "A uma espada de ferro.",
+        "A um cajado de pastor."
+      ]
     },
     {
       "id": "HAG.0.curiosity.1",
@@ -88,7 +128,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Ageu?",
       "answer": "Ageu.",
-      "reference": "Ageu"
+      "reference": "Ageu",
+      "wrongs": [
+        "Joel.",
+        "Naum.",
+        "Amós."
+      ]
     },
     {
       "id": "HAG.0.curiosity.2",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Ageu?",
       "answer": "Em 520 antes de Cristo.",
-      "reference": "Ageu"
+      "reference": "Ageu",
+      "wrongs": [
+        "Em 586 antes de Cristo.",
+        "Em 445 antes de Cristo.",
+        "Em 70 depois de Cristo."
+      ]
     }
   ]
 }

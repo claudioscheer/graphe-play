@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Que espírito Deus deu, em vez do medo?",
       "answer": "Força, amor e moderação.",
-      "reference": "2Tm 1:7"
+      "reference": "2Tm 1:7",
+      "wrongs": [
+        "Medo, dúvida e silêncio.",
+        "Poder, riqueza e fama.",
+        "Lei, culpa e castigo."
+      ]
     },
     {
       "id": "2TI.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Em quem a fé de Timóteo morou primeiro?",
       "answer": "Na avó Loide e na mãe Eunice.",
-      "reference": "2Tm 1:5"
+      "reference": "2Tm 1:5",
+      "wrongs": [
+        "No pai grego e no irmão mais velho.",
+        "Em Paulo e em Barnabé, antes dele.",
+        "Em Pedro e em João, em Jerusalém."
+      ]
     },
     {
       "id": "2TI.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde Onesíforo procurou Paulo até achá-lo?",
       "answer": "Em Roma.",
-      "reference": "2Tm 1:17"
+      "reference": "2Tm 1:17",
+      "wrongs": [
+        "Em Éfeso.",
+        "Em Corinto.",
+        "Em Mileto."
+      ]
     },
     {
       "id": "2TI.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que Timóteo deve fazer com o dom de Deus?",
       "answer": "Reacendê-lo, pois veio pela imposição das mãos de Paulo.",
-      "reference": "2Tm 1:6"
+      "reference": "2Tm 1:6",
+      "wrongs": [
+        "Escondê-lo, para não chamar atenção.",
+        "Entregá-lo a outro, mais velho que ele.",
+        "Trocá-lo por um cargo na cidade."
+      ]
     },
     {
       "id": "2TI.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "A quem Timóteo deve passar o que ouviu de Paulo?",
       "answer": "A pessoas fiéis, capazes de ensinar outras.",
-      "reference": "2Tm 2:2"
+      "reference": "2Tm 2:2",
+      "wrongs": [
+        "Só aos presbíteros de Jerusalém.",
+        "A quem pagar pelo ensino.",
+        "A ninguém. O ensino para em Timóteo."
+      ]
     },
     {
       "id": "2TI.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "De quem a palavra se espalha como gangrena?",
       "answer": "De Himeneu e de Fileto.",
-      "reference": "2Tm 2:17"
+      "reference": "2Tm 2:17",
+      "wrongs": [
+        "De Demas e de Crescente.",
+        "De Figelo e de Hermógenes.",
+        "De Janes e de Jambres."
+      ]
     },
     {
       "id": "2TI.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "Quando o atleta recebe a coroa?",
       "answer": "Somente se competir conforme as regras.",
-      "reference": "2Tm 2:5"
+      "reference": "2Tm 2:5",
+      "wrongs": [
+        "Sempre, mesmo se cortar o caminho.",
+        "Só se for o mais forte da pista.",
+        "Nunca. A coroa é só para os juízes."
+      ]
     },
     {
       "id": "2TI.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Além de ouro e prata, que utensílios há numa casa grande?",
       "answer": "Os de madeira e os de barro.",
-      "reference": "2Tm 2:20"
+      "reference": "2Tm 2:20",
+      "wrongs": [
+        "Os de bronze e os de ferro.",
+        "Os de linho e os de couro.",
+        "Nenhum outro. Só ouro e prata."
+      ]
     },
     {
       "id": "2TI.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Para que serve toda a Escritura?",
       "answer": "Para ensinar, corrigir e educar na justiça.",
-      "reference": "2Tm 3:16"
+      "reference": "2Tm 3:16",
+      "wrongs": [
+        "Para substituir Cristo como mediador.",
+        "Para ficar guardada, sem ser lida.",
+        "Para valer só até João Batista."
+      ]
     },
     {
       "id": "2TI.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem Paulo cita como opositores de Moisés?",
       "answer": "Janes e Jambres.",
-      "reference": "2Tm 3:8"
+      "reference": "2Tm 3:8",
+      "wrongs": [
+        "Datã e Abirão.",
+        "Himeneu e Fileto.",
+        "Anás e Caifás."
+      ]
     },
     {
       "id": "2TI.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Onde Paulo foi perseguido e mesmo assim foi livrado?",
       "answer": "Em Antioquia, Icônio e Listra.",
-      "reference": "2Tm 3:11"
+      "reference": "2Tm 3:11",
+      "wrongs": [
+        "Em Corinto, Atenas e Beréia.",
+        "Em Roma, Puteóli e Três Tavernas.",
+        "Em Éfeso, Mileto e Patmos."
+      ]
     },
     {
       "id": "2TI.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Desde quando Timóteo conhece as Escrituras?",
       "answer": "Desde a infância.",
-      "reference": "2Tm 3:15"
+      "reference": "2Tm 3:15",
+      "wrongs": [
+        "Desde o batismo, já adulto.",
+        "Desde que Paulo o encontrou.",
+        "Só nos últimos anos, na prisão."
+      ]
     },
     {
       "id": "2TI.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "O que Paulo pede que Timóteo faça com a palavra?",
       "answer": "Que a pregue, haja tempo oportuno ou não.",
-      "reference": "2Tm 4:2"
+      "reference": "2Tm 4:2",
+      "wrongs": [
+        "Que a guarde em silêncio até haver paz.",
+        "Que a pregue só no sábado, na sinagoga.",
+        "Que espere um anjo confirmar cada palavra."
+      ]
     },
     {
       "id": "2TI.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Quem abandonou Paulo por amar o tempo de agora?",
       "answer": "Demas, e foi para Tessalônica.",
-      "reference": "2Tm 4:10"
+      "reference": "2Tm 4:10",
+      "wrongs": [
+        "Himeneu, e ficou espalhando o erro.",
+        "Alexandre, o latoeiro, e continuou em Éfeso.",
+        "Figelo, e se afastou na Ásia."
+      ]
     },
     {
       "id": "2TI.4.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "Em que casa Paulo deixou a capa?",
       "answer": "Na casa de Carpo, na cidade de Trôade.",
-      "reference": "2Tm 4:13"
+      "reference": "2Tm 4:13",
+      "wrongs": [
+        "Na casa de Lídia, na cidade de Filipos.",
+        "Na casa de Filemom, na cidade de Colossos.",
+        "Na casa de Áquila, na cidade de Éfeso."
+      ]
     },
     {
       "id": "2TI.4.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "O que Paulo pediu além da capa?",
       "answer": "Os livros, principalmente os pergaminhos.",
-      "reference": "2Tm 4:13"
+      "reference": "2Tm 4:13",
+      "wrongs": [
+        "A capa de inverno, e mais nada.",
+        "As cartas às igrejas, já copiadas.",
+        "O dinheiro da oferta, guardado ali."
+      ]
     },
     {
       "id": "2TI.4.curiosity.2",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "O que Paulo diz que já completou?",
       "answer": "A boa luta, a corrida e a guarda da fé.",
-      "reference": "2Tm 4:7"
+      "reference": "2Tm 4:7",
+      "wrongs": [
+        "A coleta, a viagem e a fundação de Roma.",
+        "A lei, o sacerdócio e o voto de nazireu.",
+        "Nada. A corrida ainda estava no começo."
+      ]
     },
     {
       "id": "2TI.0.curiosity.1",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 2 Timóteo?",
       "answer": "Paulo.",
-      "reference": "2 Timóteo"
+      "reference": "2 Timóteo",
+      "wrongs": [
+        "Timóteo.",
+        "Lucas.",
+        "Pedro."
+      ]
     },
     {
       "id": "2TI.0.curiosity.2",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 2 Timóteo?",
       "answer": "Perto da morte dele, por volta do ano 67.",
-      "reference": "2 Timóteo"
+      "reference": "2 Timóteo",
+      "wrongs": [
+        "No início da viagem, por volta do ano 49.",
+        "Logo após o concílio, por volta do ano 50.",
+        "Na primeira prisão, por volta do ano 60."
+      ]
     },
     {
       "id": "2TI.0.curiosity.3",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu 2 Timóteo?",
       "answer": "Para Timóteo, seu filho amado.",
-      "reference": "2Tm 1:2"
+      "reference": "2Tm 1:2",
+      "wrongs": [
+        "Para Tito, seu filho na fé.",
+        "Para Filemom, cooperador querido.",
+        "Para a igreja dos efésios."
+      ]
     }
   ]
 }

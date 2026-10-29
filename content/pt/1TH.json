@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "O que os tessalonicenses deixaram para servir a Deus?",
       "answer": "Os ídolos, e passaram a servir o Deus vivo.",
-      "reference": "1Ts 1:9"
+      "reference": "1Ts 1:9",
+      "wrongs": [
+        "A lei de Moisés, e voltaram aos sacrifícios.",
+        "A sinagoga, e passaram a servir o imperador.",
+        "O evangelho, e voltaram aos deuses da cidade."
+      ]
     },
     {
       "id": "1TH.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem escreve com Paulo à igreja de Tessalônica?",
       "answer": "Silvano e Timóteo.",
-      "reference": "1Ts 1:1"
+      "reference": "1Ts 1:1",
+      "wrongs": [
+        "Barnabé e Marcos.",
+        "Áquila e Priscila.",
+        "Tito e Lucas."
+      ]
     },
     {
       "id": "1TH.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde a fé dos tessalonicenses se espalhou, em 1 Tessalonicenses?",
       "answer": "Na Macedônia, na Acaia e por toda parte.",
-      "reference": "1Ts 1:8"
+      "reference": "1Ts 1:8",
+      "wrongs": [
+        "Na Judeia, na Galileia e só em Jerusalém.",
+        "No Egito, na Síria e só em Antioquia.",
+        "Na Itália, na Espanha e só em Roma."
+      ]
     },
     {
       "id": "1TH.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "A quem os tessalonicenses esperam dos céus?",
       "answer": "Jesus, a quem Deus ressuscitou e que livra da ira.",
-      "reference": "1Ts 1:10"
+      "reference": "1Ts 1:10",
+      "wrongs": [
+        "Elias, que há de voltar antes do grande dia.",
+        "Um anjo, que trará alívio sem julgar.",
+        "Paulo, que voltaria logo de Atenas."
+      ]
     },
     {
       "id": "1TH.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Como os tessalonicenses receberam a mensagem?",
       "answer": "Como palavra de Deus, não como fala de homens.",
-      "reference": "1Ts 2:13"
+      "reference": "1Ts 2:13",
+      "wrongs": [
+        "Como opinião de Paulo, aberta a correção.",
+        "Como lei nova, no lugar da de Moisés.",
+        "Como boato da cidade, sem autoridade."
+      ]
     },
     {
       "id": "1TH.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem impediu Paulo de visitar os tessalonicenses?",
       "answer": "Satanás.",
-      "reference": "1Ts 2:18"
+      "reference": "1Ts 2:18",
+      "wrongs": [
+        "Os judeus da cidade.",
+        "O governador romano.",
+        "Pedro."
+      ]
     },
     {
       "id": "1TH.2.place.1",
@@ -68,7 +98,12 @@
       "kind": "place",
       "prompt": "Onde Paulo já tinha sido maltratado?",
       "answer": "Em Filipos.",
-      "reference": "1Ts 2:2"
+      "reference": "1Ts 2:2",
+      "wrongs": [
+        "Em Atenas.",
+        "Em Beréia.",
+        "Em Corinto."
+      ]
     },
     {
       "id": "1TH.2.curiosity.1",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Quando Paulo trabalhava para não ser peso?",
       "answer": "Noite e dia, enquanto anunciava o evangelho.",
-      "reference": "1Ts 2:9"
+      "reference": "1Ts 2:9",
+      "wrongs": [
+        "Só no sábado, longe da pregação.",
+        "Nunca. As igrejas é que o sustentavam.",
+        "Um dia por semana, no ofício de escriba."
+      ]
     },
     {
       "id": "1TH.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Para que Paulo enviou Timóteo aos tessalonicenses?",
       "answer": "Para fortalecer e animar a fé deles.",
-      "reference": "1Ts 3:2"
+      "reference": "1Ts 3:2",
+      "wrongs": [
+        "Para recolher a oferta e voltar logo.",
+        "Para castigar quem tinha abandonado a fé.",
+        "Para substituir Paulo como apóstolo da cidade."
+      ]
     },
     {
       "id": "1TH.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem Paulo enviou para cuidar da fé em Tessalônica?",
       "answer": "Timóteo, cooperador no evangelho.",
-      "reference": "1Ts 3:2"
+      "reference": "1Ts 3:2",
+      "wrongs": [
+        "Tito, encarregado da coleta.",
+        "Silas, que ficou preso em Filipos.",
+        "Lucas, o médico que viajava com Paulo."
+      ]
     },
     {
       "id": "1TH.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Onde Paulo decidiu ficar sozinho?",
       "answer": "Em Atenas.",
-      "reference": "1Ts 3:1"
+      "reference": "1Ts 3:1",
+      "wrongs": [
+        "Em Corinto.",
+        "Em Beréia.",
+        "Em Filipos."
+      ]
     },
     {
       "id": "1TH.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Que notícia Timóteo trouxe de Tessalônica?",
       "answer": "Boa notícia da fé e do amor deles.",
-      "reference": "1Ts 3:6"
+      "reference": "1Ts 3:6",
+      "wrongs": [
+        "Que a igreja tinha abandonado a fé.",
+        "Que o governador os tinha expulsado.",
+        "Que ninguém mais lembrava de Paulo."
+      ]
     },
     {
       "id": "1TH.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Quem ressuscita primeiro quando Jesus descer?",
       "answer": "Os mortos que estão em Cristo.",
-      "reference": "1Ts 4:16"
+      "reference": "1Ts 4:16",
+      "wrongs": [
+        "Os vivos que ainda trabalham.",
+        "Os anjos que descem com ele.",
+        "Os mártires de Jerusalém."
+      ]
     },
     {
       "id": "1TH.4.place.1",
@@ -138,7 +203,12 @@
       "kind": "place",
       "prompt": "Para onde os vivos e os mortos vão encontrar Jesus?",
       "answer": "Às nuvens, para ficar com ele para sempre.",
-      "reference": "1Ts 4:17"
+      "reference": "1Ts 4:17",
+      "wrongs": [
+        "Ao monte Sinai, para ouvir a lei de novo.",
+        "Ao templo, para recomeçar os sacrifícios.",
+        "Ao deserto, para esperar mais sete anos."
+      ]
     },
     {
       "id": "1TH.4.curiosity.1",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "Qual é a vontade de Deus para os tessalonicenses?",
       "answer": "A santidade, afastando-se do pecado sexual.",
-      "reference": "1Ts 4:3"
+      "reference": "1Ts 4:3",
+      "wrongs": [
+        "A riqueza, conseguida com o próprio trabalho.",
+        "A vingança, contra quem persegue a igreja.",
+        "O silêncio, sem anunciar o evangelho."
+      ]
     },
     {
       "id": "1TH.4.curiosity.2",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "O que Paulo manda fazer com as próprias mãos?",
       "answer": "Trabalhar, vivendo em paz e cuidando da própria vida.",
-      "reference": "1Ts 4:11"
+      "reference": "1Ts 4:11",
+      "wrongs": [
+        "Parar, e esperar o pão dos outros.",
+        "Protestar, e deixar o ofício de lado.",
+        "Jejuar, sem cuidar da própria casa."
+      ]
     },
     {
       "id": "1TH.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "Como Paulo descreve a chegada do dia final?",
       "answer": "De repente, como ladrão durante a noite.",
-      "reference": "1Ts 5:2"
+      "reference": "1Ts 5:2",
+      "wrongs": [
+        "Com aviso, marcado no calendário.",
+        "Devagar, como o sol que nasce.",
+        "Só depois que Israel voltar ao trono."
+      ]
     },
     {
       "id": "1TH.5.curiosity.1",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "De que se veste quem pertence ao dia?",
       "answer": "Couraça de fé e amor, e capacete da esperança de salvação.",
-      "reference": "1Ts 5:8"
+      "reference": "1Ts 5:8",
+      "wrongs": [
+        "Manto de linho, e coroa de ouro do templo.",
+        "Armadura romana, e escudo de bronze.",
+        "Cinza de jejum, e corda na cintura."
+      ]
     },
     {
       "id": "1TH.5.curiosity.2",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "Com que frequência Paulo manda orar?",
       "answer": "Sem parar.",
-      "reference": "1Ts 5:17"
+      "reference": "1Ts 5:17",
+      "wrongs": [
+        "Só no sábado.",
+        "Uma vez por ano.",
+        "Só na aflição."
+      ]
     },
     {
       "id": "1TH.5.curiosity.3",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "O que não se deve fazer com o Espírito?",
       "answer": "Não o apague.",
-      "reference": "1Ts 5:19"
+      "reference": "1Ts 5:19",
+      "wrongs": [
+        "Não o prenda numa regra.",
+        "Não o troque por um ídolo.",
+        "Não o confunda com o vinho."
+      ]
     },
     {
       "id": "1TH.0.curiosity.1",
@@ -208,7 +308,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 1 Tessalonicenses?",
       "answer": "Paulo.",
-      "reference": "1 Tessalonicenses"
+      "reference": "1 Tessalonicenses",
+      "wrongs": [
+        "Silvano.",
+        "Timóteo.",
+        "Pedro."
+      ]
     },
     {
       "id": "1TH.0.curiosity.2",
@@ -218,7 +323,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 1 Tessalonicenses?",
       "answer": "Por volta do ano 51.",
-      "reference": "1 Tessalonicenses"
+      "reference": "1 Tessalonicenses",
+      "wrongs": [
+        "Por volta do ano 45.",
+        "Por volta do ano 60.",
+        "Por volta do ano 67."
+      ]
     },
     {
       "id": "1TH.0.curiosity.3",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "Para quem Paulo escreveu 1 Tessalonicenses?",
       "answer": "Para a igreja dos tessalonicenses.",
-      "reference": "1Ts 1:1"
+      "reference": "1Ts 1:1",
+      "wrongs": [
+        "Para a igreja dos filipenses.",
+        "Para a igreja dos coríntios.",
+        "Para a igreja dos efésios."
+      ]
     }
   ]
 }

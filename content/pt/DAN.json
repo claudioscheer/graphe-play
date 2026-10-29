@@ -8,6 +8,11 @@
       "kind": "subject",
       "prompt": "Por que Daniel recusou a comida do rei da Babilônia?",
       "answer": "Para não se contaminar com ela nem com o vinho.",
+      "wrongs": [
+        "Para não engordar com ela nem com o mel.",
+        "Para não pagar por ela nem pelo ouro.",
+        "Para não dividi-la com os magos do palácio."
+      ],
       "reference": "Dn 1:8"
     },
     {
@@ -18,6 +23,11 @@
       "kind": "name",
       "prompt": "Quais jovens de Judá entraram na corte da Babilônia?",
       "answer": "Daniel, Ananias, Misael e Azarias.",
+      "wrongs": [
+        "Jeremias, Baruque, Ezequiel e Oséias.",
+        "Josué, Zorobabel, Ageu e Zacarias.",
+        "Isaías, Miquéias, Naum e Sofonias."
+      ],
       "reference": "Dn 1:6"
     },
     {
@@ -28,6 +38,11 @@
       "kind": "place",
       "prompt": "Para onde Nabucodonosor levou parte dos vasos do templo?",
       "answer": "Para a terra de Sinar.",
+      "wrongs": [
+        "Para a terra do Egito.",
+        "Para a terra de Cuxe.",
+        "Para a terra de Elão."
+      ],
       "reference": "Dn 1:2"
     },
     {
@@ -38,6 +53,11 @@
       "kind": "curiosity",
       "prompt": "Por quantos dias Daniel pediu o teste com legumes?",
       "answer": "Por dez dias.",
+      "wrongs": [
+        "Por três dias.",
+        "Por quarenta dias.",
+        "Por um ano."
+      ],
       "reference": "Dn 1:12"
     },
     {
@@ -48,6 +68,11 @@
       "kind": "subject",
       "prompt": "Que reino Deus levanta no sonho de Nabucodonosor?",
       "answer": "Um reino eterno, que não muda de povo.",
+      "wrongs": [
+        "Um reino breve, que muda de povo.",
+        "Um reino de ferro, que se parte no fim.",
+        "Um reino de barro, que seca ao sol."
+      ],
       "reference": "Dn 2:44"
     },
     {
@@ -58,6 +83,11 @@
       "kind": "name",
       "prompt": "Qual era o nome de Daniel na corte babilônica?",
       "answer": "Beltessazar.",
+      "wrongs": [
+        "Sadraque.",
+        "Mesaque.",
+        "Abednego."
+      ],
       "reference": "Dn 2:26"
     },
     {
@@ -68,6 +98,11 @@
       "kind": "place",
       "prompt": "Qual província Daniel passou a governar?",
       "answer": "A província da Babilônia.",
+      "wrongs": [
+        "A província de Elão.",
+        "A província da Média.",
+        "A província do Egito."
+      ],
       "reference": "Dn 2:48"
     },
     {
@@ -78,6 +113,11 @@
       "kind": "curiosity",
       "prompt": "De que metal era a cabeça da estátua do sonho, em Daniel?",
       "answer": "De ouro puro.",
+      "wrongs": [
+        "De prata pura.",
+        "De bronze puro.",
+        "De ferro puro."
+      ],
       "reference": "Dn 2:32"
     },
     {
@@ -88,6 +128,11 @@
       "kind": "subject",
       "prompt": "Quem livrou Sadraque, Mesaque e Abednego do fogo?",
       "answer": "O Deus deles, ao enviar um anjo.",
+      "wrongs": [
+        "O rei, ao apagar o fogo com água.",
+        "A chuva, ao cair sobre a fornalha.",
+        "Os guardas, ao tirá-los com ganchos."
+      ],
       "reference": "Dn 3:28"
     },
     {
@@ -98,6 +143,11 @@
       "kind": "name",
       "prompt": "Quem não adorou a estátua de ouro de Nabucodonosor?",
       "answer": "Sadraque, Mesaque e Abednego.",
+      "wrongs": [
+        "Daniel, Ezequiel e Baruque.",
+        "Os magos, os caldeus e os astrólogos.",
+        "O rei, o copeiro e o governador."
+      ],
       "reference": "Dn 3:12"
     },
     {
@@ -108,6 +158,11 @@
       "kind": "place",
       "prompt": "Onde foi erguida a estátua de ouro de Nabucodonosor?",
       "answer": "No campo de Dura, em terra babilônica.",
+      "wrongs": [
+        "No campo de Dotã, em terra de Israel.",
+        "No vale do Jordão, em terra de Canaã.",
+        "Na planície de Megido, em terra de Israel."
+      ],
       "reference": "Dn 3:1"
     },
     {
@@ -118,6 +173,11 @@
       "kind": "curiosity",
       "prompt": "Quanto o rei mandou esquentar a fornalha, em Daniel?",
       "answer": "Sete vezes mais que o costume.",
+      "wrongs": [
+        "Três vezes mais que o costume.",
+        "Dez vezes mais que o costume.",
+        "Duas vezes mais que o costume."
+      ],
       "reference": "Dn 3:19"
     },
     {
@@ -128,6 +188,11 @@
       "kind": "subject",
       "prompt": "O que houve com Nabucodonosor quando a sentença caiu?",
       "answer": "Comeu capim no campo até o cabelo crescer como pena.",
+      "wrongs": [
+        "Comeu pão no palácio até a barba crescer como linho.",
+        "Bebeu água no rio até a pele ficar como bronze.",
+        "Dormiu na torre até o manto rasgar como rede."
+      ],
       "reference": "Dn 4:33"
     },
     {
@@ -138,6 +203,11 @@
       "kind": "name",
       "prompt": "Quem explicou o sonho da árvore a Nabucodonosor?",
       "answer": "Daniel, também chamado Beltessazar.",
+      "wrongs": [
+        "Sadraque, também chamado Hananias.",
+        "Os magos, também chamados caldeus.",
+        "Ezequiel, também chamado filho de Buzi."
+      ],
       "reference": "Dn 4:8"
     },
     {
@@ -148,6 +218,11 @@
       "kind": "place",
       "prompt": "De que cidade Nabucodonosor se orgulhou?",
       "answer": "Da Babilônia, que ele tinha construído.",
+      "wrongs": [
+        "De Nínive, que ele tinha queimado.",
+        "De Susã, que ele tinha tomado.",
+        "De Jerusalém, que ele tinha cercado."
+      ],
       "reference": "Dn 4:30"
     },
     {
@@ -158,6 +233,11 @@
       "kind": "curiosity",
       "prompt": "Quantos tempos Nabucodonosor passaria como animal?",
       "answer": "Sete tempos.",
+      "wrongs": [
+        "Três tempos.",
+        "Doze tempos.",
+        "Um tempo."
+      ],
       "reference": "Dn 4:25"
     },
     {
@@ -168,6 +248,11 @@
       "kind": "subject",
       "prompt": "O que surgiu na parede no banquete de Belsazar?",
       "answer": "Dedos de uma mão, escrevendo.",
+      "wrongs": [
+        "Uma espada de fogo, cortando.",
+        "Um cálice de ouro, rachando.",
+        "Um selo real, caindo."
+      ],
       "reference": "Dn 5:5"
     },
     {
@@ -178,6 +263,11 @@
       "kind": "name",
       "prompt": "Quem a rainha indicou para ler a escrita do palácio, em Daniel?",
       "answer": "Daniel, cujo nome babilônico era Beltessazar.",
+      "wrongs": [
+        "Mesaque, cujo nome hebraico era Misael.",
+        "Abednego, cujo nome hebraico era Azarias.",
+        "Um mago, cujo nome babilônico era Bel."
+      ],
       "reference": "Dn 5:12"
     },
     {
@@ -188,6 +278,11 @@
       "kind": "place",
       "prompt": "De onde vinham os copos de ouro do banquete, em Daniel?",
       "answer": "Do templo de Deus em Jerusalém.",
+      "wrongs": [
+        "Do palácio do rei em Nínive.",
+        "Do templo de Marduque em Babilônia.",
+        "Da casa do tesouro em Susã."
+      ],
       "reference": "Dn 5:3"
     },
     {
@@ -198,6 +293,11 @@
       "kind": "curiosity",
       "prompt": "Que palavras a mão escreveu para Belsazar?",
       "answer": "Mene, mene, tequel, parsim.",
+      "wrongs": [
+        "Santo, santo, santo, Deus.",
+        "Glória, glória, glória, rei.",
+        "Caiu, caiu a grande cidade."
+      ],
       "reference": "Dn 5:25"
     },
     {
@@ -208,6 +308,11 @@
       "kind": "subject",
       "prompt": "Por que os leões não feriram Daniel?",
       "answer": "Porque um anjo fechou a boca deles.",
+      "wrongs": [
+        "Porque os leões já estavam mortos.",
+        "Porque Daniel levou um escudo.",
+        "Porque o rei os alimentou antes."
+      ],
       "reference": "Dn 6:22"
     },
     {
@@ -218,6 +323,11 @@
       "kind": "name",
       "prompt": "Que rei pôs cento e vinte governadores no reino, em Daniel?",
       "answer": "Dario.",
+      "wrongs": [
+        "Ciro.",
+        "Belsazar.",
+        "Nabonido."
+      ],
       "reference": "Dn 6:1"
     },
     {
@@ -228,6 +338,11 @@
       "kind": "place",
       "prompt": "Para qual cidade Daniel virava o rosto ao orar?",
       "answer": "Para Jerusalém.",
+      "wrongs": [
+        "Para Babilônia.",
+        "Para Susã.",
+        "Para Nínive."
+      ],
       "reference": "Dn 6:10"
     },
     {
@@ -238,6 +353,11 @@
       "kind": "curiosity",
       "prompt": "Por quantos dias o decreto real vetou outros pedidos, em Daniel?",
       "answer": "Por trinta dias.",
+      "wrongs": [
+        "Por sete dias.",
+        "Por três dias.",
+        "Por um ano."
+      ],
       "reference": "Dn 6:7"
     },
     {
@@ -248,6 +368,11 @@
       "kind": "subject",
       "prompt": "Até quando dura o reino dado na visão de Daniel?",
       "answer": "Para sempre; ele não será destruído.",
+      "wrongs": [
+        "Por um tempo; ele será dividido.",
+        "Por setenta anos; ele será esquecido.",
+        "Até a quarta besta; ele será queimado."
+      ],
       "reference": "Dn 7:14"
     },
     {
@@ -258,6 +383,11 @@
       "kind": "name",
       "prompt": "Quem se sentou na visão quando puseram os tronos, em Daniel?",
       "answer": "O Ancião de dias.",
+      "wrongs": [
+        "O filho do homem.",
+        "O príncipe da Pérsia.",
+        "Miguel, o príncipe."
+      ],
       "reference": "Dn 7:9"
     },
     {
@@ -268,6 +398,11 @@
       "kind": "place",
       "prompt": "De onde saíram os quatro animais que Daniel viu?",
       "answer": "Do mar.",
+      "wrongs": [
+        "Da terra.",
+        "Do céu.",
+        "Do templo."
+      ],
       "reference": "Dn 7:3"
     },
     {
@@ -278,6 +413,11 @@
       "kind": "curiosity",
       "prompt": "Quantos chifres tinha o quarto animal da visão, em Daniel?",
       "answer": "Dez chifres.",
+      "wrongs": [
+        "Sete chifres.",
+        "Quatro chifres.",
+        "Doze chifres."
+      ],
       "reference": "Dn 7:7"
     },
     {
@@ -289,6 +429,11 @@
       "kind": "subject",
       "prompt": "Quem são o carneiro e o bode na visão de Daniel?",
       "answer": "Reis medos e persas, e o rei da Grécia.",
+      "wrongs": [
+        "Reis do Egito e de Cuxe, e o rei de Edom.",
+        "A Assíria e a Babilônia, e o rei de Tiro.",
+        "Judá e Israel, e o rei da Assíria."
+      ],
       "reference": "Dn 8:20-21"
     },
     {
@@ -299,6 +444,11 @@
       "kind": "name",
       "prompt": "Quem foi chamado para explicar a visão a Daniel?",
       "answer": "Gabriel.",
+      "wrongs": [
+        "Miguel.",
+        "Uriel.",
+        "Rafael."
+      ],
       "reference": "Dn 8:16"
     },
     {
@@ -309,6 +459,11 @@
       "kind": "place",
       "prompt": "Onde Daniel estava quando viu o carneiro?",
       "answer": "Em Susã, à beira do rio Ulai.",
+      "wrongs": [
+        "Em Babilônia, à beira do Eufrates.",
+        "Em Ecbatana, à beira de um canal.",
+        "No Quebar, à beira do rio dos exilados."
+      ],
       "reference": "Dn 8:2"
     },
     {
@@ -319,6 +474,11 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo a visão marcava até limpar o santuário, em Daniel?",
       "answer": "Duas mil trezentas tardes e manhãs.",
+      "wrongs": [
+        "Mil duzentos e noventa dias.",
+        "Setenta semanas completas.",
+        "Trezentos e noventa dias."
+      ],
       "reference": "Dn 8:14"
     },
     {
@@ -329,6 +489,11 @@
       "kind": "subject",
       "prompt": "Quantas semanas Daniel ouviu sobre a cidade santa?",
       "answer": "Setenta, até chegar a justiça eterna.",
+      "wrongs": [
+        "Quarenta, até chegar a paz da cidade.",
+        "Doze, até chegar o ano do jubileu.",
+        "Cem, até chegar o fim das nações."
+      ],
       "reference": "Dn 9:24"
     },
     {
@@ -339,6 +504,11 @@
       "kind": "name",
       "prompt": "Quem veio voando enquanto Daniel ainda orava?",
       "answer": "Gabriel.",
+      "wrongs": [
+        "Miguel.",
+        "Um querubim.",
+        "O Ancião de dias."
+      ],
       "reference": "Dn 9:21"
     },
     {
@@ -349,6 +519,11 @@
       "kind": "place",
       "prompt": "Sobre qual cidade Daniel pediu que a ira parasse?",
       "answer": "Sobre Jerusalém.",
+      "wrongs": [
+        "Sobre Babilônia.",
+        "Sobre Samaria.",
+        "Sobre Susã."
+      ],
       "reference": "Dn 9:16"
     },
     {
@@ -359,6 +534,11 @@
       "kind": "curiosity",
       "prompt": "Quantos anos Jeremias marcou para a ruína de Jerusalém?",
       "answer": "Setenta anos.",
+      "wrongs": [
+        "Quarenta anos.",
+        "Três anos.",
+        "Cento e vinte anos."
+      ],
       "reference": "Dn 9:2"
     },
     {
@@ -369,6 +549,11 @@
       "kind": "subject",
       "prompt": "Quem barrou o mensageiro por vinte e um dias, em Daniel?",
       "answer": "O príncipe da Pérsia.",
+      "wrongs": [
+        "O príncipe da Grécia.",
+        "Miguel, o príncipe.",
+        "O rei da Babilônia."
+      ],
       "reference": "Dn 10:13"
     },
     {
@@ -379,6 +564,11 @@
       "kind": "name",
       "prompt": "Quem ajudou o mensageiro contra o príncipe da Pérsia?",
       "answer": "Miguel.",
+      "wrongs": [
+        "Gabriel.",
+        "O príncipe da Pérsia.",
+        "O príncipe da Grécia."
+      ],
       "reference": "Dn 10:13"
     },
     {
@@ -389,6 +579,11 @@
       "kind": "place",
       "prompt": "À margem de qual rio Daniel teve a visão?",
       "answer": "Do rio Tigre.",
+      "wrongs": [
+        "Do rio Eufrates.",
+        "Do rio Ulai.",
+        "Do rio Quebar."
+      ],
       "reference": "Dn 10:4"
     },
     {
@@ -399,6 +594,11 @@
       "kind": "curiosity",
       "prompt": "Por quanto tempo Daniel ficou de luto?",
       "answer": "Por três semanas completas.",
+      "wrongs": [
+        "Por três dias.",
+        "Por quarenta dias.",
+        "Por sete dias."
+      ],
       "reference": "Dn 10:2"
     },
     {
@@ -409,6 +609,11 @@
       "kind": "subject",
       "prompt": "Quem luta contra o rei do norte na visão de Daniel?",
       "answer": "O rei do sul, juntando uma multidão grande.",
+      "wrongs": [
+        "O rei do leste, juntando uma multidão grande.",
+        "O rei do oeste, juntando uma frota grande.",
+        "O rei de Judá, juntando um resto pequeno."
+      ],
       "reference": "Dn 11:11"
     },
     {
@@ -419,6 +624,11 @@
       "kind": "place",
       "prompt": "Que terra Daniel diz que não vai escapar?",
       "answer": "A do Egito.",
+      "wrongs": [
+        "A de Edom.",
+        "A de Moabe.",
+        "A dos filhos de Amom."
+      ],
       "reference": "Dn 11:42"
     },
     {
@@ -429,6 +639,11 @@
       "kind": "curiosity",
       "prompt": "O que as tropas põem no santuário, em Daniel?",
       "answer": "Uma abominação devastadora, no lugar do sacrifício.",
+      "wrongs": [
+        "Um candelabro novo, no lugar da arca.",
+        "Um altar de incenso, no lugar da mesa.",
+        "Uma imagem de ouro, no lugar da pia."
+      ],
       "reference": "Dn 11:31"
     },
     {
@@ -439,6 +654,11 @@
       "kind": "curiosity",
       "prompt": "Para onde se reparte o reino quebrado em Daniel?",
       "answer": "Para os quatro ventos, e não para os filhos dele.",
+      "wrongs": [
+        "Para os filhos dele, e não para os generais.",
+        "Para um só herdeiro, e não para os ventos.",
+        "Para o rei do sul, e não para mais ninguém."
+      ],
       "reference": "Dn 11:4"
     },
     {
@@ -449,6 +669,11 @@
       "kind": "subject",
       "prompt": "O que vem sobre muitos que dormem no pó, em Daniel?",
       "answer": "Uma parte viverá para sempre; outra ficará na vergonha.",
+      "wrongs": [
+        "Todos viverão para sempre, e ninguém ficará na vergonha.",
+        "Todos ficarão no pó, e ninguém voltará à vida.",
+        "Uma parte voltará a dormir; outra reinará na terra."
+      ],
       "reference": "Dn 12:2"
     },
     {
@@ -459,6 +684,11 @@
       "kind": "name",
       "prompt": "Quem defende o povo de Daniel no tempo final?",
       "answer": "Miguel, o grande príncipe.",
+      "wrongs": [
+        "Gabriel, o mensageiro.",
+        "O Ancião de dias.",
+        "O príncipe da Pérsia."
+      ],
       "reference": "Dn 12:1"
     },
     {
@@ -469,6 +699,11 @@
       "kind": "place",
       "prompt": "Onde estavam os dois seres que Daniel observou?",
       "answer": "Um em cada lado do rio.",
+      "wrongs": [
+        "Os dois no mesmo lado do rio.",
+        "Um no céu e outro no templo.",
+        "Um na margem e outro dentro da cidade."
+      ],
       "reference": "Dn 12:5"
     },
     {
@@ -479,6 +714,11 @@
       "kind": "curiosity",
       "prompt": "Quantos dias seguem a instalação da abominação, em Daniel?",
       "answer": "Mil duzentos e noventa dias.",
+      "wrongs": [
+        "Trezentos e noventa dias.",
+        "Quarenta e dois dias.",
+        "Sete dias."
+      ],
       "reference": "Dn 12:11"
     },
     {
@@ -489,6 +729,11 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Daniel?",
       "answer": "Daniel.",
+      "wrongs": [
+        "Ezequiel.",
+        "Esdras.",
+        "Ageu."
+      ],
       "reference": "Daniel"
     },
     {
@@ -499,6 +744,11 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Daniel?",
       "answer": "No século VI antes de Cristo.",
+      "wrongs": [
+        "No século X antes de Cristo.",
+        "No século VIII antes de Cristo.",
+        "No século II antes de Cristo."
+      ],
       "reference": "Daniel"
     },
     {
@@ -509,6 +759,11 @@
       "kind": "curiosity",
       "prompt": "Em que línguas Daniel foi escrito?",
       "answer": "Em hebraico e em aramaico.",
+      "wrongs": [
+        "Em grego e em latim.",
+        "Em persa e em egípcio.",
+        "Em acádio e em ugarítico."
+      ],
       "reference": "Daniel"
     }
   ]

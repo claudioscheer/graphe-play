@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Qual mensagem João anuncia a respeito de Deus?",
       "answer": "Deus é luz, e nele não existe treva alguma.",
-      "reference": "1Jo 1:5"
+      "reference": "1Jo 1:5",
+      "wrongs": [
+        "Deus é sombra, e a luz fica fora dele.",
+        "Deus é só lei, e a luz cabe apenas a Israel.",
+        "Deus é fogo, e ninguém pode se aproximar."
+      ]
     },
     {
       "id": "1JN.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem é o Filho com quem João diz haver comunhão?",
       "answer": "Jesus Cristo.",
-      "reference": "1Jo 1:3"
+      "reference": "1Jo 1:3",
+      "wrongs": [
+        "João Batista.",
+        "Moisés.",
+        "Um anjo."
+      ]
     },
     {
       "id": "1JN.1.curiosity.1",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus faz quando os pecados são confessados?",
       "answer": "Perdoa e limpa toda injustiça.",
-      "reference": "1Jo 1:9"
+      "reference": "1Jo 1:9",
+      "wrongs": [
+        "Anota a culpa e espera o pagamento.",
+        "Esquece a confissão e não limpa nada.",
+        "Perdoa só uma parte, e o resto fica."
+      ]
     },
     {
       "id": "1JN.2.subject.1",
@@ -38,7 +53,12 @@
       "kind": "subject",
       "prompt": "Quem João chama de mentiroso e anticristo?",
       "answer": "Quem não aceita Jesus como o Cristo.",
-      "reference": "1Jo 2:22"
+      "reference": "1Jo 2:22",
+      "wrongs": [
+        "Quem confessa Jesus como o Cristo.",
+        "Quem guarda os mandamentos por amor.",
+        "Quem ainda não ouviu o evangelho."
+      ]
     },
     {
       "id": "1JN.2.curiosity.1",
@@ -48,7 +68,12 @@
       "kind": "curiosity",
       "prompt": "O que vem do mundo, e não do Pai?",
       "answer": "Desejo da carne, desejo dos olhos e orgulho da vida.",
-      "reference": "1Jo 2:16"
+      "reference": "1Jo 2:16",
+      "wrongs": [
+        "Fome, sede e nudez dos apóstolos.",
+        "Oração, jejum e esmola feitos em segredo.",
+        "Fé, esperança e amor que permanecem."
+      ]
     },
     {
       "id": "1JN.2.curiosity.2",
@@ -58,7 +83,12 @@
       "kind": "curiosity",
       "prompt": "Quem permanece quando o mundo e sua cobiça passam?",
       "answer": "Quem pratica a vontade de Deus.",
-      "reference": "1Jo 2:17"
+      "reference": "1Jo 2:17",
+      "wrongs": [
+        "Quem junta tesouro nesta vida.",
+        "Quem só ouve a palavra.",
+        "Ninguém. Tudo passa do mesmo modo."
+      ]
     },
     {
       "id": "1JN.3.subject.1",
@@ -68,7 +98,12 @@
       "kind": "subject",
       "prompt": "O que acontece com os filhos de Deus quando ele aparecer?",
       "answer": "Ficarão parecidos com ele, pois o verão como ele é.",
-      "reference": "1Jo 3:2"
+      "reference": "1Jo 3:2",
+      "wrongs": [
+        "Continuarão como estão, sem mudança.",
+        "Virarão anjos, sem corpo.",
+        "Perderão a memória de terem sido filhos."
+      ]
     },
     {
       "id": "1JN.3.name.1",
@@ -78,7 +113,12 @@
       "kind": "name",
       "prompt": "Quem matou o irmão porque as próprias obras eram más?",
       "answer": "Caim.",
-      "reference": "1Jo 3:12"
+      "reference": "1Jo 3:12",
+      "wrongs": [
+        "Esaú.",
+        "Absalão.",
+        "Saul."
+      ]
     },
     {
       "id": "1JN.3.curiosity.1",
@@ -88,7 +128,12 @@
       "kind": "curiosity",
       "prompt": "O que mostra o amor de que João fala?",
       "answer": "A entrega da vida por nós.",
-      "reference": "1Jo 3:16"
+      "reference": "1Jo 3:16",
+      "wrongs": [
+        "Um discurso bonito, sem custo.",
+        "A oferta de um cordeiro no altar.",
+        "O cumprimento da lei por Moisés."
+      ]
     },
     {
       "id": "1JN.3.curiosity.2",
@@ -98,7 +143,12 @@
       "kind": "curiosity",
       "prompt": "Como João manda que o amor seja praticado?",
       "answer": "Com atos e com verdade, não só com fala.",
-      "reference": "1Jo 3:18"
+      "reference": "1Jo 3:18",
+      "wrongs": [
+        "Só com fala, bem alta, diante de todos.",
+        "Com ritos, e não com o próximo.",
+        "Com silêncio, sem obra nem palavra."
+      ]
     },
     {
       "id": "1JN.4.subject.1",
@@ -108,7 +158,12 @@
       "kind": "subject",
       "prompt": "Por que desconhece a Deus quem não ama?",
       "answer": "Porque Deus é amor.",
-      "reference": "1Jo 4:8"
+      "reference": "1Jo 4:8",
+      "wrongs": [
+        "Porque Deus é só juiz, e o amor é humano.",
+        "Porque amar é opcional para quem crê.",
+        "Porque o amor nasce da pessoa, não de Deus."
+      ]
     },
     {
       "id": "1JN.4.name.1",
@@ -118,7 +173,12 @@
       "kind": "name",
       "prompt": "Quem o Pai enviou como Salvador do mundo?",
       "answer": "O Filho.",
-      "reference": "1Jo 4:14"
+      "reference": "1Jo 4:14",
+      "wrongs": [
+        "Um anjo.",
+        "Moisés.",
+        "A igreja."
+      ]
     },
     {
       "id": "1JN.4.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Qual espírito é da parte de Deus?",
       "answer": "O que confessa a vinda humana de Jesus Cristo.",
-      "reference": "1Jo 4:2"
+      "reference": "1Jo 4:2",
+      "wrongs": [
+        "O que nega que Jesus veio como homem.",
+        "O que chama Jesus só de mestre.",
+        "O que aceita qualquer espírito que faça sinal."
+      ]
     },
     {
       "id": "1JN.4.curiosity.2",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "O que o amor maduro faz com o medo?",
       "answer": "Expulsa o medo.",
-      "reference": "1Jo 4:18"
+      "reference": "1Jo 4:18",
+      "wrongs": [
+        "Alimenta o medo.",
+        "Convive com o medo.",
+        "Troca o medo por orgulho."
+      ]
     },
     {
       "id": "1JN.5.subject.1",
@@ -148,7 +218,12 @@
       "kind": "subject",
       "prompt": "Qual é a vitória sobre o mundo?",
       "answer": "A nossa fé.",
-      "reference": "1Jo 5:4"
+      "reference": "1Jo 5:4",
+      "wrongs": [
+        "A nossa força.",
+        "A lei de Moisés.",
+        "O número dos fiéis."
+      ]
     },
     {
       "id": "1JN.5.name.1",
@@ -158,7 +233,12 @@
       "kind": "name",
       "prompt": "Quem veio não só pela água, mas também pelo sangue?",
       "answer": "Jesus, o Cristo.",
-      "reference": "1Jo 5:6"
+      "reference": "1Jo 5:6",
+      "wrongs": [
+        "João Batista, só pela água.",
+        "Moisés, pela água e pelo sangue do altar.",
+        "Pedro, pela confissão em Cesareia."
+      ]
     },
     {
       "id": "1JN.5.curiosity.1",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "Quais três dão testemunho na terra?",
       "answer": "A água, o sangue e o Espírito.",
-      "reference": "1Jo 5:8"
+      "reference": "1Jo 5:8",
+      "wrongs": [
+        "A lei, o templo e o altar.",
+        "Pedro, Tiago e João.",
+        "Ouro, incenso e mirra."
+      ]
     },
     {
       "id": "1JN.5.curiosity.2",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "De que os filhinhos devem se guardar?",
       "answer": "Dos ídolos.",
-      "reference": "1Jo 5:21"
+      "reference": "1Jo 5:21",
+      "wrongs": [
+        "Dos anjos.",
+        "Do sábado.",
+        "Dos pobres."
+      ]
     },
     {
       "id": "1JN.0.curiosity.1",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu 1 João?",
       "answer": "João, o apóstolo.",
-      "reference": "1 João"
+      "reference": "1 João",
+      "wrongs": [
+        "Pedro, o apóstolo.",
+        "Paulo, o apóstolo.",
+        "Tiago, irmão do Senhor."
+      ]
     },
     {
       "id": "1JN.0.curiosity.2",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de 1 João?",
       "answer": "No fim do século I.",
-      "reference": "1 João"
+      "reference": "1 João",
+      "wrongs": [
+        "No meio do século II.",
+        "Antes do ano 50.",
+        "No século III."
+      ]
     }
   ]
 }

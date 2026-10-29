@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Como Jó passou pela perda dos filhos e dos bens?",
       "answer": "Sem pecar e sem atribuir falta a Deus.",
-      "reference": "Jó 1:22"
+      "reference": "Jó 1:22",
+      "wrongs": [
+        "Xingando a Deus e pedindo a morte.",
+        "Culpou os amigos e deixou a terra.",
+        "Ofereceu ouro para reaver os filhos."
+      ]
     },
     {
       "id": "JOB.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem era o homem íntegro da terra de Uz?",
       "answer": "Jó, que temia a Deus e se afastava do mal.",
-      "reference": "Jó 1:1"
+      "reference": "Jó 1:1",
+      "wrongs": [
+        "Elifaz, que ensinava em Temã e julgava os outros.",
+        "Eliú, que esperava para falar em nome de Deus.",
+        "Bildade, que morava em Suá e citava os antigos."
+      ]
     },
     {
       "id": "JOB.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Onde morava Jó?",
       "answer": "Na terra de Uz.",
-      "reference": "Jó 1:1"
+      "reference": "Jó 1:1",
+      "wrongs": [
+        "Na terra de Temã.",
+        "Na terra de Nod.",
+        "Em Jerusalém."
+      ]
     },
     {
       "id": "JOB.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Quantos filhos e filhas Jó teve?",
       "answer": "Sete filhos e três filhas.",
-      "reference": "Jó 1:2"
+      "reference": "Jó 1:2",
+      "wrongs": [
+        "Três filhos e sete filhas.",
+        "Doze filhos e nenhuma filha.",
+        "Cinco filhos e cinco filhas."
+      ]
     },
     {
       "id": "JOB.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Com o que Satanás feriu o corpo de Jó?",
       "answer": "Com chagas malignas, dos pés até a cabeça.",
-      "reference": "Jó 2:7"
+      "reference": "Jó 2:7",
+      "wrongs": [
+        "Com febre alta, só no peito.",
+        "Com cegueira, sem ferida alguma.",
+        "Com feridas leves, apenas nas mãos."
+      ]
     },
     {
       "id": "JOB.2.name.1",
@@ -58,7 +83,12 @@
       "kind": "name",
       "prompt": "Quem eram os três amigos que foram consolar Jó?",
       "answer": "Elifaz, o temanita, Bildade, o suíta, e Zofar, o naamita.",
-      "reference": "Jó 2:11"
+      "reference": "Jó 2:11",
+      "wrongs": [
+        "Eliú, o buzita, Elifaz, o temanita, e Bildade, o suíta.",
+        "Zofar, o naamita, Eliú, o buzita, e Jó, de Uz.",
+        "Bildade, o suíta, Naamã, o sírio, e Elifaz, de Edom."
+      ]
     },
     {
       "id": "JOB.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo os amigos de Jó ficaram sem falar?",
       "answer": "Sete dias e sete noites.",
-      "reference": "Jó 2:13"
+      "reference": "Jó 2:13",
+      "wrongs": [
+        "Três dias e três noites.",
+        "Um dia e uma noite.",
+        "Quarenta dias e quarenta noites."
+      ]
     },
     {
       "id": "JOB.3.subject.1",
@@ -78,7 +113,12 @@
       "kind": "subject",
       "prompt": "Que dia Jó quis que perecesse?",
       "answer": "O dia em que ele nasceu.",
-      "reference": "Jó 3:3"
+      "reference": "Jó 3:3",
+      "wrongs": [
+        "O dia em que perdeu os rebanhos.",
+        "O dia em que os amigos chegaram.",
+        "O dia em que Satanás o feriu."
+      ]
     },
     {
       "id": "JOB.3.curiosity.1",
@@ -88,7 +128,12 @@
       "kind": "curiosity",
       "prompt": "O que o amargurado busca mais que tesouros, na queixa de Jó?",
       "answer": "A morte, mesmo quando ela não chega.",
-      "reference": "Jó 3:21"
+      "reference": "Jó 3:21",
+      "wrongs": [
+        "O ouro, mesmo quando já é rico.",
+        "A cura, mesmo sem chamar a Deus.",
+        "A fama, mesmo no meio da dor."
+      ]
     },
     {
       "id": "JOB.4.subject.1",
@@ -98,7 +143,12 @@
       "kind": "subject",
       "prompt": "O que Elifaz ouviu sobre o homem diante de Deus?",
       "answer": "Se o ser humano seria mais justo que Deus.",
-      "reference": "Jó 4:17"
+      "reference": "Jó 4:17",
+      "wrongs": [
+        "Se o ser humano poderia julgar os anjos.",
+        "Se o justo nunca veria a dor.",
+        "Se Jó devia calar para sempre."
+      ]
     },
     {
       "id": "JOB.4.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "A que Elifaz compara quem mora em casa de barro?",
       "answer": "A uma traça, fácil de esmagar.",
-      "reference": "Jó 4:19"
+      "reference": "Jó 4:19",
+      "wrongs": [
+        "A um cedro, difícil de derrubar.",
+        "A uma águia, rápida para fugir.",
+        "A um leão, forte demais para cair."
+      ]
     },
     {
       "id": "JOB.5.subject.1",
@@ -118,7 +173,12 @@
       "kind": "subject",
       "prompt": "O que Elifaz diz que Deus faz depois de ferir?",
       "answer": "Abre a chaga, mas as mãos dele também curam.",
-      "reference": "Jó 5:18"
+      "reference": "Jó 5:18",
+      "wrongs": [
+        "Fecha a porta e não volta a ouvir.",
+        "Entrega o justo e não o restaura.",
+        "Esquece a ferida e muda de assunto."
+      ]
     },
     {
       "id": "JOB.5.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "De quantas angústias Elifaz diz que Deus livra?",
       "answer": "De seis, e na sétima o mal não toca.",
-      "reference": "Jó 5:19"
+      "reference": "Jó 5:19",
+      "wrongs": [
+        "De três, e na quarta o mal volta.",
+        "De dez, e na décima o mal cresce.",
+        "De uma, e na segunda o mal entra."
+      ]
     },
     {
       "id": "JOB.6.subject.1",
@@ -138,7 +203,12 @@
       "kind": "subject",
       "prompt": "A que Jó compara os amigos que falharam com ele?",
       "answer": "A um ribeiro, porque foram traiçoeiros.",
-      "reference": "Jó 6:15"
+      "reference": "Jó 6:15",
+      "wrongs": [
+        "A um rochedo, porque foram firmes.",
+        "A um poço, porque foram fiéis.",
+        "A uma torre, porque foram constantes."
+      ]
     },
     {
       "id": "JOB.6.curiosity.1",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "Que exemplo sem sabor Jó usa na queixa?",
       "answer": "A clara do ovo.",
-      "reference": "Jó 6:6"
+      "reference": "Jó 6:6",
+      "wrongs": [
+        "O pão seco.",
+        "O sal grosso.",
+        "O vinho aguado."
+      ]
     },
     {
       "id": "JOB.7.subject.1",
@@ -158,7 +233,12 @@
       "kind": "subject",
       "prompt": "A que Jó se compara, ao reclamar de ser vigiado?",
       "answer": "Ao mar ou a um monstro marinho.",
-      "reference": "Jó 7:12"
+      "reference": "Jó 7:12",
+      "wrongs": [
+        "A um rebanho ou a um servo.",
+        "A um cedro ou a uma águia.",
+        "A um rei ou a um soldado."
+      ]
     },
     {
       "id": "JOB.7.curiosity.1",
@@ -168,7 +248,12 @@
       "kind": "curiosity",
       "prompt": "A que Jó compara a pressa dos seus dias?",
       "answer": "À lançadeira de um tecelão.",
-      "reference": "Jó 7:6"
+      "reference": "Jó 7:6",
+      "wrongs": [
+        "Ao passo lento de um boi.",
+        "Ao curso parado de um rio.",
+        "À sombra firme de um cedro."
+      ]
     },
     {
       "id": "JOB.8.subject.1",
@@ -178,7 +263,12 @@
       "kind": "subject",
       "prompt": "O que Bildade diz do castigo dos filhos de Jó?",
       "answer": "Se pecaram, Deus os entregou por essa culpa.",
-      "reference": "Jó 8:4"
+      "reference": "Jó 8:4",
+      "wrongs": [
+        "Se oraram, Deus os guardou sem motivo.",
+        "Se fugiram, o vento os levou por acaso.",
+        "Se calaram, os amigos os julgaram sem lei."
+      ]
     },
     {
       "id": "JOB.8.curiosity.1",
@@ -188,7 +278,12 @@
       "kind": "curiosity",
       "prompt": "A que Bildade compara a confiança que se desfaz?",
       "answer": "À teia de uma aranha.",
-      "reference": "Jó 8:14"
+      "reference": "Jó 8:14",
+      "wrongs": [
+        "Ao muro de uma cidade.",
+        "À raiz de um cedro.",
+        "À rocha de um monte."
+      ]
     },
     {
       "id": "JOB.9.subject.1",
@@ -198,7 +293,12 @@
       "kind": "subject",
       "prompt": "O que Jó diz que não há entre ele e Deus?",
       "answer": "Um árbitro que ponha a mão sobre os dois.",
-      "reference": "Jó 9:33"
+      "reference": "Jó 9:33",
+      "wrongs": [
+        "Um sacerdote que ofereça o sacrifício.",
+        "Um anjo que escreva a defesa.",
+        "Um rei que cale os amigos."
+      ]
     },
     {
       "id": "JOB.9.curiosity.1",
@@ -208,7 +308,12 @@
       "kind": "curiosity",
       "prompt": "Quais astros Jó diz que Deus fez?",
       "answer": "A Ursa, Órion e as Plêiades, mais as do sul.",
-      "reference": "Jó 9:9"
+      "reference": "Jó 9:9",
+      "wrongs": [
+        "O Sol, a Lua e Vênus, mais as do norte.",
+        "Saturno, Marte e Júpiter, mais o arco.",
+        "A estrela da manhã, só ela, e nada mais."
+      ]
     },
     {
       "id": "JOB.10.subject.1",
@@ -218,7 +323,12 @@
       "kind": "subject",
       "prompt": "A que Jó compara o jeito como Deus o formou?",
       "answer": "A leite derramado e a queijo que coalhou.",
-      "reference": "Jó 10:10"
+      "reference": "Jó 10:10",
+      "wrongs": [
+        "A barro seco e a pedra que quebrou.",
+        "A fumaça leve e a nuvem que passou.",
+        "A madeira verde e a folha que caiu."
+      ]
     },
     {
       "id": "JOB.10.curiosity.1",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "Para onde Jó diz que vai, sem poder voltar?",
       "answer": "Para uma terra escura, de sombra mortal.",
-      "reference": "Jó 10:21"
+      "reference": "Jó 10:21",
+      "wrongs": [
+        "Para o templo em Jerusalém, em festa.",
+        "Para a terra de Uz, em paz.",
+        "Para o jardim do Éden, sem dor."
+      ]
     },
     {
       "id": "JOB.11.subject.1",
@@ -238,7 +353,12 @@
       "kind": "subject",
       "prompt": "O que Zofar diz do castigo de Jó diante da culpa?",
       "answer": "Que Deus pune menos do que a perversidade merece.",
-      "reference": "Jó 11:6"
+      "reference": "Jó 11:6",
+      "wrongs": [
+        "Que Deus pune além do que a culpa merece.",
+        "Que Deus não pune e esquece o caso.",
+        "Que Deus pune só os amigos de Jó."
+      ]
     },
     {
       "id": "JOB.11.curiosity.1",
@@ -248,7 +368,12 @@
       "kind": "curiosity",
       "prompt": "Até onde chega a sabedoria de Deus, segundo Zofar?",
       "answer": "Mais alta que os céus e mais funda que o mundo dos mortos.",
-      "reference": "Jó 11:8"
+      "reference": "Jó 11:8",
+      "wrongs": [
+        "Só até as nuvens baixas e rasa como um poço.",
+        "Igual à do homem e presa ao chão da terra.",
+        "Menor que a de Jó e fácil de medir à mão."
+      ]
     },
     {
       "id": "JOB.12.subject.1",
@@ -258,7 +383,12 @@
       "kind": "subject",
       "prompt": "Quem Jó manda consultar, porque eles ensinam?",
       "answer": "Os animais e as aves do céu.",
-      "reference": "Jó 12:7"
+      "reference": "Jó 12:7",
+      "wrongs": [
+        "Os reis e os sábios da corte.",
+        "Os sacerdotes e os levitas.",
+        "Os amigos e os anciãos de Uz."
+      ]
     },
     {
       "id": "JOB.12.curiosity.1",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "O que Jó diz que virou para os amigos?",
       "answer": "Motivo de riso, embora Deus lhe respondesse.",
-      "reference": "Jó 12:4"
+      "reference": "Jó 12:4",
+      "wrongs": [
+        "Exemplo de culpa, porque Deus o abandonou.",
+        "Chefe da roda, e todos o obedecem.",
+        "Médico deles, e a dor passou."
+      ]
     },
     {
       "id": "JOB.13.subject.1",
@@ -278,7 +413,12 @@
       "kind": "subject",
       "prompt": "O que Jó fará mesmo se Deus o matar?",
       "answer": "Ainda espera nele e defende a própria conduta.",
-      "reference": "Jó 13:15"
+      "reference": "Jó 13:15",
+      "wrongs": [
+        "Nega a Deus e admite toda a culpa.",
+        "Foge de Deus e cala a própria boca.",
+        "Paga a Deus e compra a própria paz."
+      ]
     },
     {
       "id": "JOB.13.curiosity.1",
@@ -288,7 +428,12 @@
       "kind": "curiosity",
       "prompt": "Como Jó chama os amigos?",
       "answer": "Inventores de mentira e médicos que não ajudam.",
-      "reference": "Jó 13:4"
+      "reference": "Jó 13:4",
+      "wrongs": [
+        "Testemunhas fiéis e médicos que curam.",
+        "Mensageiros de Deus e juízes justos.",
+        "Irmãos leais e consoladores sábios."
+      ]
     },
     {
       "id": "JOB.14.subject.1",
@@ -298,7 +443,12 @@
       "kind": "subject",
       "prompt": "O que Jó pergunta sobre o homem que morre?",
       "answer": "Se ele voltará a viver algum dia.",
-      "reference": "Jó 14:14"
+      "reference": "Jó 14:14",
+      "wrongs": [
+        "Se ele levará ouro para a cova.",
+        "Se os filhos pagarão a dívida.",
+        "Se os amigos ainda o visitarão."
+      ]
     },
     {
       "id": "JOB.14.curiosity.1",
@@ -308,7 +458,12 @@
       "kind": "curiosity",
       "prompt": "O que uma árvore cortada ainda pode fazer, segundo Jó?",
       "answer": "Renovar-se, e os brotos não param.",
-      "reference": "Jó 14:7"
+      "reference": "Jó 14:7",
+      "wrongs": [
+        "Secar de vez, e a raiz morre.",
+        "Andar, e mudar de campo.",
+        "Falar, e acusar quem a cortou."
+      ]
     },
     {
       "id": "JOB.14.curiosity.2",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "Onde Jó queria a transgressão guardada?",
       "answer": "Selada dentro de uma bolsa.",
-      "reference": "Jó 14:17"
+      "reference": "Jó 14:17",
+      "wrongs": [
+        "Escrita na porta da cidade.",
+        "Queimada no altar do templo.",
+        "Contada em voz alta na praça."
+      ]
     },
     {
       "id": "JOB.15.subject.1",
@@ -328,7 +488,12 @@
       "kind": "subject",
       "prompt": "Como o homem corrupto bebe a maldade, segundo Elifaz?",
       "answer": "Do mesmo jeito que se bebe água.",
-      "reference": "Jó 15:16"
+      "reference": "Jó 15:16",
+      "wrongs": [
+        "Como quem toma remédio amargo.",
+        "Aos goles, só em dia de festa.",
+        "Sem sede, e logo a cospe."
+      ]
     },
     {
       "id": "JOB.15.curiosity.1",
@@ -338,7 +503,12 @@
       "kind": "curiosity",
       "prompt": "O que Elifaz pergunta sobre o nascimento de Jó?",
       "answer": "Se ele foi o primeiro homem ou nasceu antes dos morros.",
-      "reference": "Jó 15:7"
+      "reference": "Jó 15:7",
+      "wrongs": [
+        "Se ele nasceu em Uz ou se veio lá do Egito.",
+        "Se ele era levita ou filho de um sacerdote.",
+        "Se a mãe dele era rainha ou só uma serva."
+      ]
     },
     {
       "id": "JOB.16.subject.1",
@@ -348,7 +518,12 @@
       "kind": "subject",
       "prompt": "Onde está a testemunha de Jó, segundo ele?",
       "answer": "No céu, e quem o defende está nas alturas.",
-      "reference": "Jó 16:19"
+      "reference": "Jó 16:19",
+      "wrongs": [
+        "Na terra, e quem o defende são os amigos.",
+        "No túmulo, e ninguém mais fala por ele.",
+        "Em Uz, na porta dos anciãos."
+      ]
     },
     {
       "id": "JOB.16.curiosity.1",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "Em que Deus transformou Jó, na queixa dele?",
       "answer": "Num alvo para os golpes.",
-      "reference": "Jó 16:12"
+      "reference": "Jó 16:12",
+      "wrongs": [
+        "Num escudo contra os golpes.",
+        "Num rei acima dos golpes.",
+        "Num médico depois dos golpes."
+      ]
     },
     {
       "id": "JOB.17.subject.1",
@@ -368,7 +548,12 @@
       "kind": "subject",
       "prompt": "Quem Jó chama de pai, mãe e irmã?",
       "answer": "A cova é o pai; os vermes, a mãe e a irmã.",
-      "reference": "Jó 17:14"
+      "reference": "Jó 17:14",
+      "wrongs": [
+        "Deus é o pai; a terra, a mãe e a irmã.",
+        "Elifaz é o pai; os outros dois, a mãe e a irmã.",
+        "O vento é o pai; a noite, a mãe e a irmã."
+      ]
     },
     {
       "id": "JOB.17.curiosity.1",
@@ -378,7 +563,12 @@
       "kind": "curiosity",
       "prompt": "O que Jó diz que lhe fazem no rosto?",
       "answer": "Cospem, e ele virou um ditado entre os povos.",
-      "reference": "Jó 17:6"
+      "reference": "Jó 17:6",
+      "wrongs": [
+        "Ungem, e ele virou exemplo de saúde.",
+        "Cobrem, e ninguém mais o reconhece.",
+        "Lavam, e a honra volta à praça."
+      ]
     },
     {
       "id": "JOB.18.subject.1",
@@ -388,7 +578,12 @@
       "kind": "subject",
       "prompt": "O que acontece com a lâmpada do perverso, segundo Bildade?",
       "answer": "Apaga-se, e a luz da tenda escurece.",
-      "reference": "Jó 18:6"
+      "reference": "Jó 18:6",
+      "wrongs": [
+        "Brilha mais, e a tenda fica em festa.",
+        "Passa ao filho, e a casa se firma.",
+        "Deus a acende, e a noite vira dia."
+      ]
     },
     {
       "id": "JOB.18.curiosity.1",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "Para quem o perverso é levado, segundo Bildade?",
       "answer": "Para o rei dos assombros.",
-      "reference": "Jó 18:14"
+      "reference": "Jó 18:14",
+      "wrongs": [
+        "Para o sacerdote do templo.",
+        "Para o juiz da porta.",
+        "Para o amigo de Jó."
+      ]
     },
     {
       "id": "JOB.19.subject.1",
@@ -408,7 +608,12 @@
       "kind": "subject",
       "prompt": "Quem Jó diz que vive e no fim se levantará?",
       "answer": "O Redentor dele, que se erguerá sobre a terra.",
-      "reference": "Jó 19:25"
+      "reference": "Jó 19:25",
+      "wrongs": [
+        "Um amigo dele, que falará na assembleia.",
+        "O próprio Jó, que voltará são à terra de Uz.",
+        "Eliú, o buzita, que encerrará o debate."
+      ]
     },
     {
       "id": "JOB.19.curiosity.1",
@@ -418,7 +623,12 @@
       "kind": "curiosity",
       "prompt": "O que Jó espera ver na própria carne?",
       "answer": "A Deus, ainda que a pele já tenha se acabado.",
-      "reference": "Jó 19:26"
+      "reference": "Jó 19:26",
+      "wrongs": [
+        "Os filhos, ainda que a casa esteja vazia.",
+        "O ouro, ainda que os rebanhos tenham sumido.",
+        "Os amigos, ainda que eles tenham ido embora."
+      ]
     },
     {
       "id": "JOB.19.curiosity.2",
@@ -428,7 +638,12 @@
       "kind": "curiosity",
       "prompt": "Como Jó queria gravar suas palavras para sempre?",
       "answer": "Na pedra, usando ferro e chumbo.",
-      "reference": "Jó 19:24"
+      "reference": "Jó 19:24",
+      "wrongs": [
+        "Na areia, usando um ramo.",
+        "No papiro, usando tinta fraca.",
+        "No vento, sem ferramenta alguma."
+      ]
     },
     {
       "id": "JOB.20.subject.1",
@@ -438,7 +653,12 @@
       "kind": "subject",
       "prompt": "Quanto tempo dura a alegria do hipócrita, segundo Zofar?",
       "answer": "Só um momento.",
-      "reference": "Jó 20:5"
+      "reference": "Jó 20:5",
+      "wrongs": [
+        "A vida toda.",
+        "Muitos anos.",
+        "Até a velhice."
+      ]
     },
     {
       "id": "JOB.20.curiosity.1",
@@ -448,7 +668,12 @@
       "kind": "curiosity",
       "prompt": "Em que a comida do perverso se transforma, segundo Zofar?",
       "answer": "Em veneno de cobra, lá dentro.",
-      "reference": "Jó 20:14"
+      "reference": "Jó 20:14",
+      "wrongs": [
+        "Em pão doce, que sustenta.",
+        "Em água viva, que cura.",
+        "Em azeite fino, que alegra."
+      ]
     },
     {
       "id": "JOB.21.subject.1",
@@ -458,7 +683,12 @@
       "kind": "subject",
       "prompt": "O que Jó pergunta sobre a vida dos perversos?",
       "answer": "Por que vivem, envelhecem e ainda ficam fortes.",
-      "reference": "Jó 21:7"
+      "reference": "Jó 21:7",
+      "wrongs": [
+        "Por que morrem cedo e perdem a força.",
+        "Por que fogem e não deixam herança.",
+        "Por que jejuam e não têm filhos."
+      ]
     },
     {
       "id": "JOB.21.curiosity.1",
@@ -468,7 +698,12 @@
       "kind": "curiosity",
       "prompt": "Com que os filhos dos perversos se alegram, segundo Jó?",
       "answer": "Com tamboril, harpa e flauta.",
-      "reference": "Jó 21:12"
+      "reference": "Jó 21:12",
+      "wrongs": [
+        "Com cinza, pano de saco e jejum.",
+        "Com silêncio, luto e trabalho.",
+        "Com livro, lei e oração."
+      ]
     },
     {
       "id": "JOB.22.subject.1",
@@ -478,7 +713,12 @@
       "kind": "subject",
       "prompt": "O que Elifaz acusa Jó de tirar das pessoas?",
       "answer": "O penhor sem motivo e a roupa de quem estava nu.",
-      "reference": "Jó 22:6"
+      "reference": "Jó 22:6",
+      "wrongs": [
+        "O pão da própria mesa e o vinho da festa.",
+        "A terra dos vizinhos ricos e o ouro do templo.",
+        "A bênção dos filhos e a saúde da esposa."
+      ]
     },
     {
       "id": "JOB.22.curiosity.1",
@@ -488,7 +728,12 @@
       "kind": "curiosity",
       "prompt": "O que Elifaz manda fazer com o ouro?",
       "answer": "Jogá-lo no pó, também o que vem de Ofir.",
-      "reference": "Jó 22:24"
+      "reference": "Jó 22:24",
+      "wrongs": [
+        "Guardá-lo no cofre, também o de Ofir.",
+        "Ofertá-lo no templo, também o de Ofir.",
+        "Reparti-lo aos amigos, também o de Ofir."
+      ]
     },
     {
       "id": "JOB.23.subject.1",
@@ -499,7 +744,12 @@
       "kind": "subject",
       "prompt": "Em que direções Jó busca Deus sem o encontrar?",
       "answer": "No oriente, no ocidente, no norte e no sul.",
-      "reference": "Jó 23:8-9"
+      "reference": "Jó 23:8-9",
+      "wrongs": [
+        "Só no templo, no pátio e no altar.",
+        "No mar, no rio, no poço e na cisterna.",
+        "Em Uz, em Temã, em Suá e em Naamá."
+      ]
     },
     {
       "id": "JOB.23.curiosity.1",
@@ -509,7 +759,12 @@
       "kind": "curiosity",
       "prompt": "Como Jó diz que sairá quando Deus o provar?",
       "answer": "Sairá como ouro.",
-      "reference": "Jó 23:10"
+      "reference": "Jó 23:10",
+      "wrongs": [
+        "Sairá como cinza.",
+        "Sairá como palha.",
+        "Sairá como pó."
+      ]
     },
     {
       "id": "JOB.24.subject.1",
@@ -519,7 +774,12 @@
       "kind": "subject",
       "prompt": "O que tiram do órfão e da viúva, na denúncia de Jó?",
       "answer": "Levam o jumento do órfão e tomam o boi da viúva em penhor.",
-      "reference": "Jó 24:3"
+      "reference": "Jó 24:3",
+      "wrongs": [
+        "Levam o ouro do órfão e tomam a casa da viúva em venda.",
+        "Devolvem o jumento do órfão e soltam o boi da viúva.",
+        "Dão um campo ao órfão e pagam a dívida da viúva."
+      ]
     },
     {
       "id": "JOB.24.curiosity.1",
@@ -529,7 +789,12 @@
       "kind": "curiosity",
       "prompt": "Quando o adúltero age, segundo Jó?",
       "answer": "No crepúsculo, achando que ninguém o vê.",
-      "reference": "Jó 24:15"
+      "reference": "Jó 24:15",
+      "wrongs": [
+        "Ao meio-dia, na porta da cidade.",
+        "De manhã, diante das testemunhas.",
+        "No sábado, dentro do templo."
+      ]
     },
     {
       "id": "JOB.25.subject.1",
@@ -539,7 +804,12 @@
       "kind": "subject",
       "prompt": "A que Bildade compara o ser humano?",
       "answer": "A uma larva, e o filho do homem a um verme.",
-      "reference": "Jó 25:6"
+      "reference": "Jó 25:6",
+      "wrongs": [
+        "A um anjo, e o filho do homem a uma estrela.",
+        "A um rei, e o filho do homem a um príncipe.",
+        "A um cedro, e o filho do homem a um carvalho."
+      ]
     },
     {
       "id": "JOB.25.curiosity.1",
@@ -549,7 +819,12 @@
       "kind": "curiosity",
       "prompt": "O que nem as estrelas são diante de Deus, segundo Bildade?",
       "answer": "Elas não são puras aos olhos dele.",
-      "reference": "Jó 25:5"
+      "reference": "Jó 25:5",
+      "wrongs": [
+        "Elas não são contadas por ele.",
+        "Elas não são obra das mãos dele.",
+        "Elas não são vistas de noite."
+      ]
     },
     {
       "id": "JOB.26.subject.1",
@@ -559,7 +834,12 @@
       "kind": "subject",
       "prompt": "Sobre o que Jó diz que Deus suspende a terra?",
       "answer": "Ele a suspende sobre o nada.",
-      "reference": "Jó 26:7"
+      "reference": "Jó 26:7",
+      "wrongs": [
+        "Ele a pendura em quatro correntes.",
+        "Ele a põe nas costas de um peixe.",
+        "Ele a escora em ombros de gigantes."
+      ]
     },
     {
       "id": "JOB.26.curiosity.1",
@@ -569,7 +849,12 @@
       "kind": "curiosity",
       "prompt": "A quem Deus derruba ao agitar o mar, segundo Jó?",
       "answer": "Ele abate Raabe.",
-      "reference": "Jó 26:12"
+      "reference": "Jó 26:12",
+      "wrongs": [
+        "Ele abate o leviatã.",
+        "Ele abate o Faraó.",
+        "Ele abate Golias."
+      ]
     },
     {
       "id": "JOB.27.subject.1",
@@ -579,7 +864,12 @@
       "kind": "subject",
       "prompt": "O que Jó recusa soltar até morrer?",
       "answer": "A própria integridade.",
-      "reference": "Jó 27:5"
+      "reference": "Jó 27:5",
+      "wrongs": [
+        "A própria culpa.",
+        "Os bens restantes.",
+        "A queixa contra os filhos."
+      ]
     },
     {
       "id": "JOB.27.curiosity.1",
@@ -589,7 +879,12 @@
       "kind": "curiosity",
       "prompt": "A que Jó compara a prata do perverso?",
       "answer": "Ao pó do chão.",
-      "reference": "Jó 27:16"
+      "reference": "Jó 27:16",
+      "wrongs": [
+        "Ao ouro de Ofir.",
+        "À água da chuva.",
+        "Ao pão de cada dia."
+      ]
     },
     {
       "id": "JOB.28.subject.1",
@@ -599,7 +894,12 @@
       "kind": "subject",
       "prompt": "O que Deus aponta como sabedoria no livro de Jó?",
       "answer": "Temer a Deus; a inteligência é deixar o mal.",
-      "reference": "Jó 28:28"
+      "reference": "Jó 28:28",
+      "wrongs": [
+        "Juntar ouro; a inteligência é achar prata.",
+        "Vencer debates; a inteligência é calar Jó.",
+        "Contar os dias; a inteligência é medir o mar."
+      ]
     },
     {
       "id": "JOB.28.curiosity.1",
@@ -609,7 +909,12 @@
       "kind": "curiosity",
       "prompt": "Que riquezas não pagam a sabedoria no livro de Jó?",
       "answer": "O ouro de Ofir, o ônix e a safira.",
-      "reference": "Jó 28:16"
+      "reference": "Jó 28:16",
+      "wrongs": [
+        "O pão de cada dia, o sal e o azeite.",
+        "O rebanho de Jó, a lã e o trigo.",
+        "A casa de barro, a tenda e o poço."
+      ]
     },
     {
       "id": "JOB.29.subject.1",
@@ -619,7 +924,12 @@
       "kind": "subject",
       "prompt": "Com o que Jó diz que lavava os próprios passos?",
       "answer": "Com manteiga, enquanto azeite corria da rocha.",
-      "reference": "Jó 29:6"
+      "reference": "Jó 29:6",
+      "wrongs": [
+        "Com água, enquanto o rio secava no verão.",
+        "Com vinho, enquanto o trigo faltava no campo.",
+        "Com cinza, enquanto a chuva caía na terra."
+      ]
     },
     {
       "id": "JOB.29.curiosity.1",
@@ -629,7 +939,12 @@
       "kind": "curiosity",
       "prompt": "O que Jó era para o cego e para o manco?",
       "answer": "A vista de um e os pés do outro.",
-      "reference": "Jó 29:15"
+      "reference": "Jó 29:15",
+      "wrongs": [
+        "O juiz de um e o credor do outro.",
+        "O peso de um e a vara do outro.",
+        "O medo de um e a fuga do outro."
+      ]
     },
     {
       "id": "JOB.30.subject.1",
@@ -639,7 +954,12 @@
       "kind": "subject",
       "prompt": "De quais bichos Jó diz que ficou parente?",
       "answer": "Irmão dos chacais e parceiro dos avestruzes.",
-      "reference": "Jó 30:29"
+      "reference": "Jó 30:29",
+      "wrongs": [
+        "Irmão dos leões e parceiro das águias.",
+        "Irmão dos bois e parceiro das ovelhas.",
+        "Irmão dos cavalos e parceiro dos jumentos."
+      ]
     },
     {
       "id": "JOB.30.curiosity.1",
@@ -649,7 +969,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu com a harpa e a flauta de Jó?",
       "answer": "A harpa virou lamento, e a flauta, choro.",
-      "reference": "Jó 30:31"
+      "reference": "Jó 30:31",
+      "wrongs": [
+        "A harpa ficou em festa, e a flauta, dança.",
+        "A harpa calou de vez, e a flauta sumiu.",
+        "A harpa passou ao filho, e a flauta, à filha."
+      ]
     },
     {
       "id": "JOB.31.subject.1",
@@ -659,7 +984,12 @@
       "kind": "subject",
       "prompt": "Que acordo Jó fez com os olhos?",
       "answer": "O de não olhar com cobiça para uma virgem.",
-      "reference": "Jó 31:1"
+      "reference": "Jó 31:1",
+      "wrongs": [
+        "O de não chorar diante dos amigos.",
+        "O de não dormir enquanto houvesse dor.",
+        "O de não ver o sol até ser curado."
+      ]
     },
     {
       "id": "JOB.31.curiosity.1",
@@ -669,7 +999,12 @@
       "kind": "curiosity",
       "prompt": "O que Jó pede que nasça no lugar do trigo?",
       "answer": "Cardos no trigo, e mato na cevada.",
-      "reference": "Jó 31:40"
+      "reference": "Jó 31:40",
+      "wrongs": [
+        "Lírios no trigo, e flores na cevada.",
+        "Ouro no trigo, e prata na cevada.",
+        "Uvas no trigo, e figos na cevada."
+      ]
     },
     {
       "id": "JOB.32.subject.1",
@@ -679,7 +1014,12 @@
       "kind": "subject",
       "prompt": "Por que Eliú se irou contra Jó?",
       "answer": "Porque Jó se justificava mais do que a Deus.",
-      "reference": "Jó 32:2"
+      "reference": "Jó 32:2",
+      "wrongs": [
+        "Porque Jó recusou o pão dos amigos.",
+        "Porque Jó zombou da cidade de Uz.",
+        "Porque Jó quebrou o voto do jejum."
+      ]
     },
     {
       "id": "JOB.32.name.1",
@@ -689,7 +1029,12 @@
       "kind": "name",
       "prompt": "De quem Eliú era filho?",
       "answer": "De Baraquel, da família de Rão, povo buzita.",
-      "reference": "Jó 32:2"
+      "reference": "Jó 32:2",
+      "wrongs": [
+        "De Elifaz, da família de Temã, povo edomita.",
+        "De Bildade, da família de Suá, povo do leste.",
+        "De Naamã, da família de Jó, povo de Uz."
+      ]
     },
     {
       "id": "JOB.32.curiosity.1",
@@ -699,7 +1044,12 @@
       "kind": "curiosity",
       "prompt": "A que Eliú compara o ventre cheio de palavras?",
       "answer": "A vinho sem saída, como odres novos.",
-      "reference": "Jó 32:19"
+      "reference": "Jó 32:19",
+      "wrongs": [
+        "A poço seco, como cisterna rachada.",
+        "A pão dormido, como saco fechado.",
+        "A fogo apagado, como cinza fria."
+      ]
     },
     {
       "id": "JOB.33.subject.1",
@@ -709,7 +1059,12 @@
       "kind": "subject",
       "prompt": "O que Eliú diz que foi achado para livrar o homem?",
       "answer": "Um resgate, para ele não cair na perdição.",
-      "reference": "Jó 33:24"
+      "reference": "Jó 33:24",
+      "wrongs": [
+        "Uma multa, para ele pagar aos amigos.",
+        "Um exílio, para ele sair da terra.",
+        "Um silêncio, para ele não orar mais."
+      ]
     },
     {
       "id": "JOB.33.curiosity.1",
@@ -719,7 +1074,12 @@
       "kind": "curiosity",
       "prompt": "De que modo Eliú diz que Deus fala de noite?",
       "answer": "Por sonho, ou numa visão durante a noite.",
-      "reference": "Jó 33:15"
+      "reference": "Jó 33:15",
+      "wrongs": [
+        "Por trovão, ou numa tempestade sem voz.",
+        "Por carta, ou por um mensageiro do rei.",
+        "Por jejum, ou numa festa do templo."
+      ]
     },
     {
       "id": "JOB.34.subject.1",
@@ -729,7 +1089,12 @@
       "kind": "subject",
       "prompt": "O que Eliú diz que Deus não faz?",
       "answer": "Não comete injustiça nem entorta o direito.",
-      "reference": "Jó 34:12"
+      "reference": "Jó 34:12",
+      "wrongs": [
+        "Não ouve o pobre nem vê o órfão.",
+        "Não cria o dia nem mede a noite.",
+        "Não fala ao homem nem manda a chuva."
+      ]
     },
     {
       "id": "JOB.34.curiosity.1",
@@ -739,7 +1104,12 @@
       "kind": "curiosity",
       "prompt": "Em que hora os povos são abalados, segundo Eliú?",
       "answer": "No meio da noite, de um instante para outro.",
-      "reference": "Jó 34:20"
+      "reference": "Jó 34:20",
+      "wrongs": [
+        "Ao meio-dia, depois de longo aviso.",
+        "Na festa, com música e banquete.",
+        "No sábado, só dentro do templo."
+      ]
     },
     {
       "id": "JOB.35.subject.1",
@@ -749,7 +1119,12 @@
       "kind": "subject",
       "prompt": "O que o Criador dá na noite, segundo Eliú?",
       "answer": "Ele dá canções.",
-      "reference": "Jó 35:10"
+      "reference": "Jó 35:10",
+      "wrongs": [
+        "Ele dá pesadelos.",
+        "Ele dá riquezas.",
+        "Ele dá exércitos."
+      ]
     },
     {
       "id": "JOB.35.curiosity.1",
@@ -759,7 +1134,12 @@
       "kind": "curiosity",
       "prompt": "Como Eliú descreve o discurso de Jó?",
       "answer": "Falou à toa, sem saber o que dizia.",
-      "reference": "Jó 35:16"
+      "reference": "Jó 35:16",
+      "wrongs": [
+        "Falou com peso, e acertou em tudo.",
+        "Calou a tempo, e ouviu a Deus.",
+        "Citou a lei, e convenceu os amigos."
+      ]
     },
     {
       "id": "JOB.36.subject.1",
@@ -769,7 +1149,12 @@
       "kind": "subject",
       "prompt": "Para que Deus fala ao ouvido do aflito, segundo Eliú?",
       "answer": "Para corrigi-las e elas deixarem a maldade.",
-      "reference": "Jó 36:10"
+      "reference": "Jó 36:10",
+      "wrongs": [
+        "Para assustá-las e elas fugirem da terra.",
+        "Para enriquecê-las e elas comprarem o silêncio.",
+        "Para premiá-las e elas repetirem a ofensa."
+      ]
     },
     {
       "id": "JOB.36.curiosity.1",
@@ -779,7 +1164,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus faz com as gotas de água, segundo Eliú?",
       "answer": "Eleva-as, e elas descem em chuva.",
-      "reference": "Jó 36:27"
+      "reference": "Jó 36:27",
+      "wrongs": [
+        "Seca-as, e o chão fica em pó.",
+        "Esconde-as, e o céu não chove.",
+        "Pesa-as, e o mar recua."
+      ]
     },
     {
       "id": "JOB.37.subject.1",
@@ -789,7 +1179,12 @@
       "kind": "subject",
       "prompt": "Como é a voz de Deus, na descrição de Eliú?",
       "answer": "Um trovão maravilhoso, em obras grandes demais.",
-      "reference": "Jó 37:5"
+      "reference": "Jó 37:5",
+      "wrongs": [
+        "Um sussurro fraco, em obras pequenas.",
+        "Uma ordem escrita, sem som algum.",
+        "Um canto de festa, só no templo."
+      ]
     },
     {
       "id": "JOB.37.curiosity.1",
@@ -799,7 +1194,12 @@
       "kind": "curiosity",
       "prompt": "O que o sopro de Deus produz, segundo Eliú?",
       "answer": "Gelo, e as águas grandes ficam congeladas.",
-      "reference": "Jó 37:10"
+      "reference": "Jó 37:10",
+      "wrongs": [
+        "Fogo, e as florestas se acendem.",
+        "Ouro, e os rios ficam ricos.",
+        "Pó, e os mares secam de vez."
+      ]
     },
     {
       "id": "JOB.38.subject.1",
@@ -809,7 +1209,12 @@
       "kind": "subject",
       "prompt": "O que Deus pergunta a Jó sobre o começo da terra?",
       "answer": "Onde ele estava quando a terra foi fundada.",
-      "reference": "Jó 38:4"
+      "reference": "Jó 38:4",
+      "wrongs": [
+        "Quanto ouro havia quando a terra foi fundada.",
+        "Quem eram os reis quando a terra foi fundada.",
+        "Por que Uz existia quando a terra foi fundada."
+      ]
     },
     {
       "id": "JOB.38.curiosity.1",
@@ -819,7 +1224,12 @@
       "kind": "curiosity",
       "prompt": "O que faziam as estrelas da manhã e os filhos de Deus, em Jó?",
       "answer": "Umas cantavam em coro; os filhos de Deus gritavam de alegria.",
-      "reference": "Jó 38:7"
+      "reference": "Jó 38:7",
+      "wrongs": [
+        "Umas se apagavam; os filhos de Deus ficavam em silêncio.",
+        "Umas caíam; os filhos de Deus fugiam da terra.",
+        "Umas guerreavam; os filhos de Deus choravam de medo."
+      ]
     },
     {
       "id": "JOB.38.curiosity.2",
@@ -829,7 +1239,12 @@
       "kind": "curiosity",
       "prompt": "Que limite Deus afirmou a Jó para as ondas do mar?",
       "answer": "Elas vão até um ponto e não passam.",
-      "reference": "Jó 38:11"
+      "reference": "Jó 38:11",
+      "wrongs": [
+        "Elas cobrem a terra e não voltam.",
+        "Elas secam no verão e somem.",
+        "Elas obedecem a Jó e param."
+      ]
     },
     {
       "id": "JOB.39.subject.1",
@@ -839,7 +1254,12 @@
       "kind": "subject",
       "prompt": "O que o cavalo fareja de longe, na fala de Deus, em Jó?",
       "answer": "A batalha, junto com a gritaria dos chefes.",
-      "reference": "Jó 39:25"
+      "reference": "Jó 39:25",
+      "wrongs": [
+        "O pasto, junto com o cheiro da chuva.",
+        "O rio, junto com a sombra das árvores.",
+        "O curral, junto com a voz do dono."
+      ]
     },
     {
       "id": "JOB.39.curiosity.1",
@@ -849,7 +1269,12 @@
       "kind": "curiosity",
       "prompt": "O que faltou à avestruz, segundo Deus, em Jó?",
       "answer": "Sabedoria e entendimento.",
-      "reference": "Jó 39:17"
+      "reference": "Jó 39:17",
+      "wrongs": [
+        "Asas fortes e velocidade.",
+        "Muitos ovos e um ninho.",
+        "Força nas pernas e plumagem."
+      ]
     },
     {
       "id": "JOB.39.curiosity.2",
@@ -860,7 +1285,12 @@
       "kind": "curiosity",
       "prompt": "Que casa Deus deu ao asno selvagem, em Jó?",
       "answer": "O deserto sem gente e a terra salgada.",
-      "reference": "Jó 39:5-6"
+      "reference": "Jó 39:5-6",
+      "wrongs": [
+        "O curral do rico e o campo verde.",
+        "A cidade murada e o palácio.",
+        "O jardim regado e o pomar."
+      ]
     },
     {
       "id": "JOB.40.subject.1",
@@ -870,7 +1300,12 @@
       "kind": "subject",
       "prompt": "Que animal Deus manda Jó observar?",
       "answer": "O beemote, que pasta erva como faz o boi.",
-      "reference": "Jó 40:15"
+      "reference": "Jó 40:15",
+      "wrongs": [
+        "O cordeiro, que segue o pastor sem abrir a boca.",
+        "A pomba, que volta ao ninho no fim do dia.",
+        "A serpente, que se esconde no pó do caminho."
+      ]
     },
     {
       "id": "JOB.40.place.1",
@@ -880,7 +1315,12 @@
       "kind": "place",
       "prompt": "Que rio o beemote enfrenta sem se apressar, em Jó?",
       "answer": "O Jordão, mesmo quando transborda até a boca.",
-      "reference": "Jó 40:23"
+      "reference": "Jó 40:23",
+      "wrongs": [
+        "O Nilo, mesmo quando seca até o leito.",
+        "O Eufrates, mesmo quando gela no inverno.",
+        "O Aava, mesmo quando some no verão."
+      ]
     },
     {
       "id": "JOB.40.curiosity.1",
@@ -890,7 +1330,12 @@
       "kind": "curiosity",
       "prompt": "Como é a cauda do beemote, em Jó?",
       "answer": "Fica rígida, parecida com um cedro.",
-      "reference": "Jó 40:17"
+      "reference": "Jó 40:17",
+      "wrongs": [
+        "Fica mole, parecida com um junco.",
+        "Fica curta, parecida com a de um boi.",
+        "Fica fina, parecida com um chicote."
+      ]
     },
     {
       "id": "JOB.40.curiosity.2",
@@ -900,7 +1345,12 @@
       "kind": "curiosity",
       "prompt": "O que Jó fez com a mão diante de Deus?",
       "answer": "Levou-a à boca, por se achar pequeno demais.",
-      "reference": "Jó 40:4"
+      "reference": "Jó 40:4",
+      "wrongs": [
+        "Ergueu-a ao céu, por se achar inocente.",
+        "Bateu-a no peito, por acusar os amigos.",
+        "Estendeu-a ao ouro, por pedir riqueza."
+      ]
     },
     {
       "id": "JOB.41.subject.1",
@@ -910,7 +1360,12 @@
       "kind": "subject",
       "prompt": "Como Deus pergunta se alguém pegaria o leviatã, em Jó?",
       "answer": "Com anzol, ou com uma corda na língua.",
-      "reference": "Jó 41:1"
+      "reference": "Jó 41:1",
+      "wrongs": [
+        "Com rede, ou com uma lança no dorso.",
+        "Com fogo, ou com uma tocha na boca.",
+        "Com canto, ou com uma flauta na margem."
+      ]
     },
     {
       "id": "JOB.41.curiosity.1",
@@ -920,7 +1375,12 @@
       "kind": "curiosity",
       "prompt": "O que sai da boca do leviatã, em Jó?",
       "answer": "Tochas, e faíscas de fogo pulam fora.",
-      "reference": "Jó 41:19"
+      "reference": "Jó 41:19",
+      "wrongs": [
+        "Água, e flocos de neve caem fora.",
+        "Mel, e gotas doces escorrem fora.",
+        "Pó, e nuvens secas saem fora."
+      ]
     },
     {
       "id": "JOB.41.curiosity.2",
@@ -930,7 +1390,12 @@
       "kind": "curiosity",
       "prompt": "Que título o leviatã tem sobre os bichos soberbos, em Jó?",
       "answer": "Ele é o rei de todos eles.",
-      "reference": "Jó 41:34"
+      "reference": "Jó 41:34",
+      "wrongs": [
+        "Ele é o servo de todos eles.",
+        "Ele é a presa de todos eles.",
+        "Ele é o irmão de todos eles."
+      ]
     },
     {
       "id": "JOB.42.subject.1",
@@ -940,7 +1405,12 @@
       "kind": "subject",
       "prompt": "Por que a ira de Deus se acendeu contra Elifaz e os dois amigos?",
       "answer": "Porque não disseram o que era certo sobre Deus, como Jó disse.",
-      "reference": "Jó 42:7"
+      "reference": "Jó 42:7",
+      "wrongs": [
+        "Porque recusaram visitar Jó e não consolaram a dor dele.",
+        "Porque cobraram ouro de Jó e venderam um conselho falso.",
+        "Porque deixaram Uz cedo e não fizeram sacrifício algum."
+      ]
     },
     {
       "id": "JOB.42.name.1",
@@ -950,7 +1420,12 @@
       "kind": "name",
       "prompt": "Quais nomes Jó deu às três filhas?",
       "answer": "Jemima, Quézia e Quéren-Hapuque.",
-      "reference": "Jó 42:14"
+      "reference": "Jó 42:14",
+      "wrongs": [
+        "Sara, Rebeca e Raquel.",
+        "Miriã, Débora e Ana.",
+        "Ester, Vasti e Zeres."
+      ]
     },
     {
       "id": "JOB.42.curiosity.1",
@@ -960,7 +1435,12 @@
       "kind": "curiosity",
       "prompt": "O que Jó fez no pó e na cinza?",
       "answer": "Abominou-se e se arrependeu ali.",
-      "reference": "Jó 42:6"
+      "reference": "Jó 42:6",
+      "wrongs": [
+        "Levantou-se e acusou os amigos.",
+        "Calou-se e negou a dor.",
+        "Celebrou e pediu vingança."
+      ]
     },
     {
       "id": "JOB.42.curiosity.2",
@@ -970,7 +1450,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus fez pelos bens de Jó enquanto ele orava?",
       "answer": "Tirou o infortúnio e deu o dobro do que possuía.",
-      "reference": "Jó 42:10"
+      "reference": "Jó 42:10",
+      "wrongs": [
+        "Manteve a perda e deu só os filhos.",
+        "Aumentou a dor e tirou o restante.",
+        "Devolveu a metade e guardou o resto."
+      ]
     },
     {
       "id": "JOB.0.curiosity.1",
@@ -980,7 +1465,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Jó?",
       "answer": "O livro não diz o autor.",
-      "reference": "Jó"
+      "reference": "Jó",
+      "wrongs": [
+        "O livro aponta Jó como autor.",
+        "O livro aponta Eliú como autor.",
+        "O livro aponta Moisés como autor."
+      ]
     },
     {
       "id": "JOB.0.curiosity.2",
@@ -990,7 +1480,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Jó?",
       "answer": "A data não é marcada. A história é antiga.",
-      "reference": "Jó"
+      "reference": "Jó",
+      "wrongs": [
+        "A data é o século X. A história é de Salomão.",
+        "A data é o exílio. A história é de Judá.",
+        "A data é o século I. A história é recente."
+      ]
     }
   ]
 }

@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Qual tribo Deus mandou subir contra os cananeus, em Juízes?",
       "answer": "Judá.",
-      "reference": "Jz 1:2"
+      "reference": "Jz 1:2",
+      "wrongs": [
+        "Efraim.",
+        "Benjamim.",
+        "Zebulom."
+      ]
     },
     {
       "id": "JDG.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem disse que Deus lhe pagou o que ele mesmo tinha feito, em Juízes?",
       "answer": "Adoni-Bezeque.",
-      "reference": "Jz 1:7"
+      "reference": "Jz 1:7",
+      "wrongs": [
+        "Eglom.",
+        "Sísera.",
+        "Abimeleque."
+      ]
     },
     {
       "id": "JDG.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Qual cidade Judá conquistou e incendiou?",
       "answer": "Jerusalém.",
-      "reference": "Jz 1:8"
+      "reference": "Jz 1:8",
+      "wrongs": [
+        "Hazor.",
+        "Laís.",
+        "Rabá."
+      ]
     },
     {
       "id": "JDG.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "Que castigo Adoni-Bezeque sofreu nas mãos e nos pés?",
       "answer": "Perdeu os dedos polegares.",
-      "reference": "Jz 1:6"
+      "reference": "Jz 1:6",
+      "wrongs": [
+        "Perdeu os dois olhos.",
+        "Teve as mãos cortadas.",
+        "Ficou com as pernas quebradas."
+      ]
     },
     {
       "id": "JDG.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Quem Deus levantava para salvar Israel dos saqueadores?",
       "answer": "Juízes.",
-      "reference": "Jz 2:16"
+      "reference": "Jz 2:16",
+      "wrongs": [
+        "Reis.",
+        "Sacerdotes.",
+        "Profetas."
+      ]
     },
     {
       "id": "JDG.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "Que nome deram ao lugar onde o anjo falou a Israel?",
       "answer": "Boquim.",
-      "reference": "Jz 2:5"
+      "reference": "Jz 2:5",
+      "wrongs": [
+        "Betel.",
+        "Gilgal.",
+        "Mispá."
+      ]
     },
     {
       "id": "JDG.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "A quais deuses se voltou a geração depois de Josué?",
       "answer": "A Baal e a Astarote.",
-      "reference": "Jz 2:13"
+      "reference": "Jz 2:13",
+      "wrongs": [
+        "A Moloque e a Quemos.",
+        "A Dagom e a Milcom.",
+        "A Nibaz e a Tartaque."
+      ]
     },
     {
       "id": "JDG.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "O que a geração depois de Josué não conhecia?",
       "answer": "Nem a Deus, nem as obras dele em favor de Israel.",
-      "reference": "Jz 2:10"
+      "reference": "Jz 2:10",
+      "wrongs": [
+        "Nem o nome da própria tribo, nem o caminho de casa.",
+        "Nem semear o campo, nem guardar o rebanho.",
+        "Nem contar os meses, nem achar a própria cidade."
+      ]
     },
     {
       "id": "JDG.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "Como Eúde matou Eglom, rei de Moabe?",
       "answer": "Enfiou um punhal no ventre dele.",
-      "reference": "Jz 3:21"
+      "reference": "Jz 3:21",
+      "wrongs": [
+        "Cravou uma lança nas costas dele.",
+        "Cortou a cabeça dele com a espada.",
+        "Atirou uma pedra na testa dele."
+      ]
     },
     {
       "id": "JDG.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Quem foi o libertador irmão de Calebe?",
       "answer": "Otniel, filho de Quenaz.",
-      "reference": "Jz 3:9"
+      "reference": "Jz 3:9",
+      "wrongs": [
+        "Eúde, filho de Gera.",
+        "Sangar, filho de Anate.",
+        "Baraque, filho de Abinoão."
+      ]
     },
     {
       "id": "JDG.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Qual cidade Eglom, rei de Moabe, tomou?",
       "answer": "A cidade das palmeiras.",
-      "reference": "Jz 3:13"
+      "reference": "Jz 3:13",
+      "wrongs": [
+        "A cidade de Hesbom.",
+        "A cidade de Rabá.",
+        "A cidade de Dibom."
+      ]
     },
     {
       "id": "JDG.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Com o que Sangar derrubou seiscentos filisteus?",
       "answer": "Com uma vara de conduzir bois.",
-      "reference": "Jz 3:31"
+      "reference": "Jz 3:31",
+      "wrongs": [
+        "Com uma queixada de jumento.",
+        "Com uma funda e cinco pedras.",
+        "Com uma estaca de tenda."
+      ]
     },
     {
       "id": "JDG.4.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Quem Deus derrotou diante de Baraque?",
       "answer": "Sísera, com os carros e o exército.",
-      "reference": "Jz 4:15"
+      "reference": "Jz 4:15",
+      "wrongs": [
+        "Eglom, com os moabitas ao lado.",
+        "Zeba, com os reis de Midiã.",
+        "Naás, com o exército de Amom."
+      ]
     },
     {
       "id": "JDG.4.name.1",
@@ -138,7 +203,12 @@
       "kind": "name",
       "prompt": "Quem era a profetisa que julgava Israel?",
       "answer": "Débora, mulher de Lapidote.",
-      "reference": "Jz 4:4"
+      "reference": "Jz 4:4",
+      "wrongs": [
+        "Jael, mulher de Héber.",
+        "Dalila, do vale de Soreque.",
+        "Acsa, filha de Calebe."
+      ]
     },
     {
       "id": "JDG.4.place.1",
@@ -148,7 +218,12 @@
       "kind": "place",
       "prompt": "De que monte Baraque desceu para a batalha?",
       "answer": "Do monte Tabor.",
-      "reference": "Jz 4:14"
+      "reference": "Jz 4:14",
+      "wrongs": [
+        "Do monte Carmelo.",
+        "Do monte Gilboa.",
+        "Do monte Gerizim."
+      ]
     },
     {
       "id": "JDG.4.curiosity.1",
@@ -158,7 +233,12 @@
       "kind": "curiosity",
       "prompt": "Como Jael matou Sísera?",
       "answer": "Cravou uma estaca de tenda na têmpora dele.",
-      "reference": "Jz 4:21"
+      "reference": "Jz 4:21",
+      "wrongs": [
+        "Cortou a cabeça dele com a espada.",
+        "Enfiou um punhal no ventre dele.",
+        "Derrubou sobre ele uma pedra de moinho."
+      ]
     },
     {
       "id": "JDG.5.subject.1",
@@ -168,7 +248,12 @@
       "kind": "subject",
       "prompt": "O que lutou do céu contra Sísera?",
       "answer": "As estrelas.",
-      "reference": "Jz 5:20"
+      "reference": "Jz 5:20",
+      "wrongs": [
+        "Os cavalos de fogo.",
+        "Uma chuva de granizo.",
+        "Pássaros do céu."
+      ]
     },
     {
       "id": "JDG.5.name.1",
@@ -178,7 +263,12 @@
       "kind": "name",
       "prompt": "Quem a canção de Débora chama de bendita entre as mulheres?",
       "answer": "Jael, mulher de Héber.",
-      "reference": "Jz 5:24"
+      "reference": "Jz 5:24",
+      "wrongs": [
+        "Débora, mulher de Lapidote.",
+        "A filha de Jefté.",
+        "A mãe de Sansão."
+      ]
     },
     {
       "id": "JDG.5.place.1",
@@ -188,7 +278,12 @@
       "kind": "place",
       "prompt": "Perto de que águas os reis de Canaã lutaram?",
       "answer": "Das águas de Megido, em Taanaque.",
-      "reference": "Jz 5:19"
+      "reference": "Jz 5:19",
+      "wrongs": [
+        "Das águas do Jordão, em Gilgal.",
+        "Do ribeiro de Besor, em Ziclague.",
+        "Do vale de Elá, junto a Socó."
+      ]
     },
     {
       "id": "JDG.5.curiosity.1",
@@ -198,7 +293,12 @@
       "kind": "curiosity",
       "prompt": "Por quantos anos a terra descansou após a vitória sobre Sísera?",
       "answer": "Quarenta anos.",
-      "reference": "Jz 5:31"
+      "reference": "Jz 5:31",
+      "wrongs": [
+        "Vinte anos.",
+        "Oitenta anos.",
+        "Sete anos."
+      ]
     },
     {
       "id": "JDG.6.subject.1",
@@ -208,7 +308,12 @@
       "kind": "subject",
       "prompt": "Qual missão Deus deu a Gideão?",
       "answer": "Salvar Israel do poder de Midiã.",
-      "reference": "Jz 6:14"
+      "reference": "Jz 6:14",
+      "wrongs": [
+        "Reconstruir o santuário em Siló.",
+        "Ungir um rei sobre as doze tribos.",
+        "Levar a arca de volta de Asdode."
+      ]
     },
     {
       "id": "JDG.6.name.1",
@@ -218,7 +323,12 @@
       "kind": "name",
       "prompt": "Por que Gideão também foi chamado de Jerubaal?",
       "answer": "Porque derrubou o altar de Baal.",
-      "reference": "Jz 6:32"
+      "reference": "Jz 6:32",
+      "wrongs": [
+        "Porque venceu os midianitas de noite.",
+        "Porque recusou ser rei em Ofra.",
+        "Porque ofereceu o filho em sacrifício."
+      ]
     },
     {
       "id": "JDG.6.place.1",
@@ -228,7 +338,12 @@
       "kind": "place",
       "prompt": "Onde Gideão escondia o trigo dos midianitas?",
       "answer": "No lagar, sob o carvalho em Ofra.",
-      "reference": "Jz 6:11"
+      "reference": "Jz 6:11",
+      "wrongs": [
+        "Numa cova, perto da fonte de Harode.",
+        "No alto do monte Tabor.",
+        "Dentro da eira, em Belém."
+      ]
     },
     {
       "id": "JDG.6.curiosity.1",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "O que Gideão espremeu do pedaço de lã?",
       "answer": "Água bastante para encher um vaso.",
-      "reference": "Jz 6:38"
+      "reference": "Jz 6:38",
+      "wrongs": [
+        "Vinho bastante para encher um odre.",
+        "Leite bastante para encher uma tigela.",
+        "Mel bastante para encher um copo."
+      ]
     },
     {
       "id": "JDG.7.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "Com quantos homens Deus prometeu entregar Midiã a Gideão?",
       "answer": "Com trezentos.",
-      "reference": "Jz 7:7"
+      "reference": "Jz 7:7",
+      "wrongs": [
+        "Com dez mil.",
+        "Com trinta e dois mil.",
+        "Com todos os que se ajoelharam."
+      ]
     },
     {
       "id": "JDG.7.name.1",
@@ -258,7 +383,12 @@
       "kind": "name",
       "prompt": "Quais chefes de Midiã foram capturados e mortos?",
       "answer": "Orebe e Zeebe.",
-      "reference": "Jz 7:25"
+      "reference": "Jz 7:25",
+      "wrongs": [
+        "Eglom e Sísera.",
+        "Naás e Agague.",
+        "Adoni-Bezeque e Jabim."
+      ]
     },
     {
       "id": "JDG.7.place.1",
@@ -268,7 +398,12 @@
       "kind": "place",
       "prompt": "Perto de qual fonte Gideão acampou?",
       "answer": "A fonte de Harode.",
-      "reference": "Jz 7:1"
+      "reference": "Jz 7:1",
+      "wrongs": [
+        "A fonte de En-Gedi.",
+        "O poço de Belém.",
+        "As águas de Megido."
+      ]
     },
     {
       "id": "JDG.7.curiosity.1",
@@ -278,7 +413,12 @@
       "kind": "curiosity",
       "prompt": "O que havia dentro dos jarros dos trezentos, em Juízes?",
       "answer": "Tochas acesas.",
-      "reference": "Jz 7:16"
+      "reference": "Jz 7:16",
+      "wrongs": [
+        "Espadas curtas.",
+        "Trombetas de chifre.",
+        "Pedras de funda."
+      ]
     },
     {
       "id": "JDG.8.subject.1",
@@ -288,7 +428,12 @@
       "kind": "subject",
       "prompt": "O que Gideão respondeu quando quiseram fazê-lo chefe?",
       "answer": "Que não governaria, porque Deus é quem governa.",
-      "reference": "Jz 8:23"
+      "reference": "Jz 8:23",
+      "wrongs": [
+        "Que aceitaria o cargo e o passaria aos filhos.",
+        "Que reinaria só sobre a tribo de Manassés.",
+        "Que o povo devia escolher Abimeleque."
+      ]
     },
     {
       "id": "JDG.8.name.1",
@@ -298,7 +443,12 @@
       "kind": "name",
       "prompt": "Quais reis de Midiã Gideão matou no fim da perseguição?",
       "answer": "Zeba e Zalmuna.",
-      "reference": "Jz 8:21"
+      "reference": "Jz 8:21",
+      "wrongs": [
+        "Orebe e Zeebe.",
+        "Eglom e Sísera.",
+        "Naás e Agague."
+      ]
     },
     {
       "id": "JDG.8.place.1",
@@ -308,7 +458,12 @@
       "kind": "place",
       "prompt": "Qual cidade zombou de Gideão e negou pão aos homens dele?",
       "answer": "Sucote.",
-      "reference": "Jz 8:6"
+      "reference": "Jz 8:6",
+      "wrongs": [
+        "Hebrom.",
+        "Siquém.",
+        "Jericó."
+      ]
     },
     {
       "id": "JDG.8.curiosity.1",
@@ -318,7 +473,12 @@
       "kind": "curiosity",
       "prompt": "O que o éfode feito por Gideão causou?",
       "answer": "Virou um tropeço para ele e para a casa dele.",
-      "reference": "Jz 8:27"
+      "reference": "Jz 8:27",
+      "wrongs": [
+        "Afastou Israel de Baal para sempre.",
+        "Serviu só para guardar o pão da oferta.",
+        "Foi desfeito no mesmo dia, sem efeito."
+      ]
     },
     {
       "id": "JDG.9.subject.1",
@@ -328,7 +488,12 @@
       "kind": "subject",
       "prompt": "O que Abimeleque fez aos filhos de Jerubaal em Ofra?",
       "answer": "Matou setenta irmãos sobre uma pedra.",
-      "reference": "Jz 9:5"
+      "reference": "Jz 9:5",
+      "wrongs": [
+        "Expulsou os irmãos para o deserto.",
+        "Dividiu a herança entre eles.",
+        "Prendeu os irmãos na torre de Siquém."
+      ]
     },
     {
       "id": "JDG.9.name.1",
@@ -338,7 +503,12 @@
       "kind": "name",
       "prompt": "Qual filho de Jerubaal sobreviveu escondido?",
       "answer": "Jotão, o mais novo.",
-      "reference": "Jz 9:5"
+      "reference": "Jz 9:5",
+      "wrongs": [
+        "Abimeleque, o mais velho.",
+        "Gideão, o pai deles.",
+        "Otniel, filho de Quenaz."
+      ]
     },
     {
       "id": "JDG.9.place.1",
@@ -348,7 +518,12 @@
       "kind": "place",
       "prompt": "De onde Jotão gritou para os homens de Siquém?",
       "answer": "Do alto do monte Gerizim.",
-      "reference": "Jz 9:7"
+      "reference": "Jz 9:7",
+      "wrongs": [
+        "Do alto do monte Ebal.",
+        "Da porta de Siquém.",
+        "Do carvalho em Ofra."
+      ]
     },
     {
       "id": "JDG.9.curiosity.1",
@@ -358,7 +533,12 @@
       "kind": "curiosity",
       "prompt": "O que uma mulher atirou na cabeça de Abimeleque?",
       "answer": "Um pedaço de pedra de moinho.",
-      "reference": "Jz 9:53"
+      "reference": "Jz 9:53",
+      "wrongs": [
+        "Uma estaca de tenda.",
+        "Um jarro com tocha.",
+        "Uma queixada de jumento."
+      ]
     },
     {
       "id": "JDG.10.subject.1",
@@ -368,7 +548,12 @@
       "kind": "subject",
       "prompt": "A quem Deus entregou Israel depois da morte de Jair?",
       "answer": "Aos filisteus e aos filhos de Amom.",
-      "reference": "Jz 10:7"
+      "reference": "Jz 10:7",
+      "wrongs": [
+        "Aos midianitas e aos amalequitas.",
+        "Aos moabitas e ao rei Eglom.",
+        "Aos cananeus de Hazor e a Sísera."
+      ]
     },
     {
       "id": "JDG.10.name.1",
@@ -378,7 +563,12 @@
       "kind": "name",
       "prompt": "Quem julgou Israel morando em Samir?",
       "answer": "Tolá, filho de Puá.",
-      "reference": "Jz 10:1"
+      "reference": "Jz 10:1",
+      "wrongs": [
+        "Jair, o gileadita.",
+        "Jefté, filho de Gileade.",
+        "Ibsã, de Belém."
+      ]
     },
     {
       "id": "JDG.10.place.1",
@@ -388,7 +578,12 @@
       "kind": "place",
       "prompt": "Onde os amonitas armaram acampamento no tempo de Jefté?",
       "answer": "Em Gileade.",
-      "reference": "Jz 10:17"
+      "reference": "Jz 10:17",
+      "wrongs": [
+        "Em Siquém.",
+        "Em Gaza.",
+        "Em Hebrom."
+      ]
     },
     {
       "id": "JDG.10.curiosity.1",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "Quantas vilas tinham o nome de Jair?",
       "answer": "Trinta, na terra de Gileade.",
-      "reference": "Jz 10:4"
+      "reference": "Jz 10:4",
+      "wrongs": [
+        "Doze, na terra de Efraim.",
+        "Setenta, na planície de Jezreel.",
+        "Quarenta, junto ao Jordão."
+      ]
     },
     {
       "id": "JDG.11.subject.1",
@@ -408,7 +608,12 @@
       "kind": "subject",
       "prompt": "Quem saiu ao encontro de Jefté quando ele voltou da guerra?",
       "answer": "A filha única dele, dançando.",
-      "reference": "Jz 11:34"
+      "reference": "Jz 11:34",
+      "wrongs": [
+        "A mulher dele, com um cântico de vitória.",
+        "Os anciãos de Gileade, em silêncio.",
+        "O irmão mais novo, com um presente."
+      ]
     },
     {
       "id": "JDG.11.name.1",
@@ -418,7 +623,12 @@
       "kind": "name",
       "prompt": "Quem Gileade escolheu como chefe e príncipe?",
       "answer": "Jefté.",
-      "reference": "Jz 11:11"
+      "reference": "Jz 11:11",
+      "wrongs": [
+        "Jair.",
+        "Tolá.",
+        "Ibsã."
+      ]
     },
     {
       "id": "JDG.11.place.1",
@@ -428,7 +638,12 @@
       "kind": "place",
       "prompt": "Onde Jefté falou diante de Deus ao assumir a liderança?",
       "answer": "Em Mispá.",
-      "reference": "Jz 11:11"
+      "reference": "Jz 11:11",
+      "wrongs": [
+        "Em Siló.",
+        "Em Hebrom.",
+        "Em Betel."
+      ]
     },
     {
       "id": "JDG.11.curiosity.1",
@@ -438,7 +653,12 @@
       "kind": "curiosity",
       "prompt": "O que Jefté prometeu se voltasse vencedor?",
       "answer": "Oferecer em sacrifício queimado quem saísse da casa para recebê-lo.",
-      "reference": "Jz 11:31"
+      "reference": "Jz 11:31",
+      "wrongs": [
+        "Nunca mais cortar o cabelo, nem o dele nem o do filho.",
+        "Entregar Rabá e todo o despojo aos filhos de Amom.",
+        "Jejuar em Gileade todo ano, pelo resto da vida."
+      ]
     },
     {
       "id": "JDG.12.subject.1",
@@ -448,7 +668,12 @@
       "kind": "subject",
       "prompt": "Que palavra os de Efraim não conseguiam pronunciar?",
       "answer": "Chibolete; eles diziam Sibolete.",
-      "reference": "Jz 12:6"
+      "reference": "Jz 12:6",
+      "wrongs": [
+        "Ebenézer; eles diziam Boquim.",
+        "Ramate-Leí; eles diziam Mispá.",
+        "Gilgal; eles diziam Betel."
+      ]
     },
     {
       "id": "JDG.12.name.1",
@@ -458,7 +683,12 @@
       "kind": "name",
       "prompt": "Quem julgou Israel e foi sepultado em Gileade?",
       "answer": "Jefté.",
-      "reference": "Jz 12:7"
+      "reference": "Jz 12:7",
+      "wrongs": [
+        "Gideão.",
+        "Sansão.",
+        "Eli."
+      ]
     },
     {
       "id": "JDG.12.place.1",
@@ -468,7 +698,12 @@
       "kind": "place",
       "prompt": "Onde os de Gileade barraram a fuga de Efraim?",
       "answer": "Nos vaus do Jordão.",
-      "reference": "Jz 12:5"
+      "reference": "Jz 12:5",
+      "wrongs": [
+        "Na porta de Siquém.",
+        "No desfiladeiro de Micmás.",
+        "Nos vaus do Jaboque."
+      ]
     },
     {
       "id": "JDG.12.curiosity.1",
@@ -478,7 +713,12 @@
       "kind": "curiosity",
       "prompt": "Quantos de Efraim morreram por não dizer Chibolete?",
       "answer": "Quarenta e dois mil.",
-      "reference": "Jz 12:6"
+      "reference": "Jz 12:6",
+      "wrongs": [
+        "Trinta mil.",
+        "Seiscentos.",
+        "Oitenta e cinco."
+      ]
     },
     {
       "id": "JDG.13.subject.1",
@@ -488,7 +728,12 @@
       "kind": "subject",
       "prompt": "O que o anjo anunciou sobre o filho da mulher de Manoá?",
       "answer": "Que seria nazireu e começaria a livrar Israel dos filisteus.",
-      "reference": "Jz 13:5"
+      "reference": "Jz 13:5",
+      "wrongs": [
+        "Que seria rei em Hebrom e venceria Amom.",
+        "Que reconstruiria Siló e guardaria a arca.",
+        "Que julgaria sentado debaixo de uma palmeira."
+      ]
     },
     {
       "id": "JDG.13.name.1",
@@ -498,7 +743,12 @@
       "kind": "name",
       "prompt": "Que nome a mulher de Manoá deu ao filho?",
       "answer": "Sansão.",
-      "reference": "Jz 13:24"
+      "reference": "Jz 13:24",
+      "wrongs": [
+        "Samuel.",
+        "Jefté.",
+        "Otniel."
+      ]
     },
     {
       "id": "JDG.13.place.1",
@@ -508,7 +758,12 @@
       "kind": "place",
       "prompt": "De onde era Manoá?",
       "answer": "De Zorá, na tribo de Dã.",
-      "reference": "Jz 13:2"
+      "reference": "Jz 13:2",
+      "wrongs": [
+        "De Belém, na tribo de Judá.",
+        "De Siló, na tribo de Efraim.",
+        "De Hebrom, na tribo de Judá."
+      ]
     },
     {
       "id": "JDG.13.curiosity.1",
@@ -518,7 +773,12 @@
       "kind": "curiosity",
       "prompt": "Como o anjo subiu diante de Manoá e da mulher?",
       "answer": "No meio da chama do altar.",
-      "reference": "Jz 13:20"
+      "reference": "Jz 13:20",
+      "wrongs": [
+        "Numa nuvem que cobriu a casa.",
+        "Sobre um carro de cavalos de fogo.",
+        "Pelo caminho do Jordão, em silêncio."
+      ]
     },
     {
       "id": "JDG.14.subject.1",
@@ -528,7 +788,12 @@
       "kind": "subject",
       "prompt": "O que Sansão fez com o leão, sem nenhuma arma?",
       "answer": "Despedaçou o animal só com as mãos.",
-      "reference": "Jz 14:6"
+      "reference": "Jz 14:6",
+      "wrongs": [
+        "Fugiu e deixou o leão no caminho.",
+        "Matou o leão com uma queixada.",
+        "Pediu que os pais abatessem o animal."
+      ]
     },
     {
       "id": "JDG.14.place.1",
@@ -538,7 +803,12 @@
       "kind": "place",
       "prompt": "Onde Sansão viu a mulher filisteia com quem quis casar?",
       "answer": "Em Timna.",
-      "reference": "Jz 14:1"
+      "reference": "Jz 14:1",
+      "wrongs": [
+        "Em Gaza.",
+        "Em Soreque.",
+        "Em Asdode."
+      ]
     },
     {
       "id": "JDG.14.curiosity.1",
@@ -548,7 +818,12 @@
       "kind": "curiosity",
       "prompt": "O que Sansão achou no corpo do leão morto?",
       "answer": "Mel guardado por um enxame de abelhas.",
-      "reference": "Jz 14:8"
+      "reference": "Jz 14:8",
+      "wrongs": [
+        "Uma espada escondida na carcaça.",
+        "Filhotes ainda vivos.",
+        "Um favo vazio e seco."
+      ]
     },
     {
       "id": "JDG.14.curiosity.2",
@@ -558,7 +833,12 @@
       "kind": "curiosity",
       "prompt": "Qual foi o enigma que Sansão propôs?",
       "answer": "Comida saiu de quem devora, e doçura saiu da força.",
-      "reference": "Jz 14:14"
+      "reference": "Jz 14:14",
+      "wrongs": [
+        "Água saiu da pedra, e mel saiu do deserto.",
+        "O forte caiu de noite, e o fraco ficou de pé.",
+        "Doçura saiu do mar, e comida saiu da areia."
+      ]
     },
     {
       "id": "JDG.15.subject.1",
@@ -568,7 +848,12 @@
       "kind": "subject",
       "prompt": "Que arma Sansão usou para ferir mil homens?",
       "answer": "Uma queixada fresca de jumento.",
-      "reference": "Jz 15:15"
+      "reference": "Jz 15:15",
+      "wrongs": [
+        "Uma vara de conduzir bois.",
+        "Uma funda com cinco pedras.",
+        "Uma espada tomada dos filisteus."
+      ]
     },
     {
       "id": "JDG.15.place.1",
@@ -578,7 +863,12 @@
       "kind": "place",
       "prompt": "Que nome Sansão deu ao lugar da queixada?",
       "answer": "Ramate-Leí.",
-      "reference": "Jz 15:17"
+      "reference": "Jz 15:17",
+      "wrongs": [
+        "Ebenézer.",
+        "Boquim.",
+        "Perez-Uzá."
+      ]
     },
     {
       "id": "JDG.15.curiosity.1",
@@ -588,7 +878,12 @@
       "kind": "curiosity",
       "prompt": "Quantas raposas Sansão amarrou com tochas?",
       "answer": "Trezentas.",
-      "reference": "Jz 15:4"
+      "reference": "Jz 15:4",
+      "wrongs": [
+        "Trinta.",
+        "Cem.",
+        "Quinhentas."
+      ]
     },
     {
       "id": "JDG.15.curiosity.2",
@@ -598,7 +893,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus fez sair quando Sansão teve sede?",
       "answer": "Água, de uma cavidade em Leí.",
-      "reference": "Jz 15:19"
+      "reference": "Jz 15:19",
+      "wrongs": [
+        "Mel, de uma fenda na rocha.",
+        "Vinho, de um odre escondido.",
+        "Azeite, de uma pedra rachada."
+      ]
     },
     {
       "id": "JDG.16.subject.1",
@@ -608,7 +908,12 @@
       "kind": "subject",
       "prompt": "Como Sansão morreu entre os filisteus?",
       "answer": "A casa caiu sobre eles, e ele morreu junto.",
-      "reference": "Jz 16:30"
+      "reference": "Jz 16:30",
+      "wrongs": [
+        "Os filisteus o feriram na prisão, e ele ficou lá.",
+        "Ele escapou de noite e morreu em Zorá.",
+        "Dalila o entregou, e ele foi morto na hora."
+      ]
     },
     {
       "id": "JDG.16.name.1",
@@ -618,7 +923,12 @@
       "kind": "name",
       "prompt": "De quem Sansão gostou no vale de Soreque?",
       "answer": "De Dalila.",
-      "reference": "Jz 16:4"
+      "reference": "Jz 16:4",
+      "wrongs": [
+        "De Jael.",
+        "De Débora.",
+        "De Rute."
+      ]
     },
     {
       "id": "JDG.16.place.1",
@@ -628,7 +938,12 @@
       "kind": "place",
       "prompt": "Para onde levaram Sansão depois de cegá-lo?",
       "answer": "Para Gaza, a fim de moer no cárcere.",
-      "reference": "Jz 16:21"
+      "reference": "Jz 16:21",
+      "wrongs": [
+        "Para Asdode, a fim de servir a Dagom.",
+        "Para Timna, a fim de trabalhar no campo.",
+        "Para Jericó, a fim de reconstruir o muro."
+      ]
     },
     {
       "id": "JDG.16.curiosity.1",
@@ -638,7 +953,12 @@
       "kind": "curiosity",
       "prompt": "O que Sansão carregou no ombro para fora de Gaza?",
       "answer": "As portas, os postes e a tranca.",
-      "reference": "Jz 16:3"
+      "reference": "Jz 16:3",
+      "wrongs": [
+        "A arca, o altar e o éfode.",
+        "Os jarros, as tochas e as trombetas.",
+        "A coluna, a estaca e a pedra de moinho."
+      ]
     },
     {
       "id": "JDG.17.subject.1",
@@ -648,7 +968,12 @@
       "kind": "subject",
       "prompt": "O que fizeram com parte da prata na casa de Mica?",
       "answer": "Fundiram uma imagem e a puseram na casa dele.",
-      "reference": "Jz 17:4"
+      "reference": "Jz 17:4",
+      "wrongs": [
+        "Devolveram tudo à mãe, sem usar o metal.",
+        "Compraram um campo em Belém.",
+        "Ofereceram a prata no altar de Siló."
+      ]
     },
     {
       "id": "JDG.17.name.1",
@@ -658,7 +983,12 @@
       "kind": "name",
       "prompt": "Quem Mica consagrou como sacerdote da casa?",
       "answer": "Um jovem levita.",
-      "reference": "Jz 17:12"
+      "reference": "Jz 17:12",
+      "wrongs": [
+        "Um sacerdote de Nobe.",
+        "O filho mais velho de Mica.",
+        "Fineias, filho de Eleazar."
+      ]
     },
     {
       "id": "JDG.17.place.1",
@@ -668,7 +998,12 @@
       "kind": "place",
       "prompt": "Em que região morava Mica?",
       "answer": "No monte de Efraim.",
-      "reference": "Jz 17:1"
+      "reference": "Jz 17:1",
+      "wrongs": [
+        "No monte de Judá.",
+        "Na planície dos filisteus.",
+        "No vale do Jordão."
+      ]
     },
     {
       "id": "JDG.17.curiosity.1",
@@ -678,7 +1013,12 @@
       "kind": "curiosity",
       "prompt": "O que cada um fazia em Israel quando não havia rei?",
       "answer": "O que achava melhor.",
-      "reference": "Jz 17:6"
+      "reference": "Jz 17:6",
+      "wrongs": [
+        "O que o rei mandava por escrito.",
+        "O que o sacerdote de Siló ordenava.",
+        "O que a lei lida em Mispá exigia."
+      ]
     },
     {
       "id": "JDG.18.subject.1",
@@ -688,7 +1028,12 @@
       "kind": "subject",
       "prompt": "Como a cidade de Laís passou a se chamar?",
       "answer": "Dã, pelo nome do pai da tribo.",
-      "reference": "Jz 18:29"
+      "reference": "Jz 18:29",
+      "wrongs": [
+        "Laís, como antes da conquista.",
+        "Siló, por causa do santuário.",
+        "Mispá, em memória da reunião."
+      ]
     },
     {
       "id": "JDG.18.name.1",
@@ -698,7 +1043,12 @@
       "kind": "name",
       "prompt": "Quem serviu como sacerdote da tribo de Dã?",
       "answer": "Jônatas, filho de Gérson.",
-      "reference": "Jz 18:30"
+      "reference": "Jz 18:30",
+      "wrongs": [
+        "Mica, da montanha de Efraim.",
+        "Fineias, filho de Eleazar.",
+        "O levita hospedado em Gibeá."
+      ]
     },
     {
       "id": "JDG.18.place.1",
@@ -708,7 +1058,12 @@
       "kind": "place",
       "prompt": "De onde saíram os seiscentos guerreiros de Dã?",
       "answer": "De Zorá e de Estaol.",
-      "reference": "Jz 18:11"
+      "reference": "Jz 18:11",
+      "wrongs": [
+        "De Belém e de Hebrom.",
+        "De Siló e de Betel.",
+        "De Gaza e de Asdode."
+      ]
     },
     {
       "id": "JDG.18.curiosity.1",
@@ -718,7 +1073,12 @@
       "kind": "curiosity",
       "prompt": "O que a tribo de Dã fez com o povo tranquilo de Laís?",
       "answer": "Matou os moradores e queimou a cidade.",
-      "reference": "Jz 18:27"
+      "reference": "Jz 18:27",
+      "wrongs": [
+        "Fez aliança e pagou tributo.",
+        "Deixou o povo quieto e seguiu viagem.",
+        "Levantou os muros e foi embora em paz."
+      ]
     },
     {
       "id": "JDG.19.subject.1",
@@ -728,7 +1088,12 @@
       "kind": "subject",
       "prompt": "O que os homens de Gibeá fizeram à concubina do levita?",
       "answer": "Abusaram dela por toda a noite.",
-      "reference": "Jz 19:25"
+      "reference": "Jz 19:25",
+      "wrongs": [
+        "Receberam a família e deram pousada.",
+        "Mandaram o grupo embora antes do anoitecer.",
+        "Entregaram os dois ao sacerdote da cidade."
+      ]
     },
     {
       "id": "JDG.19.place.1",
@@ -738,7 +1103,12 @@
       "kind": "place",
       "prompt": "Em qual cidade de Benjamim o sol se pôs para o levita?",
       "answer": "Em Gibeá.",
-      "reference": "Jz 19:14"
+      "reference": "Jz 19:14",
+      "wrongs": [
+        "Em Belém.",
+        "Em Siló.",
+        "Em Jericó."
+      ]
     },
     {
       "id": "JDG.19.curiosity.1",
@@ -748,7 +1118,12 @@
       "kind": "curiosity",
       "prompt": "Em quantos pedaços o levita dividiu a concubina, em Juízes?",
       "answer": "Em doze, e mandou às regiões de Israel.",
-      "reference": "Jz 19:29"
+      "reference": "Jz 19:29",
+      "wrongs": [
+        "Em sete, e mandou só a Benjamim.",
+        "Em dois, e enterrou os pedaços em Gibeá.",
+        "Em quarenta, e espalhou pelo deserto."
+      ]
     },
     {
       "id": "JDG.19.curiosity.2",
@@ -758,7 +1133,12 @@
       "kind": "curiosity",
       "prompt": "Quanto tempo a concubina ficou na casa do pai, em Juízes?",
       "answer": "Quatro meses.",
-      "reference": "Jz 19:2"
+      "reference": "Jz 19:2",
+      "wrongs": [
+        "Sete dias.",
+        "Um ano inteiro.",
+        "Três semanas."
+      ]
     },
     {
       "id": "JDG.20.subject.1",
@@ -768,7 +1148,12 @@
       "kind": "subject",
       "prompt": "Qual foi o desfecho da guerra contra Benjamim?",
       "answer": "Deus feriu Benjamim, e Israel o derrotou.",
-      "reference": "Jz 20:35"
+      "reference": "Jz 20:35",
+      "wrongs": [
+        "Benjamim venceu, e Israel se dispersou.",
+        "Os dois lados fizeram paz sem luta.",
+        "Deus mandou parar antes do combate."
+      ]
     },
     {
       "id": "JDG.20.name.1",
@@ -779,7 +1164,12 @@
       "kind": "name",
       "prompt": "Quem servia diante da arca na guerra contra Benjamim?",
       "answer": "Fineias, filho de Eleazar.",
-      "reference": "Jz 20:27-28"
+      "reference": "Jz 20:27-28",
+      "wrongs": [
+        "Eli, filho de Fineias.",
+        "Samuel, filho de Elcana.",
+        "Jônatas, filho de Gérson."
+      ]
     },
     {
       "id": "JDG.20.place.1",
@@ -789,7 +1179,12 @@
       "kind": "place",
       "prompt": "Onde todo Israel se reuniu, de Dã a Berseba?",
       "answer": "Em Mispá.",
-      "reference": "Jz 20:1"
+      "reference": "Jz 20:1",
+      "wrongs": [
+        "Em Siló.",
+        "Em Hebrom.",
+        "Em Gilgal."
+      ]
     },
     {
       "id": "JDG.20.curiosity.1",
@@ -799,7 +1194,12 @@
       "kind": "curiosity",
       "prompt": "O que os setecentos canhotos de Benjamim faziam com a funda?",
       "answer": "Acertavam o alvo sem errar.",
-      "reference": "Jz 20:16"
+      "reference": "Jz 20:16",
+      "wrongs": [
+        "Erravam de propósito para assustar.",
+        "Só acertavam de perto, com a espada.",
+        "Não sabiam usar a funda."
+      ]
     },
     {
       "id": "JDG.21.subject.1",
@@ -809,7 +1209,12 @@
       "kind": "subject",
       "prompt": "O que cada homem de Benjamim deveria tomar em Siló?",
       "answer": "Uma das moças que saíam dançando.",
-      "reference": "Jz 21:21"
+      "reference": "Jz 21:21",
+      "wrongs": [
+        "Um odre de vinho da festa.",
+        "A bandeira da tribo de Judá.",
+        "O pão oferecido no altar."
+      ]
     },
     {
       "id": "JDG.21.place.1",
@@ -819,7 +1224,12 @@
       "kind": "place",
       "prompt": "Qual cidade não foi à reunião em Mispá?",
       "answer": "Jabes-Gileade.",
-      "reference": "Jz 21:8"
+      "reference": "Jz 21:8",
+      "wrongs": [
+        "Belém.",
+        "Hebrom.",
+        "Berseba."
+      ]
     },
     {
       "id": "JDG.21.curiosity.1",
@@ -829,7 +1239,12 @@
       "kind": "curiosity",
       "prompt": "Quantas moças de Jabes-Gileade foram levadas vivas?",
       "answer": "Quatrocentas que ainda não tinham marido.",
-      "reference": "Jz 21:12"
+      "reference": "Jz 21:12",
+      "wrongs": [
+        "Duzentas já casadas com filhos.",
+        "Trinta viúvas da cidade.",
+        "Mil meninas de todas as idades."
+      ]
     },
     {
       "id": "JDG.21.curiosity.2",
@@ -839,7 +1254,12 @@
       "kind": "curiosity",
       "prompt": "Como era a vida em Israel quando não havia rei?",
       "answer": "Sem rei, e cada um fazia o que achava certo.",
-      "reference": "Jz 21:25"
+      "reference": "Jz 21:25",
+      "wrongs": [
+        "Com rei em Hebrom, e o povo seguia a lei.",
+        "Sob um juiz único, e ninguém decidia sozinho.",
+        "Em paz com as nações, sem briga interna."
+      ]
     },
     {
       "id": "JDG.0.curiosity.1",
@@ -849,7 +1269,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Juízes?",
       "answer": "O livro não diz. A tradição aponta Samuel.",
-      "reference": "Juízes"
+      "reference": "Juízes",
+      "wrongs": [
+        "O livro aponta Débora. A tradição repete o nome dela.",
+        "O livro aponta Gideão. A tradição concorda com isso.",
+        "O livro aponta Sansão. A tradição fecha nele."
+      ]
     },
     {
       "id": "JDG.0.curiosity.2",
@@ -859,7 +1284,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Juízes?",
       "answer": "No fim do tempo dos juízes, antes de Davi reinar.",
-      "reference": "Juízes"
+      "reference": "Juízes",
+      "wrongs": [
+        "No deserto, antes de Israel entrar em Canaã.",
+        "No exílio, depois da queda de Jerusalém.",
+        "Depois do templo, no reinado de Salomão."
+      ]
     }
   ]
 }

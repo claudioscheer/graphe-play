@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "A que planta se compara quem prospera no que faz, no Salmo 1?",
       "answer": "A uma árvore na beira da água, que dá fruto.",
-      "reference": "Sl 1:3"
+      "reference": "Sl 1:3",
+      "wrongs": [
+        "A um cedro no alto do Líbano.",
+        "A uma videira carregada de uvas.",
+        "A um lírio que floresce no campo."
+      ]
     },
     {
       "id": "PSA.1.curiosity.1",
@@ -18,7 +23,12 @@
       "kind": "curiosity",
       "prompt": "Quando quem tem prazer na lei de Deus medita nela, no Salmo 1?",
       "answer": "De dia e também de noite.",
-      "reference": "Sl 1:2"
+      "reference": "Sl 1:2",
+      "wrongs": [
+        "Só no sábado, na reunião.",
+        "Só de manhã, antes do trabalho.",
+        "Só na festa, uma vez por ano."
+      ]
     },
     {
       "id": "PSA.1.curiosity.2",
@@ -28,7 +38,12 @@
       "kind": "curiosity",
       "prompt": "Com o que os maus são comparados no Salmo 1?",
       "answer": "Com palha que o vento leva embora.",
-      "reference": "Sl 1:4"
+      "reference": "Sl 1:4",
+      "wrongs": [
+        "Com pedra que o rio não move.",
+        "Com cedro que fica firme no monte.",
+        "Com ouro que o fogo não consome."
+      ]
     },
     {
       "id": "PSA.2.subject.1",
@@ -38,7 +53,12 @@
       "kind": "subject",
       "prompt": "O que o decreto de Deus diz sobre o rei ungido, no Salmo 2?",
       "answer": "Que esse rei é filho dele.",
-      "reference": "Sl 2:7"
+      "reference": "Sl 2:7",
+      "wrongs": [
+        "Que esse rei é só um servo.",
+        "Que esse rei é irmão dele.",
+        "Que esse rei é um anjo."
+      ]
     },
     {
       "id": "PSA.2.place.1",
@@ -48,7 +68,12 @@
       "kind": "place",
       "prompt": "Onde Deus ungiu o rei dele, no Salmo 2?",
       "answer": "No monte Sião.",
-      "reference": "Sl 2:6"
+      "reference": "Sl 2:6",
+      "wrongs": [
+        "No monte Sinai.",
+        "No monte Carmelo.",
+        "No monte das Oliveiras."
+      ]
     },
     {
       "id": "PSA.2.curiosity.1",
@@ -58,7 +83,12 @@
       "kind": "curiosity",
       "prompt": "Com qual cetro as nações serão quebradas, no Salmo 2?",
       "answer": "Com um cetro de ferro.",
-      "reference": "Sl 2:9"
+      "reference": "Sl 2:9",
+      "wrongs": [
+        "Com um cetro de ouro.",
+        "Com um cetro de madeira.",
+        "Com um cetro de bronze."
+      ]
     },
     {
       "id": "PSA.3.subject.1",
@@ -68,7 +98,12 @@
       "kind": "subject",
       "prompt": "O que Davi diz que aconteceu aos dentes dos maus?",
       "answer": "Deus partiu os dentes deles.",
-      "reference": "Sl 3:7"
+      "reference": "Sl 3:7",
+      "wrongs": [
+        "Deus curou os dentes deles.",
+        "Deus dourou os dentes deles.",
+        "Deus contou os dentes deles."
+      ]
     },
     {
       "id": "PSA.3.name.1",
@@ -78,7 +113,12 @@
       "kind": "name",
       "prompt": "De qual filho Davi fugia?",
       "answer": "Do filho Absalão.",
-      "reference": "Sl 3:1"
+      "reference": "Sl 3:1",
+      "wrongs": [
+        "Do filho Amnom.",
+        "Do filho Adonias.",
+        "Do filho Salomão."
+      ]
     },
     {
       "id": "PSA.3.curiosity.1",
@@ -88,7 +128,12 @@
       "kind": "curiosity",
       "prompt": "Quantas pessoas ao redor Davi diz que não temeria?",
       "answer": "Uma multidão de dez mil.",
-      "reference": "Sl 3:6"
+      "reference": "Sl 3:6",
+      "wrongs": [
+        "Um grupo de cem.",
+        "Uma tropa de mil.",
+        "A cidade inteira."
+      ]
     },
     {
       "id": "PSA.4.subject.1",
@@ -98,7 +143,12 @@
       "kind": "subject",
       "prompt": "A alegria de Davi é maior do que qual fartura?",
       "answer": "A de trigo e a de vinho.",
-      "reference": "Sl 4:7"
+      "reference": "Sl 4:7",
+      "wrongs": [
+        "A de ouro e a de prata.",
+        "A de mel e a de leite.",
+        "A de azeite e a de pão."
+      ]
     },
     {
       "id": "PSA.4.curiosity.1",
@@ -108,7 +158,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi pede que Deus levante sobre o povo?",
       "answer": "A luz do rosto dele.",
-      "reference": "Sl 4:6"
+      "reference": "Sl 4:6",
+      "wrongs": [
+        "A mão pesada dele.",
+        "A nuvem do dia.",
+        "O fogo da noite."
+      ]
     },
     {
       "id": "PSA.4.curiosity.2",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "Por que Davi pode se deitar e dormir em paz?",
       "answer": "Porque só Deus lhe dá um descanso seguro.",
-      "reference": "Sl 4:8"
+      "reference": "Sl 4:8",
+      "wrongs": [
+        "Porque os muros lhe dão um abrigo firme.",
+        "Porque os guardas lhe dão uma noite quieta.",
+        "Porque a casa lhe dá uma porta trancada."
+      ]
     },
     {
       "id": "PSA.5.subject.1",
@@ -128,7 +188,12 @@
       "kind": "subject",
       "prompt": "Com o que Davi compara a garganta de quem mente?",
       "answer": "Com um túmulo aberto.",
-      "reference": "Sl 5:9"
+      "reference": "Sl 5:9",
+      "wrongs": [
+        "Com um poço seco.",
+        "Com uma fornalha acesa.",
+        "Com uma cisterna rachada."
+      ]
     },
     {
       "id": "PSA.5.place.1",
@@ -138,7 +203,12 @@
       "kind": "place",
       "prompt": "Para onde Davi se inclina ao adorar na casa de Deus?",
       "answer": "Para o templo santo.",
-      "reference": "Sl 5:7"
+      "reference": "Sl 5:7",
+      "wrongs": [
+        "Para o pátio externo.",
+        "Para a porta do leste.",
+        "Para o altar de bronze."
+      ]
     },
     {
       "id": "PSA.5.curiosity.1",
@@ -148,7 +218,12 @@
       "kind": "curiosity",
       "prompt": "Em que hora do dia Davi apresenta o clamor?",
       "answer": "Logo pela manhã.",
-      "reference": "Sl 5:3"
+      "reference": "Sl 5:3",
+      "wrongs": [
+        "No meio do dia.",
+        "No fim da tarde.",
+        "Na hora da noite."
+      ]
     },
     {
       "id": "PSA.6.subject.1",
@@ -158,7 +233,12 @@
       "kind": "subject",
       "prompt": "O que o choro de Davi faz com a cama durante a noite?",
       "answer": "Alaga a cama e molha o leito.",
-      "reference": "Sl 6:6"
+      "reference": "Sl 6:6",
+      "wrongs": [
+        "Seca a cama e esfria o leito.",
+        "Cobre a cama e rasga o leito.",
+        "Levanta a cama e vira o leito."
+      ]
     },
     {
       "id": "PSA.6.place.1",
@@ -168,7 +248,12 @@
       "kind": "place",
       "prompt": "Onde Davi diz que ninguém louvaria a Deus?",
       "answer": "No mundo dos mortos.",
-      "reference": "Sl 6:5"
+      "reference": "Sl 6:5",
+      "wrongs": [
+        "No deserto sem água.",
+        "No exílio sem templo.",
+        "No cume sem altar."
+      ]
     },
     {
       "id": "PSA.6.curiosity.1",
@@ -178,7 +263,12 @@
       "kind": "curiosity",
       "prompt": "Por que Davi pede cura a Deus no Salmo 6?",
       "answer": "Porque os ossos dele estão doentes.",
-      "reference": "Sl 6:2"
+      "reference": "Sl 6:2",
+      "wrongs": [
+        "Porque os olhos dele estão escuros.",
+        "Porque a pele dele está queimada.",
+        "Porque a garganta dele está fechada."
+      ]
     },
     {
       "id": "PSA.7.subject.1",
@@ -188,7 +278,12 @@
       "kind": "subject",
       "prompt": "O que houve com quem cavou um poço fundo no Salmo 7?",
       "answer": "Caiu dentro do buraco que tinha cavado.",
-      "reference": "Sl 7:15"
+      "reference": "Sl 7:15",
+      "wrongs": [
+        "Tapou o buraco e saiu ileso.",
+        "Achou água no fundo do buraco.",
+        "Empurrou o inimigo para o buraco."
+      ]
     },
     {
       "id": "PSA.7.name.1",
@@ -198,7 +293,12 @@
       "kind": "name",
       "prompt": "Depois das palavras de quem Davi cantou a Deus?",
       "answer": "De Cuxe, descendente de Benjamim.",
-      "reference": "Sl 7:1"
+      "reference": "Sl 7:1",
+      "wrongs": [
+        "De Saul, rei de Israel.",
+        "De Natã, o profeta.",
+        "De Doegue, o edomita."
+      ]
     },
     {
       "id": "PSA.7.curiosity.1",
@@ -208,7 +308,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus prepara contra quem não se arrepende, no Salmo 7?",
       "answer": "Afia a espada e deixa o arco pronto.",
-      "reference": "Sl 7:12"
+      "reference": "Sl 7:12",
+      "wrongs": [
+        "Apaga a lâmpada e fecha a porta.",
+        "Quebra a espada e solta o arco.",
+        "Esconde o escudo e enterra as flechas."
+      ]
     },
     {
       "id": "PSA.8.subject.1",
@@ -218,7 +323,12 @@
       "kind": "subject",
       "prompt": "Quão abaixo dos anjos Deus pôs o ser humano, no Salmo 8?",
       "answer": "Só um pouco, e o coroou de glória e honra.",
-      "reference": "Sl 8:5"
+      "reference": "Sl 8:5",
+      "wrongs": [
+        "Muito abaixo, e o deixou sem glória nem honra.",
+        "No mesmo nível, e não lhe deu coroa nenhuma.",
+        "Muito acima, e o fez dono da glória deles."
+      ]
     },
     {
       "id": "PSA.8.curiosity.1",
@@ -228,7 +338,12 @@
       "kind": "curiosity",
       "prompt": "Da boca de quem Deus tira força contra o inimigo, no Salmo 8?",
       "answer": "Das crianças e de quem ainda mama.",
-      "reference": "Sl 8:2"
+      "reference": "Sl 8:2",
+      "wrongs": [
+        "Dos anciãos e de quem já não anda.",
+        "Dos soldados e de quem carrega espada.",
+        "Dos sacerdotes e de quem oferece incenso."
+      ]
     },
     {
       "id": "PSA.8.curiosity.2",
@@ -238,7 +353,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi vê nos céus, feito pelos dedos de Deus?",
       "answer": "A lua, junto com as estrelas.",
-      "reference": "Sl 8:3"
+      "reference": "Sl 8:3",
+      "wrongs": [
+        "O sol, junto com as nuvens.",
+        "O arco, junto com o relâmpago.",
+        "A chuva, junto com o granizo."
+      ]
     },
     {
       "id": "PSA.9.subject.1",
@@ -248,7 +368,12 @@
       "kind": "subject",
       "prompt": "O que houve com as nações que armaram cova e rede, no Salmo 9?",
       "answer": "Afundaram na cova e prenderam o pé na rede.",
-      "reference": "Sl 9:15"
+      "reference": "Sl 9:15",
+      "wrongs": [
+        "Saíram da cova e soltaram o pé da rede.",
+        "Encheram a cova e rasgaram a rede toda.",
+        "Ficaram fora da cova e longe da rede."
+      ]
     },
     {
       "id": "PSA.9.place.1",
@@ -258,7 +383,12 @@
       "kind": "place",
       "prompt": "Onde habita o Deus a quem o povo deve cantar no Salmo 9?",
       "answer": "Em Sião.",
-      "reference": "Sl 9:11"
+      "reference": "Sl 9:11",
+      "wrongs": [
+        "Em Betel.",
+        "Em Siló.",
+        "Em Hebrom."
+      ]
     },
     {
       "id": "PSA.9.curiosity.1",
@@ -268,7 +398,12 @@
       "kind": "curiosity",
       "prompt": "Onde Deus se sentou para julgar a causa de Davi?",
       "answer": "No tribunal dele.",
-      "reference": "Sl 9:4"
+      "reference": "Sl 9:4",
+      "wrongs": [
+        "Na porta da cidade.",
+        "Debaixo do carvalho.",
+        "No palácio de cedro."
+      ]
     },
     {
       "id": "PSA.10.subject.1",
@@ -278,7 +413,12 @@
       "kind": "subject",
       "prompt": "A qual animal o perverso se parece ao armar cilada, no Salmo 10?",
       "answer": "A um leão escondido na toca.",
-      "reference": "Sl 10:9"
+      "reference": "Sl 10:9",
+      "wrongs": [
+        "A uma raposa escondida no vinhedo.",
+        "A um lobo escondido no curral.",
+        "A uma águia escondida no penhasco."
+      ]
     },
     {
       "id": "PSA.10.curiosity.1",
@@ -288,7 +428,12 @@
       "kind": "curiosity",
       "prompt": "O que se pede que Deus quebre no perverso no Salmo 10?",
       "answer": "O braço dele.",
-      "reference": "Sl 10:15"
+      "reference": "Sl 10:15",
+      "wrongs": [
+        "A coroa dele.",
+        "O arco dele.",
+        "O pescoço dele."
+      ]
     },
     {
       "id": "PSA.10.curiosity.2",
@@ -298,7 +443,12 @@
       "kind": "curiosity",
       "prompt": "A quem Deus socorre, ao olhar o cansaço do pobre, no Salmo 10?",
       "answer": "Ao órfão.",
-      "reference": "Sl 10:14"
+      "reference": "Sl 10:14",
+      "wrongs": [
+        "Ao rei.",
+        "Ao rico.",
+        "Ao sacerdote."
+      ]
     },
     {
       "id": "PSA.11.subject.1",
@@ -308,7 +458,12 @@
       "kind": "subject",
       "prompt": "Como mandam a alma de Davi fugir?",
       "answer": "Como um pássaro, rumo ao monte.",
-      "reference": "Sl 11:1"
+      "reference": "Sl 11:1",
+      "wrongs": [
+        "Como um peixe, rumo ao rio.",
+        "Como um cervo, rumo ao vale.",
+        "Como uma ovelha, rumo ao aprisco."
+      ]
     },
     {
       "id": "PSA.11.place.1",
@@ -318,7 +473,12 @@
       "kind": "place",
       "prompt": "Onde ficam Deus e o trono dele no Salmo 11?",
       "answer": "Deus está no templo santo, e o trono nos céus.",
-      "reference": "Sl 11:4"
+      "reference": "Sl 11:4",
+      "wrongs": [
+        "Deus está no deserto, e o trono no monte.",
+        "Deus está no vale, e o trono na terra.",
+        "Deus está no mar, e o trono na cidade."
+      ]
     },
     {
       "id": "PSA.11.curiosity.1",
@@ -328,7 +488,12 @@
       "kind": "curiosity",
       "prompt": "O que cairá como chuva sobre os perversos, no Salmo 11?",
       "answer": "Armadilhas, fogo, enxofre e vendaval.",
-      "reference": "Sl 11:6"
+      "reference": "Sl 11:6",
+      "wrongs": [
+        "Orvalho, mel, azeite e trigo.",
+        "Chuva mansa, luz, pão e vinho.",
+        "Neve, gelo, névoa e sereno."
+      ]
     },
     {
       "id": "PSA.12.subject.1",
@@ -338,7 +503,12 @@
       "kind": "subject",
       "prompt": "Com o que as palavras de Deus são comparadas no Salmo 12?",
       "answer": "Com prata limpa no forno, sete vezes.",
-      "reference": "Sl 12:6"
+      "reference": "Sl 12:6",
+      "wrongs": [
+        "Com ouro batido no malho, três vezes.",
+        "Com bronze fundido no fogo, uma vez.",
+        "Com ferro polido na pedra, duas vezes."
+      ]
     },
     {
       "id": "PSA.12.curiosity.1",
@@ -348,7 +518,12 @@
       "kind": "curiosity",
       "prompt": "Como é o coração de quem elogia com falsidade, no Salmo 12?",
       "answer": "Dividido, com duas intenções.",
-      "reference": "Sl 12:2"
+      "reference": "Sl 12:2",
+      "wrongs": [
+        "Inteiro, com uma intenção só.",
+        "Vazio, sem intenção nenhuma.",
+        "Manso, com intenção sincera."
+      ]
     },
     {
       "id": "PSA.13.subject.1",
@@ -358,7 +533,12 @@
       "kind": "subject",
       "prompt": "Por que Davi pede que Deus ilumine os olhos dele?",
       "answer": "Para não cair no sono da morte.",
-      "reference": "Sl 13:3"
+      "reference": "Sl 13:3",
+      "wrongs": [
+        "Para enxergar a estrada à noite.",
+        "Para ler a lei sem candeia.",
+        "Para reconhecer o inimigo de longe."
+      ]
     },
     {
       "id": "PSA.13.curiosity.1",
@@ -368,7 +548,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi pergunta quando Deus esconde o rosto?",
       "answer": "Até quando será esquecido.",
-      "reference": "Sl 13:1"
+      "reference": "Sl 13:1",
+      "wrongs": [
+        "Por que a vitória demora.",
+        "Onde ficou o rebanho.",
+        "Quem guardará a cidade."
+      ]
     },
     {
       "id": "PSA.14.subject.1",
@@ -378,7 +563,12 @@
       "kind": "subject",
       "prompt": "O que o tolo diz no coração sobre Deus, no Salmo 14?",
       "answer": "Que Deus não existe.",
-      "reference": "Sl 14:1"
+      "reference": "Sl 14:1",
+      "wrongs": [
+        "Que Deus está dormindo.",
+        "Que Deus mudou de lado.",
+        "Que Deus esqueceu o nome dele."
+      ]
     },
     {
       "id": "PSA.14.place.1",
@@ -388,7 +578,12 @@
       "kind": "place",
       "prompt": "De onde se pede que venha a salvação de Israel?",
       "answer": "De Sião.",
-      "reference": "Sl 14:7"
+      "reference": "Sl 14:7",
+      "wrongs": [
+        "Do Egito.",
+        "Do Sinai.",
+        "De Betel."
+      ]
     },
     {
       "id": "PSA.14.curiosity.1",
@@ -398,7 +593,12 @@
       "kind": "curiosity",
       "prompt": "Como os maus devoram o povo de Deus no Salmo 14?",
       "answer": "Do mesmo jeito que se come pão.",
-      "reference": "Sl 14:4"
+      "reference": "Sl 14:4",
+      "wrongs": [
+        "Do mesmo jeito que se bebe água.",
+        "Do mesmo jeito que se corta lenha.",
+        "Do mesmo jeito que se junta palha."
+      ]
     },
     {
       "id": "PSA.15.subject.1",
@@ -408,7 +608,12 @@
       "kind": "subject",
       "prompt": "Como vive quem fala a verdade no coração, no Salmo 15?",
       "answer": "Anda de modo sincero e faz o que é justo.",
-      "reference": "Sl 15:2"
+      "reference": "Sl 15:2",
+      "wrongs": [
+        "Anda depressa e busca o próprio lucro.",
+        "Fala alto e evita o que é justo.",
+        "Fica parado e esconde o que é justo."
+      ]
     },
     {
       "id": "PSA.15.place.1",
@@ -418,7 +623,12 @@
       "kind": "place",
       "prompt": "Em que tenda e em que monte Davi pergunta quem mora?",
       "answer": "Na tenda de Deus e no monte santo.",
-      "reference": "Sl 15:1"
+      "reference": "Sl 15:1",
+      "wrongs": [
+        "Na tenda de guerra e no monte Carmelo.",
+        "Na tenda do rei e no monte Sinai.",
+        "Na tenda do pastor e no monte Hermom."
+      ]
     },
     {
       "id": "PSA.15.curiosity.1",
@@ -428,7 +638,12 @@
       "kind": "curiosity",
       "prompt": "O que não entra no empréstimo nem contra o inocente, no Salmo 15?",
       "answer": "Juros e suborno.",
-      "reference": "Sl 15:5"
+      "reference": "Sl 15:5",
+      "wrongs": [
+        "Perdão e bênção.",
+        "Voto e jejum.",
+        "Pão e vinho."
+      ]
     },
     {
       "id": "PSA.16.subject.1",
@@ -438,7 +653,12 @@
       "kind": "subject",
       "prompt": "O que Deus não fará com a alma de Davi nem com o santo?",
       "answer": "Não deixará a alma entre os mortos nem o santo ver ruína.",
-      "reference": "Sl 16:10"
+      "reference": "Sl 16:10",
+      "wrongs": [
+        "Não dará a alma ao inimigo nem o santo à espada.",
+        "Não tirará a alma do corpo nem o santo do trono.",
+        "Não levará a alma ao templo nem o santo ao exílio."
+      ]
     },
     {
       "id": "PSA.16.curiosity.1",
@@ -448,7 +668,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi diz que Deus é na herança dele?",
       "answer": "A porção que lhe cabe e o cálice dele.",
-      "reference": "Sl 16:5"
+      "reference": "Sl 16:5",
+      "wrongs": [
+        "O escudo que lhe cobre e a torre dele.",
+        "O cajado que lhe guia e a tenda dele.",
+        "O campo que lhe resta e o gado dele."
+      ]
     },
     {
       "id": "PSA.17.subject.1",
@@ -458,7 +683,12 @@
       "kind": "subject",
       "prompt": "Como Davi pede para ser guardado e escondido?",
       "answer": "Como a menina dos olhos, sob a sombra das asas.",
-      "reference": "Sl 17:8"
+      "reference": "Sl 17:8",
+      "wrongs": [
+        "Como um tesouro, no fundo do cofre.",
+        "Como um rebanho, dentro do aprisco.",
+        "Como um muro, atrás do escudo."
+      ]
     },
     {
       "id": "PSA.17.curiosity.1",
@@ -468,7 +698,12 @@
       "kind": "curiosity",
       "prompt": "Quando Davi ficará satisfeito com a imagem de Deus?",
       "answer": "Quando despertar.",
-      "reference": "Sl 17:15"
+      "reference": "Sl 17:15",
+      "wrongs": [
+        "Quando envelhecer.",
+        "Quando o sol nascer.",
+        "Quando entrar no templo."
+      ]
     },
     {
       "id": "PSA.18.subject.1",
@@ -478,7 +713,12 @@
       "kind": "subject",
       "prompt": "Sobre qual ser Deus montou para voar depressa, no Salmo 18?",
       "answer": "Sobre um querubim, rápido nas asas do vento.",
-      "reference": "Sl 18:10"
+      "reference": "Sl 18:10",
+      "wrongs": [
+        "Sobre uma águia, rápido nas nuvens da tarde.",
+        "Sobre um cavalo, rápido nas trilhas do deserto.",
+        "Sobre um carro, rápido nas rodas de fogo."
+      ]
     },
     {
       "id": "PSA.18.name.1",
@@ -488,7 +728,12 @@
       "kind": "name",
       "prompt": "Das mãos de quem Deus livrou Davi, além dos inimigos?",
       "answer": "Das mãos de Saul.",
-      "reference": "Sl 18:1"
+      "reference": "Sl 18:1",
+      "wrongs": [
+        "Das mãos de Absalão.",
+        "Das mãos de Golias.",
+        "Das mãos de Aquis."
+      ]
     },
     {
       "id": "PSA.18.curiosity.1",
@@ -498,7 +743,12 @@
       "kind": "curiosity",
       "prompt": "Com os pés de qual animal os de Davi são comparados?",
       "answer": "Com os pés das cervas.",
-      "reference": "Sl 18:33"
+      "reference": "Sl 18:33",
+      "wrongs": [
+        "Com os pés dos leões.",
+        "Com os pés das águias.",
+        "Com os pés dos cavalos."
+      ]
     },
     {
       "id": "PSA.18.curiosity.2",
@@ -508,7 +758,12 @@
       "kind": "curiosity",
       "prompt": "Qual arco se quebra nos braços de Davi?",
       "answer": "Um arco de bronze.",
-      "reference": "Sl 18:34"
+      "reference": "Sl 18:34",
+      "wrongs": [
+        "Um arco de ferro.",
+        "Um arco de madeira.",
+        "Um arco de prata."
+      ]
     },
     {
       "id": "PSA.19.subject.1",
@@ -518,7 +773,12 @@
       "kind": "subject",
       "prompt": "A quem o sol se parece ao sair para a corrida, no Salmo 19?",
       "answer": "A um noivo que deixa o quarto e a um valente.",
-      "reference": "Sl 19:5"
+      "reference": "Sl 19:5",
+      "wrongs": [
+        "A um sacerdote que sobe ao altar e a um rei.",
+        "A um pastor que sai com o rebanho e a um guarda.",
+        "A um mensageiro que abre a porta e a um corredor."
+      ]
     },
     {
       "id": "PSA.19.curiosity.1",
@@ -528,7 +788,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus armou nos céus para o sol, no Salmo 19?",
       "answer": "Uma tenda.",
-      "reference": "Sl 19:4"
+      "reference": "Sl 19:4",
+      "wrongs": [
+        "Um trono.",
+        "Uma escada.",
+        "Um caminho de pedra."
+      ]
     },
     {
       "id": "PSA.19.curiosity.2",
@@ -538,7 +803,12 @@
       "kind": "curiosity",
       "prompt": "O que a lei perfeita de Deus faz com a alma, no Salmo 19?",
       "answer": "Devolve o vigor da alma.",
-      "reference": "Sl 19:7"
+      "reference": "Sl 19:7",
+      "wrongs": [
+        "Fecha a alma para o medo.",
+        "Esconde a alma do juízo.",
+        "Entrega a alma ao silêncio."
+      ]
     },
     {
       "id": "PSA.19.curiosity.3",
@@ -549,7 +819,12 @@
       "kind": "curiosity",
       "prompt": "Os juízos de Deus valem mais e são mais doces do que o quê, no Salmo 19?",
       "answer": "Mais que ouro fino, e mais gostosos que o mel.",
-      "reference": "Sl 19:9-10"
+      "reference": "Sl 19:9-10",
+      "wrongs": [
+        "Mais que prata pura, e mais gostosos que o vinho.",
+        "Mais que bronze fino, e mais gostosos que o leite.",
+        "Mais que pedras raras, e mais gostosos que o azeite."
+      ]
     },
     {
       "id": "PSA.20.subject.1",
@@ -559,7 +834,12 @@
       "kind": "subject",
       "prompt": "Em que uns confiam, em vez de lembrar o nome de Deus, no Salmo 20?",
       "answer": "Em carros de guerra e em cavalos.",
-      "reference": "Sl 20:7"
+      "reference": "Sl 20:7",
+      "wrongs": [
+        "Em muros altos e em torres.",
+        "Em arcos longos e em escudos.",
+        "Em ouro guardado e em alianças."
+      ]
     },
     {
       "id": "PSA.20.place.1",
@@ -569,7 +849,12 @@
       "kind": "place",
       "prompt": "De onde se pede ajuda e sustento no dia da angústia, no Salmo 20?",
       "answer": "Do santuário e de Sião.",
-      "reference": "Sl 20:2"
+      "reference": "Sl 20:2",
+      "wrongs": [
+        "Do palácio e de Hebrom.",
+        "Do arraial e do Jordão.",
+        "Do deserto e do Sinai."
+      ]
     },
     {
       "id": "PSA.20.curiosity.1",
@@ -579,7 +864,12 @@
       "kind": "curiosity",
       "prompt": "O que o povo ergue no nome de Deus, no Salmo 20?",
       "answer": "Bandeiras, ao comemorar a salvação.",
-      "reference": "Sl 20:5"
+      "reference": "Sl 20:5",
+      "wrongs": [
+        "Taças, ao brindar a colheita.",
+        "Tochas, ao vigiar a muralha.",
+        "Trombetas, ao chamar o exército."
+      ]
     },
     {
       "id": "PSA.21.subject.1",
@@ -589,7 +879,12 @@
       "kind": "subject",
       "prompt": "O que Deus pôs na cabeça do rei no Salmo 21?",
       "answer": "Uma coroa feita de ouro muito fino.",
-      "reference": "Sl 21:3"
+      "reference": "Sl 21:3",
+      "wrongs": [
+        "Um capacete feito de bronze.",
+        "Um diadema feito de linho.",
+        "Uma tiara feita de prata."
+      ]
     },
     {
       "id": "PSA.21.curiosity.1",
@@ -599,7 +894,12 @@
       "kind": "curiosity",
       "prompt": "O que o rei pediu e recebeu para sempre no Salmo 21?",
       "answer": "Vida por dias sem fim.",
-      "reference": "Sl 21:4"
+      "reference": "Sl 21:4",
+      "wrongs": [
+        "Riqueza por um ano.",
+        "Vitória por uma batalha.",
+        "Descanso por um sábado."
+      ]
     },
     {
       "id": "PSA.22.subject.1",
@@ -609,7 +909,12 @@
       "kind": "subject",
       "prompt": "O que Davi pergunta a Deus ao se sentir abandonado?",
       "answer": "Por que Deus o abandonou.",
-      "reference": "Sl 22:1"
+      "reference": "Sl 22:1",
+      "wrongs": [
+        "Onde Deus escondeu o rebanho.",
+        "Quando Deus voltará ao trono.",
+        "Quem Deus enviará no lugar dele."
+      ]
     },
     {
       "id": "PSA.22.place.1",
@@ -619,7 +924,12 @@
       "kind": "place",
       "prompt": "Quais animais de Basã cercam Davi?",
       "answer": "Touros fortes.",
-      "reference": "Sl 22:12"
+      "reference": "Sl 22:12",
+      "wrongs": [
+        "Carneiros mansos.",
+        "Novilhos novos.",
+        "Bezerros de oferta."
+      ]
     },
     {
       "id": "PSA.22.curiosity.1",
@@ -629,7 +939,12 @@
       "kind": "curiosity",
       "prompt": "O que fizeram com as mãos e os pés de Davi?",
       "answer": "Fizeram furos nas mãos e nos pés.",
-      "reference": "Sl 22:16"
+      "reference": "Sl 22:16",
+      "wrongs": [
+        "Amarraram as mãos e os pés.",
+        "Ungiram as mãos e os pés.",
+        "Lavaram as mãos e os pés."
+      ]
     },
     {
       "id": "PSA.22.curiosity.2",
@@ -639,7 +954,12 @@
       "kind": "curiosity",
       "prompt": "O que os inimigos fazem com a roupa de Davi?",
       "answer": "Dividem as peças e tiram sorte sobre a veste.",
-      "reference": "Sl 22:18"
+      "reference": "Sl 22:18",
+      "wrongs": [
+        "Rasgam as peças e queimam a veste.",
+        "Dobram as peças e guardam a veste.",
+        "Vendem as peças e tingem a veste."
+      ]
     },
     {
       "id": "PSA.23.subject.1",
@@ -649,7 +969,12 @@
       "kind": "subject",
       "prompt": "O que Davi diz que Deus é, já que nada lhe falta?",
       "answer": "O pastor dele.",
-      "reference": "Sl 23:1"
+      "reference": "Sl 23:1",
+      "wrongs": [
+        "O rei dele.",
+        "O juiz dele.",
+        "O médico dele."
+      ]
     },
     {
       "id": "PSA.23.place.1",
@@ -659,7 +984,12 @@
       "kind": "place",
       "prompt": "Por qual vale Davi diz que anda sem temer o mal?",
       "answer": "Pelo vale em que a morte faz sombra.",
-      "reference": "Sl 23:4"
+      "reference": "Sl 23:4",
+      "wrongs": [
+        "Pelo vale em que o inimigo acampa.",
+        "Pelo vale em que o rio seca.",
+        "Pelo vale em que a fome mora."
+      ]
     },
     {
       "id": "PSA.23.curiosity.1",
@@ -669,7 +999,12 @@
       "kind": "curiosity",
       "prompt": "Onde Deus faz Davi se deitar e o leva para beber?",
       "answer": "Em pastos verdes e junto de águas calmas.",
-      "reference": "Sl 23:2"
+      "reference": "Sl 23:2",
+      "wrongs": [
+        "Em campos secos e junto de poços fundos.",
+        "Em montes altos e junto de fontes quentes.",
+        "Em currais fechados e junto de cisternas."
+      ]
     },
     {
       "id": "PSA.23.curiosity.2",
@@ -679,7 +1014,12 @@
       "kind": "curiosity",
       "prompt": "O que transborda na mesa diante dos inimigos de Davi?",
       "answer": "O cálice dele.",
-      "reference": "Sl 23:5"
+      "reference": "Sl 23:5",
+      "wrongs": [
+        "O azeite dele.",
+        "O pão dele.",
+        "O prato dele."
+      ]
     },
     {
       "id": "PSA.24.subject.1",
@@ -689,7 +1029,12 @@
       "kind": "subject",
       "prompt": "Quem é o Rei da glória?",
       "answer": "O Deus dos exércitos.",
-      "reference": "Sl 24:10"
+      "reference": "Sl 24:10",
+      "wrongs": [
+        "O anjo do arraial.",
+        "Davi, com a arca.",
+        "O sacerdote do altar."
+      ]
     },
     {
       "id": "PSA.24.place.1",
@@ -699,7 +1044,12 @@
       "kind": "place",
       "prompt": "Sobre o que Deus firmou a terra no Salmo 24?",
       "answer": "Sobre mares e rios.",
-      "reference": "Sl 24:2"
+      "reference": "Sl 24:2",
+      "wrongs": [
+        "Sobre rochas e montes.",
+        "Sobre areia e deserto.",
+        "Sobre colunas e abismos."
+      ]
     },
     {
       "id": "PSA.24.curiosity.1",
@@ -709,7 +1059,12 @@
       "kind": "curiosity",
       "prompt": "O que as portas antigas devem erguer para o Rei entrar?",
       "answer": "A cabeça delas.",
-      "reference": "Sl 24:7"
+      "reference": "Sl 24:7",
+      "wrongs": [
+        "As trancas delas.",
+        "As cortinas delas.",
+        "As colunas delas."
+      ]
     },
     {
       "id": "PSA.25.subject.1",
@@ -719,7 +1074,12 @@
       "kind": "subject",
       "prompt": "O que Davi pede em nome de Deus, pela culpa grande?",
       "answer": "Que a maldade dele seja perdoada.",
-      "reference": "Sl 25:11"
+      "reference": "Sl 25:11",
+      "wrongs": [
+        "Que a culpa dele passe ao inimigo.",
+        "Que o castigo dele caia sobre a cidade.",
+        "Que o nome dele saia do livro do rei."
+      ]
     },
     {
       "id": "PSA.25.curiosity.1",
@@ -729,7 +1089,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi pede que Deus não traga à memória?",
       "answer": "Os erros que cometeu na juventude.",
-      "reference": "Sl 25:7"
+      "reference": "Sl 25:7",
+      "wrongs": [
+        "As vitórias que ganhou na guerra.",
+        "Os votos que fez no templo.",
+        "Os sonhos que teve na infância."
+      ]
     },
     {
       "id": "PSA.25.curiosity.2",
@@ -739,7 +1104,12 @@
       "kind": "curiosity",
       "prompt": "Para quem fica o segredo de Deus no Salmo 25?",
       "answer": "Para quem teme a Deus.",
-      "reference": "Sl 25:14"
+      "reference": "Sl 25:14",
+      "wrongs": [
+        "Para quem reina em Sião.",
+        "Para quem oferece sacrifício.",
+        "Para quem lê as estrelas."
+      ]
     },
     {
       "id": "PSA.26.subject.1",
@@ -749,7 +1119,12 @@
       "kind": "subject",
       "prompt": "O que Davi faz nas mãos ao rodear o altar?",
       "answer": "Lava as mãos para mostrar que está inocente.",
-      "reference": "Sl 26:6"
+      "reference": "Sl 26:6",
+      "wrongs": [
+        "Ergue as mãos para pedir a vitória.",
+        "Esconde as mãos para não ser visto.",
+        "Une as mãos para fazer um voto."
+      ]
     },
     {
       "id": "PSA.26.place.1",
@@ -759,7 +1134,12 @@
       "kind": "place",
       "prompt": "Qual morada Davi diz que ama?",
       "answer": "A casa em que a glória de Deus habita.",
-      "reference": "Sl 26:8"
+      "reference": "Sl 26:8",
+      "wrongs": [
+        "A tenda em que o rebanho descansa.",
+        "O palácio em que o rei julga.",
+        "A torre em que a guarda vigia."
+      ]
     },
     {
       "id": "PSA.27.subject.1",
@@ -769,7 +1149,12 @@
       "kind": "subject",
       "prompt": "O que Deus é para Davi, a ponto de ele não temer?",
       "answer": "Luz e salvação, e a força da vida dele.",
-      "reference": "Sl 27:1"
+      "reference": "Sl 27:1",
+      "wrongs": [
+        "Pão e água, e o teto da casa dele.",
+        "Escudo e lança, e a muralha da cidade dele.",
+        "Canto e festa, e a alegria da mesa dele."
+      ]
     },
     {
       "id": "PSA.27.curiosity.1",
@@ -779,7 +1164,12 @@
       "kind": "curiosity",
       "prompt": "Qual pedido único Davi quer para a vida toda?",
       "answer": "Morar na casa de Deus todos os dias.",
-      "reference": "Sl 27:4"
+      "reference": "Sl 27:4",
+      "wrongs": [
+        "Vencer todo inimigo numa batalha.",
+        "Receber a coroa do reino.",
+        "Ver os filhos no trono."
+      ]
     },
     {
       "id": "PSA.27.curiosity.2",
@@ -789,7 +1179,12 @@
       "kind": "curiosity",
       "prompt": "Quem abandonou Davi, embora Deus o acolha?",
       "answer": "O pai e a mãe dele.",
-      "reference": "Sl 27:10"
+      "reference": "Sl 27:10",
+      "wrongs": [
+        "O irmão e a irmã dele.",
+        "O servo e a serva dele.",
+        "O amigo e o vizinho dele."
+      ]
     },
     {
       "id": "PSA.28.subject.1",
@@ -799,7 +1194,12 @@
       "kind": "subject",
       "prompt": "O que Davi teme, se Deus ficar calado com ele?",
       "answer": "Ficar igual a quem desce para a cova.",
-      "reference": "Sl 28:1"
+      "reference": "Sl 28:1",
+      "wrongs": [
+        "Ficar igual a quem sobe ao monte.",
+        "Ficar igual a quem dorme em paz.",
+        "Ficar igual a quem reina na cidade."
+      ]
     },
     {
       "id": "PSA.28.place.1",
@@ -809,7 +1209,12 @@
       "kind": "place",
       "prompt": "Para onde Davi levanta as mãos ao clamar?",
       "answer": "Para o templo santo.",
-      "reference": "Sl 28:2"
+      "reference": "Sl 28:2",
+      "wrongs": [
+        "Para o monte das Oliveiras.",
+        "Para o palácio real.",
+        "Para o portão do norte."
+      ]
     },
     {
       "id": "PSA.29.subject.1",
@@ -819,7 +1224,12 @@
       "kind": "subject",
       "prompt": "O que a voz de Deus faz aos cedros do Líbano?",
       "answer": "Ela despedaça esses cedros.",
-      "reference": "Sl 29:5"
+      "reference": "Sl 29:5",
+      "wrongs": [
+        "Ela planta esses cedros.",
+        "Ela cobre esses cedros de neve.",
+        "Ela curva esses cedros sem ruído."
+      ]
     },
     {
       "id": "PSA.29.place.1",
@@ -829,7 +1239,12 @@
       "kind": "place",
       "prompt": "Qual deserto treme diante da voz de Deus, no Salmo 29?",
       "answer": "O deserto chamado Cades.",
-      "reference": "Sl 29:8"
+      "reference": "Sl 29:8",
+      "wrongs": [
+        "O deserto chamado Sim.",
+        "O deserto chamado Parã.",
+        "O deserto chamado Zife."
+      ]
     },
     {
       "id": "PSA.29.curiosity.1",
@@ -839,7 +1254,12 @@
       "kind": "curiosity",
       "prompt": "O que a voz de Deus provoca nas cervas, no Salmo 29?",
       "answer": "Faz nascer os filhotes delas.",
-      "reference": "Sl 29:9"
+      "reference": "Sl 29:9",
+      "wrongs": [
+        "Faz elas fugirem para o vale.",
+        "Faz elas perderem os filhotes.",
+        "Faz elas ficarem imóveis."
+      ]
     },
     {
       "id": "PSA.30.subject.1",
@@ -849,7 +1269,12 @@
       "kind": "subject",
       "prompt": "Quando o choro dá lugar à alegria no Salmo 30?",
       "answer": "O pranto fica de noite, e de manhã chega a festa.",
-      "reference": "Sl 30:5"
+      "reference": "Sl 30:5",
+      "wrongs": [
+        "O pranto fica de manhã, e de noite chega a festa.",
+        "O pranto dura o ano, e a festa não volta.",
+        "O pranto acaba ao meio-dia, e a festa espera o sábado."
+      ]
     },
     {
       "id": "PSA.30.curiosity.1",
@@ -859,7 +1284,12 @@
       "kind": "curiosity",
       "prompt": "Em que Deus mudou o pranto de Davi?",
       "answer": "Em dança, e tirou o pano de luto.",
-      "reference": "Sl 30:11"
+      "reference": "Sl 30:11",
+      "wrongs": [
+        "Em silêncio, e pôs um manto de cinza.",
+        "Em jejum, e cobriu a cabeça.",
+        "Em luto, e rasgou a veste."
+      ]
     },
     {
       "id": "PSA.30.curiosity.2",
@@ -869,7 +1299,12 @@
       "kind": "curiosity",
       "prompt": "Davi exalta a Deus na dedicação de quê, no Salmo 30?",
       "answer": "Da casa.",
-      "reference": "Sl 30:1"
+      "reference": "Sl 30:1",
+      "wrongs": [
+        "Do muro.",
+        "Do altar.",
+        "Da cidade."
+      ]
     },
     {
       "id": "PSA.31.subject.1",
@@ -879,7 +1314,12 @@
       "kind": "subject",
       "prompt": "O que Davi põe nas mãos do Deus da verdade?",
       "answer": "O próprio espírito.",
-      "reference": "Sl 31:5"
+      "reference": "Sl 31:5",
+      "wrongs": [
+        "A própria coroa.",
+        "A própria espada.",
+        "O próprio rebanho."
+      ]
     },
     {
       "id": "PSA.31.curiosity.1",
@@ -889,7 +1329,12 @@
       "kind": "curiosity",
       "prompt": "Com qual objeto Davi se compara ao ser esquecido?",
       "answer": "Com um jarro feito em pedaços.",
-      "reference": "Sl 31:12"
+      "reference": "Sl 31:12",
+      "wrongs": [
+        "Com um escudo rachado.",
+        "Com uma lâmpada apagada.",
+        "Com uma corda gasta."
+      ]
     },
     {
       "id": "PSA.31.curiosity.2",
@@ -899,7 +1344,12 @@
       "kind": "curiosity",
       "prompt": "A que lugar Davi compara a bondade de Deus com ele?",
       "answer": "A uma cidade bem protegida.",
-      "reference": "Sl 31:21"
+      "reference": "Sl 31:21",
+      "wrongs": [
+        "A um rio que não seca.",
+        "A um muro sem porta.",
+        "A um poço no deserto."
+      ]
     },
     {
       "id": "PSA.32.subject.1",
@@ -909,7 +1359,12 @@
       "kind": "subject",
       "prompt": "Quem é feliz porque a culpa ficou coberta, no Salmo 32?",
       "answer": "A pessoa perdoada, cuja falha Deus cobre.",
-      "reference": "Sl 32:1"
+      "reference": "Sl 32:1",
+      "wrongs": [
+        "A pessoa rica, cuja dívida o rei paga.",
+        "A pessoa forte, cuja queda o exército esconde.",
+        "A pessoa sábia, cuja falta o mestre ignora."
+      ]
     },
     {
       "id": "PSA.32.curiosity.1",
@@ -919,7 +1374,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus fez quando Davi confessou a maldade?",
       "answer": "Perdoou a culpa daquele pecado.",
-      "reference": "Sl 32:5"
+      "reference": "Sl 32:5",
+      "wrongs": [
+        "Dobrou o castigo daquele pecado.",
+        "Adiou o julgamento daquele pecado.",
+        "Passou a culpa para o inimigo."
+      ]
     },
     {
       "id": "PSA.32.curiosity.2",
@@ -929,7 +1389,12 @@
       "kind": "curiosity",
       "prompt": "A quais animais sem entendimento não se deve parecer, no Salmo 32?",
       "answer": "Ao cavalo e à mula, que precisam de freio.",
-      "reference": "Sl 32:9"
+      "reference": "Sl 32:9",
+      "wrongs": [
+        "Ao boi e ao jumento, que precisam de jugo.",
+        "Ao camelo e ao asno, que precisam de carga.",
+        "Ao leão e ao urso, que precisam de jaula."
+      ]
     },
     {
       "id": "PSA.33.subject.1",
@@ -939,7 +1404,12 @@
       "kind": "subject",
       "prompt": "Com quais instrumentos se deve louvar a Deus no Salmo 33?",
       "answer": "Com harpa, alaúde e um de dez cordas.",
-      "reference": "Sl 33:2"
+      "reference": "Sl 33:2",
+      "wrongs": [
+        "Com trombeta, címbalo e um de madeira.",
+        "Com flauta, tamborim e um de bronze.",
+        "Com buzina, pandeiro e um de sete cordas."
+      ]
     },
     {
       "id": "PSA.33.curiosity.1",
@@ -949,7 +1419,12 @@
       "kind": "curiosity",
       "prompt": "O que ocorreu assim que Deus falou e ordenou, no Salmo 33?",
       "answer": "O que ele disse se fez, e o que ordenou apareceu.",
-      "reference": "Sl 33:9"
+      "reference": "Sl 33:9",
+      "wrongs": [
+        "O que ele disse se perdeu, e o que ordenou falhou.",
+        "O que ele disse esperou anos, e o que ordenou tardou.",
+        "O que ele disse foi debatido, e o que ordenou ficou só escrito."
+      ]
     },
     {
       "id": "PSA.33.curiosity.2",
@@ -959,7 +1434,12 @@
       "kind": "curiosity",
       "prompt": "Por que o cavalo falha como proteção no Salmo 33?",
       "answer": "Porque a força dele não tira ninguém do perigo.",
-      "reference": "Sl 33:17"
+      "reference": "Sl 33:17",
+      "wrongs": [
+        "Porque a velocidade dele acaba na subida.",
+        "Porque o dono dele esquece a rédea.",
+        "Porque o pasto dele seca no verão."
+      ]
     },
     {
       "id": "PSA.34.subject.1",
@@ -969,7 +1449,12 @@
       "kind": "subject",
       "prompt": "Quem fica ao redor de quem teme a Deus, no Salmo 34?",
       "answer": "O anjo de Deus, e ele os livra.",
-      "reference": "Sl 34:7"
+      "reference": "Sl 34:7",
+      "wrongs": [
+        "O exército de Israel, e ele os cerca.",
+        "A nuvem do dia, e ela os guia.",
+        "O fogo do altar, e ele os aquece."
+      ]
     },
     {
       "id": "PSA.34.name.1",
@@ -979,7 +1464,12 @@
       "kind": "name",
       "prompt": "Quem expulsou Davi depois que ele mudou o comportamento?",
       "answer": "Abimeleque.",
-      "reference": "Sl 34:1"
+      "reference": "Sl 34:1",
+      "wrongs": [
+        "Saul.",
+        "Nabal.",
+        "Doegue."
+      ]
     },
     {
       "id": "PSA.34.curiosity.1",
@@ -989,7 +1479,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus guarda inteiro no corpo do justo, no Salmo 34?",
       "answer": "Todos os ossos, e nenhum se quebra.",
-      "reference": "Sl 34:20"
+      "reference": "Sl 34:20",
+      "wrongs": [
+        "Todos os cabelos, e nenhum cai.",
+        "Toda a pele, e nenhuma ferida abre.",
+        "Todos os dentes, e nenhum se parte."
+      ]
     },
     {
       "id": "PSA.34.curiosity.2",
@@ -999,7 +1494,12 @@
       "kind": "curiosity",
       "prompt": "O que se convida a provar e a ver em Deus, no Salmo 34?",
       "answer": "Que ele é bom.",
-      "reference": "Sl 34:8"
+      "reference": "Sl 34:8",
+      "wrongs": [
+        "Que ele está longe.",
+        "Que ele se cansou.",
+        "Que ele mudou de lado."
+      ]
     },
     {
       "id": "PSA.35.subject.1",
@@ -1009,7 +1509,12 @@
       "kind": "subject",
       "prompt": "Como Davi se vestia quando o inimigo ficava doente?",
       "answer": "Punha pano de luto e jejuava por ele.",
-      "reference": "Sl 35:13"
+      "reference": "Sl 35:13",
+      "wrongs": [
+        "Punha roupa de festa e comia com ele.",
+        "Punha armadura e jejuava por si.",
+        "Punha manto real e oferecia um boi."
+      ]
     },
     {
       "id": "PSA.35.curiosity.1",
@@ -1019,7 +1524,12 @@
       "kind": "curiosity",
       "prompt": "Qual arma Davi pede que Deus pegue contra quem o persegue?",
       "answer": "A lança, para fechar o caminho.",
-      "reference": "Sl 35:3"
+      "reference": "Sl 35:3",
+      "wrongs": [
+        "O machado, para derrubar o muro.",
+        "A funda, para atingir a testa.",
+        "A rede, para prender os pés."
+      ]
     },
     {
       "id": "PSA.36.subject.1",
@@ -1029,7 +1539,12 @@
       "kind": "subject",
       "prompt": "Na luz de quem se vê a luz, no Salmo 36?",
       "answer": "Na luz de Deus, pois com ele está a fonte da vida.",
-      "reference": "Sl 36:9"
+      "reference": "Sl 36:9",
+      "wrongs": [
+        "Na luz do sol, pois com ele está o calor do dia.",
+        "Na luz da lâmpada, pois com ele está o óleo.",
+        "Na luz da lua, pois com ele está o orvalho."
+      ]
     },
     {
       "id": "PSA.36.curiosity.1",
@@ -1039,7 +1554,12 @@
       "kind": "curiosity",
       "prompt": "Sob o que as pessoas se abrigam por causa da bondade, no Salmo 36?",
       "answer": "Sob a sombra das asas de Deus.",
-      "reference": "Sl 36:7"
+      "reference": "Sl 36:7",
+      "wrongs": [
+        "Sob o teto do templo.",
+        "Sob a nuvem do deserto.",
+        "Sob o manto do sacerdote."
+      ]
     },
     {
       "id": "PSA.36.curiosity.2",
@@ -1049,7 +1569,12 @@
       "kind": "curiosity",
       "prompt": "A que se parecem a justiça de Deus e os juízos dele, no Salmo 36?",
       "answer": "A montanhas enormes e a um abismo fundo.",
-      "reference": "Sl 36:6"
+      "reference": "Sl 36:6",
+      "wrongs": [
+        "A colinas baixas e a um poço raso.",
+        "A muralhas novas e a um vale estreito.",
+        "A ondas mansas e a uma praia longa."
+      ]
     },
     {
       "id": "PSA.37.subject.1",
@@ -1059,7 +1584,12 @@
       "kind": "subject",
       "prompt": "O que Davi, já idoso, diz que nunca viu?",
       "answer": "Um justo largado, ou o filho dele pedindo comida.",
-      "reference": "Sl 37:25"
+      "reference": "Sl 37:25",
+      "wrongs": [
+        "Um justo sem casa, ou o filho dele pedindo terra.",
+        "Um justo sem nome, ou o filho dele pedindo abrigo.",
+        "Um justo sem rebanho, ou o filho dele pedindo água."
+      ]
     },
     {
       "id": "PSA.37.curiosity.1",
@@ -1069,7 +1599,12 @@
       "kind": "curiosity",
       "prompt": "O que os mansos vão receber da parte de Deus no Salmo 37?",
       "answer": "A terra, e com ela muita paz.",
-      "reference": "Sl 37:11"
+      "reference": "Sl 37:11",
+      "wrongs": [
+        "O trono, e com ele muita riqueza.",
+        "O templo, e com ele muita festa.",
+        "O deserto, e com ele muita chuva."
+      ]
     },
     {
       "id": "PSA.37.curiosity.2",
@@ -1079,7 +1614,12 @@
       "kind": "curiosity",
       "prompt": "O que vale mais que a fortuna de muitos perversos, no Salmo 37?",
       "answer": "A porção pequena de quem é justo.",
-      "reference": "Sl 37:16"
+      "reference": "Sl 37:16",
+      "wrongs": [
+        "A casa grande de quem é pobre.",
+        "A coroa velha de quem é rei.",
+        "A oferta cheia de quem é sacerdote."
+      ]
     },
     {
       "id": "PSA.38.subject.1",
@@ -1089,7 +1629,12 @@
       "kind": "subject",
       "prompt": "A quem Davi se iguala quando não abre a boca?",
       "answer": "A quem não ouve e a quem não fala.",
-      "reference": "Sl 38:13"
+      "reference": "Sl 38:13",
+      "wrongs": [
+        "A quem corre e a quem não para.",
+        "A quem grita e a quem não escuta.",
+        "A quem vê tudo e a quem não esquece."
+      ]
     },
     {
       "id": "PSA.38.curiosity.1",
@@ -1099,7 +1644,12 @@
       "kind": "curiosity",
       "prompt": "O que atingiu Davi, junto com a mão pesada?",
       "answer": "As flechas de Deus.",
-      "reference": "Sl 38:2"
+      "reference": "Sl 38:2",
+      "wrongs": [
+        "As pedras da funda.",
+        "Os espinhos do caminho.",
+        "As cordas do inimigo."
+      ]
     },
     {
       "id": "PSA.38.curiosity.2",
@@ -1109,7 +1659,12 @@
       "kind": "curiosity",
       "prompt": "Com o que Davi compara o peso das culpas dele?",
       "answer": "Com um fardo pesado demais para ele.",
-      "reference": "Sl 38:4"
+      "reference": "Sl 38:4",
+      "wrongs": [
+        "Com um copo cheio demais para ele.",
+        "Com uma dívida longa demais para ele.",
+        "Com uma noite escura demais para ele."
+      ]
     },
     {
       "id": "PSA.39.subject.1",
@@ -1119,7 +1674,12 @@
       "kind": "subject",
       "prompt": "Com qual medida curta Deus marcou os dias de Davi?",
       "answer": "Com palmos, pois a vida diante dele é nada.",
-      "reference": "Sl 39:5"
+      "reference": "Sl 39:5",
+      "wrongs": [
+        "Com anos, pois a vida diante dele é longa.",
+        "Com séculos, pois a vida diante dele é firme.",
+        "Com luas, pois a vida diante dele é cheia."
+      ]
     },
     {
       "id": "PSA.39.name.1",
@@ -1129,7 +1689,12 @@
       "kind": "name",
       "prompt": "Conforme qual músico Davi promete vigiar a língua?",
       "answer": "Jedutum.",
-      "reference": "Sl 39:1"
+      "reference": "Sl 39:1",
+      "wrongs": [
+        "Asafe.",
+        "Hemã.",
+        "Etã."
+      ]
     },
     {
       "id": "PSA.39.curiosity.1",
@@ -1139,7 +1704,12 @@
       "kind": "curiosity",
       "prompt": "Como Davi se descreve diante de Deus, igual aos pais?",
       "answer": "Como viajante de fora e estrangeiro.",
-      "reference": "Sl 39:12"
+      "reference": "Sl 39:12",
+      "wrongs": [
+        "Como rei da terra e dono dela.",
+        "Como sacerdote do altar e guarda dele.",
+        "Como filho da casa e herdeiro dela."
+      ]
     },
     {
       "id": "PSA.39.curiosity.2",
@@ -1149,7 +1719,12 @@
       "kind": "curiosity",
       "prompt": "A que inseto se compara o fim do que a pessoa aprecia, no Salmo 39?",
       "answer": "À traça.",
-      "reference": "Sl 39:11"
+      "reference": "Sl 39:11",
+      "wrongs": [
+        "Ao gafanhoto.",
+        "À lagarta.",
+        "À mosca."
+      ]
     },
     {
       "id": "PSA.40.subject.1",
@@ -1159,7 +1734,12 @@
       "kind": "subject",
       "prompt": "Onde Deus firmou os pés de Davi depois do lamaçal?",
       "answer": "Sobre uma pedra.",
-      "reference": "Sl 40:2"
+      "reference": "Sl 40:2",
+      "wrongs": [
+        "Sobre a areia.",
+        "Sobre o barro.",
+        "Sobre a palha."
+      ]
     },
     {
       "id": "PSA.40.curiosity.1",
@@ -1169,7 +1749,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus fez nas orelhas de Davi, sem pedir oferta?",
       "answer": "Abriu as orelhas dele.",
-      "reference": "Sl 40:6"
+      "reference": "Sl 40:6",
+      "wrongs": [
+        "Fechou as orelhas dele.",
+        "Cobriu as orelhas dele.",
+        "Lavou as orelhas dele."
+      ]
     },
     {
       "id": "PSA.40.curiosity.2",
@@ -1179,7 +1764,12 @@
       "kind": "curiosity",
       "prompt": "Onde estava escrito a respeito de Davi?",
       "answer": "Num livro em forma de rolo.",
-      "reference": "Sl 40:7"
+      "reference": "Sl 40:7",
+      "wrongs": [
+        "Numa tábua de pedra.",
+        "Numa placa de bronze.",
+        "Num muro do templo."
+      ]
     },
     {
       "id": "PSA.41.subject.1",
@@ -1189,7 +1779,12 @@
       "kind": "subject",
       "prompt": "O que fez o amigo íntimo que comia o pão de Davi?",
       "answer": "Ergueu o calcanhar contra ele.",
-      "reference": "Sl 41:9"
+      "reference": "Sl 41:9",
+      "wrongs": [
+        "Partiu outro pão com ele.",
+        "Ungiu a cabeça dele.",
+        "Guardou a porta dele."
+      ]
     },
     {
       "id": "PSA.41.curiosity.1",
@@ -1199,7 +1794,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus faz na doença de quem cuida do fraco, no Salmo 41?",
       "answer": "Sustenta o doente e muda a cama inteira.",
-      "reference": "Sl 41:3"
+      "reference": "Sl 41:3",
+      "wrongs": [
+        "Esquece o doente e tira a cama inteira.",
+        "Isola o doente e esconde a cama inteira.",
+        "Entrega o doente e queima a cama inteira."
+      ]
     },
     {
       "id": "PSA.41.curiosity.2",
@@ -1209,7 +1809,12 @@
       "kind": "curiosity",
       "prompt": "Como se encerra a bênção ao Deus de Israel?",
       "answer": "Com a palavra amém repetida.",
-      "reference": "Sl 41:13"
+      "reference": "Sl 41:13",
+      "wrongs": [
+        "Com a palavra aleluia repetida.",
+        "Com a palavra santo repetida.",
+        "Com a palavra salve repetida."
+      ]
     },
     {
       "id": "PSA.42.subject.1",
@@ -1219,7 +1824,12 @@
       "kind": "subject",
       "prompt": "A qual animal a alma com sede de Deus se compara, no Salmo 42?",
       "answer": "A uma corça que anseia por água corrente.",
-      "reference": "Sl 42:1"
+      "reference": "Sl 42:1",
+      "wrongs": [
+        "A um leão que busca a presa.",
+        "A uma pomba que busca o ninho.",
+        "A um camelo que busca o oásis."
+      ]
     },
     {
       "id": "PSA.42.place.1",
@@ -1229,7 +1839,12 @@
       "kind": "place",
       "prompt": "De quais lugares a alma abatida lembra de Deus, no Salmo 42?",
       "answer": "Do Jordão, dos hermonitas e do monte Mizar.",
-      "reference": "Sl 42:6"
+      "reference": "Sl 42:6",
+      "wrongs": [
+        "Do Nilo, dos filisteus e do monte Sinai.",
+        "Do Eufrates, dos moabitas e do monte Carmelo.",
+        "Do Quisom, dos edomitas e do monte Tabor."
+      ]
     },
     {
       "id": "PSA.42.curiosity.1",
@@ -1239,7 +1854,12 @@
       "kind": "curiosity",
       "prompt": "O que serviu de alimento de dia e de noite, no Salmo 42?",
       "answer": "As próprias lágrimas.",
-      "reference": "Sl 42:3"
+      "reference": "Sl 42:3",
+      "wrongs": [
+        "O pão seco.",
+        "O mel silvestre.",
+        "As ervas amargas."
+      ]
     },
     {
       "id": "PSA.42.curiosity.2",
@@ -1249,7 +1869,12 @@
       "kind": "curiosity",
       "prompt": "O que um abismo faz com o outro, no som das cachoeiras, no Salmo 42?",
       "answer": "Um chama o outro.",
-      "reference": "Sl 42:7"
+      "reference": "Sl 42:7",
+      "wrongs": [
+        "Um cobre o outro.",
+        "Um seca o outro.",
+        "Um empurra o outro."
+      ]
     },
     {
       "id": "PSA.43.subject.1",
@@ -1259,7 +1884,12 @@
       "kind": "subject",
       "prompt": "O que se pede que Deus envie para guiar o caminho, no Salmo 43?",
       "answer": "A luz dele e a verdade dele.",
-      "reference": "Sl 43:3"
+      "reference": "Sl 43:3",
+      "wrongs": [
+        "A nuvem dele e o fogo dele.",
+        "O anjo dele e a espada dele.",
+        "O vento dele e a chuva dele."
+      ]
     },
     {
       "id": "PSA.43.place.1",
@@ -1269,7 +1899,12 @@
       "kind": "place",
       "prompt": "A que monte a luz e a verdade devem levar quem pede, no Salmo 43?",
       "answer": "Ao monte santo e às moradas de Deus.",
-      "reference": "Sl 43:3"
+      "reference": "Sl 43:3",
+      "wrongs": [
+        "Ao monte Sinai e às tendas do arraial.",
+        "Ao monte Carmelo e às casas de Samaria.",
+        "Ao monte Hermom e aos palácios do rei."
+      ]
     },
     {
       "id": "PSA.43.curiosity.1",
@@ -1279,7 +1914,12 @@
       "kind": "curiosity",
       "prompt": "Com qual instrumento se louva a Deus junto ao altar dele, no Salmo 43?",
       "answer": "Com uma harpa.",
-      "reference": "Sl 43:4"
+      "reference": "Sl 43:4",
+      "wrongs": [
+        "Com uma trombeta.",
+        "Com um tamborim.",
+        "Com uma flauta."
+      ]
     },
     {
       "id": "PSA.44.subject.1",
@@ -1289,7 +1929,12 @@
       "kind": "subject",
       "prompt": "A quais animais o povo se compara, morto o dia inteiro, no Salmo 44?",
       "answer": "A ovelhas levadas para o abate.",
-      "reference": "Sl 44:22"
+      "reference": "Sl 44:22",
+      "wrongs": [
+        "A bois levados para o trabalho.",
+        "A pombas levadas para a venda.",
+        "A cavalos levados para a guerra."
+      ]
     },
     {
       "id": "PSA.44.place.1",
@@ -1299,7 +1944,12 @@
       "kind": "place",
       "prompt": "Em que lugar o povo diz ter sido afligido no Salmo 44?",
       "answer": "Num lugar onde há chacais.",
-      "reference": "Sl 44:19"
+      "reference": "Sl 44:19",
+      "wrongs": [
+        "Num lugar onde há leões.",
+        "Num lugar onde há águias.",
+        "Num lugar onde há serpentes."
+      ]
     },
     {
       "id": "PSA.44.curiosity.1",
@@ -1309,7 +1959,12 @@
       "kind": "curiosity",
       "prompt": "Por quanto preço o povo diz que foi vendido, no Salmo 44?",
       "answer": "Por valor nenhum.",
-      "reference": "Sl 44:12"
+      "reference": "Sl 44:12",
+      "wrongs": [
+        "Por um preço alto.",
+        "Por prata pesada.",
+        "Por um campo de trigo."
+      ]
     },
     {
       "id": "PSA.45.subject.1",
@@ -1319,7 +1974,12 @@
       "kind": "subject",
       "prompt": "De onde vem o ouro da rainha à direita do rei, no Salmo 45?",
       "answer": "De Ofir.",
-      "reference": "Sl 45:9"
+      "reference": "Sl 45:9",
+      "wrongs": [
+        "De Sabá.",
+        "De Társis.",
+        "De Havila."
+      ]
     },
     {
       "id": "PSA.45.place.1",
@@ -1329,7 +1989,12 @@
       "kind": "place",
       "prompt": "Em que palácios o rei se alegra com a roupa perfumada, no Salmo 45?",
       "answer": "Nos palácios feitos de marfim.",
-      "reference": "Sl 45:8"
+      "reference": "Sl 45:8",
+      "wrongs": [
+        "Nos palácios feitos de cedro.",
+        "Nos palácios feitos de mármore.",
+        "Nos palácios feitos de pedra."
+      ]
     },
     {
       "id": "PSA.45.curiosity.1",
@@ -1339,7 +2004,12 @@
       "kind": "curiosity",
       "prompt": "Quais aromas saem das roupas do rei, no Salmo 45?",
       "answer": "Mirra, aloés e cássia.",
-      "reference": "Sl 45:8"
+      "reference": "Sl 45:8",
+      "wrongs": [
+        "Incenso, nardo e açafrão.",
+        "Bálsamo, canela e olíbano.",
+        "Hissopo, mirto e resina."
+      ]
     },
     {
       "id": "PSA.45.curiosity.2",
@@ -1349,7 +2019,12 @@
       "kind": "curiosity",
       "prompt": "Com a pena de quem a língua do poeta se compara, no Salmo 45?",
       "answer": "Com a de um escriba muito capaz.",
-      "reference": "Sl 45:1"
+      "reference": "Sl 45:1",
+      "wrongs": [
+        "Com a de um guerreiro muito rápido.",
+        "Com a de um ourives muito fino.",
+        "Com a de um cantor muito jovem."
+      ]
     },
     {
       "id": "PSA.46.subject.1",
@@ -1359,7 +2034,12 @@
       "kind": "subject",
       "prompt": "O que alegra a cidade onde Deus habita, no Salmo 46?",
       "answer": "Um rio cujos córregos a enchem de alegria.",
-      "reference": "Sl 46:4"
+      "reference": "Sl 46:4",
+      "wrongs": [
+        "Um muro cujas torres a enchem de calma.",
+        "Um mercado cujas feiras a enchem de riqueza.",
+        "Um exército cujas armas a enchem de medo."
+      ]
     },
     {
       "id": "PSA.46.curiosity.1",
@@ -1369,7 +2049,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus manda fazer para ser reconhecido, no Salmo 46?",
       "answer": "Que fiquem quietos e reconheçam quem ele é.",
-      "reference": "Sl 46:10"
+      "reference": "Sl 46:10",
+      "wrongs": [
+        "Que gritem alto e anunciem quem ele é.",
+        "Que peguem armas e provem quem ele é.",
+        "Que subam ao monte e vejam quem ele é."
+      ]
     },
     {
       "id": "PSA.46.curiosity.2",
@@ -1379,7 +2064,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus faz com o arco, a lança e os carros, no Salmo 46?",
       "answer": "Desfaz o arco, parte a lança e queima os carros.",
-      "reference": "Sl 46:9"
+      "reference": "Sl 46:9",
+      "wrongs": [
+        "Guarda o arco, ergue a lança e esconde os carros.",
+        "Entrega o arco, afia a lança e puxa os carros.",
+        "Pinta o arco, doura a lança e conta os carros."
+      ]
     },
     {
       "id": "PSA.47.subject.1",
@@ -1389,7 +2079,12 @@
       "kind": "subject",
       "prompt": "O que todos os povos devem fazer com as mãos, no Salmo 47?",
       "answer": "Bater palmas e gritar de alegria a Deus.",
-      "reference": "Sl 47:1"
+      "reference": "Sl 47:1",
+      "wrongs": [
+        "Erguer as mãos e ficar em silêncio.",
+        "Fechar as mãos e chorar de medo.",
+        "Abrir as mãos e oferecer pão."
+      ]
     },
     {
       "id": "PSA.47.name.1",
@@ -1399,7 +2094,12 @@
       "kind": "name",
       "prompt": "De qual antepassado é o Deus a quem os chefes se unem, no Salmo 47?",
       "answer": "De Abraão.",
-      "reference": "Sl 47:9"
+      "reference": "Sl 47:9",
+      "wrongs": [
+        "De Isaque.",
+        "De Jacó.",
+        "De Noé."
+      ]
     },
     {
       "id": "PSA.47.curiosity.1",
@@ -1409,7 +2109,12 @@
       "kind": "curiosity",
       "prompt": "Com qual som Deus sobe em meio aos gritos, no Salmo 47?",
       "answer": "Com o som da trombeta.",
-      "reference": "Sl 47:5"
+      "reference": "Sl 47:5",
+      "wrongs": [
+        "Com o som da harpa.",
+        "Com o som do tambor.",
+        "Com o som da flauta."
+      ]
     },
     {
       "id": "PSA.48.subject.1",
@@ -1419,7 +2124,12 @@
       "kind": "subject",
       "prompt": "Qual monte é a alegria da terra e a cidade do grande Rei?",
       "answer": "O monte Sião, ao norte.",
-      "reference": "Sl 48:2"
+      "reference": "Sl 48:2",
+      "wrongs": [
+        "O monte Sinai, ao sul.",
+        "O monte Carmelo, ao oeste.",
+        "O monte Hermom, ao leste."
+      ]
     },
     {
       "id": "PSA.48.place.1",
@@ -1429,7 +2139,12 @@
       "kind": "place",
       "prompt": "Quais navios o vento do leste despedaça, no Salmo 48?",
       "answer": "Os barcos de Társis.",
-      "reference": "Sl 48:7"
+      "reference": "Sl 48:7",
+      "wrongs": [
+        "Os barcos do Egito.",
+        "Os barcos de Tiro.",
+        "Os barcos de Sidom."
+      ]
     },
     {
       "id": "PSA.48.curiosity.1",
@@ -1439,7 +2154,12 @@
       "kind": "curiosity",
       "prompt": "O que se deve contar dando a volta em Sião?",
       "answer": "As torres da cidade.",
-      "reference": "Sl 48:12"
+      "reference": "Sl 48:12",
+      "wrongs": [
+        "Os poços da cidade.",
+        "As árvores da cidade.",
+        "As tendas da cidade."
+      ]
     },
     {
       "id": "PSA.49.subject.1",
@@ -1449,7 +2169,12 @@
       "kind": "subject",
       "prompt": "Quem pode pagar a Deus o resgate do próprio irmão, no Salmo 49?",
       "answer": "Ninguém consegue.",
-      "reference": "Sl 49:7"
+      "reference": "Sl 49:7",
+      "wrongs": [
+        "Só o irmão mais rico.",
+        "Só o sacerdote do templo.",
+        "Só o rei com muito ouro."
+      ]
     },
     {
       "id": "PSA.49.curiosity.1",
@@ -1459,7 +2184,12 @@
       "kind": "curiosity",
       "prompt": "A quem se parece quem está por cima e não entende, no Salmo 49?",
       "answer": "Aos bichos, que também morrem.",
-      "reference": "Sl 49:20"
+      "reference": "Sl 49:20",
+      "wrongs": [
+        "Aos anjos, que não envelhecem.",
+        "Aos cedros, que duram séculos.",
+        "Aos astros, que não caem."
+      ]
     },
     {
       "id": "PSA.49.curiosity.2",
@@ -1469,7 +2199,12 @@
       "kind": "curiosity",
       "prompt": "O que o rico leva quando morre, no Salmo 49?",
       "answer": "Não leva nada, e a glória não o acompanha.",
-      "reference": "Sl 49:17"
+      "reference": "Sl 49:17",
+      "wrongs": [
+        "Leva o ouro, e a casa o acompanha.",
+        "Leva o nome, e o trono o acompanha.",
+        "Leva a família, e a terra o acompanha."
+      ]
     },
     {
       "id": "PSA.50.subject.1",
@@ -1479,7 +2214,12 @@
       "kind": "subject",
       "prompt": "Que sacrifício Deus pede que lhe seja oferecido no Salmo 50?",
       "answer": "O sacrifício de louvor, cumprindo o que se prometeu.",
-      "reference": "Sl 50:14"
+      "reference": "Sl 50:14",
+      "wrongs": [
+        "O sacrifício de um novilho sem defeito.",
+        "O sacrifício de incenso todas as manhãs.",
+        "O sacrifício de sangue sobre o altar."
+      ]
     },
     {
       "id": "PSA.50.place.1",
@@ -1489,7 +2229,12 @@
       "kind": "place",
       "prompt": "De onde Deus mostra o brilho da beleza dele, no Salmo 50?",
       "answer": "De Sião.",
-      "reference": "Sl 50:2"
+      "reference": "Sl 50:2",
+      "wrongs": [
+        "De Hebrom.",
+        "Do Carmelo.",
+        "De Siló."
+      ]
     },
     {
       "id": "PSA.50.curiosity.1",
@@ -1499,7 +2244,12 @@
       "kind": "curiosity",
       "prompt": "Deus pergunta se comeria ou beberia o quê, no Salmo 50?",
       "answer": "Carne de touro ou sangue de bode.",
-      "reference": "Sl 50:13"
+      "reference": "Sl 50:13",
+      "wrongs": [
+        "Pão do altar ou vinho da oferta.",
+        "Mel do campo ou leite do rebanho.",
+        "Peixe do mar ou azeite da oliveira."
+      ]
     },
     {
       "id": "PSA.51.subject.1",
@@ -1509,7 +2259,12 @@
       "kind": "subject",
       "prompt": "Como o salmista pede para ser limpo no Salmo 51?",
       "answer": "Com hissopo, e quer ficar mais branco que a neve.",
-      "reference": "Sl 51:7"
+      "reference": "Sl 51:7",
+      "wrongs": [
+        "Com água do rio, e quer ficar mais claro que a lã.",
+        "Com óleo do templo, e quer ficar mais brilhante que o ouro.",
+        "Com cinza do altar, e quer ficar mais limpo que o linho."
+      ]
     },
     {
       "id": "PSA.51.name.1",
@@ -1519,7 +2274,12 @@
       "kind": "name",
       "prompt": "Quem foi falar com Davi depois do adultério com Bate-Seba?",
       "answer": "O profeta Natã.",
-      "reference": "Sl 51:1"
+      "reference": "Sl 51:1",
+      "wrongs": [
+        "O profeta Gade.",
+        "O sacerdote Zadoque.",
+        "O amigo Husai."
+      ]
     },
     {
       "id": "PSA.51.place.1",
@@ -1529,7 +2289,12 @@
       "kind": "place",
       "prompt": "O que o Salmo 51 pede para os muros de Jerusalém?",
       "answer": "Que Deus os reconstrua.",
-      "reference": "Sl 51:18"
+      "reference": "Sl 51:18",
+      "wrongs": [
+        "Que Deus os derrube.",
+        "Que Deus os pinte de branco.",
+        "Que Deus os cubra de ouro."
+      ]
     },
     {
       "id": "PSA.51.curiosity.1",
@@ -1539,7 +2304,12 @@
       "kind": "curiosity",
       "prompt": "Que sacrifício Deus aceita no Salmo 51?",
       "answer": "Um espírito quebrado e um coração arrependido.",
-      "reference": "Sl 51:17"
+      "reference": "Sl 51:17",
+      "wrongs": [
+        "Um boi gordo e um cordeiro sem mancha.",
+        "Um incenso caro e um voto em voz alta.",
+        "Uma veste nova e um jejum de sete dias."
+      ]
     },
     {
       "id": "PSA.52.subject.1",
@@ -1549,7 +2319,12 @@
       "kind": "subject",
       "prompt": "A que planta o Salmo 52 compara quem está na casa de Deus?",
       "answer": "A uma oliveira verde.",
-      "reference": "Sl 52:8"
+      "reference": "Sl 52:8",
+      "wrongs": [
+        "A um cedro alto.",
+        "A uma palmeira cheia.",
+        "A uma videira nova."
+      ]
     },
     {
       "id": "PSA.52.name.1",
@@ -1559,7 +2334,12 @@
       "kind": "name",
       "prompt": "Quem contou a Saul que Davi chegou à casa de Aimeleque?",
       "answer": "Doegue, o edomita.",
-      "reference": "Sl 52:1"
+      "reference": "Sl 52:1",
+      "wrongs": [
+        "Abner, o comandante.",
+        "Aitofel, o conselheiro.",
+        "Ziba, o servo."
+      ]
     },
     {
       "id": "PSA.52.curiosity.1",
@@ -1569,7 +2349,12 @@
       "kind": "curiosity",
       "prompt": "A que a língua do poderoso se compara no Salmo 52?",
       "answer": "A uma navalha afiada.",
-      "reference": "Sl 52:2"
+      "reference": "Sl 52:2",
+      "wrongs": [
+        "A uma espada pesada.",
+        "A uma flecha torta.",
+        "A uma rede fina."
+      ]
     },
     {
       "id": "PSA.53.subject.1",
@@ -1579,7 +2364,12 @@
       "kind": "subject",
       "prompt": "O que Deus fez aos ossos de quem cercava o povo no Salmo 53?",
       "answer": "Espalhou esses ossos e rejeitou o inimigo.",
-      "reference": "Sl 53:5"
+      "reference": "Sl 53:5",
+      "wrongs": [
+        "Juntou esses ossos e curou o inimigo.",
+        "Enterrou esses ossos e poupou o inimigo.",
+        "Ungiu esses ossos e armou o inimigo."
+      ]
     },
     {
       "id": "PSA.53.place.1",
@@ -1589,7 +2379,12 @@
       "kind": "place",
       "prompt": "De onde o Salmo 53 espera a salvação de Israel?",
       "answer": "De Sião.",
-      "reference": "Sl 53:6"
+      "reference": "Sl 53:6",
+      "wrongs": [
+        "Do Egito.",
+        "De Ramá.",
+        "Do Carmelo."
+      ]
     },
     {
       "id": "PSA.54.subject.1",
@@ -1599,7 +2394,12 @@
       "kind": "subject",
       "prompt": "O que Davi pede quando os zifeus o denunciam a Saul?",
       "answer": "Que Deus o salve pelo nome e lhe faça justiça pelo poder.",
-      "reference": "Sl 54:1"
+      "reference": "Sl 54:1",
+      "wrongs": [
+        "Que Deus o esconda no muro e lhe abra fuga pelo túnel.",
+        "Que Deus o cale pelo medo e lhe tire a casa pelo rei.",
+        "Que Deus o esqueça pelo tempo e lhe negue resposta pelo voto."
+      ]
     },
     {
       "id": "PSA.55.subject.1",
@@ -1609,7 +2409,12 @@
       "kind": "subject",
       "prompt": "Que asas o salmista deseja no Salmo 55?",
       "answer": "Asas de pomba, para voar e pousar longe.",
-      "reference": "Sl 55:6"
+      "reference": "Sl 55:6",
+      "wrongs": [
+        "Asas de águia, para subir e morar no penhasco.",
+        "Asas de cegonha, para migrar e pousar no rio.",
+        "Asas de andorinha, para girar e voltar ao ninho."
+      ]
     },
     {
       "id": "PSA.55.curiosity.1",
@@ -1619,7 +2424,12 @@
       "kind": "curiosity",
       "prompt": "Em que momentos do dia o salmista ora no Salmo 55?",
       "answer": "De manhã, ao meio-dia e de tarde.",
-      "reference": "Sl 55:17"
+      "reference": "Sl 55:17",
+      "wrongs": [
+        "Só de noite, uma vez.",
+        "No sábado, de manhã.",
+        "Na lua nova, à tarde."
+      ]
     },
     {
       "id": "PSA.55.curiosity.2",
@@ -1629,7 +2439,12 @@
       "kind": "curiosity",
       "prompt": "Como são as palavras mansas no Salmo 55?",
       "answer": "Parecem óleo, mas na verdade são espadas.",
-      "reference": "Sl 55:21"
+      "reference": "Sl 55:21",
+      "wrongs": [
+        "Parecem mel, mas na verdade são fel.",
+        "Parecem pão, mas na verdade são pedra.",
+        "Parecem água, mas na verdade são vinagre."
+      ]
     },
     {
       "id": "PSA.56.subject.1",
@@ -1639,7 +2454,12 @@
       "kind": "subject",
       "prompt": "Onde devem ficar as lágrimas do salmista no Salmo 56?",
       "answer": "Num odre de Deus, e também no livro dele.",
-      "reference": "Sl 56:8"
+      "reference": "Sl 56:8",
+      "wrongs": [
+        "Num jarro da casa, e também na soleira.",
+        "Num copo do altar, e também na parede.",
+        "Numa taça do rei, e também na areia."
+      ]
     },
     {
       "id": "PSA.56.place.1",
@@ -1649,7 +2469,12 @@
       "kind": "place",
       "prompt": "Onde os filisteus prenderam Davi no Salmo 56?",
       "answer": "Em Gate.",
-      "reference": "Sl 56:1"
+      "reference": "Sl 56:1",
+      "wrongs": [
+        "Em Ecrom.",
+        "Em Asdode.",
+        "Em Gaza."
+      ]
     },
     {
       "id": "PSA.57.subject.1",
@@ -1659,7 +2484,12 @@
       "kind": "subject",
       "prompt": "Entre que feras o salmista se vê no Salmo 57?",
       "answer": "Entre leões e homens com dentes de lança e flecha.",
-      "reference": "Sl 57:4"
+      "reference": "Sl 57:4",
+      "wrongs": [
+        "Entre lobos e homens com unhas de ferro.",
+        "Entre ursos e homens com dentes de serra.",
+        "Entre chacais e homens com boca de fornalha."
+      ]
     },
     {
       "id": "PSA.57.place.1",
@@ -1669,7 +2499,12 @@
       "kind": "place",
       "prompt": "Onde Davi estava ao fugir de Saul no Salmo 57?",
       "answer": "Numa caverna.",
-      "reference": "Sl 57:1"
+      "reference": "Sl 57:1",
+      "wrongs": [
+        "Numa torre.",
+        "Num celeiro.",
+        "Num palácio."
+      ]
     },
     {
       "id": "PSA.58.subject.1",
@@ -1679,7 +2514,12 @@
       "kind": "subject",
       "prompt": "A que bicho o Salmo 58 compara os maus?",
       "answer": "A uma cobra surda, que tapa o ouvido.",
-      "reference": "Sl 58:4"
+      "reference": "Sl 58:4",
+      "wrongs": [
+        "A um leão cego, que fecha o olho.",
+        "A um cão mudo, que esconde o rabo.",
+        "A uma águia surda, que vira o rosto."
+      ]
     },
     {
       "id": "PSA.58.curiosity.1",
@@ -1689,7 +2529,12 @@
       "kind": "curiosity",
       "prompt": "O que o justo lava no sangue do perverso no Salmo 58?",
       "answer": "Os pés.",
-      "reference": "Sl 58:10"
+      "reference": "Sl 58:10",
+      "wrongs": [
+        "As mãos.",
+        "A roupa.",
+        "O rosto."
+      ]
     },
     {
       "id": "PSA.59.subject.1",
@@ -1699,7 +2544,12 @@
       "kind": "subject",
       "prompt": "A que animais o Salmo 59 compara os inimigos à noite?",
       "answer": "A cães que ladram e rondam a cidade.",
-      "reference": "Sl 59:6"
+      "reference": "Sl 59:6",
+      "wrongs": [
+        "A lobos que uivam e cercam o aprisco.",
+        "A corvos que grasnam e pousam no muro.",
+        "A jumentos que zurram e vagam no campo."
+      ]
     },
     {
       "id": "PSA.59.name.1",
@@ -1709,7 +2559,12 @@
       "kind": "name",
       "prompt": "Quem mandou vigiar a casa de Davi para matá-lo no Salmo 59?",
       "answer": "Saul.",
-      "reference": "Sl 59:1"
+      "reference": "Sl 59:1",
+      "wrongs": [
+        "Absalão.",
+        "Joabe.",
+        "Aquis."
+      ]
     },
     {
       "id": "PSA.60.subject.1",
@@ -1719,7 +2574,12 @@
       "kind": "subject",
       "prompt": "O que é Moabe para Deus no Salmo 60?",
       "answer": "A bacia em que ele se lava.",
-      "reference": "Sl 60:8"
+      "reference": "Sl 60:8",
+      "wrongs": [
+        "O escudo em que ele guerreia.",
+        "O trono em que ele se senta.",
+        "O copo em que ele bebe."
+      ]
     },
     {
       "id": "PSA.60.place.1",
@@ -1729,7 +2589,12 @@
       "kind": "place",
       "prompt": "Onde Joabe feriu doze mil homens de Edom no Salmo 60?",
       "answer": "No Vale do Sal.",
-      "reference": "Sl 60:1"
+      "reference": "Sl 60:1",
+      "wrongs": [
+        "No vale de Elá.",
+        "No vale de Sitim.",
+        "No vale de Refaim."
+      ]
     },
     {
       "id": "PSA.60.curiosity.1",
@@ -1739,7 +2604,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus diz que lança sobre Edom no Salmo 60?",
       "answer": "A sandália dele.",
-      "reference": "Sl 60:8"
+      "reference": "Sl 60:8",
+      "wrongs": [
+        "A coroa dele.",
+        "A flecha dele.",
+        "A rede dele."
+      ]
     },
     {
       "id": "PSA.61.subject.1",
@@ -1749,7 +2619,12 @@
       "kind": "subject",
       "prompt": "Para onde o salmista pede para ir no Salmo 61?",
       "answer": "Para uma rocha mais alta que ele.",
-      "reference": "Sl 61:2"
+      "reference": "Sl 61:2",
+      "wrongs": [
+        "Para um vale mais fundo que ele.",
+        "Para uma cidade mais rica que ele.",
+        "Para um rio mais largo que ele."
+      ]
     },
     {
       "id": "PSA.62.subject.1",
@@ -1759,7 +2634,12 @@
       "kind": "subject",
       "prompt": "Quantas vezes o salmista ouviu a frase única de Deus no Salmo 62?",
       "answer": "Duas vezes, e o recado é que o poder é de Deus.",
-      "reference": "Sl 62:11"
+      "reference": "Sl 62:11",
+      "wrongs": [
+        "Uma vez, e o recado é que o poder é do rei.",
+        "Três vezes, e o recado é que o poder é do exército.",
+        "Sete vezes, e o recado é que o poder é do povo."
+      ]
     },
     {
       "id": "PSA.62.curiosity.1",
@@ -1769,7 +2649,12 @@
       "kind": "curiosity",
       "prompt": "O que pesa mais que os humanos reunidos no Salmo 62?",
       "answer": "O vazio, porque eles não chegam ao peso dele.",
-      "reference": "Sl 62:9"
+      "reference": "Sl 62:9",
+      "wrongs": [
+        "O ouro, porque eles não chegam ao brilho dele.",
+        "A multidão, porque eles não chegam ao número dela.",
+        "O medo, porque eles não chegam à força dele."
+      ]
     },
     {
       "id": "PSA.63.subject.1",
@@ -1779,7 +2664,12 @@
       "kind": "subject",
       "prompt": "Como o salmista busca Deus no deserto de Judá?",
       "answer": "Com sede na alma, em terra seca e sem água.",
-      "reference": "Sl 63:1"
+      "reference": "Sl 63:1",
+      "wrongs": [
+        "Com fome no corpo, em terra fértil e sem pão.",
+        "Com medo no peito, em terra inimiga e sem muro.",
+        "Com sono nos olhos, em terra quente e sem sombra."
+      ]
     },
     {
       "id": "PSA.64.subject.1",
@@ -1789,7 +2679,12 @@
       "kind": "subject",
       "prompt": "A que armas o Salmo 64 compara a fala dos maus?",
       "answer": "A língua vira espada, e as palavras viram flechas.",
-      "reference": "Sl 64:3"
+      "reference": "Sl 64:3",
+      "wrongs": [
+        "A boca vira rede, e as palavras viram laços.",
+        "A voz vira trovão, e as palavras viram pedras.",
+        "A fala vira mel, e as palavras viram azeite."
+      ]
     },
     {
       "id": "PSA.65.subject.1",
@@ -1799,7 +2694,12 @@
       "kind": "subject",
       "prompt": "Com o que Deus coroa o ano no Salmo 65?",
       "answer": "Com a bondade dele, em caminhos cheios de fartura.",
-      "reference": "Sl 65:11"
+      "reference": "Sl 65:11",
+      "wrongs": [
+        "Com a chuva dele, em caminhos cheios de barro.",
+        "Com a luz dele, em caminhos cheios de festa.",
+        "Com o ouro dele, em caminhos cheios de comércio."
+      ]
     },
     {
       "id": "PSA.65.place.1",
@@ -1809,7 +2709,12 @@
       "kind": "place",
       "prompt": "Onde estão o louvor e a calma de Deus no Salmo 65?",
       "answer": "Em Sião.",
-      "reference": "Sl 65:1"
+      "reference": "Sl 65:1",
+      "wrongs": [
+        "Em Betel.",
+        "Em Siló.",
+        "Em Ramá."
+      ]
     },
     {
       "id": "PSA.65.curiosity.1",
@@ -1819,7 +2724,12 @@
       "kind": "curiosity",
       "prompt": "De que está cheio o rio de Deus no Salmo 65?",
       "answer": "Está cheio de água.",
-      "reference": "Sl 65:9"
+      "reference": "Sl 65:9",
+      "wrongs": [
+        "Está cheio de leite.",
+        "Está cheio de mel.",
+        "Está cheio de vinho."
+      ]
     },
     {
       "id": "PSA.66.subject.1",
@@ -1829,7 +2739,12 @@
       "kind": "subject",
       "prompt": "Por onde o povo passou antes do alívio no Salmo 66?",
       "answer": "Pelo fogo e pela água.",
-      "reference": "Sl 66:12"
+      "reference": "Sl 66:12",
+      "wrongs": [
+        "Pelo deserto e pelo vale.",
+        "Pela noite e pelo dia.",
+        "Pelo monte e pela planície."
+      ]
     },
     {
       "id": "PSA.66.curiosity.1",
@@ -1839,7 +2754,12 @@
       "kind": "curiosity",
       "prompt": "Como o povo passou no leito das águas no Salmo 66?",
       "answer": "A pé, depois que Deus secou o mar.",
-      "reference": "Sl 66:6"
+      "reference": "Sl 66:6",
+      "wrongs": [
+        "De barco, depois que Deus abriu o porto.",
+        "A nado, depois que Deus acalmou a onda.",
+        "Na ponte, depois que Deus firmou as pedras."
+      ]
     },
     {
       "id": "PSA.67.subject.1",
@@ -1849,7 +2769,12 @@
       "kind": "subject",
       "prompt": "O que o Salmo 67 pede que brilhe sobre o povo?",
       "answer": "O rosto de Deus, com bênção e misericórdia.",
-      "reference": "Sl 67:1"
+      "reference": "Sl 67:1",
+      "wrongs": [
+        "A espada de Deus, com vitória e fama.",
+        "A mão de Deus, com força e juízo.",
+        "A nuvem de Deus, com sombra e fogo."
+      ]
     },
     {
       "id": "PSA.67.curiosity.1",
@@ -1859,7 +2784,12 @@
       "kind": "curiosity",
       "prompt": "O que o Salmo 67 pede que a terra produza?",
       "answer": "O fruto dela, junto com a bênção de Deus.",
-      "reference": "Sl 67:6"
+      "reference": "Sl 67:6",
+      "wrongs": [
+        "O ouro dela, junto com a paz dos reis.",
+        "O incenso dela, junto com o canto do templo.",
+        "A lã dela, junto com a chuva do norte."
+      ]
     },
     {
       "id": "PSA.68.subject.1",
@@ -1869,7 +2799,12 @@
       "kind": "subject",
       "prompt": "De que metal o Salmo 68 cobre as asas da pomba?",
       "answer": "De prata, e as penas de ouro.",
-      "reference": "Sl 68:13"
+      "reference": "Sl 68:13",
+      "wrongs": [
+        "De bronze, e as penas de ferro.",
+        "De ouro, e as penas de prata.",
+        "De marfim, e as penas de linho."
+      ]
     },
     {
       "id": "PSA.68.place.1",
@@ -1879,7 +2814,12 @@
       "kind": "place",
       "prompt": "Para onde os reis levarão presentes no Salmo 68?",
       "answer": "Ao templo de Deus em Jerusalém.",
-      "reference": "Sl 68:29"
+      "reference": "Sl 68:29",
+      "wrongs": [
+        "Ao palácio do rei em Hebrom.",
+        "Ao altar de Baal em Samaria.",
+        "À porta do norte em Damasco."
+      ]
     },
     {
       "id": "PSA.68.curiosity.1",
@@ -1889,7 +2829,12 @@
       "kind": "curiosity",
       "prompt": "Quantas carruagens de Deus o Salmo 68 menciona?",
       "answer": "Várias dezenas de milhares.",
-      "reference": "Sl 68:17"
+      "reference": "Sl 68:17",
+      "wrongs": [
+        "Algumas centenas.",
+        "Doze carruagens apenas.",
+        "Uma única, de fogo."
+      ]
     },
     {
       "id": "PSA.69.subject.1",
@@ -1899,7 +2844,12 @@
       "kind": "subject",
       "prompt": "O que deram ao salmista com fome e sede no Salmo 69?",
       "answer": "Fel na comida e vinagre na hora da sede.",
-      "reference": "Sl 69:21"
+      "reference": "Sl 69:21",
+      "wrongs": [
+        "Mel na comida e vinho na hora da sede.",
+        "Pão na comida e água na hora da sede.",
+        "Sal na comida e leite na hora da sede."
+      ]
     },
     {
       "id": "PSA.69.place.1",
@@ -1909,7 +2859,12 @@
       "kind": "place",
       "prompt": "Que cidade Deus promete salvar no Salmo 69?",
       "answer": "Sião, e ele reconstrói as cidades de Judá.",
-      "reference": "Sl 69:35"
+      "reference": "Sl 69:35",
+      "wrongs": [
+        "Samaria, e ele reconstrói as cidades de Efraim.",
+        "Jericó, e ele reconstrói as cidades do vale.",
+        "Hebrom, e ele reconstrói as cidades do Neguebe."
+      ]
     },
     {
       "id": "PSA.69.curiosity.1",
@@ -1919,7 +2874,12 @@
       "kind": "curiosity",
       "prompt": "O que perde em número para os inimigos no Salmo 69?",
       "answer": "Os cabelos da cabeça do salmista.",
-      "reference": "Sl 69:4"
+      "reference": "Sl 69:4",
+      "wrongs": [
+        "As pedras do caminho.",
+        "As estrelas da noite.",
+        "As areias da praia."
+      ]
     },
     {
       "id": "PSA.70.subject.1",
@@ -1929,7 +2889,12 @@
       "kind": "subject",
       "prompt": "Que zombaria o Salmo 70 quer ver virar vergonha?",
       "answer": "O grito de quem diz há, há.",
-      "reference": "Sl 70:3"
+      "reference": "Sl 70:3",
+      "wrongs": [
+        "O canto de quem diz glória, glória.",
+        "O riso de quem diz paz, paz.",
+        "O brinde de quem diz viva, viva."
+      ]
     },
     {
       "id": "PSA.71.subject.1",
@@ -1939,7 +2904,12 @@
       "kind": "subject",
       "prompt": "O que o salmista pede para a velhice no Salmo 71?",
       "answer": "Que Deus não o rejeite quando a força acabar.",
-      "reference": "Sl 71:9"
+      "reference": "Sl 71:9",
+      "wrongs": [
+        "Que Deus lhe dê um trono quando a força acabar.",
+        "Que Deus o leve ao deserto quando a força acabar.",
+        "Que Deus o faça general quando a força acabar."
+      ]
     },
     {
       "id": "PSA.71.curiosity.1",
@@ -1949,7 +2919,12 @@
       "kind": "curiosity",
       "prompt": "Com que instrumentos o salmista louva a Deus no Salmo 71?",
       "answer": "Com cordas e com harpa.",
-      "reference": "Sl 71:22"
+      "reference": "Sl 71:22",
+      "wrongs": [
+        "Com flauta e com tambor.",
+        "Com trombeta e com címbalo.",
+        "Com buzina e com pandeiro."
+      ]
     },
     {
       "id": "PSA.72.subject.1",
@@ -1959,7 +2934,12 @@
       "kind": "subject",
       "prompt": "A que se parece a chegada do rei no Salmo 72?",
       "answer": "À chuva que cai sobre a grama já cortada.",
-      "reference": "Sl 72:6"
+      "reference": "Sl 72:6",
+      "wrongs": [
+        "À neve que cai sobre o monte seco.",
+        "Ao orvalho que cai sobre a tenda fechada.",
+        "Ao granizo que cai sobre a seara madura."
+      ]
     },
     {
       "id": "PSA.72.name.1",
@@ -1969,7 +2949,12 @@
       "kind": "name",
       "prompt": "De quem são as orações que terminam no Salmo 72?",
       "answer": "De Davi, filho de Jessé.",
-      "reference": "Sl 72:20"
+      "reference": "Sl 72:20",
+      "wrongs": [
+        "De Salomão, filho de Davi.",
+        "De Moisés, filho de Anrão.",
+        "De Asafe, filho de Baraquias."
+      ]
     },
     {
       "id": "PSA.72.place.1",
@@ -1979,7 +2964,12 @@
       "kind": "place",
       "prompt": "Quais reis levam presentes no Salmo 72?",
       "answer": "Os de Társis, das ilhas, de Sabá e de Seba.",
-      "reference": "Sl 72:10"
+      "reference": "Sl 72:10",
+      "wrongs": [
+        "Os de Egito, de Edom, de Moabe e de Amom.",
+        "Os de Tiro, de Sidom, de Damasco e de Hamate.",
+        "Os de Babilônia, da Assíria, de Elão e de Média."
+      ]
     },
     {
       "id": "PSA.73.subject.1",
@@ -1989,7 +2979,12 @@
       "kind": "subject",
       "prompt": "De quem o salmista teve inveja no Salmo 73?",
       "answer": "Dos arrogantes, porque os maus pareciam ir bem.",
-      "reference": "Sl 73:3"
+      "reference": "Sl 73:3",
+      "wrongs": [
+        "Dos sacerdotes, porque os justos pareciam esquecidos.",
+        "Dos reis, porque os pobres pareciam sem sorte.",
+        "Dos vizinhos, porque os fiéis pareciam doentes."
+      ]
     },
     {
       "id": "PSA.73.curiosity.1",
@@ -1999,7 +2994,12 @@
       "kind": "curiosity",
       "prompt": "O que o salmista entendeu nos santuários de Deus no Salmo 73?",
       "answer": "O fim daquelas pessoas.",
-      "reference": "Sl 73:17"
+      "reference": "Sl 73:17",
+      "wrongs": [
+        "O começo daquelas riquezas.",
+        "O nome daquelas famílias.",
+        "O mapa daquelas cidades."
+      ]
     },
     {
       "id": "PSA.74.subject.1",
@@ -2009,7 +3009,12 @@
       "kind": "subject",
       "prompt": "O que Deus fez com o leviatã no Salmo 74?",
       "answer": "Partiu as cabeças e serviu o corpo a quem vive no deserto.",
-      "reference": "Sl 74:14"
+      "reference": "Sl 74:14",
+      "wrongs": [
+        "Amarrou as caudas e soltou o corpo no mar.",
+        "Contou as escamas e guardou o corpo no templo.",
+        "Cortou as nadadeiras e queimou o corpo no altar."
+      ]
     },
     {
       "id": "PSA.74.place.1",
@@ -2019,7 +3024,12 @@
       "kind": "place",
       "prompt": "Em qual monte Deus morou no Salmo 74?",
       "answer": "No monte Sião.",
-      "reference": "Sl 74:2"
+      "reference": "Sl 74:2",
+      "wrongs": [
+        "No monte Sinai.",
+        "No monte Carmelo.",
+        "No monte Gerizim."
+      ]
     },
     {
       "id": "PSA.74.curiosity.1",
@@ -2029,7 +3039,12 @@
       "kind": "curiosity",
       "prompt": "Com que o inimigo quebrou as obras de entalhe no Salmo 74?",
       "answer": "Com machados e com martelos.",
-      "reference": "Sl 74:6"
+      "reference": "Sl 74:6",
+      "wrongs": [
+        "Com serras e com pregos.",
+        "Com fogo e com cordas.",
+        "Com pedras e com lanças."
+      ]
     },
     {
       "id": "PSA.75.subject.1",
@@ -2039,7 +3054,12 @@
       "kind": "subject",
       "prompt": "O que Deus tem na mão no Salmo 75?",
       "answer": "Um copo de vinho misturado, e os maus bebem até o fundo.",
-      "reference": "Sl 75:8"
+      "reference": "Sl 75:8",
+      "wrongs": [
+        "Um ramo de oliveira, e os justos o guardam no templo.",
+        "Um livro aberto, e os reis o leem até o fim.",
+        "Uma balança de ouro, e os pobres a usam no mercado."
+      ]
     },
     {
       "id": "PSA.75.curiosity.1",
@@ -2049,7 +3069,12 @@
       "kind": "curiosity",
       "prompt": "De onde não vem a exaltação no Salmo 75?",
       "answer": "Nem do leste, nem do oeste, nem do deserto.",
-      "reference": "Sl 75:6"
+      "reference": "Sl 75:6",
+      "wrongs": [
+        "Nem do norte, nem do sul, nem do mar.",
+        "Nem do céu, nem da terra, nem do templo.",
+        "Nem da manhã, nem da tarde, nem da noite."
+      ]
     },
     {
       "id": "PSA.76.subject.1",
@@ -2059,7 +3084,12 @@
       "kind": "subject",
       "prompt": "O que Deus quebrou das armas no Salmo 76?",
       "answer": "Flechas, escudo, espada e a própria guerra.",
-      "reference": "Sl 76:3"
+      "reference": "Sl 76:3",
+      "wrongs": [
+        "Elmos, lanças, carros e a própria muralha.",
+        "Arcos, fundas, redes e a própria caça.",
+        "Portas, torres, pontes e a própria cidade."
+      ]
     },
     {
       "id": "PSA.76.place.1",
@@ -2069,7 +3099,12 @@
       "kind": "place",
       "prompt": "Onde ficam a tenda e a morada de Deus no Salmo 76?",
       "answer": "A tenda em Salém, e a morada em Sião.",
-      "reference": "Sl 76:2"
+      "reference": "Sl 76:2",
+      "wrongs": [
+        "A tenda em Siló, e a morada em Betel.",
+        "A tenda em Hebrom, e a morada no Carmelo.",
+        "A tenda em Ramá, e a morada em Mispa."
+      ]
     },
     {
       "id": "PSA.77.subject.1",
@@ -2079,7 +3114,12 @@
       "kind": "subject",
       "prompt": "Por onde passou o caminho de Deus no Salmo 77?",
       "answer": "Pelo mar, em águas profundas, sem deixar rastro.",
-      "reference": "Sl 77:19"
+      "reference": "Sl 77:19",
+      "wrongs": [
+        "Pelo deserto, em areia quente, sem deixar poço.",
+        "Pelo céu, em nuvens altas, sem deixar sombra.",
+        "Pelo rio, em pedras secas, sem deixar ponte."
+      ]
     },
     {
       "id": "PSA.77.name.1",
@@ -2089,7 +3129,12 @@
       "kind": "name",
       "prompt": "Por quem Deus guiou o povo como rebanho no Salmo 77?",
       "answer": "Por Moisés e por Arão.",
-      "reference": "Sl 77:20"
+      "reference": "Sl 77:20",
+      "wrongs": [
+        "Por Josué e por Calebe.",
+        "Por Davi e por Samuel.",
+        "Por Elias e por Eliseu."
+      ]
     },
     {
       "id": "PSA.78.subject.1",
@@ -2099,7 +3144,12 @@
       "kind": "subject",
       "prompt": "O que o Salmo 78 manda contar à geração seguinte?",
       "answer": "Os louvores, o poder e as maravilhas de Deus.",
-      "reference": "Sl 78:4"
+      "reference": "Sl 78:4",
+      "wrongs": [
+        "Os nomes, as terras e as guerras dos reis.",
+        "Os votos, as festas e as ofertas do templo.",
+        "Os sonhos, os sinais e as visões dos profetas."
+      ]
     },
     {
       "id": "PSA.78.name.1",
@@ -2109,7 +3159,12 @@
       "kind": "name",
       "prompt": "A quem Deus escolheu nos apriscos de ovelhas no Salmo 78?",
       "answer": "Davi, o servo dele.",
-      "reference": "Sl 78:70"
+      "reference": "Sl 78:70",
+      "wrongs": [
+        "Saul, o primeiro rei.",
+        "Moisés, o libertador.",
+        "Arão, o sacerdote."
+      ]
     },
     {
       "id": "PSA.78.place.1",
@@ -2119,7 +3174,12 @@
       "kind": "place",
       "prompt": "Onde Deus fez maravilhas perante os pais no Salmo 78?",
       "answer": "No Egito, no campo de Zoã.",
-      "reference": "Sl 78:12"
+      "reference": "Sl 78:12",
+      "wrongs": [
+        "Em Canaã, no campo de Siquém.",
+        "Em Midiã, no campo de Refidim.",
+        "Em Edom, no campo de Bozra."
+      ]
     },
     {
       "id": "PSA.78.curiosity.1",
@@ -2129,7 +3189,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus fez chover como comida no Salmo 78?",
       "answer": "Maná, que é o trigo vindo do céu.",
-      "reference": "Sl 78:24"
+      "reference": "Sl 78:24",
+      "wrongs": [
+        "Mel, que é o doce vindo da rocha.",
+        "Uvas, que é o vinho vindo das nuvens.",
+        "Azeite, que é o óleo vindo do alto."
+      ]
     },
     {
       "id": "PSA.79.subject.1",
@@ -2139,7 +3204,12 @@
       "kind": "subject",
       "prompt": "O que as nações fizeram em Jerusalém no Salmo 79?",
       "answer": "Invadiram a herança, mancharam o templo e a deixaram em ruínas.",
-      "reference": "Sl 79:1"
+      "reference": "Sl 79:1",
+      "wrongs": [
+        "Reconstruíram a herança, ungiram o templo e a deixaram em festa.",
+        "Compraram a herança, fecharam o templo e a deixaram vazia.",
+        "Contornaram a herança, pintaram o templo e a deixaram de pé."
+      ]
     },
     {
       "id": "PSA.79.curiosity.1",
@@ -2149,7 +3219,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu com os corpos dos servos no Salmo 79?",
       "answer": "Viraram comida de aves e de animais da terra.",
-      "reference": "Sl 79:2"
+      "reference": "Sl 79:2",
+      "wrongs": [
+        "Viraram oferta de pão e de vinho no altar.",
+        "Viraram guarda de portas e de muros.",
+        "Viraram semente de trigo e de cevada."
+      ]
     },
     {
       "id": "PSA.79.curiosity.2",
@@ -2159,7 +3234,12 @@
       "kind": "curiosity",
       "prompt": "Quantas vezes o insulto deve ser pago no Salmo 79?",
       "answer": "Sete vezes, sobre os vizinhos.",
-      "reference": "Sl 79:12"
+      "reference": "Sl 79:12",
+      "wrongs": [
+        "Três vezes, sobre os reis.",
+        "Dez vezes, sobre os filhos.",
+        "Uma vez, sobre o próprio povo."
+      ]
     },
     {
       "id": "PSA.80.subject.1",
@@ -2169,7 +3249,12 @@
       "kind": "subject",
       "prompt": "De onde Deus trouxe a vinha no Salmo 80?",
       "answer": "Do Egito, e a plantou no lugar de outras nações.",
-      "reference": "Sl 80:8"
+      "reference": "Sl 80:8",
+      "wrongs": [
+        "De Canaã, e a plantou no lugar do deserto.",
+        "Da Babilônia, e a plantou no lugar dos rios.",
+        "De Midiã, e a plantou no lugar das tendas."
+      ]
     },
     {
       "id": "PSA.80.place.1",
@@ -2179,7 +3264,12 @@
       "kind": "place",
       "prompt": "Até onde a vinha estendeu os ramos no Salmo 80?",
       "answer": "Até o mar, e os brotos até o rio.",
-      "reference": "Sl 80:11"
+      "reference": "Sl 80:11",
+      "wrongs": [
+        "Até o deserto, e os brotos até o monte.",
+        "Até o norte, e os brotos até o lago.",
+        "Até a cidade, e os brotos até o muro."
+      ]
     },
     {
       "id": "PSA.80.curiosity.1",
@@ -2189,7 +3279,12 @@
       "kind": "curiosity",
       "prompt": "Que animal do campo estragou a vinha no Salmo 80?",
       "answer": "O porco, e as feras a devoraram.",
-      "reference": "Sl 80:13"
+      "reference": "Sl 80:13",
+      "wrongs": [
+        "O leão, e as aves a bicaram.",
+        "O bode, e os corvos a comeram.",
+        "O boi, e os gafanhotos a secaram."
+      ]
     },
     {
       "id": "PSA.81.subject.1",
@@ -2199,7 +3294,12 @@
       "kind": "subject",
       "prompt": "O que Deus fará se Israel abrir a boca no Salmo 81?",
       "answer": "Ele a encherá, pois tirou o povo do Egito.",
-      "reference": "Sl 81:10"
+      "reference": "Sl 81:10",
+      "wrongs": [
+        "Ele a fechará, pois deixou o povo no Egito.",
+        "Ele a medirá, pois levou o povo ao Egito.",
+        "Ele a esvaziará, pois o povo voltou ao Egito."
+      ]
     },
     {
       "id": "PSA.81.place.1",
@@ -2209,7 +3309,12 @@
       "kind": "place",
       "prompt": "Onde Deus provou o povo no Salmo 81?",
       "answer": "Nas águas de Meribá.",
-      "reference": "Sl 81:7"
+      "reference": "Sl 81:7",
+      "wrongs": [
+        "Nas águas de Mara.",
+        "No rio Jordão.",
+        "No poço de Bersebá."
+      ]
     },
     {
       "id": "PSA.81.curiosity.1",
@@ -2219,7 +3324,12 @@
       "kind": "curiosity",
       "prompt": "Com o que Deus promete fartar o povo no Salmo 81?",
       "answer": "Com muito trigo e com mel saído da rocha.",
-      "reference": "Sl 81:16"
+      "reference": "Sl 81:16",
+      "wrongs": [
+        "Com muito peixe e com leite saído do rebanho.",
+        "Com muito azeite e com vinho saído da videira.",
+        "Com muita cevada e com água saída da nuvem."
+      ]
     },
     {
       "id": "PSA.82.subject.1",
@@ -2230,7 +3340,12 @@
       "kind": "subject",
       "prompt": "Que fim Deus anuncia a quem chama de deuses no Salmo 82?",
       "answer": "Morrerão como homens e cairão como os outros chefes.",
-      "reference": "Sl 82:6-7"
+      "reference": "Sl 82:6-7",
+      "wrongs": [
+        "Viverão como anjos e subirão como os astros.",
+        "Reinarão como reis e ficarão como deuses.",
+        "Fugirão como cervos e sumirão como o vento."
+      ]
     },
     {
       "id": "PSA.83.subject.1",
@@ -2240,7 +3355,12 @@
       "kind": "subject",
       "prompt": "O que os inimigos querem fazer com Israel no Salmo 83?",
       "answer": "Destruir o povo até o nome dele ser esquecido.",
-      "reference": "Sl 83:4"
+      "reference": "Sl 83:4",
+      "wrongs": [
+        "Cobrar tributo até o templo ficar rico.",
+        "Mudar a língua até o cântico ser outro.",
+        "Levar o gado até o pasto se esvaziar."
+      ]
     },
     {
       "id": "PSA.83.name.1",
@@ -2250,7 +3370,12 @@
       "kind": "name",
       "prompt": "Quem o Salmo 83 usa como exemplo de derrota?",
       "answer": "Midiã, Sísera e Jabim, no ribeiro de Quisom.",
-      "reference": "Sl 83:9"
+      "reference": "Sl 83:9",
+      "wrongs": [
+        "Faraó, Ogue e Seom, no mar Vermelho.",
+        "Golias, Saul e Absalão, no vale de Elá.",
+        "Edom, Moabe e Amom, no monte Seir."
+      ]
     },
     {
       "id": "PSA.84.subject.1",
@@ -2260,7 +3385,12 @@
       "kind": "subject",
       "prompt": "Que aves acham abrigo perto dos altares no Salmo 84?",
       "answer": "O pardal encontra casa, e a andorinha um ninho.",
-      "reference": "Sl 84:3"
+      "reference": "Sl 84:3",
+      "wrongs": [
+        "A águia encontra penhasco, e o corvo um galho.",
+        "A pomba encontra janela, e a rola um campo.",
+        "A coruja encontra torre, e o morcego um teto."
+      ]
     },
     {
       "id": "PSA.84.place.1",
@@ -2270,7 +3400,12 @@
       "kind": "place",
       "prompt": "Que vale se torna uma fonte no Salmo 84?",
       "answer": "O vale de Baca.",
-      "reference": "Sl 84:6"
+      "reference": "Sl 84:6",
+      "wrongs": [
+        "O vale de Hinom.",
+        "O vale de Sitim.",
+        "O vale de Acor."
+      ]
     },
     {
       "id": "PSA.84.curiosity.1",
@@ -2280,7 +3415,12 @@
       "kind": "curiosity",
       "prompt": "O que é melhor do que mil no Salmo 84?",
       "answer": "Um dia nos pátios de Deus.",
-      "reference": "Sl 84:10"
+      "reference": "Sl 84:10",
+      "wrongs": [
+        "Uma hora nos palácios do rei.",
+        "Uma noite nas tendas do arraial.",
+        "Uma festa nas ruas da cidade."
+      ]
     },
     {
       "id": "PSA.85.subject.1",
@@ -2290,7 +3430,12 @@
       "kind": "subject",
       "prompt": "O que a bondade e a verdade fazem no Salmo 85?",
       "answer": "Elas se encontram, e a justiça beija a paz.",
-      "reference": "Sl 85:10"
+      "reference": "Sl 85:10",
+      "wrongs": [
+        "Elas se separam, e a justiça foge da paz.",
+        "Elas se escondem, e a justiça cobre a paz.",
+        "Elas se calam, e a justiça esquece a paz."
+      ]
     },
     {
       "id": "PSA.86.subject.1",
@@ -2300,7 +3445,12 @@
       "kind": "subject",
       "prompt": "O que o salmista pede que Deus una no Salmo 86?",
       "answer": "O coração dele ao temor do nome de Deus.",
-      "reference": "Sl 86:11"
+      "reference": "Sl 86:11",
+      "wrongs": [
+        "A casa dele ao serviço do templo.",
+        "A boca dele ao canto do coro.",
+        "A mão dele ao arco da guerra."
+      ]
     },
     {
       "id": "PSA.86.curiosity.1",
@@ -2310,7 +3460,12 @@
       "kind": "curiosity",
       "prompt": "Para que o salmista pede um sinal de bondade no Salmo 86?",
       "answer": "Para quem o odeia ver e ficar envergonhado.",
-      "reference": "Sl 86:17"
+      "reference": "Sl 86:17",
+      "wrongs": [
+        "Para quem o ama cantar e ficar alegre.",
+        "Para quem o segue copiar e ficar rico.",
+        "Para quem o julga calar e ficar em paz."
+      ]
     },
     {
       "id": "PSA.87.subject.1",
@@ -2320,7 +3475,12 @@
       "kind": "subject",
       "prompt": "O que se anunciará sobre os nascidos em Sião no Salmo 87?",
       "answer": "Que um e outro nasceram ali, e Deus firma a cidade.",
-      "reference": "Sl 87:5"
+      "reference": "Sl 87:5",
+      "wrongs": [
+        "Que nenhum deles nasceu ali, e Deus muda a cidade.",
+        "Que só o rei nasceu ali, e Deus esconde a cidade.",
+        "Que todos nasceram fora, e Deus deixa a cidade."
+      ]
     },
     {
       "id": "PSA.87.place.1",
@@ -2330,7 +3490,12 @@
       "kind": "place",
       "prompt": "Quais terras o Salmo 87 menciona?",
       "answer": "Raabe, Babilônia, Filístia, Tiro e Cuxe.",
-      "reference": "Sl 87:4"
+      "reference": "Sl 87:4",
+      "wrongs": [
+        "Moabe, Amom, Edom, Sidom e Midiã.",
+        "Assíria, Samaria, Basã, Gileade e Elão.",
+        "Damasco, Hamate, Arã, Nínive e Pérsia."
+      ]
     },
     {
       "id": "PSA.88.subject.1",
@@ -2340,7 +3505,12 @@
       "kind": "subject",
       "prompt": "Onde o salmista foi colocado no Salmo 88?",
       "answer": "Na cova mais funda, em trevas e no abismo.",
-      "reference": "Sl 88:6"
+      "reference": "Sl 88:6",
+      "wrongs": [
+        "Na torre mais alta, em luz e no terraço.",
+        "Na casa mais cheia, em festa e no pátio.",
+        "Na tenda mais nova, em sombra e no acampamento."
+      ]
     },
     {
       "id": "PSA.88.curiosity.1",
@@ -2350,7 +3520,12 @@
       "kind": "curiosity",
       "prompt": "Desde quando o salmista anda perto da morte no Salmo 88?",
       "answer": "Desde a juventude.",
-      "reference": "Sl 88:15"
+      "reference": "Sl 88:15",
+      "wrongs": [
+        "Desde o exílio.",
+        "Desde a velhice.",
+        "Desde ontem."
+      ]
     },
     {
       "id": "PSA.89.subject.1",
@@ -2360,7 +3535,12 @@
       "kind": "subject",
       "prompt": "Que pacto Deus diz ter feito no Salmo 89?",
       "answer": "Um pacto com o escolhido, jurado ao servo Davi.",
-      "reference": "Sl 89:3"
+      "reference": "Sl 89:3",
+      "wrongs": [
+        "Um pacto com o povo, jurado ao servo Moisés.",
+        "Um pacto com os sacerdotes, jurado ao servo Arão.",
+        "Um pacto com as nações, jurado ao servo Abraão."
+      ]
     },
     {
       "id": "PSA.89.place.1",
@@ -2370,7 +3550,12 @@
       "kind": "place",
       "prompt": "Quais montes se alegram no nome de Deus no Salmo 89?",
       "answer": "O Tabor e o Hermon.",
-      "reference": "Sl 89:12"
+      "reference": "Sl 89:12",
+      "wrongs": [
+        "O Sinai e o Carmelo.",
+        "O Sião e o das Oliveiras.",
+        "O Gerizim e o Ebal."
+      ]
     },
     {
       "id": "PSA.89.curiosity.1",
@@ -2380,7 +3565,12 @@
       "kind": "curiosity",
       "prompt": "Com o que Deus ungiu Davi no Salmo 89?",
       "answer": "Com óleo santo.",
-      "reference": "Sl 89:20"
+      "reference": "Sl 89:20",
+      "wrongs": [
+        "Com água do rio.",
+        "Com sangue do altar.",
+        "Com perfume de mirra."
+      ]
     },
     {
       "id": "PSA.90.subject.1",
@@ -2390,7 +3580,12 @@
       "kind": "subject",
       "prompt": "A que mil anos se parecem para Deus no Salmo 90?",
       "answer": "Ao dia de ontem, já ido, e a uma vigília da noite.",
-      "reference": "Sl 90:4"
+      "reference": "Sl 90:4",
+      "wrongs": [
+        "Ao século que vem, ainda longe, e a um reinado inteiro.",
+        "Ao mês que passa, já contado, e a uma festa da lua.",
+        "Ao ano que nasce, ainda novo, e a uma colheita longa."
+      ]
     },
     {
       "id": "PSA.90.name.1",
@@ -2400,7 +3595,12 @@
       "kind": "name",
       "prompt": "Quem orou a Deus no Salmo 90?",
       "answer": "Moisés, homem de Deus.",
-      "reference": "Sl 90:1"
+      "reference": "Sl 90:1",
+      "wrongs": [
+        "Davi, rei de Israel.",
+        "Arão, sacerdote de Deus.",
+        "Samuel, juiz de Israel."
+      ]
     },
     {
       "id": "PSA.90.curiosity.1",
@@ -2410,7 +3610,12 @@
       "kind": "curiosity",
       "prompt": "Até quantos anos pode chegar a vida no Salmo 90?",
       "answer": "Até setenta, e até oitenta para os mais fortes.",
-      "reference": "Sl 90:10"
+      "reference": "Sl 90:10",
+      "wrongs": [
+        "Até cinquenta, e até sessenta para os mais fortes.",
+        "Até cem, e até cento e vinte para os mais fortes.",
+        "Até quarenta, e até cinquenta para os mais fortes."
+      ]
     },
     {
       "id": "PSA.91.subject.1",
@@ -2420,7 +3625,12 @@
       "kind": "subject",
       "prompt": "Onde mora quem se abriga no Altíssimo no Salmo 91?",
       "answer": "À sombra do Todo-Poderoso.",
-      "reference": "Sl 91:1"
+      "reference": "Sl 91:1",
+      "wrongs": [
+        "À sombra do templo.",
+        "À sombra do cedro.",
+        "À sombra da muralha."
+      ]
     },
     {
       "id": "PSA.91.curiosity.1",
@@ -2430,7 +3640,12 @@
       "kind": "curiosity",
       "prompt": "Quantos caem ao lado sem atingir o protegido no Salmo 91?",
       "answer": "Mil ao lado e dez mil à direita.",
-      "reference": "Sl 91:7"
+      "reference": "Sl 91:7",
+      "wrongs": [
+        "Cem ao lado e mil à direita.",
+        "Dez ao lado e cem à direita.",
+        "Dois ao lado e vinte à direita."
+      ]
     },
     {
       "id": "PSA.91.curiosity.2",
@@ -2440,7 +3655,12 @@
       "kind": "curiosity",
       "prompt": "Quais animais o protegido pisa no Salmo 91?",
       "answer": "O leão, a cobra, o filhote do leão e a serpente.",
-      "reference": "Sl 91:13"
+      "reference": "Sl 91:13",
+      "wrongs": [
+        "O urso, o escorpião, o lobo e o javali.",
+        "O touro, o gafanhoto, o corvo e a mosca.",
+        "O cão, a águia, o bode e a rã."
+      ]
     },
     {
       "id": "PSA.92.subject.1",
@@ -2450,7 +3670,12 @@
       "kind": "subject",
       "prompt": "A que árvores o justo se compara no Salmo 92?",
       "answer": "À palmeira e ao cedro do Líbano.",
-      "reference": "Sl 92:12"
+      "reference": "Sl 92:12",
+      "wrongs": [
+        "À oliveira e ao carvalho de Basã.",
+        "À videira e ao sicômoro do vale.",
+        "À figueira e ao salgueiro do rio."
+      ]
     },
     {
       "id": "PSA.92.curiosity.1",
@@ -2460,7 +3685,12 @@
       "kind": "curiosity",
       "prompt": "Para qual dia é o cântico do Salmo 92?",
       "answer": "Para o sábado.",
-      "reference": "Sl 92:1"
+      "reference": "Sl 92:1",
+      "wrongs": [
+        "Para a Páscoa.",
+        "Para a lua nova.",
+        "Para o dia da expiação."
+      ]
     },
     {
       "id": "PSA.92.curiosity.2",
@@ -2470,7 +3700,12 @@
       "kind": "curiosity",
       "prompt": "Até quando o justo continua dando fruto no Salmo 92?",
       "answer": "Até a velhice, ainda forte e verde.",
-      "reference": "Sl 92:14"
+      "reference": "Sl 92:14",
+      "wrongs": [
+        "Até o meio da vida, ainda fraco e seco.",
+        "Até a primeira colheita, ainda baixo e novo.",
+        "Até o ano seguinte, ainda doente e mudo."
+      ]
     },
     {
       "id": "PSA.93.subject.1",
@@ -2480,7 +3715,12 @@
       "kind": "subject",
       "prompt": "De que Deus está vestido no Salmo 93?",
       "answer": "De majestade e de poder.",
-      "reference": "Sl 93:1"
+      "reference": "Sl 93:1",
+      "wrongs": [
+        "De linho e de púrpura.",
+        "De luz e de nuvem.",
+        "De saco e de cinza."
+      ]
     },
     {
       "id": "PSA.93.curiosity.1",
@@ -2490,7 +3730,12 @@
       "kind": "curiosity",
       "prompt": "Quem é mais forte que as ondas do mar no Salmo 93?",
       "answer": "Deus, nas alturas.",
-      "reference": "Sl 93:4"
+      "reference": "Sl 93:4",
+      "wrongs": [
+        "O vento, nas velas.",
+        "O rei, no trono.",
+        "A rocha, na praia."
+      ]
     },
     {
       "id": "PSA.94.subject.1",
@@ -2500,7 +3745,12 @@
       "kind": "subject",
       "prompt": "Por que Deus consegue ouvir e ver no Salmo 94?",
       "answer": "Porque foi ele quem fez o ouvido e o olho.",
-      "reference": "Sl 94:9"
+      "reference": "Sl 94:9",
+      "wrongs": [
+        "Porque ele abre o livro e o selo.",
+        "Porque ele mora no céu e no templo.",
+        "Porque ele conta os astros e os dias."
+      ]
     },
     {
       "id": "PSA.94.curiosity.1",
@@ -2510,7 +3760,12 @@
       "kind": "curiosity",
       "prompt": "De quem os maus tiram a vida no Salmo 94?",
       "answer": "Da viúva, do estrangeiro e dos órfãos.",
-      "reference": "Sl 94:6"
+      "reference": "Sl 94:6",
+      "wrongs": [
+        "Do rei, do sacerdote e dos príncipes.",
+        "Do rico, do mercador e dos juízes.",
+        "Do soldado, do pastor e dos levitas."
+      ]
     },
     {
       "id": "PSA.95.subject.1",
@@ -2520,7 +3775,12 @@
       "kind": "subject",
       "prompt": "O que Deus jurou, irado, no Salmo 95?",
       "answer": "Que aquele povo não entraria no descanso dele.",
-      "reference": "Sl 95:11"
+      "reference": "Sl 95:11",
+      "wrongs": [
+        "Que aquele povo não beberia da rocha.",
+        "Que aquele povo não veria o templo.",
+        "Que aquele povo não teria rei."
+      ]
     },
     {
       "id": "PSA.95.place.1",
@@ -2530,7 +3790,12 @@
       "kind": "place",
       "prompt": "Onde os pais tentaram a Deus no Salmo 95?",
       "answer": "Em Meribá, no deserto.",
-      "reference": "Sl 95:8"
+      "reference": "Sl 95:8",
+      "wrongs": [
+        "Em Mara, no caminho.",
+        "Em Elim, junto às palmeiras.",
+        "Em Sitim, na planície."
+      ]
     },
     {
       "id": "PSA.95.curiosity.1",
@@ -2540,7 +3805,12 @@
       "kind": "curiosity",
       "prompt": "Por quantos anos Deus suportou essa geração no Salmo 95?",
       "answer": "Por quarenta anos.",
-      "reference": "Sl 95:10"
+      "reference": "Sl 95:10",
+      "wrongs": [
+        "Por vinte anos.",
+        "Por sete anos.",
+        "Por um ano."
+      ]
     },
     {
       "id": "PSA.96.subject.1",
@@ -2550,7 +3820,12 @@
       "kind": "subject",
       "prompt": "O que o Salmo 96 diz sobre os deuses dos povos?",
       "answer": "São ídolos, mas foi Deus quem fez os céus.",
-      "reference": "Sl 96:5"
+      "reference": "Sl 96:5",
+      "wrongs": [
+        "São anjos, mas foi um rei quem fez os céus.",
+        "São astros, mas foi o povo quem fez os céus.",
+        "São sombras, mas foi o vento quem fez os céus."
+      ]
     },
     {
       "id": "PSA.96.curiosity.1",
@@ -2560,7 +3835,12 @@
       "kind": "curiosity",
       "prompt": "O que as árvores do bosque devem fazer no Salmo 96?",
       "answer": "Cantar de alegria, junto com o campo.",
-      "reference": "Sl 96:12"
+      "reference": "Sl 96:12",
+      "wrongs": [
+        "Secar de medo, junto com o rio.",
+        "Ficar mudas, junto com o monte.",
+        "Soltar as folhas, junto com a vinha."
+      ]
     },
     {
       "id": "PSA.97.subject.1",
@@ -2570,7 +3850,12 @@
       "kind": "subject",
       "prompt": "O que os montes fazem diante de Deus no Salmo 97?",
       "answer": "Derretem como se fossem cera.",
-      "reference": "Sl 97:5"
+      "reference": "Sl 97:5",
+      "wrongs": [
+        "Crescem como se fossem cedros.",
+        "Ficam firmes como se fossem ferro.",
+        "Saltam como se fossem carneiros."
+      ]
     },
     {
       "id": "PSA.97.place.1",
@@ -2580,7 +3865,12 @@
       "kind": "place",
       "prompt": "Quem se alegrou com os juízos de Deus no Salmo 97?",
       "answer": "Sião e as filhas de Judá.",
-      "reference": "Sl 97:8"
+      "reference": "Sl 97:8",
+      "wrongs": [
+        "Samaria e as filhas de Efraim.",
+        "Hebrom e as filhas de Levi.",
+        "Betel e as filhas de Benjamim."
+      ]
     },
     {
       "id": "PSA.97.curiosity.1",
@@ -2590,7 +3880,12 @@
       "kind": "curiosity",
       "prompt": "O que é semeado para o justo no Salmo 97?",
       "answer": "A luz, e a alegria fica com os retos de coração.",
-      "reference": "Sl 97:11"
+      "reference": "Sl 97:11",
+      "wrongs": [
+        "A chuva, e a fartura fica com os donos de terra.",
+        "A coroa, e a honra fica com os reis.",
+        "A espada, e a vitória fica com os chefes."
+      ]
     },
     {
       "id": "PSA.98.subject.1",
@@ -2600,7 +3895,12 @@
       "kind": "subject",
       "prompt": "O que os rios fazem no louvor do Salmo 98?",
       "answer": "Batem palmas, e os montes se alegram juntos.",
-      "reference": "Sl 98:8"
+      "reference": "Sl 98:8",
+      "wrongs": [
+        "Secam, e os montes se cobrem de cinza.",
+        "Param, e os montes se escondem na névoa.",
+        "Transbordam, e os montes se enchem de neve."
+      ]
     },
     {
       "id": "PSA.98.curiosity.1",
@@ -2610,7 +3910,12 @@
       "kind": "curiosity",
       "prompt": "Que instrumentos soam diante do rei no Salmo 98?",
       "answer": "Trombetas e cornetas.",
-      "reference": "Sl 98:6"
+      "reference": "Sl 98:6",
+      "wrongs": [
+        "Flautas e tamborins.",
+        "Sinos e chocalhos.",
+        "Gaitas e búzios."
+      ]
     },
     {
       "id": "PSA.99.subject.1",
@@ -2620,7 +3925,12 @@
       "kind": "subject",
       "prompt": "Entre quem Deus se senta no Salmo 99?",
       "answer": "Entre os querubins.",
-      "reference": "Sl 99:1"
+      "reference": "Sl 99:1",
+      "wrongs": [
+        "Entre os serafins.",
+        "Entre os anciãos.",
+        "Entre as estrelas."
+      ]
     },
     {
       "id": "PSA.99.name.1",
@@ -2630,7 +3940,12 @@
       "kind": "name",
       "prompt": "Quem clamou a Deus e foi atendido no Salmo 99?",
       "answer": "Moisés, Arão e Samuel.",
-      "reference": "Sl 99:6"
+      "reference": "Sl 99:6",
+      "wrongs": [
+        "Abraão, Isaque e Jacó.",
+        "Davi, Salomão e Josias.",
+        "Elias, Eliseu e Isaías."
+      ]
     },
     {
       "id": "PSA.99.curiosity.1",
@@ -2640,7 +3955,12 @@
       "kind": "curiosity",
       "prompt": "Em que coluna Deus falava no Salmo 99?",
       "answer": "Na coluna da nuvem.",
-      "reference": "Sl 99:7"
+      "reference": "Sl 99:7",
+      "wrongs": [
+        "Na coluna de fogo.",
+        "Na sarça ardente.",
+        "No monte fumegante."
+      ]
     },
     {
       "id": "PSA.100.subject.1",
@@ -2650,7 +3970,12 @@
       "kind": "subject",
       "prompt": "Quem fez o povo e o rebanho do pasto no Salmo 100?",
       "answer": "Foi Deus, e não o próprio povo.",
-      "reference": "Sl 100:3"
+      "reference": "Sl 100:3",
+      "wrongs": [
+        "Foi o povo, e não um rei de fora.",
+        "Foi Moisés, e não o rebanho.",
+        "Foi Davi, e não um pastor."
+      ]
     },
     {
       "id": "PSA.100.curiosity.1",
@@ -2660,7 +3985,12 @@
       "kind": "curiosity",
       "prompt": "Como o Salmo 100 manda entrar nos pátios de Deus?",
       "answer": "Com gratidão nas portas e com canto de louvor.",
-      "reference": "Sl 100:4"
+      "reference": "Sl 100:4",
+      "wrongs": [
+        "Com silêncio nas portas e com oferta sem canto.",
+        "Com pressa nas portas e com trombeta de guerra.",
+        "Com medo nas portas e com véu no rosto."
+      ]
     },
     {
       "id": "PSA.101.subject.1",
@@ -2670,7 +4000,12 @@
       "kind": "subject",
       "prompt": "O que o salmista promete fazer de madrugada no Salmo 101?",
       "answer": "Tirar da cidade de Deus quem pratica o mal.",
-      "reference": "Sl 101:8"
+      "reference": "Sl 101:8",
+      "wrongs": [
+        "Coroar na cidade de Deus quem pratica o bem.",
+        "Esconder na cidade de Deus quem pratica o mal.",
+        "Chamar à cidade de Deus quem pratica a guerra."
+      ]
     },
     {
       "id": "PSA.101.curiosity.1",
@@ -2680,7 +4015,12 @@
       "kind": "curiosity",
       "prompt": "Quem não vai morar na casa do salmista, no Salmo 101?",
       "answer": "Quem pratica engano e quem fala mentira.",
-      "reference": "Sl 101:7"
+      "reference": "Sl 101:7",
+      "wrongs": [
+        "Quem pratica jejum e quem fala pouco.",
+        "Quem pratica ofício e quem fala outra língua.",
+        "Quem pratica justiça e quem fala a verdade."
+      ]
     },
     {
       "id": "PSA.102.subject.1",
@@ -2690,7 +4030,12 @@
       "kind": "subject",
       "prompt": "A que ave o aflito se compara no telhado, no Salmo 102?",
       "answer": "A um pardal sozinho.",
-      "reference": "Sl 102:7"
+      "reference": "Sl 102:7",
+      "wrongs": [
+        "A uma águia sozinha.",
+        "A uma pomba sozinha.",
+        "A um corvo sozinho."
+      ]
     },
     {
       "id": "PSA.102.place.1",
@@ -2700,7 +4045,12 @@
       "kind": "place",
       "prompt": "De qual cidade Deus terá piedade no tempo certo, no Salmo 102?",
       "answer": "De Sião.",
-      "reference": "Sl 102:13"
+      "reference": "Sl 102:13",
+      "wrongs": [
+        "De Samaria.",
+        "De Jericó.",
+        "De Tiro."
+      ]
     },
     {
       "id": "PSA.102.curiosity.1",
@@ -2710,7 +4060,12 @@
       "kind": "curiosity",
       "prompt": "O que o aflito come no lugar do pão, no Salmo 102?",
       "answer": "Cinza, e mistura a bebida com lágrimas.",
-      "reference": "Sl 102:9"
+      "reference": "Sl 102:9",
+      "wrongs": [
+        "Mel, e mistura a bebida com leite.",
+        "Ervas, e mistura a bebida com água.",
+        "Sal, e mistura a bebida com vinagre."
+      ]
     },
     {
       "id": "PSA.102.curiosity.2",
@@ -2721,7 +4076,12 @@
       "kind": "curiosity",
       "prompt": "Como a terra e os céus vão envelhecer, no Salmo 102?",
       "answer": "Como roupa que se gasta e é trocada, mas Deus permanece.",
-      "reference": "Sl 102:25-26"
+      "reference": "Sl 102:25-26",
+      "wrongs": [
+        "Como pedra que se parte e é jogada, mas Deus envelhece.",
+        "Como flor que se abre e é colhida, mas Deus se esconde.",
+        "Como casa que se racha e é vendida, mas Deus se muda."
+      ]
     },
     {
       "id": "PSA.103.subject.1",
@@ -2731,7 +4091,12 @@
       "kind": "subject",
       "prompt": "Quão longe Deus afasta as transgressões, no Salmo 103?",
       "answer": "Tão longe quanto o leste fica do oeste.",
-      "reference": "Sl 103:12"
+      "reference": "Sl 103:12",
+      "wrongs": [
+        "Tão longe quanto o norte fica do sul.",
+        "Tão perto quanto a mão fica do rosto.",
+        "Tão fundo quanto o poço fica da boca."
+      ]
     },
     {
       "id": "PSA.103.name.1",
@@ -2741,7 +4106,12 @@
       "kind": "name",
       "prompt": "A quem Deus fez conhecer os caminhos dele, no Salmo 103?",
       "answer": "A Moisés.",
-      "reference": "Sl 103:7"
+      "reference": "Sl 103:7",
+      "wrongs": [
+        "A Abraão.",
+        "A Davi.",
+        "A Arão."
+      ]
     },
     {
       "id": "PSA.103.curiosity.1",
@@ -2751,7 +4121,12 @@
       "kind": "curiosity",
       "prompt": "Como fica a juventude de quem Deus abençoa, no Salmo 103?",
       "answer": "Ela se renova como a da águia.",
-      "reference": "Sl 103:5"
+      "reference": "Sl 103:5",
+      "wrongs": [
+        "Ela se apaga como a da traça.",
+        "Ela se curva como a do boi.",
+        "Ela se seca como a da folha."
+      ]
     },
     {
       "id": "PSA.103.curiosity.2",
@@ -2761,7 +4136,12 @@
       "kind": "curiosity",
       "prompt": "De que Deus se lembra ao olhar para o ser humano, no Salmo 103?",
       "answer": "De que ele é pó.",
-      "reference": "Sl 103:14"
+      "reference": "Sl 103:14",
+      "wrongs": [
+        "De que ele é ouro.",
+        "De que ele é pedra.",
+        "De que ele é fogo."
+      ]
     },
     {
       "id": "PSA.104.subject.1",
@@ -2771,7 +4151,12 @@
       "kind": "subject",
       "prompt": "Com o que Deus se cobre, no Salmo 104?",
       "answer": "Com luz, como se fosse roupa.",
-      "reference": "Sl 104:2"
+      "reference": "Sl 104:2",
+      "wrongs": [
+        "Com nuvens, como se fosse manto.",
+        "Com trevas, como se fosse véu.",
+        "Com água, como se fosse couraça."
+      ]
     },
     {
       "id": "PSA.104.place.1",
@@ -2781,7 +4166,12 @@
       "kind": "place",
       "prompt": "Onde ficam os cedros que Deus plantou, no Salmo 104?",
       "answer": "No Líbano.",
-      "reference": "Sl 104:16"
+      "reference": "Sl 104:16",
+      "wrongs": [
+        "No Carmelo.",
+        "Em Basã.",
+        "No Hermom."
+      ]
     },
     {
       "id": "PSA.104.curiosity.1",
@@ -2791,7 +4181,12 @@
       "kind": "curiosity",
       "prompt": "O que serve de carruagem para Deus, no Salmo 104?",
       "answer": "As nuvens.",
-      "reference": "Sl 104:3"
+      "reference": "Sl 104:3",
+      "wrongs": [
+        "Os querubins.",
+        "Os cavalos.",
+        "O arco-íris."
+      ]
     },
     {
       "id": "PSA.104.curiosity.2",
@@ -2801,7 +4196,12 @@
       "kind": "curiosity",
       "prompt": "Que ser Deus formou para se alegrar nele, no Salmo 104?",
       "answer": "O Leviatã.",
-      "reference": "Sl 104:26"
+      "reference": "Sl 104:26",
+      "wrongs": [
+        "O Beemote.",
+        "A águia do penhasco.",
+        "O boi selvagem."
+      ]
     },
     {
       "id": "PSA.105.subject.1",
@@ -2811,7 +4211,12 @@
       "kind": "subject",
       "prompt": "Até quando Deus se lembra da palavra da aliança, no Salmo 105?",
       "answer": "Para sempre, ao longo de mil gerações.",
-      "reference": "Sl 105:8"
+      "reference": "Sl 105:8",
+      "wrongs": [
+        "Por um século, ao longo de dez gerações.",
+        "Até o exílio, ao longo de uma geração.",
+        "Por sete anos, ao longo de um reinado."
+      ]
     },
     {
       "id": "PSA.105.name.1",
@@ -2821,7 +4226,12 @@
       "kind": "name",
       "prompt": "Quem foi à frente do povo, vendido como escravo, no Salmo 105?",
       "answer": "José.",
-      "reference": "Sl 105:17"
+      "reference": "Sl 105:17",
+      "wrongs": [
+        "Moisés.",
+        "Jacó.",
+        "Davi."
+      ]
     },
     {
       "id": "PSA.105.place.1",
@@ -2831,7 +4241,12 @@
       "kind": "place",
       "prompt": "Que terra foi prometida como herança, no Salmo 105?",
       "answer": "A terra de Canaã.",
-      "reference": "Sl 105:11"
+      "reference": "Sl 105:11",
+      "wrongs": [
+        "A terra do Egito.",
+        "A terra de Cuxe.",
+        "A terra de Harã."
+      ]
     },
     {
       "id": "PSA.105.curiosity.1",
@@ -2841,7 +4256,12 @@
       "kind": "curiosity",
       "prompt": "O que o povo recebeu quando pediu comida, no Salmo 105?",
       "answer": "Codornizes e pão do céu.",
-      "reference": "Sl 105:40"
+      "reference": "Sl 105:40",
+      "wrongs": [
+        "Peixe e azeite da oliveira.",
+        "Cordeiros e bolo de figo.",
+        "Gafanhotos e mel do campo."
+      ]
     },
     {
       "id": "PSA.106.subject.1",
@@ -2851,7 +4271,12 @@
       "kind": "subject",
       "prompt": "O que o povo confessa junto com os antepassados, no Salmo 106?",
       "answer": "Que pecaram, fizeram o mal e agiram de modo perverso.",
-      "reference": "Sl 106:6"
+      "reference": "Sl 106:6",
+      "wrongs": [
+        "Que acertaram, fizeram o bem e agiram com justiça.",
+        "Que venceram, fizeram a paz e agiram com calma.",
+        "Que calaram, fizeram o voto e agiram sem falta."
+      ]
     },
     {
       "id": "PSA.106.name.1",
@@ -2861,7 +4286,12 @@
       "kind": "name",
       "prompt": "Quem se levantou e fez a praga parar, no Salmo 106?",
       "answer": "Fineias.",
-      "reference": "Sl 106:30"
+      "reference": "Sl 106:30",
+      "wrongs": [
+        "Arão.",
+        "Eleazar.",
+        "Calebe."
+      ]
     },
     {
       "id": "PSA.106.place.1",
@@ -2871,7 +4301,12 @@
       "kind": "place",
       "prompt": "Onde o povo fez um bezerro no Salmo 106?",
       "answer": "Em Horebe.",
-      "reference": "Sl 106:19"
+      "reference": "Sl 106:19",
+      "wrongs": [
+        "Em Betel.",
+        "Em Sitim.",
+        "Em Gilgal."
+      ]
     },
     {
       "id": "PSA.106.curiosity.1",
@@ -2881,7 +4316,12 @@
       "kind": "curiosity",
       "prompt": "O que aconteceu com Datã e com o grupo de Abirão?",
       "answer": "A terra engoliu Datã e cobriu esse grupo.",
-      "reference": "Sl 106:17"
+      "reference": "Sl 106:17",
+      "wrongs": [
+        "O fogo queimou Datã e espalhou esse grupo.",
+        "O mar cobriu Datã e levou esse grupo.",
+        "A praga feriu Datã e isolou esse grupo."
+      ]
     },
     {
       "id": "PSA.107.subject.1",
@@ -2891,7 +4331,12 @@
       "kind": "subject",
       "prompt": "De quais rumos Deus ajuntou os resgatados, no Salmo 107?",
       "answer": "Do leste, do oeste, do norte e do sul.",
-      "reference": "Sl 107:3"
+      "reference": "Sl 107:3",
+      "wrongs": [
+        "Do rio, do mar, do monte e do vale.",
+        "Do Egito, de Edom, de Moabe e de Amom.",
+        "Da cidade, do campo, do porto e do deserto."
+      ]
     },
     {
       "id": "PSA.107.curiosity.1",
@@ -2901,7 +4346,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus quebrou para soltar os presos, no Salmo 107?",
       "answer": "Portas de bronze e trancas de ferro.",
-      "reference": "Sl 107:16"
+      "reference": "Sl 107:16",
+      "wrongs": [
+        "Portas de madeira e trancas de couro.",
+        "Portas de pedra e trancas de bronze.",
+        "Portas de cedro e trancas de ouro."
+      ]
     },
     {
       "id": "PSA.107.curiosity.2",
@@ -2911,7 +4361,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus fez com a tormenta e as ondas, no Salmo 107?",
       "answer": "Fez a tormenta parar, e as ondas se aquietaram.",
-      "reference": "Sl 107:29"
+      "reference": "Sl 107:29",
+      "wrongs": [
+        "Fez a tormenta crescer, e as ondas se levantaram.",
+        "Fez a tormenta virar fogo, e as ondas secaram.",
+        "Fez a tormenta mudar de lado, e as ondas se partiram."
+      ]
     },
     {
       "id": "PSA.108.subject.1",
@@ -2921,7 +4376,12 @@
       "kind": "subject",
       "prompt": "O que Deus diz que lançará sobre Edom?",
       "answer": "O sapato dele.",
-      "reference": "Sl 108:9"
+      "reference": "Sl 108:9",
+      "wrongs": [
+        "A luva dele.",
+        "A coroa dele.",
+        "A flecha dele."
+      ]
     },
     {
       "id": "PSA.108.place.1",
@@ -2931,7 +4391,12 @@
       "kind": "place",
       "prompt": "Quais terras Deus declara como suas, no Salmo 108?",
       "answer": "Gileade, Manassés, Efraim e Judá.",
-      "reference": "Sl 108:8"
+      "reference": "Sl 108:8",
+      "wrongs": [
+        "Dã, Naftali, Aser e Zebulom.",
+        "Rúben, Simeão, Gade e Benjamim.",
+        "Issacar, Levi, Gade e Dã."
+      ]
     },
     {
       "id": "PSA.108.curiosity.1",
@@ -2941,7 +4406,12 @@
       "kind": "curiosity",
       "prompt": "Por que a ajuda na angústia tem de vir de Deus, no Salmo 108?",
       "answer": "Porque o socorro humano não resolve.",
-      "reference": "Sl 108:12"
+      "reference": "Sl 108:12",
+      "wrongs": [
+        "Porque o rei inimigo já pediu paz.",
+        "Porque o exército já cercou a cidade.",
+        "Porque o profeta já marcou o dia."
+      ]
     },
     {
       "id": "PSA.109.subject.1",
@@ -2951,7 +4421,12 @@
       "kind": "subject",
       "prompt": "O que o salmo pede sobre os dias do inimigo, no Salmo 109?",
       "answer": "Que durem pouco e que outro fique com o cargo.",
-      "reference": "Sl 109:8"
+      "reference": "Sl 109:8",
+      "wrongs": [
+        "Que durem muito e que o filho fique com o cargo.",
+        "Que durem cem anos e que ele dobre o cargo.",
+        "Que durem como os justos e que ninguém tome o cargo."
+      ]
     },
     {
       "id": "PSA.109.curiosity.1",
@@ -2961,7 +4436,12 @@
       "kind": "curiosity",
       "prompt": "Como a maldição deve cobrir o inimigo, no Salmo 109?",
       "answer": "Como uma roupa que ele veste.",
-      "reference": "Sl 109:18"
+      "reference": "Sl 109:18",
+      "wrongs": [
+        "Como um óleo que ele recusa.",
+        "Como um pão que ele esconde.",
+        "Como um muro que ele escala."
+      ]
     },
     {
       "id": "PSA.109.curiosity.2",
@@ -2971,7 +4451,12 @@
       "kind": "curiosity",
       "prompt": "Por que os joelhos do salmista estão fracos, no Salmo 109?",
       "answer": "Porque ele jejuou muito.",
-      "reference": "Sl 109:24"
+      "reference": "Sl 109:24",
+      "wrongs": [
+        "Porque ele andou muito.",
+        "Porque ele guerreou muito.",
+        "Porque ele envelheceu muito."
+      ]
     },
     {
       "id": "PSA.110.subject.1",
@@ -2981,7 +4466,12 @@
       "kind": "subject",
       "prompt": "Onde o rei deve sentar até os inimigos virarem estrado, no Salmo 110?",
       "answer": "À direita de Deus.",
-      "reference": "Sl 110:1"
+      "reference": "Sl 110:1",
+      "wrongs": [
+        "À esquerda de Deus.",
+        "Aos pés de Deus.",
+        "Diante do povo."
+      ]
     },
     {
       "id": "PSA.110.name.1",
@@ -2991,7 +4481,12 @@
       "kind": "name",
       "prompt": "Segundo a ordem de quem o rei é sacerdote para sempre, no Salmo 110?",
       "answer": "De Melquisedeque.",
-      "reference": "Sl 110:4"
+      "reference": "Sl 110:4",
+      "wrongs": [
+        "De Arão.",
+        "De Levi.",
+        "De Zadoque."
+      ]
     },
     {
       "id": "PSA.110.place.1",
@@ -3001,7 +4496,12 @@
       "kind": "place",
       "prompt": "De onde sai o cetro do poder do rei, no Salmo 110?",
       "answer": "De Sião.",
-      "reference": "Sl 110:2"
+      "reference": "Sl 110:2",
+      "wrongs": [
+        "De Sinai.",
+        "De Hebrom.",
+        "De Betel."
+      ]
     },
     {
       "id": "PSA.110.curiosity.1",
@@ -3011,7 +4511,12 @@
       "kind": "curiosity",
       "prompt": "O que o rei bebe no caminho, no Salmo 110?",
       "answer": "Água do ribeiro, e depois ergue a cabeça.",
-      "reference": "Sl 110:7"
+      "reference": "Sl 110:7",
+      "wrongs": [
+        "Vinho do cálice, e depois curva a cabeça.",
+        "Mel do favo, e depois cobre a cabeça.",
+        "Leite do odre, e depois abaixa a cabeça."
+      ]
     },
     {
       "id": "PSA.111.subject.1",
@@ -3021,7 +4526,12 @@
       "kind": "subject",
       "prompt": "Qual é o começo da sabedoria no Salmo 111?",
       "answer": "O temor a Deus.",
-      "reference": "Sl 111:10"
+      "reference": "Sl 111:10",
+      "wrongs": [
+        "O estudo das estrelas.",
+        "A riqueza da casa.",
+        "A força do exército."
+      ]
     },
     {
       "id": "PSA.111.curiosity.1",
@@ -3031,7 +4541,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus deu aos que o temem no Salmo 111?",
       "answer": "Alimento.",
-      "reference": "Sl 111:5"
+      "reference": "Sl 111:5",
+      "wrongs": [
+        "Ouro.",
+        "Uma coroa.",
+        "Um exército."
+      ]
     },
     {
       "id": "PSA.111.curiosity.2",
@@ -3041,7 +4556,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus enviou ao povo dele no Salmo 111?",
       "answer": "Um resgate.",
-      "reference": "Sl 111:9"
+      "reference": "Sl 111:9",
+      "wrongs": [
+        "Um rei novo.",
+        "Uma praga.",
+        "Um ídolo."
+      ]
     },
     {
       "id": "PSA.112.subject.1",
@@ -3051,7 +4571,12 @@
       "kind": "subject",
       "prompt": "Quem é feliz por temer a Deus no Salmo 112?",
       "answer": "Quem também tem grande prazer nos mandamentos.",
-      "reference": "Sl 112:1"
+      "reference": "Sl 112:1",
+      "wrongs": [
+        "Quem também tem grande medo dos inimigos.",
+        "Quem também tem grande pressa nos negócios.",
+        "Quem também tem grande voz no coro."
+      ]
     },
     {
       "id": "PSA.112.curiosity.1",
@@ -3061,7 +4586,12 @@
       "kind": "curiosity",
       "prompt": "O que o justo faz pelos necessitados no Salmo 112?",
       "answer": "Reparte os bens e entrega ajuda.",
-      "reference": "Sl 112:9"
+      "reference": "Sl 112:9",
+      "wrongs": [
+        "Esconde os bens e nega ajuda.",
+        "Conta os bens e cobra ajuda.",
+        "Gasta os bens e pede ajuda."
+      ]
     },
     {
       "id": "PSA.112.curiosity.2",
@@ -3071,7 +4601,12 @@
       "kind": "curiosity",
       "prompt": "O que o perverso faz com os dentes ao ver o justo, no Salmo 112?",
       "answer": "Range os dentes e se acaba.",
-      "reference": "Sl 112:10"
+      "reference": "Sl 112:10",
+      "wrongs": [
+        "Mostra os dentes e se alegra.",
+        "Cobre os dentes e se esconde.",
+        "Conta os dentes e se vangloria."
+      ]
     },
     {
       "id": "PSA.113.subject.1",
@@ -3082,7 +4617,12 @@
       "kind": "subject",
       "prompt": "O que Deus faz com o pobre tirado do pó, no Salmo 113?",
       "answer": "Faz ele sentar entre os príncipes.",
-      "reference": "Sl 113:7-8"
+      "reference": "Sl 113:7-8",
+      "wrongs": [
+        "Faz ele voltar para o pó.",
+        "Faz ele servir entre os escravos.",
+        "Faz ele sumir entre a multidão."
+      ]
     },
     {
       "id": "PSA.113.curiosity.1",
@@ -3092,7 +4632,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus faz pela mulher que não tinha filhos no Salmo 113?",
       "answer": "Dá a ela uma família e a alegria de ser mãe.",
-      "reference": "Sl 113:9"
+      "reference": "Sl 113:9",
+      "wrongs": [
+        "Dá a ela um trono e a glória de ser rainha.",
+        "Dá a ela um campo e a fartura de ser dona.",
+        "Dá a ela um voto e a calma de ficar só."
+      ]
     },
     {
       "id": "PSA.113.curiosity.2",
@@ -3102,7 +4647,12 @@
       "kind": "curiosity",
       "prompt": "De onde até onde o nome de Deus deve ser louvado, no Salmo 113?",
       "answer": "Do nascer do sol até o pôr do sol.",
-      "reference": "Sl 113:3"
+      "reference": "Sl 113:3",
+      "wrongs": [
+        "Do norte até o sul.",
+        "Da lua nova até a lua cheia.",
+        "Da Páscoa até a colheita."
+      ]
     },
     {
       "id": "PSA.114.subject.1",
@@ -3112,7 +4662,12 @@
       "kind": "subject",
       "prompt": "O que fizeram o mar e o Jordão?",
       "answer": "O mar fugiu, e o Jordão voltou atrás.",
-      "reference": "Sl 114:3"
+      "reference": "Sl 114:3",
+      "wrongs": [
+        "O mar avançou, e o Jordão seguiu em frente.",
+        "O mar ficou manso, e o Jordão subiu o monte.",
+        "O mar virou gelo, e o Jordão parou na fonte."
+      ]
     },
     {
       "id": "PSA.114.place.1",
@@ -3122,7 +4677,12 @@
       "kind": "place",
       "prompt": "De onde Israel saiu?",
       "answer": "Do Egito.",
-      "reference": "Sl 114:1"
+      "reference": "Sl 114:1",
+      "wrongs": [
+        "Da Babilônia.",
+        "De Canaã.",
+        "De Harã."
+      ]
     },
     {
       "id": "PSA.114.curiosity.1",
@@ -3132,7 +4692,12 @@
       "kind": "curiosity",
       "prompt": "Como os montes e os morros se moveram, no Salmo 114?",
       "answer": "Saltaram como carneiros e como cordeiros.",
-      "reference": "Sl 114:4"
+      "reference": "Sl 114:4",
+      "wrongs": [
+        "Derreteram como cera e como gelo.",
+        "Ficaram firmes como ferro e como rocha.",
+        "Andaram como bois e como jumentos."
+      ]
     },
     {
       "id": "PSA.114.curiosity.2",
@@ -3142,7 +4707,12 @@
       "kind": "curiosity",
       "prompt": "Em que a rocha foi transformada no Salmo 114?",
       "answer": "Em um lago de água.",
-      "reference": "Sl 114:8"
+      "reference": "Sl 114:8",
+      "wrongs": [
+        "Em um monte de areia.",
+        "Em uma pilha de pedra.",
+        "Em uma brasa de altar."
+      ]
     },
     {
       "id": "PSA.115.subject.1",
@@ -3152,7 +4722,12 @@
       "kind": "subject",
       "prompt": "A quem se deve dar a glória no Salmo 115?",
       "answer": "Ao nome de Deus, não ao povo.",
-      "reference": "Sl 115:1"
+      "reference": "Sl 115:1",
+      "wrongs": [
+        "Ao povo de Israel, não a Deus.",
+        "Ao rei da terra, não ao céu.",
+        "Ao sacerdote, não ao altar."
+      ]
     },
     {
       "id": "PSA.115.curiosity.1",
@@ -3162,7 +4737,12 @@
       "kind": "curiosity",
       "prompt": "O que os ídolos têm, mas não conseguem usar, no Salmo 115?",
       "answer": "Boca que não fala e olhos que não veem.",
-      "reference": "Sl 115:5"
+      "reference": "Sl 115:5",
+      "wrongs": [
+        "Asas que não voam e coroa que não brilha.",
+        "Livros que não abrem e harpas que não tocam.",
+        "Campos que não colhem e casas que não aquecem."
+      ]
     },
     {
       "id": "PSA.115.curiosity.2",
@@ -3172,7 +4752,12 @@
       "kind": "curiosity",
       "prompt": "Quem não louva a Deus no Salmo 115?",
       "answer": "Os mortos e quem desce ao silêncio.",
-      "reference": "Sl 115:17"
+      "reference": "Sl 115:17",
+      "wrongs": [
+        "Os vivos e quem sobe ao templo.",
+        "Os anjos e quem fica no céu.",
+        "Os justos e quem canta de manhã."
+      ]
     },
     {
       "id": "PSA.116.subject.1",
@@ -3182,7 +4767,12 @@
       "kind": "subject",
       "prompt": "Como Deus vê a morte dos fiéis dele, no Salmo 116?",
       "answer": "Ele a considera preciosa.",
-      "reference": "Sl 116:15"
+      "reference": "Sl 116:15",
+      "wrongs": [
+        "Ele a considera comum.",
+        "Ele a considera esquecida.",
+        "Ele a considera leve."
+      ]
     },
     {
       "id": "PSA.116.place.1",
@@ -3192,7 +4782,12 @@
       "kind": "place",
       "prompt": "Em que cidade ficam os pátios da casa de Deus, no Salmo 116?",
       "answer": "Em Jerusalém.",
-      "reference": "Sl 116:19"
+      "reference": "Sl 116:19",
+      "wrongs": [
+        "Em Samaria.",
+        "Em Hebrom.",
+        "Em Siló."
+      ]
     },
     {
       "id": "PSA.116.curiosity.1",
@@ -3202,7 +4797,12 @@
       "kind": "curiosity",
       "prompt": "Que copo o salmista diz que vai tomar, no Salmo 116?",
       "answer": "O copo da salvação.",
-      "reference": "Sl 116:13"
+      "reference": "Sl 116:13",
+      "wrongs": [
+        "O copo do juízo.",
+        "O copo do luto.",
+        "O copo do rei."
+      ]
     },
     {
       "id": "PSA.117.subject.1",
@@ -3212,7 +4812,12 @@
       "kind": "subject",
       "prompt": "Que grupos são chamados a louvar a Deus, no Salmo 117?",
       "answer": "Todas as nações e todos os povos.",
-      "reference": "Sl 117:1"
+      "reference": "Sl 117:1",
+      "wrongs": [
+        "Só Israel e só Judá.",
+        "Só os sacerdotes e só os levitas.",
+        "Só os reis e só os príncipes."
+      ]
     },
     {
       "id": "PSA.117.curiosity.1",
@@ -3222,7 +4827,12 @@
       "kind": "curiosity",
       "prompt": "Por que as nações devem louvar a Deus no Salmo 117?",
       "answer": "Porque a bondade dele venceu e a fidelidade não acaba.",
-      "reference": "Sl 117:2"
+      "reference": "Sl 117:2",
+      "wrongs": [
+        "Porque a guerra dele venceu e a riqueza não acaba.",
+        "Porque o templo dele ficou pronto e o incenso não acaba.",
+        "Porque o rei dele nasceu e a festa não acaba."
+      ]
     },
     {
       "id": "PSA.118.subject.1",
@@ -3232,7 +4842,12 @@
       "kind": "subject",
       "prompt": "Que fim teve a pedra recusada na construção, no Salmo 118?",
       "answer": "Virou a pedra principal da esquina.",
-      "reference": "Sl 118:22"
+      "reference": "Sl 118:22",
+      "wrongs": [
+        "Virou entulho fora do muro.",
+        "Virou calço da janela.",
+        "Virou pó debaixo dos pés."
+      ]
     },
     {
       "id": "PSA.118.curiosity.1",
@@ -3242,7 +4857,12 @@
       "kind": "curiosity",
       "prompt": "A que o salmista compara o povo que o cercou, no Salmo 118?",
       "answer": "A abelhas que se apagam como fogo em espinhos.",
-      "reference": "Sl 118:12"
+      "reference": "Sl 118:12",
+      "wrongs": [
+        "A gafanhotos que se espalham como poeira no campo.",
+        "A lobos que se cansam como caça no mato.",
+        "A cavalos que se perdem como folha no vento."
+      ]
     },
     {
       "id": "PSA.118.curiosity.2",
@@ -3252,7 +4872,12 @@
       "kind": "curiosity",
       "prompt": "O que o salmista fará em vez de morrer, no Salmo 118?",
       "answer": "Vai viver e contar as obras de Deus.",
-      "reference": "Sl 118:17"
+      "reference": "Sl 118:17",
+      "wrongs": [
+        "Vai calar e esconder as obras de Deus.",
+        "Vai fugir e esquecer as obras de Deus.",
+        "Vai dormir e adiar as obras de Deus."
+      ]
     },
     {
       "id": "PSA.118.curiosity.3",
@@ -3262,7 +4887,12 @@
       "kind": "curiosity",
       "prompt": "Para onde levam os sacrifícios da festa, no Salmo 118?",
       "answer": "Aos chifres do altar.",
-      "reference": "Sl 118:27"
+      "reference": "Sl 118:27",
+      "wrongs": [
+        "Às portas do templo.",
+        "Às mãos do rei.",
+        "Às águas do tanque."
+      ]
     },
     {
       "id": "PSA.119.subject.1",
@@ -3272,7 +4902,12 @@
       "kind": "subject",
       "prompt": "O que a palavra de Deus é para quem anda, no Salmo 119?",
       "answer": "Luz no caminho e lamparina para os pés.",
-      "reference": "Sl 119:105"
+      "reference": "Sl 119:105",
+      "wrongs": [
+        "Pão no caminho e água para os pés.",
+        "Muro no caminho e porta para os pés.",
+        "Mapa no caminho e ponte para os pés."
+      ]
     },
     {
       "id": "PSA.119.curiosity.1",
@@ -3282,7 +4917,12 @@
       "kind": "curiosity",
       "prompt": "As palavras de Deus são mais doces do que o quê, no Salmo 119?",
       "answer": "Do que o mel na boca.",
-      "reference": "Sl 119:103"
+      "reference": "Sl 119:103",
+      "wrongs": [
+        "Do que o vinho na taça.",
+        "Do que o leite no copo.",
+        "Do que o figo na mão."
+      ]
     },
     {
       "id": "PSA.119.curiosity.2",
@@ -3292,7 +4932,12 @@
       "kind": "curiosity",
       "prompt": "Quantas vezes ao dia o salmista louva a Deus, no Salmo 119?",
       "answer": "Sete vezes.",
-      "reference": "Sl 119:164"
+      "reference": "Sl 119:164",
+      "wrongs": [
+        "Três vezes.",
+        "Duas vezes.",
+        "Doze vezes."
+      ]
     },
     {
       "id": "PSA.120.subject.1",
@@ -3303,7 +4948,12 @@
       "kind": "subject",
       "prompt": "O que a língua enganadora vai receber, no Salmo 120?",
       "answer": "Flechas de guerreiro e brasas de zimbro.",
-      "reference": "Sl 120:3-4"
+      "reference": "Sl 120:3-4",
+      "wrongs": [
+        "Flores do campo e brasas de palha.",
+        "Pedras do rio e brasas de carvalho.",
+        "Cordas de arco e brasas de espinheiro."
+      ]
     },
     {
       "id": "PSA.120.place.1",
@@ -3313,7 +4963,12 @@
       "kind": "place",
       "prompt": "Onde o salmista diz que peregrina e mora, no Salmo 120?",
       "answer": "Em Meseque e nas tendas de Quedar.",
-      "reference": "Sl 120:5"
+      "reference": "Sl 120:5",
+      "wrongs": [
+        "Em Basã e nas tendas de Moabe.",
+        "Em Gileade e nas tendas de Edom.",
+        "Em Naftali e nas tendas de Midiã."
+      ]
     },
     {
       "id": "PSA.120.curiosity.1",
@@ -3323,7 +4978,12 @@
       "kind": "curiosity",
       "prompt": "O que os outros fazem quando o homem de paz fala, no Salmo 120?",
       "answer": "Partem para a guerra.",
-      "reference": "Sl 120:7"
+      "reference": "Sl 120:7",
+      "wrongs": [
+        "Partem para a festa.",
+        "Partem para o templo.",
+        "Partem para o silêncio."
+      ]
     },
     {
       "id": "PSA.121.subject.1",
@@ -3333,7 +4993,12 @@
       "kind": "subject",
       "prompt": "O que o guardião de Israel não faz?",
       "answer": "Não cochila e não dorme.",
-      "reference": "Sl 121:4"
+      "reference": "Sl 121:4",
+      "wrongs": [
+        "Não come e não bebe.",
+        "Não anda e não fala.",
+        "Não julga e não perdoa."
+      ]
     },
     {
       "id": "PSA.121.curiosity.1",
@@ -3343,7 +5008,12 @@
       "kind": "curiosity",
       "prompt": "O que não fere quem Deus guarda, nem de dia nem de noite, no Salmo 121?",
       "answer": "Nem o sol nem a lua.",
-      "reference": "Sl 121:6"
+      "reference": "Sl 121:6",
+      "wrongs": [
+        "Nem a chuva nem o vento.",
+        "Nem a espada nem a flecha.",
+        "Nem a fome nem a peste."
+      ]
     },
     {
       "id": "PSA.121.curiosity.2",
@@ -3353,7 +5023,12 @@
       "kind": "curiosity",
       "prompt": "Até quando Deus guarda a saída e a entrada, no Salmo 121?",
       "answer": "De agora em diante, para sempre.",
-      "reference": "Sl 121:8"
+      "reference": "Sl 121:8",
+      "wrongs": [
+        "Só até o anoitecer.",
+        "Só durante a viagem.",
+        "Só enquanto o sol fica alto."
+      ]
     },
     {
       "id": "PSA.122.subject.1",
@@ -3363,7 +5038,12 @@
       "kind": "subject",
       "prompt": "O que se deve pedir para Jerusalém?",
       "answer": "Paz, e bem para quem a ama.",
-      "reference": "Sl 122:6"
+      "reference": "Sl 122:6",
+      "wrongs": [
+        "Muro alto, e ouro para quem a conquista.",
+        "Chuva, e trigo para quem a habita.",
+        "Silêncio, e medo para quem a visita."
+      ]
     },
     {
       "id": "PSA.122.name.1",
@@ -3373,7 +5053,12 @@
       "kind": "name",
       "prompt": "De quem é a casa com cadeiras de julgamento, no Salmo 122?",
       "answer": "De Davi.",
-      "reference": "Sl 122:5"
+      "reference": "Sl 122:5",
+      "wrongs": [
+        "De Salomão.",
+        "De Saul.",
+        "De Moisés."
+      ]
     },
     {
       "id": "PSA.122.place.1",
@@ -3383,7 +5068,12 @@
       "kind": "place",
       "prompt": "Dentro de que cidade os peregrinos já estão, no Salmo 122?",
       "answer": "Dentro das portas de Jerusalém.",
-      "reference": "Sl 122:2"
+      "reference": "Sl 122:2",
+      "wrongs": [
+        "Dentro das portas de Samaria.",
+        "Dentro das portas de Jericó.",
+        "Dentro das portas de Hebrom."
+      ]
     },
     {
       "id": "PSA.123.subject.1",
@@ -3393,7 +5083,12 @@
       "kind": "subject",
       "prompt": "Para onde olham os servos enquanto esperam, no Salmo 123?",
       "answer": "Para a mão de quem manda neles.",
-      "reference": "Sl 123:2"
+      "reference": "Sl 123:2",
+      "wrongs": [
+        "Para o rosto de quem os julga.",
+        "Para os pés de quem os segue.",
+        "Para a casa de quem os paga."
+      ]
     },
     {
       "id": "PSA.123.curiosity.1",
@@ -3403,7 +5098,12 @@
       "kind": "curiosity",
       "prompt": "De que a alma do povo está cheia no Salmo 123?",
       "answer": "De deboche dos atrevidos e de humilhação.",
-      "reference": "Sl 123:4"
+      "reference": "Sl 123:4",
+      "wrongs": [
+        "De canto dos peregrinos e de alegria.",
+        "De pão dos vizinhos e de fartura.",
+        "De medo dos reis e de fuga."
+      ]
     },
     {
       "id": "PSA.124.subject.1",
@@ -3413,7 +5113,12 @@
       "kind": "subject",
       "prompt": "Como a alma escapou dos caçadores, no Salmo 124?",
       "answer": "Como um pássaro, quando a armadilha se rompeu.",
-      "reference": "Sl 124:7"
+      "reference": "Sl 124:7",
+      "wrongs": [
+        "Como um peixe, quando a rede se abriu.",
+        "Como um cervo, quando o laço se apertou.",
+        "Como uma ovelha, quando o curral se fechou."
+      ]
     },
     {
       "id": "PSA.124.curiosity.1",
@@ -3423,7 +5128,12 @@
       "kind": "curiosity",
       "prompt": "O que os inimigos furiosos teriam feito, no Salmo 124?",
       "answer": "Teriam devorado o povo ainda com vida.",
-      "reference": "Sl 124:3"
+      "reference": "Sl 124:3",
+      "wrongs": [
+        "Teriam vendido o povo ainda em festa.",
+        "Teriam coroado o povo ainda em silêncio.",
+        "Teriam contado o povo ainda na porta."
+      ]
     },
     {
       "id": "PSA.124.curiosity.2",
@@ -3433,7 +5143,12 @@
       "kind": "curiosity",
       "prompt": "Como Deus não entregou o povo no Salmo 124?",
       "answer": "Não o deixou virar presa entre os dentes.",
-      "reference": "Sl 124:6"
+      "reference": "Sl 124:6",
+      "wrongs": [
+        "Não o deixou virar cinza entre as brasas.",
+        "Não o deixou virar pó entre as pedras.",
+        "Não o deixou virar água entre as ondas."
+      ]
     },
     {
       "id": "PSA.125.subject.1",
@@ -3443,7 +5158,12 @@
       "kind": "subject",
       "prompt": "A que se parecem os que confiam em Deus, no Salmo 125?",
       "answer": "Ao monte Sião, que permanece firme.",
-      "reference": "Sl 125:1"
+      "reference": "Sl 125:1",
+      "wrongs": [
+        "Ao monte Sinai, que fumega.",
+        "Ao rio Jordão, que desce.",
+        "À cidade de Jericó, que caiu."
+      ]
     },
     {
       "id": "PSA.125.place.1",
@@ -3453,7 +5173,12 @@
       "kind": "place",
       "prompt": "O que cerca Jerusalém e, de modo parecido, o povo?",
       "answer": "Montanhas cercam a cidade, e Deus cerca o povo.",
-      "reference": "Sl 125:2"
+      "reference": "Sl 125:2",
+      "wrongs": [
+        "Rios cercam a cidade, e o rei cerca o povo.",
+        "Muros cercam a cidade, e o exército cerca o povo.",
+        "Desertos cercam a cidade, e a nuvem cerca o povo."
+      ]
     },
     {
       "id": "PSA.125.curiosity.1",
@@ -3463,7 +5188,12 @@
       "kind": "curiosity",
       "prompt": "O que não vai pousar sobre a herança dos justos, no Salmo 125?",
       "answer": "O cetro da maldade.",
-      "reference": "Sl 125:3"
+      "reference": "Sl 125:3",
+      "wrongs": [
+        "O orvalho da manhã.",
+        "A nuvem da tarde.",
+        "O ramo da oliveira."
+      ]
     },
     {
       "id": "PSA.126.subject.1",
@@ -3473,7 +5203,12 @@
       "kind": "subject",
       "prompt": "Como o povo se sentiu quando Deus restaurou Sião?",
       "answer": "Como quem está sonhando.",
-      "reference": "Sl 126:1"
+      "reference": "Sl 126:1",
+      "wrongs": [
+        "Como quem está em guerra.",
+        "Como quem está perdido.",
+        "Como quem está doente."
+      ]
     },
     {
       "id": "PSA.126.curiosity.1",
@@ -3483,7 +5218,12 @@
       "kind": "curiosity",
       "prompt": "A que águas o salmo compara a nova restauração, no Salmo 126?",
       "answer": "Aos córregos que correm no sul.",
-      "reference": "Sl 126:4"
+      "reference": "Sl 126:4",
+      "wrongs": [
+        "Aos rios que nascem no norte.",
+        "Aos poços que secam no leste.",
+        "Às chuvas que caem no mar."
+      ]
     },
     {
       "id": "PSA.126.curiosity.2",
@@ -3493,7 +5233,12 @@
       "kind": "curiosity",
       "prompt": "O que espera quem semeia chorando, no Salmo 126?",
       "answer": "Uma colheita alegre.",
-      "reference": "Sl 126:5"
+      "reference": "Sl 126:5",
+      "wrongs": [
+        "Uma seca longa.",
+        "Uma dívida maior.",
+        "Uma semente perdida."
+      ]
     },
     {
       "id": "PSA.127.subject.1",
@@ -3503,7 +5248,12 @@
       "kind": "subject",
       "prompt": "O que é inútil sem Deus na casa e na cidade, no Salmo 127?",
       "answer": "Construir sem ele, e o guarda vigiar sozinho.",
-      "reference": "Sl 127:1"
+      "reference": "Sl 127:1",
+      "wrongs": [
+        "Jejuar sem ele, e o sacerdote orar sozinho.",
+        "Plantar sem ele, e o boi arar sozinho.",
+        "Cantar sem ele, e o coro ensaiar sozinho."
+      ]
     },
     {
       "id": "PSA.127.curiosity.1",
@@ -3513,7 +5263,12 @@
       "kind": "curiosity",
       "prompt": "Quem dá os filhos como presente, no Salmo 127?",
       "answer": "Deus.",
-      "reference": "Sl 127:3"
+      "reference": "Sl 127:3",
+      "wrongs": [
+        "O rei.",
+        "O pai.",
+        "A terra."
+      ]
     },
     {
       "id": "PSA.127.curiosity.2",
@@ -3523,7 +5278,12 @@
       "kind": "curiosity",
       "prompt": "A que se comparam os filhos jovens, no Salmo 127?",
       "answer": "A flechas na mão de um guerreiro.",
-      "reference": "Sl 127:4"
+      "reference": "Sl 127:4",
+      "wrongs": [
+        "A uvas no cacho de uma videira.",
+        "A pedras no muro de uma torre.",
+        "A ovelhas no cajado de um pastor."
+      ]
     },
     {
       "id": "PSA.128.subject.1",
@@ -3533,7 +5293,12 @@
       "kind": "subject",
       "prompt": "A que se comparam a mulher e os filhos em casa, no Salmo 128?",
       "answer": "A mulher a uma videira fértil, e os filhos a brotos de oliveira.",
-      "reference": "Sl 128:3"
+      "reference": "Sl 128:3",
+      "wrongs": [
+        "A mulher a uma palmeira alta, e os filhos a ramos de cedro.",
+        "A mulher a uma fonte quieta, e os filhos a peixes do rio.",
+        "A mulher a uma lâmpada acesa, e os filhos a faíscas da lareira."
+      ]
     },
     {
       "id": "PSA.128.place.1",
@@ -3543,7 +5308,12 @@
       "kind": "place",
       "prompt": "De onde Deus abençoa, e o bem de qual cidade se verá, no Salmo 128?",
       "answer": "Desde Sião, e se verá o bem de Jerusalém.",
-      "reference": "Sl 128:5"
+      "reference": "Sl 128:5",
+      "wrongs": [
+        "Desde o Sinai, e se verá o bem de Hebrom.",
+        "Desde o Carmelo, e se verá o bem de Jericó.",
+        "Desde Betel, e se verá o bem de Samaria."
+      ]
     },
     {
       "id": "PSA.128.curiosity.1",
@@ -3553,7 +5323,12 @@
       "kind": "curiosity",
       "prompt": "Quem ainda será visto, junto com a paz sobre Israel?",
       "answer": "Os filhos dos filhos.",
-      "reference": "Sl 128:6"
+      "reference": "Sl 128:6",
+      "wrongs": [
+        "Os reis das nações.",
+        "Os sacerdotes do templo.",
+        "Os servos da casa."
+      ]
     },
     {
       "id": "PSA.129.subject.1",
@@ -3563,7 +5338,12 @@
       "kind": "subject",
       "prompt": "O que os lavradores fizeram nas costas de Israel?",
       "answer": "Passaram o arado e deixaram sulcos longos.",
-      "reference": "Sl 129:3"
+      "reference": "Sl 129:3",
+      "wrongs": [
+        "Passaram a foice e deixaram feixes altos.",
+        "Passaram a mão e deixaram curativos.",
+        "Passaram o fogo e deixaram cinza fina."
+      ]
     },
     {
       "id": "PSA.129.place.1",
@@ -3573,7 +5353,12 @@
       "kind": "place",
       "prompt": "O que se pede contra quem odeia Sião?",
       "answer": "Que tenha vergonha e recue.",
-      "reference": "Sl 129:5"
+      "reference": "Sl 129:5",
+      "wrongs": [
+        "Que tenha festa e avance.",
+        "Que tenha coroa e fique.",
+        "Que tenha colheita e cante."
+      ]
     },
     {
       "id": "PSA.129.curiosity.1",
@@ -3583,7 +5368,12 @@
       "kind": "curiosity",
       "prompt": "A que erva do telhado os inimigos se parecem no Salmo 129?",
       "answer": "À que seca antes mesmo de crescer.",
-      "reference": "Sl 129:6"
+      "reference": "Sl 129:6",
+      "wrongs": [
+        "À que nasce no vale e dura o verão.",
+        "À que cobre o campo e vira feno.",
+        "À que fica no rio e não seca."
+      ]
     },
     {
       "id": "PSA.130.subject.1",
@@ -3593,7 +5383,12 @@
       "kind": "subject",
       "prompt": "De onde o salmista clama a Deus no Salmo 130?",
       "answer": "Das profundezas.",
-      "reference": "Sl 130:1"
+      "reference": "Sl 130:1",
+      "wrongs": [
+        "Do alto do monte.",
+        "Do pátio do templo.",
+        "Da porta da cidade."
+      ]
     },
     {
       "id": "PSA.130.curiosity.1",
@@ -3603,7 +5398,12 @@
       "kind": "curiosity",
       "prompt": "O que há em Deus para que ele seja temido, no Salmo 130?",
       "answer": "O perdão.",
-      "reference": "Sl 130:4"
+      "reference": "Sl 130:4",
+      "wrongs": [
+        "O castigo.",
+        "O silêncio.",
+        "A pressa."
+      ]
     },
     {
       "id": "PSA.130.curiosity.2",
@@ -3613,7 +5413,12 @@
       "kind": "curiosity",
       "prompt": "A espera do salmista é maior do que a de quem, no Salmo 130?",
       "answer": "Maior que a dos guardas pelo amanhecer.",
-      "reference": "Sl 130:6"
+      "reference": "Sl 130:6",
+      "wrongs": [
+        "Maior que a dos lavradores pela chuva.",
+        "Maior que a dos reis pela coroa.",
+        "Maior que a dos peregrinos pela festa."
+      ]
     },
     {
       "id": "PSA.131.subject.1",
@@ -3623,7 +5428,12 @@
       "kind": "subject",
       "prompt": "A que o salmista compara a alma que acalmou, no Salmo 131?",
       "answer": "A uma criança quieta junto da mãe.",
-      "reference": "Sl 131:2"
+      "reference": "Sl 131:2",
+      "wrongs": [
+        "A um soldado firme junto do escudo.",
+        "A um juiz calmo junto da porta.",
+        "A um pastor atento junto do rebanho."
+      ]
     },
     {
       "id": "PSA.131.curiosity.1",
@@ -3633,7 +5443,12 @@
       "kind": "curiosity",
       "prompt": "O que o salmista diz que o coração não fez no Salmo 131?",
       "answer": "Não se exaltou nem andou em grandezas.",
-      "reference": "Sl 131:1"
+      "reference": "Sl 131:1",
+      "wrongs": [
+        "Não se quebrou nem andou em quedas.",
+        "Não se escondeu nem andou em segredos.",
+        "Não se cansou nem andou em círculos."
+      ]
     },
     {
       "id": "PSA.132.subject.1",
@@ -3643,7 +5458,12 @@
       "kind": "subject",
       "prompt": "O que Deus jurou a Davi sobre o trono?",
       "answer": "Que um descendente dele se sentaria ali.",
-      "reference": "Sl 132:11"
+      "reference": "Sl 132:11",
+      "wrongs": [
+        "Que um sacerdote de Siló se sentaria ali.",
+        "Que um anjo do céu se sentaria ali.",
+        "Que um rei de Edom se sentaria ali."
+      ]
     },
     {
       "id": "PSA.132.place.1",
@@ -3653,7 +5473,12 @@
       "kind": "place",
       "prompt": "Que lugar Deus escolheu para morar no Salmo 132?",
       "answer": "Sião.",
-      "reference": "Sl 132:13"
+      "reference": "Sl 132:13",
+      "wrongs": [
+        "Betel.",
+        "Siló.",
+        "Hebrom."
+      ]
     },
     {
       "id": "PSA.132.curiosity.1",
@@ -3663,7 +5488,12 @@
       "kind": "curiosity",
       "prompt": "O que Davi recusou dar aos próprios olhos?",
       "answer": "Sono e qualquer cochilo.",
-      "reference": "Sl 132:4"
+      "reference": "Sl 132:4",
+      "wrongs": [
+        "Pão e qualquer banquete.",
+        "Ouro e qualquer presente.",
+        "Canto e qualquer festa."
+      ]
     },
     {
       "id": "PSA.132.curiosity.2",
@@ -3673,7 +5503,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus preparou para o ungido dele, no Salmo 132?",
       "answer": "Uma lâmpada.",
-      "reference": "Sl 132:17"
+      "reference": "Sl 132:17",
+      "wrongs": [
+        "Uma espada.",
+        "Uma coroa.",
+        "Um escudo."
+      ]
     },
     {
       "id": "PSA.133.subject.1",
@@ -3683,7 +5518,12 @@
       "kind": "subject",
       "prompt": "O que é bom e agradável entre irmãos, no Salmo 133?",
       "answer": "Viverem unidos.",
-      "reference": "Sl 133:1"
+      "reference": "Sl 133:1",
+      "wrongs": [
+        "Viverem ricos.",
+        "Viverem famosos.",
+        "Viverem sozinhos."
+      ]
     },
     {
       "id": "PSA.133.name.1",
@@ -3693,7 +5533,12 @@
       "kind": "name",
       "prompt": "Pela barba de quem desce o óleo precioso, no Salmo 133?",
       "answer": "Pela barba de Arão.",
-      "reference": "Sl 133:2"
+      "reference": "Sl 133:2",
+      "wrongs": [
+        "Pela barba de Moisés.",
+        "Pela barba de Davi.",
+        "Pela barba de Samuel."
+      ]
     },
     {
       "id": "PSA.133.place.1",
@@ -3703,7 +5548,12 @@
       "kind": "place",
       "prompt": "De que monte vem o orvalho que desce sobre Sião?",
       "answer": "Do Hermom.",
-      "reference": "Sl 133:3"
+      "reference": "Sl 133:3",
+      "wrongs": [
+        "Do Carmelo.",
+        "Do Tabor.",
+        "Do Sinai."
+      ]
     },
     {
       "id": "PSA.134.subject.1",
@@ -3713,7 +5563,12 @@
       "kind": "subject",
       "prompt": "Quem deve bendizer a Deus durante a noite, no Salmo 134?",
       "answer": "Os servos que trabalham na casa dele.",
-      "reference": "Sl 134:1"
+      "reference": "Sl 134:1",
+      "wrongs": [
+        "Os reis que dormem no palácio.",
+        "Os guardas que vigiam a muralha.",
+        "Os peregrinos que passam na estrada."
+      ]
     },
     {
       "id": "PSA.134.place.1",
@@ -3723,7 +5578,12 @@
       "kind": "place",
       "prompt": "De onde o Criador abençoa no Salmo 134?",
       "answer": "Desde Sião.",
-      "reference": "Sl 134:3"
+      "reference": "Sl 134:3",
+      "wrongs": [
+        "Desde o Sinai.",
+        "Desde o Carmelo.",
+        "Desde Betel."
+      ]
     },
     {
       "id": "PSA.134.curiosity.1",
@@ -3733,7 +5593,12 @@
       "kind": "curiosity",
       "prompt": "O que os servos erguem no santuário, no Salmo 134?",
       "answer": "As mãos, para bendizer.",
-      "reference": "Sl 134:2"
+      "reference": "Sl 134:2",
+      "wrongs": [
+        "As taças, para brindar.",
+        "As lâmpadas, para alumiar.",
+        "As harpas, para tocar."
+      ]
     },
     {
       "id": "PSA.135.subject.1",
@@ -3743,7 +5608,12 @@
       "kind": "subject",
       "prompt": "Quem Deus escolheu como propriedade dele, no Salmo 135?",
       "answer": "Jacó, isto é, Israel.",
-      "reference": "Sl 135:4"
+      "reference": "Sl 135:4",
+      "wrongs": [
+        "Esaú, isto é, Edom.",
+        "Ismael, isto é, as nações.",
+        "Ló, isto é, Moabe."
+      ]
     },
     {
       "id": "PSA.135.name.1",
@@ -3753,7 +5623,12 @@
       "kind": "name",
       "prompt": "Quem eram o rei dos amorreus e o rei de Basã?",
       "answer": "Seom e Ogue.",
-      "reference": "Sl 135:11"
+      "reference": "Sl 135:11",
+      "wrongs": [
+        "Faraó e Nabucodonosor.",
+        "Balaque e Balaão.",
+        "Golias e Saul."
+      ]
     },
     {
       "id": "PSA.135.place.1",
@@ -3763,7 +5638,12 @@
       "kind": "place",
       "prompt": "Onde habita o Deus bendito desde Sião?",
       "answer": "Em Jerusalém.",
-      "reference": "Sl 135:21"
+      "reference": "Sl 135:21",
+      "wrongs": [
+        "Em Betel.",
+        "Em Siló.",
+        "Em Samaria."
+      ]
     },
     {
       "id": "PSA.135.curiosity.1",
@@ -3773,7 +5653,12 @@
       "kind": "curiosity",
       "prompt": "De onde Deus faz sair os ventos, no Salmo 135?",
       "answer": "Dos tesouros dele.",
-      "reference": "Sl 135:7"
+      "reference": "Sl 135:7",
+      "wrongs": [
+        "Das montanhas.",
+        "Dos mares.",
+        "Das nuvens do norte."
+      ]
     },
     {
       "id": "PSA.136.subject.1",
@@ -3783,7 +5668,12 @@
       "kind": "subject",
       "prompt": "Sobre o que Deus estendeu a terra, no Salmo 136?",
       "answer": "Sobre as águas.",
-      "reference": "Sl 136:6"
+      "reference": "Sl 136:6",
+      "wrongs": [
+        "Sobre as rochas.",
+        "Sobre o fogo.",
+        "Sobre as nuvens."
+      ]
     },
     {
       "id": "PSA.136.name.1",
@@ -3793,7 +5683,12 @@
       "kind": "name",
       "prompt": "Quem Deus derrubou no mar Vermelho?",
       "answer": "Faraó e o exército dele.",
-      "reference": "Sl 136:15"
+      "reference": "Sl 136:15",
+      "wrongs": [
+        "Ogue e o povo dele.",
+        "Seom e os príncipes dele.",
+        "Nabucodonosor e a guarda dele."
+      ]
     },
     {
       "id": "PSA.136.place.1",
@@ -3803,7 +5698,12 @@
       "kind": "place",
       "prompt": "O que Deus fez com o mar Vermelho?",
       "answer": "Dividiu em duas partes.",
-      "reference": "Sl 136:13"
+      "reference": "Sl 136:13",
+      "wrongs": [
+        "Cobriu de gelo até a margem.",
+        "Levantou numa onda só.",
+        "Escondeu debaixo da areia."
+      ]
     },
     {
       "id": "PSA.136.curiosity.1",
@@ -3813,7 +5713,12 @@
       "kind": "curiosity",
       "prompt": "Para que Deus fez o sol, no Salmo 136?",
       "answer": "Para governar o dia.",
-      "reference": "Sl 136:8"
+      "reference": "Sl 136:8",
+      "wrongs": [
+        "Para governar a noite.",
+        "Para marcar as festas.",
+        "Para secar o mar."
+      ]
     },
     {
       "id": "PSA.137.subject.1",
@@ -3823,7 +5728,12 @@
       "kind": "subject",
       "prompt": "O que os exilados fizeram junto aos rios da Babilônia?",
       "answer": "Sentaram e choraram ao lembrar de Sião.",
-      "reference": "Sl 137:1"
+      "reference": "Sl 137:1",
+      "wrongs": [
+        "Cantaram e dançaram ao lembrar de Sião.",
+        "Construíram e plantaram ao lembrar de Sião.",
+        "Dormiram e esqueceram Sião."
+      ]
     },
     {
       "id": "PSA.137.place.1",
@@ -3833,7 +5743,12 @@
       "kind": "place",
       "prompt": "Quem pediu a ruína de Jerusalém até os alicerces?",
       "answer": "Os filhos de Edom.",
-      "reference": "Sl 137:7"
+      "reference": "Sl 137:7",
+      "wrongs": [
+        "Os filhos de Moabe.",
+        "Os filhos de Amom.",
+        "Os filhos da Assíria."
+      ]
     },
     {
       "id": "PSA.137.curiosity.1",
@@ -3843,7 +5758,12 @@
       "kind": "curiosity",
       "prompt": "Em que árvores os exilados penduraram as harpas, no Salmo 137?",
       "answer": "Nos salgueiros.",
-      "reference": "Sl 137:2"
+      "reference": "Sl 137:2",
+      "wrongs": [
+        "Nos cedros.",
+        "Nas palmeiras.",
+        "Nos carvalhos."
+      ]
     },
     {
       "id": "PSA.138.subject.1",
@@ -3853,7 +5773,12 @@
       "kind": "subject",
       "prompt": "O que Deus elevou acima de tudo no Salmo 138?",
       "answer": "A palavra dele e o nome dele.",
-      "reference": "Sl 138:2"
+      "reference": "Sl 138:2",
+      "wrongs": [
+        "O templo dele e o altar dele.",
+        "O rei dele e o trono dele.",
+        "A arca dele e a lei dela."
+      ]
     },
     {
       "id": "PSA.138.curiosity.1",
@@ -3863,7 +5788,12 @@
       "kind": "curiosity",
       "prompt": "Quem louvará a Deus ao ouvir o que ele diz, no Salmo 138?",
       "answer": "Todos os reis da terra.",
-      "reference": "Sl 138:4"
+      "reference": "Sl 138:4",
+      "wrongs": [
+        "Só os sacerdotes do templo.",
+        "Só os profetas de Israel.",
+        "Só os servos da casa."
+      ]
     },
     {
       "id": "PSA.138.curiosity.2",
@@ -3873,7 +5803,12 @@
       "kind": "curiosity",
       "prompt": "A quem o Deus alto presta atenção, no Salmo 138?",
       "answer": "Ao humilde, e de longe nota o arrogante.",
-      "reference": "Sl 138:6"
+      "reference": "Sl 138:6",
+      "wrongs": [
+        "Ao arrogante, e de longe nota o humilde.",
+        "Ao rei, e de perto ignora o servo.",
+        "Ao rico, e de longe esquece o pobre."
+      ]
     },
     {
       "id": "PSA.139.subject.1",
@@ -3883,7 +5818,12 @@
       "kind": "subject",
       "prompt": "Se alguém sobe ao céu ou deita no Xeol, onde está Deus?",
       "answer": "Nos dois lugares.",
-      "reference": "Sl 139:8"
+      "reference": "Sl 139:8",
+      "wrongs": [
+        "Só no céu.",
+        "Só no Xeol.",
+        "Em nenhum dos dois."
+      ]
     },
     {
       "id": "PSA.139.curiosity.1",
@@ -3893,7 +5833,12 @@
       "kind": "curiosity",
       "prompt": "Que asas o salmista imagina tomar para fugir, no Salmo 139?",
       "answer": "As do amanhecer, até a beira do mar.",
-      "reference": "Sl 139:9"
+      "reference": "Sl 139:9",
+      "wrongs": [
+        "As da noite, até o alto do monte.",
+        "As da águia, até o meio do deserto.",
+        "As do vento, até a porta da cidade."
+      ]
     },
     {
       "id": "PSA.139.curiosity.2",
@@ -3903,7 +5848,12 @@
       "kind": "curiosity",
       "prompt": "Em que lugar Deus cobriu o salmista, no Salmo 139?",
       "answer": "No ventre da mãe dele.",
-      "reference": "Sl 139:13"
+      "reference": "Sl 139:13",
+      "wrongs": [
+        "No deserto, sozinho.",
+        "No templo, em silêncio.",
+        "No campo, entre o rebanho."
+      ]
     },
     {
       "id": "PSA.139.curiosity.3",
@@ -3913,7 +5863,12 @@
       "kind": "curiosity",
       "prompt": "Onde os dias do salmista já estavam escritos, no Salmo 139?",
       "answer": "No livro de Deus, antes de começarem.",
-      "reference": "Sl 139:16"
+      "reference": "Sl 139:16",
+      "wrongs": [
+        "Na areia da praia, depois de acabarem.",
+        "Na porta da cidade, no dia do nascimento.",
+        "Na memória do povo, só na velhice."
+      ]
     },
     {
       "id": "PSA.140.subject.1",
@@ -3923,7 +5878,12 @@
       "kind": "subject",
       "prompt": "A que se compara a língua dos homens violentos, no Salmo 140?",
       "answer": "A uma cobra, com veneno sob os lábios.",
-      "reference": "Sl 140:3"
+      "reference": "Sl 140:3",
+      "wrongs": [
+        "A um leão, com rugido sob os dentes.",
+        "A um cão, com espuma sob a língua.",
+        "A uma águia, com garra sob as asas."
+      ]
     },
     {
       "id": "PSA.140.curiosity.1",
@@ -3933,7 +5893,12 @@
       "kind": "curiosity",
       "prompt": "O que os arrogantes armaram no caminho, no Salmo 140?",
       "answer": "Uma rede, cordas e laços.",
-      "reference": "Sl 140:5"
+      "reference": "Sl 140:5",
+      "wrongs": [
+        "Uma espada, flechas e escudos.",
+        "Uma cova, pedras e fogo.",
+        "Uma muralha, portas e trancas."
+      ]
     },
     {
       "id": "PSA.140.curiosity.2",
@@ -3943,7 +5908,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus cobriu no dia da batalha, no Salmo 140?",
       "answer": "A cabeça de quem orava.",
-      "reference": "Sl 140:7"
+      "reference": "Sl 140:7",
+      "wrongs": [
+        "Os pés de quem fugia.",
+        "A casa de quem jejuava.",
+        "O livro de quem cantava."
+      ]
     },
     {
       "id": "PSA.141.subject.1",
@@ -3953,7 +5923,12 @@
       "kind": "subject",
       "prompt": "A que a oração e as mãos erguidas se comparam, no Salmo 141?",
       "answer": "Ao incenso e à oferta da tarde.",
-      "reference": "Sl 141:2"
+      "reference": "Sl 141:2",
+      "wrongs": [
+        "Ao pão e à oferta da manhã.",
+        "Ao vinho e à oferta da lua nova.",
+        "Ao sangue e à oferta do ano novo."
+      ]
     },
     {
       "id": "PSA.141.curiosity.1",
@@ -3963,7 +5938,12 @@
       "kind": "curiosity",
       "prompt": "O que o salmista pede para a própria boca, no Salmo 141?",
       "answer": "Uma guarda sobre os lábios.",
-      "reference": "Sl 141:3"
+      "reference": "Sl 141:3",
+      "wrongs": [
+        "Uma tranca sobre os ouvidos.",
+        "Uma venda sobre os olhos.",
+        "Uma corrente sobre as mãos."
+      ]
     },
     {
       "id": "PSA.141.curiosity.2",
@@ -3973,7 +5953,12 @@
       "kind": "curiosity",
       "prompt": "A que se compara a correção feita pelo justo, no Salmo 141?",
       "answer": "A azeite posto na cabeça.",
-      "reference": "Sl 141:5"
+      "reference": "Sl 141:5",
+      "wrongs": [
+        "A vinagre posto na ferida.",
+        "A cinza posta na roupa.",
+        "A pedra posta no caminho."
+      ]
     },
     {
       "id": "PSA.142.subject.1",
@@ -3983,7 +5968,12 @@
       "kind": "subject",
       "prompt": "O que Deus é na terra dos vivos, no Salmo 142?",
       "answer": "Refúgio e a parte que cabe a quem ora.",
-      "reference": "Sl 142:5"
+      "reference": "Sl 142:5",
+      "wrongs": [
+        "Juiz e a multa que cabe a quem erra.",
+        "Rei e a coroa que cabe a quem vence.",
+        "Médico e o remédio que cabe a quem adoece."
+      ]
     },
     {
       "id": "PSA.142.place.1",
@@ -3993,7 +5983,12 @@
       "kind": "place",
       "prompt": "Onde Davi estava quando orou em voz alta?",
       "answer": "Na caverna.",
-      "reference": "Sl 142:1"
+      "reference": "Sl 142:1",
+      "wrongs": [
+        "No palácio.",
+        "No barco.",
+        "Na torre."
+      ]
     },
     {
       "id": "PSA.142.curiosity.1",
@@ -4003,7 +5998,12 @@
       "kind": "curiosity",
       "prompt": "De onde Davi pede que a alma seja tirada?",
       "answer": "Da prisão, para poder louvar.",
-      "reference": "Sl 142:7"
+      "reference": "Sl 142:7",
+      "wrongs": [
+        "Do palácio, para poder reinar.",
+        "Do deserto, para poder guerrear.",
+        "Do mercado, para poder comprar."
+      ]
     },
     {
       "id": "PSA.143.subject.1",
@@ -4013,7 +6013,12 @@
       "kind": "subject",
       "prompt": "A que a alma sedenta se compara no Salmo 143?",
       "answer": "À terra sem água.",
-      "reference": "Sl 143:6"
+      "reference": "Sl 143:6",
+      "wrongs": [
+        "Ao poço cheio.",
+        "Ao rio na cheia.",
+        "Ao jardim regado."
+      ]
     },
     {
       "id": "PSA.143.curiosity.1",
@@ -4023,7 +6028,12 @@
       "kind": "curiosity",
       "prompt": "Há alguém vivo que seja justo diante de Deus, no Salmo 143?",
       "answer": "Não existe nenhum.",
-      "reference": "Sl 143:2"
+      "reference": "Sl 143:2",
+      "wrongs": [
+        "Só o rei.",
+        "Só o sacerdote.",
+        "Só quem nunca errou."
+      ]
     },
     {
       "id": "PSA.143.curiosity.2",
@@ -4033,7 +6043,12 @@
       "kind": "curiosity",
       "prompt": "Por onde o bom Espírito deve guiar o salmista, no Salmo 143?",
       "answer": "Por uma terra plana.",
-      "reference": "Sl 143:10"
+      "reference": "Sl 143:10",
+      "wrongs": [
+        "Por uma serra íngreme.",
+        "Por um deserto sem trilha.",
+        "Por um mar sem margem."
+      ]
     },
     {
       "id": "PSA.144.subject.1",
@@ -4043,7 +6058,12 @@
       "kind": "subject",
       "prompt": "O que Deus, a rocha, ensina às mãos e aos dedos, no Salmo 144?",
       "answer": "A batalha e a guerra.",
-      "reference": "Sl 144:1"
+      "reference": "Sl 144:1",
+      "wrongs": [
+        "A colheita e a festa.",
+        "A escrita e o canto.",
+        "A pesca e a caça."
+      ]
     },
     {
       "id": "PSA.144.curiosity.1",
@@ -4053,7 +6073,12 @@
       "kind": "curiosity",
       "prompt": "Quantas cordas tem o instrumento do cântico novo, no Salmo 144?",
       "answer": "Dez cordas.",
-      "reference": "Sl 144:9"
+      "reference": "Sl 144:9",
+      "wrongs": [
+        "Sete cordas.",
+        "Cinco cordas.",
+        "Doze cordas."
+      ]
     },
     {
       "id": "PSA.144.curiosity.2",
@@ -4063,7 +6088,12 @@
       "kind": "curiosity",
       "prompt": "A que as filhas do povo são comparadas, no Salmo 144?",
       "answer": "A cantos entalhados, no jeito de um palácio.",
-      "reference": "Sl 144:12"
+      "reference": "Sl 144:12",
+      "wrongs": [
+        "A portas fechadas, no jeito de uma prisão.",
+        "A redes estendidas, no jeito de um porto.",
+        "A lâmpadas altas, no jeito de um templo."
+      ]
     },
     {
       "id": "PSA.145.subject.1",
@@ -4073,7 +6103,12 @@
       "kind": "subject",
       "prompt": "Como é o reino de Deus no Salmo 145?",
       "answer": "É um reino que não acaba, e o domínio segue por gerações.",
-      "reference": "Sl 145:13"
+      "reference": "Sl 145:13",
+      "wrongs": [
+        "É um reino que dura um século, e o domínio para no filho.",
+        "É um reino que espera a guerra, e o domínio fica numa cidade.",
+        "É um reino que nasce no exílio, e o domínio acaba na volta."
+      ]
     },
     {
       "id": "PSA.145.curiosity.1",
@@ -4083,7 +6118,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus faz quando abre a mão, no Salmo 145?",
       "answer": "Satisfaz o que todo vivente deseja.",
-      "reference": "Sl 145:16"
+      "reference": "Sl 145:16",
+      "wrongs": [
+        "Fecha o que todo vivente pede.",
+        "Conta o que todo vivente esconde.",
+        "Esquece o que todo vivente precisa."
+      ]
     },
     {
       "id": "PSA.145.curiosity.2",
@@ -4093,7 +6133,12 @@
       "kind": "curiosity",
       "prompt": "De quem Deus está perto no Salmo 145?",
       "answer": "De quem o chama de coração sincero.",
-      "reference": "Sl 145:18"
+      "reference": "Sl 145:18",
+      "wrongs": [
+        "De quem o chama só em voz alta.",
+        "De quem o evita com passo rápido.",
+        "De quem o troca por outro nome."
+      ]
     },
     {
       "id": "PSA.146.subject.1",
@@ -4103,7 +6148,12 @@
       "kind": "subject",
       "prompt": "Por que não se deve confiar em príncipes, no Salmo 146?",
       "answer": "Porque neles não existe salvação.",
-      "reference": "Sl 146:3"
+      "reference": "Sl 146:3",
+      "wrongs": [
+        "Porque neles não existe riqueza.",
+        "Porque neles não existe coragem.",
+        "Porque neles não existe descendência."
+      ]
     },
     {
       "id": "PSA.146.place.1",
@@ -4113,7 +6163,12 @@
       "kind": "place",
       "prompt": "Até quando reina o Deus de Sião?",
       "answer": "Para sempre, geração após geração.",
-      "reference": "Sl 146:10"
+      "reference": "Sl 146:10",
+      "wrongs": [
+        "Até o fim do exílio.",
+        "Até nascer outro rei.",
+        "Até fechar o templo."
+      ]
     },
     {
       "id": "PSA.146.curiosity.1",
@@ -4123,7 +6178,12 @@
       "kind": "curiosity",
       "prompt": "O que Deus faz pelos cegos no Salmo 146?",
       "answer": "Abre os olhos deles.",
-      "reference": "Sl 146:8"
+      "reference": "Sl 146:8",
+      "wrongs": [
+        "Fecha os olhos deles.",
+        "Cobre os olhos deles.",
+        "Pede os olhos deles."
+      ]
     },
     {
       "id": "PSA.146.curiosity.2",
@@ -4133,7 +6193,12 @@
       "kind": "curiosity",
       "prompt": "Como Deus trata o estrangeiro, o órfão e a viúva, no Salmo 146?",
       "answer": "Protege quem vem de fora e ampara órfão e viúva.",
-      "reference": "Sl 146:9"
+      "reference": "Sl 146:9",
+      "wrongs": [
+        "Expulsa quem vem de fora e esquece órfão e viúva.",
+        "Cobra de quem vem de fora e usa órfão e viúva.",
+        "Esconde quem vem de fora e vende órfão e viúva."
+      ]
     },
     {
       "id": "PSA.147.subject.1",
@@ -4143,7 +6208,12 @@
       "kind": "subject",
       "prompt": "O que Deus faz com as estrelas, no Salmo 147?",
       "answer": "Conta quantas são e chama cada uma pelo nome.",
-      "reference": "Sl 147:4"
+      "reference": "Sl 147:4",
+      "wrongs": [
+        "Apaga as que caem e esquece o nome delas.",
+        "Esconde as que brilham e troca o nome delas.",
+        "Junta as que sobram e numera só o grupo."
+      ]
     },
     {
       "id": "PSA.147.place.1",
@@ -4153,7 +6223,12 @@
       "kind": "place",
       "prompt": "O que Deus faz por Jerusalém e pelos dispersos de Israel?",
       "answer": "Constrói a cidade e junta outra vez quem se espalhou.",
-      "reference": "Sl 147:2"
+      "reference": "Sl 147:2",
+      "wrongs": [
+        "Derruba a cidade e espalha de novo quem se juntou.",
+        "Vende a cidade e esquece quem se perdeu.",
+        "Muda a cidade e mistura quem ficou."
+      ]
     },
     {
       "id": "PSA.147.curiosity.1",
@@ -4163,7 +6238,12 @@
       "kind": "curiosity",
       "prompt": "Que força não agrada a Deus, no Salmo 147?",
       "answer": "Nem a do cavalo nem as pernas do homem.",
-      "reference": "Sl 147:10"
+      "reference": "Sl 147:10",
+      "wrongs": [
+        "Nem a do boi nem os braços do rei.",
+        "Nem a da muralha nem as mãos do sacerdote.",
+        "Nem a do ouro nem os olhos do sábio."
+      ]
     },
     {
       "id": "PSA.147.curiosity.2",
@@ -4173,7 +6253,12 @@
       "kind": "curiosity",
       "prompt": "Com o que a neve e a geada se parecem, no Salmo 147?",
       "answer": "A neve com lã, e a geada com cinza.",
-      "reference": "Sl 147:16"
+      "reference": "Sl 147:16",
+      "wrongs": [
+        "A neve com linho, e a geada com sal.",
+        "A neve com algodão, e a geada com farinha.",
+        "A neve com véu, e a geada com areia."
+      ]
     },
     {
       "id": "PSA.148.subject.1",
@@ -4183,7 +6268,12 @@
       "kind": "subject",
       "prompt": "Quem da terra é chamado a louvar, junto com os abismos, no Salmo 148?",
       "answer": "Os monstros do mar.",
-      "reference": "Sl 148:7"
+      "reference": "Sl 148:7",
+      "wrongs": [
+        "Os gafanhotos do campo.",
+        "Os corvos do deserto.",
+        "Os cães da cidade."
+      ]
     },
     {
       "id": "PSA.148.curiosity.1",
@@ -4193,7 +6283,12 @@
       "kind": "curiosity",
       "prompt": "Quais luzes do céu devem louvar a Deus, no Salmo 148?",
       "answer": "O sol, a lua e as estrelas que brilham.",
-      "reference": "Sl 148:3"
+      "reference": "Sl 148:3",
+      "wrongs": [
+        "O arco, a nuvem e os raios que caem.",
+        "A lâmpada, a tocha e as fogueiras do arraial.",
+        "O relâmpago, o fogo e as brasas do altar."
+      ]
     },
     {
       "id": "PSA.148.curiosity.2",
@@ -4203,7 +6298,12 @@
       "kind": "curiosity",
       "prompt": "Que forças da natureza cumprem a palavra de Deus, no Salmo 148?",
       "answer": "Fogo, saraiva, neve, vapor e o vento de tempestade.",
-      "reference": "Sl 148:8"
+      "reference": "Sl 148:8",
+      "wrongs": [
+        "Orvalho, rio, fonte, brisa e a maré.",
+        "Poeira, calor, seca, fumaça e a calmaria.",
+        "Relâmpago, trovão, arco, nuvem e a brisa leve."
+      ]
     },
     {
       "id": "PSA.149.subject.1",
@@ -4213,7 +6313,12 @@
       "kind": "subject",
       "prompt": "O que está na garganta e na mão dos santos, no Salmo 149?",
       "answer": "Louvor a Deus e uma espada afiada.",
-      "reference": "Sl 149:6"
+      "reference": "Sl 149:6",
+      "wrongs": [
+        "Pão do altar e uma taça cheia.",
+        "Canto do rei e uma harpa nova.",
+        "Óleo da festa e um ramo verde."
+      ]
     },
     {
       "id": "PSA.149.curiosity.1",
@@ -4223,7 +6328,12 @@
       "kind": "curiosity",
       "prompt": "Com que se louva o nome de Deus no Salmo 149?",
       "answer": "Com dança, tamborim e harpa.",
-      "reference": "Sl 149:3"
+      "reference": "Sl 149:3",
+      "wrongs": [
+        "Com jejum, cinza e silêncio.",
+        "Com marcha, trombeta e escudo.",
+        "Com oferta, incenso e véu."
+      ]
     },
     {
       "id": "PSA.149.curiosity.2",
@@ -4233,7 +6343,12 @@
       "kind": "curiosity",
       "prompt": "Com o que reis e nobres serão presos, no Salmo 149?",
       "answer": "Com correntes e com grilhões de ferro.",
-      "reference": "Sl 149:8"
+      "reference": "Sl 149:8",
+      "wrongs": [
+        "Com cordas de linho e com laços de couro.",
+        "Com redes de pesca e com gaiolas de madeira.",
+        "Com fitas de ouro e com anéis de prata."
+      ]
     },
     {
       "id": "PSA.150.subject.1",
@@ -4243,7 +6358,12 @@
       "kind": "subject",
       "prompt": "O que deve fazer tudo o que tem fôlego, no Salmo 150?",
       "answer": "Louvar a Deus.",
-      "reference": "Sl 150:6"
+      "reference": "Sl 150:6",
+      "wrongs": [
+        "Guardar silêncio.",
+        "Oferecer ouro.",
+        "Segurar o fôlego."
+      ]
     },
     {
       "id": "PSA.150.place.1",
@@ -4253,7 +6373,12 @@
       "kind": "place",
       "prompt": "Onde Deus deve ser louvado no Salmo 150?",
       "answer": "No santuário dele e no firmamento do poder dele.",
-      "reference": "Sl 150:1"
+      "reference": "Sl 150:1",
+      "wrongs": [
+        "No mercado dele e na praça do povo.",
+        "No palácio dele e no jardim do rei.",
+        "No deserto dele e na tenda do arraial."
+      ]
     },
     {
       "id": "PSA.150.curiosity.1",
@@ -4263,7 +6388,12 @@
       "kind": "curiosity",
       "prompt": "Que instrumentos soam com a trombeta no Salmo 150?",
       "answer": "A lira e a harpa.",
-      "reference": "Sl 150:3"
+      "reference": "Sl 150:3",
+      "wrongs": [
+        "O chocalho e o búzio.",
+        "A gaita e o sino.",
+        "O apito e a concha."
+      ]
     },
     {
       "id": "PSA.150.curiosity.2",
@@ -4273,7 +6403,12 @@
       "kind": "curiosity",
       "prompt": "Quais címbalos entram no louvor, no Salmo 150?",
       "answer": "Os bem sonoros e os de alegria.",
-      "reference": "Sl 150:5"
+      "reference": "Sl 150:5",
+      "wrongs": [
+        "Os bem pequenos e os de guerra.",
+        "Os bem roucos e os de luto.",
+        "Os bem rachados e os de marcha."
+      ]
     },
     {
       "id": "PSA.0.curiosity.1",
@@ -4283,7 +6418,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Salmos?",
       "answer": "Vários autores. Davi escreveu boa parte.",
-      "reference": "Salmos"
+      "reference": "Salmos",
+      "wrongs": [
+        "Um autor só. Moisés escreveu o livro inteiro.",
+        "Um autor só. Salomão escreveu o livro inteiro.",
+        "Um autor só. Asafe escreveu o livro inteiro."
+      ]
     },
     {
       "id": "PSA.0.curiosity.2",
@@ -4293,7 +6433,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Salmos?",
       "answer": "Ao longo de séculos, de Moisés até depois do exílio.",
-      "reference": "Salmos"
+      "reference": "Salmos",
+      "wrongs": [
+        "Num só ano, durante o reinado de Davi.",
+        "Numa única noite, ainda no deserto.",
+        "Só nos anos da volta da Babilônia."
+      ]
     }
   ]
 }

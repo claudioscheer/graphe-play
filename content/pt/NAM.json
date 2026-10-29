@@ -8,7 +8,12 @@
       "kind": "subject",
       "prompt": "Como Naum diz que Deus acabará com Nínive?",
       "answer": "Com uma enchente violenta.",
-      "reference": "Na 1:8"
+      "reference": "Na 1:8",
+      "wrongs": [
+        "Com um cerco de sete anos.",
+        "Com fome dentro da cidade.",
+        "Com fogo vindo do templo."
+      ]
     },
     {
       "id": "NAM.1.name.1",
@@ -18,7 +23,12 @@
       "kind": "name",
       "prompt": "Quem teve a visão contra Nínive?",
       "answer": "Naum, o elcosita.",
-      "reference": "Na 1:1"
+      "reference": "Na 1:1",
+      "wrongs": [
+        "Jonas, filho de Amitai.",
+        "Joel, filho de Petuel.",
+        "Amós, pastor de Tecoa."
+      ]
     },
     {
       "id": "NAM.1.place.1",
@@ -28,7 +38,12 @@
       "kind": "place",
       "prompt": "Qual terra Naum manda festejar o fim do maligno?",
       "answer": "Judá.",
-      "reference": "Na 1:15"
+      "reference": "Na 1:15",
+      "wrongs": [
+        "Edom.",
+        "Moabe.",
+        "Amom."
+      ]
     },
     {
       "id": "NAM.1.curiosity.1",
@@ -38,7 +53,12 @@
       "kind": "curiosity",
       "prompt": "O que Naum diz que Deus é no dia da angústia?",
       "answer": "Uma fortaleza para quem confia nele.",
-      "reference": "Na 1:7"
+      "reference": "Na 1:7",
+      "wrongs": [
+        "Um inimigo de quem confia nele.",
+        "Um juiz que esquece o seu povo.",
+        "Um refúgio guardado só para Nínive."
+      ]
     },
     {
       "id": "NAM.2.subject.1",
@@ -48,7 +68,12 @@
       "kind": "subject",
       "prompt": "Como Nínive fica no ataque descrito por Naum?",
       "answer": "Vazia, devastada e em ruínas.",
-      "reference": "Na 2:10"
+      "reference": "Na 2:10",
+      "wrongs": [
+        "Cheia, segura e em festa.",
+        "Rica, murada e em paz.",
+        "Nova, maior e em ordem."
+      ]
     },
     {
       "id": "NAM.2.place.1",
@@ -58,7 +83,12 @@
       "kind": "place",
       "prompt": "Que cidade Naum compara a um tanque que se esvazia?",
       "answer": "Nínive.",
-      "reference": "Na 2:8"
+      "reference": "Na 2:8",
+      "wrongs": [
+        "Tiro.",
+        "Sidom.",
+        "Laquis."
+      ]
     },
     {
       "id": "NAM.2.curiosity.1",
@@ -68,7 +98,12 @@
       "kind": "curiosity",
       "prompt": "De que cor são os escudos dos que atacam Nínive?",
       "answer": "Vermelhos.",
-      "reference": "Na 2:3"
+      "reference": "Na 2:3",
+      "wrongs": [
+        "Dourados.",
+        "Brancos.",
+        "Negros."
+      ]
     },
     {
       "id": "NAM.2.curiosity.2",
@@ -78,7 +113,12 @@
       "kind": "curiosity",
       "prompt": "Que metais Naum manda saquear em Nínive?",
       "answer": "Prata e ouro.",
-      "reference": "Na 2:9"
+      "reference": "Na 2:9",
+      "wrongs": [
+        "Bronze e ferro.",
+        "Cobre e estanho.",
+        "Chumbo e zinco."
+      ]
     },
     {
       "id": "NAM.3.subject.1",
@@ -88,7 +128,12 @@
       "kind": "subject",
       "prompt": "O que dirão de Nínive ao vê-la caída?",
       "answer": "Que está destruída e sem quem a console.",
-      "reference": "Na 3:7"
+      "reference": "Na 3:7",
+      "wrongs": [
+        "Que está de pé e tem quem a defenda.",
+        "Que vai se erguer no dia seguinte.",
+        "Que o rei ainda a governa em paz."
+      ]
     },
     {
       "id": "NAM.3.name.1",
@@ -98,7 +143,12 @@
       "kind": "name",
       "prompt": "Qual rei tem pastores que cochilam, em Naum?",
       "answer": "O rei da Assíria.",
-      "reference": "Na 3:18"
+      "reference": "Na 3:18",
+      "wrongs": [
+        "O rei de Judá.",
+        "O rei do Egito.",
+        "O rei de Tiro."
+      ]
     },
     {
       "id": "NAM.3.place.1",
@@ -108,7 +158,12 @@
       "kind": "place",
       "prompt": "Com qual cidade entre rios Naum compara Nínive?",
       "answer": "Com Nô-Amom.",
-      "reference": "Na 3:8"
+      "reference": "Na 3:8",
+      "wrongs": [
+        "Com Babilônia.",
+        "Com Damasco.",
+        "Com Mênfis."
+      ]
     },
     {
       "id": "NAM.3.curiosity.1",
@@ -118,7 +173,12 @@
       "kind": "curiosity",
       "prompt": "O que fizeram com os nobres de Nô-Amom?",
       "answer": "Jogaram sortes sobre eles.",
-      "reference": "Na 3:10"
+      "reference": "Na 3:10",
+      "wrongs": [
+        "Deram-lhes coroas de ouro.",
+        "Mandaram-nos de volta a Judá.",
+        "Puseram-nos como juízes."
+      ]
     },
     {
       "id": "NAM.0.curiosity.1",
@@ -128,7 +188,12 @@
       "kind": "curiosity",
       "prompt": "Quem escreveu Naum?",
       "answer": "Naum.",
-      "reference": "Naum"
+      "reference": "Naum",
+      "wrongs": [
+        "Joel.",
+        "Amós.",
+        "Ageu."
+      ]
     },
     {
       "id": "NAM.0.curiosity.2",
@@ -138,7 +203,12 @@
       "kind": "curiosity",
       "prompt": "Quando foi escrito o livro de Naum?",
       "answer": "Antes da queda de Nínive, em 612 antes de Cristo.",
-      "reference": "Naum"
+      "reference": "Naum",
+      "wrongs": [
+        "Depois da queda de Nínive, em 500 antes de Cristo.",
+        "No reinado de Davi, cerca de 1000 antes de Cristo.",
+        "No século I depois de Cristo, bem após Nínive."
+      ]
     }
   ]
 }
