@@ -56,7 +56,7 @@ fun scopeLabel(scope: Scope): String {
         return book.longName
     }
     if (scope.history) {
-        return "História"
+        return "História e geografia"
     }
     return when (scope.testament) {
         Testament.OLD -> "Antigo Testamento"

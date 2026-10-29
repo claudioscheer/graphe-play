@@ -96,7 +96,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "A igreja criou a Bíblia?",
+      "prompt": "A igreja cristã criou a Bíblia?",
       "answer": "Não. Ela reconheceu os livros que Deus já tinha dado.",
       "reference": "Cânon",
       "wrongs": [
@@ -126,7 +126,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "O que os cinco solas resumem?",
+      "prompt": "O que os cinco solas da Reforma resumem?",
       "answer": "Somente a Escritura, a fé, a graça, Cristo e a glória de Deus.",
       "reference": "Cinco solas",
       "wrongs": [
@@ -141,7 +141,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "O que é sola Scriptura?",
+      "prompt": "O que a Reforma chama de sola Scriptura?",
       "answer": "A Bíblia é a regra final da fé, acima da tradição.",
       "reference": "Sola Scriptura",
       "wrongs": [
@@ -156,7 +156,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "O que é sola fide?",
+      "prompt": "O que a Reforma chama de sola fide?",
       "answer": "O pecador é aceito por Deus somente pela fé em Cristo.",
       "reference": "Sola fide",
       "wrongs": [
@@ -171,7 +171,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "O que é sola gratia?",
+      "prompt": "O que a Reforma chama de sola gratia?",
       "answer": "A salvação é só pela graça de Deus, não por mérito humano.",
       "reference": "Sola gratia",
       "wrongs": [
@@ -186,7 +186,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "O que é solus Christus?",
+      "prompt": "O que a Reforma chama de solus Christus?",
       "answer": "Só Cristo é o mediador entre Deus e os homens.",
       "reference": "Solus Christus",
       "wrongs": [
@@ -201,7 +201,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "O que é soli Deo gloria?",
+      "prompt": "O que a Reforma chama de soli Deo gloria?",
       "answer": "Toda a glória da salvação pertence a Deus.",
       "reference": "Soli Deo gloria",
       "wrongs": [
@@ -261,7 +261,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "O que é a depravação total?",
+      "prompt": "O que é a depravação total, no calvinismo?",
       "answer": "O pecado atingiu a pessoa inteira, e sem graça ela não busca a Deus.",
       "reference": "Dort",
       "wrongs": [
@@ -276,7 +276,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "O que é a eleição incondicional?",
+      "prompt": "O que é a eleição incondicional, no calvinismo?",
       "answer": "Deus escolhe salvar por sua vontade, não por um mérito que previu.",
       "reference": "Dort",
       "wrongs": [
@@ -291,7 +291,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "O que é a expiação limitada?",
+      "prompt": "O que é a expiação limitada, no calvinismo?",
       "answer": "Cristo morreu para salvar de fato o seu povo.",
       "reference": "Dort",
       "wrongs": [
@@ -306,7 +306,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "O que é a graça irresistível?",
+      "prompt": "O que é a graça irresistível, no calvinismo?",
       "answer": "Quando Deus chama de verdade, o pecador vem a Cristo.",
       "reference": "Dort",
       "wrongs": [
@@ -321,7 +321,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "O que é a perseverança dos santos?",
+      "prompt": "O que é a perseverança dos santos, no calvinismo?",
       "answer": "Quem Deus salvou, ele guarda até o fim.",
       "reference": "Dort",
       "wrongs": [
@@ -336,7 +336,7 @@
       "chapter": 0,
       "verseStart": 0,
       "kind": "curiosity",
-      "prompt": "Onde os cinco pontos foram afirmados?",
+      "prompt": "Onde os cinco pontos do calvinismo foram afirmados?",
       "answer": "No Sínodo de Dort, em 1618 e 1619.",
       "reference": "Dort, 1619",
       "wrongs": [
@@ -367,7 +367,7 @@
       "verseStart": 0,
       "kind": "curiosity",
       "prompt": "Quem foi Armínio?",
-      "answer": "Teólogo holandês (1560–1609). Ensinou que a graça pode ser resistida.",
+      "answer": "Teólogo da Igreja Reformada holandesa (1560–1609). Contestou o calvinismo.",
       "reference": "Armínio",
       "wrongs": [
         "Reformador de Genebra. Ensinou a graça irresistível.",
@@ -763,6 +763,2481 @@
         "Sete, incluindo a missa, a penitência e a unção.",
         "Um só: a ceia. O batismo não foi ordenado.",
         "Nenhum. A fé dispensa todo sinal visível."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.52",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é o arminianismo?",
+      "answer": "A teologia de Armínio na Igreja Reformada holandesa, em contestação ao calvinismo.",
+      "reference": "Armínio",
+      "wrongs": [
+        "O calvinismo ensinado por Calvino em Genebra.",
+        "A confissão luterana apresentada em Augsburgo.",
+        "O decreto do Concílio de Trento sobre a justificação."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.53",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que foi a Remonstrância de 1610?",
+      "answer": "A contestação dos seguidores de Armínio ao calvinismo da Igreja Reformada holandesa.",
+      "reference": "1610",
+      "wrongs": [
+        "As teses de Lutero contra as indulgências.",
+        "O édito que deu liberdade de culto em 313.",
+        "A confissão escrita em Westminster."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.54",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde Armínio ensinou?",
+      "answer": "Na universidade de Leiden, na Holanda.",
+      "reference": "Leiden",
+      "wrongs": [
+        "Na universidade de Wittenberg.",
+        "No convento de Erfurt.",
+        "Na catedral de Genebra."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.55",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem formulou a teologia chamada calvinismo?",
+      "answer": "João Calvino, reformador de Genebra.",
+      "reference": "Calvino",
+      "wrongs": [
+        "Martinho Lutero, em Wittenberg.",
+        "Tomás de Aquino, em Paris.",
+        "Armínio, em Leiden."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.56",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Calvino publicou a sigla TULIP?",
+      "answer": "Não. É um resumo posterior dos cinco pontos de Dort.",
+      "reference": "TULIP",
+      "wrongs": [
+        "Sim. Ele a publicou nas Institutas, em 1536.",
+        "Sim. Ela está nas 95 teses.",
+        "Não. A sigla foi escrita por Agostinho."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.57",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Tomás de Aquino?",
+      "answer": "Frade dominicano (1225–1274). Escreveu a Suma Teológica.",
+      "reference": "Aquino",
+      "wrongs": [
+        "Monge agostiniano que iniciou a Reforma em 1517.",
+        "Bispo de Hipona no século V.",
+        "Reformador de Genebra no século XVI."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.58",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a Suma Teológica de Tomás de Aquino?",
+      "answer": "A grande obra de Tomás de Aquino sobre Deus e a fé.",
+      "reference": "Suma",
+      "wrongs": [
+        "O catecismo reformado de Heidelberg.",
+        "A tradução latina da Bíblia feita por Jerônimo.",
+        "As 95 teses pregadas em Wittenberg."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.59",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde João Hus foi queimado?",
+      "answer": "Em Constança, em 1415.",
+      "reference": "Constança",
+      "wrongs": [
+        "Em Wittenberg, em 1517.",
+        "Em Genebra, em 1553.",
+        "Em Londres, em 1536."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.60",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que João Hus defendeu contra Roma?",
+      "answer": "Que a Bíblia tem autoridade acima do papa.",
+      "reference": "Hus",
+      "wrongs": [
+        "Que o papa é o cabeça da igreja.",
+        "Que a graça pode ser comprada.",
+        "Que só o latim pode ser lido na igreja."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.61",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que foi a Dieta de Worms?",
+      "answer": "A assembleia de 1521 em que Lutero compareceu diante de Carlos V.",
+      "reference": "Worms, 1521",
+      "wrongs": [
+        "O concílio que afirmou a Trindade em 325.",
+        "O sínodo que respondeu a Armínio.",
+        "A reunião que escreveu a Confissão de Westminster."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.62",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que Lutero disse em Worms sobre a consciência?",
+      "answer": "Que ela estava cativa da Palavra de Deus.",
+      "reference": "Worms",
+      "wrongs": [
+        "Que obedeceria ao papa se a igreja mandasse.",
+        "Que a tradição vale mais que a Bíblia.",
+        "Que retiraria tudo o que tinha escrito."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.63",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Filipe Melâncton?",
+      "answer": "Companheiro de Lutero. Escreveu a Confissão de Augsburgo.",
+      "reference": "Melâncton",
+      "wrongs": [
+        "Sucessor de Calvino em Genebra.",
+        "Tradutor da Bíblia para o inglês.",
+        "Pregador queimado em Constança."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.64",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a Confissão de Augsburgo?",
+      "answer": "A confissão luterana apresentada em 1530.",
+      "reference": "1530",
+      "wrongs": [
+        "A confissão reformada escrita na Inglaterra em 1646.",
+        "O catecismo de Heidelberg, de 1563.",
+        "O decreto do Concílio de Trento."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.65",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Teodoro de Beza?",
+      "answer": "Sucessor de Calvino na liderança de Genebra.",
+      "reference": "Beza",
+      "wrongs": [
+        "O autor da Confissão de Augsburgo.",
+        "O reformador de Zurique morto em 1531.",
+        "O primeiro bispo de Roma no século I."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.66",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que foi o Concílio de Trento?",
+      "answer": "O concílio católico, de 1545 a 1563, que respondeu à Reforma.",
+      "reference": "Trento",
+      "wrongs": [
+        "O sínodo reformado reunido na Holanda.",
+        "O concílio que afirmou que o Filho é Deus.",
+        "A dieta em que Lutero compareceu em 1521."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.67",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que o Concílio de Trento rejeitou sobre a justificação?",
+      "answer": "Que o pecador é justo somente pela fé.",
+      "reference": "Trento",
+      "wrongs": [
+        "Que Jesus é verdadeiro homem.",
+        "Que o batismo foi ordenado por Cristo.",
+        "Que a Bíblia foi escrita por homens."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.68",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde Agostinho foi bispo?",
+      "answer": "Em Hipona, no norte da África.",
+      "reference": "Hipona",
+      "wrongs": [
+        "Em Roma, no lugar de Pedro.",
+        "Em Constantinopla, no século IV.",
+        "Em Antioquia, no século II."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.69",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a Trindade?",
+      "answer": "Um só Deus em três pessoas: Pai, Filho e Espírito Santo.",
+      "reference": "Trindade",
+      "wrongs": [
+        "Três deuses que combinaram criar o mundo.",
+        "Um Deus que se transforma em três momentos.",
+        "O Pai acima, e o Filho e o Espírito como criaturas."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.70",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "A Trindade é três deuses?",
+      "answer": "Não. É um só Deus em três pessoas.",
+      "reference": "Trindade",
+      "wrongs": [
+        "Sim. Cada pessoa é um deus separado.",
+        "Não. É um Deus que muda de forma.",
+        "Sim. O Antigo Testamento adora outro deus."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.71",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O Espírito Santo é apenas uma força?",
+      "answer": "Não. Ele é pessoa, e é Deus.",
+      "reference": "Trindade",
+      "wrongs": [
+        "Sim. É só o poder impessoal de Deus.",
+        "Não. Ele é um anjo elevado.",
+        "Sim. É outro nome para a igreja."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.72",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a inerrância da Escritura?",
+      "answer": "A Bíblia, como Deus a deu, não erra no que afirma.",
+      "reference": "Inerrância",
+      "wrongs": [
+        "A Bíblia acerta só em religião e erra no resto.",
+        "Só o Novo Testamento é sem erro.",
+        "A igreja corrige a Bíblia quando ela falha."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.73",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quantos livros tem a Bíblia protestante?",
+      "answer": "Sessenta e seis.",
+      "reference": "Cânon",
+      "wrongs": [
+        "Setenta e três.",
+        "Quarenta e seis.",
+        "Trinta e nove."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.74",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quantos livros tem o Antigo Testamento?",
+      "answer": "Trinta e nove.",
+      "reference": "Cânon",
+      "wrongs": [
+        "Vinte e sete.",
+        "Sessenta e seis.",
+        "Quarenta e seis."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.75",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quantos livros tem o Novo Testamento?",
+      "answer": "Vinte e sete.",
+      "reference": "Cânon",
+      "wrongs": [
+        "Trinta e nove.",
+        "Quatro.",
+        "Sessenta e seis."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.76",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Qual é o primeiro livro da Bíblia?",
+      "answer": "Gênesis.",
+      "reference": "Cânon",
+      "wrongs": [
+        "Mateus.",
+        "Salmos.",
+        "Jó."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.77",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Qual é o último livro da Bíblia?",
+      "answer": "Apocalipse.",
+      "reference": "Cânon",
+      "wrongs": [
+        "Malaquias.",
+        "Atos.",
+        "Judas."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.78",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quais são os cinco livros de Moisés?",
+      "answer": "Gênesis, Êxodo, Levítico, Números e Deuteronômio.",
+      "reference": "Pentateuco",
+      "wrongs": [
+        "Josué, Juízes, Rute, Samuel e Reis.",
+        "Isaías, Jeremias, Ezequiel, Daniel e Oséias.",
+        "Mateus, Marcos, Lucas, João e Atos."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.79",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Em que línguas a Bíblia foi escrita?",
+      "answer": "Em hebraico, aramaico e grego.",
+      "reference": "Línguas",
+      "wrongs": [
+        "Em latim, grego e português.",
+        "Só em hebraico.",
+        "Em aramaico e latim."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.80",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Qual livro da Bíblia não cita o nome de Deus?",
+      "answer": "Ester.",
+      "reference": "Ester",
+      "wrongs": [
+        "Rute.",
+        "Jonas.",
+        "Filemom."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.81",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Por que o Império Romano perseguiu os cristãos?",
+      "answer": "Porque não adoravam o imperador nem os deuses da cidade.",
+      "reference": "Perseguição",
+      "wrongs": [
+        "Porque recusavam pagar qualquer imposto.",
+        "Porque queriam o trono de Roma.",
+        "Porque fechavam os mercados aos sábados."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.82",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem culpou os cristãos pelo incêndio de Roma?",
+      "answer": "Nero, no ano 64.",
+      "reference": "Nero, 64",
+      "wrongs": [
+        "Diocleciano, em 303.",
+        "Constantino, em 313.",
+        "Pilatos, no ano 30."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.83",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Nero?",
+      "answer": "Imperador romano do século I. Perseguiu a igreja depois do incêndio.",
+      "reference": "Nero",
+      "wrongs": [
+        "O rei que mandou matar os meninos em Belém.",
+        "O imperador que concedeu liberdade de culto.",
+        "O governador que julgou Jesus."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.84",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando começou a Grande Perseguição do Império Romano?",
+      "answer": "Em 303, no governo de Diocleciano.",
+      "reference": "303",
+      "wrongs": [
+        "Em 64, depois do incêndio de Roma.",
+        "Em 313, com o Édito de Milão.",
+        "Em 325, no Concílio de Niceia."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.85",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Como morreu Policarpo, segundo a tradição?",
+      "answer": "Queimado em Esmirna, no século II.",
+      "reference": "Policarpo",
+      "wrongs": [
+        "Degolado em Roma, junto com Paulo.",
+        "Apedrejado em Jerusalém, como Estêvão.",
+        "Morto à espada por Herodes Agripa."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.86",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi o primeiro mártir cristão?",
+      "answer": "Estêvão, apedrejado em Jerusalém.",
+      "reference": "Estêvão",
+      "wrongs": [
+        "Tiago, morto à espada por Herodes.",
+        "Policarpo, queimado em Esmirna.",
+        "Pedro, crucificado em Roma."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.87",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Como morreu Tiago, filho de Zebedeu?",
+      "answer": "Herodes Agripa mandou matá-lo à espada.",
+      "reference": "Atos 12",
+      "wrongs": [
+        "Foi crucificado de cabeça para baixo.",
+        "Morreu idoso em Éfeso.",
+        "Foi apedrejado pelo Sinédrio."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.88",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Como morreu o apóstolo Pedro, segundo a tradição?",
+      "answer": "Crucificado em Roma, no tempo de Nero.",
+      "reference": "Pedro",
+      "wrongs": [
+        "Degolado em Tarso, na Cilícia.",
+        "Apedrejado em Jerusalém por Paulo.",
+        "Morto no mar da Galileia."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.89",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Como morreu o apóstolo Paulo, segundo a tradição?",
+      "answer": "Degolado em Roma, no tempo de Nero.",
+      "reference": "Paulo",
+      "wrongs": [
+        "Crucificado em Jerusalém por Herodes.",
+        "Queimado em Éfeso no século II.",
+        "Apedrejado em Damasco."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.90",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Como morreu o apóstolo João, segundo a tradição?",
+      "answer": "Idoso, em Éfeso.",
+      "reference": "João",
+      "wrongs": [
+        "À espada, com o irmão Tiago.",
+        "Crucificado em Roma com Pedro.",
+        "Apedrejado em Jerusalém."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.91",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quantos apóstolos Jesus escolheu?",
+      "answer": "Doze.",
+      "reference": "Apóstolos",
+      "wrongs": [
+        "Sete.",
+        "Setenta.",
+        "Três."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.92",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem traiu Jesus?",
+      "answer": "Judas Iscariotes.",
+      "reference": "Judas",
+      "wrongs": [
+        "Pedro.",
+        "Tomé.",
+        "Simão, o zelote."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.93",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem os apóstolos escolheram no lugar de Judas Iscariotes?",
+      "answer": "Matias.",
+      "reference": "Matias",
+      "wrongs": [
+        "Paulo.",
+        "Barnabé.",
+        "Timóteo."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.94",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem eram os apóstolos Tiago e João?",
+      "answer": "Filhos de Zebedeu e apóstolos de Jesus.",
+      "reference": "Zebedeu",
+      "wrongs": [
+        "Filhos de Alfeu, ambos cobradores de impostos.",
+        "Irmãos de Jesus, nascidos em Nazaré.",
+        "Discípulos de João Batista que não seguiram Jesus."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.95",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem era Mateus antes de seguir Jesus?",
+      "answer": "Cobrador de impostos.",
+      "reference": "Mateus",
+      "wrongs": [
+        "Pescador no mar da Galileia.",
+        "Fariseu do Sinédrio.",
+        "Soldado romano."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.96",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "De qual cidade Paulo partia nas viagens?",
+      "answer": "De Antioquia da Síria.",
+      "reference": "Antioquia",
+      "wrongs": [
+        "De Jerusalém.",
+        "De Roma.",
+        "De Atenas."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.97",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Para onde foi a primeira viagem de Paulo?",
+      "answer": "A Chipre e às cidades da Ásia Menor.",
+      "reference": "1ª viagem",
+      "wrongs": [
+        "A Roma, passando por Malta.",
+        "À Espanha e ao norte da África.",
+        "Só às cidades da Judeia."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.98",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde Paulo pregou no Areópago?",
+      "answer": "Em Atenas, na segunda viagem.",
+      "reference": "Atenas",
+      "wrongs": [
+        "Em Corinto, na primeira viagem.",
+        "Em Éfeso, na terceira viagem.",
+        "Em Roma, diante de César."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.99",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Em qual cidade Paulo ficou cerca de três anos?",
+      "answer": "Em Éfeso, na terceira viagem.",
+      "reference": "Éfeso",
+      "wrongs": [
+        "Em Filipos, na primeira viagem.",
+        "Em Antioquia, antes de ser chamado.",
+        "Em Jerusalém, depois do concílio."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.100",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde Paulo e Silas foram presos na segunda viagem?",
+      "answer": "Em Filipos.",
+      "reference": "Filipos",
+      "wrongs": [
+        "Em Tessalônica.",
+        "Em Corinto.",
+        "Em Malta."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.101",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Para qual ilha Paulo chegou no naufrágio rumo a Roma?",
+      "answer": "Malta, no caminho para Roma.",
+      "reference": "Malta",
+      "wrongs": [
+        "Chipre, na primeira viagem.",
+        "Creta, onde ele ficou pregando.",
+        "Patmos, onde João escreveu."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.102",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde Paulo nasceu?",
+      "answer": "Em Tarso, na Cilícia.",
+      "reference": "Tarso",
+      "wrongs": [
+        "Em Belém, na Judeia.",
+        "Em Nazaré, na Galileia.",
+        "Em Antioquia da Síria."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.103",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quantas viagens Atos conta antes de Paulo ir a Roma?",
+      "answer": "Três.",
+      "reference": "Viagens",
+      "wrongs": [
+        "Uma.",
+        "Sete.",
+        "Duas."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.104",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Qual rio Israel cruzou para entrar em Canaã?",
+      "answer": "O Jordão.",
+      "reference": "Jordão",
+      "wrongs": [
+        "O Nilo.",
+        "O Eufrates.",
+        "O Tigre."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.105",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Qual mar fica a oeste da terra de Israel?",
+      "answer": "O mar Mediterrâneo.",
+      "reference": "Mediterrâneo",
+      "wrongs": [
+        "O mar da Galileia.",
+        "O mar Morto.",
+        "O mar Vermelho."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.106",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Como também se chama o mar da Galileia?",
+      "answer": "Mar de Tiberíades.",
+      "reference": "Galileia",
+      "wrongs": [
+        "Mar Morto.",
+        "Mar Grande.",
+        "Mar Vermelho."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.107",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Qual região fica entre a Galileia e a Judeia?",
+      "answer": "A Samaria.",
+      "reference": "Samaria",
+      "wrongs": [
+        "O deserto do Sinai.",
+        "A Fenícia.",
+        "O Egito."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.108",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Em que região fica Jerusalém?",
+      "answer": "Na Judeia.",
+      "reference": "Judeia",
+      "wrongs": [
+        "Na Galileia.",
+        "Na Samaria.",
+        "Na Síria."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.109",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde Barnabé nasceu?",
+      "answer": "Em Chipre.",
+      "reference": "Chipre",
+      "wrongs": [
+        "Em Tarso.",
+        "Em Roma.",
+        "Em Belém."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.110",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde fica Corinto, onde Paulo ficou um ano e meio?",
+      "answer": "Na Grécia.",
+      "reference": "Corinto",
+      "wrongs": [
+        "Na Galileia.",
+        "No Egito.",
+        "Na Síria."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.111",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde fica Tessalônica?",
+      "answer": "Na Macedônia.",
+      "reference": "Macedônia",
+      "wrongs": [
+        "Na Judeia.",
+        "Na Ásia Menor, junto de Éfeso.",
+        "Na ilha de Creta."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.112",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Jonathan Edwards?",
+      "answer": "Pastor da Nova Inglaterra (1703–1758), no Grande Avivamento.",
+      "reference": "Edwards",
+      "wrongs": [
+        "Pregador batista de Londres no século XIX.",
+        "Reformador de Genebra no século XVI.",
+        "Bispo de Hipona no século V."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.113",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Qual sermão de Jonathan Edwards fala do pecador nas mãos de Deus?",
+      "answer": "Pecadores nas mãos de um Deus irado, em 1741.",
+      "reference": "1741",
+      "wrongs": [
+        "O sermão do monte, em Mateus.",
+        "A exposição de Romanos, em Londres.",
+        "As 95 teses, em Wittenberg."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.114",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi George Whitefield?",
+      "answer": "Evangelista do Grande Avivamento, no século XVIII.",
+      "reference": "Whitefield",
+      "wrongs": [
+        "O autor da Confissão de Westminster.",
+        "O sucessor de Calvino em Genebra.",
+        "O tradutor da Bíblia para o inglês."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.115",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Charles Spurgeon?",
+      "answer": "Pregador batista de Londres, no século XIX.",
+      "reference": "Spurgeon",
+      "wrongs": [
+        "Pastor puritano do século XVII.",
+        "Bispo de Liverpool no século XVI.",
+        "Monge que iniciou a Reforma."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.116",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi John Owen?",
+      "answer": "Teólogo puritano inglês do século XVII.",
+      "reference": "Owen",
+      "wrongs": [
+        "Evangelista do século XVIII na América.",
+        "Pregador batista de Londres.",
+        "Reformador suíço morto em 1531."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.117",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Martyn Lloyd-Jones?",
+      "answer": "Médico e pregador de Westminster Chapel, em Londres.",
+      "reference": "Lloyd-Jones",
+      "wrongs": [
+        "O príncipe dos pregadores no século XIX.",
+        "O autor de Pecadores nas mãos de um Deus irado.",
+        "Um bispo católico do Concílio de Trento."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.118",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que Lloyd-Jones expôs por longos anos?",
+      "answer": "As cartas aos Romanos e aos Efésios.",
+      "reference": "Lloyd-Jones",
+      "wrongs": [
+        "Só sermões avulsos, sem livro seguido.",
+        "A Suma Teológica de Aquino.",
+        "As Institutas, verso por verso."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.119",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi J. C. Ryle?",
+      "answer": "Bispo evangélico de Liverpool, no século XIX.",
+      "reference": "Ryle",
+      "wrongs": [
+        "Pregador de Westminster Chapel no século XX.",
+        "Pastor do Grande Avivamento em 1741.",
+        "Reformador de Zurique no século XVI."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.120",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Qual hino de Lutero virou símbolo da Reforma?",
+      "answer": "Castelo forte é o nosso Deus.",
+      "reference": "Lutero",
+      "wrongs": [
+        "Do céu veio o menino Jesus.",
+        "Só a fé salva o pecador.",
+        "Graças, ó Deus, por teu amor."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.121",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Em qual salmo Lutero baseou Castelo forte?",
+      "answer": "No Salmo 46.",
+      "reference": "Salmo 46",
+      "wrongs": [
+        "No Salmo 23.",
+        "No Salmo 100.",
+        "No Salmo 51."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.122",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que as igrejas de Genebra cantavam no tempo de Calvino?",
+      "answer": "Os salmos, no Saltério de Genebra.",
+      "reference": "Genebra",
+      "wrongs": [
+        "Só hinos novos, sem salmos.",
+        "A missa em latim.",
+        "Cânticos de Maria e dos santos."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.123",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi João Wesley?",
+      "answer": "Sacerdote anglicano. Começou o metodismo na Inglaterra.",
+      "reference": "Wesley",
+      "wrongs": [
+        "Pregador batista de Londres no século XIX.",
+        "Reformador de Genebra no século XVI.",
+        "Bispo de Hipona no século V."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.124",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando viveu João Wesley?",
+      "answer": "De 1703 a 1791.",
+      "reference": "1703–1791",
+      "wrongs": [
+        "De 1483 a 1546.",
+        "De 1834 a 1892.",
+        "De 1899 a 1981."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.125",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem escreveu muitos hinos do metodismo?",
+      "answer": "Carlos Wesley, irmão de João.",
+      "reference": "Carlos Wesley",
+      "wrongs": [
+        "Martinho Lutero, em Wittenberg.",
+        "Charles Spurgeon, em Londres.",
+        "João Calvino, em Genebra."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.126",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando viveu Charles Spurgeon?",
+      "answer": "De 1834 a 1892.",
+      "reference": "1834–1892",
+      "wrongs": [
+        "De 1703 a 1758.",
+        "De 1509 a 1564.",
+        "De 1899 a 1981."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.127",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando viveu George Whitefield?",
+      "answer": "De 1714 a 1770.",
+      "reference": "1714–1770",
+      "wrongs": [
+        "De 1834 a 1892.",
+        "De 1616 a 1683.",
+        "De 1483 a 1546."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.128",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando viveu John Owen?",
+      "answer": "De 1616 a 1683.",
+      "reference": "1616–1683",
+      "wrongs": [
+        "De 1703 a 1791.",
+        "De 1225 a 1274.",
+        "De 354 a 430."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.129",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando viveu Martyn Lloyd-Jones?",
+      "answer": "De 1899 a 1981.",
+      "reference": "1899–1981",
+      "wrongs": [
+        "De 1834 a 1892.",
+        "De 1703 a 1758.",
+        "De 1509 a 1564."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.130",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando viveu J. C. Ryle?",
+      "answer": "De 1816 a 1900.",
+      "reference": "1816–1900",
+      "wrongs": [
+        "De 1714 a 1770.",
+        "De 1899 a 1981.",
+        "De 1560 a 1609."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.131",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "A quem João escreveu as cartas do Apocalipse?",
+      "answer": "Às sete igrejas da Ásia.",
+      "reference": "Apocalipse",
+      "wrongs": [
+        "Às igrejas de Roma, Corinto e Éfeso.",
+        "Só à igreja de Jerusalém.",
+        "Às doze tribos, na dispersão."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.132",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde ficavam as sete igrejas do Apocalipse?",
+      "answer": "Na província romana da Ásia, no oeste da Ásia Menor.",
+      "reference": "Ásia",
+      "wrongs": [
+        "Na Judeia, ao redor de Jerusalém.",
+        "Na Itália, ao redor de Roma.",
+        "No Egito, ao longo do Nilo."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.133",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quais eram as sete igrejas do Apocalipse?",
+      "answer": "Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia.",
+      "reference": "Sete igrejas",
+      "wrongs": [
+        "Roma, Corinto, Filipos, Tessalônica, Éfeso, Colossos e Antioquia.",
+        "Jerusalém, Antioquia, Alexandria, Roma, Cartago, Éfeso e Cesareia.",
+        "Nazaré, Cafarnaum, Jericó, Belém, Caná, Betânia e Samaria."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.134",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que Éfeso era conhecida no tempo de Paulo?",
+      "answer": "Pelo porto e pelo templo de Ártemis.",
+      "reference": "Éfeso",
+      "wrongs": [
+        "Pelas escolas de filosofia, como Atenas.",
+        "Pela púrpura, como Tiatira.",
+        "Pelos bancos e pela lã negra, como Laodiceia."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.135",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que Esmirna era conhecida?",
+      "answer": "Por ser porto comercial e fiel a Roma, na Ásia.",
+      "reference": "Esmirna",
+      "wrongs": [
+        "Por ser a capital da Judeia.",
+        "Pela biblioteca e pelo altar de Zeus.",
+        "Por ser um oásis no vale do Jordão."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.136",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que Pérgamo era conhecida?",
+      "answer": "Por ser capital da Ásia e ter uma grande biblioteca.",
+      "reference": "Pérgamo",
+      "wrongs": [
+        "Por ser vila de pescadores na Galileia.",
+        "Pelo templo de Salomão.",
+        "Por ser colônia romana na Macedônia."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.137",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que Tiatira era conhecida?",
+      "answer": "Pelo comércio de púrpura e pelos ofícios.",
+      "reference": "Tiatira",
+      "wrongs": [
+        "Pelo ouro da antiga Lídia.",
+        "Pelo templo de Ártemis.",
+        "Pelos dois portos do istmo."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.138",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que Sardes era conhecida?",
+      "answer": "Por ter sido capital da Lídia e pela riqueza do ouro.",
+      "reference": "Sardes",
+      "wrongs": [
+        "Por ser a menor das sete, na rota do interior.",
+        "Pelos bancos e pelo colírio.",
+        "Por ser colônia de veteranos romanos."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.139",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que Filadélfia era conhecida?",
+      "answer": "Por ser cidade pequena na rota para o interior da Ásia.",
+      "reference": "Filadélfia",
+      "wrongs": [
+        "Por ser a capital do Império Romano.",
+        "Pelo grande porto de Esmirna.",
+        "Pelo templo de Ártemis."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.140",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que Laodiceia era conhecida?",
+      "answer": "Pelos bancos, pela lã negra e pelo colírio.",
+      "reference": "Laodiceia",
+      "wrongs": [
+        "Pela pesca no mar da Galileia.",
+        "Pelo incenso e pela mirra.",
+        "Pelas minas de cobre de Chipre."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.141",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que Corinto era conhecida no tempo de Paulo?",
+      "answer": "Pelos dois portos e pelo comércio no istmo da Grécia.",
+      "reference": "Corinto",
+      "wrongs": [
+        "Pela filosofia e pelo Areópago.",
+        "Por ser capital da Síria.",
+        "Pelo templo de Jerusalém."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.142",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Que tipo de cidade era Filipos?",
+      "answer": "Uma colônia romana na Macedônia.",
+      "reference": "Filipos",
+      "wrongs": [
+        "A capital religiosa da Judeia.",
+        "Um porto da Ásia, com o templo de Ártemis.",
+        "Uma vila da Galileia, à beira do lago."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.143",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que Atenas era conhecida no tempo de Paulo?",
+      "answer": "Pela filosofia e pelos muitos templos.",
+      "reference": "Atenas",
+      "wrongs": [
+        "Pela púrpura e pelos tintureiros.",
+        "Pelos bancos e pela lã negra.",
+        "Por ser oásis no Jordão."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.144",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Tessalônica era a principal cidade de qual região?",
+      "answer": "Da Macedônia.",
+      "reference": "Tessalônica",
+      "wrongs": [
+        "Da Galileia.",
+        "Da Judeia.",
+        "Do Egito."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.145",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que era Antioquia da Síria no Império Romano?",
+      "answer": "Uma das maiores cidades, e base das viagens de Paulo.",
+      "reference": "Antioquia",
+      "wrongs": [
+        "Um povoado da Galileia, onde Jesus cresceu.",
+        "A capital da Judeia, com o templo.",
+        "Uma ilha no caminho de Paulo a Roma."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.146",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que Tarso era conhecida?",
+      "answer": "Pelo comércio e pelas escolas, na Cilícia.",
+      "reference": "Tarso",
+      "wrongs": [
+        "Pelo templo de Ártemis, na Ásia.",
+        "Pelos palácios de Herodes, na Judeia.",
+        "Pelas catacumbas dos cristãos."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.147",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que era Roma no tempo de Paulo?",
+      "answer": "A capital do Império Romano.",
+      "reference": "Roma",
+      "wrongs": [
+        "Uma vila da Galileia.",
+        "A capital da Macedônia.",
+        "Um porto da Ásia Menor."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.148",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Em que região ficava Nazaré, onde Jesus cresceu?",
+      "answer": "Na Galileia.",
+      "reference": "Nazaré",
+      "wrongs": [
+        "Na Judeia, junto de Jerusalém.",
+        "No Egito, junto do Nilo.",
+        "Na Síria, junto de Antioquia."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.149",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Por que Belém era conhecida?",
+      "answer": "Como a cidade de Davi, na Judeia.",
+      "reference": "Belém",
+      "wrongs": [
+        "Como o porto principal da Galileia.",
+        "Como a capital do Império Romano.",
+        "Como a cidade dos bancos da Ásia."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.150",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde ficava Cafarnaum, base de Jesus na Galileia?",
+      "answer": "À beira do mar da Galileia.",
+      "reference": "Cafarnaum",
+      "wrongs": [
+        "No alto do monte Sinai.",
+        "No istmo de Corinto.",
+        "No deserto do Neguebe."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.151",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Jerusalém era o centro de quê, no tempo de Jesus?",
+      "answer": "Do templo e do culto de Israel.",
+      "reference": "Jerusalém",
+      "wrongs": [
+        "Do comércio de púrpura da Ásia.",
+        "Da filosofia grega.",
+        "Das catacumbas cristãs."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.152",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde ficava Jericó?",
+      "answer": "No vale do Jordão, no caminho para Jerusalém.",
+      "reference": "Jericó",
+      "wrongs": [
+        "À beira do mar Mediterrâneo.",
+        "Na ilha de Chipre.",
+        "No alto da Galileia, em Nazaré."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.153",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde ficava Betânia, cidade de Marta, Maria e Lázaro?",
+      "answer": "Perto de Jerusalém, junto ao monte das Oliveiras.",
+      "reference": "Betânia",
+      "wrongs": [
+        "À beira do mar da Galileia.",
+        "Em Roma, junto do Tibre.",
+        "Em Éfeso, junto do porto."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.154",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Em quais regiões Jesus andou na maior parte do tempo?",
+      "answer": "Na Galileia e na Judeia.",
+      "reference": "Jesus",
+      "wrongs": [
+        "Só em Roma e na Grécia.",
+        "No Egito e na Babilônia.",
+        "Na Espanha e na Gália."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.155",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde Paulo costumava começar a pregar numa cidade?",
+      "answer": "Na sinagoga, quando havia uma.",
+      "reference": "Sinagoga",
+      "wrongs": [
+        "No palácio do imperador.",
+        "Só no templo de Ártemis.",
+        "Nas catacumbas de Roma."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.156",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que eram as catacumbas de Roma?",
+      "answer": "Cemitérios subterrâneos, onde os cristãos enterravam os mortos.",
+      "reference": "Catacumbas",
+      "wrongs": [
+        "Palácios em que os bispos julgavam a cidade.",
+        "Templos oficiais do culto ao imperador.",
+        "Mercados cobertos no fórum romano."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.157",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Qual símbolo os primeiros cristãos usavam para Jesus?",
+      "answer": "O peixe. Em grego, as iniciais diziam: Jesus Cristo, Filho de Deus, Salvador.",
+      "reference": "Peixe",
+      "wrongs": [
+        "A águia do Império Romano.",
+        "A estrela de seis pontas.",
+        "O touro do templo de Ártemis."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.158",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é o pecado?",
+      "answer": "Transgredir a lei de Deus, ou deixar de fazer o que ela manda.",
+      "reference": "Pecado",
+      "wrongs": [
+        "Um erro sem importância, que Deus não vê.",
+        "Só o crime contra outra pessoa.",
+        "A falta de dinheiro ou de saúde."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.159",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é o pecado original?",
+      "answer": "A corrupção que toda pessoa herda de Adão.",
+      "reference": "Adão",
+      "wrongs": [
+        "Só o primeiro erro de cada adulto.",
+        "Um pecado que só atinge quem ouviu a lei.",
+        "A culpa que a pessoa escolhe aos doze anos."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.160",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a encarnação?",
+      "answer": "O Filho de Deus assumiu verdadeira natureza humana.",
+      "reference": "Encarnação",
+      "wrongs": [
+        "Jesus deixou de ser Deus para virar homem.",
+        "Um anjo tomou a aparência de homem.",
+        "Deus criou Jesus já adulto em Nazaré."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.161",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a união hipostática?",
+      "answer": "As naturezas divina e humana de Cristo, unidas numa só pessoa.",
+      "reference": "Hipostática",
+      "wrongs": [
+        "Duas pessoas, uma divina e outra humana.",
+        "Uma natureza só, mistura de Deus e homem.",
+        "Jesus é homem, e Deus mora nele às vezes."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.162",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Jesus deixou de ser Deus ao se fazer homem?",
+      "answer": "Não. Continuou Deus e passou a ser também homem.",
+      "reference": "Encarnação",
+      "wrongs": [
+        "Sim. Voltou a ser Deus só depois da ressurreição.",
+        "Sim. Ficou apenas um profeta santo.",
+        "Não. Ele nunca chegou a ter corpo humano."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.163",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Como Jesus foi concebido?",
+      "answer": "Pelo Espírito Santo, no ventre de Maria, sem pai humano.",
+      "reference": "Maria",
+      "wrongs": [
+        "Como qualquer criança, de José e Maria.",
+        "Já adulto, no rio Jordão.",
+        "Por um anjo que se fez homem."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.164",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é o evangelho?",
+      "answer": "A boa notícia de que Cristo morreu e ressuscitou pelos pecadores.",
+      "reference": "Evangelho",
+      "wrongs": [
+        "A lista de regras para merecer o céu.",
+        "A história política de Israel.",
+        "O convite para melhorar a sociedade."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.165",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a fé salvadora?",
+      "answer": "Confiar em Cristo para ser aceito por Deus.",
+      "reference": "Fé",
+      "wrongs": [
+        "Saber os fatos da Bíblia, sem se entregar a Cristo.",
+        "Sentir uma emoção forte no culto.",
+        "Obedecer o bastante para Deus dever a salvação."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.166",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é o arrependimento?",
+      "answer": "Abandonar o pecado e voltar-se para Deus.",
+      "reference": "Arrependimento",
+      "wrongs": [
+        "Pagar uma penitência à igreja.",
+        "Sentir tristeza, sem deixar o pecado.",
+        "Esquecer o erro e seguir em frente."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.167",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a santificação?",
+      "answer": "A obra de Deus que faz o salvo se parecer com Cristo.",
+      "reference": "Santificação",
+      "wrongs": [
+        "O momento em que a pessoa passa a ser aceita por Deus.",
+        "Um estado em que o salvo já não pode pecar.",
+        "O batismo que apaga os pecados de uma vez."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.168",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a adoção, na salvação?",
+      "answer": "Deus recebe o pecador salvo como filho.",
+      "reference": "Adoção",
+      "wrongs": [
+        "A pessoa nasce de novo na família de Adão.",
+        "A igreja escolhe quem pode ser chamado de filho.",
+        "Deus adota só quem nunca pecou."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.169",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que é a providência de Deus?",
+      "answer": "O governo de Deus sobre tudo o que acontece.",
+      "reference": "Providência",
+      "wrongs": [
+        "Deus criou o mundo e depois o deixou só.",
+        "O acaso decide a história.",
+        "Só os milagres estão nas mãos de Deus."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.170",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que os cristãos esperam na volta de Cristo?",
+      "answer": "Que ele volte em pessoa, para julgar e reunir os seus.",
+      "reference": "Volta",
+      "wrongs": [
+        "Que o mundo melhore até Deus não precisar voltar.",
+        "Que só a alma suba, e o corpo fique para sempre na terra.",
+        "Que outro profeta termine a obra de Jesus."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.171",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que significa ser imagem de Deus?",
+      "answer": "Que o ser humano foi feito para refletir o caráter de Deus.",
+      "reference": "Imagem",
+      "wrongs": [
+        "Que o corpo humano tem a mesma forma do corpo de Deus.",
+        "Que cada pessoa é um deus pequeno.",
+        "Que só Adão foi imagem, e os outros não."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.172",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi com Paulo na primeira viagem?",
+      "answer": "Barnabé, e João Marcos no começo.",
+      "reference": "1ª viagem",
+      "wrongs": [
+        "Silas e Timóteo.",
+        "Lucas e Tito.",
+        "Pedro e João."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.173",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem acompanhou Paulo na segunda viagem, no lugar de Barnabé?",
+      "answer": "Silas.",
+      "reference": "Silas",
+      "wrongs": [
+        "João Marcos, do começo ao fim.",
+        "Pedro.",
+        "Apolo."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.174",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem era Timóteo para Paulo?",
+      "answer": "Um cooperador jovem, a quem Paulo chamava de filho na fé.",
+      "reference": "Timóteo",
+      "wrongs": [
+        "O procônsul de Chipre.",
+        "O carcereiro de Filipos.",
+        "O ourives de Éfeso."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.175",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Lucas viajou com Paulo?",
+      "answer": "Sim. O médico Lucas acompanhou Paulo e escreveu Lucas e Atos.",
+      "reference": "Lucas",
+      "wrongs": [
+        "Não. Lucas só ouviu as histórias anos depois, em Roma.",
+        "Sim. Lucas era pescador da Galileia.",
+        "Não. Quem viajou foi só Barnabé."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.176",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem era João Marcos nas viagens de Paulo?",
+      "answer": "Primo de Barnabé. Saiu no meio da primeira viagem.",
+      "reference": "Marcos",
+      "wrongs": [
+        "O governador de Chipre.",
+        "Um filósofo de Atenas.",
+        "O irmão de Timóteo."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.177",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem eram Áquila e Priscila?",
+      "answer": "Um casal que trabalhava com Paulo em Corinto e em Éfeso.",
+      "reference": "Áquila",
+      "wrongs": [
+        "Os donos da prisão de Filipos.",
+        "Sacerdotes do templo de Jerusalém.",
+        "Os pais de Timóteo."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.178",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem era Tito entre os cooperadores de Paulo?",
+      "answer": "Um companheiro grego, que Paulo deixou em Creta.",
+      "reference": "Tito",
+      "wrongs": [
+        "Um fariseu do Sinédrio.",
+        "O centurião do naufrágio.",
+        "O rei Agripa."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.179",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem era Epafrodito?",
+      "answer": "Mensageiro de Filipos que levou ajuda a Paulo na prisão.",
+      "reference": "Filipos",
+      "wrongs": [
+        "O procônsul da Acaia.",
+        "O escrivão de Éfeso.",
+        "O irmão de Barnabé."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.180",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde J. C. Ryle serviu como bispo?",
+      "answer": "Em Liverpool, na Inglaterra.",
+      "reference": "Ryle",
+      "wrongs": [
+        "Em Londres, na Westminster Chapel.",
+        "Em Genebra, na catedral de São Pedro.",
+        "Em Wittenberg, na igreja do castelo."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.181",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que J. C. Ryle é conhecido?",
+      "answer": "Por chamar o povo da igreja à santidade e por escrever com clareza.",
+      "reference": "Ryle",
+      "wrongs": [
+        "Por traduzir a Bíblia para o alemão.",
+        "Por fundar a igreja da Escócia.",
+        "Por presidir o Concílio de Trento."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.182",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Qual livro conhecido J. C. Ryle escreveu?",
+      "answer": "Santidade.",
+      "reference": "Ryle",
+      "wrongs": [
+        "As Institutas.",
+        "A Suma Teológica.",
+        "A cidade de Deus."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.183",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde Charles Spurgeon pregava em Londres?",
+      "answer": "No Tabernáculo Metropolitano.",
+      "reference": "Spurgeon",
+      "wrongs": [
+        "Na capela de Westminster.",
+        "Na catedral de São Paulo.",
+        "Na universidade de Oxford."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.184",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Pelo que Charles Spurgeon é conhecido?",
+      "answer": "Pela pregação batista e pelos sermões impressos em Londres.",
+      "reference": "Spurgeon",
+      "wrongs": [
+        "Por escrever a Confissão de Westminster.",
+        "Por começar o metodismo.",
+        "Por traduzir o Novo Testamento para o inglês."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.185",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Qual livro conhecido John Owen escreveu sobre o pecado?",
+      "answer": "A mortificação do pecado.",
+      "reference": "Owen",
+      "wrongs": [
+        "Castelo forte é o nosso Deus.",
+        "Pecadores nas mãos de um Deus irado.",
+        "O Saltério de Genebra."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.186",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde John Owen viveu e ensinou?",
+      "answer": "Na Inglaterra, como pastor e teólogo puritano.",
+      "reference": "Owen",
+      "wrongs": [
+        "Em Genebra, como sucessor de Calvino.",
+        "Em Praga, com João Hus.",
+        "Em Hipona, com Agostinho."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.187",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "De onde era Martyn Lloyd-Jones antes de pregar em Londres?",
+      "answer": "Do País de Gales. Era médico e deixou o consultório.",
+      "reference": "Lloyd-Jones",
+      "wrongs": [
+        "De Liverpool. Era bispo da igreja da Inglaterra.",
+        "De Genebra. Era sucessor de Calvino.",
+        "De Wittenberg. Era monge agostiniano."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.188",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde George Whitefield pregou no Grande Avivamento?",
+      "answer": "Ao ar livre, na Inglaterra e nas colônias americanas.",
+      "reference": "Whitefield",
+      "wrongs": [
+        "Só na universidade de Wittenberg.",
+        "No Concílio de Trento.",
+        "Na sinagoga de Beréia."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.189",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde Jonathan Edwards foi pastor?",
+      "answer": "Em Northampton, na Nova Inglaterra.",
+      "reference": "Edwards",
+      "wrongs": [
+        "No Tabernáculo Metropolitano, em Londres.",
+        "Em Liverpool, como bispo.",
+        "Em Genebra, como reformador."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.190",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde João Wycliffe ensinava?",
+      "answer": "Na universidade de Oxford, na Inglaterra.",
+      "reference": "Wycliffe",
+      "wrongs": [
+        "Na universidade de Praga.",
+        "Na universidade de Wittenberg.",
+        "Na universidade de Leiden."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.191",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando viveu João Wycliffe?",
+      "answer": "De cerca de 1330 a 1384.",
+      "reference": "Wycliffe",
+      "wrongs": [
+        "De 1483 a 1546.",
+        "De 1560 a 1609.",
+        "De 354 a 430."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.192",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem na Inglaterra seguiu o ensino de Wycliffe?",
+      "answer": "Os lolardos.",
+      "reference": "Lolardos",
+      "wrongs": [
+        "Os jesuítas.",
+        "Os remonstrantes.",
+        "Os valdenses de Lyon."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.193",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Em que cidade João Hus estudou e pregou?",
+      "answer": "Em Praga, na Boêmia.",
+      "reference": "Praga",
+      "wrongs": [
+        "Em Wittenberg, na Alemanha.",
+        "Em Oxford, na Inglaterra.",
+        "Em Genebra, na Suíça."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.194",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem influenciou a pregação de João Hus?",
+      "answer": "João Wycliffe, professor de Oxford.",
+      "reference": "Hus",
+      "wrongs": [
+        "João Calvino, de Genebra.",
+        "Tomás de Aquino, de Paris.",
+        "Armínio, de Leiden."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.195",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Jerônimo de Praga?",
+      "answer": "Companheiro de João Hus. Foi queimado em Constança, em 1416.",
+      "reference": "1416",
+      "wrongs": [
+        "Autor da Suma Teológica, no século XIII.",
+        "Reformador de Zurique, morto em 1531.",
+        "Bispo de Milão que batizou Agostinho."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.196",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde começou a Reforma protestante?",
+      "answer": "Em Wittenberg, na Alemanha, em 1517.",
+      "reference": "Wittenberg",
+      "wrongs": [
+        "Em Roma, no Concílio de Trento.",
+        "Em Constantinopla, em 1054.",
+        "Em Dort, na Holanda, em 1618."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.197",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Pedro Valdo?",
+      "answer": "Leigo de Lyon, no século XII. Chamou o povo a viver pela Bíblia.",
+      "reference": "Valdo",
+      "wrongs": [
+        "Imperador que convocou Niceia.",
+        "Papa que presidiu Trento.",
+        "Pregador batista de Londres."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.198",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde a lista dos 27 livros do Novo Testamento aparece em 367?",
+      "answer": "Na carta pascal de Atanásio.",
+      "reference": "367",
+      "wrongs": [
+        "Nas 95 teses de Lutero.",
+        "No Édito de Milão.",
+        "Na Confissão de Augsburgo."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.199",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que o Concílio de Cartago fez em 397?",
+      "answer": "Reconheceu os 27 livros do Novo Testamento já lidos nas igrejas.",
+      "reference": "Cartago, 397",
+      "wrongs": [
+        "Criou livros novos para completar a Bíblia.",
+        "Tirou os evangelhos do cânon.",
+        "Declarou o papa infalível."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.200",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde foi realizado o Concílio de Cartago de 397?",
+      "answer": "Em Cartago, no norte da África.",
+      "reference": "Cartago",
+      "wrongs": [
+        "Em Niceia, na Ásia Menor.",
+        "Em Trento, no norte da Itália.",
+        "Em Wittenberg, na Alemanha."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.201",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Os livros apócrifos fazem parte da Bíblia protestante?",
+      "answer": "Não. A regra de fé são os 66 livros.",
+      "reference": "Cânon",
+      "wrongs": [
+        "Sim. São mais 14 livros com a mesma autoridade.",
+        "Sim. Substituem os profetas menores.",
+        "Não. O Novo Testamento também fica de fora."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.202",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quando Trento fixou os livros a mais do cânon romano?",
+      "answer": "Em 1546.",
+      "reference": "Trento, 1546",
+      "wrongs": [
+        "Em 325, em Niceia.",
+        "Em 1517, em Wittenberg.",
+        "Em 1619, em Dort."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.203",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde foi realizado o Concílio de Niceia?",
+      "answer": "Em Niceia, na Ásia Menor, em 325.",
+      "reference": "Niceia",
+      "wrongs": [
+        "Em Roma, no Vaticano.",
+        "Em Cartago, no norte da África.",
+        "Em Wittenberg, na Alemanha."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.204",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem convocou o Concílio de Niceia?",
+      "answer": "O imperador Constantino.",
+      "reference": "Constantino",
+      "wrongs": [
+        "O apóstolo João.",
+        "Martinho Lutero.",
+        "O bispo Atanásio, sozinho."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.205",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que o Concílio de Constantinopla afirmou em 381?",
+      "answer": "Que o Espírito Santo é Deus, com o Pai e o Filho.",
+      "reference": "381",
+      "wrongs": [
+        "Que o Espírito é só uma força.",
+        "Que Maria é mediadora.",
+        "Que a igreja deve obedecer ao papa."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.206",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde foi o Concílio de Constantinopla de 381?",
+      "answer": "Em Constantinopla.",
+      "reference": "Constantinopla",
+      "wrongs": [
+        "Em Éfeso.",
+        "Em Calcedônia.",
+        "Em Niceia."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.207",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que o Concílio de Éfeso decidiu em 431?",
+      "answer": "Que Jesus, nascido de Maria, é uma só pessoa, e não duas.",
+      "reference": "Éfeso, 431",
+      "wrongs": [
+        "Que Jesus é só homem e Deus o adotou depois.",
+        "Que o Espírito Santo foi criado.",
+        "Que a ceia é apenas uma lembrança sem Cristo."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.208",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Onde foi realizado o Concílio de Calcedônia?",
+      "answer": "Em Calcedônia, perto de Constantinopla, em 451.",
+      "reference": "Calcedônia",
+      "wrongs": [
+        "Em Alexandria, no Egito.",
+        "Em Hipona, na África.",
+        "Em Praga, na Boêmia."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.209",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quais concílios antigos as igrejas protestantes recebem?",
+      "answer": "Niceia, Constantinopla, Éfeso e Calcedônia.",
+      "reference": "Concílios",
+      "wrongs": [
+        "Só o Concílio de Trento.",
+        "Só o Sínodo de Dort.",
+        "Os concílios feitos depois de 1054."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.210",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que o Sínodo de Orange afirmou em 529?",
+      "answer": "Que a fé salvadora depende da graça de Deus.",
+      "reference": "Orange, 529",
+      "wrongs": [
+        "Que a pessoa crê sem nenhuma ajuda de Deus.",
+        "Que o papa é o cabeça da igreja.",
+        "Que os apócrifos são regra de fé."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.211",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "O que fazia um bispo no século II?",
+      "answer": "Pastoreava a igreja da sua cidade e guardava o ensino dos apóstolos.",
+      "reference": "Bispo",
+      "wrongs": [
+        "Governava todas as igrejas do mundo.",
+        "Traduzia a Bíblia para o latim.",
+        "Comandava os exércitos do imperador."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.212",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "A igreja antiga tinha um bispo sobre o mundo todo?",
+      "answer": "Não. Havia bispos de cidades, não um chefe universal.",
+      "reference": "Bispos",
+      "wrongs": [
+        "Sim. O bispo de Roma mandava em todas desde o século I.",
+        "Sim. O bispo de Jerusalém decidia sozinho.",
+        "Não. Não havia nenhum presbítero nas igrejas."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.213",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quais eram as cinco grandes sedes no século V?",
+      "answer": "Roma, Constantinopla, Alexandria, Antioquia e Jerusalém.",
+      "reference": "Sedes",
+      "wrongs": [
+        "Londres, Genebra, Wittenberg, Zurique e Edimburgo.",
+        "Éfeso, Esmirna, Pérgamo, Tiatira e Sardes.",
+        "Corinto, Filipos, Atenas, Tessalônica e Roma."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.214",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Cipriano?",
+      "answer": "Bispo de Cartago no século III. Morreu na perseguição de 258.",
+      "reference": "Cipriano",
+      "wrongs": [
+        "Bispo de Alexandria que defendeu Niceia.",
+        "Bispo de Milão que batizou Agostinho.",
+        "Pregador da Boêmia queimado em 1415."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.215",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foi Ambrósio?",
+      "answer": "Bispo de Milão no século IV. Batizou Agostinho.",
+      "reference": "Ambrósio",
+      "wrongs": [
+        "Bispo de Cartago morto em 258.",
+        "Reformador de Genebra no século XVI.",
+        "Autor da carta pascal de 367."
+      ]
+    },
+    {
+      "id": "HIS.0.curiosity.216",
+      "bookNumber": 0,
+      "chapter": 0,
+      "verseStart": 0,
+      "kind": "curiosity",
+      "prompt": "Quem foram Basílio e os dois Gregórios?",
+      "answer": "Bispos do século IV. Defenderam que o Espírito Santo é Deus.",
+      "reference": "Capadócios",
+      "wrongs": [
+        "Os três reis magos do Evangelho.",
+        "Os autores das Institutas, da Confissão de Augsburgo e das 95 teses.",
+        "Bispos de Roma, um depois do outro, no século I."
       ]
     }
   ]

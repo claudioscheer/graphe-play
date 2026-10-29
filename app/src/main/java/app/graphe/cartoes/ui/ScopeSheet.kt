@@ -97,7 +97,7 @@ fun ScopeSheet(
                 { onChoose(Scope(testament = Testament.NEW)) },
                 "Novo Testamento",
             )
-            ScopeChip(scope.history, { onChoose(Scope.history) }, "História")
+            ScopeChip(scope.history, { onChoose(Scope.history) }, "História e geografia")
         }
         LazyColumn(
             contentPadding = PaddingValues(horizontal = 16.dp, vertical = 12.dp),

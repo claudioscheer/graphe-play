@@ -30,7 +30,7 @@ class ScopeTest {
         assertEquals("Novo Testamento", scopeLabel(Scope(testament = Testament.NEW)))
         assertEquals("Jonas", scopeLabel(Scope(bookNumber = 390)))
         assertEquals("João 3", scopeLabel(Scope(bookNumber = 500, chapter = 3)))
-        assertEquals("História", scopeLabel(Scope.history))
+        assertEquals("História e geografia", scopeLabel(Scope.history))
         assertFalse(Scope(bookNumber = 500, chapter = 3).isAll())
         assertFalse(Scope.history.isAll())
     }
