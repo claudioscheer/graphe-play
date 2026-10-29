@@ -210,6 +210,7 @@ internal fun FlashCard(
     reduceMotion: Boolean,
     onFlip: () -> Unit,
     onVerse: () -> Unit,
+    showReference: Boolean = true,
     modifier: Modifier = Modifier,
 ) {
     val rotation = remember { Animatable(0f) }
@@ -289,17 +290,19 @@ internal fun FlashCard(
                         style = MaterialTheme.typography.headlineMedium,
                         textAlign = TextAlign.Center,
                     )
-                    Spacer(Modifier.height(28.dp))
-                    Text(
-                        card.reference,
-                        color = Navy,
-                        style = MaterialTheme.typography.titleMedium,
-                        modifier = Modifier
-                            .clip(CircleShape)
-                            .background(Cream)
-                            .clickable(onClick = onVerse)
-                            .padding(horizontal = 16.dp, vertical = 8.dp),
-                    )
+                    if (showReference) {
+                        Spacer(Modifier.height(28.dp))
+                        Text(
+                            card.reference,
+                            color = Navy,
+                            style = MaterialTheme.typography.titleMedium,
+                            modifier = Modifier
+                                .clip(CircleShape)
+                                .background(Cream)
+                                .clickable(onClick = onVerse)
+                                .padding(horizontal = 16.dp, vertical = 8.dp),
+                        )
+                    }
                 }
             } else {
                 Text(

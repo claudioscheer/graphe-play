@@ -79,73 +79,60 @@ fun QuizScreen(viewModel: QuizViewModel, onHome: () -> Unit) {
 
 @Composable
 private fun QuizSetup(state: QuizUiState, viewModel: QuizViewModel) {
-    Column(
-        Modifier
-            .fillMaxSize()
-            .verticalScroll(rememberScrollState())
-            .navigationBarsPadding()
-            .padding(horizontal = 24.dp, vertical = 12.dp),
-    ) {
-        Text("Contexto", color = Mist, style = MaterialTheme.typography.labelLarge)
-        Spacer(Modifier.height(8.dp))
-        Text(
-            state.scopeLabel,
-            color = Cream,
-            modifier = Modifier
-                .clip(RoundedCornerShape(14.dp))
-                .background(Navy)
-                .clickable(onClick = viewModel::openScope)
-                .padding(horizontal = 16.dp, vertical = 14.dp)
-                .fillMaxWidth(),
-            style = MaterialTheme.typography.titleMedium,
-        )
-        Spacer(Modifier.height(24.dp))
-        Text("Quantas perguntas", color = Mist, style = MaterialTheme.typography.labelLarge)
-        Spacer(Modifier.height(8.dp))
-        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            listOf(5, 10, 20).forEach { count ->
-                val selected = state.count == count
-                Text(
-                    count.toString(),
-                    color = if (selected) Navy else Cream,
-                    modifier = Modifier
-                        .clip(RoundedCornerShape(12.dp))
-                        .background(if (selected) Cream else Navy)
-                        .clickable { viewModel.setCount(count) }
-                        .padding(horizontal = 22.dp, vertical = 12.dp),
-                    fontFamily = Fraunces,
-                    fontWeight = FontWeight.SemiBold,
-                    fontSize = 20.sp,
-                )
-            }
-        }
-        state.message?.let {
-            Spacer(Modifier.height(16.dp))
-            Text(it, color = Peach, style = MaterialTheme.typography.bodyLarge)
-        }
-        Spacer(Modifier.height(28.dp))
-        Text(
-            "Começar",
-            color = Navy,
-            modifier = Modifier
-                .fillMaxWidth()
-                .clip(RoundedCornerShape(16.dp))
-                .background(Cream)
-                .clickable(onClick = viewModel::start)
-                .padding(vertical = 16.dp),
-            textAlign = TextAlign.Center,
-            fontFamily = Fraunces,
-            fontWeight = FontWeight.SemiBold,
-            fontSize = 22.sp,
-        )
-        if (state.history.isNotEmpty()) {
-            Spacer(Modifier.height(32.dp))
-            Text("Resultados", color = Mist, style = MaterialTheme.typography.labelLarge)
+    Column(Modifier.fillMaxSize()) {
+        Column(
+            Modifier
+                .weight(1f)
+                .verticalScroll(rememberScrollState())
+                .padding(horizontal = 24.dp, vertical = 12.dp),
+        ) {
+            Text("Contexto", color = Mist, style = MaterialTheme.typography.labelLarge)
             Spacer(Modifier.height(8.dp))
-            state.history.forEach { row ->
-                HistoryRow(row, onDelete = { viewModel.deleteHistory(row.id) })
+            Text(
+                state.scopeLabel,
+                color = Cream,
+                modifier = Modifier
+                    .clip(RoundedCornerShape(14.dp))
+                    .background(Navy)
+                    .clickable(onClick = viewModel::openScope)
+                    .padding(horizontal = 16.dp, vertical = 14.dp)
+                    .fillMaxWidth(),
+                style = MaterialTheme.typography.titleMedium,
+            )
+            Spacer(Modifier.height(24.dp))
+            Text("Quantas perguntas", color = Mist, style = MaterialTheme.typography.labelLarge)
+            Spacer(Modifier.height(8.dp))
+            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                listOf(5, 10, 20).forEach { count ->
+                    val selected = state.count == count
+                    Text(
+                        count.toString(),
+                        color = if (selected) Navy else Cream,
+                        modifier = Modifier
+                            .clip(RoundedCornerShape(12.dp))
+                            .background(if (selected) Cream else Navy)
+                            .clickable { viewModel.setCount(count) }
+                            .padding(horizontal = 22.dp, vertical = 12.dp),
+                        fontFamily = Fraunces,
+                        fontWeight = FontWeight.SemiBold,
+                        fontSize = 20.sp,
+                    )
+                }
+            }
+            state.message?.let {
+                Spacer(Modifier.height(16.dp))
+                Text(it, color = Peach, style = MaterialTheme.typography.bodyLarge)
+            }
+            if (state.history.isNotEmpty()) {
+                Spacer(Modifier.height(32.dp))
+                Text("Resultados", color = Mist, style = MaterialTheme.typography.labelLarge)
+                Spacer(Modifier.height(8.dp))
+                state.history.forEach { row ->
+                    HistoryRow(row, onDelete = { viewModel.deleteHistory(row.id) })
+                }
             }
         }
+        BottomAction("Começar", enabled = true, onClick = viewModel::start)
     }
 }
 

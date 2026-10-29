@@ -94,6 +94,7 @@ fun MemorizeScreen(viewModel: MemorizeViewModel, onHome: () -> Unit) {
                             reduceMotion = reduceMotion,
                             onFlip = viewModel::onFlip,
                             onVerse = viewModel::openVerse,
+                            showReference = false,
                             modifier = Modifier.fillMaxSize(),
                         )
                     }
@@ -157,7 +158,7 @@ private fun VerseSetDialog(state: MemorizeUiState, viewModel: MemorizeViewModel)
             }
             Spacer(Modifier.height(24.dp))
             Text(
-                "Usar este conjunto",
+                "Usar estes versículos",
                 color = Navy,
                 modifier = Modifier
                     .fillMaxWidth()

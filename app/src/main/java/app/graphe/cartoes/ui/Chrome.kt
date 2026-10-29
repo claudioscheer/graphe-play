@@ -7,10 +7,12 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.fillMaxHeight
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.statusBarsPadding
+import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
@@ -91,8 +93,7 @@ fun ScreenHeader(title: String, onBack: () -> Unit) {
         modifier = Modifier
             .fillMaxWidth()
             .statusBarsPadding()
-            .padding(top = 22.dp)
-            .height(48.dp),
+            .padding(start = 4.dp, end = 4.dp, top = 22.dp, bottom = 18.dp),
         verticalAlignment = Alignment.CenterVertically,
     ) {
         IconButton(onClick = onBack) {
@@ -101,11 +102,14 @@ fun ScreenHeader(title: String, onBack: () -> Unit) {
         Text(
             text = title,
             color = Cream,
+            textAlign = TextAlign.Center,
             style = MaterialTheme.typography.titleLarge.copy(
                 platformStyle = PlatformTextStyle(includeFontPadding = false),
                 lineHeight = 26.sp,
             ),
+            modifier = Modifier.weight(1f),
         )
+        Spacer(Modifier.width(48.dp))
     }
 }
 
