@@ -24,6 +24,8 @@ class PracticeRepository(
 ) {
     suspend fun recentQuizzes(): List<QuizResultEntity> = dao.recentQuizzes()
 
+    suspend fun quizAnswers(quizId: Long): List<QuizAnswerEntity> = dao.quizAnswers(quizId)
+
     suspend fun deleteQuiz(quizId: Long) {
         dao.deleteQuizAnswers(quizId)
         dao.deleteQuizResult(quizId)

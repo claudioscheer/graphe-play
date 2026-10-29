@@ -59,6 +59,7 @@ import app.graphe.cartoes.ui.theme.Peach
 @Composable
 fun QuizScreen(viewModel: QuizViewModel, onHome: () -> Unit) {
     val state by viewModel.ui.collectAsStateWithLifecycle()
+    BackHandler(enabled = state.finished) { viewModel.backToSetup() }
     BackHandler(enabled = state.questions.isEmpty() && !state.showScope && !state.finished) { onHome() }
     Column(Modifier.fillMaxSize().background(Ink)) {
         ScreenHeader("Quiz", onBack = {
@@ -128,7 +129,11 @@ private fun QuizSetup(state: QuizUiState, viewModel: QuizViewModel) {
                 Text("Resultados", color = Mist, style = MaterialTheme.typography.labelLarge)
                 Spacer(Modifier.height(8.dp))
                 state.history.forEach { row ->
-                    HistoryRow(row, onDelete = { viewModel.deleteHistory(row.id) })
+                    HistoryRow(
+                        row,
+                        onOpen = { viewModel.openHistory(row.id) },
+                        onDelete = { viewModel.deleteHistory(row.id) },
+                    )
                 }
             }
         }
@@ -274,14 +279,16 @@ private fun BottomAction(label: String, enabled: Boolean, onClick: () -> Unit) {
 }
 
 @Composable
-private fun HistoryRow(row: QuizHistoryRow, onDelete: () -> Unit) {
+private fun HistoryRow(row: QuizHistoryRow, onOpen: () -> Unit, onDelete: () -> Unit) {
     val reveal = 96.dp
-    val revealPx = with(LocalDensity.current) { reveal.toPx() }
+    val gap = 20.dp
+    val travelPx = with(LocalDensity.current) { (reveal + gap).toPx() }
     val offset = remember { Animatable(0f) }
     Box(Modifier.fillMaxWidth().padding(vertical = 4.dp)) {
         Box(
             Modifier
                 .align(Alignment.CenterEnd)
+                .padding(start = gap)
                 .width(reveal)
                 .height(48.dp)
                 .clip(RoundedCornerShape(12.dp))
@@ -297,18 +304,20 @@ private fun HistoryRow(row: QuizHistoryRow, onDelete: () -> Unit) {
                 .fillMaxWidth()
                 .height(48.dp)
                 .background(Ink)
-                .pointerInput(revealPx) {
+                .clickable(onClick = onOpen)
+                .padding(end = 4.dp)
+                .pointerInput(travelPx) {
                     coroutineScope {
                         detectHorizontalDragGestures(
                             onHorizontalDrag = { _, delta ->
                                 launch {
-                                    offset.snapTo((offset.value + delta).coerceIn(-revealPx, 0f))
+                                    offset.snapTo((offset.value + delta).coerceIn(-travelPx, 0f))
                                 }
                             },
                             onDragEnd = {
                                 launch {
-                                    val open = offset.value < -revealPx * 0.4f
-                                    offset.animateTo(if (open) -revealPx else 0f, tween(180))
+                                    val open = offset.value < -travelPx * 0.4f
+                                    offset.animateTo(if (open) -travelPx else 0f, tween(180))
                                 }
                             },
                         )

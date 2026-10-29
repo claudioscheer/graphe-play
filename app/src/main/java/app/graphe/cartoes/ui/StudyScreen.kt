@@ -72,6 +72,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
 import app.graphe.cartoes.domain.Card
+import app.graphe.cartoes.domain.pointsToVerse
 import app.graphe.cartoes.domain.Face
 import app.graphe.cartoes.domain.Grade
 import app.graphe.cartoes.reminder.scheduleStreakReminder
@@ -292,16 +293,26 @@ internal fun FlashCard(
                     )
                     if (showReference) {
                         Spacer(Modifier.height(28.dp))
-                        Text(
-                            card.reference,
-                            color = Navy,
-                            style = MaterialTheme.typography.titleMedium,
-                            modifier = Modifier
-                                .clip(CircleShape)
-                                .background(Cream)
-                                .clickable(onClick = onVerse)
-                                .padding(horizontal = 16.dp, vertical = 8.dp),
-                        )
+                        val referenceStyle = MaterialTheme.typography.titleMedium
+                        if (card.pointsToVerse()) {
+                            Text(
+                                card.reference,
+                                color = Navy,
+                                style = referenceStyle,
+                                modifier = Modifier
+                                    .clip(CircleShape)
+                                    .background(Cream)
+                                    .clickable(onClick = onVerse)
+                                    .padding(horizontal = 16.dp, vertical = 8.dp),
+                            )
+                        } else {
+                            Text(
+                                card.reference,
+                                color = Cream.copy(alpha = 0.75f),
+                                style = referenceStyle,
+                                textAlign = TextAlign.Center,
+                            )
+                        }
                     }
                 }
             } else {

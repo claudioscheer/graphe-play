@@ -15,6 +15,9 @@ interface PracticeDao {
     @Query("SELECT * FROM quiz_result ORDER BY playedAtEpoch DESC LIMIT 12")
     suspend fun recentQuizzes(): List<QuizResultEntity>
 
+    @Query("SELECT * FROM quiz_answer WHERE quizId = :quizId ORDER BY id")
+    suspend fun quizAnswers(quizId: Long): List<QuizAnswerEntity>
+
     @Query("DELETE FROM quiz_answer WHERE quizId = :quizId")
     suspend fun deleteQuizAnswers(quizId: Long)
 

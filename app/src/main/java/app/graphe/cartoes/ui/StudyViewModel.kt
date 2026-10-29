@@ -14,6 +14,7 @@ import app.graphe.cartoes.domain.StreakState
 import app.graphe.cartoes.domain.displayedStreak
 import app.graphe.cartoes.domain.flip
 import app.graphe.cartoes.domain.mark
+import app.graphe.cartoes.domain.pointsToVerse
 import app.graphe.cartoes.domain.matches
 import app.graphe.cartoes.domain.scopeLabel
 import app.graphe.cartoes.domain.startSession
@@ -104,6 +105,7 @@ class StudyViewModel(
 
     fun openVerse() {
         val card = _ui.value.card ?: return
+        if (!card.pointsToVerse()) return
         viewModelScope.launch {
             val end = card.verseEnd ?: card.verseStart
             val lines = practice.verses(card.bookNumber, card.chapter, card.verseStart, end)

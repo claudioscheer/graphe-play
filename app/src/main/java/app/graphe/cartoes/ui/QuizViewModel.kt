@@ -6,6 +6,7 @@ import androidx.lifecycle.viewModelScope
 import app.graphe.cartoes.data.PracticeRepository
 import app.graphe.cartoes.data.QuizAnswerEntity
 import app.graphe.cartoes.data.StudyRepository
+import app.graphe.cartoes.domain.QuizOption
 import app.graphe.cartoes.domain.QuizQuestion
 import app.graphe.cartoes.domain.Scope
 import app.graphe.cartoes.domain.buildQuiz
@@ -124,6 +125,32 @@ class QuizViewModel(
             save(state.questions, marks, state.scopeLabel)
         } else {
             _ui.update { it.copy(marks = marks, chosen = null, index = state.index + 1) }
+        }
+    }
+
+    fun openHistory(id: Long) {
+        viewModelScope.launch {
+            val answers = practice.quizAnswers(id)
+            if (answers.isEmpty()) {
+                return@launch
+            }
+            _ui.update {
+                it.copy(
+                    questions = answers.map { answer ->
+                        QuizQuestion(
+                            cardId = answer.cardId,
+                            prompt = answer.prompt,
+                            reference = "",
+                            options = listOf(QuizOption(answer.correctAnswer, true)),
+                        )
+                    },
+                    marks = answers.map { answer -> QuizMark(answer.chosenAnswer, answer.wasCorrect) },
+                    index = 0,
+                    chosen = null,
+                    finished = true,
+                    message = null,
+                )
+            }
         }
     }
 

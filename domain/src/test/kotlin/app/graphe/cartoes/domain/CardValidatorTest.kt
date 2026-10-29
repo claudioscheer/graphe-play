@@ -22,6 +22,14 @@ class CardValidatorTest {
     }
 
     @Test
+    fun onlyAChapterAndVerseCanOpenTheText() {
+        val verse = obadiah()
+        val bookNote = obadiah(reference = "Obadias").copy(chapter = 0, verseStart = 0, id = "OBA.0.curiosity.1")
+        assertTrue(verse.pointsToVerse())
+        assertTrue(!bookNote.pointsToVerse())
+    }
+
+    @Test
     fun rejectsAPromptThatDoesNotFitTheCard() {
         val card = obadiah(prompt = "x".repeat(MAX_PROMPT_LENGTH + 1))
         val messages = validateCards(listOf(card)).map { it.message }

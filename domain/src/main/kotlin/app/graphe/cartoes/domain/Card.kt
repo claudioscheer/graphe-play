@@ -51,6 +51,8 @@ data class CardProgress(
     val lastReviewedAtEpochMillis: Long?,
 )
 
+fun Card.pointsToVerse(): Boolean = chapter >= 1 && verseStart >= 1
+
 fun Grade.stored(): String = when (this) {
     Grade.CORRECT -> "correct"
     Grade.WRONG -> "wrong"
