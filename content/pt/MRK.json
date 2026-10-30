@@ -10,9 +10,9 @@
       "answer": "Que ele é o Filho amado, e que Deus se agrada dele.",
       "reference": "Mc 1:11",
       "wrongs": [
-        "Que ele é o Servo escolhido, e que o povo o siga.",
-        "Que ele é Elias, e que Deus o envia de novo.",
-        "Que ele é só um homem, e que o céu se cala."
+        "Que ele é o Filho de Davi, e que Deus se agrada dele.",
+        "Que ele é o Servo escolhido, e que Deus se agrada dele.",
+        "Que ele é o Profeta esperado, e que Deus se agrada dele."
       ]
     },
     {
@@ -40,9 +40,9 @@
       "answer": "No Jordão.",
       "reference": "Mc 1:9",
       "wrongs": [
-        "No mar da Galileia.",
-        "No tanque de Siloé.",
-        "No poço de Jacó."
+        "No Cedrom.",
+        "No Jaboque.",
+        "No Quisom."
       ]
     },
     {
@@ -72,7 +72,7 @@
       "wrongs": [
         "Entraram pela porta dos fundos, carregando a maca.",
         "Esperaram do lado de fora até Jesus sair.",
-        "O paralítico andou sozinho até a casa."
+        "Abriram a janela e desceram o leito com cordas."
       ]
     },
     {
@@ -160,7 +160,7 @@
       "answer": "Na sinagoga.",
       "reference": "Mc 3:1",
       "wrongs": [
-        "À beira do mar.",
+        "Na beira do mar.",
         "No pátio do templo.",
         "Na casa de Levi."
       ]
@@ -175,9 +175,9 @@
       "answer": "A mão ficou sã de novo.",
       "reference": "Mc 3:5",
       "wrongs": [
-        "A mão continuou mirrada.",
-        "A mão inchou e doeu mais.",
-        "A mão secou por completo."
+        "A mão ficou sã no dia seguinte.",
+        "A mão ficou sã ao toque da água.",
+        "A mão ficou limpa de toda mancha."
       ]
     },
     {
@@ -190,8 +190,8 @@
       "answer": "Mandou o vento e o mar se aquietarem, e veio bonança.",
       "reference": "Mc 4:39",
       "wrongs": [
-        "Pediu que remassem depressa para a praia.",
-        "A tempestade cresceu até o barco encher.",
+        "Pediu ao Pai que acalmasse o vento, e veio bonança.",
+        "Ordenou aos discípulos que remassem para a praia.",
         "Lançou a âncora e esperou a bonança."
       ]
     },
@@ -221,7 +221,7 @@
       "reference": "Mc 4:8",
       "wrongs": [
         "Dez, vinte e trinta por um.",
-        "O dobro, e nada além disso.",
+        "Trinta, setenta e cem por um.",
         "Cem, duzentos e mil por um."
       ]
     },
@@ -235,9 +235,9 @@
       "answer": "Quase dois mil porcos se jogaram na água e morreram.",
       "reference": "Mc 5:13",
       "wrongs": [
-        "Os porcos voltaram ao pasto e se acalmaram.",
-        "A manada correu para a cidade.",
-        "Os porcos atravessaram o rio e fugiram."
+        "Quase mil porcos se jogaram na água e morreram.",
+        "Quase cinco mil porcos se jogaram no rio e morreram.",
+        "Quase dois mil porcos correram para a cidade e fugiram."
       ]
     },
     {
@@ -295,9 +295,9 @@
       "answer": "Multiplicou-os: abençoou, partiu e repartiu, e todos ficaram fartos.",
       "reference": "Mc 6:41",
       "wrongs": [
-        "Guardou os pães para o dia seguinte.",
-        "Mandou o povo comprar nas aldeias.",
-        "Serviu só os peixes e guardou os pães."
+        "Abençoou, partiu e guardou os pães para o dia seguinte.",
+        "Abençoou os pães e mandou o povo comprar nas aldeias.",
+        "Partiu os pães e repartiu só entre os discípulos."
       ]
     },
     {
@@ -310,9 +310,9 @@
       "answer": "De Herodias, esposa do irmão dele, Filipe.",
       "reference": "Mc 6:17",
       "wrongs": [
-        "De Salomé, que dançou na festa.",
-        "Da mulher de Pilatos.",
-        "De Isabel, mãe de João."
+        "De Salomé, filha de Herodias.",
+        "Da mulher de Pilatos, que sonhou.",
+        "De Isabel, mãe de João Batista."
       ]
     },
     {
@@ -355,9 +355,9 @@
       "answer": "Os ouvidos se abriram e ele passou a falar bem.",
       "reference": "Mc 7:35",
       "wrongs": [
-        "Continuou surdo e sem conseguir falar.",
-        "Passou a ouvir, mas a língua ficou presa.",
-        "A febre cedeu, e a audição não mudou."
+        "Os ouvidos se abriram e ele passou a falar pouco.",
+        "Os ouvidos se abriram e ele passou a falar com esforço.",
+        "Os ouvidos se abriram e ele passou a falar muito alto."
       ]
     },
     {
@@ -417,7 +417,7 @@
       "wrongs": [
         "Elias.",
         "João Batista.",
-        "Um dos profetas."
+        "Um profeta."
       ]
     },
     {
@@ -430,9 +430,9 @@
       "answer": "No caminho das aldeias de Cesareia de Filipe.",
       "reference": "Mc 8:27",
       "wrongs": [
-        "Nas praias de Cafarnaum.",
-        "No monte das Oliveiras.",
-        "Na estrada de Jericó."
+        "No caminho das aldeias de Cafarnaum.",
+        "No caminho que desce para Jericó.",
+        "No caminho das praias de Tiberíades."
       ]
     },
     {
@@ -460,9 +460,9 @@
       "answer": "Pessoas parecidas com árvores que andavam.",
       "reference": "Mc 8:24",
       "wrongs": [
-        "Aves pousadas no chão, bem perto.",
-        "Só um clarão, sem forma de gente.",
-        "O rosto de Jesus, já nítido."
+        "Pessoas parecidas com colunas que andavam.",
+        "Pessoas parecidas com árvores sem folhas.",
+        "Pessoas parecidas com sombras que passavam."
       ]
     },
     {
@@ -475,9 +475,9 @@
       "answer": "Brilharam, brancas como a neve, além de qualquer lavadeiro.",
       "reference": "Mc 9:3",
       "wrongs": [
-        "Ficaram escuras, como pano de luto.",
-        "Rasgaram com o vento do monte.",
-        "Continuaram iguais às dos discípulos."
+        "Brilharam, brancas como a lã, além de qualquer lavadeiro.",
+        "Brilharam, brancas como a luz, além de qualquer lavadeiro.",
+        "Brilharam, brancas como a cal, além de qualquer lavadeiro."
       ]
     },
     {
@@ -521,8 +521,8 @@
       "reference": "Mc 9:29",
       "wrongs": [
         "Com óleo ungido e um grito.",
-        "Com um nome secreto, dito três vezes.",
-        "Com jejum do pai, e nada mais."
+        "Com a imposição das mãos.",
+        "Com o jejum do menino."
       ]
     },
     {
@@ -535,9 +535,9 @@
       "answer": "Um camelo atravessar o fundo de uma agulha.",
       "reference": "Mc 10:25",
       "wrongs": [
-        "Um cavalo passar pela porta estreita.",
-        "Um fio atravessar o fundo da agulha.",
-        "Uma ovelha entrar no curral à noite."
+        "Um cavalo passar pelo fundo de uma agulha.",
+        "Um camelo passar pela porta estreita.",
+        "Um boi atravessar o fundo de uma agulha."
       ]
     },
     {
@@ -580,9 +580,9 @@
       "answer": "Dos meninos.",
       "reference": "Mc 10:14",
       "wrongs": [
-        "Dos fariseus que guardam a Lei.",
-        "Dos soldados que obedecem.",
-        "Dos ricos que dão esmola."
+        "Dos humildes.",
+        "Dos sábios.",
+        "Dos anciãos."
       ]
     },
     {
@@ -595,9 +595,9 @@
       "answer": "Sobre um jumentinho, em cima das roupas.",
       "reference": "Mc 11:7",
       "wrongs": [
-        "Sobre um cavalo de guerra.",
-        "Sobre os ombros da multidão.",
-        "Sobre um camelo, sem manta."
+        "Sobre um potro, em cima das roupas.",
+        "Sobre um camelo, em cima das roupas.",
+        "Sobre um jumentinho, em cima dos ramos."
       ]
     },
     {
@@ -640,9 +640,9 @@
       "answer": "Seca a partir das raízes.",
       "reference": "Mc 11:20",
       "wrongs": [
-        "Cheia de figos maduros.",
-        "Verde, mas ainda sem fruto.",
-        "Cortada rente ao chão."
+        "Seca a partir dos galhos.",
+        "Seca a partir do tronco.",
+        "Seca apenas nos ramos de cima."
       ]
     },
     {
@@ -656,8 +656,8 @@
       "reference": "Mc 12:30",
       "wrongs": [
         "Com ofertas, jejum e votos no templo.",
-        "Com medo, silêncio e distância do templo.",
-        "Só de boca, sem envolver o coração nem a vida."
+        "Com dízimos, holocaustos e incenso no templo.",
+        "Com palavras, cantos e ofertas no templo."
       ]
     },
     {
@@ -687,7 +687,7 @@
       "wrongs": [
         "De pé, junto ao altar dos sacrifícios.",
         "Na porta Formosa, entre os pedintes.",
-        "No pátio das mulheres, de costas."
+        "No pátio das mulheres, junto ao muro."
       ]
     },
     {
@@ -700,9 +700,9 @@
       "answer": "Duas pequenas moedas, que valiam meio centavo.",
       "reference": "Mc 12:42",
       "wrongs": [
-        "Um denário inteiro.",
-        "Dez moedas de prata.",
-        "Uma única moeda de ouro."
+        "Duas moedas de prata, que valiam um denário.",
+        "Uma só moeda, que valia meio denário.",
+        "Três moedas de cobre, que valiam um centavo."
       ]
     },
     {
@@ -760,9 +760,9 @@
       "answer": "Não ficaria pedra sobre pedra.",
       "reference": "Mc 13:2",
       "wrongs": [
-        "Seriam ampliados pelo rei seguinte.",
-        "Só o véu interno cairia.",
-        "Ficariam de pé até o fim."
+        "Não cairia uma só pedra daquele lugar.",
+        "Não seria destruído em vida dos discípulos.",
+        "Não perderia o ouro que o cobria."
       ]
     },
     {
@@ -805,9 +805,9 @@
       "answer": "Em Getsêmani.",
       "reference": "Mc 14:32",
       "wrongs": [
-        "No cenáculo, dentro da cidade.",
+        "No cenáculo.",
         "No pátio de Caifás.",
-        "No caminho de Emaús."
+        "No horto de Betânia."
       ]
     },
     {
@@ -821,7 +821,7 @@
       "reference": "Mc 14:52",
       "wrongs": [
         "Cobriu o rosto com o lençol e saiu devagar.",
-        "Entregou o lençol aos guardas e ficou.",
+        "Pegou o lençol e correu para o monte.",
         "Rasgou o lençol e se escondeu no jardim."
       ]
     },
@@ -835,9 +835,9 @@
       "answer": "Ele expirou.",
       "reference": "Mc 15:37",
       "wrongs": [
-        "Ele desceu da cruz.",
-        "Ele pediu água e ficou.",
-        "A multidão o soltou."
+        "Ele desmaiou.",
+        "Ele suspirou.",
+        "Ele cambaleou."
       ]
     },
     {
@@ -851,8 +851,8 @@
       "reference": "Mc 15:21",
       "wrongs": [
         "José de Arimateia, membro do conselho.",
-        "André, irmão de Pedro.",
-        "João, filho de Zebedeu."
+        "André, irmão de Pedro, o pescador.",
+        "João, filho de Zebedeu, o apóstolo."
       ]
     },
     {
@@ -895,8 +895,8 @@
       "answer": "Que o Nazareno já tinha ressuscitado e não estava ali.",
       "reference": "Mc 16:6",
       "wrongs": [
-        "Que o corpo tinha sido roubado de noite.",
-        "Que Jesus ainda estava no sepulcro.",
+        "Que o corpo do Nazareno fora levado de noite.",
+        "Que o Nazareno tinha subido ao céu naquela hora.",
         "Que elas deviam procurar em outro túmulo."
       ]
     },
@@ -910,9 +910,9 @@
       "answer": "Madalena, Salomé e Maria, mãe de Tiago.",
       "reference": "Mc 16:1",
       "wrongs": [
-        "Joana, Susana e Marta.",
-        "A mãe de Jesus, com Marta.",
-        "Só Pedro e João, ainda de madrugada."
+        "Joana, Susana e Maria, mãe de José.",
+        "Maria, mãe de Jesus, e Marta, sua irmã.",
+        "Susana, Salomé e a mulher de Cuza."
       ]
     },
     {
@@ -925,9 +925,9 @@
       "answer": "Para a Galileia.",
       "reference": "Mc 16:7",
       "wrongs": [
-        "Para Jerusalém, no cenáculo.",
-        "Para o Jordão, onde fora batizado.",
-        "Para Emaús, com dois discípulos."
+        "Para Jerusalém.",
+        "Para a Samaria.",
+        "Para a Judeia."
       ]
     },
     {

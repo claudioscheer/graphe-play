@@ -25,8 +25,8 @@
       "answer": "Não. Cristo fundou a igreja. O papado veio séculos depois.",
       "reference": "Reforma",
       "wrongs": [
-        "Sim. Pedro foi o primeiro papa em Roma.",
-        "Sim. Cristo entregou as chaves só ao bispo de Roma.",
+        "Não. Pedro fundou a igreja e foi o primeiro papa.",
+        "Não. A igreja nasceu em Roma, já com o papado.",
         "Não. A igreja só começou com a Reforma."
       ]
     },
@@ -40,9 +40,9 @@
       "answer": "Não houve fundação por Cristo. O cisma com o Oriente foi em 1054.",
       "reference": "1054",
       "wrongs": [
-        "Cristo a fundou sobre Pedro no ano 33.",
-        "Constantino a fundou no Édito de Milão, em 313.",
-        "Lutero a fundou ao publicar as teses, em 1517."
+        "Não houve fundação por Cristo. O cisma foi em 1204.",
+        "Não houve fundação por Cristo. O cisma foi em 1378.",
+        "Não houve fundação por Cristo. O cisma foi em 1517."
       ]
     },
     {
@@ -70,8 +70,8 @@
       "answer": "Não. Só deu liberdade ao culto cristão no Império.",
       "reference": "313",
       "wrongs": [
-        "Sim. Constantino criou a igreja nesse ano.",
-        "Sim. O édito definiu o cânon da Bíblia.",
+        "Não. Ele criou a igreja e o papado no Império.",
+        "Não. Ele fixou o cânon da Bíblia nesse ano.",
         "Não. Ele proibiu o culto cristão no Império."
       ]
     },
@@ -86,8 +86,8 @@
       "reference": "Constantino",
       "wrongs": [
         "O primeiro papa, que fundou a igreja em Roma.",
-        "Um apóstolo que escreveu o Apocalipse.",
-        "O reformador que publicou as 95 teses."
+        "Um apóstolo que escreveu o Apocalipse em Patmos.",
+        "O reformador que publicou as 95 teses em 1517."
       ]
     },
     {
@@ -100,8 +100,8 @@
       "answer": "Não. Ela reconheceu os livros que Deus já tinha dado.",
       "reference": "Cânon",
       "wrongs": [
-        "Sim. Os bispos escolheram o que seria inspirado.",
-        "Sim. O papa escreveu os livros do Novo Testamento.",
+        "Não. Os bispos escolheram o que seria inspirado.",
+        "Não. O papa escreveu os livros do Novo Testamento.",
         "Não. A Bíblia surgiu só na Reforma, no século XVI."
       ]
     },
@@ -115,8 +115,8 @@
       "answer": "Não. A Bíblia é a regra final da fé.",
       "reference": "Sola Scriptura",
       "wrongs": [
-        "Sim. O magistério da igreja corrige a Bíblia.",
-        "Sim. As visões novas pesam mais que o texto.",
+        "Não. O magistério da igreja corrige a Bíblia.",
+        "Não. As visões novas pesam mais que o texto.",
         "Não. Só conta o que o concílio votar."
       ]
     },
@@ -130,9 +130,9 @@
       "answer": "Somente a Escritura, a fé, a graça, Cristo e a glória de Deus.",
       "reference": "Cinco solas",
       "wrongs": [
-        "Escritura e tradição, fé e obras, graça e mérito.",
-        "O papa, os sacramentos, Maria e o purgatório.",
-        "A lei, a circuncisão, o sábado, o templo e os votos."
+        "Somente a Escritura, as obras, a graça, Cristo e a glória de Deus.",
+        "Somente a tradição, a fé, a graça, Cristo e a glória de Deus.",
+        "Somente a Escritura, a fé, o mérito, Cristo e a glória de Deus."
       ]
     },
     {
@@ -145,9 +145,9 @@
       "answer": "A Bíblia é a regra final da fé, acima da tradição.",
       "reference": "Sola Scriptura",
       "wrongs": [
-        "A tradição da igreja julga o que a Bíblia ensina.",
-        "O papa define a fé quando a Bíblia se cala.",
-        "A razão humana fica acima do texto bíblico."
+        "A Bíblia é a regra final da fé, junto com a tradição.",
+        "A Bíblia é a regra da fé só quando a tradição confirma.",
+        "A Bíblia é a regra final do culto, acima da tradição."
       ]
     },
     {
@@ -191,8 +191,8 @@
       "reference": "Solus Christus",
       "wrongs": [
         "Cristo e Maria medeiam entre Deus e os homens.",
-        "Os santos e os anjos levam as orações a Deus.",
-        "O sacerdote na missa refaz o sacrifício de Cristo."
+        "Cristo e os santos medeiam entre Deus e os homens.",
+        "Cristo e o sacerdote medeiam entre Deus e os homens."
       ]
     },
     {
@@ -205,9 +205,9 @@
       "answer": "Toda a glória da salvação pertence a Deus.",
       "reference": "Soli Deo gloria",
       "wrongs": [
-        "A glória se divide entre Deus e quem cooperou.",
-        "A glória cabe a quem perseverou por mérito próprio.",
-        "A glória da salvação cabe à igreja que a administra."
+        "Toda a glória da salvação pertence à igreja que a administra.",
+        "Toda a glória da salvação pertence a quem cooperou com Deus.",
+        "Toda a glória da salvação pertence aos santos que a mereceram."
       ]
     },
     {
@@ -220,8 +220,8 @@
       "answer": "Não. O cabeça da igreja é Cristo.",
       "reference": "Cristo",
       "wrongs": [
-        "Sim. O papa é o cabeça visível no lugar de Cristo.",
-        "Sim. Pedro ainda governa a igreja desde Roma.",
+        "Não. O cabeça da igreja é o papa.",
+        "Não. O cabeça da igreja é Pedro, ainda hoje.",
         "Não. O cabeça da igreja é cada concílio."
       ]
     },
@@ -235,8 +235,8 @@
       "answer": "Não. Há um só mediador entre Deus e os homens: Jesus.",
       "reference": "1 Timóteo 2",
       "wrongs": [
-        "Sim. Maria leva a Deus o que Cristo não cobre.",
-        "Sim. Os santos completam a mediação de Jesus.",
+        "Não. Há dois mediadores entre Deus e os homens: Cristo e Maria.",
+        "Não. A mediadora é Maria, que leva a Deus as orações.",
         "Não. O mediador é o sacerdote que oferece a missa."
       ]
     },
@@ -251,8 +251,8 @@
       "reference": "Dort",
       "wrongs": [
         "Livre-arbítrio, eleição prevista, expiação universal, graça resistível e queda possível.",
-        "Somente a Escritura, a fé, a graça, Cristo e a glória de Deus.",
-        "Batismo, crisma, penitência, eucaristia e unção dos enfermos."
+        "Somente a Escritura, a fé, a graça, Cristo e a glória de Deus, em cinco pontos.",
+        "Batismo, crisma, penitência, eucaristia, ordem e unção dos enfermos."
       ]
     },
     {
@@ -265,9 +265,9 @@
       "answer": "O pecado atingiu a pessoa inteira, e sem graça ela não busca a Deus.",
       "reference": "Dort",
       "wrongs": [
-        "O pecado só mancha o corpo, e a vontade segue livre.",
+        "O pecado atingiu a pessoa inteira, menos a vontade.",
         "A pessoa nasce boa e só se perde pelo exemplo.",
-        "Sem graça a pessoa ainda escolhe a Deus por si."
+        "O pecado atingiu a mente, mas a vontade ficou livre."
       ]
     },
     {
@@ -282,7 +282,7 @@
       "wrongs": [
         "Deus escolhe quem ele previu que iria crer.",
         "Deus escolhe quem guarda a lei com mais zelo.",
-        "Deus não escolhe ninguém; todos se salvam do mesmo modo."
+        "Deus escolhe quem recebeu o batismo ainda criança."
       ]
     },
     {
@@ -295,9 +295,9 @@
       "answer": "Cristo morreu para salvar de fato o seu povo.",
       "reference": "Dort",
       "wrongs": [
-        "Cristo morreu só para dar exemplo, sem salvar ninguém.",
-        "Cristo morreu por todos, e cada um já está salvo.",
-        "Cristo tornou a salvação possível, se a pessoa completar."
+        "Cristo morreu para tornar a salvação possível a todos.",
+        "Cristo morreu para salvar todos, sem exceção alguma.",
+        "Cristo morreu para dar exemplo de amor ao seu povo."
       ]
     },
     {
@@ -310,9 +310,9 @@
       "answer": "Quando Deus chama de verdade, o pecador vem a Cristo.",
       "reference": "Dort",
       "wrongs": [
-        "O pecador pode recusar para sempre o chamado verdadeiro.",
-        "A graça só ajuda quem já deu o primeiro passo.",
-        "O chamado verdadeiro salva mesmo quem não crê."
+        "Quando Deus chama, o pecador pode recusar o convite.",
+        "Quando Deus chama, a graça só ajuda quem já crê.",
+        "Quando Deus chama, o pecador vem por mérito próprio."
       ]
     },
     {
@@ -325,9 +325,9 @@
       "answer": "Quem Deus salvou, ele guarda até o fim.",
       "reference": "Dort",
       "wrongs": [
-        "Quem Deus salvou pode se perder de novo.",
-        "A perseverança é o mérito que segura a salvação.",
-        "Só persevera quem nunca volta a pecar."
+        "Quem Deus salvou, ele guarda por um tempo.",
+        "Quem Deus salvou, ele guarda se perseverar.",
+        "Quem Deus salvou, ele guarda pelo mérito da fé."
       ]
     },
     {
@@ -372,7 +372,7 @@
       "wrongs": [
         "Reformador de Genebra. Ensinou a graça irresistível.",
         "Papa do século XVI. Condenou a justificação pela fé.",
-        "Monge alemão. Publicou as 95 teses em 1517."
+        "Monge alemão de Erfurt. Publicou as 95 teses em 1517."
       ]
     },
     {
@@ -550,9 +550,9 @@
       "answer": "Estudioso que traduziu a Bíblia para o latim. Essa tradução é a Vulgata.",
       "reference": "Jerônimo",
       "wrongs": [
-        "Traduziu a Bíblia para o alemão na Reforma.",
-        "Traduziu o Novo Testamento para o inglês e morreu em 1536.",
-        "Copiou os manuscritos gregos em Constantinopla."
+        "Estudioso que traduziu a Bíblia para o alemão, na Reforma.",
+        "Estudioso que traduziu a Bíblia para o inglês, em 1536.",
+        "Estudioso que copiou os manuscritos gregos em Constantinopla."
       ]
     },
     {
@@ -580,7 +580,7 @@
       "answer": "Professor inglês do século XIV. Defendeu a Bíblia acima do papa.",
       "reference": "Wycliffe",
       "wrongs": [
-        "Pregador da Boêmia, queimado em 1415.",
+        "Pregador da Boêmia, queimado em Constança, em 1415.",
         "Monge alemão que iniciou a Reforma em 1517.",
         "Tradutor inglês do Novo Testamento, morto em 1536."
       ]
@@ -762,7 +762,7 @@
       "wrongs": [
         "Sete, incluindo a missa, a penitência e a unção.",
         "Um só: a ceia. O batismo não foi ordenado.",
-        "Nenhum. A fé dispensa todo sinal visível."
+        "Três: o batismo, a ceia e a confissão."
       ]
     },
     {
@@ -775,8 +775,8 @@
       "answer": "A teologia de Armínio na Igreja Reformada holandesa, em contestação ao calvinismo.",
       "reference": "Armínio",
       "wrongs": [
-        "O calvinismo ensinado por Calvino em Genebra.",
-        "A confissão luterana apresentada em Augsburgo.",
+        "O calvinismo ensinado por Calvino em Genebra, no século XVI.",
+        "A confissão luterana apresentada em Augsburgo, em 1530.",
         "O decreto do Concílio de Trento sobre a justificação."
       ]
     },
@@ -790,9 +790,9 @@
       "answer": "A contestação dos seguidores de Armínio ao calvinismo da Igreja Reformada holandesa.",
       "reference": "1610",
       "wrongs": [
-        "As teses de Lutero contra as indulgências.",
-        "O édito que deu liberdade de culto em 313.",
-        "A confissão escrita em Westminster."
+        "A contestação dos contra-remonstrantes ao arminianismo.",
+        "A confissão de fé dos reformados holandeses em Dort.",
+        "O pedido dos católicos holandeses por liberdade de culto."
       ]
     },
     {
@@ -806,8 +806,8 @@
       "reference": "Leiden",
       "wrongs": [
         "Na universidade de Wittenberg.",
-        "No convento de Erfurt.",
-        "Na catedral de Genebra."
+        "Na universidade de Erfurt, na Alemanha.",
+        "Na universidade de Genebra, na Suíça."
       ]
     },
     {
@@ -822,7 +822,7 @@
       "wrongs": [
         "Martinho Lutero, em Wittenberg.",
         "Tomás de Aquino, em Paris.",
-        "Armínio, em Leiden."
+        "Armínio, professor de Leiden."
       ]
     },
     {
@@ -835,9 +835,9 @@
       "answer": "Não. É um resumo posterior dos cinco pontos de Dort.",
       "reference": "TULIP",
       "wrongs": [
-        "Sim. Ele a publicou nas Institutas, em 1536.",
-        "Sim. Ela está nas 95 teses.",
-        "Não. A sigla foi escrita por Agostinho."
+        "Não. A sigla foi escrita por Agostinho, no século V.",
+        "Não. Foi Calvino quem a publicou nas Institutas.",
+        "Não. Ela está nas 95 teses, em Wittenberg."
       ]
     },
     {
@@ -851,7 +851,7 @@
       "reference": "Aquino",
       "wrongs": [
         "Monge agostiniano que iniciou a Reforma em 1517.",
-        "Bispo de Hipona no século V.",
+        "Bispo de Hipona (354–430). Escreveu as Confissões.",
         "Reformador de Genebra no século XVI."
       ]
     },
@@ -865,9 +865,9 @@
       "answer": "A grande obra de Tomás de Aquino sobre Deus e a fé.",
       "reference": "Suma",
       "wrongs": [
-        "O catecismo reformado de Heidelberg.",
-        "A tradução latina da Bíblia feita por Jerônimo.",
-        "As 95 teses pregadas em Wittenberg."
+        "A grande obra de Agostinho sobre a cidade de Deus.",
+        "A grande obra de Calvino sobre a fé cristã.",
+        "A grande obra de Anselmo sobre a existência de Deus."
       ]
     },
     {
@@ -895,9 +895,9 @@
       "answer": "Que a Bíblia tem autoridade acima do papa.",
       "reference": "Hus",
       "wrongs": [
-        "Que o papa é o cabeça da igreja.",
-        "Que a graça pode ser comprada.",
-        "Que só o latim pode ser lido na igreja."
+        "Que o concílio tem autoridade acima do papa.",
+        "Que o imperador tem autoridade acima do papa.",
+        "Que a tradição tem autoridade acima da Bíblia."
       ]
     },
     {
@@ -911,7 +911,7 @@
       "reference": "Worms, 1521",
       "wrongs": [
         "O concílio que afirmou a Trindade em 325.",
-        "O sínodo que respondeu a Armínio.",
+        "A assembleia de 1545 que respondeu à Reforma.",
         "A reunião que escreveu a Confissão de Westminster."
       ]
     },
@@ -940,9 +940,9 @@
       "answer": "Companheiro de Lutero. Escreveu a Confissão de Augsburgo.",
       "reference": "Melâncton",
       "wrongs": [
-        "Sucessor de Calvino em Genebra.",
-        "Tradutor da Bíblia para o inglês.",
-        "Pregador queimado em Constança."
+        "Sucessor de Calvino na liderança de Genebra.",
+        "Tradutor da Bíblia para o inglês, em 1536.",
+        "Pregador da Boêmia, queimado em Constança."
       ]
     },
     {
@@ -1045,9 +1045,9 @@
       "answer": "Não. É um só Deus em três pessoas.",
       "reference": "Trindade",
       "wrongs": [
-        "Sim. Cada pessoa é um deus separado.",
-        "Não. É um Deus que muda de forma.",
-        "Sim. O Antigo Testamento adora outro deus."
+        "Não. São três deuses que agem em conjunto.",
+        "Não. É um Deus que muda de forma e de nome.",
+        "Não. É o Pai, e o Filho e o Espírito são criaturas."
       ]
     },
     {
@@ -1060,9 +1060,9 @@
       "answer": "Não. Ele é pessoa, e é Deus.",
       "reference": "Trindade",
       "wrongs": [
-        "Sim. É só o poder impessoal de Deus.",
-        "Não. Ele é um anjo elevado.",
-        "Sim. É outro nome para a igreja."
+        "Não. Ele é só o poder impessoal de Deus.",
+        "Não. Ele é um anjo elevado, criado por Deus.",
+        "Não. Ele é outro nome da igreja."
       ]
     },
     {
@@ -1075,9 +1075,9 @@
       "answer": "A Bíblia, como Deus a deu, não erra no que afirma.",
       "reference": "Inerrância",
       "wrongs": [
-        "A Bíblia acerta só em religião e erra no resto.",
-        "Só o Novo Testamento é sem erro.",
-        "A igreja corrige a Bíblia quando ela falha."
+        "A Bíblia, como Deus a deu, não erra nos temas de fé.",
+        "A Bíblia, como Deus a deu, não erra no que foi copiado.",
+        "A Bíblia, como a igreja a deu, não erra no que afirma."
       ]
     },
     {
@@ -1121,7 +1121,7 @@
       "reference": "Cânon",
       "wrongs": [
         "Trinta e nove.",
-        "Quatro.",
+        "Vinte e cinco.",
         "Sessenta e seis."
       ]
     },
@@ -1137,7 +1137,7 @@
       "wrongs": [
         "Mateus.",
         "Salmos.",
-        "Jó."
+        "Êxodo."
       ]
     },
     {
@@ -1151,8 +1151,8 @@
       "reference": "Cânon",
       "wrongs": [
         "Malaquias.",
-        "Atos.",
-        "Judas."
+        "Hebreus.",
+        "Filemom."
       ]
     },
     {
@@ -1181,7 +1181,7 @@
       "reference": "Línguas",
       "wrongs": [
         "Em latim, grego e português.",
-        "Só em hebraico.",
+        "Em hebraico e aramaico apenas.",
         "Em aramaico e latim."
       ]
     },
@@ -1211,7 +1211,7 @@
       "reference": "Perseguição",
       "wrongs": [
         "Porque recusavam pagar qualquer imposto.",
-        "Porque queriam o trono de Roma.",
+        "Porque queriam tomar o trono do imperador.",
         "Porque fechavam os mercados aos sábados."
       ]
     },
@@ -1227,7 +1227,7 @@
       "wrongs": [
         "Diocleciano, em 303.",
         "Constantino, em 313.",
-        "Pilatos, no ano 30."
+        "Tito, no ano 70."
       ]
     },
     {
@@ -1242,7 +1242,7 @@
       "wrongs": [
         "O rei que mandou matar os meninos em Belém.",
         "O imperador que concedeu liberdade de culto.",
-        "O governador que julgou Jesus."
+        "O governador romano que julgou Jesus em Jerusalém."
       ]
     },
     {
@@ -1301,7 +1301,7 @@
       "reference": "Atos 12",
       "wrongs": [
         "Foi crucificado de cabeça para baixo.",
-        "Morreu idoso em Éfeso.",
+        "Morreu idoso, em Éfeso, no fim do século I.",
         "Foi apedrejado pelo Sinédrio."
       ]
     },
@@ -1317,7 +1317,7 @@
       "wrongs": [
         "Degolado em Tarso, na Cilícia.",
         "Apedrejado em Jerusalém por Paulo.",
-        "Morto no mar da Galileia."
+        "Afogado no mar da Galileia."
       ]
     },
     {
@@ -1345,8 +1345,8 @@
       "answer": "Idoso, em Éfeso.",
       "reference": "João",
       "wrongs": [
-        "À espada, com o irmão Tiago.",
-        "Crucificado em Roma com Pedro.",
+        "À espada, com Tiago.",
+        "Crucificado em Roma.",
         "Apedrejado em Jerusalém."
       ]
     },
@@ -1375,8 +1375,8 @@
       "answer": "Judas Iscariotes.",
       "reference": "Judas",
       "wrongs": [
-        "Pedro.",
-        "Tomé.",
+        "Pedro, o pescador.",
+        "Tomé, o gêmeo.",
         "Simão, o zelote."
       ]
     },
@@ -1407,7 +1407,7 @@
       "wrongs": [
         "Filhos de Alfeu, ambos cobradores de impostos.",
         "Irmãos de Jesus, nascidos em Nazaré.",
-        "Discípulos de João Batista que não seguiram Jesus."
+        "Discípulos de João Batista, depois de Jesus."
       ]
     },
     {
@@ -1435,9 +1435,9 @@
       "answer": "De Antioquia da Síria.",
       "reference": "Antioquia",
       "wrongs": [
-        "De Jerusalém.",
-        "De Roma.",
-        "De Atenas."
+        "De Jerusalém, na Judeia.",
+        "De Roma, na Itália.",
+        "De Tarso, na Cilícia."
       ]
     },
     {
@@ -1585,9 +1585,9 @@
       "answer": "Mar de Tiberíades.",
       "reference": "Galileia",
       "wrongs": [
-        "Mar Morto.",
-        "Mar Grande.",
-        "Mar Vermelho."
+        "Mar Vermelho, no sul.",
+        "Mar Egeu, a oeste da Ásia.",
+        "Mar Morto, bem ao sul."
       ]
     },
     {
@@ -1600,9 +1600,9 @@
       "answer": "A Samaria.",
       "reference": "Samaria",
       "wrongs": [
-        "O deserto do Sinai.",
+        "A Idumeia.",
         "A Fenícia.",
-        "O Egito."
+        "A Pereia."
       ]
     },
     {
@@ -1661,7 +1661,7 @@
       "reference": "Macedônia",
       "wrongs": [
         "Na Judeia.",
-        "Na Ásia Menor, junto de Éfeso.",
+        "Na Ásia Menor.",
         "Na ilha de Creta."
       ]
     },
@@ -1677,7 +1677,7 @@
       "wrongs": [
         "Pregador batista de Londres no século XIX.",
         "Reformador de Genebra no século XVI.",
-        "Bispo de Hipona no século V."
+        "Bispo de Hipona, no norte da África, no século V."
       ]
     },
     {
@@ -1721,7 +1721,7 @@
       "reference": "Spurgeon",
       "wrongs": [
         "Pastor puritano do século XVII.",
-        "Bispo de Liverpool no século XVI.",
+        "Bispo anglicano de Liverpool no século XIX.",
         "Monge que iniciou a Reforma."
       ]
     },
@@ -1826,7 +1826,7 @@
       "reference": "Genebra",
       "wrongs": [
         "Só hinos novos, sem salmos.",
-        "A missa em latim.",
+        "A missa cantada em latim.",
         "Cânticos de Maria e dos santos."
       ]
     },
@@ -1842,7 +1842,7 @@
       "wrongs": [
         "Pregador batista de Londres no século XIX.",
         "Reformador de Genebra no século XVI.",
-        "Bispo de Hipona no século V."
+        "Bispo de Hipona no norte da África."
       ]
     },
     {
@@ -1976,8 +1976,8 @@
       "reference": "Ásia",
       "wrongs": [
         "Na Judeia, ao redor de Jerusalém.",
-        "Na Itália, ao redor de Roma.",
-        "No Egito, ao longo do Nilo."
+        "Na Itália, ao redor da cidade de Roma.",
+        "No Egito, ao longo do rio Nilo e do delta."
       ]
     },
     {
@@ -2020,7 +2020,7 @@
       "answer": "Por ser porto comercial e fiel a Roma, na Ásia.",
       "reference": "Esmirna",
       "wrongs": [
-        "Por ser a capital da Judeia.",
+        "Por ser a capital da Judeia e do templo.",
         "Pela biblioteca e pelo altar de Zeus.",
         "Por ser um oásis no vale do Jordão."
       ]
@@ -2036,7 +2036,7 @@
       "reference": "Pérgamo",
       "wrongs": [
         "Por ser vila de pescadores na Galileia.",
-        "Pelo templo de Salomão.",
+        "Pelo templo de Salomão, em Jerusalém.",
         "Por ser colônia romana na Macedônia."
       ]
     },
@@ -2051,7 +2051,7 @@
       "reference": "Tiatira",
       "wrongs": [
         "Pelo ouro da antiga Lídia.",
-        "Pelo templo de Ártemis.",
+        "Pelo templo de Ártemis, em Éfeso.",
         "Pelos dois portos do istmo."
       ]
     },
@@ -2066,7 +2066,7 @@
       "reference": "Sardes",
       "wrongs": [
         "Por ser a menor das sete, na rota do interior.",
-        "Pelos bancos e pelo colírio.",
+        "Pelos bancos, pelo ouro e pelo colírio.",
         "Por ser colônia de veteranos romanos."
       ]
     },
@@ -2080,9 +2080,9 @@
       "answer": "Por ser cidade pequena na rota para o interior da Ásia.",
       "reference": "Filadélfia",
       "wrongs": [
-        "Por ser a capital do Império Romano.",
-        "Pelo grande porto de Esmirna.",
-        "Pelo templo de Ártemis."
+        "Por ser cidade grande na rota para o interior da Ásia.",
+        "Por ser cidade pequena na rota para o mar Egeu.",
+        "Por ser cidade pequena na fronteira com a Frígia."
       ]
     },
     {
@@ -2096,7 +2096,7 @@
       "reference": "Laodiceia",
       "wrongs": [
         "Pela pesca no mar da Galileia.",
-        "Pelo incenso e pela mirra.",
+        "Pelo incenso, pela mirra e pelo ouro.",
         "Pelas minas de cobre de Chipre."
       ]
     },
@@ -2110,9 +2110,9 @@
       "answer": "Pelos dois portos e pelo comércio no istmo da Grécia.",
       "reference": "Corinto",
       "wrongs": [
-        "Pela filosofia e pelo Areópago.",
-        "Por ser capital da Síria.",
-        "Pelo templo de Jerusalém."
+        "Pela filosofia e pelos muitos templos.",
+        "Pela púrpura e pelo comércio de tecidos.",
+        "Pelo grande porto e pelo templo de Ártemis."
       ]
     },
     {
@@ -2142,7 +2142,7 @@
       "wrongs": [
         "Pela púrpura e pelos tintureiros.",
         "Pelos bancos e pela lã negra.",
-        "Por ser oásis no Jordão."
+        "Pelo oásis de Jericó, no Jordão."
       ]
     },
     {
@@ -2215,9 +2215,9 @@
       "answer": "Na Galileia.",
       "reference": "Nazaré",
       "wrongs": [
-        "Na Judeia, junto de Jerusalém.",
-        "No Egito, junto do Nilo.",
-        "Na Síria, junto de Antioquia."
+        "Na Judeia.",
+        "No Egito.",
+        "Na Síria."
       ]
     },
     {
@@ -2276,7 +2276,7 @@
       "reference": "Jericó",
       "wrongs": [
         "À beira do mar Mediterrâneo.",
-        "Na ilha de Chipre.",
+        "Na planície costeira da Filístia.",
         "No alto da Galileia, em Nazaré."
       ]
     },
@@ -2290,9 +2290,9 @@
       "answer": "Perto de Jerusalém, junto ao monte das Oliveiras.",
       "reference": "Betânia",
       "wrongs": [
-        "À beira do mar da Galileia.",
-        "Em Roma, junto do Tibre.",
-        "Em Éfeso, junto do porto."
+        "Perto de Jericó, junto ao vale do Jordão.",
+        "Perto de Nazaré, junto ao monte Tabor.",
+        "Perto de Emaús, junto ao caminho de Jerusalém."
       ]
     },
     {
@@ -2337,7 +2337,7 @@
       "wrongs": [
         "Palácios em que os bispos julgavam a cidade.",
         "Templos oficiais do culto ao imperador.",
-        "Mercados cobertos no fórum romano."
+        "Mercados cobertos no fórum da cidade de Roma."
       ]
     },
     {
@@ -2350,9 +2350,9 @@
       "answer": "O peixe. Em grego, as iniciais diziam: Jesus Cristo, Filho de Deus, Salvador.",
       "reference": "Peixe",
       "wrongs": [
-        "A águia do Império Romano.",
-        "A estrela de seis pontas.",
-        "O touro do templo de Ártemis."
+        "A âncora, sinal de esperança entre os cristãos perseguidos.",
+        "O cordeiro, sinal do sacrifício de Cristo na cruz.",
+        "A pomba, sinal do Espírito Santo e da paz com Deus."
       ]
     },
     {
@@ -2365,9 +2365,9 @@
       "answer": "Transgredir a lei de Deus, ou deixar de fazer o que ela manda.",
       "reference": "Pecado",
       "wrongs": [
-        "Um erro sem importância, que Deus não vê.",
-        "Só o crime contra outra pessoa.",
-        "A falta de dinheiro ou de saúde."
+        "Desobedecer à lei dos homens, quando ela manda.",
+        "Só o crime cometido contra outra pessoa.",
+        "Uma fraqueza da carne, sem culpa diante de Deus."
       ]
     },
     {
@@ -2396,7 +2396,7 @@
       "reference": "Encarnação",
       "wrongs": [
         "Jesus deixou de ser Deus para virar homem.",
-        "Um anjo tomou a aparência de homem.",
+        "O Filho de Deus assumiu só a aparência de homem.",
         "Deus criou Jesus já adulto em Nazaré."
       ]
     },
@@ -2412,7 +2412,7 @@
       "wrongs": [
         "Duas pessoas, uma divina e outra humana.",
         "Uma natureza só, mistura de Deus e homem.",
-        "Jesus é homem, e Deus mora nele às vezes."
+        "As naturezas divina e humana, separadas em duas pessoas."
       ]
     },
     {
@@ -2425,9 +2425,9 @@
       "answer": "Não. Continuou Deus e passou a ser também homem.",
       "reference": "Encarnação",
       "wrongs": [
-        "Sim. Voltou a ser Deus só depois da ressurreição.",
-        "Sim. Ficou apenas um profeta santo.",
-        "Não. Ele nunca chegou a ter corpo humano."
+        "Não. Ele nunca foi Deus, e sim um enviado do Pai.",
+        "Não. Ele só parecia homem, sem corpo de verdade.",
+        "Não. Ele foi adotado como Filho só na ressurreição."
       ]
     },
     {
@@ -2440,9 +2440,9 @@
       "answer": "Pelo Espírito Santo, no ventre de Maria, sem pai humano.",
       "reference": "Maria",
       "wrongs": [
-        "Como qualquer criança, de José e Maria.",
-        "Já adulto, no rio Jordão.",
-        "Por um anjo que se fez homem."
+        "Como qualquer criança, de José e de Maria.",
+        "Pelo Espírito Santo, já adulto, no rio Jordão.",
+        "Pelo Espírito Santo, no ventre de Isabel."
       ]
     },
     {
@@ -2455,9 +2455,9 @@
       "answer": "A boa notícia de que Cristo morreu e ressuscitou pelos pecadores.",
       "reference": "Evangelho",
       "wrongs": [
-        "A lista de regras para merecer o céu.",
-        "A história política de Israel.",
-        "O convite para melhorar a sociedade."
+        "A boa notícia de que Cristo viveu e ensinou os pecadores.",
+        "A boa notícia de que Cristo voltará para os seus.",
+        "A boa notícia de que Deus criou o mundo e o sustenta."
       ]
     },
     {
@@ -2472,7 +2472,7 @@
       "wrongs": [
         "Saber os fatos da Bíblia, sem se entregar a Cristo.",
         "Sentir uma emoção forte no culto.",
-        "Obedecer o bastante para Deus dever a salvação."
+        "Obedecer o bastante para merecer a salvação."
       ]
     },
     {
@@ -2531,7 +2531,7 @@
       "reference": "Providência",
       "wrongs": [
         "Deus criou o mundo e depois o deixou só.",
-        "O acaso decide a história.",
+        "O acaso decide a história dos homens.",
         "Só os milagres estão nas mãos de Deus."
       ]
     },
@@ -2561,7 +2561,7 @@
       "reference": "Imagem",
       "wrongs": [
         "Que o corpo humano tem a mesma forma do corpo de Deus.",
-        "Que cada pessoa é um deus pequeno.",
+        "Que cada pessoa é um deus pequeno por si mesma.",
         "Que só Adão foi imagem, e os outros não."
       ]
     },
@@ -2575,9 +2575,9 @@
       "answer": "Barnabé, e João Marcos no começo.",
       "reference": "1ª viagem",
       "wrongs": [
-        "Silas e Timóteo.",
-        "Lucas e Tito.",
-        "Pedro e João."
+        "Silas, e Timóteo no começo.",
+        "Lucas, e Tito no começo.",
+        "Pedro, e João no começo."
       ]
     },
     {
@@ -2590,7 +2590,7 @@
       "answer": "Silas.",
       "reference": "Silas",
       "wrongs": [
-        "João Marcos, do começo ao fim.",
+        "Marcos.",
         "Pedro.",
         "Apolo."
       ]
@@ -2605,9 +2605,9 @@
       "answer": "Um cooperador jovem, a quem Paulo chamava de filho na fé.",
       "reference": "Timóteo",
       "wrongs": [
-        "O procônsul de Chipre.",
-        "O carcereiro de Filipos.",
-        "O ourives de Éfeso."
+        "Um cooperador idoso, a quem Paulo chamava de filho na fé.",
+        "Um cooperador jovem, a quem Paulo chamava de irmão na fé.",
+        "Um cooperador grego, a quem Paulo chamava de filho na fé."
       ]
     },
     {
@@ -2620,9 +2620,9 @@
       "answer": "Sim. O médico Lucas acompanhou Paulo e escreveu Lucas e Atos.",
       "reference": "Lucas",
       "wrongs": [
-        "Não. Lucas só ouviu as histórias anos depois, em Roma.",
-        "Sim. Lucas era pescador da Galileia.",
-        "Não. Quem viajou foi só Barnabé."
+        "Sim. O médico Lucas ficou em Roma e só ouviu as histórias.",
+        "Sim. O médico Lucas era pescador da Galileia.",
+        "Sim. O médico Lucas escreveu só o evangelho que leva seu nome."
       ]
     },
     {
@@ -2635,9 +2635,9 @@
       "answer": "Primo de Barnabé. Saiu no meio da primeira viagem.",
       "reference": "Marcos",
       "wrongs": [
-        "O governador de Chipre.",
-        "Um filósofo de Atenas.",
-        "O irmão de Timóteo."
+        "Primo de Barnabé. Ficou até o fim da primeira viagem.",
+        "Primo de Pedro. Saiu no meio da primeira viagem.",
+        "Irmão de Barnabé. Saiu no meio da primeira viagem."
       ]
     },
     {
@@ -2650,9 +2650,9 @@
       "answer": "Um casal que trabalhava com Paulo em Corinto e em Éfeso.",
       "reference": "Áquila",
       "wrongs": [
-        "Os donos da prisão de Filipos.",
-        "Sacerdotes do templo de Jerusalém.",
-        "Os pais de Timóteo."
+        "Um casal que trabalhava com Paulo em Roma e em Éfeso.",
+        "Um casal que trabalhava com Pedro em Corinto e em Éfeso.",
+        "Um casal que hospedava Paulo em Filipos e em Éfeso."
       ]
     },
     {
@@ -2665,9 +2665,9 @@
       "answer": "Um companheiro grego, que Paulo deixou em Creta.",
       "reference": "Tito",
       "wrongs": [
-        "Um fariseu do Sinédrio.",
-        "O centurião do naufrágio.",
-        "O rei Agripa."
+        "Um companheiro grego, que Paulo deixou em Éfeso.",
+        "Um companheiro judeu, que Paulo deixou em Creta.",
+        "Um companheiro jovem, que Paulo deixou em Nicópolis."
       ]
     },
     {
@@ -2680,9 +2680,9 @@
       "answer": "Mensageiro de Filipos que levou ajuda a Paulo na prisão.",
       "reference": "Filipos",
       "wrongs": [
-        "O procônsul da Acaia.",
-        "O escrivão de Éfeso.",
-        "O irmão de Barnabé."
+        "Mensageiro de Filipos que levou ajuda a Pedro na prisão.",
+        "Mensageiro de Corinto que levou ajuda a Paulo na prisão.",
+        "Mensageiro de Éfeso que levou ajuda a Paulo na prisão."
       ]
     },
     {
@@ -2710,9 +2710,9 @@
       "answer": "Por chamar o povo da igreja à santidade e por escrever com clareza.",
       "reference": "Ryle",
       "wrongs": [
-        "Por traduzir a Bíblia para o alemão.",
-        "Por fundar a igreja da Escócia.",
-        "Por presidir o Concílio de Trento."
+        "Por chamar o povo da igreja à oração e por escrever com clareza.",
+        "Por chamar o povo da igreja à santidade e por pregar com eloquência.",
+        "Por chamar o povo da igreja à conversão e por escrever com clareza."
       ]
     },
     {
@@ -2726,8 +2726,8 @@
       "reference": "Ryle",
       "wrongs": [
         "As Institutas.",
-        "A Suma Teológica.",
-        "A cidade de Deus."
+        "O peregrino.",
+        "Confissões."
       ]
     },
     {
@@ -2756,7 +2756,7 @@
       "reference": "Spurgeon",
       "wrongs": [
         "Por escrever a Confissão de Westminster.",
-        "Por começar o metodismo.",
+        "Por começar o metodismo na Inglaterra.",
         "Por traduzir o Novo Testamento para o inglês."
       ]
     },
@@ -2771,7 +2771,7 @@
       "reference": "Owen",
       "wrongs": [
         "Castelo forte é o nosso Deus.",
-        "Pecadores nas mãos de um Deus irado.",
+        "Pecadores nas mãos de Deus.",
         "O Saltério de Genebra."
       ]
     },
@@ -2786,8 +2786,8 @@
       "reference": "Owen",
       "wrongs": [
         "Em Genebra, como sucessor de Calvino.",
-        "Em Praga, com João Hus.",
-        "Em Hipona, com Agostinho."
+        "Em Praga, como pregador da Boêmia.",
+        "Em Hipona, como bispo do norte da África."
       ]
     },
     {
@@ -2815,9 +2815,9 @@
       "answer": "Ao ar livre, na Inglaterra e nas colônias americanas.",
       "reference": "Whitefield",
       "wrongs": [
-        "Só na universidade de Wittenberg.",
-        "No Concílio de Trento.",
-        "Na sinagoga de Beréia."
+        "Ao ar livre, na Alemanha e nas colônias americanas.",
+        "Ao ar livre, na Inglaterra e nas colônias espanholas.",
+        "Ao ar livre, na Suíça e nas colônias americanas."
       ]
     },
     {
@@ -2862,7 +2862,7 @@
       "wrongs": [
         "De 1483 a 1546.",
         "De 1560 a 1609.",
-        "De 354 a 430."
+        "De 1225 a 1274."
       ]
     },
     {
@@ -2877,7 +2877,7 @@
       "wrongs": [
         "Os jesuítas.",
         "Os remonstrantes.",
-        "Os valdenses de Lyon."
+        "Os valdenses."
       ]
     },
     {
@@ -2907,7 +2907,7 @@
       "wrongs": [
         "João Calvino, de Genebra.",
         "Tomás de Aquino, de Paris.",
-        "Armínio, de Leiden."
+        "Armínio, professor de Leiden."
       ]
     },
     {
@@ -2922,7 +2922,7 @@
       "wrongs": [
         "Autor da Suma Teológica, no século XIII.",
         "Reformador de Zurique, morto em 1531.",
-        "Bispo de Milão que batizou Agostinho."
+        "Bispo de Milão, que batizou Agostinho em 387."
       ]
     },
     {
@@ -2950,9 +2950,9 @@
       "answer": "Leigo de Lyon, no século XII. Chamou o povo a viver pela Bíblia.",
       "reference": "Valdo",
       "wrongs": [
-        "Imperador que convocou Niceia.",
-        "Papa que presidiu Trento.",
-        "Pregador batista de Londres."
+        "Leigo de Praga, no século XV. Chamou o povo a viver pela Bíblia.",
+        "Leigo de Lyon, no século XIV. Chamou o povo a viver pela tradição.",
+        "Sacerdote de Lyon, no século XII. Chamou o povo a viver pela Bíblia."
       ]
     },
     {
@@ -2966,7 +2966,7 @@
       "reference": "367",
       "wrongs": [
         "Nas 95 teses de Lutero.",
-        "No Édito de Milão.",
+        "No Édito de Milão, em 313.",
         "Na Confissão de Augsburgo."
       ]
     },
@@ -2980,9 +2980,9 @@
       "answer": "Reconheceu os 27 livros do Novo Testamento já lidos nas igrejas.",
       "reference": "Cartago, 397",
       "wrongs": [
-        "Criou livros novos para completar a Bíblia.",
-        "Tirou os evangelhos do cânon.",
-        "Declarou o papa infalível."
+        "Reconheceu os 22 livros do Novo Testamento já lidos nas igrejas.",
+        "Reconheceu os 39 livros do Novo Testamento já lidos nas igrejas.",
+        "Reconheceu os 66 livros do Novo Testamento já lidos nas igrejas."
       ]
     },
     {
@@ -3010,9 +3010,9 @@
       "answer": "Não. A regra de fé são os 66 livros.",
       "reference": "Cânon",
       "wrongs": [
-        "Sim. São mais 14 livros com a mesma autoridade.",
-        "Sim. Substituem os profetas menores.",
-        "Não. O Novo Testamento também fica de fora."
+        "Não. A regra de fé são os 73 livros.",
+        "Não. A regra de fé são só os 39 do Antigo.",
+        "Não. A regra de fé inclui também os apócrifos."
       ]
     },
     {
@@ -3025,9 +3025,9 @@
       "answer": "Em 1546.",
       "reference": "Trento, 1546",
       "wrongs": [
-        "Em 325, em Niceia.",
-        "Em 1517, em Wittenberg.",
-        "Em 1619, em Dort."
+        "Em 325.",
+        "Em 1517.",
+        "Em 1619."
       ]
     },
     {
@@ -3040,7 +3040,7 @@
       "answer": "Em Niceia, na Ásia Menor, em 325.",
       "reference": "Niceia",
       "wrongs": [
-        "Em Roma, no Vaticano.",
+        "Em Roma, junto ao rio Tibre.",
         "Em Cartago, no norte da África.",
         "Em Wittenberg, na Alemanha."
       ]
@@ -3057,7 +3057,7 @@
       "wrongs": [
         "O apóstolo João.",
         "Martinho Lutero.",
-        "O bispo Atanásio, sozinho."
+        "O bispo Atanásio de Alexandria."
       ]
     },
     {
@@ -3071,7 +3071,7 @@
       "reference": "381",
       "wrongs": [
         "Que o Espírito é só uma força.",
-        "Que Maria é mediadora.",
+        "Que o Espírito é uma criatura de Deus.",
         "Que a igreja deve obedecer ao papa."
       ]
     },
@@ -3085,9 +3085,9 @@
       "answer": "Em Constantinopla.",
       "reference": "Constantinopla",
       "wrongs": [
-        "Em Éfeso.",
-        "Em Calcedônia.",
-        "Em Niceia."
+        "Em Éfeso, na Ásia Menor.",
+        "Em Calcedônia, na Bitínia.",
+        "Em Niceia, na Bitínia."
       ]
     },
     {
@@ -3101,7 +3101,7 @@
       "reference": "Éfeso, 431",
       "wrongs": [
         "Que Jesus é só homem e Deus o adotou depois.",
-        "Que o Espírito Santo foi criado.",
+        "Que o Espírito Santo é criatura do Pai.",
         "Que a ceia é apenas uma lembrança sem Cristo."
       ]
     },
@@ -3115,9 +3115,9 @@
       "answer": "Em Calcedônia, perto de Constantinopla, em 451.",
       "reference": "Calcedônia",
       "wrongs": [
-        "Em Alexandria, no Egito.",
-        "Em Hipona, na África.",
-        "Em Praga, na Boêmia."
+        "Em Alexandria, perto do delta do Nilo.",
+        "Em Hipona, no norte da África.",
+        "Em Éfeso, perto de Constantinopla."
       ]
     },
     {
@@ -3130,9 +3130,9 @@
       "answer": "Niceia, Constantinopla, Éfeso e Calcedônia.",
       "reference": "Concílios",
       "wrongs": [
-        "Só o Concílio de Trento.",
-        "Só o Sínodo de Dort.",
-        "Os concílios feitos depois de 1054."
+        "Trento, Dort, Westminster e Orange.",
+        "Niceia, Trento, Dort e Westminster.",
+        "Éfeso, Calcedônia, Trento e Orange."
       ]
     },
     {
@@ -3160,9 +3160,9 @@
       "answer": "Pastoreava a igreja da sua cidade e guardava o ensino dos apóstolos.",
       "reference": "Bispo",
       "wrongs": [
-        "Governava todas as igrejas do mundo.",
-        "Traduzia a Bíblia para o latim.",
-        "Comandava os exércitos do imperador."
+        "Pastoreava a igreja da sua cidade e guardava o dinheiro dela.",
+        "Pastoreava a igreja da sua cidade e nomeava o imperador.",
+        "Pastoreava a igreja de Roma e guardava o ensino dos apóstolos."
       ]
     },
     {
@@ -3175,9 +3175,9 @@
       "answer": "Não. Havia bispos de cidades, não um chefe universal.",
       "reference": "Bispos",
       "wrongs": [
-        "Sim. O bispo de Roma mandava em todas desde o século I.",
-        "Sim. O bispo de Jerusalém decidia sozinho.",
-        "Não. Não havia nenhum presbítero nas igrejas."
+        "Não. O bispo de Roma mandava em todas desde o século I.",
+        "Não. O bispo de Jerusalém decidia sozinho as questões.",
+        "Não. Só o bispo de Antioquia podia ordenar bispos."
       ]
     },
     {
@@ -3207,7 +3207,7 @@
       "wrongs": [
         "Bispo de Alexandria que defendeu Niceia.",
         "Bispo de Milão que batizou Agostinho.",
-        "Pregador da Boêmia queimado em 1415."
+        "Pregador da Boêmia, queimado em Constança em 1415."
       ]
     },
     {
@@ -3235,7 +3235,7 @@
       "answer": "Bispos do século IV. Defenderam que o Espírito Santo é Deus.",
       "reference": "Capadócios",
       "wrongs": [
-        "Os três reis magos do Evangelho.",
+        "Bispos do século II. Defenderam que o Espírito é uma força.",
         "Os autores das Institutas, da Confissão de Augsburgo e das 95 teses.",
         "Bispos de Roma, um depois do outro, no século I."
       ]

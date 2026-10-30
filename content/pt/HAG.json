@@ -10,9 +10,9 @@
       "answer": "A obra de reconstruir a casa.",
       "reference": "Ag 1:14",
       "wrongs": [
-        "A obra de derrubar a casa.",
-        "A festa sem mexer na obra.",
-        "A mudança da casa para o Egito."
+        "A obra de restaurar os muros de Jerusalém.",
+        "A obra de levantar o palácio do governador.",
+        "A obra de construir um novo altar de pedra."
       ]
     },
     {
@@ -25,7 +25,7 @@
       "answer": "Zorobabel, filho de Sealtiel.",
       "reference": "Ag 1:1",
       "wrongs": [
-        "Josué, filho de Jeozadaque.",
+        "Josué, filho de Jozadaque.",
         "Neemias, filho de Hacalias.",
         "Esdras, filho de Seraías."
       ]
@@ -41,7 +41,7 @@
       "reference": "Ag 1:1",
       "wrongs": [
         "Zorobabel, filho de Sealtiel.",
-        "Eli, filho de Fineias.",
+        "Abiatar, filho de Aimeleque.",
         "Arão, filho de Anrão."
       ]
     },
@@ -55,9 +55,9 @@
       "answer": "Num saco furado.",
       "reference": "Ag 1:6",
       "wrongs": [
-        "Num cofre cheio.",
-        "No altar do templo.",
-        "Na mão do rei."
+        "Num cofre de madeira.",
+        "Num vaso de barro.",
+        "Num celeiro do templo."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "Maior do que a glória da primeira.",
       "reference": "Ag 2:9",
       "wrongs": [
-        "Menor do que a glória da primeira.",
-        "Igual à glória da casa primeira.",
-        "Nenhuma, pois a casa fica vazia."
+        "Maior do que a glória da tenda do deserto.",
+        "Maior do que a glória do palácio de Davi.",
+        "Maior do que a glória dos muros de Jerusalém."
       ]
     },
     {
@@ -85,9 +85,9 @@
       "answer": "Zorobabel, filho de Sealtiel.",
       "reference": "Ag 2:23",
       "wrongs": [
-        "Josué, filho de Jeozadaque.",
-        "Dario, rei da Pérsia.",
-        "Ageu, servo do templo."
+        "Josué, filho de Jozadaque.",
+        "Davi, filho de Jessé.",
+        "Ciro, rei da Pérsia."
       ]
     },
     {

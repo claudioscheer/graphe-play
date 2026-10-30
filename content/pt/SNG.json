@@ -10,9 +10,9 @@
       "answer": "Morena como tenda de Quedar e bela como cortina de Salomão.",
       "reference": "Ct 1:5",
       "wrongs": [
-        "Clara como a neve do Hermom e frágil como linho novo.",
-        "Pálida como a lua cheia e baixa como a relva do campo.",
-        "Dourada como o trigo maduro e leve como a gazela."
+        "Morena como tenda de Midiã e bela como cortina do templo.",
+        "Morena como tenda de Ismael e bela como cortina de púrpura.",
+        "Morena como tenda de Judá e bela como cortina do santuário."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Às éguas dos carros de Faraó.",
       "reference": "Ct 1:9",
       "wrongs": [
-        "Às leoas que rondam o deserto de Judá.",
-        "Às águias que voam no alto do penhasco.",
-        "Às vacas que pastam nos campos de Basã."
+        "Às mulas dos carros de Faraó.",
+        "Às éguas dos carros de Salomão.",
+        "Às éguas dos carros de Acabe."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "Flores na terra, tempo de cantar e a voz da rola.",
       "reference": "Ct 2:12",
       "wrongs": [
-        "Neve no monte, tempo de calar e a voz do trovão.",
-        "Trigo maduro, tempo de ceifar e a voz do galo.",
-        "Folhas secas, tempo de partir e a voz da coruja."
+        "Flores no vale, tempo de cantar e a voz da rola.",
+        "Flores na terra, tempo de podar e a voz da rola.",
+        "Flores na terra, tempo de cantar e a voz do pardal."
       ]
     },
     {
@@ -100,8 +100,8 @@
       "answer": "As raposas, até as bem pequenas.",
       "reference": "Ct 2:15",
       "wrongs": [
-        "Os leões, só os mais velhos.",
-        "Os corvos, só ao meio-dia.",
+        "Os leões, até os mais velhos.",
+        "Os corvos, até os que comem uvas.",
         "Os jumentos, até os que pastam longe."
       ]
     },
@@ -115,9 +115,9 @@
       "answer": "À casa da mãe dela, e não o soltou.",
       "reference": "Ct 3:4",
       "wrongs": [
-        "À porta da cidade, e o entregou aos guardas.",
-        "Ao palácio do rei, e o deixou na sala.",
-        "Ao campo aberto, e voltou sozinha."
+        "À casa do pai dela, e não o soltou.",
+        "À tenda dos pastores, e não o soltou.",
+        "À casa das filhas de Jerusalém, e não o soltou."
       ]
     },
     {
@@ -145,9 +145,9 @@
       "answer": "Do Líbano.",
       "reference": "Ct 3:9",
       "wrongs": [
-        "De Basã.",
-        "De Sarom.",
-        "De Ofir."
+        "Do Carmelo.",
+        "Do Hermom.",
+        "Do Egito."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "answer": "A um jardim fechado e a uma fonte selada.",
       "reference": "Ct 4:12",
       "wrongs": [
-        "A uma praça aberta e a uma cisterna pública.",
-        "A um mercado cheio e a um rio sem margem.",
-        "A uma tenda rasgada e a um poço seco."
+        "A uma vinha fechada e a uma cisterna selada.",
+        "A um pomar fechado e a um poço selado.",
+        "A uma horta cercada e a uma fonte guardada."
       ]
     },
     {
@@ -192,7 +192,7 @@
       "wrongs": [
         "Do Carmelo, de Tabor, de Gilboa e de Sião.",
         "Do Sinai, de Horebe, de Nebo e de Pisga.",
-        "De Gerizim, de Ebal, de Ofel e de Moriá."
+        "Do Gerizim, de Ebal, de Ofel e de Moriá."
       ]
     },
     {
@@ -205,9 +205,9 @@
       "answer": "À torre de Davi, com mil escudos pendurados.",
       "reference": "Ct 4:4",
       "wrongs": [
-        "À porta de Jope, com redes de pesca.",
-        "À muralha de Jericó, sem escudo algum.",
-        "À coluna de Gaza, com lanças quebradas."
+        "À torre de Mahanaim, com mil escudos pendurados.",
+        "À torre de Penuel, com cem escudos pendurados.",
+        "À torre de Siquém, com doze escudos pendurados."
       ]
     },
     {
@@ -220,9 +220,9 @@
       "answer": "O amado já tinha ido embora.",
       "reference": "Ct 5:6",
       "wrongs": [
-        "O amado entrou e ficou.",
-        "Os guardas abriram caminho.",
-        "A mãe dela o recebeu."
+        "O amado ainda esperava no jardim.",
+        "O amado já tinha voltado ao palácio.",
+        "O amado ainda dormia no quarto."
       ]
     },
     {
@@ -235,9 +235,9 @@
       "answer": "Espancaram-na, a feriram e tiraram o manto.",
       "reference": "Ct 5:7",
       "wrongs": [
-        "A coroaram, a perfumaram e abriram a porta.",
-        "A guiaram, a honraram e chamaram o rei.",
-        "A esconderam, a cobriram e calaram a boca."
+        "Coroaram-na, a perfumaram e abriram a porta.",
+        "Guiaram-na, a honraram e chamaram o rei.",
+        "Esconderam-na, a cobriram e calaram a boca."
       ]
     },
     {
@@ -355,9 +355,9 @@
       "answer": "As mandrágoras. Há também frutos novos e velhos.",
       "reference": "Ct 7:13",
       "wrongs": [
-        "As oliveiras. Há também só espinhos secos.",
-        "Os cardos. Há também palha do ano passado.",
-        "As urtigas. Há também lenha sem fruto."
+        "Os nardos. Há também frutos novos e secos.",
+        "As açucenas. Há também frutos verdes e maduros.",
+        "As romãzeiras. Há também cachos novos e velhos."
       ]
     },
     {
@@ -370,9 +370,9 @@
       "answer": "Com a morte. O ciúme é duro como a sepultura.",
       "reference": "Ct 8:6",
       "wrongs": [
-        "Com o ouro. O ciúme é leve como a brisa.",
-        "Com o vinho. O ciúme é doce como o mel.",
-        "Com a seda. O ciúme é macio como o linho."
+        "Com o sono. O ciúme é duro como a sepultura.",
+        "Com a guerra. O ciúme é duro como o rochedo.",
+        "Com o tempo. O ciúme é duro como o ferro."
       ]
     },
     {
@@ -400,9 +400,9 @@
       "answer": "Mil ficam com Salomão e duzentas com os guardas.",
       "reference": "Ct 8:12",
       "wrongs": [
-        "Tudo fica com os guardas e nada com Salomão.",
         "Cem ficam com Salomão e mil com os guardas.",
-        "Metade fica com a cidade e metade com o rei."
+        "Duzentas ficam com Salomão e mil com os guardas.",
+        "Mil ficam com Salomão e cem com os guardas."
       ]
     },
     {

@@ -55,9 +55,9 @@
       "answer": "Chorou, jejuou e orou ao Deus dos céus.",
       "reference": "Ne 1:4",
       "wrongs": [
-        "Riu, comeu e escreveu ao rei.",
-        "Calou, dormiu e partiu na hora.",
-        "Cantou, celebrou e mandou ouro."
+        "Chorou, jejuou e escreveu ao rei.",
+        "Chorou, jejuou e rasgou as suas vestes.",
+        "Chorou, jejuou e subiu ao templo."
       ]
     },
     {
@@ -115,9 +115,9 @@
       "answer": "Aceitou enviá-lo depois de um prazo marcado.",
       "reference": "Ne 2:6",
       "wrongs": [
-        "Negou a viagem e o manteve em Susã.",
-        "Mandou-o partir sem prazo nenhum.",
-        "Entregou a obra a outro copeiro."
+        "Aceitou enviá-lo depois de um mês de espera.",
+        "Aceitou enviá-lo depois de um ano de espera.",
+        "Aceitou enviá-lo depois de consultar os príncipes."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "answer": "Submeter a cerviz ao serviço do seu Senhor.",
       "reference": "Ne 3:5",
       "wrongs": [
-        "Pagar o ouro do templo.",
-        "Guardar a porta da cidade.",
-        "Jejuar com o restante do povo."
+        "Submeter os seus campos ao imposto do rei.",
+        "Pagar o tributo anual ao governador da terra.",
+        "Ceder as suas filhas aos povos vizinhos."
       ]
     },
     {
@@ -190,9 +190,9 @@
       "answer": "Com uma das mãos na obra e a outra armada.",
       "reference": "Ne 4:17",
       "wrongs": [
-        "Com as duas mãos livres e sem sentinela.",
-        "Só de noite, escondidos dentro do templo.",
-        "Em turnos longos, longe de qualquer arma."
+        "Com uma das mãos na obra e a outra no martelo.",
+        "Com as duas mãos na obra e sem arma alguma.",
+        "Com as duas mãos livres e os olhos no inimigo."
       ]
     },
     {
@@ -250,9 +250,9 @@
       "answer": "Devolver tudo e não exigir mais nada.",
       "reference": "Ne 5:12",
       "wrongs": [
-        "Cobrar juros dobrados no ano seguinte.",
-        "Tomar os campos e manter os penhores.",
-        "Vender os devedores aos vizinhos."
+        "Devolver tudo e cobrar o centésimo devido.",
+        "Devolver os penhores e ficar com os campos.",
+        "Devolver tudo e esperar até o ano seguinte."
       ]
     },
     {
@@ -296,8 +296,8 @@
       "reference": "Ne 5:13",
       "wrongs": [
         "Rasgou a roupa e cobriu a cabeça de cinza.",
-        "Tirou a roupa e a deu aos pobres.",
-        "Lavou a roupa e a pôs sobre o altar."
+        "Tirou o manto e o deu em penhor aos credores.",
+        "Estendeu o manto e recolheu as ofertas do povo."
       ]
     },
     {
@@ -310,9 +310,9 @@
       "answer": "Em cinquenta e dois dias.",
       "reference": "Ne 6:15",
       "wrongs": [
-        "Em sete anos de obra.",
-        "Em quarenta dias de luta.",
-        "Em três meses seguidos."
+        "Em setenta e dois dias.",
+        "Em quarenta e dois dias.",
+        "Em vinte e cinco dias."
       ]
     },
     {
@@ -400,9 +400,9 @@
       "answer": "Só depois que o sol esquentasse.",
       "reference": "Ne 7:3",
       "wrongs": [
-        "Logo ao romper da aurora.",
-        "Só depois do pôr do sol.",
-        "Apenas no dia de sábado."
+        "Só depois que o sol se escondesse.",
+        "Só depois do toque da trombeta.",
+        "Só depois que os guardas chegassem."
       ]
     },
     {
@@ -430,9 +430,9 @@
       "answer": "A lei de Moisés, que Deus mandou a Israel.",
       "reference": "Ne 8:1",
       "wrongs": [
-        "O livro das crônicas dos reis.",
-        "A carta de Artaxerxes sobre o muro.",
-        "Os salmos de Davi para a festa."
+        "A lei de Moisés, que os pais guardaram no Egito.",
+        "A lei dos profetas, que Deus mandou a Israel.",
+        "A lei de Moisés, que o rei leu em Susã."
       ]
     },
     {
@@ -490,9 +490,9 @@
       "answer": "Seus pecados e as iniquidades dos pais.",
       "reference": "Ne 9:2",
       "wrongs": [
-        "Só a falta de ouro para o templo.",
-        "A vitória sobre os povos vizinhos.",
-        "A bondade dos reis da Pérsia."
+        "Seus pecados e as iniquidades dos reis.",
+        "Suas culpas e as iniquidades dos pais.",
+        "Seus pecados e as transgressões dos vizinhos."
       ]
     },
     {
@@ -610,9 +610,9 @@
       "answer": "Sortearam um de cada dez.",
       "reference": "Ne 11:1",
       "wrongs": [
-        "Chamaram só os sacerdotes.",
-        "Mandaram vir todas as famílias.",
-        "Escolheram um de cada cem."
+        "Sortearam um de cada cem.",
+        "Sortearam três de cada dez.",
+        "Sortearam um de cada cinco."
       ]
     },
     {
@@ -670,9 +670,9 @@
       "answer": "Com alegria, louvores e canto.",
       "reference": "Ne 12:27",
       "wrongs": [
-        "Em silêncio, com jejum e pano de saco.",
-        "Com luto, cinza e confissão pública.",
-        "Só com sacrifício, sem canto nem festa."
+        "Com alegria, louvores e danças.",
+        "Com alegria, louvores e incenso.",
+        "Com alegria, louvores e vestes novas."
       ]
     },
     {
@@ -700,9 +700,9 @@
       "answer": "Pela direita, rumo à porta do monturo.",
       "reference": "Ne 12:31",
       "wrongs": [
-        "Pela esquerda, rumo à porta das Águas.",
-        "Pelo centro, rumo à porta das Ovelhas.",
-        "Pela direita, rumo à porta dos Peixes."
+        "Pela direita, rumo à porta dos Peixes.",
+        "Pela direita, rumo à porta das Ovelhas.",
+        "Pela direita, rumo à porta das Águas."
       ]
     },
     {
@@ -730,9 +730,9 @@
       "answer": "Limpou-os de todo estrangeiro e designou os cargos.",
       "reference": "Ne 13:30",
       "wrongs": [
-        "Recebeu-os e deu-lhes salas no templo.",
-        "Casou-os com as filhas dos sacerdotes.",
-        "Mandou-os guardar o muro no sábado."
+        "Limpou-os de toda impureza e designou os cargos.",
+        "Limpou-os de todo estrangeiro e mudou os cargos.",
+        "Limpou-os de todo estrangeiro e escolheu novos cargos."
       ]
     },
     {
@@ -775,9 +775,9 @@
       "answer": "Fechar as portas e não abrir no sábado.",
       "reference": "Ne 13:19",
       "wrongs": [
-        "Abrir as portas e dobrar o comércio.",
-        "Deixar as portas abertas a noite toda.",
-        "Entregar as chaves aos mercadores."
+        "Fechar as portas e não abrir na Páscoa.",
+        "Fechar as portas e não abrir na lua nova.",
+        "Fechar as lojas e não vender no sábado."
       ]
     },
     {

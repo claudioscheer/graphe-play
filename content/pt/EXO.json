@@ -10,9 +10,9 @@
       "answer": "Fizeram o povo servir com muita dureza.",
       "reference": "Êx 1:13",
       "wrongs": [
-        "Deixaram o povo livre nas cidades.",
-        "Deram ao povo terras e rebanhos.",
-        "Trataram o povo como hóspedes reais."
+        "Fizeram o povo servir com muita pressa.",
+        "Fizeram o povo servir em troca de prata.",
+        "Fizeram o povo servir por poucos anos."
       ]
     },
     {
@@ -131,8 +131,8 @@
       "reference": "Êx 3:10",
       "wrongs": [
         "Para cobrar impostos de Israel.",
-        "Para coroar Faraó no Egito.",
-        "Para construir cidades-armazém."
+        "Para servir a Faraó no Egito.",
+        "Para contar o povo no Egito."
       ]
     },
     {
@@ -161,7 +161,7 @@
       "reference": "Êx 3:2",
       "wrongs": [
         "Ela falava sem nenhuma chama.",
-        "Ela se apagava a cada instante.",
+        "Ela ardia e se consumia em pouco tempo.",
         "Ela queimava todo o chão ao redor."
       ]
     },
@@ -190,9 +190,9 @@
       "answer": "Creu, inclinou-se e adorou.",
       "reference": "Êx 4:31",
       "wrongs": [
-        "Duvidou, zombou e foi embora.",
-        "Calou-se, com medo de Faraó.",
-        "Pediu para ficar no Egito."
+        "Temeu, escondeu-se e calou.",
+        "Chorou, murmurou e duvidou.",
+        "Alegrou-se, cantou e festejou."
       ]
     },
     {
@@ -222,7 +222,7 @@
       "wrongs": [
         "No palácio de Faraó.",
         "Na terra de Gósen.",
-        "Junto ao rio Nilo."
+        "Na beira do rio Nilo."
       ]
     },
     {
@@ -280,9 +280,9 @@
       "answer": "Livrá-los da servidão e resgatá-los.",
       "reference": "Êx 6:6",
       "wrongs": [
-        "Alongar a servidão por mais anos.",
-        "Entregar a servidão a outro rei.",
-        "Deixar a servidão como estava."
+        "Livrá-los da fome e resgatá-los.",
+        "Livrá-los da peste e resgatá-los.",
+        "Livrá-los da espada e resgatá-los."
       ]
     },
     {
@@ -460,9 +460,9 @@
       "answer": "Que tinha pecado, e que Deus é justo.",
       "reference": "Êx 9:27",
       "wrongs": [
-        "Que era inocente, e que Moisés mentia.",
-        "Que Israel podia ficar para sempre.",
-        "Que os magos eram mais fortes."
+        "Que Moisés tinha razão, e que Deus era severo.",
+        "Que Israel podia ficar, e que o povo era livre.",
+        "Que os magos eram fortes, e que o Egito vencera."
       ]
     },
     {
@@ -475,9 +475,9 @@
       "answer": "Comeram tudo o que a saraiva tinha deixado.",
       "reference": "Êx 10:15",
       "wrongs": [
-        "Deixaram intacto o que a saraiva poupara.",
-        "Plantaram de novo o que tinha caído.",
-        "Cobriram as casas, sem tocar nas plantas."
+        "Comeram tudo, menos as árvores do campo.",
+        "Comeram tudo, menos o trigo e a cevada.",
+        "Comeram tudo, menos as hortas do Egito."
       ]
     },
     {
@@ -520,7 +520,7 @@
       "answer": "Morreria nesse dia.",
       "reference": "Êx 10:28",
       "wrongs": [
-        "Voltaria ao trabalho dos tijolos.",
+        "Voltaria aos tijolos.",
         "Seria expulso para Gósen.",
         "Perderia a casa e o gado."
       ]
@@ -536,8 +536,8 @@
       "reference": "Êx 11:5",
       "wrongs": [
         "Todo estrangeiro, de gente e de gado.",
-        "Só os magos, e não o povo.",
-        "Todo menino lançado no rio."
+        "Todo ancião, de gente e de animais.",
+        "Todo servo, de gente e de animais."
       ]
     },
     {
@@ -567,7 +567,7 @@
       "wrongs": [
         "Pão e água para a viagem.",
         "Armas e carros de guerra.",
-        "Mapas do caminho pelo deserto."
+        "Vestes e calçados para a viagem."
       ]
     },
     {
@@ -580,9 +580,9 @@
       "answer": "Feriu todos os primogênitos de gente e de animais.",
       "reference": "Êx 12:29",
       "wrongs": [
-        "Abriu o mar diante de Israel.",
-        "Mandou trevas por três dias.",
-        "Derrubou as casas com saraiva."
+        "Feriu todos os primogênitos de gente, e não de animais.",
+        "Feriu todos os filhos mais novos, de gente e de animais.",
+        "Feriu todos os primogênitos dos servos de Faraó."
       ]
     },
     {
@@ -610,9 +610,9 @@
       "answer": "Nas ombreiras e na verga da porta.",
       "reference": "Êx 12:7",
       "wrongs": [
-        "Só no chão, diante da cama.",
+        "Nas paredes e no teto da casa.",
         "Nas janelas e no telhado.",
-        "Na mesa, sobre o pão."
+        "Na soleira e no quintal da casa."
       ]
     },
     {
@@ -625,9 +625,9 @@
       "answer": "Quatrocentos e trinta anos.",
       "reference": "Êx 12:40",
       "wrongs": [
-        "Duzentos anos.",
-        "Quarenta anos.",
-        "Setenta anos."
+        "Duzentos e dez anos.",
+        "Quarenta e cinco anos.",
+        "Trezentos e vinte anos."
       ]
     },
     {
@@ -641,8 +641,8 @@
       "reference": "Êx 13:21",
       "wrongs": [
         "Uma coluna de fogo de dia e uma de nuvem à noite.",
-        "Um anjo com espada, de dia e de noite.",
-        "A arca da aliança, parada de dia e de noite."
+        "Uma coluna de fumaça de dia e uma de brasa à noite.",
+        "Uma coluna de nuvem de dia e uma de fumaça à noite."
       ]
     },
     {
@@ -700,9 +700,9 @@
       "answer": "Cobriram todos, e não sobrou ninguém.",
       "reference": "Êx 14:28",
       "wrongs": [
-        "Abriram caminho, e o exército passou.",
-        "Pararam longe, e o exército voltou.",
-        "Molharam só os carros, e os homens fugiram."
+        "Cobriram os cavalos, e os homens voltaram.",
+        "Cobriram metade do exército, e o resto fugiu.",
+        "Cobriram só os carros, e os homens fugiram."
       ]
     },
     {
@@ -746,7 +746,7 @@
       "reference": "Êx 14:7",
       "wrongs": [
         "Trezentos.",
-        "Mil.",
+        "Quatrocentos.",
         "Duzentos."
       ]
     },
@@ -760,9 +760,9 @@
       "answer": "Deus lançou nele o cavalo e quem o montava.",
       "reference": "Êx 15:1",
       "wrongs": [
-        "Deus secou o Nilo diante de Faraó.",
-        "Deus plantou palmeiras à beira da água.",
-        "Deus fez chover pão sobre as ondas."
+        "Deus lançou no Nilo o cavalo e quem o montava.",
+        "Deus lançou no Jordão o cavalo e quem o montava.",
+        "Deus lançou na areia o cavalo e quem o montava."
       ]
     },
     {
@@ -806,8 +806,8 @@
       "reference": "Êx 15:27",
       "wrongs": [
         "Sete fontes e doze palmeiras.",
-        "Uma fonte e nenhuma palmeira.",
-        "Três poços e quarenta tendas."
+        "Uma fonte e doze palmeiras.",
+        "Três fontes e quarenta palmeiras."
       ]
     },
     {
@@ -822,7 +822,7 @@
       "wrongs": [
         "Carne vinda do mar.",
         "Água vinda da rocha.",
-        "Codornizes todos os dias."
+        "Pão vindo da terra."
       ]
     },
     {
@@ -850,7 +850,7 @@
       "answer": "Codornizes.",
       "reference": "Êx 16:13",
       "wrongs": [
-        "Maná.",
+        "Maná do céu.",
         "Orvalho apenas.",
         "Gafanhotos."
       ]
@@ -940,9 +940,9 @@
       "answer": "Maiorais de mil, de cem, de cinquenta e de dez.",
       "reference": "Êx 18:25",
       "wrongs": [
-        "Maiorais só das doze tribos.",
-        "Juízes de uma cidade apenas.",
-        "Sacerdotes de cada família."
+        "Maiorais de mil, de cem e de cinquenta.",
+        "Maiorais de cem, de cinquenta e de vinte.",
+        "Maiorais de mil, de duzentos e de dez."
       ]
     },
     {
@@ -987,7 +987,7 @@
       "wrongs": [
         "Que ele era só o Deus da montanha.",
         "Que ele era igual aos deuses do Egito.",
-        "Que ele não tinha livrado Israel."
+        "Que ele era um deus entre os deuses."
       ]
     },
     {
@@ -1000,9 +1000,9 @@
       "answer": "Em fogo, e o monte fumegava.",
       "reference": "Êx 19:18",
       "wrongs": [
-        "Em silêncio, e o monte ficou escuro.",
         "Em chuva, e o monte se alagou.",
-        "Em vento, e o monte ficou liso."
+        "Em vento, e o monte se cobriu de pó.",
+        "Em trevas, e o monte escureceu."
       ]
     },
     {
@@ -1031,8 +1031,8 @@
       "reference": "Êx 19:6",
       "wrongs": [
         "Um exército de reis e um povo rico.",
-        "Uma nação isolada e um povo sem lei.",
-        "Um grupo de escravos e um povo do Egito."
+        "Uma tribo escolhida e um povo forte.",
+        "Um reino de guerreiros e um povo fiel."
       ]
     },
     {
@@ -1045,9 +1045,9 @@
       "answer": "Pessoa ou animal morreria.",
       "reference": "Êx 19:12",
       "wrongs": [
-        "Pessoa ou animal seria abençoado.",
-        "Só o sacerdote podia continuar ali.",
-        "Nada, porque o monte era comum."
+        "Pessoa ou animal pagaria uma multa.",
+        "Pessoa ou animal seria expulso do arraial.",
+        "Pessoa ou animal seria levado ao sacerdote."
       ]
     },
     {
@@ -1077,7 +1077,7 @@
       "wrongs": [
         "Comer pão e beber água.",
         "Oferecer um sacrifício.",
-        "Descansar dentro de casa."
+        "Visitar os doentes da cidade."
       ]
     },
     {
@@ -1107,7 +1107,7 @@
       "wrongs": [
         "Três anos, e no quarto saía livre.",
         "Dez anos, e no décimo saía livre.",
-        "A vida toda, sem nunca sair livre."
+        "Vinte anos, e no vigésimo saía livre."
       ]
     },
     {
@@ -1121,7 +1121,7 @@
       "reference": "Êx 21:24",
       "wrongs": [
         "Prata por olho, ouro por dente.",
-        "Perdão por olho, sem nenhuma pena.",
+        "Ferida por olho, marca por dente.",
         "Morte por todo ferimento leve."
       ]
     },
@@ -1212,7 +1212,7 @@
       "wrongs": [
         "Do Nilo ao monte Sinai, e de Gósen ao palácio.",
         "Do monte Seir à terra de Midiã, sem passar o Jordão.",
-        "Só em volta do acampamento, sem sair do deserto."
+        "Do deserto ao Jordão, e de Edom ao Egito."
       ]
     },
     {
@@ -1227,7 +1227,7 @@
       "wrongs": [
         "O cordeiro.",
         "O bezerro.",
-        "O pão."
+        "O novilho."
       ]
     },
     {
@@ -1346,7 +1346,7 @@
       "reference": "Êx 25:18",
       "wrongs": [
         "Duas lâmpadas de prata.",
-        "Dois bois de bronze.",
+        "Dois querubins de bronze.",
         "Duas tábuas soltas."
       ]
     },
@@ -1375,9 +1375,9 @@
       "answer": "Um véu.",
       "reference": "Êx 26:33",
       "wrongs": [
-        "Uma parede de pedra.",
-        "Uma grade de bronze.",
-        "Uma porta de acácia."
+        "Um muro.",
+        "Uma porta.",
+        "Uma grade."
       ]
     },
     {
@@ -1540,9 +1540,9 @@
       "answer": "Na orelha direita e nos polegares da mão e do pé.",
       "reference": "Êx 29:20",
       "wrongs": [
-        "Na testa e nos dois joelhos.",
-        "No peito e nas duas palmas.",
-        "Na boca e nos dois ombros."
+        "Na testa e nos dois joelhos de Arão.",
+        "No peito e nas duas palmas das mãos.",
+        "Na boca e nos dois ombros de Arão."
       ]
     },
     {
@@ -1572,7 +1572,7 @@
       "wrongs": [
         "Sobre o altar de ouro.",
         "Dentro da tenda santa.",
-        "Na porta da casa de Arão."
+        "Na porta da tenda."
       ]
     },
     {
@@ -1615,7 +1615,7 @@
       "answer": "As mãos e os pés.",
       "reference": "Êx 30:19",
       "wrongs": [
-        "Só o rosto.",
+        "O rosto e a boca.",
         "A roupa e o cabelo.",
         "O altar e a pia."
       ]
@@ -1795,9 +1795,9 @@
       "answer": "Numa fenda da penha, coberto pela mão de Deus.",
       "reference": "Êx 33:22",
       "wrongs": [
-        "No alto do monte, à vista do povo.",
+        "Numa nuvem, no alto do monte.",
         "Dentro da arca, entre os querubins.",
-        "Na tenda, atrás do véu."
+        "Na tenda, atrás do véu do santuário."
       ]
     },
     {
@@ -1840,9 +1840,9 @@
       "answer": "Pão e água.",
       "reference": "Êx 34:28",
       "wrongs": [
-        "Carne, mas bebeu água.",
-        "Vinho, mas comeu pão.",
-        "Mel, mas bebeu leite."
+        "Pão e vinho.",
+        "Carne e água.",
+        "Pão e leite."
       ]
     },
     {
@@ -1855,9 +1855,9 @@
       "answer": "Misericordioso e piedoso, tardio em irar-se e grande em beneficência e verdade.",
       "reference": "Êx 34:6",
       "wrongs": [
-        "Impaciente, sem misericórdia e sem verdade.",
-        "Tardio em beneficência e grande em ira.",
-        "Oculto, sem nome e sem perdão."
+        "Misericordioso e piedoso, tardio em perdoar e grande em exigência e força.",
+        "Misericordioso e piedoso, tardio em ouvir e grande em juízo e poder.",
+        "Misericordioso e piedoso, tardio em ajudar e grande em glória e honra."
       ]
     },
     {
@@ -1871,8 +1871,8 @@
       "reference": "Êx 35:21",
       "wrongs": [
         "Tributos obrigatórios para o palácio de Faraó.",
-        "Armas e carros para a guerra.",
-        "Mantimentos só para a casa de Moisés."
+        "Armas e carros para a guerra contra Amaleque.",
+        "Mantimentos para a casa de Moisés."
       ]
     },
     {
@@ -1900,9 +1900,9 @@
       "answer": "Fogo.",
       "reference": "Êx 35:3",
       "wrongs": [
-        "Lâmpadas do santuário.",
-        "Incenso de especiarias.",
-        "O forno do maná."
+        "Lâmpada.",
+        "Tocha.",
+        "Forno."
       ]
     },
     {
@@ -2158,7 +2158,7 @@
       "wrongs": [
         "No décimo dia do primeiro mês do primeiro ano.",
         "No sétimo dia do terceiro mês do segundo ano.",
-        "No último dia do décimo segundo mês."
+        "No último dia do décimo segundo mês do primeiro ano."
       ]
     },
     {
@@ -2172,8 +2172,8 @@
       "reference": "Êx 40:38",
       "wrongs": [
         "O fogo de dia e a nuvem de noite.",
-        "A glória só de dia, e nada de noite.",
-        "Duas colunas, uma de pó e outra de vento."
+        "A nuvem de dia e a fumaça de noite.",
+        "A glória de dia e o fogo de noite."
       ]
     },
     {

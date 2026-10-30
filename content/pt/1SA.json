@@ -133,7 +133,7 @@
       "wrongs": [
         "Mais um menino e nenhuma menina.",
         "Mais duas meninas e nenhum menino.",
-        "Nenhum outro filho depois dele."
+        "Mais dois meninos e uma menina."
       ]
     },
     {
@@ -191,9 +191,9 @@
       "answer": "Era de muita valia, e não havia visão manifesta.",
       "reference": "1Sm 3:1",
       "wrongs": [
-        "Era diária, e todo jovem tinha visão.",
-        "Estava escrita, e Eli a lia em voz alta.",
-        "Chegava só por sonho ao rei."
+        "Era de muita valia, e não havia arca no santuário.",
+        "Era de muita valia, e não havia sacerdote em Siló.",
+        "Era de muita valia, e não havia lâmpada no santuário."
       ]
     },
     {
@@ -267,9 +267,9 @@
       "answer": "Caiu, e ficaram cortadas a cabeça e as palmas das mãos.",
       "reference": "1Sm 5:4",
       "wrongs": [
-        "Ficou de pé e recebeu a arca ao lado.",
-        "Derreteu no fogo e não restou nada no altar.",
-        "Foi levada ilesa para outro templo."
+        "Caiu, e ficaram cortados os pés e as palmas das mãos.",
+        "Caiu, e ficaram cortadas a cabeça e as orelhas.",
+        "Caiu, e ficaram cortados os braços e as palmas das mãos."
       ]
     },
     {
@@ -312,9 +312,9 @@
       "answer": "Direto para Bete-Semes.",
       "reference": "1Sm 6:12",
       "wrongs": [
-        "De volta para Asdode.",
-        "Pela estrada de Ecrom.",
-        "Até a cidade de Gate."
+        "Direto para Ecrom.",
+        "Direto para Gate.",
+        "Direto para Asdode."
       ]
     },
     {
@@ -433,9 +433,9 @@
       "answer": "Um rei, para serem como as outras nações.",
       "reference": "1Sm 8:4-5",
       "wrongs": [
-        "Um novo sacerdote no lugar de Eli.",
-        "Que Samuel ungisse os próprios filhos.",
-        "A volta da arca para Siló."
+        "Um juiz, para julgar como antes.",
+        "Um profeta, para falar em nome de Deus.",
+        "Um sacerdote, para servir no altar de Siló."
       ]
     },
     {
@@ -496,7 +496,7 @@
       "wrongs": [
         "Davi, que pastoreava o rebanho do pai.",
         "Jônatas, filho do rei que ainda não havia.",
-        "Eli, já idoso em Siló."
+        "Eli, que ainda julgava em Siló."
       ]
     },
     {
@@ -539,9 +539,9 @@
       "answer": "Prata no valor de um quarto de siclo.",
       "reference": "1Sm 9:8",
       "wrongs": [
-        "Um cabrito do rebanho.",
-        "Três pães e um odre de vinho.",
-        "Um siclo inteiro de ouro."
+        "Prata no valor de meio siclo.",
+        "Prata no valor de um siclo inteiro.",
+        "Prata no valor de dois siclos."
       ]
     },
     {
@@ -632,7 +632,7 @@
       "wrongs": [
         "Agague, o amalequita.",
         "Aquis, rei de Gate.",
-        "Hanum, filho de Naás."
+        "Hanum, o amonita."
       ]
     },
     {
@@ -675,9 +675,9 @@
       "answer": "Trovões e chuva naquele dia.",
       "reference": "1Sm 12:18",
       "wrongs": [
-        "Fogo sobre o altar.",
-        "Um vento que abriu o mar.",
-        "Silêncio e uma seca longa."
+        "Trovões e neve naquele dia.",
+        "Vento e chuva naquele dia.",
+        "Trovões e granizo naquele dia."
       ]
     },
     {
@@ -706,9 +706,9 @@
       "answer": "Que não duraria, porque ele desobedeceu a Deus.",
       "reference": "1Sm 13:13-14",
       "wrongs": [
-        "Que passaria em paz aos filhos dele.",
-        "Que cresceria depois da vitória em Micmás.",
-        "Que Deus o confirmaria de novo em Gilgal."
+        "Que não duraria, porque os filisteus dominaram o povo.",
+        "Que não duraria, porque o povo pediu outro rei.",
+        "Que não duraria, porque ele era moço demais."
       ]
     },
     {
@@ -753,7 +753,7 @@
       "wrongs": [
         "Todo o exército reunido em Gilgal.",
         "Só Abner e os guardas dele.",
-        "Ninguém, nem o próprio rei."
+        "Só Jônatas e o escudeiro dele."
       ]
     },
     {
@@ -827,7 +827,7 @@
       "answer": "Porque Saul rejeitou a palavra de Deus.",
       "reference": "1Sm 15:23-24",
       "wrongs": [
-        "Porque Saul era baixo demais para reinar.",
+        "Porque Saul não esperou Samuel em Gilgal.",
         "Porque o povo pediu Davi no lugar dele.",
         "Porque Samuel queria ungir o próprio filho."
       ]
@@ -933,9 +933,9 @@
       "answer": "O coração.",
       "reference": "1Sm 16:7",
       "wrongs": [
-        "A altura.",
-        "A força do braço.",
-        "A roupa do candidato."
+        "O entendimento.",
+        "A consciência.",
+        "Os pensamentos."
       ]
     },
     {
@@ -980,7 +980,7 @@
       "wrongs": [
         "No vale do Sal.",
         "No vale de Soreque.",
-        "No bosque de Efraim."
+        "No vale de Efraim."
       ]
     },
     {
@@ -1024,8 +1024,8 @@
       "reference": "1Sm 18:11",
       "wrongs": [
         "Uma pedra, e errou as duas vezes.",
-        "O manto real, para humilhá-lo.",
-        "Uma taça, que se quebrou no chão."
+        "Uma espada, e o feriu no ombro.",
+        "Um cajado, e o atirou contra ele."
       ]
     },
     {
@@ -1054,8 +1054,8 @@
       "reference": "1Sm 18:7",
       "wrongs": [
         "Milhares para Davi e dez milhares para Saul.",
-        "O mesmo número para os dois.",
-        "Nada para Saul e tudo para Davi."
+        "Milhares para Saul e milhares para Davi.",
+        "Milhares para Saul e vinte milhares para Davi."
       ]
     },
     {
@@ -1129,7 +1129,7 @@
       "reference": "1Sm 19:13",
       "wrongs": [
         "Um monte de roupas e a lança de Saul.",
-        "O manto de Samuel, dobrado.",
+        "O manto de Samuel, dobrado sobre a cama.",
         "Almofadas vazias, sem mais nada."
       ]
     },
@@ -1143,9 +1143,9 @@
       "answer": "Saul lançou uma lança para ferir o próprio filho.",
       "reference": "1Sm 20:33",
       "wrongs": [
-        "Saul chorou e pediu perdão a Jônatas.",
-        "Jônatas achou o assento de Davi ocupado.",
-        "O povo gritou o nome de Davi na rua."
+        "Saul ameaçou matar Davi durante a festa.",
+        "Saul mandou guardas cercarem a casa de Davi.",
+        "Saul jurou a Jônatas que mataria Davi."
       ]
     },
     {
@@ -1250,7 +1250,7 @@
       "reference": "1Sm 21:9",
       "wrongs": [
         "A de Saul, guardada desde Gilgal.",
-        "A de Jônatas, usada em Micmás.",
+        "A de Jônatas, usada na subida de Micmás.",
         "A de Samuel, pendurada no altar."
       ]
     },
@@ -1265,8 +1265,8 @@
       "reference": "1Sm 22:18",
       "wrongs": [
         "Abner, o comandante, e caíram cinquenta.",
-        "Joabe, filho de Zeruia, e caíram trezentos.",
-        "O próprio Saul, e não sobrou nenhum."
+        "Joabe, o comandante, e caíram trezentos.",
+        "O próprio Saul, e caíram cem."
       ]
     },
     {
@@ -1416,7 +1416,7 @@
       "answer": "A orla do manto.",
       "reference": "1Sm 24:4",
       "wrongs": [
-        "A lança e a bilha de água.",
+        "A lança e o cântaro.",
         "Um pedaço da barba.",
         "O cinto da espada."
       ]
@@ -1477,8 +1477,8 @@
       "answer": "Deus o feriu, e ele morreu.",
       "reference": "1Sm 25:38",
       "wrongs": [
-        "Ele pediu perdão e viveu.",
-        "Abigail o escondeu no Carmelo.",
+        "Deus o feriu, e ele se arrependeu.",
+        "Deus o advertiu, e ele jejuou.",
         "Davi o feriu com a espada."
       ]
     },
@@ -1522,9 +1522,9 @@
       "answer": "No outeiro de Haquilá.",
       "reference": "1Sm 26:3",
       "wrongs": [
-        "Na caverna de En-Gedi.",
-        "No vale de Elá.",
-        "Na cova de Adulão."
+        "No outeiro de Zife.",
+        "No outeiro de Gibeá.",
+        "No outeiro de Gilboa."
       ]
     },
     {
@@ -1538,8 +1538,8 @@
       "reference": "1Sm 26:9",
       "wrongs": [
         "Porque Saul já tinha entregue a coroa.",
-        "Porque Abisai não sabia usar a lança.",
-        "Porque Jônatas dormia ao lado dele."
+        "Porque a lança estava presa no chão.",
+        "Porque Abner vigiava ao lado do rei."
       ]
     },
     {
@@ -1721,7 +1721,7 @@
       "reference": "1Sm 30:18",
       "wrongs": [
         "Só o gado, e as mulheres ficaram presas.",
-        "Nada, porque o rastro se perdeu.",
+        "Só os filhos, e os bens ficaram atrás.",
         "A arca, que os amalequitas tinham levado."
       ]
     },
@@ -1813,7 +1813,7 @@
       "wrongs": [
         "No monte Carmelo.",
         "No monte Tabor.",
-        "No vale de Elá."
+        "No monte Efraim."
       ]
     },
     {

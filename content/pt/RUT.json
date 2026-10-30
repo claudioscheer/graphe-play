@@ -10,9 +10,9 @@
       "answer": "Ir com ela, e ter o mesmo povo e o mesmo Deus.",
       "reference": "Rt 1:16",
       "wrongs": [
-        "Voltar a Moabe e cuidar da mãe de lá.",
-        "Ficar em Belém só até o fim da colheita.",
-        "Casar de novo e esquecer a família dela."
+        "Ir com ela, e ter outro povo e outro Deus.",
+        "Ir com ela, e ter o mesmo povo e outros deuses.",
+        "Ir com ela, e ter a mesma casa e o mesmo Deus."
       ]
     },
     {
@@ -40,9 +40,9 @@
       "answer": "Para Belém, no começo da colheita de cevada.",
       "reference": "Rt 1:22",
       "wrongs": [
-        "Para Moabe, no fim da colheita de trigo.",
-        "Para Hebrom, no meio do inverno.",
-        "Para Jericó, na época das primícias."
+        "Para Hebrom, no começo da colheita de cevada.",
+        "Para Belém, no fim da colheita de trigo.",
+        "Para Belém, no meio da colheita de uvas."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Mara, porque a vida dela tinha amargado.",
       "reference": "Rt 1:20",
       "wrongs": [
-        "Noemi, porque a vida tinha ficado doce.",
-        "Rute, porque ganhara uma nova filha.",
-        "Orfa, porque a viagem tinha acabado."
+        "Mara, porque voltara rica de Moabe.",
+        "Mara, porque os anos em Moabe foram bons.",
+        "Mara, porque tinha saudade da terra dela."
       ]
     },
     {
@@ -71,8 +71,8 @@
       "reference": "Rt 2:8",
       "wrongs": [
         "Que não falasse com os ceifeiros dele.",
-        "Que voltasse no mesmo dia para Moabe.",
-        "Que escondesse a cevada da sogra."
+        "Que não apanhasse as espigas já atadas.",
+        "Que não voltasse a Moabe depois da colheita."
       ]
     },
     {
@@ -85,7 +85,7 @@
       "answer": "Boaz.",
       "reference": "Rt 2:1",
       "wrongs": [
-        "Elimeleque.",
+        "Obede.",
         "Malom.",
         "Quiliom."
       ]
@@ -116,8 +116,8 @@
       "reference": "Rt 2:17",
       "wrongs": [
         "Cerca de um ômer.",
-        "Seis medidas.",
-        "Dois seás."
+        "Cerca de dois efas.",
+        "Cerca de meio efa."
       ]
     },
     {
@@ -130,9 +130,9 @@
       "answer": "Que estendesse a capa sobre ela, por ser o remidor.",
       "reference": "Rt 3:9",
       "wrongs": [
-        "Que a mandasse de volta ao campo de outro dono.",
-        "Que pagasse a Noemi e a deixasse em Moabe.",
-        "Que entregasse a colheita aos pobres da porta."
+        "Que estendesse o manto sobre ela, por ser o remidor.",
+        "Que estendesse a capa sobre ela, por ser o dono do campo.",
+        "Que estendesse a capa sobre ela, por ser o juiz da cidade."
       ]
     },
     {
@@ -147,7 +147,7 @@
       "wrongs": [
         "Orfa, a concunhada.",
         "Boaz, o parente rico.",
-        "A mulher do outro resgatador."
+        "Malom, o marido dela."
       ]
     },
     {
@@ -160,9 +160,9 @@
       "answer": "Para a eira.",
       "reference": "Rt 3:6",
       "wrongs": [
-        "Para a porta da cidade.",
-        "Para o poço de Belém.",
-        "Para a casa do outro parente."
+        "Para o lagar.",
+        "Para o campo dele.",
+        "Para a casa dela."
       ]
     },
     {
@@ -192,7 +192,7 @@
       "wrongs": [
         "Jessé.",
         "Boaz.",
-        "Elimeleque."
+        "Malom."
       ]
     },
     {
@@ -205,9 +205,9 @@
       "answer": "Boaz.",
       "reference": "Rt 4:13",
       "wrongs": [
-        "O outro parente.",
+        "Quiliom.",
         "Malom.",
-        "Elimeleque."
+        "Salmom."
       ]
     },
     {
@@ -265,9 +265,9 @@
       "answer": "Depois do tempo dos juízes. A história chega até Davi.",
       "reference": "Rute",
       "wrongs": [
-        "Antes de Moisés, ainda no Egito. A história não passa dali.",
-        "No exílio, depois da queda. A história para em Nabucodonosor.",
-        "No tempo de Sansão, só entre os juízes. Não chega a Davi."
+        "No tempo dos reis. A história chega até Salomão.",
+        "Depois do exílio. A história chega até Zorobabel.",
+        "Logo após o êxodo. A história chega até Josué."
       ]
     }
   ]

@@ -10,9 +10,9 @@
       "answer": "O cego, o coxo e o enfermo.",
       "reference": "Ml 1:8",
       "wrongs": [
-        "O sadio, o forte e o inteiro.",
-        "O primeiro, o gordo e o puro.",
-        "O cordeiro sem mancha nenhuma."
+        "O surdo, o mudo e o leproso.",
+        "O torto, o ferido e o sarnento.",
+        "O fraco, o magro e o cansado."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "Entre os gentios, do nascente ao poente.",
       "reference": "Ml 1:11",
       "wrongs": [
-        "Só em Jerusalém, dentro do templo.",
-        "Só em Judá, do norte até o sul.",
-        "Nas ruínas de Edom, e em mais nada."
+        "Entre os gentios, do norte ao sul.",
+        "Entre os gentios, de Jerusalém a Samaria.",
+        "Entre os sacerdotes, do nascente ao poente."
       ]
     },
     {
@@ -146,7 +146,7 @@
       "reference": "Ml 3:1",
       "wrongs": [
         "O rei da Pérsia.",
-        "Um sacerdote de Edom.",
+        "O sacerdote de Edom.",
         "O governador de Judá."
       ]
     },
@@ -175,9 +175,9 @@
       "answer": "Nos dízimos e nas ofertas.",
       "reference": "Ml 3:8",
       "wrongs": [
-        "No sábado e no jejum.",
-        "No voto e na oração.",
-        "No altar e no incenso."
+        "Nos votos e nas orações.",
+        "Nos primogênitos e nas primícias.",
+        "Nos sacrifícios e nas festas."
       ]
     },
     {
@@ -190,9 +190,9 @@
       "answer": "Um memorial.",
       "reference": "Ml 3:16",
       "wrongs": [
-        "Uma lista de culpas.",
-        "Um decreto de exílio.",
-        "Uma sentença de morte."
+        "Um livro de culpas.",
+        "Um rol de nomes.",
+        "Um decreto real."
       ]
     },
     {
@@ -205,9 +205,9 @@
       "answer": "O Sol da justiça, com cura nas asas.",
       "reference": "Ml 4:2",
       "wrongs": [
-        "A lua da ira, com fogo nas asas.",
-        "A noite do juízo, sem nenhuma cura.",
-        "A estrela da guerra, com uma espada."
+        "A lua da justiça, com cura nas asas.",
+        "A estrela da manhã, com cura nas asas.",
+        "O Sol da vingança, com fogo nas asas."
       ]
     },
     {
@@ -250,9 +250,9 @@
       "answer": "Converterá o coração dos pais aos filhos e o dos filhos aos pais.",
       "reference": "Ml 4:6",
       "wrongs": [
-        "Separará o coração deles para sempre.",
-        "Entregará os filhos aos inimigos.",
-        "Fará os pais esquecerem os filhos."
+        "Converterá o coração dos pais à lei e o dos filhos aos mandamentos.",
+        "Converterá o coração dos pais ao altar e o dos filhos ao templo.",
+        "Converterá o coração dos pais à oração e o dos filhos ao jejum."
       ]
     },
     {
@@ -282,7 +282,7 @@
       "wrongs": [
         "No século VIII antes de Cristo.",
         "No século II antes de Cristo.",
-        "No século I depois de Cristo."
+        "No século IV antes de Cristo."
       ]
     }
   ]

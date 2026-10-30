@@ -9,9 +9,9 @@
       "prompt": "Como a cidade populosa de Jerusalém ficou?",
       "answer": "Ficou solitária, como viúva, e virou tributária.",
       "wrongs": [
-        "Ficou cheia, como noiva, e virou rainha.",
-        "Ficou segura, como fortaleza, e virou capital.",
-        "Ficou alegre, como festa, e virou mercado."
+        "Ficou solitária, como viúva, e virou cativa.",
+        "Ficou solitária, como viúva, e virou província.",
+        "Ficou solitária, como viúva, e virou deserto."
       ],
       "reference": "Lm 1:1"
     },
@@ -24,9 +24,9 @@
       "prompt": "Por que os caminhos de Sião choravam?",
       "answer": "Porque ninguém vinha às festas, e as portas ficaram vazias.",
       "wrongs": [
-        "Porque a chuva alagava as festas, e as portas ficaram fechadas.",
-        "Porque o rei mudou as festas, e as portas ficaram douradas.",
-        "Porque o povo dobrou as festas, e as portas ficaram novas."
+        "Porque o povo fugiu das festas, e as portas ficaram trancadas.",
+        "Porque o rei proibiu as festas, e as portas ficaram guardadas.",
+        "Porque a guerra acabou com as festas, e as portas ficaram fechadas."
       ],
       "reference": "Lm 1:4"
     },
@@ -54,9 +54,9 @@
       "prompt": "O que o povo de Jerusalém trocava por comida?",
       "answer": "Os próprios bens, para conseguir sobreviver.",
       "wrongs": [
-        "As próprias armas, para conseguir vencer.",
-        "As próprias coroas, para conseguir vinho.",
-        "Os próprios cânticos, para conseguir paz."
+        "Os próprios cavalos, para conseguir fugir.",
+        "As próprias joias, para conseguir passagem.",
+        "As próprias vestes, para conseguir abrigo."
       ],
       "reference": "Lm 1:11"
     },
@@ -69,9 +69,9 @@
       "prompt": "Como Deus se voltou contra Israel na queda de Jerusalém?",
       "answer": "Ficou como inimigo e derrubou palácios e fortalezas.",
       "wrongs": [
-        "Ficou como aliado e levantou palácios e fortalezas.",
-        "Ficou como pastor e contou palácios e rebanhos.",
-        "Ficou como hóspede e dourou palácios e portas."
+        "Ficou como sitiante e cercou palácios e fortalezas.",
+        "Ficou como senhor e tomou palácios e fortalezas.",
+        "Ficou como estrangeiro e ocupou palácios e fortalezas."
       ],
       "reference": "Lm 2:5"
     },
@@ -99,9 +99,9 @@
       "prompt": "Como os anciãos de Sião ficaram no chão?",
       "answer": "Calados, com pó na cabeça e pano de saco.",
       "wrongs": [
-        "Cantando, com coroa na cabeça e manto de linho.",
-        "Dormindo, com óleo na cabeça e capa de lã.",
-        "Correndo, com elmo na cabeça e escudo na mão."
+        "Calados, com pó nos ombros e pano de saco.",
+        "Calados, com pó na cabeça e cinto de couro.",
+        "Calados, com pó na cabeça e manto de linho."
       ],
       "reference": "Lm 2:10"
     },
@@ -115,9 +115,9 @@
       "prompt": "O que as crianças pediam às mães em Jerusalém?",
       "answer": "Trigo e vinho, já desmaiando nas ruas.",
       "wrongs": [
-        "Ouro e prata, já brincando nas praças.",
-        "Leite e mel, já dormindo nas casas.",
-        "Brinquedos e cantos, já correndo nos muros."
+        "Pão e água, já desmaiando nas ruas.",
+        "Leite e mel, já chorando nas portas.",
+        "Frutas e azeite, já gemendo nas praças."
       ],
       "reference": "Lm 2:11-12"
     },
@@ -131,9 +131,9 @@
       "prompt": "O que o homem aflito em Jerusalém diz da misericórdia de Deus?",
       "answer": "Que ela não acaba, se renova toda manhã, e a fidelidade dele é grande.",
       "wrongs": [
-        "Que ela acabou, se esconde toda noite, e a fidelidade dele falhou.",
-        "Que ela tarda, se mede toda semana, e a fidelidade dele é pouca.",
-        "Que ela cobra, se fecha todo ano, e a fidelidade dele mudou."
+        "Que ela não acaba, se renova todo mês, e a fidelidade dele é grande.",
+        "Que ela não cessa, se renova toda semana, e a fidelidade dele é grande.",
+        "Que ela não falta, se renova todo ano, e a fidelidade dele é grande."
       ],
       "reference": "Lm 3:22-23"
     },
@@ -176,9 +176,9 @@
       "prompt": "Com o que Deus quebrou os dentes do homem aflito em Jerusalém?",
       "answer": "Com cascalho, e o abaixou na cinza.",
       "wrongs": [
-        "Com mel, e o abaixou no óleo.",
-        "Com pão, e o abaixou no linho.",
-        "Com leite, e o abaixou no ouro."
+        "Com areia, e o abaixou na lama.",
+        "Com pedras, e o abaixou no chão.",
+        "Com terra, e o abaixou no lodo."
       ],
       "reference": "Lm 3:16"
     },
@@ -191,9 +191,9 @@
       "prompt": "Como os filhos preciosos de Sião passaram a ser vistos?",
       "answer": "Como vasos de barro, e não mais como ouro puro.",
       "wrongs": [
-        "Como coroas de ouro, e não mais como pó.",
-        "Como taças de prata, e não mais como barro.",
-        "Como pedras de templo, e não mais como palha."
+        "Como vasos de barro, e não mais como prata fina.",
+        "Como vasos de madeira, e não mais como ouro puro.",
+        "Como vasos de cobre, e não mais como ouro puro."
       ],
       "reference": "Lm 4:2"
     },
@@ -221,9 +221,9 @@
       "prompt": "O que as mulheres bondosas fizeram com os filhos em Sião?",
       "answer": "Cozinharam os próprios filhos para comê-los.",
       "wrongs": [
-        "Esconderam os próprios filhos para salvá-los.",
         "Venderam os próprios filhos para pagar tributo.",
-        "Ungiram os próprios filhos para o serviço do templo."
+        "Ofereceram os próprios filhos para o sacrifício.",
+        "Trocaram os próprios filhos para conseguir pão."
       ],
       "reference": "Lm 4:10"
     },
@@ -251,9 +251,9 @@
       "prompt": "O que caiu da cabeça do povo de Jerusalém?",
       "answer": "A coroa, e o povo lamenta porque pecou.",
       "wrongs": [
-        "O elmo, e o povo festeja porque venceu.",
-        "O véu, e o povo dança porque voltou.",
-        "A cinza, e o povo cala porque esqueceu."
+        "O cetro, e o povo lamenta porque pecou.",
+        "A coroa, e o povo chora porque foi derrotado.",
+        "A coroa, e o povo geme porque perdeu a cidade."
       ],
       "reference": "Lm 5:16"
     },
@@ -296,9 +296,9 @@
       "prompt": "Como a fome deixou a pele do povo de Jerusalém?",
       "answer": "Queimada, como um forno.",
       "wrongs": [
-        "Clara, como a neve.",
-        "Dourada, como o trigo.",
-        "Branca, como o linho."
+        "Queimada, como o deserto.",
+        "Queimada, como a terra seca.",
+        "Queimada, como o tijolo."
       ],
       "reference": "Lm 5:10"
     },

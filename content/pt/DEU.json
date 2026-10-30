@@ -10,9 +10,9 @@
       "answer": "Nenhum daqueles homens veria a terra boa.",
       "reference": "Dt 1:35",
       "wrongs": [
-        "Todos eles entrariam depois de um ano.",
-        "Só as mulheres ficariam no deserto.",
-        "A terra seria dada a Edom."
+        "Nenhum daqueles homens voltaria ao Egito.",
+        "Nenhum daqueles homens veria a terra de Seir.",
+        "Nenhum daqueles homens chegaria a Cades."
       ]
     },
     {
@@ -41,8 +41,8 @@
       "reference": "Dt 1:44",
       "wrongs": [
         "Até Jericó, depois de vencê-los no Jordão.",
-        "Até Cades, sem sair de Seir.",
-        "Até o Egito, pelo caminho do mar."
+        "Até Cades, depois de vencê-los em Seir.",
+        "Até o mar Vermelho, depois de vencê-los em Seir."
       ]
     },
     {
@@ -130,8 +130,8 @@
       "answer": "Entregou o rei e todo o povo, e ninguém restou.",
       "reference": "Dt 3:3",
       "wrongs": [
-        "Fez as pazes e deixou o rei vivo.",
-        "Devolveu Basã aos amorreus.",
+        "Entregou o rei e parte do povo, e muitos fugiram.",
+        "Entregou as cidades e o povo, e o rei fugiu.",
         "Só tomou Edrei e poupou o restante."
       ]
     },
@@ -220,9 +220,9 @@
       "answer": "Nenhuma figura, apenas ouviu a voz.",
       "reference": "Dt 4:12",
       "wrongs": [
-        "Um corpo de homem, em pé no fogo.",
-        "O rosto de Deus, entre as chamas.",
-        "Um bezerro de ouro, sobre o monte."
+        "Nenhuma figura, apenas ouviu o trovão.",
+        "Nenhuma figura, apenas ouviu um estrondo.",
+        "Nenhuma figura, apenas ouviu um sussurro."
       ]
     },
     {
@@ -250,9 +250,9 @@
       "answer": "No Horebe.",
       "reference": "Dt 5:2",
       "wrongs": [
-        "Em Moabe.",
-        "Em Cades.",
-        "Em Siquém."
+        "No Egito.",
+        "No monte Seir.",
+        "No Carmelo."
       ]
     },
     {
@@ -340,9 +340,9 @@
       "answer": "Destruí-las de todo, sem pacto e sem poupar.",
       "reference": "Dt 7:2",
       "wrongs": [
-        "Fazer aliança e casar com elas.",
-        "Cobrar tributo e deixá-las nas cidades.",
-        "Mudá-las para o outro lado do Jordão."
+        "Expulsá-las da terra, sem pacto e sem poupar.",
+        "Sujeitá-las à servidão, sem pacto e sem poupar.",
+        "Vencê-las na guerra, sem pacto e sem poupar."
       ]
     },
     {
@@ -355,9 +355,9 @@
       "answer": "Não por ser o maior, pois era o menor de todos.",
       "reference": "Dt 7:7",
       "wrongs": [
-        "Porque era o mais numeroso da terra.",
-        "Porque já guardava a lei com perfeição.",
-        "Porque ofereceu o maior despojo de guerra."
+        "Não por amor aos pais, pois era o menor de todos.",
+        "Não por juramento aos pais, pois era o menor de todos.",
+        "Não por compaixão do Senhor, pois era o menor de todos."
       ]
     },
     {
@@ -400,9 +400,9 @@
       "answer": "A roupa não envelheceu, e o pé não inchou.",
       "reference": "Dt 8:4",
       "wrongs": [
-        "A roupa ficou nova todo ano, e o pé não cansou.",
-        "O calçado não se perdeu, e a mão não enfraqueceu.",
-        "O manto não desbotou, e o joelho não doeu."
+        "A roupa não envelheceu, e a mão não inchou.",
+        "A roupa não envelheceu, e o pé não doeu.",
+        "A roupa não envelheceu, e a perna não cansou."
       ]
     },
     {
@@ -430,9 +430,9 @@
       "answer": "Não por justiça do povo, que era obstinado.",
       "reference": "Dt 9:6",
       "wrongs": [
-        "Foi pela justiça do povo, que era fiel.",
-        "Foi porque Israel nunca murmurou.",
-        "Foi só pela força dos exércitos."
+        "Não pela aliança do povo, que era obstinado.",
+        "Não pela espada do povo, que era obstinado.",
+        "Não pelo número do povo, que era obstinado."
       ]
     },
     {
@@ -490,9 +490,9 @@
       "answer": "Temer a Deus, andar nos caminhos dele, amá-lo e servi-lo.",
       "reference": "Dt 10:12",
       "wrongs": [
-        "Só oferecer bois e ovelhas todo dia.",
-        "Conquistar nações e ajuntar ouro.",
-        "Ficar calado e não se aproximar."
+        "Temer a Deus, andar nos caminhos dele e dar o dízimo.",
+        "Temer a Deus, andar nos caminhos dele e amar o próximo.",
+        "Temer a Deus, guardar os mandamentos e amar o próximo."
       ]
     },
     {
@@ -550,7 +550,7 @@
       "answer": "A bênção no Gerizim e a maldição no Ebal.",
       "reference": "Dt 11:29",
       "wrongs": [
-        "A bênção no Ebal e a maldição no Gerizim.",
+        "A bênção no Gerizim e a maldição no Sinai.",
         "As duas no monte Sinai.",
         "A bênção em Gilgal e a maldição em Jericó."
       ]
@@ -565,7 +565,7 @@
       "answer": "Datã e Abirão.",
       "reference": "Dt 11:6",
       "wrongs": [
-        "Coré e os seus.",
+        "Acã e a sua casa.",
         "Nadabe e Abiú.",
         "Eldade e Medade."
       ]
@@ -612,7 +612,7 @@
       "wrongs": [
         "Porque o sangue era só dos sacerdotes.",
         "Porque o sangue azedava a carne.",
-        "Porque o sangue estava reservado ao rei."
+        "Porque o sangue pertencia ao altar."
       ]
     },
     {
@@ -625,9 +625,9 @@
       "answer": "Queimavam filhos e filhas no fogo aos seus deuses.",
       "reference": "Dt 12:31",
       "wrongs": [
-        "Circuncidavam os filhos no oitavo dia.",
-        "Entregavam os filhos para copiar a lei.",
-        "Levavam os filhos à festa das cabanas."
+        "Queimavam filhos e filhas no fogo aos deuses do Egito.",
+        "Queimavam filhos e filhas no fogo aos deuses de Moabe.",
+        "Queimavam servos e servas no fogo aos seus deuses."
       ]
     },
     {
@@ -656,8 +656,8 @@
       "reference": "Dt 13:9",
       "wrongs": [
         "Só os juízes, longe da família.",
-        "O sacerdote, com um incensário.",
-        "Os levitas, no dia seguinte."
+        "O sacerdote, com a espada na mão.",
+        "Os anciãos, antes de toda a família."
       ]
     },
     {
@@ -732,7 +732,7 @@
       "wrongs": [
         "Passava para o ano seguinte, com juros.",
         "Era cobrada em dobro na festa.",
-        "Ficava de pé, e só o estrangeiro era perdoado."
+        "Ficava adiada até a colheita seguinte."
       ]
     },
     {
@@ -806,7 +806,7 @@
       "reference": "Dt 16:19",
       "wrongs": [
         "Porque o ouro pertencia só ao altar.",
-        "Porque o suborno era comida impura.",
+        "Porque o suborno vinha de mãos impuras.",
         "Porque o rei já recebia esse pagamento."
       ]
     },
@@ -820,9 +820,9 @@
       "answer": "Um irmão do povo, escolhido por Deus, não um estrangeiro.",
       "reference": "Dt 17:15",
       "wrongs": [
-        "Qualquer estrangeiro rico, se o povo quisesse.",
-        "O filho do sacerdote, sem outra escolha.",
-        "O general que vencesse a última guerra."
+        "Um irmão do povo, escolhido pelos anciãos, não um estrangeiro.",
+        "Um irmão do povo, escolhido por sorte, não um estrangeiro.",
+        "Um irmão do povo, escolhido por Deus, não um homem velho."
       ]
     },
     {
@@ -835,9 +835,9 @@
       "answer": "De volta ao Egito.",
       "reference": "Dt 17:16",
       "wrongs": [
-        "Para a Assíria.",
-        "Para o outro lado do Jordão.",
-        "Para as cidades dos filisteus."
+        "De volta à Assíria.",
+        "De volta a Moabe.",
+        "De volta a Canaã."
       ]
     },
     {
@@ -867,7 +867,7 @@
       "wrongs": [
         "Um rei estrangeiro, para julgar o povo.",
         "Um sacerdote de Levi, só para o altar.",
-        "Um anjo, para falar no lugar de Deus."
+        "Um juiz do meio de Israel, para governar o povo."
       ]
     },
     {
@@ -880,9 +880,9 @@
       "answer": "No Horebe.",
       "reference": "Dt 18:16",
       "wrongs": [
-        "Em Moabe.",
-        "Em Sitim.",
-        "Em Gilgal."
+        "No Egito.",
+        "No monte Ebal.",
+        "No Carmelo."
       ]
     },
     {
@@ -925,9 +925,9 @@
       "answer": "Quem ferisse o próximo por engano, sem o odiar antes.",
       "reference": "Dt 19:4",
       "wrongs": [
-        "Quem matasse de propósito, por ódio.",
-        "Quem roubasse o gado do vizinho.",
-        "Quem quebrasse o sábado no campo."
+        "Quem ferisse o próximo por engano, sem testemunhas.",
+        "Quem ferisse o próximo numa discussão, sem o odiar antes.",
+        "Quem ferisse o próximo por engano, sem socorro ao ferido."
       ]
     },
     {
@@ -955,9 +955,9 @@
       "answer": "Duas ou três, e uma só não bastava.",
       "reference": "Dt 19:15",
       "wrongs": [
-        "Uma bastava, se fosse levita.",
+        "Quatro ou cinco, e uma só não bastava.",
         "Sete, uma de cada família próxima.",
-        "O sacerdote sozinho decidia, sem testemunha."
+        "Cinco, uma de cada porta da cidade."
       ]
     },
     {
@@ -972,7 +972,7 @@
       "wrongs": [
         "A cor da cerca da vinha.",
         "O nome do poço da família.",
-        "A porta da casa nova."
+        "A porta da casa nova do vizinho."
       ]
     },
     {
@@ -985,9 +985,9 @@
       "answer": "A paz.",
       "reference": "Dt 20:10",
       "wrongs": [
-        "A guerra.",
-        "O ouro.",
-        "O medo."
+        "O aviso.",
+        "A espada.",
+        "O ouro."
       ]
     },
     {
@@ -1001,7 +1001,7 @@
       "answer": "Quem tinha casa nova, vinha nova, noiva ou medo.",
       "reference": "Dt 20:5-8",
       "wrongs": [
-        "Só os levitas e os doentes.",
+        "Só os levitas e os doentes do arraial.",
         "Quem já tivesse filhos adultos.",
         "Os chefes de mil, para guardar o acampamento."
       ]
@@ -1018,7 +1018,7 @@
       "wrongs": [
         "Os cedros, porque eram altos demais.",
         "As do bosque sagrado, para não ofender.",
-        "Nenhuma: todas viravam lenha do cerco."
+        "Os carvalhos, porque marcavam o limite."
       ]
     },
     {
@@ -1046,9 +1046,9 @@
       "answer": "Parte dobrada, porque a primogenitura era dele.",
       "reference": "Dt 21:17",
       "wrongs": [
-        "Nada, porque a mãe tinha sido rejeitada.",
+        "Parte igual, porque a mãe tinha sido rejeitada.",
         "A mesma parte dos outros filhos.",
-        "Só a bênção, sem terra."
+        "Só a bênção, sem parte da herança."
       ]
     },
     {
@@ -1061,9 +1061,9 @@
       "answer": "Não permanecia no madeiro; o pendurado é maldito de Deus.",
       "reference": "Dt 21:23",
       "wrongs": [
-        "Ficava três dias, para exemplo da cidade.",
-        "Ficava até a festa seguinte.",
-        "Podia permanecer uma semana inteira."
+        "Não permanecia no madeiro; o pendurado é justo diante de Deus.",
+        "Não permanecia no madeiro; o pendurado é maldito dos homens.",
+        "Não permanecia no madeiro; o pendurado é lembrado com honra."
       ]
     },
     {
@@ -1152,9 +1152,9 @@
       "answer": "Nem na décima geração, e a exclusão era definitiva.",
       "reference": "Dt 23:3",
       "wrongs": [
-        "Só até a terceira geração.",
-        "Até o ano do perdão.",
-        "Só enquanto durasse a guerra."
+        "Nem na terceira geração, e a exclusão era definitiva.",
+        "Nem na quinta geração, e a exclusão era definitiva.",
+        "Nem na sétima geração, e a exclusão era definitiva."
       ]
     },
     {
@@ -1182,9 +1182,9 @@
       "answer": "Não devolver ao dono.",
       "reference": "Dt 23:15",
       "wrongs": [
-        "Devolver no mesmo dia.",
-        "Vendê-lo a outro israelita.",
-        "Entregá-lo aos juízes para açoites."
+        "Não vendê-lo a outro israelita.",
+        "Não cobrar resgate do dono.",
+        "Não entregá-lo aos anciãos."
       ]
     },
     {
@@ -1212,9 +1212,9 @@
       "answer": "Receber de volta a mulher, pois isso pervertia a terra.",
       "reference": "Dt 24:4",
       "wrongs": [
-        "Pagar o dote que já tinha dado.",
-        "Falar o nome dela na cidade.",
-        "Casar com outra mulher depois."
+        "Receber de volta o dote, pois isso pervertia a terra.",
+        "Receber de volta os filhos, pois isso pervertia a terra.",
+        "Receber de volta a viúva, pois isso pervertia a terra."
       ]
     },
     {
@@ -1272,7 +1272,7 @@
       "answer": "Quarenta, para o irmão não ficar envilecido.",
       "reference": "Dt 25:3",
       "wrongs": [
-        "Vinte, e nem um a mais.",
+        "Vinte, para o irmão não ficar humilhado.",
         "Cem, se o crime fosse grave.",
         "Sete, diante das testemunhas."
       ]
@@ -1287,9 +1287,9 @@
       "answer": "Não se atava a boca do boi.",
       "reference": "Dt 25:4",
       "wrongs": [
-        "Atava-se a boca com uma corda.",
-        "Punha-se um jugo novo.",
-        "Cobriam-se os olhos do boi."
+        "Não se atava o jugo ao boi.",
+        "Não se vendava o boi na eira.",
+        "Não se feria o boi com aguilhão."
       ]
     },
     {
@@ -1334,7 +1334,7 @@
       "wrongs": [
         "O dízimo de todo o gado do ano.",
         "As cinzas da novilha vermelha.",
-        "Um mapa da terra já repartida."
+        "Um cântaro com o vinho da colheita."
       ]
     },
     {
@@ -1347,9 +1347,9 @@
       "answer": "Um arameu prestes a perecer, que desceu ao Egito.",
       "reference": "Dt 26:5",
       "wrongs": [
-        "Como um egípcio rico, que subiu a Canaã.",
-        "Como um rei de Ur, que nunca saiu da cidade.",
-        "Como um pastor de Midiã, que ficou no deserto."
+        "Um egípcio rico, que subiu a Canaã.",
+        "Um rei de Ur, que nunca saiu da cidade.",
+        "Um pastor de Midiã, que ficou no deserto."
       ]
     },
     {
@@ -1424,8 +1424,8 @@
       "reference": "Dt 27:15",
       "wrongs": [
         "Aleluia.",
-        "Silêncio.",
-        "Nunca."
+        "Louvor.",
+        "Glória."
       ]
     },
     {
@@ -1498,9 +1498,9 @@
       "answer": "Na terra de Moabe.",
       "reference": "Dt 29:1",
       "wrongs": [
-        "No deserto do Sinai.",
-        "Em Siquém, diante das tribos.",
-        "No monte Nebo, no dia da morte."
+        "Na terra de Canaã.",
+        "Na terra de Edom.",
+        "Na terra do Egito."
       ]
     },
     {
@@ -1543,9 +1543,9 @@
       "answer": "A Deus; o que foi revelado fica com o povo.",
       "reference": "Dt 29:29",
       "wrongs": [
-        "Ao povo; o que foi revelado fica só com Deus.",
-        "Aos sacerdotes; o povo não recebe nada.",
-        "Aos profetas; ninguém mais pode saber."
+        "A Deus; o que foi revelado fica com os sacerdotes.",
+        "Aos sacerdotes; o que foi revelado fica com o povo.",
+        "Aos profetas; o que foi revelado fica com eles."
       ]
     },
     {
@@ -1558,7 +1558,7 @@
       "answer": "A vida, para que o povo e os filhos vivessem.",
       "reference": "Dt 30:19",
       "wrongs": [
-        "A morte, para descansar da lei.",
+        "A lei, para que o povo e os filhos vivessem.",
         "O deserto, para não entrar na terra.",
         "Outro deus, se a colheita falhasse."
       ]
@@ -1573,9 +1573,9 @@
       "answer": "Perto, na boca e no coração.",
       "reference": "Dt 30:14",
       "wrongs": [
-        "Longe, do outro lado do mar.",
-        "Escondida, só no céu.",
-        "No Egito, com os sábios de lá."
+        "Perto, na boca e nas mãos.",
+        "Perto, na boca e nos ouvidos.",
+        "Perto, na boca e na memória."
       ]
     },
     {
@@ -1588,8 +1588,8 @@
       "answer": "Compadecer-se-ia dele e o ajuntaria de todas as nações.",
       "reference": "Dt 30:3",
       "wrongs": [
-        "Esqueceria o povo e escolheria outra nação.",
-        "Deixaria Israel espalhado para sempre.",
+        "Reuniria o povo e o levaria de volta ao Egito.",
+        "Escolheria outra nação e a abençoaria.",
         "Cobraria o exílio por mais quarenta anos."
       ]
     },
@@ -1603,7 +1603,7 @@
       "answer": "Tinha cento e vinte anos, e Deus lhe negou a passagem.",
       "reference": "Dt 31:2",
       "wrongs": [
-        "Tinha oitenta anos, e Deus lhe mandou passar.",
+        "Tinha oitenta anos, e Deus lhe negou a passagem.",
         "Tinha cem anos, e ele mesmo guiaria a travessia.",
         "Tinha cento e dez anos, e ficou em Moabe por escolha."
       ]
@@ -1648,9 +1648,9 @@
       "answer": "Ao fim de cada sete anos, na festa dos tabernáculos.",
       "reference": "Dt 31:10",
       "wrongs": [
-        "Todo ano, na Páscoa.",
-        "No ano cinquenta, no jubileu.",
-        "No dia dez do sétimo mês."
+        "Ao fim de cada três anos, na festa dos tabernáculos.",
+        "Ao fim de cada sete anos, na festa da Páscoa.",
+        "Ao fim de cada sete anos, na festa das semanas."
       ]
     },
     {
@@ -1844,7 +1844,7 @@
       "reference": "Dt 34:7",
       "wrongs": [
         "Cento e dez, já sem força para andar.",
-        "Oitenta, ao pé do monte Sinai.",
+        "Oitenta, com a vista boa e o vigor inteiro.",
         "Cento e trinta, cego e cansado."
       ]
     },
@@ -1858,9 +1858,9 @@
       "answer": "Nenhum, e o Senhor o conheceu face a face.",
       "reference": "Dt 34:10",
       "wrongs": [
-        "Muitos, em cada geração seguinte.",
-        "Só Josué, a quem o Senhor também conheceu face a face.",
-        "Doze, um em cada tribo."
+        "Nenhum, e o Senhor o conheceu de longe.",
+        "Nenhum, e o Senhor falou com ele em sonhos.",
+        "Nenhum, e o Senhor o conheceu por sinais."
       ]
     },
     {

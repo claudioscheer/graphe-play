@@ -24,9 +24,9 @@
       "prompt": "Que dois males o povo de Israel cometeu contra Deus?",
       "answer": "Deixou o manancial de águas vivas e cavou cisternas rotas.",
       "wrongs": [
-        "Guardou o manancial de águas vivas e tampou cisternas novas.",
-        "Bebeu do manancial de águas vivas e encheu cisternas de ouro.",
-        "Buscou o manancial de águas vivas e quebrou cisternas alheias."
+        "Deixou o manancial de águas vivas e cavou poços fundos.",
+        "Deixou as fontes do deserto e cavou cisternas rotas.",
+        "Deixou o manancial de águas vivas e tapou cisternas rotas."
       ],
       "reference": "Jr 2:13"
     },
@@ -54,9 +54,9 @@
       "prompt": "Como Jeremias viu a terra e os céus?",
       "answer": "A terra sem forma e vazia, e os céus sem a luz deles.",
       "wrongs": [
-        "A terra cheia de gente, e os céus com o sol alto.",
-        "A terra coberta de trigo, e os céus sem nuvem.",
-        "A terra firme e habitada, e os céus com chuva."
+        "A terra sem forma e vazia, e os céus sem as estrelas deles.",
+        "A terra sem forma e vazia, e os céus sem o sol e a lua.",
+        "A terra sem forma e vazia, e os céus cobertos de nuvens."
       ],
       "reference": "Jr 4:23"
     },
@@ -160,9 +160,9 @@
       "prompt": "O que os homens de Anatote queriam fazer com Jeremias?",
       "answer": "Matá-lo, se ele não parasse de profetizar.",
       "wrongs": [
-        "Coroá-lo, se ele falasse a favor do rei.",
-        "Escondê-lo, se ele fugisse para o Egito.",
-        "Pagá-lo, se ele calasse a mensagem."
+        "Coroá-lo, se ele não parasse de profetizar.",
+        "Escondê-lo, se ele não parasse de profetizar.",
+        "Prendê-lo, se ele não parasse de profetizar."
       ],
       "reference": "Jr 11:21"
     },
@@ -190,9 +190,9 @@
       "prompt": "Como Jeremias achou o cinto escondido no Eufrates?",
       "answer": "Estava podre e não servia para nada.",
       "wrongs": [
-        "Estava novo e servia para a festa.",
-        "Estava limpo e servia para o altar.",
-        "Estava inteiro e servia para o rei."
+        "Estava sujo e não servia para nada.",
+        "Estava roto e não servia para nada.",
+        "Estava gasto e não servia para nada."
       ],
       "reference": "Jr 13:7"
     },
@@ -220,9 +220,9 @@
       "prompt": "O que Deus faria se Moisés e Samuel orassem pelo povo?",
       "answer": "A alma dele não estaria com o povo, e o lançaria da face.",
       "wrongs": [
-        "A alma dele estaria com o povo, e o traria à face.",
-        "Ouviria a oração e devolveria a terra aos pais.",
-        "Calaria a ira e deixaria o rei firme no trono."
+        "A alma dele não estaria com o povo, e o lançaria da terra.",
+        "A alma dele não estaria com o povo, e o lançaria da cidade.",
+        "A alma dele não estaria com os profetas, e o lançaria da face."
       ],
       "reference": "Jr 15:1"
     },
@@ -235,9 +235,9 @@
       "prompt": "O que Deus proibiu a Jeremias sobre ter família?",
       "answer": "Casar e ter filhos ou filhas naquele lugar.",
       "wrongs": [
-        "Casar e morar com a família em Anatote.",
-        "Adotar os órfãos deixados pelo cerco.",
-        "Mandar os filhos para a casa do rei."
+        "Casar e ter filhos ou filhas em Anatote.",
+        "Casar e ter servos ou servas naquele lugar.",
+        "Casar e ter casas e vinhas naquele lugar."
       ],
       "reference": "Jr 16:2"
     },
@@ -280,9 +280,9 @@
       "prompt": "Como Deus comparou o fim do povo ao vaso de oleiro, em Jeremias?",
       "answer": "Ele o quebraria, e não se refaria.",
       "wrongs": [
-        "Ele o guardaria, e haveria novo uso.",
-        "Ele o venderia, e o oleiro faria outro.",
-        "Ele o douraria, e ficaria no altar."
+        "Ele o despedaçaria, e não se refaria.",
+        "Ele o quebraria, e não se remendaria.",
+        "Ele o queimaria, e não se refaria."
       ],
       "reference": "Jr 19:11"
     },
@@ -295,9 +295,9 @@
       "prompt": "O que Pasur fez com Jeremias na casa de Deus?",
       "answer": "Feriu-o e o colocou no cepo.",
       "wrongs": [
-        "Deu-lhe pão e o deixou ir embora.",
-        "Leu-lhe a carta e a rasgou em silêncio.",
-        "Pôs-lhe um manto e o escondeu em casa."
+        "Feriu-o e o colocou na cisterna.",
+        "Prendeu-o e o colocou no cepo.",
+        "Açoitou-o e o colocou no cepo."
       ],
       "reference": "Jr 20:2"
     },
@@ -355,9 +355,9 @@
       "prompt": "Quem Deus comparou aos bons figos, em Jeremias?",
       "answer": "Os cativos levados de Judá, para o bem deles.",
       "wrongs": [
-        "Os que ficaram com Zedequias, para o mal deles.",
-        "Os que fugiram ao Egito, para o medo deles.",
-        "Os soldados do muro, para a guerra deles."
+        "Os que ficaram com Zedequias, para o bem deles.",
+        "Os que fugiram para o Egito, para o bem deles.",
+        "Os sacerdotes do templo, para o bem deles."
       ],
       "reference": "Jr 24:5"
     },
@@ -385,9 +385,9 @@
       "prompt": "O que os príncipes e o povo decidiram sobre Jeremias?",
       "answer": "Que ele não era réu de morte, pois falou em nome de Deus.",
       "wrongs": [
-        "Que ele devia morrer, pois falou contra o templo.",
-        "Que ele devia calar, pois falou em nome próprio.",
-        "Que ele devia fugir, pois falou ao rei errado."
+        "Que ele não era réu de morte, pois falou em nome do povo.",
+        "Que ele não era réu de morte, pois falou em nome do rei.",
+        "Que ele não era réu de morte, pois falou por ordem dos príncipes."
       ],
       "reference": "Jr 26:16"
     },
@@ -417,7 +417,7 @@
       "wrongs": [
         "Faraó Neco, rei do Egito.",
         "Senaqueribe, rei da Assíria.",
-        "Mesa, rei de Moabe."
+        "Mesa, rei dos moabitas."
       ],
       "reference": "Jr 27:6"
     },
@@ -520,9 +520,9 @@
       "prompt": "O que Deus pediu aos exilados sobre a cidade da Babilônia?",
       "answer": "Que buscassem a paz dela e orassem por ela.",
       "wrongs": [
-        "Que buscassem a queda dela e orassem contra ela.",
-        "Que buscassem a fuga e voltassem logo para casa.",
-        "Que buscassem o rei dela e o derrubassem."
+        "Que buscassem a paz dela e orassem pelos seus reis.",
+        "Que buscassem a paz dela e orassem pelos seus muros.",
+        "Que buscassem a paz de Judá e orassem por ela."
       ],
       "reference": "Jr 29:7"
     },
@@ -565,7 +565,7 @@
       "prompt": "Quantos anos duraria o cativeiro na Babilônia?",
       "answer": "Setenta anos, e depois o povo voltaria.",
       "wrongs": [
-        "Quarenta anos, e depois o povo sumiria.",
+        "Quarenta anos, e depois o povo voltaria.",
         "Três anos, e depois o rei voltaria.",
         "Cento e vinte anos, sem nenhuma volta."
       ],
@@ -580,9 +580,9 @@
       "prompt": "O que Deus prometeu fazer com o cativeiro de Israel e Judá?",
       "answer": "Trazê-los de volta à terra que deu aos pais.",
       "wrongs": [
-        "Deixá-los para sempre na terra do exílio.",
-        "Entregá-los ao Egito, longe da terra dos pais.",
-        "Espalhá-los de novo, sem lhes dar terra."
+        "Trazê-los de volta à terra do Egito.",
+        "Trazê-los de volta à terra que deu aos reis.",
+        "Trazê-los de volta à terra dos inimigos."
       ],
       "reference": "Jr 30:3"
     },
@@ -595,9 +595,9 @@
       "prompt": "Qual rei Israel serviria, além de Deus, após o cativeiro?",
       "answer": "Davi, a quem Deus levantaria.",
       "wrongs": [
-        "Saul, a quem Deus já tinha rejeitado.",
-        "Jeú, a quem Deus tiraria do trono.",
-        "Acaz, a quem Deus entregaria ao inimigo."
+        "Saul, a quem Deus levantaria de novo.",
+        "Jeú, a quem Deus poria no trono.",
+        "Acaz, a quem Deus escolheria em Judá."
       ],
       "reference": "Jr 30:9"
     },
@@ -655,9 +655,9 @@
       "prompt": "Quem chorava pelos filhos em Ramá?",
       "answer": "Raquel, que não aceitava consolo.",
       "wrongs": [
-        "Lia, que pedia outro filho.",
-        "Ana, que orava em Siló.",
-        "Sara, que ria da promessa."
+        "Lia, que não pedia outro filho.",
+        "Ana, que não orava em Siló.",
+        "Sara, que não ria da promessa."
       ],
       "reference": "Jr 31:15"
     },
@@ -700,8 +700,8 @@
       "prompt": "O que Deus disse que ainda se compraria em Judá durante o cerco?",
       "answer": "Casas, campos e vinhas.",
       "wrongs": [
-        "Só escravos, armas e despojo de guerra.",
-        "Nada de terra, só pão racionado.",
+        "Escravos, armas e despojo de guerra.",
+        "Pão, água e roupas de vestir.",
         "Ídolos, altares e imagens de pedra."
       ],
       "reference": "Jr 32:15"
@@ -747,7 +747,7 @@
       "wrongs": [
         "Sete siclos de prata.",
         "Trinta siclos de prata.",
-        "Cinquenta siclos de ouro."
+        "Cinquenta siclos de prata."
       ],
       "reference": "Jr 32:9"
     },
@@ -791,7 +791,7 @@
       "answer": "Jerusalém.",
       "wrongs": [
         "Hebrom.",
-        "Siló.",
+        "Siló, em Efraim.",
         "Mispa."
       ],
       "reference": "Jr 33:16"
@@ -820,9 +820,9 @@
       "prompt": "O que fizeram com os servos hebreus depois de libertá-los, em Jeremias?",
       "answer": "Mudaram de ideia e os escravizaram de novo.",
       "wrongs": [
-        "Cumpriram a palavra e os deixaram livres.",
-        "Pagaram o preço e os mandaram a Anatote.",
-        "Rasgaram o contrato e os fizeram sacerdotes."
+        "Mudaram de ideia e os venderam a estrangeiros.",
+        "Mudaram de ideia e os prenderam na cidade.",
+        "Mudaram de ideia e os entregaram aos caldeus."
       ],
       "reference": "Jr 34:11"
     },
@@ -880,9 +880,9 @@
       "prompt": "O que a obediência dos recabitas mostrou a Judá?",
       "answer": "Que eles ouviam o pai, mas Judá não ouvia a Deus.",
       "wrongs": [
-        "Que eles bebiam vinho, mas Judá também bebia.",
-        "Que eles moravam em casa, e Judá no deserto.",
-        "Que eles fugiam da guerra, e Judá ia ao templo."
+        "Que eles bebiam vinho, mas Judá não ouvia a Deus.",
+        "Que eles moravam em casa, mas Judá não ouvia a Deus.",
+        "Que eles fugiam da guerra, mas Judá não ouvia a Deus."
       ],
       "reference": "Jr 35:14"
     },
@@ -925,9 +925,9 @@
       "prompt": "Como os recabitas deviam morar, segundo Jonadabe?",
       "answer": "Em tendas, sem casa, sem lavoura e sem vinha.",
       "wrongs": [
-        "Em palácios, com vinha, com lavoura e com gado.",
+        "Em tendas, sem casa, sem gado e sem vinha.",
         "Em cavernas, sem porta, sem pão e sem água.",
-        "Em barcos, sem terra, sem rei e sem altar."
+        "Em cabanas, sem muro, sem poço e sem vinha."
       ],
       "reference": "Jr 35:7"
     },
@@ -940,9 +940,9 @@
       "prompt": "O que Jeudi fez com o rolo depois de ler um trecho?",
       "answer": "Cortou-o com um canivete e o lançou no fogo.",
       "wrongs": [
-        "Guardou-o e o levou ao templo.",
-        "Copiou-o e o enviou ao Egito.",
-        "Leu-o inteiro e o devolveu a Baruque."
+        "Cortou-o com um canivete e o guardou no cofre.",
+        "Rasgou-o com as mãos e o lançou no fogo.",
+        "Cortou-o com um canivete e o lançou na cisterna."
       ],
       "reference": "Jr 36:23"
     },
@@ -1060,8 +1060,8 @@
       "prompt": "Como Jeremias ficou na cisterna de Malquias?",
       "answer": "Atolado na lama, porque não havia água.",
       "wrongs": [
-        "Sentado na pedra, porque a água subia.",
-        "Preso na corrente, porque a porta fechou.",
+        "Atolado na lama, porque a cisterna era funda.",
+        "Preso na corda, porque a porta fechou.",
         "Deitado na palha, porque o pão acabou."
       ],
       "reference": "Jr 38:6"
@@ -1120,9 +1120,9 @@
       "prompt": "O que os caldeus fizeram em Jerusalém depois de entrar?",
       "answer": "Queimaram as casas e derrubaram os muros.",
       "wrongs": [
-        "Poupavam as casas e reforçavam os muros.",
-        "Fechavam as casas e douravam os portões.",
-        "Contavam as casas e mediam as ruas."
+        "Queimaram as casas e reforçaram os muros.",
+        "Queimaram os celeiros e derrubaram as portas.",
+        "Queimaram o templo e derrubaram os altares."
       ],
       "reference": "Jr 39:8"
     },
@@ -1167,7 +1167,7 @@
       "wrongs": [
         "Foram levados com a mãe para Mispa.",
         "Foram postos como guardas do templo.",
-        "Foram soltos diante do povo da cidade."
+        "Foram vendidos diante do pai."
       ],
       "reference": "Jr 39:6"
     },
@@ -1300,9 +1300,9 @@
       "prompt": "O que Deus prometeu a quem ficasse em Judá, sem ir ao Egito?",
       "answer": "Edificá-los e plantá-los, sem os destruir.",
       "wrongs": [
-        "Espalhá-los e arrancá-los, sem os ouvir.",
-        "Vendê-los e contá-los, sem os nomear.",
-        "Deixá-los e esquecê-los, sem os buscar."
+        "Edificá-los e plantá-los, sem os esquecer.",
+        "Edificá-los e guardá-los, sem os destruir.",
+        "Edificá-los e plantá-los, sem os castigar."
       ],
       "reference": "Jr 42:10"
     },
@@ -1467,7 +1467,7 @@
       "wrongs": [
         "Coroas para a adorar e taças de ouro.",
         "Véus para a adorar e incenso em pó.",
-        "Pão para a adorar e azeite de oliva."
+        "Frutas para a adorar e azeite de oliva."
       ],
       "reference": "Jr 44:19"
     },
@@ -1480,9 +1480,9 @@
       "prompt": "O que Deus disse a Baruque sobre buscar grandezas?",
       "answer": "Que não buscasse, pois teria a alma por despojo.",
       "wrongs": [
-        "Que buscasse, pois a terra dele seria grande.",
-        "Que esperasse, pois o trono dele seria firme.",
-        "Que escrevesse, pois o nome dele seria eterno."
+        "Que não buscasse, pois teria a vida por prêmio.",
+        "Que não buscasse, pois teria a alma por herança.",
+        "Que não buscasse, pois teria os bens por despojo."
       ],
       "reference": "Jr 45:5"
     },
@@ -1630,9 +1630,9 @@
       "prompt": "O que Deus faria no juízo a Moabe, por se exaltar contra ele?",
       "answer": "Seria destruído e deixaria de ser povo.",
       "wrongs": [
-        "Seria poupado e continuaria como povo.",
-        "Seria coroado e viraria um reino maior.",
-        "Seria mudado e passaria a servir no templo."
+        "Seria destruído e deixaria de ter rei.",
+        "Seria destruído e deixaria de ter nome.",
+        "Seria destruído e deixaria de ter muros."
       ],
       "reference": "Jr 48:42"
     },
@@ -1675,9 +1675,9 @@
       "prompt": "O que Deus prometeu a Moabe nos últimos dias?",
       "answer": "Fazer voltar os cativos dele.",
       "wrongs": [
-        "Entregá-lo a Edom para sempre.",
-        "Mudá-lo para o Egito sem volta.",
-        "Apagar o nome dele da terra."
+        "Fazer voltar os príncipes dele.",
+        "Fazer voltar os rebanhos dele.",
+        "Fazer voltar os sacerdotes dele."
       ],
       "reference": "Jr 48:47"
     },
@@ -1690,9 +1690,9 @@
       "prompt": "Como Edom ficaria para quem passasse por ela?",
       "answer": "Seria motivo de espanto e de assobio.",
       "wrongs": [
-        "Seria motivo de canto e de dança.",
-        "Seria motivo de inveja e de aliança.",
-        "Seria motivo de refúgio e de comércio."
+        "Seria motivo de espanto e de escárnio.",
+        "Seria motivo de medo e de assobio.",
+        "Seria motivo de zombaria e de assobio."
       ],
       "reference": "Jr 49:17"
     },
@@ -1707,7 +1707,7 @@
       "wrongs": [
         "Faraó Neco, rei do Egito.",
         "Senaqueribe, rei da Assíria.",
-        "Mesa, rei de Moabe."
+        "Mesa, rei dos moabitas."
       ],
       "reference": "Jr 49:28"
     },
@@ -1720,9 +1720,9 @@
       "prompt": "O que Deus faria no juízo a Rabá dos filhos de Amom, em Jeremias?",
       "answer": "Um montão de ruínas, com os lugares queimados.",
       "wrongs": [
-        "Uma cidade nova, com os muros dourados.",
-        "Um porto rico, com as naus carregadas.",
-        "Um oásis verde, com as fontes abertas."
+        "Um montão de ruínas, com as portas abertas.",
+        "Um montão de pedras, com os lugares queimados.",
+        "Um vale de escombros, com as casas vazias."
       ],
       "reference": "Jr 49:2"
     },
@@ -1750,9 +1750,9 @@
       "prompt": "O que Jeremias devia anunciar sobre a Babilônia?",
       "answer": "Que ela foi tomada, Bel confundido e Merodaque espatifado.",
       "wrongs": [
-        "Que ela foi poupada, Bel coroado e Merodaque no trono.",
-        "Que ela foi vendida, Bel escondido e Merodaque calado.",
-        "Que ela foi medida, Bel contado e Merodaque de ouro."
+        "Que ela foi tomada, Bel coroado e Merodaque espatifado.",
+        "Que ela foi tomada, Bel confundido e Merodaque exaltado.",
+        "Que ela foi cercada, Bel adorado e Merodaque espatifado."
       ],
       "reference": "Jr 50:2"
     },
@@ -1855,9 +1855,9 @@
       "prompt": "O que significava atirar o livro no Eufrates?",
       "answer": "Que a Babilônia afundaria e não se levantaria.",
       "wrongs": [
-        "Que a Babilônia subiria e não cairia mais.",
-        "Que a Babilônia pagaria e não deveria nada.",
-        "Que a Babilônia oraria e não guerrearia mais."
+        "Que a Babilônia afundaria e se cobriria de águas.",
+        "Que a Babilônia afundaria e não teria mais muros.",
+        "Que a Babilônia afundaria e não teria mais templos."
       ],
       "reference": "Jr 51:64"
     },
@@ -1915,9 +1915,9 @@
       "prompt": "Quantos judeus Jeremias diz que foram levados no total?",
       "answer": "Quatro mil e seiscentas pessoas.",
       "wrongs": [
-        "Duas mil pessoas.",
-        "Dez mil pessoas.",
-        "Sete mil pessoas."
+        "Duas mil e duzentas pessoas.",
+        "Dez mil e quatrocentas pessoas.",
+        "Sete mil e trezentas pessoas."
       ],
       "reference": "Jr 52:30"
     },

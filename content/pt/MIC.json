@@ -10,9 +10,9 @@
       "answer": "Num montão de pedras do campo e em terra de vinhas.",
       "reference": "Mq 1:6",
       "wrongs": [
-        "Em capital mais forte e rica.",
-        "Em porto aberto no mar.",
-        "Em templo coberto de ouro."
+        "Num montão de pedras do monte e em terra de pastos.",
+        "Num montão de pedras do vale e em terra de oliveiras.",
+        "Num montão de pedras da cidade e em terra de trigais."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Despojado e nu, como chacais e avestruzes.",
       "reference": "Mq 1:8",
       "wrongs": [
-        "Calado, sentado, com canto de festa.",
-        "Vestido de linho, com uma trombeta.",
-        "No templo, com uma oferta de bois."
+        "Descalço e nu, como chacais e avestruzes.",
+        "Despojado e nu, como corujas e avestruzes.",
+        "Despojado e nu, como chacais e pelicanos."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "Cobiçam os campos e os roubam, e arrebatam as casas.",
       "reference": "Mq 2:2",
       "wrongs": [
-        "Compram e pagam o preço combinado.",
-        "Devolvem a terra a quem a perdeu na disputa.",
-        "Repartem a casa com o morador pobre."
+        "Cobiçam os campos e os compram, e arrebatam as casas.",
+        "Cobiçam as casas e as roubam, e arrebatam os campos.",
+        "Cobiçam os campos e os herdam, e arrebatam as casas."
       ]
     },
     {
@@ -85,9 +85,9 @@
       "answer": "Jacó inteiro, o que restou de Israel.",
       "reference": "Mq 2:12",
       "wrongs": [
-        "Só Judá, e deixa Israel de fora.",
-        "Só Efraim, sem o restante do povo.",
-        "As nações, no lugar de Israel."
+        "Judá inteiro, o que restou de Israel.",
+        "Jacó inteiro, o que restou de Judá.",
+        "Efraim inteiro, o que restou de Israel."
       ]
     },
     {
@@ -160,9 +160,9 @@
       "answer": "Clama paz se algo lhe entra na boca; se não, prepara guerra.",
       "reference": "Mq 3:5",
       "wrongs": [
-        "Quando o rei pede; se não, fica calado.",
-        "Quando o povo jejua; se não, vai embora.",
-        "Quando há vitória; se não, anuncia chuva."
+        "Clama paz se algo lhe entra na mão; se não, prepara guerra.",
+        "Clama paz se algo lhe entra na boca; se não, anuncia guerra.",
+        "Clama paz se o povo lhe enche a mesa; se não, prepara guerra."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "answer": "Por suborno, interesse e dinheiro.",
       "reference": "Mq 3:11",
       "wrongs": [
-        "Por justiça, aliança e verdade.",
-        "Por medo, jejum e silêncio.",
-        "Por lei antiga, por voto e herança."
+        "Por dádivas, interesse e prata.",
+        "Por suborno, costume e riqueza.",
+        "Por presentes, tradição e dinheiro."
       ]
     },
     {
@@ -190,9 +190,9 @@
       "answer": "Em pás e foices, e não aprendem mais a guerra.",
       "reference": "Mq 4:3",
       "wrongs": [
-        "Em espadas e lanças, e começa o treino.",
-        "Em escudos e arcos, e o treino de guerra dobra.",
-        "Em ouro e em prata, e a paz do povo se desfaz."
+        "Em arados e enxadas, e não aprendem mais a guerra.",
+        "Em pás e enxadas, e não aprendem mais a guerra.",
+        "Em foices e arados, e não aprendem mais a guerra."
       ]
     },
     {
@@ -281,8 +281,8 @@
       "reference": "Mq 5:5",
       "wrongs": [
         "O Egito.",
-        "Edom.",
-        "Moabe."
+        "A Síria.",
+        "A Babilônia."
       ]
     },
     {
@@ -310,9 +310,9 @@
       "answer": "Praticar a justiça, amar a benignidade e andar humildemente.",
       "reference": "Mq 6:8",
       "wrongs": [
-        "Milhares de carneiros e rios de azeite.",
-        "Ouro, incenso e um jejum contínuo.",
-        "O filho oferecido e ofertas sem fim."
+        "Praticar a justiça, amar a bondade e andar humildemente.",
+        "Praticar a justiça, amar a benignidade e andar com prudência.",
+        "Guardar a justiça, amar a benignidade e andar humildemente."
       ]
     },
     {
@@ -355,9 +355,9 @@
       "answer": "Milhares de carneiros e dez mil ribeiros de azeite.",
       "reference": "Mq 6:7",
       "wrongs": [
-        "Um só cordeiro pequeno e um jarro de vinho.",
-        "Duas pombas pequenas e um pouco de farinha.",
-        "Um pouco de pão ázimo e água sobre o altar."
+        "Milhares de bezerros e dez mil ribeiros de azeite.",
+        "Milhares de carneiros e dez mil ribeiros de vinho.",
+        "Milhares de cabritos e dez mil cântaros de azeite."
       ]
     },
     {
@@ -370,9 +370,9 @@
       "answer": "Perdoa, e não segura a ira para sempre.",
       "reference": "Mq 7:18",
       "wrongs": [
-        "Cobra, e guarda a ira para sempre.",
-        "Esquece o mal feito, e desfaz a aliança.",
-        "Esconde, e deixa a culpa no povo."
+        "Perdoa, e não segura a ira por algum tempo.",
+        "Perdoa, e não segura o furor para sempre.",
+        "Perdoa, e não segura a culpa para sempre."
       ]
     },
     {

@@ -70,9 +70,9 @@
       "answer": "Vendem o justo por dinheiro e o necessitado por um par de sapatos.",
       "reference": "Am 2:6",
       "wrongs": [
-        "Guardam o justo e dão sapatos ao necessitado.",
-        "Compram o necessitado por ouro e soltam o justo.",
-        "Escondem o dinheiro e fecham o mercado da cidade."
+        "Vendem o justo por prata e o necessitado por um par de sapatos.",
+        "Vendem o justo por dinheiro e o necessitado por um par de sandálias.",
+        "Vendem o necessitado por dinheiro e o justo por um par de sapatos."
       ]
     },
     {
@@ -115,9 +115,9 @@
       "answer": "Vinho, e mandaram os profetas calar.",
       "reference": "Am 2:12",
       "wrongs": [
-        "Água, e mandaram os profetas falar.",
-        "Leite, e deixaram os nazireus em paz.",
-        "Azeite, e os sacerdotes beberam."
+        "Água, e mandaram os profetas calar.",
+        "Leite, e mandaram os profetas calar.",
+        "Vinho, e deixaram os profetas calar."
       ]
     },
     {
@@ -130,9 +130,9 @@
       "answer": "Porque, de todas as famílias, só a Israel ele conheceu.",
       "reference": "Am 3:2",
       "wrongs": [
-        "Porque foi o povo mais numeroso da terra.",
-        "Porque foi o primeiro povo a pedir rei para si.",
-        "Porque foi o único povo sem nenhum altar."
+        "Porque, de todas as famílias, só a Judá ele conheceu.",
+        "Porque, de todas as famílias, só aos profetas ele conheceu.",
+        "Porque, de todos os pais, só a Abraão ele conheceu."
       ]
     },
     {
@@ -176,8 +176,8 @@
       "reference": "Am 4:12",
       "wrongs": [
         "Para o encontro com a Assíria.",
-        "Para a festa da colheita.",
-        "Para a volta ao Egito."
+        "Para o encontro com Baal.",
+        "Para o encontro com o rei."
       ]
     },
     {
@@ -220,9 +220,9 @@
       "answer": "O juízo como as águas, e a justiça como ribeiro impetuoso.",
       "reference": "Am 5:24",
       "wrongs": [
-        "O vinho, e o azeite como rio largo.",
-        "O ouro, e a prata como corrente.",
-        "O sangue, e a guerra como enchente."
+        "O juízo como as águas, e a justiça como rio largo.",
+        "O juízo como as águas, e a misericórdia como ribeiro impetuoso.",
+        "O juízo como as ondas, e a justiça como ribeiro impetuoso."
       ]
     },
     {
@@ -237,7 +237,7 @@
       "wrongs": [
         "Dagom.",
         "Baal.",
-        "Aserá."
+        "Quemos."
       ]
     },
     {
@@ -267,7 +267,7 @@
       "wrongs": [
         "A Ursa e o Dragão.",
         "A Lira e a Águia.",
-        "Castor e Pólux."
+        "A Coroa e o Cisne."
       ]
     },
     {
@@ -280,9 +280,9 @@
       "answer": "A quem está à vontade em Sião e confia em Samaria.",
       "reference": "Am 6:1",
       "wrongs": [
-        "A quem jejua em Betel e chora o dia todo em Dã.",
-        "A quem lavra em Judá e foge depressa ao Egito.",
-        "A quem ora em Gilgal e deixa a cidade de Samaria."
+        "A quem está à vontade em Samaria e confia em Sião.",
+        "A quem está à vontade em Betel e confia em Dã.",
+        "A quem está à vontade em Judá e confia em Israel."
       ]
     },
     {
@@ -327,7 +327,7 @@
       "wrongs": [
         "Em cama de cedro.",
         "Em cama de ouro.",
-        "Em esteira no chão."
+        "Em cama de ébano."
       ]
     },
     {
@@ -340,9 +340,9 @@
       "answer": "Um prumo, e diz que não passará mais por ele.",
       "reference": "Am 7:8",
       "wrongs": [
-        "Uma espada, e diz que vai poupar.",
-        "Uma balança, e diz que o peso fecha.",
-        "Um cetro, e diz que o rei fica."
+        "Uma balança, e diz que não passará mais por ela.",
+        "Um nível, e diz que não passará mais por ele.",
+        "Um prumo, e diz que vai poupar o povo."
       ]
     },
     {
@@ -357,7 +357,7 @@
       "wrongs": [
         "Zadoque, sacerdote de Hebrom.",
         "Eli, sacerdote de Siló.",
-        "Joiada, sacerdote de Judá."
+        "Joiada, sacerdote de Dã."
       ]
     },
     {
@@ -370,9 +370,9 @@
       "answer": "O santuário do rei e a casa real.",
       "reference": "Am 7:13",
       "wrongs": [
-        "O mercado real e também o porto.",
-        "A muralha real e também o poço.",
-        "O tribunal real e também a prisão."
+        "O santuário do povo e a casa real.",
+        "O palácio do rei e a casa real.",
+        "O santuário do rei e a casa do profeta."
       ]
     },
     {
@@ -385,9 +385,9 @@
       "answer": "Era boiadeiro e cultivador de sicômoros.",
       "reference": "Am 7:14",
       "wrongs": [
-        "Era sacerdote e guardava o templo.",
-        "Servia na corte do rei de Israel.",
-        "Fazia pão e vendia azeite na praça."
+        "Era lavrador e cultivador de sicômoros.",
+        "Era boiadeiro e colhedor de uvas.",
+        "Era boiadeiro e vendedor de sicômoros."
       ]
     },
     {
@@ -400,9 +400,9 @@
       "answer": "O fim de Israel; Deus não passará mais por ele.",
       "reference": "Am 8:2",
       "wrongs": [
-        "Uma boa colheita; Deus ia abençoar.",
-        "A volta do exílio; o cesto ia encher.",
-        "A festa do templo; o povo ia folgar."
+        "O fim de Samaria; Deus não passará mais por ela.",
+        "O fim do templo; Deus não passará mais por ele.",
+        "O fim de Israel; Deus não olhará mais para ele."
       ]
     },
     {
@@ -415,9 +415,9 @@
       "answer": "Do deus de Dã e do caminho de Berseba.",
       "reference": "Am 8:14",
       "wrongs": [
-        "Do Deus de Sião e do templo de Jerusalém.",
-        "Do altar de Gilgal e do rio Jordão.",
-        "Do monte Carmelo e do vale de Jezreel."
+        "Do deus de Betel e do caminho de Berseba.",
+        "Do deus de Dã e do caminho de Gilgal.",
+        "Do altar de Dã e do caminho de Berseba."
       ]
     },
     {
@@ -432,7 +432,7 @@
       "wrongs": [
         "Fome de vinho e de azeite.",
         "Fome de ouro no templo.",
-        "Sede de chuva no verão."
+        "Fome de ouvir os profetas."
       ]
     },
     {
@@ -445,9 +445,9 @@
       "answer": "Diminuem o efa e aumentam o siclo.",
       "reference": "Am 8:5",
       "wrongs": [
-        "Aumentam o efa e diminuem o siclo.",
-        "Mantêm o efa e o siclo justos.",
-        "Enchem o efa e dão o siclo de graça."
+        "Diminuem o efa e diminuem o siclo.",
+        "Aumentam o efa e aumentam o siclo.",
+        "Mantêm o efa e o siclo justos."
       ]
     },
     {
@@ -460,9 +460,9 @@
       "answer": "Vai levantá-lo de novo e reparar as brechas.",
       "reference": "Am 9:11",
       "wrongs": [
-        "Vai derrubá-la de vez e queimar as cordas.",
-        "Vai deixá-la caída até surgir outro rei.",
-        "Vai mudá-la inteira para Samaria."
+        "Vai levantá-lo de novo e reparar os muros.",
+        "Vai levantá-lo de novo e reparar as portas.",
+        "Vai levantá-lo de novo e firmar as bases."
       ]
     },
     {
@@ -491,8 +491,8 @@
       "reference": "Am 9:13",
       "wrongs": [
         "Quem está fugindo, de tanta guerra.",
-        "Quem guarda o celeiro ainda vazio.",
-        "Quem planta de novo, de tanta seca."
+        "Quem está dormindo, de tanto cansaço.",
+        "Quem está guardando, de tanta fartura."
       ]
     },
     {
@@ -505,9 +505,9 @@
       "answer": "Para sempre, sem ser arrancado outra vez.",
       "reference": "Am 9:15",
       "wrongs": [
-        "Por um ano apenas, e depois é arrancado.",
-        "Até o dia do exílio, e não volta mais.",
-        "Por quarenta anos, e depois sai da terra."
+        "Por muitos anos, sem ser arrancado outra vez.",
+        "Por mil anos, sem ser arrancado outra vez.",
+        "Para sempre, sem ser mudado outra vez."
       ]
     },
     {

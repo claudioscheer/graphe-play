@@ -10,9 +10,9 @@
       "answer": "Deus é luz, e não há nele trevas nenhumas.",
       "reference": "1Jo 1:5",
       "wrongs": [
-        "Deus é sombra, e a luz fica fora dele.",
-        "Deus é só lei, e a luz cabe apenas a Israel.",
-        "Deus é fogo, e ninguém pode se aproximar."
+        "Deus é luz, e não há nele sombra nenhuma.",
+        "Deus é luz, e não há nele mancha alguma.",
+        "Deus é luz, e não há nele mudança alguma."
       ]
     },
     {
@@ -27,7 +27,7 @@
       "wrongs": [
         "João Batista.",
         "Moisés.",
-        "Um anjo."
+        "Elias."
       ]
     },
     {
@@ -40,9 +40,9 @@
       "answer": "Perdoa os pecados e purifica de toda injustiça.",
       "reference": "1Jo 1:9",
       "wrongs": [
-        "Anota a culpa e espera o pagamento.",
-        "Esquece a confissão e não purifica nada.",
-        "Perdoa só uma parte, e o resto fica."
+        "Perdoa as culpas e purifica de toda injustiça.",
+        "Perdoa os pecados e lava de toda injustiça.",
+        "Perdoa os pecados e purifica de toda maldade."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Quem nega que Jesus é o Cristo.",
       "reference": "1Jo 2:22",
       "wrongs": [
-        "Quem confessa que Jesus é o Cristo.",
-        "Quem guarda os mandamentos por amor.",
-        "Quem ainda não ouviu o evangelho."
+        "Quem nega a ressurreição no último dia.",
+        "Quem nega o perdão dos pecados confessados.",
+        "Quem nega a vinda do Espírito sobre a igreja."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "A concupiscência da carne, a concupiscência dos olhos e a soberba da vida.",
       "reference": "1Jo 2:16",
       "wrongs": [
-        "Fome, sede e nudez dos apóstolos.",
-        "Oração, jejum e esmola feitos em segredo.",
-        "Fé, esperança e amor que permanecem."
+        "A oração, o jejum e a esmola em segredo.",
+        "A fé, a esperança e o amor que permanecem.",
+        "A alegria, a paz e a paciência do Espírito."
       ]
     },
     {
@@ -86,8 +86,8 @@
       "reference": "1Jo 2:17",
       "wrongs": [
         "Quem junta tesouro nesta vida.",
-        "Quem só ouve a palavra.",
-        "Ninguém. Tudo passa do mesmo modo."
+        "Quem guarda a lei de Moisés até o fim.",
+        "Quem busca primeiro o reino dos homens."
       ]
     },
     {
@@ -100,9 +100,9 @@
       "answer": "Serão semelhantes a ele, porque o verão como ele é.",
       "reference": "1Jo 3:2",
       "wrongs": [
-        "Continuarão como estão, sem mudança.",
-        "Virarão anjos, sem corpo.",
-        "Perderão a memória de terem sido filhos."
+        "Serão semelhantes a ele, porque guardarão a lei.",
+        "Serão semelhantes a ele, porque o verão no juízo.",
+        "Serão semelhantes a ele, porque o verão na glória."
       ]
     },
     {
@@ -130,9 +130,9 @@
       "answer": "A entrega da vida por nós.",
       "reference": "1Jo 3:16",
       "wrongs": [
-        "Um discurso bonito, sem custo.",
         "A oferta de um cordeiro no altar.",
-        "O cumprimento da lei por Moisés."
+        "O cumprimento da lei por Moisés.",
+        "A oração longa dos profetas."
       ]
     },
     {
@@ -145,9 +145,9 @@
       "answer": "Em obra e em verdade, não de palavra nem de língua.",
       "reference": "1Jo 3:18",
       "wrongs": [
-        "De palavra e de língua, sem obra.",
-        "Com ritos, e não com o próximo.",
-        "Com silêncio, sem obra nem verdade."
+        "Em obra e em verdade, mas não em palavras de ensino.",
+        "Em obra e em verdade, e não em sinal visível.",
+        "Em obra e em verdade, mas não com o irmão necessitado."
       ]
     },
     {
@@ -160,9 +160,9 @@
       "answer": "Porque Deus é amor.",
       "reference": "1Jo 4:8",
       "wrongs": [
-        "Porque Deus é só juiz, e o amor é humano.",
-        "Porque amar é opcional para quem crê.",
-        "Porque o amor nasce da pessoa, não de Deus."
+        "Porque Deus é bondoso.",
+        "Porque Deus é longânimo.",
+        "Porque Deus exige amor."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "answer": "O Filho.",
       "reference": "1Jo 4:14",
       "wrongs": [
-        "Um anjo.",
-        "Moisés.",
-        "A igreja."
+        "O Espírito.",
+        "O anjo Miguel.",
+        "Moisés."
       ]
     },
     {
@@ -190,9 +190,9 @@
       "answer": "O que confessa que Jesus Cristo veio em carne.",
       "reference": "1Jo 4:2",
       "wrongs": [
-        "O que nega que Jesus Cristo veio em carne.",
-        "O que chama Jesus só de mestre.",
-        "O que aceita qualquer espírito que faça sinal."
+        "O que anuncia que Jesus voltará em glória.",
+        "O que chama Jesus só de mestre e profeta.",
+        "O que aceita todo espírito que faz sinal."
       ]
     },
     {
@@ -267,7 +267,7 @@
       "wrongs": [
         "Dos anjos.",
         "Do sábado.",
-        "Dos pobres."
+        "Das tradições dos homens."
       ]
     },
     {

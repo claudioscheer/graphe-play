@@ -11,9 +11,9 @@
       "answer": "Mandou matá-lo.",
       "reference": "2Sm 1:15-16",
       "wrongs": [
-        "Mandou soltá-lo.",
-        "Mandou premiá-lo.",
-        "Mandou escondê-lo."
+        "Mandou prendê-lo.",
+        "Mandou açoitá-lo.",
+        "Mandou expulsá-lo."
       ]
     },
     {
@@ -26,9 +26,9 @@
       "answer": "No monte de Gilboa.",
       "reference": "2Sm 1:6",
       "wrongs": [
-        "Em Jezreel.",
-        "Em Bete-Seã.",
-        "Em En-Dor."
+        "No monte de Efraim.",
+        "No monte de Betel.",
+        "No monte de Seir."
       ]
     },
     {
@@ -58,8 +58,8 @@
       "reference": "2Sm 1:17",
       "wrongs": [
         "Por Abner e por Is-Bosete.",
-        "Só por ele mesmo, ainda vivo.",
-        "Por Golias e pelos filisteus."
+        "Por Saul e por Abner.",
+        "Por Jônatas e por Mefibosete."
       ]
     },
     {
@@ -117,9 +117,9 @@
       "answer": "Sete anos e seis meses.",
       "reference": "2Sm 2:11",
       "wrongs": [
-        "Quarenta anos.",
-        "Três meses.",
-        "Dois anos."
+        "Sete anos e dois meses.",
+        "Cinco anos e seis meses.",
+        "Dez anos e seis meses."
       ]
     },
     {
@@ -133,7 +133,7 @@
       "reference": "2Sm 3:27",
       "wrongs": [
         "Davi, por ordem publicada em Hebrom.",
-        "O próprio Abner, ao cair sobre a espada.",
+        "Abisai, vingando a morte do irmão Joabe.",
         "Is-Bosete, num banquete noturno."
       ]
     },
@@ -179,8 +179,8 @@
       "answer": "Até o pôr do sol.",
       "reference": "2Sm 3:35",
       "wrongs": [
-        "Até o amanhecer.",
-        "Por sete dias.",
+        "Até o meio-dia.",
+        "Até a terceira hora.",
         "Até a lua nova."
       ]
     },
@@ -226,7 +226,7 @@
       "reference": "2Sm 4:12",
       "wrongs": [
         "Na sepultura de Quis, em Zela.",
-        "No monte Gilboa, sem sepultura.",
+        "Na sepultura de Asael, em Belém.",
         "Em Jabes, debaixo da tamargueira."
       ]
     },
@@ -255,7 +255,7 @@
       "answer": "Fizeram acordo e o ungiram rei sobre Israel.",
       "reference": "2Sm 5:3",
       "wrongs": [
-        "Recusaram a coroa e voltaram para casa.",
+        "Fizeram acordo e o ungiram rei sobre Judá.",
         "Ungiram Is-Bosete outra vez.",
         "Pediram que Joabe reinasse no lugar dele."
       ]
@@ -360,9 +360,9 @@
       "answer": "Três meses, e Deus abençoou a família.",
       "reference": "2Sm 6:11",
       "wrongs": [
-        "Sete meses, e a família adoeceu.",
-        "Vinte anos, sem nenhuma bênção.",
-        "Um dia só, e a arca saiu de noite."
+        "Sete meses, e Deus abençoou a família.",
+        "Vinte anos, e Deus abençoou a família.",
+        "Um mês, e Deus abençoou a família."
       ]
     },
     {
@@ -377,7 +377,7 @@
       "wrongs": [
         "Que durariam só até Salomão.",
         "Que passariam a Saul de novo.",
-        "Que acabariam quando a arca saísse."
+        "Que ficariam firmes só por um tempo."
       ]
     },
     {
@@ -436,7 +436,7 @@
       "answer": "Pôs uma guarnição, e eles pagaram tributo.",
       "reference": "2Sm 8:6",
       "wrongs": [
-        "Destruiu Damasco e não deixou morador.",
+        "Pôs um governador, e eles pagaram tributo.",
         "Fez aliança e não cobrou nada.",
         "Entregou a cidade a Hadadezer de graça."
       ]
@@ -484,7 +484,7 @@
       "wrongs": [
         "Dez carros.",
         "Mil carros.",
-        "Nenhum carro."
+        "Duzentos carros."
       ]
     },
     {
@@ -543,7 +543,7 @@
       "answer": "Coxos, os dois.",
       "reference": "2Sm 9:13",
       "wrongs": [
-        "Sãos, os dois.",
+        "Um coxo e outro são.",
         "Coxo só o direito.",
         "Sem um dos pés."
       ]
@@ -558,9 +558,9 @@
       "answer": "Raspou metade da barba e cortou metade das vestes.",
       "reference": "2Sm 10:4",
       "wrongs": [
-        "Ungiu os servos e os mandou de volta com honra.",
+        "Raspou metade da cabeça e cortou metade das vestes.",
         "Prendeu os servos por três anos.",
-        "Deu pão, vinho e uma aliança."
+        "Deu pão, vinho e fez uma aliança com eles."
       ]
     },
     {
@@ -620,7 +620,7 @@
       "reference": "2Sm 11:3-4",
       "wrongs": [
         "Mandou Joabe levá-la até o marido.",
-        "Devolveu-a sem se aproximar dela.",
+        "Mandou chamá-la e a tomou por mulher.",
         "Pediu a Urias que a levasse para casa."
       ]
     },
@@ -651,7 +651,7 @@
       "wrongs": [
         "Em Rabá.",
         "Em Hebrom.",
-        "No vale do Sal."
+        "Em Maanaim."
       ]
     },
     {
@@ -665,7 +665,7 @@
       "answer": "Colocá-lo na frente da batalha para que morresse.",
       "reference": "2Sm 11:14-15",
       "wrongs": [
-        "Mandá-lo de volta em paz para casa.",
+        "Deixá-lo na retaguarda, atrás dos valentes.",
         "Dar-lhe o comando no lugar de Joabe.",
         "Escondê-lo no palácio até o fim da guerra."
       ]
@@ -726,9 +726,9 @@
       "answer": "Ele confessou o pecado, e Deus o perdoou.",
       "reference": "2Sm 12:13",
       "wrongs": [
-        "Ele negou tudo e expulsou Natã.",
-        "Ele culpou Joabe e ficou calado.",
-        "Deus recusou ouvi-lo e tirou o trono na hora."
+        "Ele confessou o pecado, e Joabe o perdoou.",
+        "Ele confessou o pecado, e os anciãos o perdoaram.",
+        "Ele confessou o pecado, e Deus o repreendeu."
       ]
     },
     {
@@ -743,7 +743,7 @@
       "wrongs": [
         "Porque Amnom queria o trono antes dele.",
         "Porque Davi tinha mandado matar Amnom.",
-        "Porque Tamar pediu a morte de todos os irmãos."
+        "Porque Amnom tinha tomado a mulher de Absalão."
       ]
     },
     {
@@ -802,7 +802,7 @@
       "reference": "2Sm 14:23",
       "wrongs": [
         "Mandou matar Absalão em Gesur.",
-        "Deixou Absalão exilado para sempre.",
+        "Foi a Gesur e trouxe Absalão a Hebrom.",
         "Levou Absalão direto à mesa do rei."
       ]
     },
@@ -864,7 +864,7 @@
       "wrongs": [
         "Que fechassem as portas e lutassem.",
         "Que entregassem a coroa sem sair.",
-        "Que chamassem Absalão para um banquete."
+        "Que esperassem Absalão dentro da cidade."
       ]
     },
     {
@@ -922,9 +922,9 @@
       "answer": "Possuiu as concubinas do pai.",
       "reference": "2Sm 16:22",
       "wrongs": [
-        "Devolveu as concubinas em paz.",
-        "Queimou o terraço e desceu.",
-        "Jejuou ali diante de Israel."
+        "Possuiu as concubinas de Saul.",
+        "Repartiu as concubinas entre os servos.",
+        "Jejuou no terraço à vista de Israel."
       ]
     },
     {
@@ -967,9 +967,9 @@
       "answer": "Um par de jumentos, pães, passas, frutas de verão e um odre de vinho.",
       "reference": "2Sm 16:1",
       "wrongs": [
-        "Três camelos com ouro, azeite e incenso.",
-        "Um cavalo com a coroa e o bracelete.",
-        "Cinco ovelhas com trigo e mel."
+        "Três jumentos, pães, passas, frutas de verão e um odre de vinho.",
+        "Um par de jumentos, pães, passas, frutas de verão e um odre de leite.",
+        "Um par de jumentos, bolos, passas, frutas de verão e um odre de vinho."
       ]
     },
     {
@@ -982,9 +982,9 @@
       "answer": "Deus fez o plano dele falhar, contra Absalão.",
       "reference": "2Sm 17:14",
       "wrongs": [
-        "Absalão achou o plano curto demais.",
-        "O povo votou e preferiu Joabe.",
-        "Aitofel retirou o plano por medo."
+        "Deus fez o plano dele falhar, contra Davi.",
+        "Deus fez o plano dele valer, contra Absalão.",
+        "Absalão fez o plano dele falhar, contra Husai."
       ]
     },
     {
@@ -997,7 +997,7 @@
       "answer": "Husai.",
       "reference": "2Sm 17:7",
       "wrongs": [
-        "Aitofel.",
+        "Joabe.",
         "Natã.",
         "Zadoque."
       ]
@@ -1028,7 +1028,7 @@
       "reference": "2Sm 17:23",
       "wrongs": [
         "Fugiu para Gesur com Absalão.",
-        "Pediu perdão e voltou a Davi.",
+        "Arrumou a casa e morreu na batalha.",
         "Foi morto por Joabe na porta."
       ]
     },
@@ -1042,9 +1042,9 @@
       "answer": "Cravou três dardos no coração dele, ainda vivo.",
       "reference": "2Sm 18:14",
       "wrongs": [
-        "Cortou a árvore e o soltou com vida.",
-        "Levou-o preso até Jerusalém.",
-        "Atirou uma única pedra e errou."
+        "Cravou dez dardos no coração dele, ainda vivo.",
+        "Cravou três dardos nas costas dele, ainda vivo.",
+        "Cravou três lanças no coração dele, ainda vivo."
       ]
     },
     {
@@ -1072,9 +1072,9 @@
       "answer": "Num carvalho grande e espesso.",
       "reference": "2Sm 18:9",
       "wrongs": [
-        "Numa videira baixa.",
+        "Num terebinto grande e espesso.",
         "Nos galhos de uma oliveira.",
-        "Na porta de Maanaim."
+        "Num sicômoro grande e espesso."
       ]
     },
     {
@@ -1102,7 +1102,7 @@
       "answer": "Foi a Gilgal para ajudá-lo a atravessar.",
       "reference": "2Sm 19:15",
       "wrongs": [
-        "Fechou o Jordão e não o deixou passar.",
+        "Foi a Baurim para ajudá-lo a atravessar.",
         "Ficou em Hebrom à espera de Absalão.",
         "Mandou tributo e não saiu da cidade."
       ]
@@ -1118,7 +1118,7 @@
       "reference": "2Sm 19:32",
       "wrongs": [
         "Maquir.",
-        "Ziba.",
+        "Araúna.",
         "Simei."
       ]
     },
@@ -1147,9 +1147,9 @@
       "answer": "Que não o mataria.",
       "reference": "2Sm 19:23",
       "wrongs": [
-        "Que o exilaria em Gesur.",
-        "Que lhe daria o trono de Saul.",
-        "Que Joabe decidiria a pena."
+        "Que não o exilaria em Gesur.",
+        "Que não lhe daria o trono de Saul.",
+        "Que não deixaria Joabe decidir a pena."
       ]
     },
     {
@@ -1162,7 +1162,7 @@
       "answer": "Cortaram a cabeça dele e a lançaram a Joabe.",
       "reference": "2Sm 20:22",
       "wrongs": [
-        "Abriram as portas e o deixaram fugir.",
+        "Cortaram a cabeça dele e a lançaram ao povo.",
         "Entregaram Joabe no lugar dele.",
         "Pagaram prata e guardaram Seba vivo."
       ]
@@ -1208,8 +1208,8 @@
       "answer": "Pôs-as numa casa guardada e não foi mais até elas.",
       "reference": "2Sm 20:3",
       "wrongs": [
-        "Recebeu-as de volta como rainhas.",
-        "Mandou-as para a casa dos pais.",
+        "Pôs-as numa casa guardada e visitou-as depois.",
+        "Mandou-as de volta para a casa dos pais.",
         "Entregou-as a Absalão outra vez."
       ]
     },
@@ -1224,7 +1224,7 @@
       "reference": "2Sm 21:1",
       "wrongs": [
         "Por causa de Davi, que contou o povo.",
-        "Por causa da seca em Rabá.",
+        "Por causa de Absalão, que matou Amnom.",
         "Por causa do pecado de Acã em Jericó."
       ]
     },
@@ -1270,7 +1270,7 @@
       "wrongs": [
         "Vinte: dez nas mãos e dez nos pés.",
         "Doze: seis nas mãos e seis nos pés.",
-        "Seis em cada mão, e os pés normais."
+        "Dezoito: nove nas mãos e nove nos pés."
       ]
     },
     {
@@ -1301,7 +1301,7 @@
       "wrongs": [
         "Sobre um cavalo branco e as nuvens.",
         "Sobre a arca e os varais de ouro.",
-        "Sobre o monte Sião, sem sair do lugar."
+        "Sobre o monte Sião e as nuvens do céu."
       ]
     },
     {
@@ -1314,7 +1314,7 @@
       "answer": "A lâmpada que dá luz.",
       "reference": "2Sm 22:29",
       "wrongs": [
-        "A sombra que esconde.",
+        "A estrela que guia.",
         "O trovão que assusta.",
         "A espada que fere."
       ]
@@ -1329,9 +1329,9 @@
       "answer": "Uma aliança eterna, bem ordenada e guardada.",
       "reference": "2Sm 23:5",
       "wrongs": [
-        "Um acordo só até o fim da guerra.",
-        "Uma promessa que Saul ainda podia anular.",
-        "Um pacto limitado à tribo de Judá."
+        "Uma aliança temporária, só para os seus dias.",
+        "Uma aliança que Saul ainda podia anular.",
+        "Uma aliança limitada à tribo de Judá."
       ]
     },
     {
@@ -1374,9 +1374,9 @@
       "answer": "Não bebeu; derramou-a diante de Deus.",
       "reference": "2Sm 23:16",
       "wrongs": [
-        "Bebeu tudo e abençoou os três.",
-        "Guardou a água para o dia da batalha.",
-        "Mandou devolvê-la à cisterna."
+        "Não bebeu; guardou-a para a batalha seguinte.",
+        "Não bebeu; devolveu-a à cisterna de Belém.",
+        "Não bebeu; entregou-a aos três valentes."
       ]
     },
     {
@@ -1436,7 +1436,7 @@
       "wrongs": [
         "Vinte siclos de prata, com desconto.",
         "Cem siclos de prata, pagos a Joabe.",
-        "Nada, porque o dono deu o terreno de graça."
+        "Cinquenta siclos de ouro, sem aceitar de graça."
       ]
     },
     {
@@ -1449,9 +1449,9 @@
       "answer": "O livro não nomeia o autor.",
       "reference": "2 Samuel",
       "wrongs": [
-        "O livro diz que o autor foi Natã.",
-        "O livro diz que o autor foi Davi.",
-        "O livro diz que o autor foi Gade."
+        "O livro não cita o nome de Natã.",
+        "O livro não cita o nome de Davi.",
+        "O livro não cita o nome de Gade."
       ]
     },
     {

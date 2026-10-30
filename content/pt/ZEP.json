@@ -10,9 +10,9 @@
       "answer": "O grande dia de Deus.",
       "reference": "Sf 1:14",
       "wrongs": [
-        "A festa da colheita.",
-        "A volta do exílio.",
-        "A coroação do rei."
+        "O grande dia de Nínive.",
+        "O grande dia da Assíria.",
+        "O grande dia de Babilônia."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "Ficará desolada e seca como um deserto.",
       "reference": "Sf 2:13",
       "wrongs": [
-        "Ficará rica e cheia como um mercado.",
-        "Será a capital eterna da Assíria.",
-        "Crescerá e tomará a terra de Judá."
+        "Ficará vazia e seca como um deserto.",
+        "Ficará desolada e estéril como um deserto.",
+        "Ficará deserta e seca como um deserto."
       ]
     },
     {
@@ -116,8 +116,8 @@
       "reference": "Sf 3:15",
       "wrongs": [
         "O rei da Assíria.",
-        "O governador persa.",
-        "O sumo sacerdote."
+        "O rei da Babilônia.",
+        "O rei do Egito."
       ]
     },
     {
@@ -145,9 +145,9 @@
       "answer": "Uma linguagem pura.",
       "reference": "Sf 3:9",
       "wrongs": [
-        "Uma espada só.",
-        "Um rei de fora.",
-        "Uma lei do Egito."
+        "Uma linguagem nova.",
+        "Uma mesma lei.",
+        "Um só coração."
       ]
     },
     {
@@ -160,9 +160,9 @@
       "answer": "Um povo humilde e pobre.",
       "reference": "Sf 3:12",
       "wrongs": [
-        "Um grupo rico e orgulhoso.",
-        "Os exércitos das nações.",
-        "Os reis antigos de Judá."
+        "Um povo forte e numeroso.",
+        "Um povo fiel e corajoso.",
+        "Um povo unido e livre."
       ]
     },
     {
@@ -192,7 +192,7 @@
       "wrongs": [
         "No reinado de Davi, no século X antes de Cristo.",
         "No reinado de Ciro, no século VI antes de Cristo.",
-        "No século I depois de Cristo, fora de Judá."
+        "No reinado de Ezequias, no século VIII antes de Cristo."
       ]
     }
   ]

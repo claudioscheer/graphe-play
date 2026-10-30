@@ -10,9 +10,9 @@
       "answer": "Que seja anátema, ainda que seja um anjo do céu.",
       "reference": "Gl 1:8",
       "wrongs": [
-        "Que seja ouvido, se for um anjo do céu.",
-        "Que corrija Paulo, se trouxer outra mensagem.",
-        "Que fique livre, porque todo evangelho salva."
+        "Que seja anátema, ainda que seja um irmão amado.",
+        "Que seja anátema, ainda que seja um apóstolo de Cristo.",
+        "Que seja anátema, ainda que seja um profeta do Senhor."
       ]
     },
     {
@@ -41,8 +41,8 @@
       "reference": "Gl 1:19",
       "wrongs": [
         "Somente João, o discípulo amado.",
-        "Todos os doze, reunidos.",
-        "Nenhum outro apóstolo."
+        "Somente Barnabé, o companheiro de Paulo.",
+        "Somente André, irmão de Pedro."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Para a Arábia, e depois voltou a Damasco.",
       "reference": "Gl 1:17",
       "wrongs": [
-        "Para Jerusalém, e depois ficou com os doze.",
-        "Para Antioquia, e depois subiu a Cesareia.",
-        "Para Tarso, e não voltou a Damasco."
+        "Para a Síria, e depois voltou a Damasco.",
+        "Para a Cilícia, e depois voltou a Antioquia.",
+        "Para Antioquia, e depois ficou em Tarso."
       ]
     },
     {
@@ -72,7 +72,7 @@
       "wrongs": [
         "Três dias.",
         "Quarenta dias.",
-        "Três anos."
+        "Vinte dias."
       ]
     },
     {
@@ -132,7 +132,7 @@
       "wrongs": [
         "Depois de três anos.",
         "Depois de sete anos.",
-        "Depois de quarenta dias."
+        "Depois de vinte anos."
       ]
     },
     {
@@ -161,7 +161,7 @@
       "reference": "Gl 3:26",
       "wrongs": [
         "Pela lei de Moisés.",
-        "Pelo sangue de família.",
+        "Pela descendência de Abraão.",
         "Pelo rito do templo."
       ]
     },
@@ -190,9 +190,9 @@
       "answer": "Quatrocentos e trinta anos, e ela não anulou a promessa.",
       "reference": "Gl 3:17",
       "wrongs": [
-        "Quarenta anos, e ela substituiu a promessa.",
-        "Sete anos, e ela cancelou a promessa.",
-        "Mil anos, e ela ficou acima da promessa."
+        "Quarenta anos, e ela não revogou a promessa.",
+        "Sete anos, e ela não desfez a promessa.",
+        "Mil anos, e ela não invalidou a promessa."
       ]
     },
     {
@@ -237,7 +237,7 @@
       "wrongs": [
         "A Ismael, filho da escrava.",
         "A Esaú, o filho mais velho.",
-        "A Jacó, neto que lutou com o anjo."
+        "A Jacó, filho de Isaque."
       ]
     },
     {
@@ -252,7 +252,7 @@
       "wrongs": [
         "Ao monte Sião, e à Jerusalém de cima.",
         "Ao monte Carmelo, e à cidade de Samaria.",
-        "Ao rio Jordão, e à cidade de Damasco."
+        "Ao monte Nebo, e à cidade de Damasco."
       ]
     },
     {
@@ -267,7 +267,7 @@
       "wrongs": [
         "Senhor, Rei.",
         "Santo, Santo.",
-        "Cordeiro de Deus."
+        "Pai nosso."
       ]
     },
     {
@@ -310,7 +310,7 @@
       "answer": "A fé que opera pelo amor.",
       "reference": "Gl 5:6",
       "wrongs": [
-        "A circuncisão feita no oitavo dia.",
+        "A esperança que aguarda a glória.",
         "O sábado guardado sem falhar.",
         "O conhecimento das genealogias."
       ]
@@ -325,9 +325,9 @@
       "answer": "No Espírito.",
       "reference": "Gl 5:16",
       "wrongs": [
-        "Na carne.",
+        "Na graça.",
         "Na lei.",
-        "No medo."
+        "Na tradição."
       ]
     },
     {
@@ -340,9 +340,9 @@
       "answer": "Leveda toda a massa.",
       "reference": "Gl 5:9",
       "wrongs": [
-        "Não muda o restante da massa.",
-        "Azeda só um canto da massa.",
-        "Seca a massa por completo."
+        "Azeda toda a massa.",
+        "Endurece toda a massa.",
+        "Corrompe toda a massa."
       ]
     },
     {
@@ -355,9 +355,9 @@
       "answer": "A vida eterna.",
       "reference": "Gl 6:8",
       "wrongs": [
-        "Uma colheita de corrupção.",
         "O louvor das pessoas.",
-        "Nada além desta vida."
+        "A paz da consciência.",
+        "A herança de Canaã."
       ]
     },
     {
@@ -370,9 +370,9 @@
       "answer": "Ser uma nova criatura.",
       "reference": "Gl 6:15",
       "wrongs": [
-        "Ser circuncidado no oitavo dia.",
+        "Ser guardador de toda a lei.",
         "Guardar o calendário e os dias.",
-        "Pertencer à família de Abraão por sangue."
+        "Ser filho de Abraão."
       ]
     },
     {
@@ -387,7 +387,7 @@
       "wrongs": [
         "Com letra miúda, pela mão de um secretário.",
         "Em grego formal, copiado por Timóteo.",
-        "Só de memória, sem nada escrito."
+        "Com capricho, sem nenhuma rasura."
       ]
     },
     {
@@ -402,7 +402,7 @@
       "wrongs": [
         "A circuncisão, como prova da lei.",
         "Uma cicatriz de naufrágio.",
-        "O selo do governador romano."
+        "As correntes do cárcere romano."
       ]
     },
     {

@@ -12,7 +12,7 @@
       "wrongs": [
         "Obedeceu logo, e o rei Assuero ficou alegre.",
         "Pediu prazo, e o rei Assuero esperou calado.",
-        "Enviou outra, e o rei Assuero a coroou."
+        "Pediu clemência, e o rei Assuero a perdoou."
       ]
     },
     {
@@ -55,7 +55,7 @@
       "answer": "Por cento e oitenta dias.",
       "reference": "Et 1:4",
       "wrongs": [
-        "Por sete dias.",
+        "Por sessenta dias.",
         "Por trinta dias.",
         "Por um ano inteiro."
       ]
@@ -115,9 +115,9 @@
       "answer": "Contou a Ester, e ela avisou o rei.",
       "reference": "Et 2:22",
       "wrongs": [
-        "Calou o caso e fugiu de Susã.",
-        "Contou a Hamã, e ele prendeu os dois.",
-        "Escreveu ao Egito pedindo socorro."
+        "Contou a Ester, e ela avisou Hamã.",
+        "Contou aos eunucos, e eles avisaram o rei.",
+        "Contou a Zeres, e ela avisou o rei."
       ]
     },
     {
@@ -190,9 +190,9 @@
       "answer": "Ir ao rei, mesmo que viesse a morrer.",
       "reference": "Et 4:16",
       "wrongs": [
-        "Ficar calada, mesmo que o povo morresse.",
-        "Fugir de Susã, mesmo sem o rei saber.",
-        "Pedir ouro, mesmo contra o decreto."
+        "Ir ao banquete, mesmo que viesse a morrer.",
+        "Ir ao rei, mesmo que perdesse a coroa.",
+        "Ir ao rei, mesmo que o povo a culpasse."
       ]
     },
     {
@@ -252,7 +252,7 @@
       "wrongs": [
         "O rei e Mardoqueu.",
         "Hamã e Zeres.",
-        "Ester e Harbona."
+        "O rei e Harbona."
       ]
     },
     {
@@ -280,9 +280,9 @@
       "answer": "À porta do rei.",
       "reference": "Et 5:9",
       "wrongs": [
-        "No jardim do palácio.",
-        "Na casa de Ester.",
-        "Na praça de Jerusalém."
+        "À porta do palácio.",
+        "À porta do jardim.",
+        "À porta da cidade."
       ]
     },
     {
@@ -430,9 +430,9 @@
       "answer": "Reunir-se para defender a própria vida.",
       "reference": "Et 8:11",
       "wrongs": [
-        "Deixar o reino e voltar a Judá.",
-        "Tomar o trono e mudar a lei.",
-        "Pagar tributo e ficar em silêncio."
+        "Reunir-se para defender os seus bens.",
+        "Reunir-se para defender a lei de Moisés.",
+        "Fugir para salvar a própria vida."
       ]
     },
     {
@@ -477,7 +477,7 @@
       "wrongs": [
         "Com pano de saco, cinza na cabeça e choro.",
         "Com manto escuro, sem coroa e descalço.",
-        "Com armadura de guerra e lança na mão."
+        "Com vestes de seda e um cetro na mão."
       ]
     },
     {
@@ -490,9 +490,9 @@
       "answer": "Aconteceu o inverso: os judeus venceram.",
       "reference": "Et 9:1",
       "wrongs": [
-        "Cumpriu-se o decreto: os judeus caíram.",
-        "Nada mudou: os dois lados pararam.",
-        "A luta foi adiada: ninguém saiu à rua."
+        "Cumpriu-se o decreto: os judeus se esconderam.",
+        "Aconteceu o inverso: os judeus pediram trégua.",
+        "Chegou o dia marcado: os judeus fugiram."
       ]
     },
     {
@@ -520,9 +520,9 @@
       "answer": "Foram enforcados.",
       "reference": "Et 9:14",
       "wrongs": [
-        "Foram soltos.",
-        "Foram exilados.",
-        "Foram coroados."
+        "Foram degolados.",
+        "Foram apedrejados.",
+        "Foram açoitados."
       ]
     },
     {
@@ -552,7 +552,7 @@
       "wrongs": [
         "Foi o copeiro, só na fortaleza.",
         "Foi um escriba, sem poder real.",
-        "Foi o general, acima do próprio rei."
+        "Foi o general, chefe de todo o exército."
       ]
     },
     {
@@ -580,9 +580,9 @@
       "answer": "No livro das crônicas dos reis da Média e da Pérsia.",
       "reference": "Et 10:2",
       "wrongs": [
-        "Só na memória do povo de Susã.",
-        "Nas cartas seladas de Ester.",
-        "No mural do templo em Jerusalém."
+        "No livro das crônicas dos reis de Judá e de Israel.",
+        "No livro das crônicas dos reis da Babilônia e do Egito.",
+        "No livro das crônicas dos reis da Assíria e da Média."
       ]
     },
     {

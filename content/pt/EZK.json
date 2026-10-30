@@ -10,7 +10,7 @@
       "answer": "Cada uma parecia uma roda dentro da outra.",
       "wrongs": [
         "Cada uma parecia uma roda solta ao lado.",
-        "Cada uma parecia uma roda de fogo só.",
+        "Cada uma parecia uma roda de bronze.",
         "Cada uma parecia uma roda parada no chão."
       ],
       "reference": "Ez 1:16"
@@ -54,7 +54,7 @@
       "prompt": "Quais rostos tinha cada ser vivo da visão, em Ezequiel?",
       "answer": "De homem, de leão, de boi e de águia.",
       "wrongs": [
-        "De rei, de cavalo, de urso e de peixe.",
+        "De cavalo, de urso, de peixe e de serpente.",
         "De ancião, de lobo, de bode e de corvo.",
         "De criança, de camelo, de cabra e de pomba."
       ],
@@ -70,8 +70,8 @@
       "answer": "Lamentos, suspiros e ais, dos dois lados.",
       "wrongs": [
         "Cânticos, bênçãos e paz, dos dois lados.",
-        "Leis, nomes e datas, de um lado só.",
-        "Mapas, medidas e portas, no verso."
+        "Leis, nomes e datas, dos dois lados.",
+        "Mapas, medidas e portas, dos dois lados."
       ],
       "reference": "Ez 2:10"
     },
@@ -84,9 +84,9 @@
       "prompt": "Entre o que Ezequiel ficaria ao falar a Israel?",
       "answer": "Entre sarças, espinhos e escorpiões.",
       "wrongs": [
-        "Entre cantores, levitas e sacerdotes.",
-        "Entre príncipes, guardas e mensageiros.",
-        "Entre vinhas, trigais e olivais."
+        "Entre cardos, urtigas e serpentes.",
+        "Entre silvas, abrolhos e víboras.",
+        "Entre pedras, cactos e lagartos."
       ],
       "reference": "Ez 2:6"
     },
@@ -99,9 +99,9 @@
       "prompt": "Que gosto tinha o rolo que Ezequiel comeu?",
       "answer": "Era doce como mel na boca dele.",
       "wrongs": [
-        "Era amargo como fel na boca dele.",
-        "Era salgado como o mar na boca dele.",
-        "Era seco como palha na boca dele."
+        "Era doce como uvas na boca dele.",
+        "Era doce como figos na boca dele.",
+        "Era doce como tâmaras na boca dele."
       ],
       "reference": "Ez 3:3"
     },
@@ -131,7 +131,7 @@
       "wrongs": [
         "Três dias.",
         "Quarenta dias.",
-        "Um ano."
+        "Vinte dias."
       ],
       "reference": "Ez 3:15"
     },
@@ -144,9 +144,9 @@
       "prompt": "Como Deus deixou a testa de Ezequiel?",
       "answer": "Dura como diamante, mais que a pederneira.",
       "wrongs": [
-        "Mole como cera, menos que o barro.",
-        "Frágil como vidro, menos que um vaso.",
-        "Lisa como óleo, menos que a água."
+        "Dura como o ferro, mais que o aço.",
+        "Dura como a rocha, mais que o granito.",
+        "Dura como o bronze, mais que a pedra."
       ],
       "reference": "Ez 3:9"
     },
@@ -159,9 +159,9 @@
       "prompt": "O que Ezequiel desenhou num tijolo?",
       "answer": "A cidade de Jerusalém.",
       "wrongs": [
-        "O rio Quebar.",
-        "O templo de Betel.",
-        "O palácio de Nínive."
+        "A cidade de Samaria.",
+        "A cidade de Tiro.",
+        "A cidade de Rabá."
       ],
       "reference": "Ez 4:1"
     },
@@ -174,9 +174,9 @@
       "prompt": "Quantos dias correspondiam à maldade de Israel?",
       "answer": "Trezentos e noventa dias.",
       "wrongs": [
-        "Quarenta dias.",
-        "Sete dias.",
-        "Setenta dias."
+        "Cento e noventa dias.",
+        "Trezentos e quarenta dias.",
+        "Duzentos e noventa dias."
       ],
       "reference": "Ez 4:5"
     },
@@ -191,7 +191,7 @@
       "wrongs": [
         "Trezentos e noventa dias, um dia para cada mês.",
         "Sete dias, um dia para cada festa.",
-        "Três anos, um ano para cada rei."
+        "Cem dias, um dia para cada rei."
       ],
       "reference": "Ez 4:6"
     },
@@ -204,9 +204,9 @@
       "prompt": "Com o que Ezequiel devia preparar o pão do cerco?",
       "answer": "Com esterco de vaca, e não com o de gente.",
       "wrongs": [
-        "Com flor de farinha e azeite.",
-        "Com mel silvestre e água.",
-        "Com cevada torrada e leite."
+        "Com esterco de cabra, e não com o de gente.",
+        "Com esterco de ovelha, e não com o de gente.",
+        "Com esterco de camelo, e não com o de gente."
       ],
       "reference": "Ez 4:15"
     },
@@ -221,7 +221,7 @@
       "wrongs": [
         "Com uma tesoura de bronze, usada como foice.",
         "Com uma pedra afiada, usada como serra.",
-        "Com um pente de marfim, usado no altar."
+        "Com uma lâmina de ferro, usada como cinzel."
       ],
       "reference": "Ez 5:1"
     },
@@ -264,7 +264,7 @@
       "prompt": "Onde Ezequiel guardou alguns fios de cabelo?",
       "answer": "Nas bordas do manto.",
       "wrongs": [
-        "No fundo da panela.",
+        "Na ponta do cinto.",
         "Debaixo do tijolo.",
         "Dentro do estojo."
       ],
@@ -339,9 +339,9 @@
       "prompt": "O que Israel jogaria nas ruas no dia da ira, em Ezequiel?",
       "answer": "A prata nas ruas; o ouro também não livraria.",
       "wrongs": [
-        "O pão nas casas; o vinho também não faltaria.",
-        "A arma nas mãos; o escudo também livraria.",
-        "A chave nas portas; o muro também ficaria."
+        "O trigo nas ruas; o azeite também não livraria.",
+        "As armas nas ruas; o escudo também não livraria.",
+        "As joias nas ruas; o bronze também não livraria."
       ],
       "reference": "Ez 7:19"
     },
@@ -370,7 +370,7 @@
       "answer": "A Jerusalém, ao lugar da imagem que provoca ciúme.",
       "wrongs": [
         "A Tel-Abibe, ao lugar das tendas dos exilados.",
-        "Ao Quebar, ao lugar das rodas e dos seres.",
+        "A Babilônia, ao lugar das rodas e dos seres.",
         "A Ribla, ao lugar do tribunal do rei."
       ],
       "reference": "Ez 8:3"
@@ -474,9 +474,9 @@
       "prompt": "O que o homem de linho devia espalhar na cidade, em Ezequiel?",
       "answer": "Brasas acesas tiradas de entre os querubins.",
       "wrongs": [
-        "Água tirada do rio, sobre o altar.",
-        "Farinha tirada do depósito, sobre a oferta.",
-        "Cinza tirada do pátio, sobre a cabeça."
+        "Cinzas tiradas de entre os querubins.",
+        "Águas tiradas de entre os querubins.",
+        "Pedras tiradas de entre os querubins."
       ],
       "reference": "Ez 10:2"
     },
@@ -505,7 +505,7 @@
       "answer": "De querubim, de homem, de leão e de águia.",
       "wrongs": [
         "De boi, de serpente, de carneiro e de pomba.",
-        "De rei, de cavalo, de urso e de peixe.",
+        "De cavalo, de urso, de peixe e de serpente.",
         "De ancião, de lobo, de bode e de corvo."
       ],
       "reference": "Ez 10:14"
@@ -594,9 +594,9 @@
       "prompt": "Como Ezequiel devia sair, como sinal a Israel?",
       "answer": "Ao anoitecer, com a carga no ombro e o rosto coberto.",
       "wrongs": [
-        "Ao meio-dia, com a coroa na cabeça e o rosto aberto.",
+        "Ao meio-dia, com a coroa na cabeça e o rosto voltado ao chão.",
         "De manhã, com o cajado na mão e o rosto pintado.",
-        "À meia-noite, com a espada na mão e o rosto à vista."
+        "À meia-noite, com a espada na mão e o rosto marcado."
       ],
       "reference": "Ez 12:6"
     },
@@ -639,9 +639,9 @@
       "prompt": "Com o que os falsos profetas cobriam a parede, em Ezequiel?",
       "answer": "Com argamassa não temperada.",
       "wrongs": [
-        "Com tinta azul, por cima da porta.",
-        "Com ouro fino, por cima do altar.",
-        "Com barro cru, por baixo do muro."
+        "Com argamassa de cal.",
+        "Com argamassa de gesso.",
+        "Com argamassa de areia."
       ],
       "reference": "Ez 13:10"
     },
@@ -716,7 +716,7 @@
       "wrongs": [
         "A lei que Deus tinha escrito.",
         "O pão que eles tinham guardado.",
-        "A chave que eles tinham perdido."
+        "O ouro que eles tinham escondido."
       ],
       "reference": "Ez 14:3"
     },
@@ -744,9 +744,9 @@
       "prompt": "Para que presta a madeira da videira, em Ezequiel?",
       "answer": "Não presta para obra nenhuma; vai para o fogo.",
       "wrongs": [
-        "Presta para vigas; vai para o palácio.",
-        "Presta para a arca; vai para o santuário.",
-        "Presta para o jugo; vai para a lavoura."
+        "Não presta para obra nenhuma; é lançada na água.",
+        "Não presta para obra nenhuma; é deixada no campo.",
+        "Não presta para obra nenhuma; é guardada na casa."
       ],
       "reference": "Ez 15:4"
     },
@@ -759,9 +759,9 @@
       "prompt": "O que fizeram com Jerusalém no dia em que nasceu?",
       "answer": "Largaram-na no campo, e ninguém cuidou dela.",
       "wrongs": [
-        "Banharam-na no palácio, e a corte cuidou dela.",
-        "Levaram-na ao templo, e o sacerdote a ungiu.",
-        "Puseram-na num berço, e a mãe a cobriu."
+        "Banharam-na no palácio, e ninguém a viu.",
+        "Levaram-na ao templo, e ninguém a ungiu.",
+        "Puseram-na num berço, e ninguém a cobriu."
       ],
       "reference": "Ez 16:5"
     },
@@ -804,9 +804,9 @@
       "prompt": "Que aliança Deus prometeu fazer com Jerusalém?",
       "answer": "Uma aliança eterna.",
       "wrongs": [
-        "Uma aliança de um só ano.",
-        "Uma aliança só com os sacerdotes.",
-        "Uma aliança escrita na areia."
+        "Uma aliança de um ano.",
+        "Uma aliança passageira.",
+        "Uma aliança com os reis."
       ],
       "reference": "Ez 16:60"
     },
@@ -879,9 +879,9 @@
       "prompt": "Quem morre por causa do próprio pecado, em Ezequiel?",
       "answer": "Quem peca, e não o pai ou o filho no lugar dele.",
       "wrongs": [
-        "O pai, e não quem peca no lugar dele.",
-        "O filho, e não a mãe no lugar dele.",
-        "A casa toda, e não só quem peca."
+        "Quem peca, e não a mãe ou a filha no lugar dele.",
+        "Quem peca, e não o irmão ou o vizinho no lugar dele.",
+        "Quem peca, e não o servo ou o senhor no lugar dele."
       ],
       "reference": "Ez 18:20"
     },
@@ -909,9 +909,9 @@
       "prompt": "O que Deus prefere à morte do injusto, em Ezequiel?",
       "answer": "Que ele se converta dos seus caminhos e viva.",
       "wrongs": [
-        "Que ele siga no caminho e morra.",
-        "Que ele pague com ouro e fique.",
-        "Que outro morra no lugar dele."
+        "Que ele ofereça sacrifício e viva.",
+        "Que ele jejue quarenta dias e viva.",
+        "Que ele pague os seus votos e viva."
       ],
       "reference": "Ez 18:23"
     },
@@ -1045,7 +1045,7 @@
       "answer": "A espada, contra o justo e o ímpio.",
       "wrongs": [
         "O cajado, contra o rico e o estrangeiro.",
-        "A balança, contra o sacerdote e o levita.",
+        "A lança, contra o sacerdote e o levita.",
         "A trombeta, contra o vigia e o mensageiro."
       ],
       "reference": "Ez 21:3"
@@ -1104,9 +1104,9 @@
       "prompt": "A que Deus comparou a casa de Israel, em Ezequiel?",
       "answer": "A escória de prata no meio do forno.",
       "wrongs": [
-        "A ouro fino no meio do cofre.",
-        "A trigo limpo no meio da eira.",
-        "A linho novo no meio do tear."
+        "Ao ouro fino no meio do cofre.",
+        "Ao trigo limpo no meio da eira.",
+        "Ao linho novo no meio do tear."
       ],
       "reference": "Ez 22:18"
     },
@@ -1135,8 +1135,8 @@
       "answer": "Ninguém.",
       "wrongs": [
         "Um profeta.",
-        "Um sacerdote.",
-        "O rei."
+        "Um ancião.",
+        "Um rei."
       ],
       "reference": "Ez 22:30"
     },
@@ -1239,9 +1239,9 @@
       "prompt": "A que cidade o rei da Babilônia chegou no dia anotado por Ezequiel?",
       "answer": "A Jerusalém.",
       "wrongs": [
-        "A Tiro.",
-        "A Rabá.",
-        "A Mênfis."
+        "A cidade de Tiro.",
+        "A cidade de Rabá.",
+        "A cidade de Mênfis."
       ],
       "reference": "Ez 24:2"
     },
@@ -1254,9 +1254,9 @@
       "prompt": "Como Ezequiel devia reagir ao perder o desejo dos olhos?",
       "answer": "Sem lamento, sem choro e sem lágrimas.",
       "wrongs": [
-        "Com lamento, com choro e com lágrimas.",
-        "Com canto, com dança e com festa.",
-        "Com jejum, com cinza e com silêncio no templo."
+        "Sem comer, sem beber e sem dormir.",
+        "Sem falar, sem sair e sem trabalhar.",
+        "Sem olhar, sem ouvir e sem responder."
       ],
       "reference": "Ez 24:16"
     },
@@ -1271,7 +1271,7 @@
       "wrongs": [
         "Entregaria essa terra aos reis do sul.",
         "Entregaria essa terra aos sacerdotes de Judá.",
-        "Entregaria essa terra aos navios de Tiro."
+        "Entregaria essa terra aos mercadores de Tiro."
       ],
       "reference": "Ez 25:4"
     },
@@ -1299,9 +1299,9 @@
       "prompt": "Quais cidades da fronteira Deus abriria no juízo contra Moabe?",
       "answer": "Bete-Jesimote, Baal-Meom e Quiriataim.",
       "wrongs": [
-        "Hesbom, Dibom e Aroer.",
-        "Temã, Sela e Bozra.",
-        "Gaza, Asdode e Ecrom."
+        "Hesbom, Medeba e Aroer.",
+        "Eleale, Jazer e Bamote.",
+        "Medeba, Nebo e Queriote."
       ],
       "reference": "Ez 25:9"
     },
@@ -1329,9 +1329,9 @@
       "prompt": "Como Deus retribuiria a vingança dos filisteus, em Ezequiel?",
       "answer": "Com uma vingança grande e furiosa.",
       "wrongs": [
-        "Com um acordo longo e pacífico.",
-        "Com um tributo leve e anual.",
-        "Com uma carta breve e calma."
+        "Com um castigo breve e leve.",
+        "Com uma advertência longa e calma.",
+        "Com um juízo pequeno e lento."
       ],
       "reference": "Ez 25:17"
     },
@@ -1344,9 +1344,9 @@
       "prompt": "O que Ezequiel anunciou sobre o futuro da cidade de Tiro?",
       "answer": "Que ela nunca mais seria reconstruída.",
       "wrongs": [
-        "Que ela seria reconstruída em três anos.",
-        "Que ela seria capital de um reino novo.",
-        "Que ela seria poupada por causa do comércio."
+        "Que ela nunca mais seria cercada.",
+        "Que ela nunca mais seria lembrada.",
+        "Que ela nunca mais seria temida."
       ],
       "reference": "Ez 26:14"
     },
@@ -1434,9 +1434,9 @@
       "prompt": "De que madeira eram os bancos do navio de Tiro?",
       "answer": "De marfim engastado em buxo das ilhas dos quiteus.",
       "wrongs": [
-        "De cedro do Líbano, com ouro.",
-        "De faia de Senir, com bronze.",
-        "De oliveira do Carmelo, com prata."
+        "De marfim engastado em cedro das ilhas dos quiteus.",
+        "De bronze engastado em buxo das ilhas dos quiteus.",
+        "De cedro engastado em marfim das ilhas dos quiteus."
       ],
       "reference": "Ez 27:6"
     },
@@ -1449,9 +1449,9 @@
       "prompt": "O que o príncipe de Tiro afirmava ser?",
       "answer": "Um deus, sentado na cadeira de Deus.",
       "wrongs": [
-        "Um homem, sentado na cadeira de Tiro.",
-        "Um rei, sentado na cadeira de Davi.",
-        "Um anjo, sentado na cadeira de Israel."
+        "Um deus, sentado na cadeira de Tiro.",
+        "Um deus, sentado na cadeira de Sidom.",
+        "Um deus, sentado na cadeira dos reis."
       ],
       "reference": "Ez 28:2"
     },
@@ -1584,9 +1584,9 @@
       "prompt": "O que viria sobre o Egito e causaria dor na Etiópia?",
       "answer": "A espada, e os mortos cairiam no Egito.",
       "wrongs": [
-        "A chuva, e os celeiros transbordariam no Egito.",
-        "A paz, e os reis voltariam no Egito.",
-        "A praga dos gafanhotos, e os campos secariam em Cuxe."
+        "A fome, e os celeiros vazariam no Egito.",
+        "A peste, e os mortos cairiam em Cuxe.",
+        "O fogo, e as casas arderiam no Egito."
       ],
       "reference": "Ez 30:4"
     },
@@ -1629,9 +1629,9 @@
       "prompt": "O que aconteceu com o braço do faraó do Egito?",
       "answer": "Deus o quebrou, e não houve cura.",
       "wrongs": [
-        "Deus o curou, e houve força.",
-        "Deus o alongou, e houve alcance.",
-        "Deus o ungiu, e houve vitória."
+        "Deus o feriu, e não houve descanso.",
+        "Deus o secou, e não houve remédio.",
+        "Deus o torceu, e não houve conserto."
       ],
       "reference": "Ez 30:21"
     },
@@ -1644,9 +1644,9 @@
       "prompt": "O que aconteceria ao faraó, igualado às árvores do Éden?",
       "answer": "Seria precipitado às partes mais baixas da terra.",
       "wrongs": [
-        "Seria plantado por cima dos montes.",
-        "Seria coroado no meio do palácio.",
-        "Seria levado para a beira do Nilo."
+        "Seria lançado às partes mais fundas do mar.",
+        "Seria enterrado nas partes mais secas do deserto.",
+        "Seria deixado entre as árvores do Éden."
       ],
       "reference": "Ez 31:18"
     },
@@ -1689,7 +1689,7 @@
       "prompt": "Como Deus descreveu o faraó dentro dos mares, em Ezequiel?",
       "answer": "Como uma baleia que turvava as águas.",
       "wrongs": [
-        "Como um pastor que clareava as águas.",
+        "Como um dragão que secava as águas.",
         "Como um barco que abria as águas.",
         "Como um rei que bebia as águas."
       ],
@@ -1764,7 +1764,7 @@
       "prompt": "Que notícia o fugitivo de Jerusalém trouxe?",
       "answer": "Que a cidade tinha sido ferida.",
       "wrongs": [
-        "Que a cidade tinha sido poupada.",
+        "Que a cidade tinha sido cercada.",
         "Que a cidade tinha sido mudada.",
         "Que a cidade tinha sido vendida."
       ],
@@ -1779,9 +1779,9 @@
       "prompt": "O que Deus prefere à morte de quem faz o mal, em Ezequiel?",
       "answer": "Que a pessoa se converta do caminho e viva.",
       "wrongs": [
-        "Que a pessoa siga no caminho e morra.",
-        "Que a pessoa pague com prata e fique.",
-        "Que outra pessoa morra no lugar dela."
+        "Que a pessoa traga ofertas e viva.",
+        "Que a pessoa faça penitência e viva.",
+        "Que a pessoa guarde a lei e viva."
       ],
       "reference": "Ez 33:11"
     },
@@ -1794,9 +1794,9 @@
       "prompt": "O que mudou na boca de Ezequiel pela manhã?",
       "answer": "Ela abriu, e ele não ficou mais calado.",
       "wrongs": [
-        "Ela fechou, e ele passou a falar baixo.",
-        "Ela doeu, e ele passou a comer pouco.",
-        "Ela sangrou, e ele passou a ficar calado."
+        "Ela secou, e ele não falou mais nada.",
+        "Ela travou, e ele não pregou mais nada.",
+        "Ela doeu, e ele não comeu mais nada."
       ],
       "reference": "Ez 33:22"
     },
@@ -1809,9 +1809,9 @@
       "prompt": "O que havia de errado com os pastores de Israel, em Ezequiel?",
       "answer": "Cuidavam de si mesmos e não das ovelhas.",
       "wrongs": [
-        "Cuidavam das ovelhas e não de si mesmos.",
-        "Cuidavam do templo e não do rei.",
-        "Cuidavam da lei e não do sábado."
+        "Cuidavam de si mesmos e não do gado.",
+        "Cuidavam de si mesmos e não dos pastos.",
+        "Cuidavam de si mesmos e não da cidade."
       ],
       "reference": "Ez 34:2"
     },
@@ -1839,9 +1839,9 @@
       "prompt": "Onde Deus cuidaria das ovelhas de Israel, em Ezequiel?",
       "answer": "Nos montes de Israel, perto das águas.",
       "wrongs": [
-        "Nos montes de Seir, longe das águas.",
-        "Nas margens do Nilo, longe do pasto.",
-        "Nas ruas da Babilônia, longe do rebanho."
+        "Nos montes de Seir, perto das águas.",
+        "Nas margens do Nilo, perto das águas.",
+        "Nas ruas da Babilônia, perto das águas."
       ],
       "reference": "Ez 34:13"
     },
@@ -1854,8 +1854,8 @@
       "prompt": "Que acordo Deus faria com as ovelhas de Israel?",
       "answer": "Uma aliança de paz.",
       "wrongs": [
-        "Uma aliança de guerra.",
-        "Uma aliança de tributo.",
+        "Uma aliança de sangue.",
+        "Uma aliança de sal.",
         "Uma aliança de um ano."
       ],
       "reference": "Ez 34:25"
@@ -1869,9 +1869,9 @@
       "prompt": "O que Deus faria com o monte de Seir?",
       "answer": "O faria em maior desolação.",
       "wrongs": [
-        "O encheria de rebanhos e de trigo.",
-        "O daria a Israel como jardim.",
-        "O coroaria como monte santo."
+        "O faria em chamas e cinzas.",
+        "O faria em trevas e silêncio.",
+        "O faria em covas e ruínas."
       ],
       "reference": "Ez 35:3"
     },
@@ -1899,9 +1899,9 @@
       "prompt": "Por que o sangue perseguiria o monte de Seir?",
       "answer": "Porque esse monte não odiou o sangue.",
       "wrongs": [
-        "Porque esse monte detestou o ouro.",
-        "Porque esse monte escondeu o trigo.",
-        "Porque esse monte fechou a fonte."
+        "Porque esse monte não guardou o ouro.",
+        "Porque esse monte não temeu a espada.",
+        "Porque esse monte não viu a guerra."
       ],
       "reference": "Ez 35:6"
     },
@@ -1930,7 +1930,7 @@
       "answer": "Um coração de carne e um espírito novo.",
       "wrongs": [
         "Um coração de bronze e um espírito mudo.",
-        "Um coração de pedra e um espírito antigo.",
+        "Um coração de barro e um espírito antigo.",
         "Um coração de ouro e um espírito de rei."
       ],
       "reference": "Ez 36:26"
@@ -1989,9 +1989,9 @@
       "prompt": "O que os ossos secos do vale se tornaram, em Ezequiel?",
       "answer": "Um exército enorme e vivo.",
       "wrongs": [
-        "Um montão quieto e seco.",
-        "Um rebanho pequeno e manso.",
-        "Uma cidade vazia e muda."
+        "Um exército enorme e disperso.",
+        "Um exército grande e armado.",
+        "Um exército forte e ferido."
       ],
       "reference": "Ez 37:10"
     },
@@ -2050,8 +2050,8 @@
       "prompt": "O que acontecia ao unir a vara de Judá com a de José?",
       "answer": "As duas viravam uma vara só.",
       "wrongs": [
-        "As duas continuavam varas separadas.",
-        "As duas viravam um escudo só.",
+        "As duas viravam um só feixe.",
+        "As duas viravam uma só casa.",
         "As duas se quebravam na mão dele."
       ],
       "reference": "Ez 37:16-17"
@@ -2110,9 +2110,9 @@
       "prompt": "Que castigos cairiam sobre Gogue e seus aliados?",
       "answer": "Peste, sangue, chuva inundante, saraiva, fogo e enxofre.",
       "wrongs": [
-        "Orvalho leve, brisa, pó e silêncio.",
+        "Granizo, trevas, vermes e ferrugem.",
         "Seca longa, gafanhoto, vento e trevas.",
-        "Pão dobrado, vinho, óleo e festa."
+        "Fome, sede, feras selvagens e espada."
       ],
       "reference": "Ez 38:22"
     },
@@ -2185,7 +2185,7 @@
       "prompt": "De quantos côvados era a cana de medir do templo, em Ezequiel?",
       "answer": "De seis, e cada côvado tinha um palmo a mais.",
       "wrongs": [
-        "De quatro, e cada côvado tinha um palmo a menos.",
+        "De quatro, e cada côvado tinha um palmo a mais.",
         "De oito, e cada côvado era uma medida comum.",
         "De doze, e cada côvado tinha dois palmos a mais."
       ],
@@ -2261,7 +2261,7 @@
       "answer": "Trinta em cada um dos três andares.",
       "wrongs": [
         "Vinte em cada um dos dois andares.",
-        "Dez em um andar só.",
+        "Doze em cada um dos dois andares.",
         "Quarenta em cada um dos quatro andares."
       ],
       "reference": "Ez 41:6"
@@ -2277,7 +2277,7 @@
       "wrongs": [
         "Um de boi e outro de águia.",
         "Um de querubim e outro de serpente.",
-        "Um de rei e outro de cavalo."
+        "Um de urso e outro de cavalo."
       ],
       "reference": "Ez 41:19"
     },
@@ -2305,9 +2305,9 @@
       "prompt": "Quanto media o muro ao redor da área do templo, na visão de Ezequiel?",
       "answer": "Quinhentas canas de lado, separando o santo do profano.",
       "wrongs": [
-        "Cem canas de lado, juntando o santo ao profano.",
-        "Mil canas de lado, misturando o santo ao palácio.",
-        "Cinquenta canas de lado, abrindo o santo à cidade."
+        "Cem canas de lado, separando o santo do profano.",
+        "Mil canas de lado, separando o santo do profano.",
+        "Cinquenta canas de lado, separando o santo do profano."
       ],
       "reference": "Ez 42:20"
     },
@@ -2380,7 +2380,7 @@
       "prompt": "Qual era o tamanho do altar, de um lado ao outro, na visão de Ezequiel?",
       "answer": "Doze côvados, e era quadrado.",
       "wrongs": [
-        "Oito côvados, e era redondo.",
+        "Oito côvados, e era oval.",
         "Vinte côvados, e era comprido.",
         "Quatro côvados, e era estreito."
       ],
@@ -2411,7 +2411,7 @@
       "prompt": "Por que a porta oriental do santuário ficaria fechada, em Ezequiel?",
       "answer": "Porque o Deus de Israel tinha passado por ela.",
       "wrongs": [
-        "Porque o príncipe de Israel tinha fechado por ela.",
+        "Porque o príncipe de Israel tinha saído por ela.",
         "Porque o povo de Judá ainda não tinha passado por ela.",
         "Porque os sacerdotes de Siló a tinham condenado."
       ],
@@ -2441,9 +2441,9 @@
       "prompt": "Que tecido os sacerdotes usavam no pátio de dentro, em Ezequiel?",
       "answer": "Linho, e não lã.",
       "wrongs": [
-        "Lã, e não linho.",
-        "Seda, e não linho.",
-        "Pele, e não linho."
+        "Seda, e não lã.",
+        "Pele, e não lã.",
+        "Bordado, e não lã."
       ],
       "reference": "Ez 44:17"
     },
@@ -2456,9 +2456,9 @@
       "prompt": "Qual era a herança dos sacerdotes em Israel, em Ezequiel?",
       "answer": "O próprio Deus; não uma possessão na terra.",
       "wrongs": [
-        "Uma possessão larga, não o próprio Deus.",
-        "O dízimo do trigo, não o próprio Deus.",
-        "As cidades de refúgio, não o próprio Deus."
+        "O próprio Deus; não um lugar no templo.",
+        "O próprio Deus; não um dízimo do povo.",
+        "O próprio Deus; não uma casa na cidade."
       ],
       "reference": "Ez 44:28"
     },
@@ -2501,9 +2501,9 @@
       "prompt": "Que padrão tinham o efa e o bato, em Ezequiel?",
       "answer": "Os dois tinham a mesma medida.",
       "wrongs": [
-        "O efa era o dobro do bato.",
+        "O efa era o triplo do bato.",
         "O bato era a metade do efa.",
-        "Os dois não tinham medida fixa."
+        "Os dois tinham a medida do côvado."
       ],
       "reference": "Ez 45:11"
     },
@@ -2563,7 +2563,7 @@
       "wrongs": [
         "Pela mesma porta do norte.",
         "Pela porta do oriente.",
-        "Por uma porta escondida no muro."
+        "Pela porta do ocidente."
       ],
       "reference": "Ez 46:9"
     },
@@ -2591,7 +2591,7 @@
       "prompt": "Como Ezequiel passava pelo rio quando ficou fundo demais?",
       "answer": "Apenas nadando, sem apoio dos pés.",
       "wrongs": [
-        "Ainda andando, com apoio dos pés.",
+        "Apenas flutuando, sem tocar o fundo.",
         "Só de barco, sem molhar a roupa.",
         "Parado na margem, sem entrar na água."
       ],
@@ -2621,7 +2621,7 @@
       "prompt": "O que as águas que saíam do templo fariam ao chegar ao mar, em Ezequiel?",
       "answer": "A água do mar ficaria saudável.",
       "wrongs": [
-        "A água do mar ficaria amarga.",
+        "A água do mar ficaria morna.",
         "A água do mar ficaria seca.",
         "A água do mar ficaria vermelha."
       ],
@@ -2651,7 +2651,7 @@
       "prompt": "Quem herdaria a terra junto com os filhos de Israel?",
       "answer": "O estrangeiro que tivesse filhos entre eles.",
       "wrongs": [
-        "O estrangeiro que não tivesse filhos entre eles.",
+        "O estrangeiro que tivesse terras entre eles.",
         "Só o levita que servisse no altar.",
         "Só o príncipe que morasse na cidade."
       ],

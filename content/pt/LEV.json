@@ -10,9 +10,9 @@
       "answer": "Queima o animal por inteiro no altar.",
       "reference": "Lv 1:9",
       "wrongs": [
-        "Devolve parte da carne a quem ofereceu.",
-        "Enterra o animal fora do acampamento.",
-        "Solta o animal vivo no deserto."
+        "Queima a gordura do animal no altar.",
+        "Queima o animal por inteiro fora do arraial.",
+        "Devolve o animal por inteiro a quem ofereceu."
       ]
     },
     {
@@ -25,9 +25,9 @@
       "answer": "De flor de farinha, azeite e incenso.",
       "reference": "Lv 2:1",
       "wrongs": [
-        "De carne, sangue e vinho.",
-        "De mel, fermento e frutas.",
-        "De leite, ervas e mel."
+        "De flor de farinha, azeite e vinho.",
+        "De flor de farinha, azeite e mel.",
+        "De cevada, azeite e incenso."
       ]
     },
     {
@@ -40,9 +40,9 @@
       "answer": "Pode ser macho ou fêmea, desde que não tenha defeito.",
       "reference": "Lv 3:1",
       "wrongs": [
-        "Tem de ser macho, mesmo com algum defeito.",
-        "Tem de ser fêmea, e pode ter defeito.",
-        "Pode ser qualquer animal, com ou sem defeito."
+        "Tem de ser macho, desde que não tenha defeito.",
+        "Tem de ser fêmea, desde que não tenha defeito.",
+        "Pode ser macho ou fêmea, desde que tenha mais de um ano."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Um novilho sem defeito, por expiação do pecado.",
       "reference": "Lv 4:3",
       "wrongs": [
-        "Um bode sem defeito, pela culpa do povo.",
-        "Duas rolas, se não houver cordeiro.",
-        "Um carneiro, só pelas coisas santas."
+        "Um bode sem defeito, por expiação do pecado.",
+        "Um novilho sem defeito, por expiação do povo.",
+        "Um novilho sem defeito, em sacrifício pacífico."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "Um carneiro sem defeito.",
       "reference": "Lv 5:15",
       "wrongs": [
-        "Um bezerro sem defeito.",
-        "Uma pomba, ou duas rolas.",
-        "Um bode com algum defeito."
+        "Um novilho sem defeito.",
+        "Um bode sem defeito.",
+        "Um cordeiro sem defeito."
       ]
     },
     {
@@ -85,9 +85,9 @@
       "answer": "Que permaneça aceso e não seja apagado.",
       "reference": "Lv 6:12",
       "wrongs": [
-        "Que se apague ao pôr do sol.",
-        "Que só seja aceso no sábado.",
-        "Que seja trocado a cada manhã."
+        "Que permaneça aceso e não seja coberto de cinza.",
+        "Que permaneça aceso e não seja removido do altar.",
+        "Que permaneça aceso e não seja deixado sem lenha."
       ]
     },
     {
@@ -101,8 +101,8 @@
       "reference": "Lv 7:15",
       "wrongs": [
         "Até o terceiro dia, sem falta.",
-        "Durante sete dias, no acampamento.",
-        "Só no dia seguinte, e não no mesmo dia."
+        "Até o segundo dia, sem deixar resto.",
+        "Somente no dia seguinte ao da oferta."
       ]
     },
     {
@@ -115,7 +115,7 @@
       "answer": "Arão, os filhos dele e as roupas deles.",
       "reference": "Lv 8:30",
       "wrongs": [
-        "Só o povo, e os utensílios do altar.",
+        "O povo, os levitas e os utensílios do altar.",
         "Josué, os anciãos e as tendas.",
         "Bezalel, Aoliabe e a arca."
       ]
@@ -130,9 +130,9 @@
       "answer": "Consumiu o holocausto e a gordura.",
       "reference": "Lv 9:24",
       "wrongs": [
-        "Apagou o fogo que já estava ali.",
-        "Queimou Nadabe e Abiú naquele instante.",
-        "Só iluminou a tenda, sem tocar na oferta."
+        "Consumiu o holocausto e o incenso.",
+        "Consumiu o holocausto e a oferta de alimentos.",
+        "Consumiu a oferta de alimentos e a gordura."
       ]
     },
     {
@@ -146,9 +146,9 @@
       "answer": "Morreram ao oferecer fogo estranho.",
       "reference": "Lv 10:1-2",
       "wrongs": [
-        "Foram elogiados por trazer fogo novo.",
-        "Saíram vivos, só com a roupa queimada.",
-        "Perderam o sacerdócio e foram embora."
+        "Morreram ao oferecer sacrifício sem sangue.",
+        "Morreram ao oferecer incenso no lugar errado.",
+        "Morreram ao entrar no Santo dos Santos."
       ]
     },
     {
@@ -161,9 +161,9 @@
       "answer": "O que tem unhas fendidas e rumina.",
       "reference": "Lv 11:3",
       "wrongs": [
-        "O que tem unhas inteiras e rumina.",
+        "O que tem unhas redondas e rumina.",
         "O que rasteja e tem muitas patas.",
-        "O que tem unhas fendidas e não rumina."
+        "O que tem unhas fendidas e come carne."
       ]
     },
     {
@@ -192,9 +192,9 @@
       "answer": "Sozinho, fora do arraial.",
       "reference": "Lv 13:45-46",
       "wrongs": [
-        "Em casa, com a família.",
-        "No santuário, junto ao altar.",
-        "Na tenda do sacerdote."
+        "Com a família, fora do arraial.",
+        "Sozinho, perto do santuário.",
+        "Sozinho, dentro da cidade."
       ]
     },
     {
@@ -222,9 +222,9 @@
       "answer": "Conta sete dias, lava a roupa e banha a carne.",
       "reference": "Lv 15:13",
       "wrongs": [
-        "Oferece no mesmo dia, sem lavar nada.",
-        "Espera três dias e só troca a roupa.",
-        "Sai do acampamento e não volta mais."
+        "Conta três dias, lava a roupa e banha a carne.",
+        "Conta sete dias, troca a roupa e banha a carne.",
+        "Conta sete dias, lava a roupa e unge a carne."
       ]
     },
     {
@@ -239,7 +239,7 @@
       "wrongs": [
         "Ao altar, para ser queimado por inteiro.",
         "Ao santuário, para ficar diante da arca.",
-        "À cidade, para o povo comer a carne."
+        "Ao monte, depois de pôr nele as culpas do povo."
       ]
     },
     {
@@ -254,7 +254,7 @@
       "wrongs": [
         "Porque nele está a culpa do sacerdote.",
         "Porque ele apaga o fogo do altar.",
-        "Porque ele vale mais do que o ouro."
+        "Porque nele está o perdão dos pecados."
       ]
     },
     {
@@ -268,7 +268,7 @@
       "reference": "Lv 18:6",
       "wrongs": [
         "É proibido sentar à mesa com essa pessoa.",
-        "É proibido herdar a terra dessa pessoa.",
+        "É proibido fazer negócio com essa pessoa.",
         "É proibido pronunciar o nome dessa pessoa."
       ]
     },
@@ -282,9 +282,9 @@
       "answer": "Amar essa pessoa como a si mesmo.",
       "reference": "Lv 19:18",
       "wrongs": [
-        "Evitar essa pessoa, se for estrangeira.",
-        "Cobrar dessa pessoa o quanto quiser.",
-        "Atender essa pessoa só se for da família."
+        "Amar essa pessoa mais do que a si mesmo.",
+        "Amar essa pessoa quando ela merecer.",
+        "Amar essa pessoa só se for da família."
       ]
     },
     {
@@ -297,9 +297,9 @@
       "answer": "A morte, e o povo o apedreja.",
       "reference": "Lv 20:2",
       "wrongs": [
-        "Uma multa, e o filho volta para casa.",
-        "O exílio, e a família perde a terra.",
-        "Sete dias impuro, e depois um bode."
+        "A morte, e o povo o expulsa da terra.",
+        "Uma multa, e o povo o apedreja.",
+        "A morte, e o sacerdote o apedreja."
       ]
     },
     {
@@ -313,8 +313,8 @@
       "answer": "Só pelo parente mais chegado.",
       "reference": "Lv 21:1-2",
       "wrongs": [
-        "Por qualquer pessoa do povo.",
-        "Por nenhum morto, nem da família.",
+        "Só pelo amigo mais chegado.",
+        "Por qualquer parente da família.",
         "Só por um estrangeiro de passagem."
       ]
     },
@@ -328,9 +328,9 @@
       "answer": "A que tem algum defeito.",
       "reference": "Lv 22:20",
       "wrongs": [
-        "A que é sem defeito.",
-        "A que vem do rebanho.",
-        "A que é levada ao altar."
+        "A que tem mais de um ano.",
+        "A que é trazida no sábado.",
+        "A que é pequena para o altar."
       ]
     },
     {
@@ -343,9 +343,9 @@
       "answer": "Nenhum trabalho. É dia de descanso de Deus.",
       "reference": "Lv 23:3",
       "wrongs": [
-        "Jejum total. É dia sem comida.",
-        "Uma viagem. É dia de romaria.",
-        "A colheita. É dia de recolher o grão."
+        "Nenhum trabalho. É dia de luto e jejum.",
+        "Nenhum trabalho. É dia de viagem a Jerusalém.",
+        "Nenhum trabalho. É dia de oferta das primícias."
       ]
     },
     {
@@ -358,9 +358,9 @@
       "answer": "A morte, e a congregação o apedreja.",
       "reference": "Lv 24:16",
       "wrongs": [
-        "Uma multa, e a pessoa sai livre.",
-        "Sete dias fora do acampamento.",
-        "A perda da herança, sem morte."
+        "A morte, e a congregação o expulsa.",
+        "Uma multa, e a congregação o apedreja.",
+        "A morte, e o sacerdote o apedreja."
       ]
     },
     {
@@ -373,9 +373,9 @@
       "answer": "Liberdade na terra, e cada um volta à sua possessão.",
       "reference": "Lv 25:10",
       "wrongs": [
-        "Guerra santa, e o povo sai para lutar.",
-        "Um novo rei, e a terra muda de dono.",
-        "Silêncio total, e ninguém volta para casa."
+        "Descanso na terra, e cada um volta à sua possessão.",
+        "Liberdade na terra, e cada um fica na sua possessão.",
+        "Liberdade na terra, e cada um volta à sua cidade."
       ]
     },
     {
@@ -389,9 +389,9 @@
       "answer": "Chuva no tempo certo, e a terra dá fruto.",
       "reference": "Lv 26:3-4",
       "wrongs": [
-        "Seca o ano todo, e a terra se cala.",
-        "Granizo e fogo, e a colheita se perde.",
-        "Trevas ao meio-dia, e o céu se fecha."
+        "Orvalho no tempo certo, e a terra dá fruto.",
+        "Chuva no tempo certo, e os rios transbordam.",
+        "Chuva no tempo da colheita, e a terra dá fruto."
       ]
     },
     {
@@ -404,9 +404,9 @@
       "answer": "Segundo a avaliação, serão do Senhor.",
       "reference": "Lv 27:2",
       "wrongs": [
-        "Ficam no santuário para sempre.",
-        "São trocadas por outro animal.",
-        "O voto não vale de modo algum."
+        "Segundo a avaliação, serão do sacerdote.",
+        "Segundo a avaliação, serão do santuário.",
+        "Segundo a avaliação, serão dos levitas."
       ]
     },
     {

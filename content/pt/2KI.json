@@ -26,7 +26,7 @@
       "reference": "2Rs 1:8",
       "wrongs": [
         "Eliseu, filho de Safate.",
-        "Obadias, o mordomo do palácio.",
+        "Obadias, o mordomo do rei.",
         "Micaías, filho de Inlá."
       ]
     },
@@ -40,9 +40,9 @@
       "answer": "Baal-Zebube.",
       "reference": "2Rs 1:2",
       "wrongs": [
-        "Dagom.",
-        "Moloque.",
-        "Quemos."
+        "Dagom de Asdode.",
+        "Moloque de Amom.",
+        "Quemos de Moabe."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Fogo do céu, que consumiu ele e os cinquenta.",
       "reference": "2Rs 1:10",
       "wrongs": [
-        "Uma saraivada, que só molhou o capitão.",
-        "O exército de Acazias, que prendeu Elias.",
-        "Nada; o capitão voltou ileso."
+        "Uma saraivada, que feriu ele e os cinquenta.",
+        "Um raio, que queimou ele e os cinquenta.",
+        "Uma nuvem, que cobriu ele e os cinquenta."
       ]
     },
     {
@@ -87,7 +87,7 @@
       "wrongs": [
         "Geazi.",
         "Obadias.",
-        "O filho dos profetas de Jericó."
+        "Aías."
       ]
     },
     {
@@ -115,7 +115,7 @@
       "answer": "Quarenta e dois, depois que Eliseu os amaldiçoou.",
       "reference": "2Rs 2:24",
       "wrongs": [
-        "Dois, depois que Eliseu os abençoou.",
+        "Dois, depois que Eliseu os amaldiçoou.",
         "Sete, depois que Eliseu os chamou.",
         "Cem, depois que Eliseu os ignorou."
       ]
@@ -160,9 +160,9 @@
       "answer": "Pelo deserto de Edom.",
       "reference": "2Rs 3:8",
       "wrongs": [
-        "Pelo caminho do mar, junto aos filisteus.",
-        "Pelo vale do Jordão, subindo a Jericó.",
-        "Pela estrada real, direto a Quir-Haresete."
+        "Pelo deserto de Moabe.",
+        "Pelo deserto de Judá.",
+        "Pelo caminho de Sitim."
       ]
     },
     {
@@ -191,8 +191,8 @@
       "reference": "2Rs 4:35",
       "wrongs": [
         "Espirrou uma vez e tornou a dormir.",
-        "Abriu os olhos e ficou em silêncio.",
-        "Levantou-se na hora, sem espirrar."
+        "Espirrou três vezes e ficou em silêncio.",
+        "Espirrou sete vezes e tornou a adormecer."
       ]
     },
     {
@@ -250,9 +250,9 @@
       "answer": "A carne ficou como a de um menino, e ele foi purificado.",
       "reference": "2Rs 5:14",
       "wrongs": [
-        "A carne continuou doente, e ele voltou triste.",
+        "A carne ficou como a de um ancião, e ele foi curado.",
         "Só as mãos ficaram limpas, e o resto não.",
-        "A carne escureceu, e a lepra piorou."
+        "A carne ficou limpa por um dia, e a lepra voltou."
       ]
     },
     {
@@ -265,9 +265,9 @@
       "answer": "Geazi.",
       "reference": "2Rs 5:20",
       "wrongs": [
-        "A serva da mulher de Naamã.",
-        "O rei de Israel.",
-        "O cocheiro de Naamã."
+        "Obadias.",
+        "Semaías.",
+        "Bidcar."
       ]
     },
     {
@@ -311,7 +311,7 @@
       "reference": "2Rs 6:17",
       "wrongs": [
         "O exército de Israel acampado no vale.",
-        "Os morros vazios, sem ninguém em volta.",
+        "Cavalos e carros de Síria em volta da cidade.",
         "Soldados sírios já descendo a encosta."
       ]
     },
@@ -370,9 +370,9 @@
       "answer": "Ruído de carros, de cavalos e de um grande exército.",
       "reference": "2Rs 7:6",
       "wrongs": [
-        "Silêncio de um acampamento abandonado.",
+        "Ruído de carros, de cavalos e de um exército de Síria.",
         "Canto do exército de Israel chegando.",
-        "Trovão sem carros, sem cavalos e sem gente."
+        "Ruído de trombetas, de cavalos e de um grande exército."
       ]
     },
     {
@@ -415,9 +415,9 @@
       "answer": "O povo o atropelou, e ele morreu.",
       "reference": "2Rs 7:17",
       "wrongs": [
-        "O povo o coroou, e ele viveu.",
+        "O povo o feriu, e ele fugiu.",
         "O povo o deixou passar, e ele fugiu.",
-        "O príncipe abriu a porta e seguiu ileso."
+        "O povo o apertou na porta, e ele desmaiou."
       ]
     },
     {
@@ -430,9 +430,9 @@
       "answer": "Estendeu um cobertor molhado no rosto dele, e o rei morreu.",
       "reference": "2Rs 8:15",
       "wrongs": [
-        "Deu-lhe um remédio, e o rei sarou.",
-        "Feriu-o com a espada, no pátio.",
-        "Deixou-o na cama, e o rei viveu muitos anos."
+        "Estendeu um cobertor molhado no rosto dele, e o rei escapou.",
+        "Deu-lhe um remédio na cama, e o rei morreu.",
+        "Feriu-o com a espada no quarto, e o rei morreu."
       ]
     },
     {
@@ -476,7 +476,7 @@
       "reference": "2Rs 8:1",
       "wrongs": [
         "Três anos.",
-        "Três anos e meio.",
+        "Dez anos.",
         "Quarenta anos."
       ]
     },
@@ -491,7 +491,7 @@
       "reference": "2Rs 9:24",
       "wrongs": [
         "A espada o atingiu no palácio e parou no ombro.",
-        "Ele caiu do carro sem ferimento de arma.",
+        "A flecha o atingiu nas costas e saiu pelo peito.",
         "Um veneno o derrubou antes da batalha."
       ]
     },
@@ -505,7 +505,7 @@
       "answer": "Os cães comeriam a carne dela no campo de Jizreel.",
       "reference": "2Rs 9:36",
       "wrongs": [
-        "Ela morreria em paz, na terra de Sidom.",
+        "Os cães comeriam a carne dela no palácio de Samaria.",
         "O fogo consumiria o corpo dela no palácio.",
         "Os reis a sepultariam com honra em Samaria."
       ]
@@ -535,9 +535,9 @@
       "answer": "Só a caveira, os pés e as palmas das mãos.",
       "reference": "2Rs 9:35",
       "wrongs": [
-        "O corpo inteiro, sem faltar nada.",
-        "Nada, nem os ossos.",
-        "Só a coroa e o manto."
+        "Só a caveira, as mãos e os braços.",
+        "Só o tronco, os pés e as palmas das mãos.",
+        "Só a caveira, os pés e as pontas dos dedos."
       ]
     },
     {
@@ -550,8 +550,8 @@
       "answer": "Matou todos em Samaria, como Elias tinha dito.",
       "reference": "2Rs 10:17",
       "wrongs": [
-        "Poupou todos em Samaria e fez as pazes.",
-        "Exilou todos para Damasco, sem morte.",
+        "Matou todos em Samaria, como Eliseu tinha dito.",
+        "Exilou todos para Damasco, como Elias tinha dito.",
         "Matou só os sacerdotes e deixou a família."
       ]
     },
@@ -610,9 +610,9 @@
       "answer": "Pôs a coroa, ungiu-o rei, e o povo aclamou.",
       "reference": "2Rs 11:12",
       "wrongs": [
-        "Escondeu-o de novo, sem coroa e sem aclamação.",
-        "Entregou a coroa a Atalia, e o povo calou.",
-        "Fez dele só sacerdote, sem ungir rei."
+        "Pôs a coroa, ungiu-o sacerdote, e o povo aclamou.",
+        "Entregou a coroa a Atalia, e o povo aplaudiu.",
+        "Pôs a coroa, ungiu-o rei, e o povo cantou."
       ]
     },
     {
@@ -640,7 +640,7 @@
       "answer": "Na recâmara, com a ama dele.",
       "reference": "2Rs 11:2",
       "wrongs": [
-        "Numa cova fora da cidade, sem a ama.",
+        "Numa câmara do templo, com a ama dele.",
         "No Egito, na casa de um parente.",
         "No poço da cidade de Davi, sozinho."
       ]
@@ -730,7 +730,7 @@
       "answer": "Ao encostar nos ossos, reviveu e se pôs de pé.",
       "reference": "2Rs 13:21",
       "wrongs": [
-        "Ao encostar nos ossos, continuou morto.",
+        "Ao encostar nos ossos, reviveu e caiu de novo.",
         "Ao encostar nos ossos, o túmulo desabou.",
         "Antes de chegar aos ossos, já tinha revivido."
       ]
@@ -792,7 +792,7 @@
       "wrongs": [
         "Abriu uma brecha de cem côvados.",
         "Derrubou o muro inteiro, de ponta a ponta.",
-        "Não tocou o muro e voltou embora."
+        "Abriu uma brecha de quarenta côvados."
       ]
     },
     {
@@ -805,9 +805,9 @@
       "answer": "Jonas, filho de Amitai, de Gate-Hefer.",
       "reference": "2Rs 14:25",
       "wrongs": [
-        "Amós, pastor de Tecoa.",
+        "Amós, pastor de Tecoa, em Judá.",
         "Oseias, filho de Beeri.",
-        "Isaías, filho de Amós."
+        "Isaías, filho do profeta Amós."
       ]
     },
     {
@@ -850,7 +850,7 @@
       "answer": "Deus o fez leproso, e ele morou separado.",
       "reference": "2Rs 15:5",
       "wrongs": [
-        "Deus o curou, e ele voltou ao palácio.",
+        "Deus o fez leproso, e ele morou no palácio.",
         "Deus o cegou, e ele morou no templo.",
         "Deus o feriu de morte naquele mesmo dia."
       ]
@@ -940,7 +940,7 @@
       "answer": "Para Quir.",
       "reference": "2Rs 16:9",
       "wrongs": [
-        "Para a Babilônia.",
+        "Para Hamate.",
         "Para o Egito.",
         "Para Nínive."
       ]
@@ -972,7 +972,7 @@
       "wrongs": [
         "Cercou a cidade e deixou Israel na terra.",
         "Tomou Damasco e deixou Samaria em paz.",
-        "Perdeu a cidade e pagou tributo a Israel."
+        "Tomou a cidade e levou Judá para o exílio."
       ]
     },
     {
@@ -1030,9 +1030,9 @@
       "answer": "Não houve outro como ele, nem antes nem depois.",
       "reference": "2Rs 18:5",
       "wrongs": [
-        "Houve muitos iguais a ele, antes e depois.",
-        "Foi o pior de todos, antes e depois.",
-        "Só se igualou a Acabe, e a ninguém mais."
+        "Não houve outro como ele, nem entre os reis de Israel.",
+        "Não houve outro como ele, nem antes nem depois de Acaz.",
+        "Não houve outro como ele, nem antes nem depois de Manassés."
       ]
     },
     {
@@ -1061,8 +1061,8 @@
       "reference": "2Rs 18:17",
       "wrongs": [
         "Junto à porta das ovelhas.",
-        "No pátio do templo.",
-        "No ribeiro de Cedrom."
+        "No pátio de fora do templo.",
+        "No ribeiro de Cedrom, fora do muro."
       ]
     },
     {
@@ -1092,7 +1092,7 @@
       "wrongs": [
         "Cento e oitenta e cinco.",
         "Oitenta e cinco mil.",
-        "Cem mil."
+        "Duzentos e cinco mil."
       ]
     },
     {
@@ -1106,7 +1106,7 @@
       "reference": "2Rs 19:37",
       "wrongs": [
         "Os soldados de Ezequias.",
-        "O profeta Isaías.",
+        "O profeta Isaías, de Judá.",
         "A guarda do templo, sozinha."
       ]
     },
@@ -1135,9 +1135,9 @@
       "answer": "Não entraria nela nem atiraria uma flecha.",
       "reference": "2Rs 19:32",
       "wrongs": [
-        "Entraria nela e queimaria o templo.",
-        "Atiraria flechas até derrubar o muro.",
-        "Tomaria a cidade no ano seguinte."
+        "Não entraria em Laquis nem atiraria uma flecha.",
+        "Não voltaria a Nínive nem atiraria uma flecha.",
+        "Não passaria da Síria nem atiraria uma flecha."
       ]
     },
     {
@@ -1150,9 +1150,9 @@
       "answer": "Quinze anos, e livraria a cidade do rei da Assíria.",
       "reference": "2Rs 20:6",
       "wrongs": [
-        "Cinco anos, e entregaria a cidade ao rei da Assíria.",
-        "Quarenta anos, e mudaria a cidade para Nínive.",
-        "Nenhum ano, e a cidade cairia naquela noite."
+        "Cinco anos, e livraria a cidade do rei da Síria.",
+        "Quarenta anos, e livraria a cidade do rei do Egito.",
+        "Dois anos, e livraria a cidade do rei da Assíria."
       ]
     },
     {
@@ -1167,7 +1167,7 @@
       "wrongs": [
         "Senaqueribe, rei da Assíria.",
         "Faraó Neco, rei do Egito.",
-        "Ciro, rei da Pérsia."
+        "Ciro, rei da Pérsia e da Média."
       ]
     },
     {
@@ -1182,7 +1182,7 @@
       "wrongs": [
         "Para Nínive, sem sobrar coisa alguma.",
         "Para o Egito, sem sobrar coisa alguma.",
-        "Ficaria em Jerusalém, sem sair coisa alguma."
+        "Para a Média, sem sobrar coisa alguma."
       ]
     },
     {
@@ -1195,9 +1195,9 @@
       "answer": "Voltou dez graus atrás.",
       "reference": "2Rs 20:11",
       "wrongs": [
-        "Avançou dez graus.",
+        "Voltou cinco graus atrás.",
         "Voltou três graus atrás.",
-        "Ficou parada."
+        "Voltou vinte graus atrás."
       ]
     },
     {
@@ -1210,9 +1210,9 @@
       "answer": "Foi pior do que tudo o que eles tinham feito.",
       "reference": "2Rs 21:11",
       "wrongs": [
-        "Foi mais leve do que tudo o que eles tinham feito.",
+        "Foi pior do que tudo o que eles tinham ouvido.",
         "Foi igual ao de Davi, e nada além disso.",
-        "Foi melhor do que tudo o que eles tinham feito."
+        "Foi pior do que tudo o que eles tinham planejado."
       ]
     },
     {
@@ -1256,8 +1256,8 @@
       "reference": "2Rs 21:16",
       "wrongs": [
         "De ouro roubado, de um lado até o outro.",
-        "De ídolos de pedra, só no templo.",
-        "De água da chuva, de um lado até o outro."
+        "De ídolos de pedra, de um lado até o outro.",
+        "De altares a Baal, de um lado até o outro."
       ]
     },
     {
@@ -1270,9 +1270,9 @@
       "answer": "O livro da lei.",
       "reference": "2Rs 22:8",
       "wrongs": [
-        "A coroa perdida de Davi.",
-        "A arca, que estava escondida.",
-        "Uma carta do rei do Egito."
+        "O livro dos reis.",
+        "A arca da aliança.",
+        "Uma carta do Egito."
       ]
     },
     {
@@ -1301,8 +1301,8 @@
       "reference": "2Rs 22:14",
       "wrongs": [
         "No pátio do templo.",
-        "Em Anatote.",
-        "Em Belém."
+        "Na parte nova de Jerusalém.",
+        "Na primeira parte de Jerusalém."
       ]
     },
     {
@@ -1317,7 +1317,7 @@
       "wrongs": [
         "Queimou o livro no fogo.",
         "Jogou o livro no Cedrom.",
-        "Guardou o livro e não reagiu."
+        "Rasgou o livro da lei."
       ]
     },
     {
@@ -1330,9 +1330,9 @@
       "answer": "Desde o tempo dos juízes, e em nenhum reinado.",
       "reference": "2Rs 23:22",
       "wrongs": [
-        "Desde o tempo de Moisés, e em nenhum acampamento.",
-        "Desde o tempo de Davi, e em nenhum sábado.",
-        "Desde o êxodo, e em nenhuma tribo."
+        "Desde o tempo de Moisés, e em nenhum reinado.",
+        "Desde o tempo de Davi, e em nenhum reinado.",
+        "Desde o tempo de Samuel, e em nenhum reinado."
       ]
     },
     {
@@ -1361,7 +1361,7 @@
       "reference": "2Rs 23:10",
       "wrongs": [
         "No vale de Cedrom.",
-        "No vale de Ela.",
+        "No vale de Gibeão.",
         "No vale de Sitim."
       ]
     },
@@ -1391,7 +1391,7 @@
       "reference": "2Rs 24:14",
       "wrongs": [
         "Só os príncipes da casa real.",
-        "Todo o povo, sem exceção.",
+        "Só os anciãos das famílias.",
         "Só os sacerdotes do templo."
       ]
     },
@@ -1450,9 +1450,9 @@
       "answer": "O templo, o palácio e as casas da cidade.",
       "reference": "2Rs 25:9",
       "wrongs": [
-        "Só a muralha; o templo e o palácio ficaram de pé.",
-        "O templo foi poupado, e só as casas caíram.",
-        "Nada foi queimado; a cidade só perdeu as portas."
+        "O templo, o palácio e as casas dos sacerdotes.",
+        "O templo, o palácio e as casas dos nobres.",
+        "O templo, o palácio e as portas da cidade."
       ]
     },
     {
@@ -1510,9 +1510,9 @@
       "answer": "O livro não nomeia o autor.",
       "reference": "2 Reis",
       "wrongs": [
-        "O livro nomeia Moisés como autor.",
-        "O livro nomeia Salomão como autor.",
-        "O livro nomeia Davi como autor."
+        "O livro não omite o nome do autor.",
+        "O livro não deixa o autor anônimo.",
+        "O livro não cala o nome de quem escreveu."
       ]
     },
     {
@@ -1527,7 +1527,7 @@
       "wrongs": [
         "No tempo de Salomão, no século X antes de Cristo.",
         "No tempo dos juízes, no século XII antes de Cristo.",
-        "No século I, depois do nascimento de Cristo."
+        "No tempo dos apóstolos, no século I depois de Cristo."
       ]
     }
   ]

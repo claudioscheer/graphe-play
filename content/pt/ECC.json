@@ -10,9 +10,9 @@
       "answer": "Nada. O que já aconteceu torna a se repetir.",
       "reference": "Ec 1:9",
       "wrongs": [
-        "Tudo. Cada manhã traz o que nunca houve.",
-        "O trabalho. Só ele muda o que já passou.",
-        "A fala. Cada geração inventa outro mundo."
+        "Nada. O que já aconteceu torna a se esquecer.",
+        "Nada. O que já aconteceu torna a se perder.",
+        "Nada. O que já aconteceu torna a se apagar."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Não o enchem, e voltam a correr de onde saíram.",
       "reference": "Ec 1:7",
       "wrongs": [
-        "Enchem o mar, e param de correr para sempre.",
-        "Secam o mar, e mudam o curso uma só vez.",
-        "Fogem do mar, e não tornam à nascente."
+        "Não o enchem, e param de correr ao chegar no mar.",
+        "Não o enchem, e buscam outra foz a cada ano.",
+        "Não o enchem, e secam antes de tornar à nascente."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "Que era vaidade e aflição de espírito.",
       "reference": "Ec 2:11",
       "wrongs": [
-        "Que era eterno, como plantar um cedro.",
-        "Que era lucro certo, como encher um cofre.",
-        "Que era descanso, como achar a sombra."
+        "Que era vaidade e canseira de espírito.",
+        "Que era vaidade e tristeza de espírito.",
+        "Que era proveito e aflição de espírito."
       ]
     },
     {
@@ -100,9 +100,9 @@
       "answer": "Prata e ouro, com tesouros vindos de reis.",
       "reference": "Ec 2:8",
       "wrongs": [
-        "Só pão e água, sem tesouro algum.",
-        "Gado e tendas, com rebanhos do deserto.",
-        "Livros e cinza, sem metal nem canto."
+        "Pedras e perfumes, com tesouros vindos de reis.",
+        "Prata e cobre, com tesouros vindos de reis.",
+        "Prata e ouro, com tesouros guardados nos templos."
       ]
     },
     {
@@ -115,9 +115,9 @@
       "answer": "Um tempo certo para acontecer.",
       "reference": "Ec 3:1",
       "wrongs": [
-        "Um dono que a impede de mudar.",
-        "Um preço fixo em ouro.",
-        "Uma cópia que nunca se repete."
+        "Um modo certo para acontecer.",
+        "Um lugar certo para acontecer.",
+        "Um motivo certo para acontecer."
       ]
     },
     {
@@ -130,9 +130,9 @@
       "answer": "O mundo, sem que o homem descubra toda a obra.",
       "reference": "Ec 3:11",
       "wrongs": [
-        "A medida de todo o ouro.",
-        "O mapa de cada reino.",
-        "O fim de toda pergunta."
+        "A lei, sem que o homem descubra toda a obra.",
+        "A vida, sem que o homem descubra toda a obra.",
+        "O juízo, sem que o homem descubra toda a obra."
       ]
     },
     {
@@ -145,9 +145,9 @@
       "answer": "Ao pó, de onde também vieram.",
       "reference": "Ec 3:20",
       "wrongs": [
-        "Ao mar, de onde os rios saíram.",
-        "Ao palácio, de onde o rei governa.",
-        "Ao céu, sem passar pela terra."
+        "Ao mar, de onde também vieram.",
+        "Ao jardim, de onde também vieram.",
+        "À terra natal, de onde também vieram."
       ]
     },
     {
@@ -160,9 +160,9 @@
       "answer": "A de três dobras.",
       "reference": "Ec 4:12",
       "wrongs": [
-        "A de uma dobra só.",
-        "A de linha solta.",
-        "A que ninguém trança."
+        "A de duas dobras.",
+        "A de quatro dobras.",
+        "A de seis dobras."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "answer": "Os oprimidos. A força estava com quem oprimia.",
       "reference": "Ec 4:1",
       "wrongs": [
-        "Os reis. A força estava com os servos.",
-        "Os ricos. A força estava com os pobres.",
-        "Os sábios. A força estava com os tolos."
+        "Os servos. A força estava com os príncipes.",
+        "Os órfãos. A força estava com os juízes.",
+        "Os estrangeiros. A força estava com os sacerdotes."
       ]
     },
     {
@@ -190,9 +190,9 @@
       "answer": "Uma criança pobre e sábia.",
       "reference": "Ec 4:13",
       "wrongs": [
-        "Uma criança rica e tola.",
-        "Um velho rico e surdo.",
-        "Um rei novo e vaidoso."
+        "Um servo pobre e sábio.",
+        "Uma criança humilde e sábia.",
+        "Uma criança pobre e sincera."
       ]
     },
     {
@@ -205,9 +205,9 @@
       "answer": "Não fazer voto nenhum.",
       "reference": "Ec 5:5",
       "wrongs": [
-        "Prometer mais e pagar menos.",
-        "Jurar alto e esquecer depois.",
-        "Fazer dois votos e cumprir um."
+        "Não jurar em voz alta.",
+        "Não fazer voto por escrito.",
+        "Não prometer no altar."
       ]
     },
     {
@@ -235,9 +235,9 @@
       "answer": "O próprio dinheiro. A riqueza também não sacia.",
       "reference": "Ec 5:10",
       "wrongs": [
-        "O trabalho curto. A pobreza sacia de vez.",
-        "Um só pão. A fome acaba na hora.",
-        "O sono longo. A alma fica cheia."
+        "O próprio trabalho. A riqueza também não sacia.",
+        "O próprio prazer. O descanso também não sacia.",
+        "O próprio dinheiro. A glória também não sacia."
       ]
     },
     {
@@ -250,9 +250,9 @@
       "answer": "Um estranho. Deus não deu a esse homem poder de desfrutar.",
       "reference": "Ec 6:2",
       "wrongs": [
-        "O próprio homem. Deus lhe deu fome sem fim.",
-        "O filho mais velho. Deus lhe deu a chave da casa.",
-        "O sacerdote. Deus lhe deu o direito da mesa."
+        "O filho mais velho. Deus não deu a esse homem poder de desfrutar.",
+        "O servo da casa. Deus não deu a esse homem poder de desfrutar.",
+        "O credor. Deus não deu a esse homem poder de desfrutar."
       ]
     },
     {
@@ -265,9 +265,9 @@
       "answer": "Nada. Todos acabam no mesmo lugar.",
       "reference": "Ec 6:6",
       "wrongs": [
-        "Tudo. A alma fica para sempre em festa.",
-        "O dobro. A morte espera os outros.",
-        "A fama. O nome não volta ao pó."
+        "Nada. Todos acabam no mesmo sono.",
+        "Nada. Todos acabam no mesmo esquecimento.",
+        "Nada. Todos acabam num lugar de descanso."
       ]
     },
     {
@@ -280,9 +280,9 @@
       "answer": "A boa fama. O dia da morte supera o do nascimento.",
       "reference": "Ec 7:1",
       "wrongs": [
-        "Uma boa festa. O dia do nascimento supera o da morte.",
-        "Uma boa mesa. O dia da colheita supera o do nome.",
-        "Uma boa coroa. O dia do trono supera o da fama."
+        "A boa fama. O dia do casamento supera o do nascimento.",
+        "A boa fama. O dia da colheita supera o do nascimento.",
+        "A boa mesa. O dia da morte supera o do nascimento."
       ]
     },
     {
@@ -295,9 +295,9 @@
       "answer": "Ninguém.",
       "reference": "Ec 7:20",
       "wrongs": [
-        "O sábio.",
-        "O rei.",
-        "O justo."
+        "Só o sábio.",
+        "Só o justo.",
+        "Só o rei."
       ]
     },
     {
@@ -310,9 +310,9 @@
       "answer": "Ninguém. Também ninguém segura o espírito.",
       "reference": "Ec 8:8",
       "wrongs": [
-        "O rico. O ouro segura o espírito.",
-        "O forte. O braço segura o espírito.",
-        "O rei. O decreto segura o espírito."
+        "O rico. As suas riquezas o livram da morte.",
+        "O forte. A sua força segura o espírito.",
+        "O rei. O seu decreto retém o espírito."
       ]
     },
     {
@@ -325,9 +325,9 @@
       "answer": "Porque o julgamento da obra má não vem logo.",
       "reference": "Ec 8:11",
       "wrongs": [
-        "Porque o julgamento da obra má chega na hora.",
-        "Porque o bem não deixa rastro nenhum.",
-        "Porque a lei paga quem faz o mal."
+        "Porque o julgamento da obra má se faz em segredo.",
+        "Porque o julgamento da obra má depende do rei.",
+        "Porque o julgamento da obra má vem dos homens."
       ]
     },
     {
@@ -340,9 +340,9 @@
       "answer": "Um cão vivo.",
       "reference": "Ec 9:4",
       "wrongs": [
-        "Um boi gordo.",
-        "Uma águia morta.",
-        "Um corvo seco."
+        "Um boi vivo.",
+        "Um gato vivo.",
+        "Um pardal vivo."
       ]
     },
     {
@@ -355,9 +355,9 @@
       "answer": "Não com os velozes nem com os fortes. O tempo alcança todos.",
       "reference": "Ec 9:11",
       "wrongs": [
-        "Sempre com os velozes e com os fortes. O tempo espera.",
-        "Só com os ricos e com os reis. O tempo obedece.",
-        "Com quem nasce primeiro. O tempo escolhe a casa."
+        "Não com os jovens nem com os reis. O tempo alcança todos.",
+        "Não com os justos nem com os retos. O tempo alcança todos.",
+        "Não com os velozes nem com os fortes. O tempo poupa alguns."
       ]
     },
     {
@@ -372,7 +372,7 @@
       "wrongs": [
         "Um general rico e famoso.",
         "Um rei jovem e forte.",
-        "Um sacerdote de grande nome."
+        "Um profeta velho e sábio."
       ]
     },
     {
@@ -385,9 +385,9 @@
       "answer": "O inutiliza, como moscas mortas estragam o unguento.",
       "reference": "Ec 10:1",
       "wrongs": [
-        "O engrandece, como o sol seca o orvalho.",
-        "O tempera, como o sal melhora a comida.",
-        "Não muda nada, como água derramada em mais água."
+        "O inutiliza, como moscas mortas estragam o vinho.",
+        "O inutiliza, como traças mortas estragam o unguento.",
+        "O inutiliza, como moscas mortas estragam o azeite."
       ]
     },
     {
@@ -400,9 +400,9 @@
       "answer": "Servos iam a cavalo, e príncipes andavam a pé.",
       "reference": "Ec 10:7",
       "wrongs": [
-        "Príncipes iam a cavalo, e servos abriam caminho.",
-        "Servos e príncipes iam juntos no mesmo carro.",
-        "Ninguém andava, e a cidade ficava parada."
+        "Servos iam a cavalo, e príncipes andavam de carro.",
+        "Servos iam de carro, e príncipes andavam a pé.",
+        "Servos iam a cavalo, e príncipes andavam atrás deles."
       ]
     },
     {
@@ -415,9 +415,9 @@
       "answer": "Porque as aves levam a fala, e quem tem asa conta.",
       "reference": "Ec 10:20",
       "wrongs": [
-        "Porque as paredes guardam a fala, e ninguém conta.",
-        "Porque o rei nunca ouve, e o quarto é surdo.",
-        "Porque a maldição volta só se for na praça."
+        "Porque as aves levam a fala, e quem tem bico conta.",
+        "Porque os servos levam a fala, e quem serve conta.",
+        "Porque os vizinhos levam a fala, e quem escuta conta."
       ]
     },
     {
@@ -430,9 +430,9 @@
       "answer": "O pão. Muito tempo depois ele é achado.",
       "reference": "Ec 11:1",
       "wrongs": [
-        "A rede. No mesmo dia ela volta vazia.",
-        "A semente seca. Ela nunca mais aparece.",
-        "O ouro. Na hora ele se perde de vez."
+        "A semente. Muito tempo depois ela é achada.",
+        "A rede. Muito tempo depois ela é achada.",
+        "O ouro. Muito tempo depois ele é achado."
       ]
     },
     {
@@ -445,9 +445,9 @@
       "answer": "A sete, e também a oito.",
       "reference": "Ec 11:2",
       "wrongs": [
-        "A uma, e nunca a duas.",
-        "A dez, e não além disso.",
-        "A ninguém, para guardar tudo."
+        "A três, e também a quatro.",
+        "A cinco, e também a seis.",
+        "A nove, e também a dez."
       ]
     },
     {
@@ -460,9 +460,9 @@
       "answer": "Não semeia. Quem olha as nuvens não colhe.",
       "reference": "Ec 11:4",
       "wrongs": [
-        "Não descansa. Quem olha as nuvens colhe dobrado.",
-        "Não viaja. Quem olha as nuvens acha ouro.",
-        "Não come. Quem olha as nuvens fica rico."
+        "Não semeia. Quem olha as nuvens não rega.",
+        "Não planta. Quem olha as nuvens não colhe.",
+        "Não semeia. Quem olha as chuvas não colhe."
       ]
     },
     {
@@ -475,9 +475,9 @@
       "answer": "Temer a Deus e guardar os mandamentos dele.",
       "reference": "Ec 12:13",
       "wrongs": [
-        "Juntar bens e esquecer o dia de amanhã.",
-        "Seguir o coração e largar os mandamentos.",
-        "Temer os homens e guardar a própria fama."
+        "Temer a Deus e ensinar os mandamentos dele.",
+        "Temer a Deus e estudar os mandamentos dele.",
+        "Temer a Deus e recitar os mandamentos dele."
       ]
     },
     {
@@ -490,9 +490,9 @@
       "answer": "O cordão de prata se rompe e o copo de ouro se quebra.",
       "reference": "Ec 12:6",
       "wrongs": [
-        "O cordão de prata aperta e o copo de ouro transborda.",
-        "O cordão de prata vira ouro e o copo se multiplica.",
-        "O cordão de prata some no poço e o copo fica novo."
+        "O cordão de ouro se rompe e o copo de prata se quebra.",
+        "O cordão de prata se rompe e o copo de barro se quebra.",
+        "O cordão de prata se embaraça e o copo de ouro se entorta."
       ]
     },
     {
@@ -506,8 +506,8 @@
       "reference": "Ec 12:12",
       "wrongs": [
         "Dormir demais.",
-        "Comer de menos.",
-        "Andar na sombra."
+        "Trabalhar demais.",
+        "Andar demais."
       ]
     },
     {

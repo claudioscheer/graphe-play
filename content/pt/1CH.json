@@ -27,7 +27,7 @@
       "wrongs": [
         "Israel.",
         "Isaque.",
-        "Ló."
+        "Jacó."
       ]
     },
     {
@@ -87,7 +87,7 @@
       "reference": "1Cr 2:13-15",
       "wrongs": [
         "Eliabe.",
-        "Abinadabe.",
+        "Simeia.",
         "Samuel."
       ]
     },
@@ -146,7 +146,7 @@
       "answer": "Trinta e três anos.",
       "reference": "1Cr 3:4",
       "wrongs": [
-        "Sete anos.",
+        "Vinte e três anos.",
         "Quarenta anos.",
         "Vinte e nove anos."
       ]
@@ -206,9 +206,9 @@
       "answer": "Concedeu o que ele tinha pedido.",
       "reference": "1Cr 4:10",
       "wrongs": [
-        "Negou o que ele tinha pedido.",
-        "Adiou o pedido até a morte dele.",
-        "Deu só a metade do que ele tinha pedido."
+        "Adiou o que ele tinha pedido por muito tempo.",
+        "Deu só a metade do que ele tinha pedido.",
+        "Mandou um profeta responder ao que ele pediu."
       ]
     },
     {
@@ -372,7 +372,7 @@
       "answer": "Porque ia mal na casa dele.",
       "reference": "1Cr 7:23",
       "wrongs": [
-        "Porque ia bem na casa dele.",
+        "Porque havia luto na casa dele.",
         "Porque o filho nasceu na viagem.",
         "Porque um voto tinha sido cumprido."
       ]
@@ -404,7 +404,7 @@
       "wrongs": [
         "Jônatas.",
         "Abner.",
-        "Isbosete."
+        "Esbaal."
       ]
     },
     {
@@ -432,8 +432,8 @@
       "answer": "Cento e cinquenta.",
       "reference": "1Cr 8:40",
       "wrongs": [
-        "Setenta.",
-        "Trezentos.",
+        "Cento e setenta.",
+        "Duzentos e cinquenta.",
         "Duzentos e doze."
       ]
     },
@@ -447,9 +447,9 @@
       "answer": "Israelitas, sacerdotes, levitas e netineus.",
       "reference": "1Cr 9:2",
       "wrongs": [
-        "Só os príncipes da casa de Davi.",
-        "Só os moradores de Samaria.",
-        "Profetas, reis, soldados e embaixadores."
+        "Israelitas, anciãos, príncipes e escribas.",
+        "Sacerdotes, levitas, porteiros e cantores.",
+        "Judaitas, benjamitas, efraimitas e manassitas."
       ]
     },
     {
@@ -477,7 +477,7 @@
       "answer": "Duzentos e doze.",
       "reference": "1Cr 9:22",
       "wrongs": [
-        "Duzentos e oitenta e oito.",
+        "Duzentos e oitenta.",
         "Cento e vinte.",
         "Noventa e três."
       ]
@@ -492,9 +492,9 @@
       "answer": "Morreram, e a casa dele acabou junto.",
       "reference": "1Cr 10:6",
       "wrongs": [
-        "Escaparam, e a casa dele ficou firme.",
-        "Foram presos, e a casa dele seguiu em Gibeá.",
-        "Só Saul caiu, e os filhos reinaram juntos."
+        "Morreram, e a casa dele seguiu em Gibeá.",
+        "Morreram, e a casa dele passou a Isbosete.",
+        "Morreram, e a casa dele ficou com Abner."
       ]
     },
     {
@@ -523,7 +523,7 @@
       "reference": "1Cr 10:1",
       "wrongs": [
         "No monte Carmelo.",
-        "Em Ebenézer.",
+        "No monte de Ebenézer.",
         "No vale de Ela."
       ]
     },
@@ -537,9 +537,9 @@
       "answer": "Atirou-se sobre a própria espada.",
       "reference": "1Cr 10:4",
       "wrongs": [
-        "Um amalequita o matou.",
-        "O escudeiro o matou.",
-        "Morreu de velhice na tenda."
+        "Atirou-se sobre a própria lança.",
+        "Atirou-se sobre a espada do escudeiro.",
+        "Atirou-se sobre a espada de Jônatas."
       ]
     },
     {
@@ -552,9 +552,9 @@
       "answer": "Fez aliança com ele e o ungiu rei.",
       "reference": "1Cr 11:3",
       "wrongs": [
-        "Recusou a aliança e ungiu Isbosete.",
         "Fez aliança com ele e o deixou só como juiz.",
-        "Coroou o filho dele no lugar do pai."
+        "Fez aliança com ele e o ungiu príncipe de Judá.",
+        "Fez aliança com ele e o fez comandante do exército."
       ]
     },
     {
@@ -597,9 +597,9 @@
       "answer": "Não bebeu; derramou-a para Deus.",
       "reference": "1Cr 11:18",
       "wrongs": [
-        "Bebeu-a de uma vez, com os valentes.",
-        "Guardou-a no tabernáculo, sem tocar.",
-        "Devolveu-a ao poço de Belém."
+        "Não bebeu; guardou-a para os valentes.",
+        "Não bebeu; mandou-a de volta ao poço.",
+        "Não bebeu; levou-a ao tabernáculo de Gibeom."
       ]
     },
     {
@@ -612,9 +612,9 @@
       "answer": "Para fazê-lo rei de todo o Israel.",
       "reference": "1Cr 12:38",
       "wrongs": [
-        "Para escondê-lo de todo o Israel.",
-        "Para desafiá-lo pelo trono.",
-        "Para levar a arca até Hebrom."
+        "Para fazê-lo juiz de todo o Israel.",
+        "Para fazê-lo rei só de Judá.",
+        "Para fazê-lo comandante de todo o Israel."
       ]
     },
     {
@@ -642,9 +642,9 @@
       "answer": "No primeiro mês, com o rio transbordando.",
       "reference": "1Cr 12:15",
       "wrongs": [
-        "No sétimo mês, com o rio quase seco.",
-        "No terceiro mês, com o rio calmo.",
-        "No verão, com o leito vazio."
+        "No sétimo mês, com o rio transbordando.",
+        "No terceiro mês, com o rio cheio.",
+        "No décimo mês, com o rio transbordando."
       ]
     },
     {
@@ -657,9 +657,9 @@
       "answer": "Deus o feriu, e ele morreu ali.",
       "reference": "1Cr 13:10",
       "wrongs": [
-        "Deus o abençoou, e ele viveu ali.",
-        "Deus o fez sacerdote, e ele seguiu.",
-        "Deus o poupou, e ele só tropeçou."
+        "Deus o feriu, e ele morreu em Bet-Semes.",
+        "Deus o feriu, e ele morreu junto ao Jordão.",
+        "Deus o feriu, e ele adoeceu naquele lugar."
       ]
     },
     {
@@ -687,9 +687,9 @@
       "answer": "Três meses.",
       "reference": "1Cr 13:14",
       "wrongs": [
-        "Três dias.",
-        "Um ano.",
-        "Sete dias."
+        "Um mês.",
+        "Seis meses.",
+        "Doze meses."
       ]
     },
     {
@@ -702,9 +702,9 @@
       "answer": "Venceu os inimigos naquele lugar.",
       "reference": "1Cr 14:11",
       "wrongs": [
-        "Foi vencido e recuou daquele lugar.",
-        "Fez paz e dividiu aquele lugar.",
-        "Perdeu a arca naquele lugar."
+        "Venceu os amonitas naquele lugar.",
+        "Venceu os moabitas naquele lugar.",
+        "Venceu os edomitas naquele lugar."
       ]
     },
     {
@@ -747,9 +747,9 @@
       "answer": "Nas varas, sobre os ombros, como Moisés tinha ordenado.",
       "reference": "1Cr 15:15",
       "wrongs": [
-        "Num carro novo, puxado por bois.",
-        "Nas mãos de Uzá, sem as varas.",
-        "Em ombros de soldados, sem ordem de Moisés."
+        "Nas varas, sobre os ombros, como Arão tinha ordenado.",
+        "Nas varas, sobre os carros, como Moisés tinha ordenado.",
+        "Nas varas, sobre os ombros, como Josué tinha ordenado."
       ]
     },
     {
@@ -779,7 +779,7 @@
       "wrongs": [
         "Da casa de Abinadabe.",
         "Do alto de Gibeom.",
-        "De Siló."
+        "Da casa do levita Uzá."
       ]
     },
     {
@@ -809,7 +809,7 @@
       "wrongs": [
         "No templo que Salomão já tinha acabado.",
         "No carro novo, no meio da procissão.",
-        "De volta à casa de Abinadabe."
+        "Na casa de Obede-Edom, no caminho."
       ]
     },
     {
@@ -822,7 +822,7 @@
       "answer": "No alto de Gibeom, junto ao tabernáculo.",
       "reference": "1Cr 16:39",
       "wrongs": [
-        "Em Hebrom, junto ao palácio.",
+        "No alto de Hebrom, junto ao palácio.",
         "Em Betel, junto ao altar de ouro.",
         "Em Siló, junto à tenda antiga."
       ]
@@ -837,9 +837,9 @@
       "answer": "Um pão, um bom pedaço de carne e um frasco de vinho.",
       "reference": "1Cr 16:3",
       "wrongs": [
-        "Ouro, prata e um manto.",
-        "Só uma bênção, sem comida.",
-        "Azeite, mel e um cordeiro."
+        "Um pão, um pedaço de queijo e um cântaro de água.",
+        "Um pão, um bolo de passas e um cacho de uvas.",
+        "Um bolo de figos, um cacho de uvas e um odre de leite."
       ]
     },
     {
@@ -852,9 +852,9 @@
       "answer": "Que ele construiria a casa e o trono ficaria firme para sempre.",
       "reference": "1Cr 17:12",
       "wrongs": [
-        "Que Davi a construiria e o trono acabaria com o filho.",
-        "Que o filho só guerrearia e a casa ficaria para outro.",
-        "Que ninguém a construiria e o trono passaria a Saul."
+        "Que ele construiria a casa e o trono ficaria firme por um tempo.",
+        "Que ele construiria a casa e o trono passaria ao irmão.",
+        "Que ele construiria a casa e o trono passaria a Davi."
       ]
     },
     {
@@ -897,9 +897,9 @@
       "answer": "Venceu-os e tomou Gate com os povoados.",
       "reference": "1Cr 18:1",
       "wrongs": [
-        "Perdeu para eles e entregou Gate.",
-        "Fez paz e devolveu Gate.",
-        "Venceu-os e tomou só Gaza."
+        "Venceu-os e tomou Gaza com os povoados.",
+        "Venceu-os e tomou Asquelom com os povoados.",
+        "Venceu-os e tomou Ecrom com os povoados."
       ]
     },
     {
@@ -927,9 +927,9 @@
       "answer": "Mil; dos cavalos, deixou só os de cem carros.",
       "reference": "1Cr 18:4",
       "wrongs": [
-        "Cem; dos cavalos, não deixou nenhum.",
-        "Sete mil carros; dos cavalos, deixou os de mil.",
-        "Vinte mil carros; dos cavalos, deixou todos."
+        "Cem; dos cavalos, deixou só os de dez carros.",
+        "Sete mil; dos cavalos, deixou só os de mil carros.",
+        "Vinte mil; dos cavalos, deixou só os de cem carros."
       ]
     },
     {
@@ -942,9 +942,9 @@
       "answer": "Rapou-os, cortou a roupa no meio e os mandou embora.",
       "reference": "1Cr 19:4",
       "wrongs": [
-        "Recebeu-os, vestiu-os de festa e os honrou.",
-        "Prendeu-os, queimou a roupa e os vendeu.",
-        "Uniu-os, deu-lhes ouro e os fez embaixadores."
+        "Rapou-os, cortou a roupa no meio e os reteve em Rabá.",
+        "Rapou só a barba, cortou a roupa no meio e os mandou embora.",
+        "Rapou-os, rasgou a roupa toda e os mandou embora."
       ]
     },
     {
@@ -987,9 +987,9 @@
       "answer": "A coroa de ouro do rei, com pedras preciosas.",
       "reference": "1Cr 20:2",
       "wrongs": [
-        "O elmo de ferro do rei, sem pedra alguma.",
-        "A arca de Deus, coberta de ouro.",
-        "Um manto de linho, sem coroa."
+        "A coroa de prata do rei, com pedras preciosas.",
+        "A coroa de ouro do príncipe, com pedras preciosas.",
+        "A coroa de ouro do rei, com pedras comuns."
       ]
     },
     {
@@ -1017,9 +1017,9 @@
       "answer": "Vinte e quatro: um a mais em cada mão e cada pé.",
       "reference": "1Cr 20:6",
       "wrongs": [
-        "Vinte: só os dedos comuns.",
-        "Doze: seis em cada mão.",
-        "Trinta: um a mais só nos pés."
+        "Vinte e dois: um a mais em cada mão e cada pé.",
+        "Vinte e seis: um a mais em cada mão e cada pé.",
+        "Trinta: dois a mais em cada mão e cada pé."
       ]
     },
     {
@@ -1032,9 +1032,9 @@
       "answer": "Uma peste, e caíram setenta mil homens.",
       "reference": "1Cr 21:14",
       "wrongs": [
-        "Uma fome, e caíram sete mil homens.",
-        "Uma guerra, e caíram setecentos homens.",
-        "Uma seca, e ninguém caiu."
+        "Uma fome, e caíram setenta mil homens.",
+        "Uma guerra, e caíram setenta mil homens.",
+        "Uma peste, e caíram sete mil homens."
       ]
     },
     {
@@ -1048,8 +1048,8 @@
       "reference": "1Cr 21:1",
       "wrongs": [
         "Joabe.",
-        "O profeta Gade.",
-        "O povo de Israel."
+        "Gade.",
+        "Abner."
       ]
     },
     {
@@ -1062,7 +1062,7 @@
       "answer": "Na eira de Ornã, o jebuseu.",
       "reference": "1Cr 21:18",
       "wrongs": [
-        "No monte Sinai.",
+        "Na casa de Ornã, o jebuseu.",
         "Na eira de Boaz, em Belém.",
         "No alto de Gibeom."
       ]
@@ -1107,7 +1107,7 @@
       "answer": "Porque Deus daria paz a Israel nos dias dele.",
       "reference": "1Cr 22:9",
       "wrongs": [
-        "Porque Deus daria guerra a Israel nos dias dele.",
+        "Porque Deus daria paz a Judá nos dias dele.",
         "Porque a mãe pediu esse nome no templo.",
         "Porque Davi queria lembrar uma vitória."
       ]
@@ -1168,8 +1168,8 @@
       "reference": "1Cr 23:3",
       "wrongs": [
         "Vinte e quatro mil.",
-        "Quatro mil.",
-        "Oito mil."
+        "Vinte e oito mil.",
+        "Cinquenta mil."
       ]
     },
     {
@@ -1197,9 +1197,9 @@
       "answer": "Dezesseis.",
       "reference": "1Cr 24:4",
       "wrongs": [
-        "Oito.",
+        "Dezoito.",
         "Vinte e quatro.",
-        "Doze."
+        "Quatorze."
       ]
     },
     {
@@ -1227,8 +1227,8 @@
       "answer": "Duzentos e oitenta e oito.",
       "reference": "1Cr 25:7",
       "wrongs": [
-        "Duzentos e doze.",
-        "Vinte e quatro.",
+        "Duzentos e oitenta e dois.",
+        "Duzentos e quarenta.",
         "Cento e cinquenta."
       ]
     },
@@ -1287,9 +1287,9 @@
       "answer": "Na sorte, tanto os pequenos como os grandes.",
       "reference": "1Cr 26:13",
       "wrongs": [
-        "Pela idade, só os grandes na frente.",
-        "Pela força, sem os pequenos.",
-        "Pela escolha do rei, sem sorte."
+        "Pela idade, tanto os pequenos como os grandes.",
+        "Pela ordem das famílias, tanto os pequenos como os grandes.",
+        "Pelo voto do rei, tanto os pequenos como os grandes."
       ]
     },
     {
@@ -1347,9 +1347,9 @@
       "answer": "Construir a casa e os átrios dele.",
       "reference": "1Cr 28:6",
       "wrongs": [
-        "Reinar no lugar de Davi e deixar a casa para outro.",
-        "Guardar a arca e não construir nada.",
-        "Contar o povo e levantar um altar em Gibeom."
+        "Construir o palácio e as muralhas dele.",
+        "Construir a arca e o tabernáculo dele.",
+        "Construir o altar e o pátio dele."
       ]
     },
     {
@@ -1377,9 +1377,9 @@
       "answer": "A planta do alpendre e da casa do propiciatório.",
       "reference": "1Cr 28:11",
       "wrongs": [
-        "Só o ouro e a prata, sem desenho algum.",
-        "A arca já pronta, para ele apenas guardar.",
-        "Uma ordem falada, sem planta nem medida."
+        "A planta do altar e da casa do rei.",
+        "A planta do templo e do palácio real.",
+        "A planta do alpendre e do pátio dos sacerdotes."
       ]
     },
     {
@@ -1392,9 +1392,9 @@
       "answer": "Morreu velho, rico e honrado, e Salomão reinou no lugar dele.",
       "reference": "1Cr 29:28",
       "wrongs": [
-        "Morreu jovem, pobre e esquecido, e Adonias reinou no lugar dele.",
-        "Morreu no exílio, sem honra, e Joabe reinou no lugar dele.",
-        "Morreu na guerra, sem túmulo, e Absalão reinou no lugar dele."
+        "Morreu velho, rico e honrado, e Adonias reinou no lugar dele.",
+        "Morreu velho, rico e temido, e Salomão reinou no lugar dele.",
+        "Morreu velho, rico e sozinho, e Salomão reinou no lugar dele."
       ]
     },
     {
@@ -1422,9 +1422,9 @@
       "answer": "De livre vontade e com o coração perfeito.",
       "reference": "1Cr 29:9",
       "wrongs": [
-        "Por obrigação e com o coração dividido.",
-        "Só o rei deu; o povo ficou de fora.",
-        "Com tristeza, porque o imposto era pesado."
+        "De livre vontade e com o coração humilde.",
+        "De livre vontade e com o coração quebrantado.",
+        "De livre vontade e com o coração cheio de temor."
       ]
     },
     {

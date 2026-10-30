@@ -9,9 +9,9 @@
       "prompt": "Por que Daniel recusou a comida do rei da Babilônia?",
       "answer": "Para não se contaminar com ela nem com o vinho.",
       "wrongs": [
-        "Para não engordar com ela nem com o mel.",
-        "Para não pagar por ela nem pelo ouro.",
-        "Para não dividi-la com os magos do palácio."
+        "Para não se contaminar com ela nem com o mel.",
+        "Para não se contaminar com ela nem com o sangue.",
+        "Para não se contaminar com ela nem com os ídolos."
       ],
       "reference": "Dn 1:8"
     },
@@ -69,9 +69,9 @@
       "prompt": "Que reino Deus levanta no sonho de Nabucodonosor?",
       "answer": "Um reino eterno, que não muda de povo.",
       "wrongs": [
-        "Um reino breve, que muda de povo.",
-        "Um reino de ferro, que se parte no fim.",
-        "Um reino de barro, que seca ao sol."
+        "Um reino de prata, que não muda de povo.",
+        "Um reino de ferro, que não muda de povo.",
+        "Um reino de barro, que não muda de povo."
       ],
       "reference": "Dn 2:44"
     },
@@ -130,7 +130,7 @@
       "answer": "O Deus deles, ao enviar um anjo.",
       "wrongs": [
         "O rei, ao apagar o fogo com água.",
-        "A chuva, ao cair sobre a fornalha.",
+        "Os príncipes, ao ordenarem que saíssem.",
         "Os guardas, ao tirá-los com ganchos."
       ],
       "reference": "Dn 3:28"
@@ -144,9 +144,9 @@
       "prompt": "Quem não adorou a estátua de ouro de Nabucodonosor?",
       "answer": "Sadraque, Mesaque e Abednego.",
       "wrongs": [
-        "Daniel, Ezequiel e Baruque.",
-        "Os magos, os caldeus e os astrólogos.",
-        "O rei, o copeiro e o governador."
+        "Daniel, Jeremias e Ezequiel.",
+        "Baruque, Ageu e Zacarias.",
+        "Josué, Zorobabel e Esdras."
       ],
       "reference": "Dn 3:12"
     },
@@ -161,7 +161,7 @@
       "wrongs": [
         "No campo de Dotã, em terra de Israel.",
         "No vale do Jordão, em terra de Canaã.",
-        "Na planície de Megido, em terra de Israel."
+        "Na planície de Megido, em terra de Edom."
       ],
       "reference": "Dn 3:1"
     },
@@ -191,7 +191,7 @@
       "wrongs": [
         "Comeu pão no palácio, e a barba cresceu como linho.",
         "Bebeu água no rio, e a pele ficou como bronze.",
-        "Dormiu na torre, e o manto rasgou como rede."
+        "Andou no campo, e os cabelos caíram como folhas."
       ],
       "reference": "Dn 4:33"
     },
@@ -205,7 +205,7 @@
       "answer": "Daniel, também chamado Beltessazar.",
       "wrongs": [
         "Sadraque, também chamado Hananias.",
-        "Os magos, também chamados caldeus.",
+        "Eliaquim, também chamado Jeoaquim.",
         "Ezequiel, também chamado filho de Buzi."
       ],
       "reference": "Dn 4:8"
@@ -249,7 +249,7 @@
       "prompt": "O que surgiu na parede no banquete de Belsazar?",
       "answer": "Dedos de uma mão, escrevendo.",
       "wrongs": [
-        "Uma espada de fogo, cortando.",
+        "Uma pena de fogo, escrevendo.",
         "Um cálice de ouro, rachando.",
         "Um selo real, caindo."
       ],
@@ -266,7 +266,7 @@
       "wrongs": [
         "Mesaque, cujo nome hebraico era Misael.",
         "Abednego, cujo nome hebraico era Azarias.",
-        "Um mago, cujo nome babilônico era Bel."
+        "Misael, cujo nome babilônico era Abednego."
       ],
       "reference": "Dn 5:12"
     },
@@ -309,7 +309,7 @@
       "prompt": "Por que os leões não feriram Daniel?",
       "answer": "Porque um anjo fechou a boca deles.",
       "wrongs": [
-        "Porque os leões já estavam mortos.",
+        "Porque os leões estavam saciados de caça.",
         "Porque Daniel levou um escudo.",
         "Porque o rei os alimentou antes."
       ],
@@ -369,9 +369,9 @@
       "prompt": "Até quando dura o reino dado na visão de Daniel?",
       "answer": "Para sempre; ele não será destruído.",
       "wrongs": [
-        "Por um tempo; ele será dividido.",
-        "Por setenta anos; ele será esquecido.",
-        "Até a quarta besta; ele será queimado."
+        "Por setenta anos; ele não será destruído.",
+        "Até a quarta besta; ele não será destruído.",
+        "Por mil anos; ele não será destruído."
       ],
       "reference": "Dn 7:14"
     },
@@ -399,9 +399,9 @@
       "prompt": "De onde saíram os quatro animais que Daniel viu?",
       "answer": "Do mar.",
       "wrongs": [
-        "Da terra.",
+        "Do abismo.",
         "Do céu.",
-        "Do templo."
+        "Do deserto."
       ],
       "reference": "Dn 7:3"
     },
@@ -431,8 +431,8 @@
       "answer": "Reis medos e persas, e o rei da Grécia.",
       "wrongs": [
         "Reis do Egito e de Cuxe, e o rei de Edom.",
-        "A Assíria e a Babilônia, e o rei de Tiro.",
-        "Judá e Israel, e o rei da Assíria."
+        "Reis da Assíria e da Babilônia, e o rei de Tiro.",
+        "Reis de Judá e de Israel, e o rei da Assíria."
       ],
       "reference": "Dn 8:20-21"
     },
@@ -462,7 +462,7 @@
       "wrongs": [
         "Em Babilônia, à beira do Eufrates.",
         "Em Ecbatana, à beira de um canal.",
-        "No Quebar, à beira do rio dos exilados."
+        "Em Tel-Abibe, à beira do rio Quebar."
       ],
       "reference": "Dn 8:2"
     },
@@ -506,8 +506,8 @@
       "answer": "Gabriel.",
       "wrongs": [
         "Miguel.",
-        "Um querubim.",
-        "O Ancião de dias."
+        "Rafael.",
+        "Uriel."
       ],
       "reference": "Dn 9:21"
     },
@@ -566,8 +566,8 @@
       "answer": "Miguel.",
       "wrongs": [
         "Gabriel.",
-        "O príncipe da Pérsia.",
-        "O príncipe da Grécia."
+        "Rafael.",
+        "Uriel."
       ],
       "reference": "Dn 10:13"
     },
@@ -595,9 +595,9 @@
       "prompt": "Por quanto tempo Daniel ficou de luto?",
       "answer": "Por três semanas completas.",
       "wrongs": [
-        "Por três dias.",
+        "Por três dias de luto.",
         "Por quarenta dias.",
-        "Por sete dias."
+        "Por sete dias completos."
       ],
       "reference": "Dn 10:2"
     },
@@ -627,7 +627,7 @@
       "wrongs": [
         "A de Edom.",
         "A de Moabe.",
-        "A dos filhos de Amom."
+        "A de Amom."
       ],
       "reference": "Dn 11:42"
     },
@@ -655,9 +655,9 @@
       "prompt": "Para onde se reparte o reino quebrado em Daniel?",
       "answer": "Para os quatro ventos, e não para a posteridade dele.",
       "wrongs": [
-        "Para os filhos dele, e não para os generais.",
-        "Para um só herdeiro, e não para os ventos.",
-        "Para o rei do sul, e não para mais ninguém."
+        "Para os quatro generais, e não para a posteridade dele.",
+        "Para os filhos dele, e não para os quatro ventos.",
+        "Para os quatro ventos, e não para um só herdeiro."
       ],
       "reference": "Dn 11:4"
     },
@@ -670,9 +670,9 @@
       "prompt": "O que vem sobre muitos que dormem no pó, em Daniel?",
       "answer": "Uma parte viverá para sempre; outra ficará na vergonha.",
       "wrongs": [
-        "Todos viverão para sempre, e ninguém ficará na vergonha.",
-        "Todos ficarão no pó, e ninguém voltará à vida.",
-        "Uma parte voltará a dormir; outra reinará na terra."
+        "Uma parte viverá para sempre; outra herdará a terra.",
+        "Uma parte reinará com os santos; outra servirá aos reis.",
+        "Uma parte acordará para a vida; outra voltará ao pó."
       ],
       "reference": "Dn 12:2"
     },
@@ -717,7 +717,7 @@
       "wrongs": [
         "Trezentos e noventa dias.",
         "Quarenta e dois dias.",
-        "Sete dias."
+        "Sete dias completos."
       ],
       "reference": "Dn 12:11"
     },

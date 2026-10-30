@@ -10,9 +10,9 @@
       "answer": "A lagarta, o gafanhoto, a locusta e o pulgão.",
       "reference": "Jl 1:4",
       "wrongs": [
-        "O granizo, numa noite, até acabar o trigo.",
-        "A seca, por anos, até secar o ribeiro.",
-        "O fogo, no campo, até queimar a palha."
+        "A lagarta, o gafanhoto, a locusta e a mosca.",
+        "A lagarta, o gafanhoto, o besouro e o pulgão.",
+        "A lagarta, a mosca, a locusta e o pulgão."
       ]
     },
     {
@@ -42,7 +42,7 @@
       "wrongs": [
         "Na praça do mercado.",
         "Na porta da cidade.",
-        "No vale de Josafá."
+        "Na casa do rei."
       ]
     },
     {
@@ -72,7 +72,7 @@
       "wrongs": [
         "A chuva, e os campos voltam a produzir.",
         "O juízo, e os velhos ficam calados.",
-        "O medo, e ninguém mais volta a sonhar."
+        "O sono, e os velhos passam a ter sonhos."
       ]
     },
     {
@@ -100,9 +100,9 @@
       "answer": "O coração, e não as vestes.",
       "reference": "Jl 2:13",
       "wrongs": [
-        "As vestes, e não o coração.",
-        "O manto, e não o jejum.",
-        "A aliança, e não a oferta."
+        "O coração, e não o manto.",
+        "O coração, e não o jejum.",
+        "O coração, e não a oferta."
       ]
     },
     {
@@ -115,9 +115,9 @@
       "answer": "O sol vira trevas e a lua vira sangue.",
       "reference": "Jl 2:31",
       "wrongs": [
-        "O sol vira sangue e a lua vira ouro.",
-        "O sol fica claro e a lua desaparece.",
-        "O sol avança e a lua recua no céu."
+        "O sol vira sangue e a lua vira trevas.",
+        "O sol vira trevas e a lua vira fogo.",
+        "O sol vira cinzas e a lua vira sangue."
       ]
     },
     {
@@ -176,7 +176,7 @@
       "reference": "Jl 3:18",
       "wrongs": [
         "Sangue dos montes, e fumaça dos outeiros.",
-        "Água salgada dos montes, e poeira dos vales.",
+        "Água salgada dos montes, e poeira dos outeiros.",
         "Azeite dos montes, e cinza dos outeiros."
       ]
     },
@@ -205,8 +205,8 @@
       "answer": "A data é incerta. Muitos a põem antes do exílio.",
       "reference": "Joel",
       "wrongs": [
-        "A data é certa. O livro é do reinado de Davi.",
-        "A data é certa. O livro é do século I depois de Cristo.",
+        "A data é incerta. Muitos a põem no tempo de Davi.",
+        "A data é incerta. Muitos a põem no tempo de Moisés.",
         "A data é incerta. Muitos a põem no tempo de Abraão."
       ]
     }

@@ -10,9 +10,9 @@
       "answer": "Que ela teria um filho e o chamaria de Jesus.",
       "reference": "Lc 1:31",
       "wrongs": [
-        "Que ela ficaria viúva ainda jovem.",
-        "Que o filho dela reinaria em Roma.",
-        "Que Isabel é quem daria à luz Jesus."
+        "Que ela teria um filho e o chamaria de João.",
+        "Que ela teria um filho e o chamaria de Zacarias.",
+        "Que ela teria uma filha e a chamaria de Maria."
       ]
     },
     {
@@ -55,8 +55,8 @@
       "answer": "Escreveu numa tábua que o nome era João.",
       "reference": "Lc 1:63",
       "wrongs": [
-        "Falou em voz alta que o nome era Elias.",
-        "Fez um sinal pedindo o nome do pai.",
+        "Escreveu numa tábua que o nome era Elias.",
+        "Escreveu numa tábua que o nome era Zacarias.",
         "Escreveu numa tábua que o nome era Jesus."
       ]
     },
@@ -70,9 +70,9 @@
       "answer": "Numa manjedoura, porque não havia lugar na estalagem.",
       "reference": "Lc 2:7",
       "wrongs": [
-        "Num berço do palácio de Herodes.",
-        "Num quarto da hospedaria, já pago.",
-        "No templo, sobre o altar."
+        "Num berço, porque não havia lugar na estalagem.",
+        "Numa manjedoura, porque não havia lugar na casa.",
+        "Numa manjedoura, porque não havia lugar na cidade."
       ]
     },
     {
@@ -130,9 +130,9 @@
       "answer": "O Espírito Santo, em forma de pomba.",
       "reference": "Lc 3:22",
       "wrongs": [
-        "Uma nuvem, cobrindo o rio.",
-        "Fogo, em línguas sobre ele.",
-        "Um anjo, descendo em silêncio."
+        "O Espírito Santo, em forma de fogo.",
+        "O Espírito Santo, em forma de nuvem.",
+        "O Espírito Santo, em forma de vento."
       ]
     },
     {
@@ -160,9 +160,9 @@
       "answer": "Na região ao redor do Jordão.",
       "reference": "Lc 3:3",
       "wrongs": [
-        "No mar da Galileia.",
-        "No deserto da Síria.",
-        "No tanque de Siloé."
+        "Na região ao redor do mar da Galileia.",
+        "Na região ao redor de Jericó.",
+        "Na região ao redor de Samaria."
       ]
     },
     {
@@ -177,7 +177,7 @@
       "wrongs": [
         "Com cerca de vinte anos.",
         "Com cerca de quarenta anos.",
-        "Com doze anos."
+        "Com cerca de cinquenta anos."
       ]
     },
     {
@@ -190,9 +190,9 @@
       "answer": "O diabo, ao longo de quarenta dias.",
       "reference": "Lc 4:2",
       "wrongs": [
-        "Os fariseus, durante uma semana.",
-        "Pedro, logo depois do batismo.",
-        "Um anjo, por três dias."
+        "O diabo, ao longo de sete dias.",
+        "O diabo, ao longo de trinta dias.",
+        "O diabo, ao longo de doze dias."
       ]
     },
     {
@@ -207,7 +207,7 @@
       "wrongs": [
         "Pedro.",
         "Moisés.",
-        "Um anjo."
+        "Elias."
       ]
     },
     {
@@ -235,9 +235,9 @@
       "answer": "Jogá-lo monte abaixo, para fora da cidade.",
       "reference": "Lc 4:29",
       "wrongs": [
-        "Coroá-lo rei na praça.",
-        "Levá-lo preso ao sinédrio.",
-        "Expulsá-lo só com um discurso."
+        "Apedrejá-lo ali mesmo, para fora da cidade.",
+        "Prendê-lo à força, para fora da cidade.",
+        "Arrastá-lo ao tribunal, para fora da cidade."
       ]
     },
     {
@@ -250,9 +250,9 @@
       "answer": "Homens, dali em diante.",
       "reference": "Lc 5:10",
       "wrongs": [
-        "Moedas, dali em diante.",
-        "Redes maiores, dali em diante.",
-        "Só peixes, e em maior número."
+        "Redes, dali em diante.",
+        "Barcos, dali em diante.",
+        "Moedas, dali em diante."
       ]
     },
     {
@@ -295,9 +295,9 @@
       "answer": "Desceram ele pelo telhado, no meio da casa.",
       "reference": "Lc 5:19",
       "wrongs": [
-        "Entrou pela porta dos fundos.",
-        "Esperou Jesus sair à rua.",
-        "Foi carregado até a sinagoga."
+        "Desceram ele pela escada, no meio da casa.",
+        "Desceram ele pela janela, no meio da casa.",
+        "Desceram ele pelo alçapão, no meio da casa."
       ]
     },
     {
@@ -355,9 +355,9 @@
       "answer": "Ficou boa como a outra.",
       "reference": "Lc 6:10",
       "wrongs": [
-        "Continuou mirrada.",
-        "Inchou e doeu mais.",
-        "Secou por completo."
+        "Ficou boa no dia seguinte.",
+        "Ficou boa depois do sábado.",
+        "Ficou boa só na aparência."
       ]
     },
     {
@@ -370,9 +370,9 @@
       "answer": "Levantou o morto e o entregou de volta à mãe.",
       "reference": "Lc 7:15",
       "wrongs": [
-        "Consolou a mãe, e o filho ficou morto.",
-        "Ungiu o corpo e o mandou sepultar.",
-        "O jovem sentou, mas não voltou à mãe."
+        "Levantou o doente e o entregou de volta à mãe.",
+        "Levantou o morto e o entregou aos discípulos.",
+        "Levantou o morto e o entregou aos vizinhos."
       ]
     },
     {
@@ -416,8 +416,8 @@
       "reference": "Lc 7:41",
       "wrongs": [
         "Um devia dez dinheiros, e o outro um.",
-        "Os dois deviam a mesma quantia.",
-        "Um devia mil dinheiros, e o outro nada."
+        "Um devia cem dinheiros, e o outro dez.",
+        "Um devia mil dinheiros, e o outro cem."
       ]
     },
     {
@@ -430,9 +430,9 @@
       "answer": "Fez o vento e a água pararem, e o lago acalmou.",
       "reference": "Lc 8:24",
       "wrongs": [
-        "Pediu que remassem até a margem.",
-        "A água subiu, e o barco virou.",
-        "Esperou a tempestade passar sozinha."
+        "Fez a chuva e a água pararem, e o lago acalmou.",
+        "Fez o vento e a chuva pararem, e o lago acalmou.",
+        "Fez as nuvens e o vento pararem, e o lago acalmou."
       ]
     },
     {
@@ -461,8 +461,8 @@
       "reference": "Lc 8:26",
       "wrongs": [
         "Na terra dos samaritanos.",
-        "Nas colinas de Jericó.",
-        "Nas praias de Tiro."
+        "Na terra dos amonitas.",
+        "Na terra dos moabitas."
       ]
     },
     {
@@ -477,7 +477,7 @@
       "wrongs": [
         "Belzebu.",
         "Satanás.",
-        "Mudo."
+        "Belial."
       ]
     },
     {
@@ -490,9 +490,9 @@
       "answer": "Com cinco pães e dois peixes.",
       "reference": "Lc 9:16",
       "wrongs": [
-        "Com sete pães e alguns peixes.",
-        "Com doze cestos já cheios.",
-        "Com maná recolhido de manhã."
+        "Com sete pães e dois peixes.",
+        "Com cinco pães e doze peixes.",
+        "Com cinco pães e sete peixes."
       ]
     },
     {
@@ -580,9 +580,9 @@
       "answer": "De Jerusalém para Jericó.",
       "reference": "Lc 10:30",
       "wrongs": [
-        "De Jericó para Jerusalém.",
+        "De Betel para Jericó.",
         "De Nazaré para Cafarnaum.",
-        "De Belém para o Egito."
+        "De Jerusalém para Emaús."
       ]
     },
     {
@@ -596,8 +596,8 @@
       "reference": "Lc 10:35",
       "wrongs": [
         "Cinco dinheiros.",
-        "Um talento.",
-        "Dez moedas de prata."
+        "Dez dinheiros.",
+        "Vinte dinheiros."
       ]
     },
     {
@@ -610,9 +610,9 @@
       "answer": "A orar, como João ensinava os dele.",
       "reference": "Lc 11:1",
       "wrongs": [
-        "A jejuar duas vezes por semana.",
-        "A ler a Lei em voz alta.",
-        "A oferecer um cordeiro no templo."
+        "A orar, como Moisés ensinava os dele.",
+        "A orar, como Elias ensinava os dele.",
+        "A orar, como os fariseus ensinavam os seus."
       ]
     },
     {
@@ -670,9 +670,9 @@
       "answer": "Que naquela noite lhe pediriam a alma.",
       "reference": "Lc 12:20",
       "wrongs": [
-        "Que os celeiros novos durariam cem anos.",
-        "Que ele devia construir mais um.",
-        "Que a colheita seria dobrada de manhã."
+        "Que naquele mês lhe pediriam a alma.",
+        "Que naquele ano lhe pediriam a alma.",
+        "Que naquela semana lhe pediriam a alma."
       ]
     },
     {
@@ -700,9 +700,9 @@
       "answer": "Por dois asses.",
       "reference": "Lc 12:6",
       "wrongs": [
-        "Por um denário.",
-        "Por cinco moedas de prata.",
-        "Por uma moeda de ouro."
+        "Por cinco asses.",
+        "Por dez asses.",
+        "Por um asse."
       ]
     },
     {
@@ -715,9 +715,9 @@
       "answer": "Ela se endireitou na hora e louvou a Deus.",
       "reference": "Lc 13:13",
       "wrongs": [
-        "Ela continuou curvada e saiu em silêncio.",
-        "Ela caiu e não conseguiu levantar.",
-        "A dor passou, mas as costas não mudaram."
+        "Ela se endireitou no dia seguinte e louvou a Deus.",
+        "Ela se endireitou depois do sábado e louvou a Deus.",
+        "Ela se endireitou naquela semana e louvou a Deus."
       ]
     },
     {
@@ -747,7 +747,7 @@
       "wrongs": [
         "Em Betesda.",
         "Em Jericó.",
-        "No monte das Oliveiras."
+        "Em Betânia."
       ]
     },
     {
@@ -775,9 +775,9 @@
       "answer": "Curou-o e o mandou embora.",
       "reference": "Lc 14:4",
       "wrongs": [
-        "Mandou que ele voltasse no dia seguinte.",
-        "O inchaço aumentou, e ele ficou.",
-        "Só lhe deu um conselho e água."
+        "Curou-o e o mandou ao templo.",
+        "Curou-o e o mandou aos sacerdotes.",
+        "Curou-o e o mandou a Jerusalém."
       ]
     },
     {
@@ -790,9 +790,9 @@
       "answer": "Pobres, aleijados, mancos e cegos.",
       "reference": "Lc 14:21",
       "wrongs": [
-        "Os amigos ricos e os parentes próximos.",
-        "Os convidados que tinham recusado antes.",
-        "Só os servos da própria casa."
+        "Pobres, doentes, viúvas e órfãos.",
+        "Pobres, famintos, mancos e cegos.",
+        "Aleijados, mancos, cegos e surdos."
       ]
     },
     {
@@ -806,8 +806,8 @@
       "reference": "Lc 14:19",
       "wrongs": [
         "Ia experimentar dez juntas de bois.",
-        "Ia vender uma junta de bois.",
-        "Precisava casar naquela tarde."
+        "Ia experimentar uma junta de bois.",
+        "Ia experimentar cem juntas de bois."
       ]
     },
     {
@@ -820,9 +820,9 @@
       "answer": "Correu ao encontro, abraçou o filho e o beijou.",
       "reference": "Lc 15:20",
       "wrongs": [
-        "Esperou sentado e mandou um servo.",
-        "Recusou a entrada e fechou a porta.",
-        "Cobrou a herança antes de abraçar."
+        "Correu ao encontro, abraçou o servo e o beijou.",
+        "Correu ao encontro, abraçou o filho e o repreendeu.",
+        "Esperou na porta, abraçou o filho e o beijou."
       ]
     },
     {
@@ -835,9 +835,9 @@
       "answer": "O bezerro cevado.",
       "reference": "Lc 15:23",
       "wrongs": [
-        "O cabrito que era do filho mais velho.",
-        "Uma ovelha tirada do rebanho.",
-        "O boi que puxava o arado."
+        "O cabrito cevado.",
+        "O boi cevado.",
+        "O cordeiro cevado."
       ]
     },
     {
@@ -867,7 +867,7 @@
       "wrongs": [
         "Para o palácio do rico.",
         "Para o sepulcro da família.",
-        "Para o templo, entre os sacerdotes."
+        "Para o seio de Isaque."
       ]
     },
     {
@@ -926,8 +926,8 @@
       "reference": "Lc 17:18",
       "wrongs": [
         "Os dez, todos juntos.",
-        "Nenhum deles.",
-        "Só o sacerdote que os tinha visto."
+        "Só dois estrangeiros.",
+        "Só um dos discípulos."
       ]
     },
     {
@@ -956,8 +956,8 @@
       "reference": "Lc 17:11",
       "wrongs": [
         "Ele cruzou a Judeia e a Pereia.",
-        "Ele ficou só na margem do Jordão.",
-        "Ele subiu direto pelo monte das Oliveiras."
+        "Ele cruzou a Galileia e a Judeia.",
+        "Ele cruzou a Samaria e a Pereia."
       ]
     },
     {
@@ -970,9 +970,9 @@
       "answer": "Da mulher de Ló.",
       "reference": "Lc 17:32",
       "wrongs": [
-        "De Noé.",
-        "De Abraão.",
-        "De Raabe."
+        "Da mulher de Noé.",
+        "Da mulher de Abraão.",
+        "Da mulher de Jacó."
       ]
     },
     {
@@ -985,9 +985,9 @@
       "answer": "Vender tudo, dar aos pobres e seguir Jesus.",
       "reference": "Lc 18:22",
       "wrongs": [
-        "Jejuar duas vezes e dar o dízimo.",
-        "Subir ao templo três vezes por ano.",
-        "Aprender a Lei com os escribas."
+        "Vender tudo, dar aos pobres e seguir os apóstolos.",
+        "Vender metade, dar aos pobres e seguir Jesus.",
+        "Vender tudo, dar aos pobres e seguir a Lei."
       ]
     },
     {
@@ -1030,9 +1030,9 @@
       "answer": "Um camelo entrar pelo fundo de uma agulha.",
       "reference": "Lc 18:25",
       "wrongs": [
-        "Um cavalo passar pela porta da cidade.",
-        "Um fio passar no fundo da agulha.",
-        "Uma ovelha entrar no curral à noite."
+        "Um cavalo entrar pelo fundo de uma agulha.",
+        "Um fio entrar pelo fundo de uma agulha.",
+        "Uma ovelha entrar pelo fundo de uma agulha."
       ]
     },
     {
@@ -1060,9 +1060,9 @@
       "answer": "O chefe dos publicanos, e era rico.",
       "reference": "Lc 19:2",
       "wrongs": [
-        "Um pescador pobre de Jericó.",
-        "O centurião daquela cidade.",
-        "Um sacerdote de folga."
+        "O chefe dos pescadores, e era rico.",
+        "O chefe dos sacerdotes, e era rico.",
+        "O chefe dos publicanos, e era jovem."
       ]
     },
     {
@@ -1090,9 +1090,9 @@
       "answer": "Devolver quatro vezes mais.",
       "reference": "Lc 19:8",
       "wrongs": [
-        "Devolver só a metade.",
-        "Pedir desculpas, sem devolver.",
-        "Dobrar a oferta no templo."
+        "Devolver duas vezes mais.",
+        "Devolver três vezes mais.",
+        "Devolver cinco vezes mais."
       ]
     },
     {
@@ -1105,9 +1105,9 @@
       "answer": "Dar a César o que é de César, e a Deus o que é de Deus.",
       "reference": "Lc 20:25",
       "wrongs": [
-        "Guardar o imposto e não dar nada a César.",
-        "Dar tudo a César e nada a Deus.",
-        "Queimar a moeda e não dar nada a Deus."
+        "Dar a César o que é de César, e ao templo o que é do templo.",
+        "Dar a César o que é de César, e aos pobres o que é dos pobres.",
+        "Dar a César o que é de César, e ao sumo sacerdote o que é dele."
       ]
     },
     {
@@ -1165,9 +1165,9 @@
       "answer": "Nenhuma pedra ficaria em cima da outra.",
       "reference": "Lc 21:6",
       "wrongs": [
-        "As pedras seriam douradas de novo.",
-        "Só o véu interno seria rasgado.",
-        "O templo ficaria de pé para sempre."
+        "Nenhuma pedra ficaria em cima do alicerce.",
+        "Nenhuma pedra ficaria em cima do altar.",
+        "Nenhuma pedra ficaria em cima do muro."
       ]
     },
     {
@@ -1195,9 +1195,9 @@
       "answer": "Tudo o que tinha para se sustentar.",
       "reference": "Lc 21:4",
       "wrongs": [
-        "Só as duas moedinhas que lhe sobravam.",
-        "A metade do que ganhava no mês.",
-        "Nada. As mãos dela estavam vazias."
+        "Metade do que tinha para se sustentar.",
+        "Só o que sobrava para se sustentar.",
+        "Quase tudo o que tinha para se sustentar."
       ]
     },
     {
@@ -1210,9 +1210,9 @@
       "answer": "Chegou perto para beijá-lo.",
       "reference": "Lc 22:47",
       "wrongs": [
-        "Chegou de longe e apontou com a mão.",
-        "Ficou entre os guardas, sem se chegar.",
-        "Abraçou Pedro para confundir os soldados."
+        "Chegou perto para abraçá-lo.",
+        "Chegou perto para beijar Pedro.",
+        "Chegou perto para tocar o manto."
       ]
     },
     {
@@ -1227,7 +1227,7 @@
       "wrongs": [
         "João, uma vez.",
         "Tiago, duas vezes.",
-        "Judas, diante do conselho."
+        "André, quatro vezes."
       ]
     },
     {
@@ -1255,9 +1255,9 @@
       "answer": "Parecia gotas de sangue caindo até o chão.",
       "reference": "Lc 22:44",
       "wrongs": [
-        "Parecia orvalho seco sobre a testa.",
-        "Parecia lágrimas comuns no rosto.",
-        "Parou de todo, e o rosto ficou seco."
+        "Parecia gotas de orvalho caindo até o chão.",
+        "Parecia gotas de chuva caindo até o chão.",
+        "Parecia lágrimas caindo até o chão."
       ]
     },
     {
@@ -1271,8 +1271,8 @@
       "reference": "Lc 23:33",
       "wrongs": [
         "No pátio do templo.",
-        "No Getsêmani.",
-        "Na porta de Jericó."
+        "No monte Getsêmani.",
+        "No caminho de Emaús."
       ]
     },
     {
@@ -1316,9 +1316,9 @@
       "answer": "Que naquele dia estariam juntos no paraíso.",
       "reference": "Lc 23:43",
       "wrongs": [
-        "Que ele sairia da cruz naquela tarde.",
-        "Que os dois se encontrariam no templo.",
-        "Que o crime seria esquecido pelo governador."
+        "Que naquele dia estariam juntos no templo.",
+        "Que naquele dia estariam juntos em Jerusalém.",
+        "Que naquele dia estariam juntos na glória."
       ]
     },
     {
@@ -1331,9 +1331,9 @@
       "answer": "Que ele não estava ali, pois já tinha ressuscitado.",
       "reference": "Lc 24:6",
       "wrongs": [
-        "Que o corpo tinha sido levado pelos guardas.",
-        "Que Jesus ainda dormia no sepulcro.",
-        "Que elas estavam no túmulo errado."
+        "Que ele não estava ali, pois ainda dormia.",
+        "Que ele não estava ali, pois foi levado pelos guardas.",
+        "Que ele não estava ali, pois elas erraram o túmulo."
       ]
     },
     {
@@ -1376,9 +1376,9 @@
       "answer": "Ele foi levado para o céu.",
       "reference": "Lc 24:51",
       "wrongs": [
-        "Ele ficou no monte e continuou a abençoar.",
-        "Ele voltou a pé para Jerusalém.",
-        "Uma nuvem desceu, e ele permaneceu."
+        "Ele foi levado para o deserto.",
+        "Ele foi levado para o monte.",
+        "Ele foi levado para a Galileia."
       ]
     },
     {
@@ -1391,9 +1391,9 @@
       "answer": "Lucas, o médico.",
       "reference": "Lucas",
       "wrongs": [
-        "Mateus.",
-        "Marcos.",
-        "Paulo."
+        "Mateus, o publicano.",
+        "Marcos, o discípulo.",
+        "Paulo, o apóstolo."
       ]
     },
     {
@@ -1407,8 +1407,8 @@
       "reference": "Lucas",
       "wrongs": [
         "Por volta do ano 90.",
-        "Antes do ano 40.",
-        "No século II."
+        "Por volta do ano 40.",
+        "Por volta do ano 30."
       ]
     }
   ]

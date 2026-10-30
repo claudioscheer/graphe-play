@@ -25,9 +25,9 @@
       "answer": "Não se deixar convencer por eles.",
       "reference": "Pv 1:10",
       "wrongs": [
-        "Ceder uma vez e guardar a paz.",
-        "Ouvir a maioria e ir junto.",
-        "Aceitar o convite se o lucro for grande."
+        "Não se deixar convencer pelos mais velhos.",
+        "Não se deixar convencer pelo temor do castigo.",
+        "Não se deixar convencer pela opinião dos vizinhos."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Da mulher estranha, que fala para seduzir.",
       "reference": "Pv 2:16",
       "wrongs": [
-        "Da mulher virtuosa, que fala com juízo.",
-        "Da mãe idosa, que corrige em casa.",
-        "Da filha do rei, que pede conselho."
+        "Da mulher vaidosa, que fala com doçura.",
+        "Da serva jovem, que fala sem cuidado.",
+        "Da mulher casada, que fala em segredo."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "Em Deus, e não no próprio entendimento.",
       "reference": "Pv 3:5",
       "wrongs": [
-        "Em si mesmo, e não em mais ninguém.",
+        "Nos anciãos, e não no próprio entendimento.",
         "Nos sábios, e não na própria família.",
-        "Na sorte, e não no trabalho diário."
+        "Nos príncipes, e não no próprio esforço."
       ]
     },
     {
@@ -85,7 +85,7 @@
       "answer": "A quem ele ama.",
       "reference": "Pv 3:12",
       "wrongs": [
-        "A quem ele rejeita.",
+        "A quem ele prova.",
         "A quem nunca o busca.",
         "A quem já é perfeito."
       ]
@@ -115,9 +115,9 @@
       "answer": "A uma luz que brilha cada vez mais.",
       "reference": "Pv 4:18",
       "wrongs": [
-        "A uma noite que fecha cada vez mais.",
-        "A uma estrada que some no mato.",
-        "A uma lâmpada que se apaga cedo."
+        "A uma tocha que aquece cada vez mais.",
+        "A uma estrela que guia cada vez mais.",
+        "A uma vereda que se estreita cada vez mais."
       ]
     },
     {
@@ -145,9 +145,9 @@
       "answer": "Fica mais amargo do que o absinto e corta feito espada.",
       "reference": "Pv 5:4",
       "wrongs": [
-        "Fica mais doce do que o mel e cura feito remédio.",
-        "Fica mais leve do que o vento e passa sem marca.",
-        "Fica mais claro do que o meio-dia e leva à festa."
+        "Fica mais amargo do que o fel e corta feito espada.",
+        "Fica mais amargo do que o vinagre e fere feito lâmina.",
+        "Fica mais amargo do que o absinto e queima feito fogo."
       ]
     },
     {
@@ -161,7 +161,7 @@
       "reference": "Pv 6:6",
       "wrongs": [
         "O leão, para ficar forte com o exemplo dele.",
-        "A águia, para ficar rico com o exemplo dela.",
+        "A águia, para ficar veloz com o exemplo dela.",
         "O cão, para ficar esperto com o exemplo dele."
       ]
     },
@@ -175,9 +175,9 @@
       "answer": "Sete. Ele também odeia outras seis.",
       "reference": "Pv 6:16",
       "wrongs": [
-        "Três. Ele também aceita outras duas.",
-        "Dez. Ele também ignora outras cinco.",
-        "Uma. Ele também perdoa as demais."
+        "Três. Ele também odeia outras duas.",
+        "Quatro. Ele também odeia outras três.",
+        "Dez. Ele também odeia outras cinco."
       ]
     },
     {
@@ -205,9 +205,9 @@
       "answer": "Para a morte.",
       "reference": "Pv 7:27",
       "wrongs": [
-        "Para a honra.",
-        "Para a riqueza.",
-        "Para o descanso."
+        "Para a pobreza.",
+        "Para a vergonha.",
+        "Para o exílio."
       ]
     },
     {
@@ -265,8 +265,8 @@
       "answer": "Que são doces, e que o pão escondido agrada.",
       "reference": "Pv 9:17",
       "wrongs": [
-        "Que são amargas, e que o pão escondido enjoa.",
-        "Que são caras, e que o pão aberto basta.",
+        "Que são caras, e que o pão escondido agrada.",
+        "Que são doces, e que o pão escondido sustenta.",
         "Que são proibidas, e que o pão alheio mata."
       ]
     },
@@ -280,9 +280,9 @@
       "answer": "Ao vinagre nos dentes e à fumaça nos olhos.",
       "reference": "Pv 10:26",
       "wrongs": [
-        "Ao mel na boca e à sombra fresca.",
-        "Ao pão quente e ao vinho novo.",
-        "Ao óleo fino e ao perfume leve."
+        "Ao fel nos dentes e à poeira nos olhos.",
+        "Ao vinagre na boca e à cinza nos olhos.",
+        "Ao vinagre nos lábios e à fumaça no quarto."
       ]
     },
     {
@@ -295,9 +295,9 @@
       "answer": "Cobre todos. O ódio só abre briga.",
       "reference": "Pv 10:12",
       "wrongs": [
-        "Conta todos. O ódio também perdoa.",
-        "Esquece o amigo. O ódio guarda a casa.",
-        "Cobra juros. O ódio paga a dívida."
+        "Cobre os amigos. O ódio só abre briga.",
+        "Cobre as faltas leves. O ódio só abre briga.",
+        "Cobre os pecados confessados. O ódio só abre briga."
       ]
     },
     {
@@ -310,9 +310,9 @@
       "answer": "A uma joia de ouro no focinho de uma porca.",
       "reference": "Pv 11:22",
       "wrongs": [
-        "A uma coroa na cabeça de uma rainha.",
-        "A um anel de ouro na mão do justo.",
-        "A uma flor no cabelo da noiva."
+        "A um anel de ouro no focinho de um cão.",
+        "A uma joia de ouro no pescoço de uma porca.",
+        "A uma joia de prata no focinho de uma porca."
       ]
     },
     {
@@ -325,7 +325,7 @@
       "answer": "A enganosa. O peso justo é o que lhe agrada.",
       "reference": "Pv 11:1",
       "wrongs": [
-        "A justa. O peso leve é o que lhe agrada.",
+        "A do mercador. O peso justo é o que lhe agrada.",
         "A antiga. O peso novo é o que lhe agrada.",
         "A pequena. O peso dobrado é o que lhe agrada."
       ]
@@ -355,9 +355,9 @@
       "answer": "A coroa dele. A que envergonha parece podridão nos ossos.",
       "reference": "Pv 12:4",
       "wrongs": [
-        "O peso dele. A que envergonha parece joia rara.",
-        "A dívida dele. A que envergonha parece perfume.",
-        "O medo dele. A que envergonha parece pão quente."
+        "O peso dele. A que envergonha parece ferida nos ossos.",
+        "A dívida dele. A que envergonha parece espinho na carne.",
+        "O laço dele. A que envergonha parece pedra no caminho."
       ]
     },
     {
@@ -370,9 +370,9 @@
       "answer": "Odeia o filho. Quem ama o castiga desde cedo.",
       "reference": "Pv 13:24",
       "wrongs": [
-        "Ama o filho. Quem corrige cedo o estraga.",
-        "Perde a casa. Quem poupa a vara enriquece.",
-        "Ganha descanso. Quem corrige cedo cria ódio."
+        "Esquece o filho. Quem ama o castiga desde cedo.",
+        "Repreende o filho. Quem ama corrige a tempo.",
+        "Abandona o filho. Quem ama não poupa a vara."
       ]
     },
     {
@@ -385,7 +385,7 @@
       "answer": "Desfalece o coração. O desejo atendido é árvore de vida.",
       "reference": "Pv 13:12",
       "wrongs": [
-        "Fortalece o coração. O desejo atendido parece fruto podre.",
+        "Endurece o coração. O desejo atendido é árvore de vida.",
         "Enriquece o coração. O desejo atendido parece fardo.",
         "Acalma o coração. O desejo atendido parece espinho."
       ]
@@ -400,9 +400,9 @@
       "answer": "Limpo, mas a força do boi traz colheita farta.",
       "reference": "Pv 14:4",
       "wrongs": [
-        "Cheio, mas a força do boi só suja o chão.",
+        "Cheio, mas a força do boi estraga a colheita.",
         "Vazio, e a força do boi não muda a safra.",
-        "Fechado, e a força do boi espalha o grão."
+        "Sem cocho, e a força do boi espalha o grão."
       ]
     },
     {
@@ -415,9 +415,9 @@
       "answer": "É como podridão. O sentimento sadio é vida para o corpo.",
       "reference": "Pv 14:30",
       "wrongs": [
-        "É como remédio. O sentimento sadio adoece o corpo.",
-        "É como mel. O sentimento sadio seca os ossos.",
-        "É como força. O sentimento sadio enfraquece."
+        "É como ferida. O sentimento sadio é vida para o corpo.",
+        "É como cansaço. O sentimento sadio é vida para o corpo.",
+        "É como mel. O sentimento sadio é vida para o corpo."
       ]
     },
     {
@@ -430,9 +430,9 @@
       "answer": "Desvia o furor. Uma palavra dura faz a ira crescer.",
       "reference": "Pv 15:1",
       "wrongs": [
-        "Acende o furor. Uma palavra dura apaga a ira.",
-        "Esconde a culpa. Uma palavra dura traz paz.",
-        "Ganha a briga. Uma palavra dura encerra tudo."
+        "Desvia o assunto. Uma palavra dura faz a ira crescer.",
+        "Desvia a culpa. Uma palavra dura faz a ira crescer.",
+        "Desvia o olhar. Uma palavra dura faz a ira crescer."
       ]
     },
     {
@@ -445,9 +445,9 @@
       "answer": "Uma comida de hortaliça onde há amor.",
       "reference": "Pv 15:17",
       "wrongs": [
-        "Um banquete de carne onde existe briga.",
-        "Um copo de vinho onde existe inveja.",
-        "Uma mesa cheia onde existe medo."
+        "Um prato de lentilhas onde há amor.",
+        "Um pedaço de pão onde há amor.",
+        "Um punhado de frutas onde há amor."
       ]
     },
     {
@@ -460,9 +460,9 @@
       "answer": "Controlar o próprio ânimo.",
       "reference": "Pv 16:32",
       "wrongs": [
-        "Juntar um grande exército.",
-        "Ganhar o ouro dos muros.",
-        "Ser temido pelos vizinhos."
+        "Controlar o próprio reino.",
+        "Controlar o próprio exército.",
+        "Controlar a própria casa."
       ]
     },
     {
@@ -475,9 +475,9 @@
       "answer": "São favos de mel, doces para a alma e saúde para os ossos.",
       "reference": "Pv 16:24",
       "wrongs": [
-        "São vinagre, amargas na alma e febre nos ossos.",
-        "São fumaça, pesadas na alma e cinza nos ossos.",
-        "São pedra, duras na alma e peso nos ossos."
+        "São favos de mel, doces para a alma e vigor para os ossos.",
+        "São favos de mel, doces para o espírito e saúde para os ossos.",
+        "São favos de mel, doces para a alma e vida para os ossos."
       ]
     },
     {
@@ -490,9 +490,9 @@
       "answer": "Um louco na sua estultícia.",
       "reference": "Pv 17:12",
       "wrongs": [
-        "Um sábio no meio do caminho.",
-        "Um amigo com um bom conselho.",
-        "Um justo em dia de festa."
+        "Um bêbado no meio do caminho.",
+        "Um homem irado em sua casa.",
+        "Um preguiçoso na sua cama."
       ]
     },
     {
@@ -536,8 +536,8 @@
       "reference": "Pv 18:24",
       "wrongs": [
         "Um estranho.",
-        "Um credor.",
-        "Um inimigo."
+        "Um vizinho.",
+        "Um parente."
       ]
     },
     {
@@ -551,7 +551,7 @@
       "reference": "Pv 19:17",
       "wrongs": [
         "Ao rei, e ele cobra juros.",
-        "Ao vento, e ninguém devolve.",
+        "Ao pobre, e ele devolve depois.",
         "Ao rico, e a dívida dobra."
       ]
     },
@@ -565,9 +565,9 @@
       "answer": "Esconde-a no seio e nem a torna à boca.",
       "reference": "Pv 19:24",
       "wrongs": [
-        "Leva a mão à boca sem parar.",
-        "Parte o pão e serve os outros.",
-        "Esvazia o prato antes de todos."
+        "Esconde-a no seio e leva-a à boca depois.",
+        "Esconde-a no manto e come com a outra mão.",
+        "Esconde-a no seio e espera que o sirvam."
       ]
     },
     {
@@ -580,9 +580,9 @@
       "answer": "Como escarnecedor. A bebida forte é alvoroçadora.",
       "reference": "Pv 20:1",
       "wrongs": [
-        "Como médico. A bebida forte traz juízo.",
-        "Como amigo. A bebida forte guarda a paz.",
-        "Como luz. A bebida forte aclara a mente."
+        "Como alvoroçador. A bebida forte é escarnecedora.",
+        "Como brigão. A bebida forte é alvoroçadora.",
+        "Como mentiroso. A bebida forte é alvoroçadora."
       ]
     },
     {
@@ -595,9 +595,9 @@
       "answer": "A boca se enche de cascalho.",
       "reference": "Pv 20:17",
       "wrongs": [
-        "A mesa se enche de mel.",
-        "A casa se enche de ouro.",
-        "A boca se enche de vinho."
+        "A boca se enche de fel.",
+        "A boca se enche de cinza.",
+        "A boca se enche de vinagre."
       ]
     },
     {
@@ -625,9 +625,9 @@
       "answer": "Num canto do telhado.",
       "reference": "Pv 21:9",
       "wrongs": [
-        "Num palácio com ela.",
-        "Num banquete ao lado.",
-        "Num quarto fechado."
+        "Num quarto fechado.",
+        "Num deserto afastado.",
+        "Numa casa de campo."
       ]
     },
     {
@@ -655,9 +655,9 @@
       "answer": "Até envelhecer.",
       "reference": "Pv 22:6",
       "wrongs": [
-        "Só até a festa.",
+        "Só até a mocidade.",
         "Só até sair de casa.",
-        "Até achar outro mestre."
+        "Até trocar de mestre."
       ]
     },
     {
@@ -670,9 +670,9 @@
       "answer": "Aquilo cria asas e voa ao céu como uma águia.",
       "reference": "Pv 23:5",
       "wrongs": [
-        "Aquilo cria raiz e fica para sempre na mão.",
-        "Aquilo vira ouro e desce como chuva.",
-        "Aquilo dorme quieto e nunca muda de dono."
+        "Aquilo cria asas e foge da mão como um pássaro.",
+        "Aquilo cria asas e voa ao céu como um falcão.",
+        "Aquilo cria penas e sobe ao monte como uma águia."
       ]
     },
     {
@@ -685,9 +685,9 @@
       "answer": "À picada de uma cobra e à mordida da víbora.",
       "reference": "Pv 23:32",
       "wrongs": [
-        "Ao abraço de um amigo e ao canto da festa.",
-        "Ao mel na boca e ao sono tranquilo.",
-        "À luz da manhã e ao caminho plano."
+        "À picada de um escorpião e à mordida de um cão.",
+        "À mordida de um leão e à ferroada de uma abelha.",
+        "À picada de uma aranha e à mordida de um lobo."
       ]
     },
     {
@@ -715,9 +715,9 @@
       "answer": "A quem já foi agarrado para ser morto.",
       "reference": "Pv 24:11",
       "wrongs": [
-        "A quem já venceu e não precisa de ajuda.",
-        "A quem foge do trabalho no meio do dia.",
-        "A quem esconde o pão dos famintos."
+        "A quem já foi julgado e espera a pena.",
+        "A quem já foi ferido e não pede socorro.",
+        "A quem já foi vendido e não tem resgate."
       ]
     },
     {
@@ -760,9 +760,9 @@
       "answer": "Pão. E água, se também tiver sede.",
       "reference": "Pv 25:21",
       "wrongs": [
-        "Pedra. E vinagre, se também tiver sede.",
-        "Silêncio. E costas, se também tiver sede.",
-        "Dívida. E juros, se também tiver sede."
+        "Pão. E vinho, se também tiver sede.",
+        "Pão. E leite, se também tiver sede.",
+        "Pão. E mel, se também tiver sede."
       ]
     },
     {
@@ -775,9 +775,9 @@
       "answer": "A um cão que volta ao que vomitou.",
       "reference": "Pv 26:11",
       "wrongs": [
-        "A uma águia que sobe sem olhar para trás.",
-        "A um rio que não torna à nascente.",
-        "A um semeador que não repete o erro."
+        "A um cão que volta ao seu dono.",
+        "A um porco que volta ao lamaçal.",
+        "A um cão que late sem parar."
       ]
     },
     {
@@ -790,9 +790,9 @@
       "answer": "A uma porta girando nos gonzos.",
       "reference": "Pv 26:14",
       "wrongs": [
-        "A um galo que sai antes do sol.",
-        "A uma formiga que já está no campo.",
-        "A um vigia que não deixa o posto."
+        "A uma porta fechada por dentro.",
+        "A uma roda girando no eixo.",
+        "A um cão deitado ao sol."
       ]
     },
     {
@@ -805,9 +805,9 @@
       "answer": "Como o ferro afia outro ferro.",
       "reference": "Pv 27:17",
       "wrongs": [
-        "Como a água amolece o ferro.",
-        "Como a areia cobre o ferro.",
-        "Como o mel enferruja o ferro."
+        "Como o fogo derrete o ferro.",
+        "Como a chuva gasta o ferro.",
+        "Como o sal enferruja o ferro."
       ]
     },
     {
@@ -820,9 +820,9 @@
       "answer": "São leais. Os beijos do inimigo enganam.",
       "reference": "Pv 27:6",
       "wrongs": [
-        "São cruéis. Os beijos do inimigo curam.",
-        "São inúteis. Os beijos do inimigo são fiéis.",
-        "São fingidas. Os beijos do inimigo dizem a verdade."
+        "São amargas. Os beijos do inimigo enganam.",
+        "São leais. Os beijos do inimigo ferem.",
+        "São profundas. Os beijos do inimigo enganam."
       ]
     },
     {
@@ -835,9 +835,9 @@
       "answer": "Misericórdia. Quem esconde a falta não prospera.",
       "reference": "Pv 28:13",
       "wrongs": [
-        "Castigo dobrado. Quem esconde a falta prospera.",
-        "Silêncio eterno. Quem esconde a falta é honrado.",
-        "Mais culpa. Quem esconde a falta fica em paz."
+        "Prosperidade. Quem esconde a falta não prospera.",
+        "Descanso. Quem esconde a falta não prospera.",
+        "Alegria. Quem esconde a falta não prospera."
       ]
     },
     {
@@ -850,9 +850,9 @@
       "answer": "Ficam ousados como um leão. O mau foge sem ser perseguido.",
       "reference": "Pv 28:1",
       "wrongs": [
-        "Ficam tímidos como um cordeiro. O mau avança sem medo.",
-        "Ficam parados como uma pedra. O mau nunca foge.",
-        "Ficam moles como a cera. O mau persegue e não corre."
+        "Ficam ousados como um touro. O mau foge sem ser perseguido.",
+        "Ficam ousados como uma águia. O mau foge sem ser perseguido.",
+        "Ficam firmes como uma rocha. O mau foge sem ser perseguido."
       ]
     },
     {
@@ -865,9 +865,9 @@
       "answer": "Perece. Quem guarda a lei é bem-aventurado.",
       "reference": "Pv 29:18",
       "wrongs": [
-        "Fica em paz. Quem guarda a lei se confunde.",
-        "Fica rico. Quem abandona a lei é feliz.",
-        "Fica unido. Quem ignora a lei se acerta."
+        "Perece. Quem ouve a profecia é bem-aventurado.",
+        "Perece. Quem ama a lei é bem-aventurado.",
+        "Perece. Quem ensina a lei é bem-aventurado."
       ]
     },
     {
@@ -880,9 +880,9 @@
       "answer": "Laços. Quem confia no Senhor fica em alto retiro.",
       "reference": "Pv 29:25",
       "wrongs": [
-        "Um abrigo. Quem confia no Senhor fica exposto.",
-        "Uma coroa. Quem confia no Senhor corre perigo.",
-        "Um atalho. Quem confia no Senhor fecha o caminho."
+        "Um abrigo. Quem confia no Senhor fica em alto retiro.",
+        "Uma ameaça. Quem confia no Senhor fica em alto retiro.",
+        "Laços. Quem confia no Senhor fica em sua casa."
       ]
     },
     {
@@ -925,7 +925,7 @@
       "answer": "As duas têm o nome Dá.",
       "reference": "Pv 30:15",
       "wrongs": [
-        "As duas têm o nome Não.",
+        "As duas têm o nome Toma.",
         "As três têm o nome Mais.",
         "A única tem o nome Pare."
       ]
@@ -940,7 +940,7 @@
       "answer": "A mulher virtuosa, rara de encontrar.",
       "reference": "Pv 31:10",
       "wrongs": [
-        "A mulher rica, fácil de achar.",
+        "A mulher rica, de família antiga.",
         "A mulher bela, sem outro cuidado.",
         "A mulher famosa, de qualquer casa."
       ]
@@ -955,7 +955,7 @@
       "answer": "A mãe dele.",
       "reference": "Pv 31:1",
       "wrongs": [
-        "O pai dele.",
+        "A avó dele.",
         "O profeta Natã.",
         "O rei Davi."
       ]
@@ -970,9 +970,9 @@
       "answer": "A beleza e a formosura. Quem teme ao Senhor é louvada.",
       "reference": "Pv 31:30",
       "wrongs": [
-        "A sabedoria e o trabalho. Quem teme ao Senhor é esquecida.",
-        "A verdade e a palavra. Quem teme ao Senhor é zombada.",
-        "O nome e a honra. Quem teme ao Senhor fica sem louvor."
+        "A sabedoria e o trabalho. Quem teme ao Senhor é louvada.",
+        "A riqueza e a fama. Quem teme ao Senhor é louvada.",
+        "O nome e a honra. Quem teme ao Senhor é louvada."
       ]
     },
     {

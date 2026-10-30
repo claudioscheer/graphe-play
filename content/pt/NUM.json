@@ -10,9 +10,9 @@
       "answer": "Os homens de vinte anos ou mais que podiam sair à luta.",
       "reference": "Nm 1:45",
       "wrongs": [
-        "Os meninos de doze anos que já pastoreavam o gado.",
-        "As mulheres e os levitas que serviam na tenda.",
-        "Só os chefes de mil e os chefes de cem."
+        "Os homens de trinta anos ou mais que podiam sair à luta.",
+        "Os homens de vinte anos ou menos que podiam sair à luta.",
+        "Os homens de vinte anos ou mais que podiam ficar no arraial."
       ]
     },
     {
@@ -26,8 +26,8 @@
       "reference": "Nm 1:19",
       "wrongs": [
         "No deserto de Parã.",
-        "Nas planícies de Moabe.",
-        "No acampamento de Gilgal."
+        "No deserto de Sur.",
+        "No deserto de Zim."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Os levitas.",
       "reference": "Nm 1:47",
       "wrongs": [
-        "Os filhos de Judá.",
-        "Os de Rúben.",
-        "Os homens de vinte anos."
+        "Os rubenitas.",
+        "Os efraimitas.",
+        "Os benjamitas."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "Cada uma junto da própria bandeira, em volta da tenda.",
       "reference": "Nm 2:2",
       "wrongs": [
-        "Todas misturadas, sem ordem de clã.",
-        "Só no lado leste, de frente para o mar.",
-        "Em fila única, longe da tenda."
+        "Cada uma junto da própria bandeira, longe da tenda.",
+        "Cada uma junto da tenda, em volta da bandeira.",
+        "Cada uma junto da própria tribo, em volta do altar."
       ]
     },
     {
@@ -160,9 +160,9 @@
       "answer": "Vinte e dois mil.",
       "reference": "Nm 3:39",
       "wrongs": [
-        "Oito mil.",
-        "Doze mil.",
-        "Seiscentos mil."
+        "Vinte e três mil.",
+        "Vinte e um mil.",
+        "Trinta mil."
       ]
     },
     {
@@ -190,9 +190,9 @@
       "answer": "A pena era a morte.",
       "reference": "Nm 4:15",
       "wrongs": [
-        "Pagava cinco siclos.",
-        "Ficava impuro sete dias.",
-        "Saía do acampamento."
+        "A pena era a impureza.",
+        "A pena era o resgate.",
+        "A pena era a expulsão."
       ]
     },
     {
@@ -221,9 +221,9 @@
       "answer": "Oito mil quinhentos e oitenta.",
       "reference": "Nm 4:47-48",
       "wrongs": [
-        "Vinte e dois mil.",
-        "Doze mil.",
-        "Oito mil e cinquenta."
+        "Oito mil quinhentos e setenta.",
+        "Oito mil quinhentos e noventa.",
+        "Oito mil seiscentos e oitenta."
       ]
     },
     {
@@ -236,9 +236,9 @@
       "answer": "Oferta de farinha de cevada, sem azeite e sem incenso.",
       "reference": "Nm 5:15",
       "wrongs": [
-        "Um cordeiro sem defeito, com azeite e incenso.",
-        "Duas rolas e um cesto de pão fermentado.",
-        "Um bode pelo pecado, com farinha de trigo."
+        "Oferta de farinha de cevada, com azeite e incenso.",
+        "Oferta de farinha de trigo, sem azeite e sem incenso.",
+        "Oferta de farinha de cevada, sem azeite e com incenso."
       ]
     },
     {
@@ -252,7 +252,7 @@
       "answer": "Para fora do arraial.",
       "reference": "Nm 5:2-3",
       "wrongs": [
-        "Para dentro da tenda.",
+        "Para o deserto de Parã.",
         "Para o monte Sinai.",
         "Para a cidade de refúgio."
       ]
@@ -342,9 +342,9 @@
       "answer": "Paz.",
       "reference": "Nm 6:26",
       "wrongs": [
-        "Vitória.",
-        "Riqueza.",
-        "Filhos."
+        "Vida.",
+        "Luz.",
+        "Gozo."
       ]
     },
     {
@@ -357,9 +357,9 @@
       "answer": "Um príncipe em cada dia.",
       "reference": "Nm 7:11",
       "wrongs": [
-        "Todos juntos no mesmo dia.",
-        "Só a tribo de Levi, no fim.",
-        "Um clã por semana."
+        "Dois príncipes em cada dia.",
+        "Um príncipe em cada semana.",
+        "Um príncipe em cada mês."
       ]
     },
     {
@@ -417,9 +417,9 @@
       "answer": "Ofereceu-os e fez a purificação deles.",
       "reference": "Nm 8:21",
       "wrongs": [
-        "Deu a eles a terra de Canaã.",
-        "Mandou que saíssem para a guerra.",
-        "Pôs sobre eles as vestes de sacerdote."
+        "Apresentou-os e fez a contagem deles.",
+        "Ofereceu-os e fez a entrega das vestes.",
+        "Purificou-os e mandou que fossem à guerra."
       ]
     },
     {
@@ -477,9 +477,9 @@
       "answer": "A nuvem sobre a tenda: ao subir, partiam; ao parar, ficavam.",
       "reference": "Nm 9:17",
       "wrongs": [
-        "O toque de duas trombetas de bronze.",
-        "A ordem diária dos setenta anciãos.",
-        "O nascer do sol sobre o acampamento."
+        "A coluna de fogo: ao subir, partiam; ao parar, ficavam.",
+        "A bandeira de Judá: ao subir, partiam; ao parar, ficavam.",
+        "A trombeta de prata: ao soar, partiam; ao calar, ficavam."
       ]
     },
     {
@@ -493,8 +493,8 @@
       "reference": "Nm 9:5",
       "wrongs": [
         "No deserto de Parã.",
-        "Nas planícies de Moabe.",
-        "Em Gilgal, junto a Jericó."
+        "No deserto de Zim.",
+        "No deserto de Sur."
       ]
     },
     {
@@ -523,7 +523,7 @@
       "reference": "Nm 9:15",
       "wrongs": [
         "Uma nuvem escura, até o meio-dia.",
-        "Um arco no céu, até a noite.",
+        "Uma aparência de fogo, até a meia-noite.",
         "Uma coluna de fumaça, só até a tarde."
       ]
     },
@@ -627,9 +627,9 @@
       "answer": "Quibrote-Ataavá.",
       "reference": "Nm 11:34",
       "wrongs": [
-        "Taberá.",
-        "Hormá.",
-        "Meribá."
+        "Cades-Barneia.",
+        "Massá e Meribá.",
+        "Hazerote e Taberá."
       ]
     },
     {
@@ -644,7 +644,7 @@
       "wrongs": [
         "Ficaram mudos até o dia seguinte.",
         "Voltaram em silêncio, cada um à sua tenda.",
-        "Repetiram a profecia por sete dias."
+        "Cantaram louvores por toda aquela noite."
       ]
     },
     {
@@ -657,9 +657,9 @@
       "answer": "Ficou leprosa como a neve.",
       "reference": "Nm 12:10",
       "wrongs": [
-        "Ela estava curada e de pé.",
-        "Ela estava coberta de cinza.",
-        "Ela estava muda e caída."
+        "Ficou com a mão mirrada e seca.",
+        "Ficou muda como um morto.",
+        "Ficou coberta de chagas como Jó."
       ]
     },
     {
@@ -717,9 +717,9 @@
       "answer": "Que o povo de lá era forte demais para eles.",
       "reference": "Nm 13:31",
       "wrongs": [
-        "Que a terra era boa e a vitória era certa.",
-        "Que as cidades estavam vazias e sem muros.",
-        "Que deviam subir naquela mesma noite."
+        "Que o povo de lá era forte demais para os egípcios.",
+        "Que o povo de lá era forte demais para os filisteus.",
+        "Que o povo de lá era forte demais para Calebe."
       ]
     },
     {
@@ -853,9 +853,9 @@
       "answer": "A congregação o apedrejou fora do arraial.",
       "reference": "Nm 15:32-36",
       "wrongs": [
-        "Pagou uma oferta pelo pecado.",
-        "Ficou impuro por sete dias.",
-        "Foi expulso e voltou no sétimo dia."
+        "A congregação o apedrejou dentro do arraial.",
+        "A congregação o apedrejou diante da tenda.",
+        "A congregação o apedrejou junto ao monte."
       ]
     },
     {
@@ -913,9 +913,9 @@
       "answer": "Abriu a boca e os tragou com as casas.",
       "reference": "Nm 16:32",
       "wrongs": [
-        "Os cobriu de granizo até morrerem.",
-        "Os deixou fugir para o deserto.",
-        "Abriu uma fonte e os afogou."
+        "Abriu a boca e os tragou com os servos.",
+        "Abriu a boca e os tragou com os carros.",
+        "Abriu uma cova e os tragou com as casas."
       ]
     },
     {
@@ -943,9 +943,9 @@
       "answer": "Duzentos e cinquenta.",
       "reference": "Nm 16:35",
       "wrongs": [
-        "Duzentos.",
-        "Quinhentos.",
-        "Três mil."
+        "Duzentos e quarenta.",
+        "Duzentos e sessenta.",
+        "Trezentos e cinquenta."
       ]
     },
     {
@@ -973,9 +973,9 @@
       "answer": "Brotou, floresceu e deu amêndoas.",
       "reference": "Nm 17:8",
       "wrongs": [
-        "Secou e se partiu ao meio.",
-        "Ficou igual às outras varas.",
-        "Virou uma serpente de bronze."
+        "Brotou, floresceu e deu uvas.",
+        "Brotou, floresceu e deu figos.",
+        "Brotou, floresceu e deu azeitonas."
       ]
     },
     {
@@ -990,7 +990,7 @@
       "wrongs": [
         "Fora do acampamento, sobre uma pedra.",
         "No altar de bronze, diante do povo.",
-        "Na tenda de Arão, junto à cama."
+        "Na tenda de Moisés, diante do povo."
       ]
     },
     {
@@ -1050,7 +1050,7 @@
       "wrongs": [
         "A metade, entregue aos pobres.",
         "Um quinto, guardado na tenda.",
-        "Tudo, sem ficar com nada."
+        "Um terço, guardado para si."
       ]
     },
     {
@@ -1080,7 +1080,7 @@
       "wrongs": [
         "Um território igual ao de Judá.",
         "O ouro das ofertas de guerra.",
-        "As cidades reais de Canaã."
+        "As cidades reais de Canaã, por herança."
       ]
     },
     {
@@ -1111,7 +1111,7 @@
       "wrongs": [
         "O sacerdote Arão.",
         "O sacerdote Itamar.",
-        "Moisés, diante do povo."
+        "O sacerdote Fineias."
       ]
     },
     {
@@ -1126,7 +1126,7 @@
       "wrongs": [
         "Farinha, azeite e incenso.",
         "Ouro, prata e bronze.",
-        "Sal, mel e vinho."
+        "Sal, mel, vinho e azeite."
       ]
     },
     {
@@ -1155,8 +1155,8 @@
       "reference": "Nm 20:12",
       "wrongs": [
         "Porque eram velhos demais para a viagem.",
-        "Porque o povo pediu outro guia.",
-        "Porque recusaram contar os homens."
+        "Porque o povo pediu outro guia a Deus.",
+        "Porque recusaram contar os homens de Israel."
       ]
     },
     {
@@ -1200,7 +1200,7 @@
       "answer": "Duas vezes, e saiu muita água.",
       "reference": "Nm 20:11",
       "wrongs": [
-        "Uma vez, e a água não saiu.",
+        "Uma vez, e saiu pouca água.",
         "Três vezes, e a rocha se partiu.",
         "Sete vezes, como na travessia."
       ]
@@ -1216,7 +1216,7 @@
       "reference": "Nm 20:18",
       "wrongs": [
         "Abriu o caminho e vendeu comida.",
-        "Pediu um dia para pensar.",
+        "Pediu um dia para pensar no pedido.",
         "Deixou passar só os levitas."
       ]
     },
@@ -1276,7 +1276,7 @@
       "reference": "Nm 21:3",
       "wrongs": [
         "Gilgal.",
-        "Ai.",
+        "Libna.",
         "Jericó."
       ]
     },
@@ -1365,9 +1365,9 @@
       "answer": "Bênçãos, em vez de maldição.",
       "reference": "Nm 23:11",
       "wrongs": [
-        "Maldições, como Balaque pediu.",
-        "Silêncio, sem abrir a boca.",
-        "Um cântico de guerra contra Israel."
+        "Bênçãos, em vez de castigo.",
+        "Bênçãos, em vez de juízo.",
+        "Bênçãos, em vez de vingança."
       ]
     },
     {
@@ -1410,9 +1410,9 @@
       "answer": "Deus não mente nem volta atrás, pois não é um homem.",
       "reference": "Nm 23:19",
       "wrongs": [
-        "Deus muda de ideia quando o povo pede.",
-        "Deus mente se isso salvar Israel.",
-        "Deus volta atrás como qualquer rei."
+        "Deus não mente nem volta atrás, pois não é um rei.",
+        "Deus não mente nem volta atrás, pois não é um servo.",
+        "Deus não mente nem volta atrás, pois não é um profeta."
       ]
     },
     {
@@ -1425,9 +1425,9 @@
       "answer": "Uma estrela, e também um cetro vindo de Israel.",
       "reference": "Nm 24:17",
       "wrongs": [
-        "Um rio, e também um cedro plantado no Líbano.",
-        "Uma nuvem, e também fogo descendo do Sinai.",
-        "Um poço, e também água jorrando do deserto."
+        "Uma estrela, e também um trono vindo de Israel.",
+        "Um sol, e também um cetro vindo de Israel.",
+        "Uma estrela, e também uma coroa vinda de Israel."
       ]
     },
     {
@@ -1455,9 +1455,9 @@
       "answer": "Quem abençoasse seria bendito; quem amaldiçoasse, maldito.",
       "reference": "Nm 24:9",
       "wrongs": [
-        "Quem abençoasse seria maldito; quem amaldiçoasse, bendito.",
-        "A bênção e a maldição dariam no mesmo.",
-        "Só a maldição de Balaque teria efeito."
+        "Quem abençoasse seria bendito; quem amaldiçoasse, culpado.",
+        "Quem abençoasse seria bendito; quem amaldiçoasse, castigado.",
+        "Quem abençoasse seria bendito; quem amaldiçoasse, esquecido."
       ]
     },
     {
@@ -1471,9 +1471,9 @@
       "answer": "Atravessou com uma lança o homem e a midianita.",
       "reference": "Nm 25:7-8",
       "wrongs": [
-        "Ofereceu um cordeiro no altar de bronze.",
-        "Levantou as mãos em oração até a tarde.",
-        "Expulsou Moabe para fora do acampamento."
+        "Atravessou com uma espada o homem e a midianita.",
+        "Atravessou com uma lança o homem e a moabita.",
+        "Atravessou com uma lança o homem e a cananeia."
       ]
     },
     {
@@ -1533,7 +1533,7 @@
       "reference": "Nm 25:3-9",
       "wrongs": [
         "Catorze mil.",
-        "Três mil.",
+        "Trinta e um mil.",
         "Quarenta mil."
       ]
     },
@@ -1578,9 +1578,9 @@
       "answer": "Nas campinas de Moabe, junto ao Jordão, na direção de Jericó.",
       "reference": "Nm 26:63",
       "wrongs": [
-        "No deserto do Sinai, junto ao monte.",
-        "No deserto de Parã, em Cades.",
-        "Em Gilgal, a leste de Jericó."
+        "No deserto do Sinai, junto ao monte sagrado.",
+        "No deserto de Parã, em Cades, perto de Edom.",
+        "Em Gilgal, a leste de Jericó, junto ao rio."
       ]
     },
     {
@@ -1593,9 +1593,9 @@
       "answer": "Eles não morreram.",
       "reference": "Nm 26:11",
       "wrongs": [
-        "A terra os engoliu.",
-        "O fogo os consumiu.",
-        "Saíram de Israel."
+        "Eles não eram levitas.",
+        "Eles não tiveram filhos.",
+        "Eles não foram sepultados."
       ]
     },
     {
@@ -1713,9 +1713,9 @@
       "answer": "Trabalho de servo. Havia reunião santa.",
       "reference": "Nm 28:26",
       "wrongs": [
-        "Jejum do povo. A alma ficava aflita.",
-        "Nenhuma oferta. O altar ficava em silêncio.",
-        "Canto no pátio. Ninguém se reunia."
+        "Jejum do povo. Havia reunião santa.",
+        "Trabalho de servo. Não havia reunião santa.",
+        "Festa de sete dias. Havia reunião santa."
       ]
     },
     {
@@ -1775,7 +1775,7 @@
       "wrongs": [
         "Sete.",
         "Doze.",
-        "Um."
+        "Nove."
       ]
     },
     {
@@ -1788,9 +1788,9 @@
       "answer": "O voto não valia, e Deus a perdoava.",
       "reference": "Nm 30:5",
       "wrongs": [
-        "O voto ficava firme mesmo assim.",
-        "A filha pagava o dobro da oferta.",
-        "O pai cumpria o voto no lugar dela."
+        "O voto não valia, e o pai a repreendia.",
+        "O voto não valia, e o sacerdote a julgava.",
+        "O voto não valia, e ela pagava uma oferta."
       ]
     },
     {
@@ -1803,9 +1803,9 @@
       "answer": "Ficava firme.",
       "reference": "Nm 30:9",
       "wrongs": [
-        "Não valia nada.",
-        "Só valia se o pai aprovasse.",
-        "Valia só por sete dias."
+        "Ficava por um mês.",
+        "Ficava por um ano.",
+        "Ficava por dez dias."
       ]
     },
     {
@@ -1848,9 +1848,9 @@
       "answer": "Guerreou e matou todos os homens.",
       "reference": "Nm 31:7",
       "wrongs": [
-        "Fez as pazes e cobrou tributo.",
-        "Fugiu e deixou o acampamento.",
-        "Só tomou o gado e poupou a todos."
+        "Guerreou e prendeu todos os homens.",
+        "Guerreou e matou só os cinco reis.",
+        "Guerreou e matou todos os chefes."
       ]
     },
     {
@@ -1893,9 +1893,9 @@
       "answer": "Não faltou nenhum.",
       "reference": "Nm 31:49",
       "wrongs": [
-        "Faltaram mil.",
-        "Faltaram doze.",
-        "Faltou a metade."
+        "Não houve batalha em Midiã.",
+        "Não voltaram com despojo.",
+        "Não deram contas a Moisés."
       ]
     },
     {
@@ -2030,7 +2030,7 @@
       "answer": "Doze nascentes e setenta palmeiras.",
       "reference": "Nm 33:9",
       "wrongs": [
-        "Uma rocha de onde saiu água.",
+        "Uma nascente e doze palmeiras.",
         "Sete nascentes e doze palmeiras.",
         "Um poço amargo, sem árvore nenhuma."
       ]
@@ -2062,7 +2062,7 @@
       "wrongs": [
         "Às doze tribos, por igual.",
         "A duas tribos e meia, a leste.",
-        "Só à tribo de Judá."
+        "Só à tribo de Judá e à de Levi."
       ]
     },
     {
@@ -2076,7 +2076,7 @@
       "reference": "Nm 34:17",
       "wrongs": [
         "Moisés e Arão, diante do povo.",
-        "Calebe e os doze espias.",
+        "Calebe e os doze espias de Israel.",
         "Fineias e os chefes de Levi."
       ]
     },
@@ -2105,7 +2105,7 @@
       "answer": "A leste do Jordão, na direção de Jericó.",
       "reference": "Nm 34:15",
       "wrongs": [
-        "A oeste do Jordão, junto ao mar Grande.",
+        "A leste do Jordão, na direção de Edom.",
         "No deserto do Sinai, junto ao monte.",
         "No Neguebe, na divisa de Edom."
       ]
@@ -2121,7 +2121,7 @@
       "reference": "Nm 35:11",
       "wrongs": [
         "Para guardar o despojo das guerras.",
-        "Para abrigar quem matasse de propósito.",
+        "Para abrigar quem fugisse de uma dívida.",
         "Para moradia só dos sacerdotes."
       ]
     },
@@ -2151,8 +2151,8 @@
       "answer": "Quarenta e oito.",
       "reference": "Nm 35:7",
       "wrongs": [
-        "Seis.",
-        "Doze.",
+        "Quarenta e quatro.",
+        "Quarenta e seis.",
         "Quarenta e duas."
       ]
     },
@@ -2183,7 +2183,7 @@
       "wrongs": [
         "Com quem quisessem, em qualquer tribo.",
         "Só com os filhos do sumo sacerdote.",
-        "Com ninguém, para a herança não sair."
+        "Com quem o pai escolhesse, na mesma tribo."
       ]
     },
     {
@@ -2211,9 +2211,9 @@
       "answer": "Nas campinas de Moabe, junto ao Jordão, na direção de Jericó.",
       "reference": "Nm 36:13",
       "wrongs": [
-        "No deserto do Sinai, junto ao monte.",
+        "No deserto do Sinai, junto ao monte sagrado.",
         "No cume do monte Hor, diante do povo.",
-        "Em Cades, no deserto de Zim."
+        "Em Cades, no deserto de Zim, perto de Edom."
       ]
     },
     {

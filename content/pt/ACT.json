@@ -10,9 +10,9 @@
       "answer": "Ele foi elevado, e uma nuvem o encobriu.",
       "reference": "At 1:9",
       "wrongs": [
-        "Ele ficou no monte e continuou a ensinar.",
-        "Ele desceu a pé para o cenáculo.",
-        "Um anjo o levou de volta ao templo."
+        "Ele foi elevado, e o Espírito o encobriu.",
+        "Ele subiu ao monte, e uma nuvem o encobriu.",
+        "Ele foi elevado, e uma nuvem o cercou de glória."
       ]
     },
     {
@@ -25,9 +25,9 @@
       "answer": "Matias.",
       "reference": "At 1:26",
       "wrongs": [
-        "José, chamado Barsabás.",
         "Barnabé.",
-        "Silas."
+        "Silas.",
+        "Estêvão."
       ]
     },
     {
@@ -42,7 +42,7 @@
       "wrongs": [
         "Do monte Sião.",
         "Do monte Carmelo.",
-        "Do Gerizim."
+        "Do monte Gerizim."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "Ficaram cheios do Espírito Santo e falaram outras línguas.",
       "reference": "At 2:4",
       "wrongs": [
-        "Ficaram em silêncio e saíram da cidade.",
-        "Receberam línguas de fogo, mas não falaram.",
-        "O vento passou, e nada mudou neles."
+        "Ficaram cheios do Espírito Santo e falaram em línguas de anjos.",
+        "Ficaram cheios do Espírito Santo e falaram só em hebraico.",
+        "Ficaram cheios do Espírito Santo e falaram por meio de intérpretes."
       ]
     },
     {
@@ -85,9 +85,9 @@
       "answer": "Pedro, de pé junto com os onze.",
       "reference": "At 2:14",
       "wrongs": [
-        "João, ao lado de Pedro.",
-        "Estevão, de pé no conselho.",
-        "Tiago, irmão de João."
+        "João, de pé junto com os onze.",
+        "Tiago, de pé junto com os onze.",
+        "André, de pé junto com os onze."
       ]
     },
     {
@@ -130,9 +130,9 @@
       "answer": "Entrou pulando e louvando a Deus.",
       "reference": "At 3:8",
       "wrongs": [
-        "Continuou sentado, pedindo esmola.",
-        "Andou devagar, sem entrar no templo.",
-        "Levantou e caiu de novo na porta."
+        "Entrou pulando e louvando aos apóstolos.",
+        "Entrou correndo e louvando a Deus.",
+        "Entrou cantando e louvando a Deus."
       ]
     },
     {
@@ -190,9 +190,9 @@
       "answer": "Colocaram os dois na prisão até o outro dia.",
       "reference": "At 4:3",
       "wrongs": [
-        "Soltaram os dois com uma advertência.",
-        "Levaram os dois ao templo.",
-        "Expulsaram os dois da cidade na hora."
+        "Colocaram os dois na prisão até o terceiro dia.",
+        "Colocaram os dois na prisão até a festa seguinte.",
+        "Colocaram os dois na prisão até o fim da semana."
       ]
     },
     {
@@ -250,9 +250,9 @@
       "answer": "Um anjo, que abriu as portas de noite.",
       "reference": "At 5:19",
       "wrongs": [
-        "Os guardas, subornados de madrugada.",
-        "Pedro, com a chave da cela.",
-        "Gamaliel, por ordem do conselho."
+        "Um guarda, que abriu as portas de madrugada.",
+        "Um anjo, que abriu as portas ao amanhecer.",
+        "Um anjo, que quebrou as correntes de noite."
       ]
     },
     {
@@ -280,9 +280,9 @@
       "answer": "No alpendre de Salomão.",
       "reference": "At 5:12",
       "wrongs": [
-        "Na porta Formosa.",
-        "Na sala do sinédrio.",
-        "No cenáculo, de portas fechadas."
+        "No alpendre de Herodes.",
+        "No alpendre do sinédrio.",
+        "No alpendre da porta Formosa."
       ]
     },
     {
@@ -295,9 +295,9 @@
       "answer": "Que ela cobrisse alguns doentes.",
       "reference": "At 5:15",
       "wrongs": [
-        "Que ela curasse quem a tocasse.",
-        "Que Pedro impusesse as mãos em todos.",
-        "Que os doentes ficassem de pé sozinhos."
+        "Que ela curasse os doentes que passavam.",
+        "Que ela levantasse os coxos que a tocassem.",
+        "Que ela purificasse os leprosos da cidade."
       ]
     },
     {
@@ -310,9 +310,9 @@
       "answer": "Arrebataram-no e o levaram ao conselho.",
       "reference": "At 6:12",
       "wrongs": [
-        "Apedrejaram-no na mesma hora.",
-        "Mandaram-no de volta para Antioquia.",
-        "Esconderam-no na casa de um discípulo."
+        "Arrebataram-no e o levaram ao governador.",
+        "Arrebataram-no e o levaram à prisão.",
+        "Arrebataram-no e o levaram para fora da cidade."
       ]
     },
     {
@@ -340,9 +340,9 @@
       "answer": "Da sinagoga dos libertinos.",
       "reference": "At 6:9",
       "wrongs": [
-        "Da sinagoga de Damasco.",
-        "Da escola de Tirano.",
-        "Do pórtico de Salomão."
+        "Da sinagoga dos romanos.",
+        "Da sinagoga dos saduceus.",
+        "Da sinagoga dos fariseus."
       ]
     },
     {
@@ -355,9 +355,9 @@
       "answer": "Parecia o rosto de um anjo.",
       "reference": "At 6:15",
       "wrongs": [
-        "Parecia o rosto de Moisés, coberto.",
-        "Estava pálido de medo.",
-        "Brilhava como bronze polido."
+        "Parecia o rosto de Moisés.",
+        "Parecia o rosto de um profeta antigo.",
+        "Parecia o rosto de um querubim."
       ]
     },
     {
@@ -371,9 +371,9 @@
       "answer": "Apedrejaram-no, e ele morreu.",
       "reference": "At 7:58-60",
       "wrongs": [
-        "Prenderam-no de novo e o soltaram.",
-        "Expulsaram-no vivo para Damasco.",
-        "Açoitaram-no e o deixaram na porta."
+        "Açoitaram-no, e ele morreu.",
+        "Enforcaram-no, e ele morreu.",
+        "Decapitaram-no, e ele morreu."
       ]
     },
     {
@@ -387,8 +387,8 @@
       "reference": "At 7:58",
       "wrongs": [
         "Um jovem chamado Barnabé.",
-        "José, chamado Justo.",
-        "O levita Ananias."
+        "Um jovem chamado Silas.",
+        "Um jovem chamado Timóteo."
       ]
     },
     {
@@ -401,9 +401,9 @@
       "answer": "Para Midiã, onde teve dois filhos.",
       "reference": "At 7:29",
       "wrongs": [
-        "Para o Egito, na corte do faraó.",
-        "Para Canaã, com a família.",
-        "Para o deserto de Sur."
+        "Para o Egito, onde teve dois filhos.",
+        "Para Canaã, onde apascentou o rebanho.",
+        "Para o deserto de Sur, onde se casou."
       ]
     },
     {
@@ -416,9 +416,9 @@
       "answer": "A glória de Deus e Jesus à direita dele.",
       "reference": "At 7:55",
       "wrongs": [
-        "Moisés e Elias conversando.",
-        "Só o véu do templo se rasgando.",
-        "Uma escada cheia de anjos."
+        "A glória de Deus e Jesus em pé ao lado dele.",
+        "A glória de Deus e o Espírito em forma de pomba.",
+        "A glória de Deus e os anjos ao redor do trono."
       ]
     },
     {
@@ -431,9 +431,9 @@
       "answer": "Desceu com ele à água e o batizou.",
       "reference": "At 8:38",
       "wrongs": [
-        "Leu com ele o profeta e seguiu viagem.",
-        "Impôs as mãos, sem descer à água.",
-        "Mandou que ele se batizasse em Jerusalém."
+        "Desceu com ele à água e o abençoou.",
+        "Desceu com ele ao deserto e o batizou.",
+        "Desceu com ele à água e o batizou com fogo."
       ]
     },
     {
@@ -461,9 +461,9 @@
       "answer": "À estrada deserta entre Jerusalém e Gaza.",
       "reference": "At 8:26",
       "wrongs": [
-        "À estrada do mar, rumo a Jope.",
-        "Ao caminho de Damasco, ao meio-dia.",
-        "À porta do templo em Samaria."
+        "À estrada deserta entre Jerusalém e Samaria.",
+        "À estrada do mar, entre Gaza e Jope.",
+        "À estrada deserta entre Damasco e Gaza."
       ]
     },
     {
@@ -476,9 +476,9 @@
       "answer": "Dinheiro, ao ver o Espírito ser dado.",
       "reference": "At 8:18",
       "wrongs": [
-        "A túnica, para parecer um apóstolo.",
-        "Um feitiço, escrito num pergaminho.",
-        "A casa dele, em troca do dom."
+        "Um manto, ao ver o Espírito ser dado.",
+        "Um cordeiro, ao ver o Espírito ser dado.",
+        "Um anel, ao ver o Espírito ser dado."
       ]
     },
     {
@@ -492,9 +492,9 @@
       "answer": "Um clarão do céu o derrubou, e Jesus falou com ele.",
       "reference": "At 9:3-5",
       "wrongs": [
-        "Um anjo o guiou, e ele seguiu a pé.",
-        "Os guardas o prenderam na porta da cidade.",
-        "Uma tempestade o fez voltar a Jerusalém."
+        "Um clarão do céu o derrubou, e um anjo falou com ele.",
+        "Um relâmpago do céu o derrubou, e Jesus falou com ele.",
+        "Um terremoto o derrubou, e Jesus falou com ele."
       ]
     },
     {
@@ -537,9 +537,9 @@
       "answer": "Três dias, e nesse período ficou em jejum.",
       "reference": "At 9:9",
       "wrongs": [
-        "Um dia, e comeu à noite.",
-        "Sete dias, sem sair de casa.",
-        "Quarenta dias, em oração."
+        "Sete dias, e nesse período ficou em jejum.",
+        "Dois dias, e nesse período ficou em jejum.",
+        "Quarenta dias, e nesse período ficou em jejum."
       ]
     },
     {
@@ -552,9 +552,9 @@
       "answer": "O Espírito Santo, enquanto Pedro ainda falava.",
       "reference": "At 10:44",
       "wrongs": [
-        "Um anjo, visível só para Cornélio.",
-        "Silêncio, e Pedro terminou sem resposta.",
-        "Línguas de fogo, sem ninguém falar."
+        "O Espírito Santo, enquanto Cornélio ainda falava.",
+        "O Espírito Santo, depois que Pedro terminou.",
+        "Um anjo, enquanto Pedro ainda falava."
       ]
     },
     {
@@ -583,7 +583,7 @@
       "reference": "At 10:5",
       "wrongs": [
         "A Lida.",
-        "A Cesareia.",
+        "A Damasco.",
         "A Tarso."
       ]
     },
@@ -657,7 +657,7 @@
       "answer": "Um ano inteiro.",
       "reference": "At 11:26",
       "wrongs": [
-        "Um mês.",
+        "Um mês inteiro.",
         "Três anos.",
         "Seis meses."
       ]
@@ -672,9 +672,9 @@
       "answer": "Um anjo, e as cadeias caíram das mãos dele.",
       "reference": "At 12:7",
       "wrongs": [
-        "Os irmãos, que subornaram os guardas.",
-        "Rode, que achou a chave da cela.",
-        "O próprio Pedro, com uma lima."
+        "Um anjo, e as cadeias caíram dos pés dele.",
+        "Um anjo, e as cadeias caíram das mãos dos guardas.",
+        "Um anjo, e os guardas fugiram da prisão."
       ]
     },
     {
@@ -717,9 +717,9 @@
       "answer": "Um anjo o feriu, e ele foi comido de bichos.",
       "reference": "At 12:23",
       "wrongs": [
-        "Caiu da tribuna e quebrou o pescoço.",
-        "Os guardas o feriram na prisão.",
-        "Morreu de febre em Jerusalém."
+        "Um anjo o feriu, e ele morreu na prisão.",
+        "Um soldado o feriu, e ele foi comido de bichos.",
+        "Um anjo o feriu, e ele caiu da tribuna."
       ]
     },
     {
@@ -777,9 +777,9 @@
       "answer": "Ficou sem ver e precisava de alguém que o guiasse.",
       "reference": "At 13:11",
       "wrongs": [
-        "Ficou mudo e não pôde responder.",
-        "Caiu doente e foi levado para casa.",
-        "A mão dele secou na hora."
+        "Ficou mudo e precisava de alguém que falasse por ele.",
+        "Ficou surdo e precisava de alguém que o guiasse.",
+        "Ficou coxo e precisava de alguém que o guiasse."
       ]
     },
     {
@@ -792,9 +792,9 @@
       "answer": "Oferecer um sacrifício de touros em honra deles.",
       "reference": "At 14:13",
       "wrongs": [
-        "Expulsá-los da cidade a pedradas.",
-        "Nomeá-los juízes da praça.",
-        "Vender-lhes a imagem de Júpiter."
+        "Oferecer um sacrifício de ovelhas em honra deles.",
+        "Oferecer um sacrifício de cabritos em honra deles.",
+        "Oferecer um sacrifício de pombas em honra deles."
       ]
     },
     {
@@ -807,9 +807,9 @@
       "answer": "Paulo, pois era ele quem falava.",
       "reference": "At 14:12",
       "wrongs": [
-        "Barnabé, que estava em silêncio.",
-        "Silas, que viajava com eles.",
-        "Timóteo, ainda jovem."
+        "Barnabé, pois era ele quem falava.",
+        "Silas, pois era ele quem falava.",
+        "Timóteo, pois era ele quem falava."
       ]
     },
     {
@@ -824,7 +824,7 @@
       "wrongs": [
         "Em Icônio.",
         "Em Derbe.",
-        "Em Antioquia da Pisídia."
+        "Em Antioquia."
       ]
     },
     {
@@ -837,9 +837,9 @@
       "answer": "Apedrejaram-no e o largaram, achando que tinha morrido.",
       "reference": "At 14:19",
       "wrongs": [
-        "Prenderam-no e o levaram ao teatro.",
-        "Expulsaram-no vivo para Derbe.",
-        "Entregaram-no aos sacerdotes de Júpiter."
+        "Açoitaram-no e o largaram, achando que tinha morrido.",
+        "Apedrejaram-no e o levaram, achando que tinha morrido.",
+        "Apedrejaram-no e o largaram, achando que era um deus."
       ]
     },
     {
@@ -852,9 +852,9 @@
       "answer": "Coisas sacrificadas a ídolos, sangue, carne sufocada e fornicação.",
       "reference": "At 15:29",
       "wrongs": [
-        "Circuncisão, sábado e dízimo do templo.",
-        "Carne de porco, fermento e vinho novo.",
-        "Trabalho no sábado, jejum e voto."
+        "Coisas sacrificadas a ídolos, sangue, carne de porco e fornicação.",
+        "Coisas sacrificadas a ídolos, sangue, carne sufocada e idolatria.",
+        "Coisas sacrificadas a ídolos, vinho, carne sufocada e fornicação."
       ]
     },
     {
@@ -867,8 +867,8 @@
       "answer": "Judas Barsabás e Silas.",
       "reference": "At 15:22",
       "wrongs": [
-        "Timóteo e Tito.",
-        "Pedro e João.",
+        "Timóteo e Silas.",
+        "Judas Barsabás e Tito.",
         "Ágabo e Mnason."
       ]
     },
@@ -884,7 +884,7 @@
       "wrongs": [
         "Para Antioquia, ao encontro dos profetas.",
         "Para Cesareia, diante do governador.",
-        "Para Damasco, na casa de Ananias."
+        "Para Damasco, ao encontro dos discípulos."
       ]
     },
     {
@@ -897,9 +897,9 @@
       "answer": "Separaram-se, e Barnabé levou Marcos ao Chipre.",
       "reference": "At 15:39",
       "wrongs": [
-        "Seguiram juntos, e Marcos foi na frente.",
-        "Paulo cedeu, e os três foram ao Chipre.",
-        "Barnabé ficou, e Paulo levou Marcos."
+        "Separaram-se, e Barnabé levou Marcos a Jerusalém.",
+        "Separaram-se, e Paulo levou Marcos ao Chipre.",
+        "Separaram-se, e Barnabé levou Silas ao Chipre."
       ]
     },
     {
@@ -912,9 +912,9 @@
       "answer": "Um terremoto abriu as portas e soltou as correntes.",
       "reference": "At 16:26",
       "wrongs": [
-        "Os guardas abriram as portas por pena.",
-        "Um anjo soltou só as correntes de Paulo.",
-        "A prisão ficou fechada até de manhã."
+        "Um terremoto abriu as portas e soltou só as correntes de Paulo.",
+        "Um terremoto abriu as janelas e soltou as correntes.",
+        "O carcereiro abriu as portas e soltou as correntes."
       ]
     },
     {
@@ -957,9 +957,9 @@
       "answer": "Crendo em Jesus Cristo, ele e toda a sua casa.",
       "reference": "At 16:31",
       "wrongs": [
-        "Guardando o sábado com toda a casa.",
-        "Sendo circuncidado naquela noite.",
-        "Oferecendo um sacrifício no rio."
+        "Crendo em Jesus Cristo, ele e só os filhos.",
+        "Crendo em Jesus Cristo, ele e os presos.",
+        "Crendo em Moisés, ele e toda a sua casa."
       ]
     },
     {
@@ -989,7 +989,7 @@
       "wrongs": [
         "Áquila, o fabricante de tendas, e Priscila.",
         "Lídia, a vendedora, e o carcereiro.",
-        "Epicuro, filósofo da cidade, e ninguém mais."
+        "Dionísio, o areopagita, e também Lídia."
       ]
     },
     {
@@ -1017,9 +1017,9 @@
       "answer": "Ao Deus desconhecido.",
       "reference": "At 17:23",
       "wrongs": [
-        "Uma lista dos deuses da cidade.",
-        "O nome de César, gravado em ouro.",
-        "Uma ordem para prender estrangeiros."
+        "Ao deus dos atenienses.",
+        "Ao Deus Altíssimo.",
+        "Ao Deus de Israel."
       ]
     },
     {
@@ -1032,9 +1032,9 @@
       "answer": "Creram na mensagem e receberam o batismo.",
       "reference": "At 18:8",
       "wrongs": [
-        "Expulsaram Paulo da sinagoga.",
-        "Ficaram neutros e foram para casa.",
-        "Ofereceram sacrifício a Diana."
+        "Creram na mensagem e pediram outro sinal.",
+        "Creram na mensagem e foram batizados em Éfeso.",
+        "Creram na mensagem e receberam a circuncisão."
       ]
     },
     {
@@ -1092,9 +1092,9 @@
       "answer": "Invadiu o teatro, levando Gaio e Aristarco.",
       "reference": "At 19:29",
       "wrongs": [
-        "Fechou o teatro e dispersou a praça.",
-        "Queimou os livros na rua principal.",
-        "Correu ao templo e trancou as portas."
+        "Invadiu o teatro, levando Alexandre e Tirano.",
+        "Invadiu o teatro, levando Gaio e Timóteo.",
+        "Invadiu a praça, levando Gaio e Aristarco."
       ]
     },
     {
@@ -1137,9 +1137,9 @@
       "answer": "Foram queimados, e o preço somava cinquenta mil peças de prata.",
       "reference": "At 19:19",
       "wrongs": [
-        "Foram vendidos, e o lucro ficou com Paulo.",
-        "Foram escondidos numa casa da cidade.",
-        "Foram jogados no mar, sem valor algum."
+        "Foram queimados, e o preço somava cinco mil peças de prata.",
+        "Foram queimados, e o preço somava quinhentas mil peças de prata.",
+        "Foram queimados, e o preço somava cinquenta mil peças de ouro."
       ]
     },
     {
@@ -1152,9 +1152,9 @@
       "answer": "Que eles não veriam mais o rosto dele.",
       "reference": "At 20:25",
       "wrongs": [
-        "Que voltaria na festa seguinte.",
-        "Que Silas ficaria no lugar dele.",
-        "Que o templo de Éfeso cairia logo."
+        "Que eles não veriam mais o rosto de Tiago.",
+        "Que eles não o veriam até a festa seguinte.",
+        "Que eles não veriam mais o rosto de Silas."
       ]
     },
     {
@@ -1168,7 +1168,7 @@
       "reference": "At 20:9",
       "wrongs": [
         "Trófimo, um efésio.",
-        "Gaio, de Derbe.",
+        "Gaio, um jovem de Derbe.",
         "Carpo, dono da casa."
       ]
     },
@@ -1212,9 +1212,9 @@
       "answer": "Arrastaram-no para fora e fecharam as portas.",
       "reference": "At 21:30",
       "wrongs": [
-        "Entregou-o aos sacerdotes, dentro do pátio.",
-        "Aclamou-o e abriu as portas do santuário.",
-        "Deixou-o pregar até o pôr do sol."
+        "Arrastaram-no para o pátio e fecharam as portas.",
+        "Arrastaram-no para a praça e fecharam as portas.",
+        "Empurraram-no para fora e fecharam as portas."
       ]
     },
     {
@@ -1228,7 +1228,7 @@
       "answer": "Ágabo, um profeta vindo da Judeia.",
       "reference": "At 21:10-11",
       "wrongs": [
-        "Filipe, um dos sete.",
+        "Filipe, um profeta de Cesareia.",
         "Ananias, de Damasco.",
         "Silas, companheiro de viagem."
       ]
@@ -1245,7 +1245,7 @@
       "wrongs": [
         "De Cornélio, o centurião.",
         "De Mnason, vindo do Chipre.",
-        "De Simão, o curtidor."
+        "De Simão, o curtidor de Jope."
       ]
     },
     {
@@ -1364,9 +1364,9 @@
       "answer": "Até Antipátride.",
       "reference": "At 23:31",
       "wrongs": [
-        "Até Cesareia, já de madrugada.",
         "Até Jope, na costa.",
-        "Até Emaús, a poucas horas."
+        "Até Emaús, a poucas horas.",
+        "Até Gaza, no sul."
       ]
     },
     {
@@ -1395,8 +1395,8 @@
       "reference": "At 24:27",
       "wrongs": [
         "Um ano, até o inverno passar.",
-        "Seis meses, até a festa.",
-        "Três anos, sem julgamento."
+        "Seis meses, até Pórcio Festo assumir o posto.",
+        "Três anos, até o inverno passar."
       ]
     },
     {
@@ -1439,9 +1439,9 @@
       "answer": "Dinheiro, para então soltá-lo.",
       "reference": "At 24:26",
       "wrongs": [
-        "Um discurso a favor dele no tribunal.",
-        "A liberdade dos outros presos.",
-        "Um salvo-conduto para Roma."
+        "Um favor, para então soltá-lo.",
+        "Um discurso, para então soltá-lo.",
+        "Dinheiro, para então condená-lo."
       ]
     },
     {
@@ -1455,8 +1455,8 @@
       "reference": "At 25:11",
       "wrongs": [
         "Ao sinédrio.",
-        "Ao rei Agripa.",
-        "Ao governador Félix."
+        "A Agripa.",
+        "A Festo."
       ]
     },
     {
@@ -1499,9 +1499,9 @@
       "answer": "Não achou nada que merecesse a morte.",
       "reference": "At 25:25",
       "wrongs": [
-        "Confirmou a sentença de morte.",
-        "Achou culpa, mas não de morte.",
-        "Mandou executar Paulo em Cesareia."
+        "Não achou nada que merecesse a prisão.",
+        "Não achou nada que merecesse açoites.",
+        "Não achou crime que merecesse castigo."
       ]
     },
     {
@@ -1514,9 +1514,9 @@
       "answer": "Que Paulo quase o convencia a se tornar cristão.",
       "reference": "At 26:28",
       "wrongs": [
-        "Que Paulo já o tinha feito cristão.",
-        "Que a defesa não merecia resposta.",
-        "Que César devia soltar Paulo na hora."
+        "Que Paulo quase o convencia a se tornar apóstolo.",
+        "Que Paulo quase o convencia a se batizar.",
+        "Que Paulo quase o convencia a se tornar profeta."
       ]
     },
     {
@@ -1575,9 +1575,9 @@
       "answer": "Todos chegaram vivos à terra.",
       "reference": "At 27:44",
       "wrongs": [
-        "Só Paulo chegou vivo à praia.",
-        "O navio chegou inteiro a Creta.",
-        "Quase todos morreram no mar."
+        "Todos chegaram vivos ao porto de Cnido.",
+        "Todos chegaram vivos ao porto de Fenice.",
+        "Todos chegaram vivos depois de três dias."
       ]
     },
     {
@@ -1605,9 +1605,9 @@
       "answer": "Bons Portos.",
       "reference": "At 27:8",
       "wrongs": [
-        "Fenice.",
-        "Mirra.",
-        "Cnido."
+        "Fenice, em Creta.",
+        "Mirra, na Lícia.",
+        "Cnido, no caminho."
       ]
     },
     {
@@ -1636,9 +1636,9 @@
       "answer": "Recebia as visitas e pregava o reino de Deus sem impedimento.",
       "reference": "At 28:30-31",
       "wrongs": [
-        "Ficou preso em silêncio, sem visitas.",
-        "Ensinou só na sinagoga, uma vez.",
-        "Partiu de novo para a Espanha."
+        "Recebia as visitas e pregava o reino de Deus com restrições.",
+        "Recebia as visitas e pregava a lei de Moisés sem impedimento.",
+        "Recebia as visitas e pregava o reino de Deus só aos sábados."
       ]
     },
     {
@@ -1682,9 +1682,9 @@
       "answer": "Sacudiu a víbora no fogo e não sofreu mal.",
       "reference": "At 28:3-5",
       "wrongs": [
-        "Cortou a mão para não morrer.",
-        "Matou a víbora com uma pedra e inchou.",
-        "Pediu óleo e ficou de cama."
+        "Queimou a víbora no fogo e não sofreu mal.",
+        "Sacudiu a víbora na areia e não sofreu mal.",
+        "Sacudiu a serpente na água e não sofreu mal."
       ]
     },
     {

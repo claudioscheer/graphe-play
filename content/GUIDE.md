@@ -33,6 +33,50 @@ Cada arquivo em `content/pt/` é um livro. O id da carta não muda quando houver
 - Um fato por carta. Sem pegadinha.
 - `wrongs` são três respostas erradas para o quiz. Respondem a mesma pergunta, no mesmo tamanho da certa, e só uma opção fica correta.
 
+## Respostas erradas do quiz
+
+A errada se parece com a certa. Quem lê as quatro opções não escolhe a certa pelo formato, pelo tamanho ou pela negação: escolhe porque sabe o fato. A errada é uma quase paráfrase da certa, com um ou dois elementos trocados.
+
+- **Mesma forma.** Nome responde com nome de pessoa; lugar, com lugar e a mesma preposição; número, com número e a mesma unidade; frase, com frase do mesmo tipo (sujeito, verbo e complemento na mesma ordem).
+- **Mesma moldura, termo trocado.** Mantenha a estrutura da certa e troque o termo que decide a resposta por outro do mesmo tipo. Não cole a certa e acrescente um "e…": isso deixa a primeira metade certa e a errada parece verdadeira. "Porque Deus é amor" vira "Porque Deus é bondoso", "Porque Deus é longânimo" ou "Porque Deus exige amor", não "Porque Deus é amor, e o amor está só nos mandamentos".
+- **Mesma polaridade.** Se a certa afirma, as três erradas afirmam. Se a certa nega, as três erradas negam. A errada nunca é o contrário direto da certa (negar o que ela afirma, afirmar o que ela nega, trocar o sujeito pelo seu oposto).
+- **Mesmo tamanho.** Entre 60% e 160% dos caracteres da certa. Sem opção curta de duas palavras ao lado de uma frase longa.
+- **Mesmo grau de detalhe.** Se a certa cita pessoa, lugar e número, a errada também cita. Se a certa é só um nome, a errada é só um nome.
+- **Erro plausível.** A errada faz sentido e soa verdadeira para quem não decorou o versículo. É o erro de quem confunde outra pessoa, outro lugar, outro número, outra ordem dos fatos ou outro versículo parecido. Nada absurdo ("Ninguém", "Nada", "Um anjo", "Deus" quando a certa é um nome) e nada que repita a certa inteira.
+
+Exemplo:
+
+```json
+{
+  "prompt": "Qual mensagem 1 João anuncia no início a respeito de Deus?",
+  "answer": "Deus é luz, e não há nele trevas nenhumas.",
+  "wrongs": [
+    "Deus é luz, e não há nele sombra nenhuma.",
+    "Deus é luz, e não há nele mancha alguma.",
+    "Deus é luz, e não há nele mudança alguma."
+  ]
+}
+```
+
+As três mantêm "Deus é luz, e não há nele…" e trocam só o último substantivo. Nenhuma é o contrário direto ("Deus é sombra…"), nenhuma é absurda ("Deus é fogo…") e nenhuma é a certa com uma explicação colada no fim.
+
+Outro exemplo, com resposta de ação:
+
+```json
+{
+  "prompt": "O que Deus faz quando os pecados são confessados?",
+  "answer": "Perdoa os pecados e purifica de toda injustiça.",
+  "wrongs": [
+    "Perdoa as culpas e purifica de toda injustiça.",
+    "Perdoa os pecados e lava de toda injustiça.",
+    "Perdoa os pecados e purifica de toda maldade."
+  ]
+}
+```
+
+As três repetem a certa e trocam uma palavra: o objeto, o verbo ou o complemento. Continuam plausíveis e continuam erradas para 1Jo 1:9. O que não serve: "Perdoa os pecados e promete purificar no último dia", porque a primeira metade já entrega a resposta e o resto vira explicação.
+
+
 `content/version.txt` sobe quando o conjunto de cartas muda, para o app recolocar as cartas sem apagar os acertos.
 
 Ordem dos lotes: Jonas e Gênesis, depois Êxodo–Deuteronômio, Josué–Ester, Jó–Cantares, Isaías–Malaquias, Mateus–João, Atos–Apocalipse.

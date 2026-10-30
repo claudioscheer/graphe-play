@@ -10,9 +10,9 @@
       "answer": "A uma árvore na beira da água, que dá fruto.",
       "reference": "Sl 1:3",
       "wrongs": [
-        "A um cedro no alto do Líbano.",
-        "A uma videira carregada de uvas.",
-        "A um lírio que floresce no campo."
+        "A um cedro na beira da água, que dá fruto.",
+        "A uma videira na beira da água, que dá fruto.",
+        "A uma oliveira na beira da água, que dá fruto."
       ]
     },
     {
@@ -25,9 +25,9 @@
       "answer": "De dia e também de noite.",
       "reference": "Sl 1:2",
       "wrongs": [
-        "Só no sábado, na reunião.",
-        "Só de manhã, antes do trabalho.",
-        "Só na festa, uma vez por ano."
+        "De madrugada e também ao meio-dia.",
+        "De manhã e também à tarde.",
+        "No sábado e também na lua nova."
       ]
     },
     {
@@ -40,9 +40,9 @@
       "answer": "Com a moinha que o vento espalha.",
       "reference": "Sl 1:4",
       "wrongs": [
-        "Com pedra que o rio não move.",
-        "Com cedro que fica firme no monte.",
-        "Com ouro que o fogo não consome."
+        "Com a palha que o vento espalha.",
+        "Com a poeira que o vento levanta.",
+        "Com a areia que o vento carrega."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Que esse rei é filho dele.",
       "reference": "Sl 2:7",
       "wrongs": [
-        "Que esse rei é só um servo.",
+        "Que esse rei é neto dele.",
         "Que esse rei é irmão dele.",
-        "Que esse rei é um anjo."
+        "Que esse rei é primo dele."
       ]
     },
     {
@@ -72,7 +72,7 @@
       "wrongs": [
         "No monte Sinai.",
         "No monte Carmelo.",
-        "No monte das Oliveiras."
+        "No monte Ebal."
       ]
     },
     {
@@ -101,8 +101,8 @@
       "reference": "Sl 3:7",
       "wrongs": [
         "Deus curou os dentes deles.",
-        "Deus dourou os dentes deles.",
-        "Deus contou os dentes deles."
+        "Deus guardou os dentes deles.",
+        "Deus limpou os dentes deles."
       ]
     },
     {
@@ -130,9 +130,9 @@
       "answer": "Dez milhares de pessoas.",
       "reference": "Sl 3:6",
       "wrongs": [
-        "Um grupo de cem.",
-        "Uma tropa de mil.",
-        "A cidade inteira."
+        "Cem milhares de pessoas.",
+        "Vinte milhares de pessoas.",
+        "Cinco milhares de pessoas."
       ]
     },
     {
@@ -160,9 +160,9 @@
       "answer": "A luz do rosto dele.",
       "reference": "Sl 4:6",
       "wrongs": [
-        "A mão pesada dele.",
-        "A nuvem do dia.",
-        "O fogo da noite."
+        "A glória do rosto dele.",
+        "O brilho do rosto dele.",
+        "A paz do rosto dele."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "answer": "Porque só o SENHOR o faz habitar em segurança.",
       "reference": "Sl 4:8",
       "wrongs": [
-        "Porque os muros lhe dão um abrigo firme.",
-        "Porque os guardas lhe dão uma noite quieta.",
-        "Porque a casa lhe dá uma porta trancada."
+        "Porque só o SENHOR o faz habitar em paz.",
+        "Porque só o SENHOR o faz dormir em segurança.",
+        "Porque só o SENHOR o faz repousar em segurança."
       ]
     },
     {
@@ -235,9 +235,9 @@
       "answer": "Faz a cama nadar e molha o leito.",
       "reference": "Sl 6:6",
       "wrongs": [
-        "Seca a cama e esfria o leito.",
-        "Cobre a cama e rasga o leito.",
-        "Levanta a cama e vira o leito."
+        "Faz a cama boiar e inunda o leito.",
+        "Faz a cama balançar e lava o leito.",
+        "Faz a cama tremer e afunda o leito."
       ]
     },
     {
@@ -250,9 +250,9 @@
       "answer": "No sepulcro.",
       "reference": "Sl 6:5",
       "wrongs": [
-        "No deserto sem água.",
-        "No exílio sem templo.",
-        "No cume sem altar."
+        "No deserto.",
+        "No abismo.",
+        "No exílio."
       ]
     },
     {
@@ -295,9 +295,9 @@
       "answer": "De Cuxe, descendente de Benjamim.",
       "reference": "Sl 7:1",
       "wrongs": [
-        "De Saul, rei de Israel.",
-        "De Natã, o profeta.",
-        "De Doegue, o edomita."
+        "De Saul, descendente de Benjamim.",
+        "De Simei, descendente de Benjamim.",
+        "De Doegue, descendente de Benjamim."
       ]
     },
     {
@@ -310,9 +310,9 @@
       "answer": "Afia a espada e deixa o arco pronto.",
       "reference": "Sl 7:12",
       "wrongs": [
-        "Apaga a lâmpada e fecha a porta.",
-        "Quebra a espada e solta o arco.",
-        "Esconde o escudo e enterra as flechas."
+        "Afia a espada e deixa o escudo pronto.",
+        "Afia a lança e deixa o arco pronto.",
+        "Afia a espada e deixa a aljava pronta."
       ]
     },
     {
@@ -325,9 +325,9 @@
       "answer": "Só um pouco, e o coroou de glória e honra.",
       "reference": "Sl 8:5",
       "wrongs": [
-        "Muito abaixo, e o deixou sem glória nem honra.",
-        "No mesmo nível, e não lhe deu coroa nenhuma.",
-        "Muito acima, e o fez dono da glória deles."
+        "Só um pouco, e o coroou de glória e riqueza.",
+        "Só um pouco, e o coroou de honra e poder.",
+        "Só um pouco, e o coroou de glória e formosura."
       ]
     },
     {
@@ -370,9 +370,9 @@
       "answer": "Afundaram na cova e prenderam o pé na rede.",
       "reference": "Sl 9:15",
       "wrongs": [
-        "Saíram da cova e soltaram o pé da rede.",
-        "Encheram a cova e rasgaram a rede toda.",
-        "Ficaram fora da cova e longe da rede."
+        "Afundaram na cova e soltaram o pé na rede.",
+        "Afundaram no fosso e prenderam o pé na rede.",
+        "Caíram na cova e prenderam a mão na rede."
       ]
     },
     {
@@ -520,9 +520,9 @@
       "answer": "É um coração dobrado.",
       "reference": "Sl 12:2",
       "wrongs": [
-        "Inteiro, com uma intenção só.",
-        "Vazio, sem intenção nenhuma.",
-        "Manso, com intenção sincera."
+        "É um coração fechado.",
+        "É um coração fingido.",
+        "É um coração partido."
       ]
     },
     {
@@ -610,9 +610,9 @@
       "answer": "Anda de modo sincero e faz o que é justo.",
       "reference": "Sl 15:2",
       "wrongs": [
-        "Anda depressa e busca o próprio lucro.",
-        "Fala alto e evita o que é justo.",
-        "Fica parado e esconde o que é justo."
+        "Anda de modo fingido e faz o que é justo.",
+        "Anda de modo altivo e faz o que é justo.",
+        "Anda de modo apressado e faz o que é justo."
       ]
     },
     {
@@ -640,9 +640,9 @@
       "answer": "Usura e peitas.",
       "reference": "Sl 15:5",
       "wrongs": [
-        "Perdão e bênção.",
-        "Voto e jejum.",
-        "Pão e vinho."
+        "Usura e presentes.",
+        "Juros e peitas.",
+        "Usura e fianças."
       ]
     },
     {
@@ -792,7 +792,7 @@
       "wrongs": [
         "Um trono.",
         "Uma escada.",
-        "Um caminho de pedra."
+        "Uma casa."
       ]
     },
     {
@@ -805,9 +805,9 @@
       "answer": "Refrigera a alma.",
       "reference": "Sl 19:7",
       "wrongs": [
-        "Fecha a alma para o medo.",
-        "Esconde a alma do juízo.",
-        "Entrega a alma ao silêncio."
+        "Agita a alma.",
+        "Aquece a alma.",
+        "Cansa a alma."
       ]
     },
     {
@@ -1196,9 +1196,9 @@
       "answer": "Ficar semelhante a quem desce ao abismo.",
       "reference": "Sl 28:1",
       "wrongs": [
-        "Ficar igual a quem sobe ao monte.",
-        "Ficar igual a quem dorme em paz.",
-        "Ficar igual a quem reina na cidade."
+        "Ficar semelhante a quem desce ao sepulcro.",
+        "Ficar semelhante a quem cai no fosso.",
+        "Ficar semelhante a quem cala no túmulo."
       ]
     },
     {
@@ -1226,9 +1226,9 @@
       "answer": "Ela quebra esses cedros.",
       "reference": "Sl 29:5",
       "wrongs": [
-        "Ela planta esses cedros.",
-        "Ela cobre esses cedros de neve.",
-        "Ela curva esses cedros sem ruído."
+        "Ela abala esses cedros.",
+        "Ela sacode esses cedros.",
+        "Ela desfolha esses cedros."
       ]
     },
     {
@@ -1421,9 +1421,9 @@
       "answer": "O que ele disse se fez, e o que ordenou apareceu.",
       "reference": "Sl 33:9",
       "wrongs": [
-        "O que ele disse se perdeu, e o que ordenou falhou.",
-        "O que ele disse esperou anos, e o que ordenou tardou.",
-        "O que ele disse foi debatido, e o que ordenou ficou só escrito."
+        "O que ele disse se fez, e o que ordenou esperou o tempo.",
+        "O que ele disse se fez, e o que ordenou esperou anos.",
+        "O que ele disse se fez, e o que ordenou veio aos poucos."
       ]
     },
     {
@@ -1466,9 +1466,9 @@
       "answer": "Abimeleque.",
       "reference": "Sl 34:1",
       "wrongs": [
-        "Saul.",
-        "Nabal.",
-        "Doegue."
+        "Abinadabe.",
+        "Aimeleque.",
+        "Aitofel."
       ]
     },
     {
@@ -1498,7 +1498,7 @@
       "wrongs": [
         "Que ele está longe.",
         "Que ele se cansou.",
-        "Que ele mudou de lado."
+        "Que ele é severo."
       ]
     },
     {
@@ -1631,9 +1631,9 @@
       "answer": "Ao surdo e ao mudo.",
       "reference": "Sl 38:13",
       "wrongs": [
-        "A quem corre e a quem não para.",
-        "A quem grita e a quem não escuta.",
-        "A quem vê tudo e a quem não esquece."
+        "Ao cego e ao coxo.",
+        "Ao cego e ao mudo.",
+        "Ao surdo e ao cego."
       ]
     },
     {
@@ -1693,7 +1693,7 @@
       "wrongs": [
         "Asafe.",
         "Hemã.",
-        "Etã."
+        "Corá."
       ]
     },
     {
@@ -1721,9 +1721,9 @@
       "answer": "À traça.",
       "reference": "Sl 39:11",
       "wrongs": [
-        "Ao gafanhoto.",
         "À lagarta.",
-        "À mosca."
+        "À mosca.",
+        "Ao verme."
       ]
     },
     {
@@ -1781,9 +1781,9 @@
       "answer": "Ergueu o calcanhar contra ele.",
       "reference": "Sl 41:9",
       "wrongs": [
-        "Partiu outro pão com ele.",
-        "Ungiu a cabeça dele.",
-        "Guardou a porta dele."
+        "Virou as costas para ele.",
+        "Fechou a porta para ele.",
+        "Negou o pão da mesa a ele."
       ]
     },
     {
@@ -1796,9 +1796,9 @@
       "answer": "Sustenta-o no leito e o restaura da cama de doença.",
       "reference": "Sl 41:3",
       "wrongs": [
-        "Esquece o doente e tira a cama inteira.",
-        "Isola o doente e esconde a cama inteira.",
-        "Entrega o doente e queima a cama inteira."
+        "Sustenta-o no leito e o livra da febre.",
+        "Sustenta-o na casa e o restaura da cama de doença.",
+        "Sustenta-o no leito e o visita na cama de doença."
       ]
     },
     {
@@ -1826,7 +1826,7 @@
       "answer": "A um cervo que brama pelas correntes das águas.",
       "reference": "Sl 42:1",
       "wrongs": [
-        "A um leão que busca a presa.",
+        "A um leão que busca a presa na mata.",
         "A uma pomba que busca o ninho.",
         "A um camelo que busca o oásis."
       ]
@@ -1856,7 +1856,7 @@
       "answer": "As próprias lágrimas.",
       "reference": "Sl 42:3",
       "wrongs": [
-        "O pão seco.",
+        "O pão dos vizinhos.",
         "O mel silvestre.",
         "As ervas amargas."
       ]
@@ -1961,7 +1961,7 @@
       "answer": "Por valor nenhum.",
       "reference": "Sl 44:12",
       "wrongs": [
-        "Por um preço alto.",
+        "Por um valor pequeno.",
         "Por prata pesada.",
         "Por um campo de trigo."
       ]
@@ -2083,7 +2083,7 @@
       "wrongs": [
         "Erguer as mãos e ficar em silêncio.",
         "Fechar as mãos e chorar de medo.",
-        "Abrir as mãos e oferecer pão."
+        "Abrir as mãos e oferecer ouro."
       ]
     },
     {
@@ -2171,9 +2171,9 @@
       "answer": "Ninguém consegue.",
       "reference": "Sl 49:7",
       "wrongs": [
-        "Só o irmão mais rico.",
-        "Só o sacerdote do templo.",
-        "Só o rei com muito ouro."
+        "Ninguém quer pagar.",
+        "Ninguém sabe o preço.",
+        "Ninguém aceita o resgate."
       ]
     },
     {
@@ -2201,9 +2201,9 @@
       "answer": "Não leva nada, e a glória não o acompanha.",
       "reference": "Sl 49:17",
       "wrongs": [
-        "Leva o ouro, e a casa o acompanha.",
-        "Leva o nome, e o trono o acompanha.",
-        "Leva a família, e a terra o acompanha."
+        "Não leva nada, e a glória o acompanha.",
+        "Não leva nada, e o nome o acompanha.",
+        "Não leva nada, e a honra o acompanha."
       ]
     },
     {
@@ -2291,7 +2291,7 @@
       "answer": "Que Deus os reconstrua.",
       "reference": "Sl 51:18",
       "wrongs": [
-        "Que Deus os derrube.",
+        "Que Deus os sustente.",
         "Que Deus os pinte de branco.",
         "Que Deus os cubra de ouro."
       ]
@@ -2366,9 +2366,9 @@
       "answer": "Espalhou esses ossos e rejeitou o inimigo.",
       "reference": "Sl 53:5",
       "wrongs": [
-        "Juntou esses ossos e curou o inimigo.",
-        "Enterrou esses ossos e poupou o inimigo.",
-        "Ungiu esses ossos e armou o inimigo."
+        "Juntou esses ossos no vale e rejeitou o inimigo.",
+        "Enterrou esses ossos na terra e rejeitou o inimigo.",
+        "Queimou esses ossos no fogo e rejeitou o inimigo."
       ]
     },
     {
@@ -2426,9 +2426,9 @@
       "answer": "De manhã, ao meio-dia e de tarde.",
       "reference": "Sl 55:17",
       "wrongs": [
-        "Só de noite, uma vez.",
-        "No sábado, de manhã.",
-        "Na lua nova, à tarde."
+        "De madrugada, ao meio-dia e de tarde.",
+        "De manhã, ao meio-dia e à meia-noite.",
+        "De manhã, bem cedo e ao meio-dia."
       ]
     },
     {
@@ -2621,8 +2621,8 @@
       "answer": "Para uma rocha mais alta que ele.",
       "reference": "Sl 61:2",
       "wrongs": [
-        "Para um vale mais fundo que ele.",
-        "Para uma cidade mais rica que ele.",
+        "Para uma torre mais alta que ele.",
+        "Para um monte mais alto que ele.",
         "Para um rio mais largo que ele."
       ]
     },
@@ -2831,9 +2831,9 @@
       "answer": "Vinte milhares, e milhares de milhares.",
       "reference": "Sl 68:17",
       "wrongs": [
-        "Algumas centenas.",
-        "Doze carruagens apenas.",
-        "Uma única, de fogo."
+        "Vinte milhares, e alguns milhares.",
+        "Doze milhares, e milhares de milhares.",
+        "Dois milhares, e milhares de milhares."
       ]
     },
     {
@@ -2876,9 +2876,9 @@
       "answer": "Os cabelos da cabeça do salmista.",
       "reference": "Sl 69:4",
       "wrongs": [
-        "As pedras do caminho.",
-        "As estrelas da noite.",
-        "As areias da praia."
+        "As areias da praia do mar.",
+        "As estrelas do céu inteiro.",
+        "As pedras do caminho longo."
       ]
     },
     {
@@ -2906,9 +2906,9 @@
       "answer": "Que Deus não o rejeite quando a força acabar.",
       "reference": "Sl 71:9",
       "wrongs": [
-        "Que Deus lhe dê um trono quando a força acabar.",
-        "Que Deus o leve ao deserto quando a força acabar.",
-        "Que Deus o faça general quando a força acabar."
+        "Que Deus não o castigue quando a força acabar.",
+        "Que Deus não o julgue quando a força acabar.",
+        "Que Deus não o condene quando a força acabar."
       ]
     },
     {
@@ -3206,9 +3206,9 @@
       "answer": "Vieram à herança, contaminaram o templo e a reduziram a montões.",
       "reference": "Sl 79:1",
       "wrongs": [
-        "Reconstruíram a herança, ungiram o templo e a deixaram em festa.",
-        "Compraram a herança, fecharam o templo e a deixaram vazia.",
-        "Contornaram a herança, pintaram o templo e a deixaram de pé."
+        "Queimaram a herança, saquearam o templo e a deixaram vazia.",
+        "Cercaram a herança, profanaram o templo e a deixaram em ruínas.",
+        "Tomaram a herança, incendiaram o templo e a deixaram sem muro."
       ]
     },
     {
@@ -3281,9 +3281,9 @@
       "answer": "O javali da selva, e as feras do campo a devoram.",
       "reference": "Sl 80:13",
       "wrongs": [
-        "O leão, e as aves a bicaram.",
-        "O bode, e os corvos a comeram.",
-        "O boi, e os gafanhotos a secaram."
+        "O leão da selva, e as aves a devoram.",
+        "O bode da selva, e os corvos a devoram.",
+        "O boi da selva, e os gafanhotos a devoram."
       ]
     },
     {
@@ -3296,9 +3296,9 @@
       "answer": "Ele a encherá, pois tirou o povo do Egito.",
       "reference": "Sl 81:10",
       "wrongs": [
-        "Ele a fechará, pois deixou o povo no Egito.",
-        "Ele a medirá, pois levou o povo ao Egito.",
-        "Ele a esvaziará, pois o povo voltou ao Egito."
+        "Ele a encherá, pois tirou o povo do deserto.",
+        "Ele a fartará, pois tirou o povo do Egito.",
+        "Ele a encherá, pois livrou o povo da fome."
       ]
     },
     {
@@ -3342,9 +3342,9 @@
       "answer": "Morrerão como homens e cairão como os outros chefes.",
       "reference": "Sl 82:6-7",
       "wrongs": [
-        "Viverão como anjos e subirão como os astros.",
-        "Reinarão como reis e ficarão como deuses.",
-        "Fugirão como cervos e sumirão como o vento."
+        "Morrerão como reis e cairão como os príncipes.",
+        "Morrerão como servos e cairão como os ímpios.",
+        "Morrerão como crianças e cairão como os fracos."
       ]
     },
     {
@@ -3432,9 +3432,9 @@
       "answer": "Elas se encontram, e a justiça beija a paz.",
       "reference": "Sl 85:10",
       "wrongs": [
-        "Elas se separam, e a justiça foge da paz.",
-        "Elas se escondem, e a justiça cobre a paz.",
-        "Elas se calam, e a justiça esquece a paz."
+        "Elas se encontram, e a justiça beija a terra.",
+        "Elas se encontram, e a justiça beija o povo.",
+        "Elas se encontram, e a justiça beija a lei."
       ]
     },
     {
@@ -3477,9 +3477,9 @@
       "answer": "Que um e outro nasceram ali, e Deus firma a cidade.",
       "reference": "Sl 87:5",
       "wrongs": [
-        "Que nenhum deles nasceu ali, e Deus muda a cidade.",
-        "Que só o rei nasceu ali, e Deus esconde a cidade.",
-        "Que todos nasceram fora, e Deus deixa a cidade."
+        "Que um e outro nasceram ali, e Deus firma o trono.",
+        "Que um e outro nasceram ali, e Deus guarda a cidade.",
+        "Que um e outro nasceram ali, e Deus conta as casas."
       ]
     },
     {
@@ -3507,9 +3507,9 @@
       "answer": "No abismo mais profundo, em trevas e nas profundezas.",
       "reference": "Sl 88:6",
       "wrongs": [
-        "Na torre mais alta, em luz e no terraço.",
-        "Na casa mais cheia, em festa e no pátio.",
-        "Na tenda mais nova, em sombra e no acampamento."
+        "No poço mais fundo, em trevas e nas profundezas.",
+        "No abismo mais antigo, em trevas e nas profundezas.",
+        "No abismo mais largo, em trevas e nas profundezas."
       ]
     },
     {
@@ -3689,7 +3689,7 @@
       "wrongs": [
         "Para a Páscoa.",
         "Para a lua nova.",
-        "Para o dia da expiação."
+        "Para o ano novo."
       ]
     },
     {
@@ -3702,9 +3702,9 @@
       "answer": "Até a velhice, ainda viçoso e vigoroso.",
       "reference": "Sl 92:14",
       "wrongs": [
-        "Até o meio da vida, ainda fraco e seco.",
-        "Até a primeira colheita, ainda baixo e novo.",
-        "Até o ano seguinte, ainda doente e mudo."
+        "Até o meio da vida, ainda viçoso e vigoroso.",
+        "Até a primeira colheita, ainda viçoso e vigoroso.",
+        "Até o ano seguinte, ainda viçoso e vigoroso."
       ]
     },
     {
@@ -3837,9 +3837,9 @@
       "answer": "Cantar de alegria, junto com o campo.",
       "reference": "Sl 96:12",
       "wrongs": [
-        "Secar de medo, junto com o rio.",
-        "Ficar mudas, junto com o monte.",
-        "Soltar as folhas, junto com a vinha."
+        "Cantar de alegria, junto com o rio.",
+        "Cantar de alegria, junto com o monte.",
+        "Cantar de alegria, junto com a vinha."
       ]
     },
     {
@@ -3853,7 +3853,7 @@
       "reference": "Sl 97:5",
       "wrongs": [
         "Crescem como se fossem cedros.",
-        "Ficam firmes como se fossem ferro.",
+        "Queimam como se fossem palha.",
         "Saltam como se fossem carneiros."
       ]
     },
@@ -3897,9 +3897,9 @@
       "answer": "Batem palmas, e os montes se alegram juntos.",
       "reference": "Sl 98:8",
       "wrongs": [
-        "Secam, e os montes se cobrem de cinza.",
-        "Param, e os montes se escondem na névoa.",
-        "Transbordam, e os montes se enchem de neve."
+        "Batem palmas, e os montes se cobrem de neve.",
+        "Batem palmas, e os montes se escondem na névoa.",
+        "Batem palmas, e os montes se enchem de cinza."
       ]
     },
     {
@@ -4017,9 +4017,9 @@
       "answer": "Quem usa de engano não fica na casa; quem fala mentiras não fica firme diante dos olhos.",
       "reference": "Sl 101:7",
       "wrongs": [
-        "Quem pratica jejum e quem fala pouco.",
-        "Quem pratica ofício e quem fala outra língua.",
-        "Quem pratica justiça e quem fala a verdade."
+        "Quem usa de mentira não fica na casa; quem fala engano não fica firme diante dos olhos.",
+        "Quem usa de violência não fica na casa; quem fala injúria não fica firme diante dos olhos.",
+        "Quem usa de engano não fica na casa; quem fala mentiras não fica firme diante do rei."
       ]
     },
     {
@@ -4078,9 +4078,9 @@
       "answer": "Como roupa que se gasta e é trocada, mas Deus permanece.",
       "reference": "Sl 102:25-26",
       "wrongs": [
-        "Como pedra que se parte e é jogada, mas Deus envelhece.",
-        "Como flor que se abre e é colhida, mas Deus se esconde.",
-        "Como casa que se racha e é vendida, mas Deus se muda."
+        "Como pedra que se parte e é jogada, mas Deus permanece.",
+        "Como flor que se abre e é colhida, mas Deus permanece.",
+        "Como casa que se racha e é vendida, mas Deus permanece."
       ]
     },
     {
@@ -4094,7 +4094,7 @@
       "reference": "Sl 103:12",
       "wrongs": [
         "Tão longe quanto o norte fica do sul.",
-        "Tão perto quanto a mão fica do rosto.",
+        "Tão longe quanto o mar fica da praia.",
         "Tão fundo quanto o poço fica da boca."
       ]
     },
@@ -4123,9 +4123,9 @@
       "answer": "Ela se renova como a da águia.",
       "reference": "Sl 103:5",
       "wrongs": [
-        "Ela se apaga como a da traça.",
-        "Ela se curva como a do boi.",
-        "Ela se seca como a da folha."
+        "Ela se renova como a da pomba.",
+        "Ela se renova como a do cervo.",
+        "Ela se renova como a do cedro."
       ]
     },
     {
@@ -4199,7 +4199,7 @@
       "reference": "Sl 104:26",
       "wrongs": [
         "O Beemote.",
-        "A águia do penhasco.",
+        "O crocodilo.",
         "O boi selvagem."
       ]
     },
@@ -4273,9 +4273,9 @@
       "answer": "Que pecaram, cometeram a iniquidade e andaram perversamente.",
       "reference": "Sl 106:6",
       "wrongs": [
-        "Que acertaram, fizeram o bem e agiram com justiça.",
-        "Que venceram, fizeram a paz e agiram com calma.",
-        "Que calaram, fizeram o voto e agiram sem falta."
+        "Que pecaram, cometeram a iniquidade e andaram com cuidado.",
+        "Que pecaram, cometeram a iniquidade e voltaram atrás.",
+        "Que pecaram, cometeram a iniquidade e guardaram a lei."
       ]
     },
     {
@@ -4363,9 +4363,9 @@
       "answer": "Fez a tormenta parar, e as ondas se aquietaram.",
       "reference": "Sl 107:29",
       "wrongs": [
-        "Fez a tormenta crescer, e as ondas se levantaram.",
-        "Fez a tormenta virar fogo, e as ondas secaram.",
-        "Fez a tormenta mudar de lado, e as ondas se partiram."
+        "Fez a tormenta parar, e as ondas se agitaram.",
+        "Fez a tormenta parar, e as ondas se ergueram.",
+        "Fez a tormenta parar, e as ondas se enrolaram."
       ]
     },
     {
@@ -4468,9 +4468,9 @@
       "answer": "À direita de Deus.",
       "reference": "Sl 110:1",
       "wrongs": [
-        "À esquerda de Deus.",
+        "No trono de Deus.",
         "Aos pés de Deus.",
-        "Diante do povo."
+        "Diante de Deus."
       ]
     },
     {
@@ -4483,9 +4483,9 @@
       "answer": "De Melquisedeque.",
       "reference": "Sl 110:4",
       "wrongs": [
-        "De Arão.",
-        "De Levi.",
-        "De Zadoque."
+        "De Arão, o sacerdote.",
+        "De Levi, o sacerdote.",
+        "De Zadoque, o sacerdote."
       ]
     },
     {
@@ -4543,7 +4543,7 @@
       "answer": "Mantimento.",
       "reference": "Sl 111:5",
       "wrongs": [
-        "Ouro.",
+        "A fartura.",
         "Uma coroa.",
         "Um exército."
       ]
@@ -4603,9 +4603,9 @@
       "answer": "Range os dentes e se acaba.",
       "reference": "Sl 112:10",
       "wrongs": [
-        "Mostra os dentes e se alegra.",
-        "Cobre os dentes e se esconde.",
-        "Conta os dentes e se vangloria."
+        "Range os dentes e se esconde.",
+        "Range os dentes e se cala.",
+        "Range os dentes e se retira."
       ]
     },
     {
@@ -4619,9 +4619,9 @@
       "answer": "Faz ele sentar entre os príncipes.",
       "reference": "Sl 113:7-8",
       "wrongs": [
-        "Faz ele voltar para o pó.",
-        "Faz ele servir entre os escravos.",
-        "Faz ele sumir entre a multidão."
+        "Faz ele sentar entre os anciãos.",
+        "Faz ele sentar entre os reis.",
+        "Faz ele sentar entre os sacerdotes."
       ]
     },
     {
@@ -4649,8 +4649,8 @@
       "answer": "Do nascimento do sol até o ocaso.",
       "reference": "Sl 113:3",
       "wrongs": [
-        "Do norte até o sul.",
-        "Da lua nova até a lua cheia.",
+        "Do oriente até o deserto.",
+        "Do nascer da lua até o ocaso.",
         "Da Páscoa até a colheita."
       ]
     },
@@ -4664,9 +4664,9 @@
       "answer": "O mar fugiu, e o Jordão voltou atrás.",
       "reference": "Sl 114:3",
       "wrongs": [
-        "O mar avançou, e o Jordão seguiu em frente.",
-        "O mar ficou manso, e o Jordão subiu o monte.",
-        "O mar virou gelo, e o Jordão parou na fonte."
+        "O mar fugiu, e o Jordão seguiu em frente.",
+        "O mar recuou, e o Jordão voltou atrás.",
+        "O mar parou, e o Jordão voltou atrás."
       ]
     },
     {
@@ -4724,9 +4724,9 @@
       "answer": "Ao nome de Deus, não ao povo.",
       "reference": "Sl 115:1",
       "wrongs": [
-        "Ao povo de Israel, não a Deus.",
-        "Ao rei da terra, não ao céu.",
-        "Ao sacerdote, não ao altar."
+        "Ao nome de Deus, não ao rei.",
+        "Ao nome de Deus, não ao templo.",
+        "Ao nome de Deus, não aos sacerdotes."
       ]
     },
     {
@@ -4754,9 +4754,9 @@
       "answer": "Os mortos e quem desce ao silêncio.",
       "reference": "Sl 115:17",
       "wrongs": [
-        "Os vivos e quem sobe ao templo.",
-        "Os anjos e quem fica no céu.",
-        "Os justos e quem canta de manhã."
+        "Os mortos e quem desce ao sepulcro.",
+        "Os mortos e quem desce ao abismo.",
+        "Os mortos e quem desce ao pó."
       ]
     },
     {
@@ -4799,9 +4799,9 @@
       "answer": "O cálice da salvação.",
       "reference": "Sl 116:13",
       "wrongs": [
-        "O copo do juízo.",
-        "O copo do luto.",
-        "O copo do rei."
+        "O cálice do juízo.",
+        "O cálice do luto.",
+        "O cálice do rei."
       ]
     },
     {
@@ -4814,9 +4814,9 @@
       "answer": "Todas as nações e todos os povos.",
       "reference": "Sl 117:1",
       "wrongs": [
-        "Só Israel e só Judá.",
-        "Só os sacerdotes e só os levitas.",
-        "Só os reis e só os príncipes."
+        "Todas as tribos e todos os povos.",
+        "Todas as nações e todas as línguas.",
+        "Todas as ilhas e todos os povos."
       ]
     },
     {
@@ -4874,9 +4874,9 @@
       "answer": "Vai viver e contar as obras de Deus.",
       "reference": "Sl 118:17",
       "wrongs": [
-        "Vai calar e esconder as obras de Deus.",
-        "Vai fugir e esquecer as obras de Deus.",
-        "Vai dormir e adiar as obras de Deus."
+        "Vai viver e contar as obras dos reis.",
+        "Vai viver e contar as obras dos homens.",
+        "Vai viver e contar as maravilhas do Egito."
       ]
     },
     {
@@ -4982,7 +4982,7 @@
       "wrongs": [
         "Partem para a festa.",
         "Partem para o templo.",
-        "Partem para o silêncio."
+        "Partem para o deserto."
       ]
     },
     {
@@ -5025,9 +5025,9 @@
       "answer": "De agora em diante, para sempre.",
       "reference": "Sl 121:8",
       "wrongs": [
-        "Só até o anoitecer.",
-        "Só durante a viagem.",
-        "Só enquanto o sol fica alto."
+        "De agora em diante, por muitos anos.",
+        "De agora em diante, até a velhice.",
+        "De agora em diante, por mil gerações."
       ]
     },
     {
@@ -5100,9 +5100,9 @@
       "answer": "Da zombaria dos que estão à vontade e do desprezo dos soberbos.",
       "reference": "Sl 123:4",
       "wrongs": [
-        "De canto dos peregrinos e de alegria.",
-        "De pão dos vizinhos e de fartura.",
-        "De medo dos reis e de fuga."
+        "Da zombaria dos vizinhos e do desprezo dos ricos.",
+        "Da vaidade dos que estão à vontade e do orgulho dos soberbos.",
+        "Da zombaria dos que estão longe e do desprezo dos pequenos."
       ]
     },
     {
@@ -5115,9 +5115,9 @@
       "answer": "Como um pássaro do laço dos passarinheiros, quando o laço quebrou.",
       "reference": "Sl 124:7",
       "wrongs": [
-        "Como um peixe, quando a rede se abriu.",
-        "Como um cervo, quando o laço se apertou.",
-        "Como uma ovelha, quando o curral se fechou."
+        "Como um peixe, quando a rede dos pescadores se abriu.",
+        "Como um cervo, quando o laço dos caçadores se armou.",
+        "Como uma ovelha, quando o curral dos pastores se abriu."
       ]
     },
     {
@@ -5160,9 +5160,9 @@
       "answer": "Ao monte Sião, que não se abala e permanece para sempre.",
       "reference": "Sl 125:1",
       "wrongs": [
-        "Ao monte Sinai, que fumega.",
-        "Ao rio Jordão, que desce.",
-        "À cidade de Jericó, que caiu."
+        "Ao monte Sinai, que fumega e se abala.",
+        "Ao rio Jordão, que desce e se apressa.",
+        "À cidade de Jericó, que caiu e ficou em ruínas."
       ]
     },
     {
@@ -5355,9 +5355,9 @@
       "answer": "Que seja confundido e volte para trás.",
       "reference": "Sl 129:5",
       "wrongs": [
-        "Que tenha festa e avance.",
-        "Que tenha coroa e fique.",
-        "Que tenha colheita e cante."
+        "Que seja confundido e fique parado.",
+        "Que seja confundido e perca a voz.",
+        "Que seja confundido e caia no laço."
       ]
     },
     {
@@ -5370,9 +5370,9 @@
       "answer": "À que seca antes que a arranquem.",
       "reference": "Sl 129:6",
       "wrongs": [
-        "À que nasce no vale e dura o verão.",
+        "À que cresce no vale e dura o verão.",
         "À que cobre o campo e vira feno.",
-        "À que fica no rio e não seca."
+        "À que cresce no rio e dura o verão."
       ]
     },
     {
@@ -5400,7 +5400,7 @@
       "answer": "O perdão.",
       "reference": "Sl 130:4",
       "wrongs": [
-        "O castigo.",
+        "O juízo.",
         "O silêncio.",
         "A pressa."
       ]
@@ -5522,7 +5522,7 @@
       "wrongs": [
         "Viverem ricos.",
         "Viverem famosos.",
-        "Viverem sozinhos."
+        "Viverem seguros."
       ]
     },
     {
@@ -5625,9 +5625,9 @@
       "answer": "Siom e Ogue.",
       "reference": "Sl 135:11",
       "wrongs": [
-        "Faraó e Nabucodonosor.",
-        "Balaque e Balaão.",
-        "Golias e Saul."
+        "Balaque e Ogue.",
+        "Siom e Balaão.",
+        "Eglom e Ogue."
       ]
     },
     {
@@ -5656,7 +5656,7 @@
       "reference": "Sl 135:7",
       "wrongs": [
         "Das montanhas.",
-        "Dos mares.",
+        "Dos abismos do mar.",
         "Das nuvens do norte."
       ]
     },
@@ -5730,9 +5730,9 @@
       "answer": "Sentaram e choraram ao lembrar de Sião.",
       "reference": "Sl 137:1",
       "wrongs": [
-        "Cantaram e dançaram ao lembrar de Sião.",
-        "Construíram e plantaram ao lembrar de Sião.",
-        "Dormiram e esqueceram Sião."
+        "Sentaram e oraram ao lembrar de Sião.",
+        "Sentaram e cantaram ao lembrar de Sião.",
+        "Sentaram e escreveram ao lembrar de Sião."
       ]
     },
     {
@@ -5777,7 +5777,7 @@
       "wrongs": [
         "O templo dele e o altar dele.",
         "O rei dele e o trono dele.",
-        "A arca dele e a lei dela."
+        "A arca dele e a lei do templo."
       ]
     },
     {
@@ -5790,9 +5790,9 @@
       "answer": "Todos os reis da terra.",
       "reference": "Sl 138:4",
       "wrongs": [
-        "Só os sacerdotes do templo.",
-        "Só os profetas de Israel.",
-        "Só os servos da casa."
+        "Todos os sacerdotes do templo.",
+        "Todos os profetas de Israel.",
+        "Todos os servos da casa."
       ]
     },
     {
@@ -5805,9 +5805,9 @@
       "answer": "Ao humilde, e de longe conhece o soberbo.",
       "reference": "Sl 138:6",
       "wrongs": [
-        "Ao arrogante, e de longe nota o humilde.",
-        "Ao rei, e de perto ignora o servo.",
-        "Ao rico, e de longe esquece o pobre."
+        "Ao humilde, e de perto conhece o soberbo.",
+        "Ao humilde, e de longe abençoa o soberbo.",
+        "Ao humilde, e de longe esquece o soberbo."
       ]
     },
     {
@@ -5820,9 +5820,9 @@
       "answer": "Nos dois lugares.",
       "reference": "Sl 139:8",
       "wrongs": [
-        "Só no céu.",
-        "Só no Xeol.",
-        "Em nenhum dos dois."
+        "No céu e na terra.",
+        "No alto e no profundo.",
+        "No templo e no abismo."
       ]
     },
     {
@@ -5955,9 +5955,9 @@
       "answer": "A um excelente óleo, que não quebra a cabeça.",
       "reference": "Sl 141:5",
       "wrongs": [
-        "A vinagre posto na ferida.",
-        "A cinza posta na roupa.",
-        "A pedra posta no caminho."
+        "A um perfume suave, que não fere a cabeça.",
+        "A um bálsamo fino, que não machuca a cabeça.",
+        "A um unguento raro, que não pesa na cabeça."
       ]
     },
     {
@@ -5985,9 +5985,9 @@
       "answer": "Com a própria voz.",
       "reference": "Sl 142:1",
       "wrongs": [
-        "Em silêncio, sem abrir a boca.",
-        "Por escrito, numa carta ao rei.",
-        "Por um mensageiro, longe do SENHOR."
+        "Em voz baixa.",
+        "Com um grito.",
+        "Com um lamento."
       ]
     },
     {
@@ -6015,7 +6015,7 @@
       "answer": "À terra sedenta.",
       "reference": "Sl 143:6",
       "wrongs": [
-        "Ao poço cheio.",
+        "À terra estrangeira.",
         "Ao rio na cheia.",
         "Ao jardim regado."
       ]
@@ -6030,9 +6030,9 @@
       "answer": "Não existe nenhum.",
       "reference": "Sl 143:2",
       "wrongs": [
-        "Só o rei.",
-        "Só o sacerdote.",
-        "Só quem nunca errou."
+        "Não há justo que peque.",
+        "Não há justo que tropece.",
+        "Não há justo que caia."
       ]
     },
     {
@@ -6120,9 +6120,9 @@
       "answer": "Farta o desejo de todo vivente.",
       "reference": "Sl 145:16",
       "wrongs": [
-        "Fecha o que todo vivente pede.",
-        "Conta o que todo vivente esconde.",
-        "Esquece o que todo vivente precisa."
+        "Farta a fome de todo vivente.",
+        "Farta a sede de todo vivente.",
+        "Farta o pedido de todo vivente."
       ]
     },
     {
@@ -6165,9 +6165,9 @@
       "answer": "Para sempre, geração após geração.",
       "reference": "Sl 146:10",
       "wrongs": [
-        "Até o fim do exílio.",
-        "Até nascer outro rei.",
-        "Até fechar o templo."
+        "Por mil anos, geração após geração.",
+        "Por cem anos, geração após geração.",
+        "Por muitas eras, geração após geração."
       ]
     },
     {
@@ -6180,9 +6180,9 @@
       "answer": "Abre os olhos deles.",
       "reference": "Sl 146:8",
       "wrongs": [
-        "Fecha os olhos deles.",
-        "Cobre os olhos deles.",
-        "Pede os olhos deles."
+        "Lava os olhos deles.",
+        "Guarda os olhos deles.",
+        "Marca os olhos deles."
       ]
     },
     {
@@ -6195,9 +6195,9 @@
       "answer": "Guarda o estrangeiro e sustém o órfão e a viúva.",
       "reference": "Sl 146:9",
       "wrongs": [
-        "Expulsa quem vem de fora e esquece órfão e viúva.",
-        "Cobra de quem vem de fora e usa órfão e viúva.",
-        "Esconde quem vem de fora e vende órfão e viúva."
+        "Guarda o estrangeiro e sustém o rico e o nobre.",
+        "Guarda o estrangeiro e sustém o servo e o patrão.",
+        "Guarda o estrangeiro e sustém o justo e o sábio."
       ]
     },
     {
@@ -6225,9 +6225,9 @@
       "answer": "Constrói a cidade e junta outra vez quem se espalhou.",
       "reference": "Sl 147:2",
       "wrongs": [
-        "Derruba a cidade e espalha de novo quem se juntou.",
-        "Vende a cidade e esquece quem se perdeu.",
-        "Muda a cidade e mistura quem ficou."
+        "Constrói a cidade e junta outra vez quem ficou.",
+        "Constrói a cidade e conta outra vez quem se espalhou.",
+        "Constrói a cidade e lembra outra vez quem se perdeu."
       ]
     },
     {
@@ -6270,9 +6270,9 @@
       "answer": "As baleias.",
       "reference": "Sl 148:7",
       "wrongs": [
-        "Os gafanhotos do campo.",
-        "Os corvos do deserto.",
-        "Os cães da cidade."
+        "As aves do céu.",
+        "Os peixes do mar.",
+        "Os bois do campo."
       ]
     },
     {
@@ -6360,9 +6360,9 @@
       "answer": "Louvar a Deus.",
       "reference": "Sl 150:6",
       "wrongs": [
-        "Guardar silêncio.",
-        "Oferecer ouro.",
-        "Segurar o fôlego."
+        "Bendizer a Deus.",
+        "Servir a Deus.",
+        "Buscar a Deus."
       ]
     },
     {
@@ -6375,9 +6375,9 @@
       "answer": "No santuário dele e no firmamento do poder dele.",
       "reference": "Sl 150:1",
       "wrongs": [
-        "No mercado dele e na praça do povo.",
-        "No palácio dele e no jardim do rei.",
-        "No deserto dele e na tenda do arraial."
+        "No monte santo e no vale profundo.",
+        "No palácio do rei e no jardim real.",
+        "No deserto árido e na tenda do arraial."
       ]
     },
     {

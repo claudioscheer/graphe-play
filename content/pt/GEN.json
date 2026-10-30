@@ -11,8 +11,8 @@
       "reference": "Gn 1:1",
       "wrongs": [
         "Criou apenas o ser humano.",
-        "Deixou tudo sem forma para sempre.",
-        "Destruiu o que já existia."
+        "Criou somente as estrelas do céu.",
+        "Criou os mares e os peixes."
       ]
     },
     {
@@ -25,7 +25,7 @@
       "answer": "Viu que era muito bom.",
       "reference": "Gn 1:31",
       "wrongs": [
-        "Viu que ainda faltava muito.",
+        "Viu que era impecável.",
         "Viu que era incompleto.",
         "Viu que precisava recomeçar."
       ]
@@ -40,9 +40,9 @@
       "answer": "O ser humano, homem e mulher.",
       "reference": "Gn 1:27",
       "wrongs": [
-        "Os anjos do céu.",
-        "Os animais da terra.",
-        "As aves e os peixes."
+        "Os animais da terra, macho e fêmea.",
+        "Os anjos do céu, todos eles.",
+        "O ser humano, somente o homem."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Do pó da terra, e lhe deu o fôlego de vida.",
       "reference": "Gn 2:7",
       "wrongs": [
-        "Da água do mar, e lhe deu a fala.",
-        "De uma pedra, e lhe deu um nome.",
-        "De um animal, e lhe deu força."
+        "Do barro do rio, e lhe deu o fôlego de vida.",
+        "Do pó do deserto, e lhe deu o fôlego de vida.",
+        "Da água da fonte, e lhe deu o fôlego de vida."
       ]
     },
     {
@@ -72,7 +72,7 @@
       "wrongs": [
         "No deserto de Sur.",
         "Na cidade de Enoque.",
-        "Sobre o monte Sinai."
+        "No alto do monte Sinai."
       ]
     },
     {
@@ -85,9 +85,9 @@
       "answer": "Da árvore do conhecimento do bem e do mal.",
       "reference": "Gn 2:17",
       "wrongs": [
-        "Da árvore da vida.",
-        "Da figueira do jardim.",
-        "Da oliveira junto ao rio."
+        "Da árvore da vida, no meio do jardim.",
+        "Da figueira grande que havia no jardim.",
+        "Da videira que crescia junto ao jardim."
       ]
     },
     {
@@ -132,7 +132,7 @@
       "wrongs": [
         "Anjos, ao norte do Éden.",
         "Serafins, ao ocidente do Éden.",
-        "Homens, à porta do jardim."
+        "Guardas armados, ao sul do Éden."
       ]
     },
     {
@@ -145,9 +145,9 @@
       "answer": "A semente da mulher.",
       "reference": "Gn 3:15",
       "wrongs": [
-        "A própria serpente.",
-        "Um anjo enviado do céu.",
-        "Adão, no mesmo dia."
+        "A semente do homem.",
+        "A semente de Adão.",
+        "A descendência de Caim."
       ]
     },
     {
@@ -160,7 +160,7 @@
       "answer": "Matou o seu irmão.",
       "reference": "Gn 4:8",
       "wrongs": [
-        "Abençoou o seu irmão.",
+        "Feriu o seu irmão.",
         "Vendeu o seu irmão.",
         "Escondeu o seu irmão."
       ]
@@ -280,9 +280,9 @@
       "answer": "Um casal de cada.",
       "reference": "Gn 6:19",
       "wrongs": [
-        "Doze de cada espécie.",
-        "Dez casais de cada.",
-        "Só os animais limpos."
+        "Dois casais de cada.",
+        "Sete de cada espécie.",
+        "Doze de cada espécie."
       ]
     },
     {
@@ -295,9 +295,9 @@
       "answer": "Sua família.",
       "reference": "Gn 7:7",
       "wrongs": [
-        "Toda a cidade, com os rebanhos.",
-        "Só os vizinhos, sem a família.",
-        "Os reis, com os soldados."
+        "Seus vizinhos.",
+        "Seus irmãos.",
+        "Seus servos."
       ]
     },
     {
@@ -325,9 +325,9 @@
       "answer": "O Senhor.",
       "reference": "Gn 7:16",
       "wrongs": [
-        "Noé.",
-        "Sem.",
-        "Um anjo."
+        "O próprio Noé.",
+        "A sua mulher.",
+        "Um dos filhos."
       ]
     },
     {
@@ -370,9 +370,9 @@
       "answer": "Edificou um altar ao Senhor.",
       "reference": "Gn 8:20",
       "wrongs": [
-        "Plantou uma cidade murada.",
-        "Voltou a construir a arca.",
-        "Subiu de novo para os montes."
+        "Edificou uma casa ao Senhor.",
+        "Edificou um altar a Baal.",
+        "Edificou um altar para si mesmo."
       ]
     },
     {
@@ -835,7 +835,7 @@
       "answer": "Como sua irmã.",
       "reference": "Gn 20:2",
       "wrongs": [
-        "Como sua esposa.",
+        "Como sua sobrinha.",
         "Como sua serva.",
         "Como uma estrangeira."
       ]
@@ -955,8 +955,8 @@
       "answer": "O Senhor proverá.",
       "reference": "Gn 22:14",
       "wrongs": [
-        "O Senhor é a minha bandeira.",
-        "Casa de Deus.",
+        "O Senhor é minha bandeira.",
+        "A casa de Deus.",
         "O Deus que vê."
       ]
     },
@@ -987,7 +987,7 @@
       "wrongs": [
         "Cento e vinte.",
         "Cento e trinta.",
-        "Cento e dez."
+        "Cento e dezenove."
       ]
     },
     {
@@ -1076,8 +1076,8 @@
       "reference": "Gn 25:25",
       "wrongs": [
         "Jacó.",
-        "Os dois no mesmo instante.",
-        "Nenhum dos dois."
+        "Ismael.",
+        "Isaque."
       ]
     },
     {
@@ -1420,9 +1420,9 @@
       "answer": "Abraçou-o e o beijou.",
       "reference": "Gn 33:4",
       "wrongs": [
-        "Recusou-o e foi embora.",
-        "Prendeu-o e exigiu a bênção.",
-        "Ameaçou-o com a espada."
+        "Saudou-o de longe e seguiu.",
+        "Abraçou-o e o despediu.",
+        "Beijou-o e o repreendeu."
       ]
     },
     {
@@ -1450,9 +1450,9 @@
       "answer": "Humilhou a filha de Jacó.",
       "reference": "Gn 34:2",
       "wrongs": [
-        "Abençoou a filha de Jacó.",
+        "Desposou a filha de Jacó.",
         "Vendeu a filha de Jacó.",
-        "Escondeu a filha de Jacó."
+        "Feriu a filha de Jacó."
       ]
     },
     {
@@ -1497,7 +1497,7 @@
       "wrongs": [
         "Benoni.",
         "José.",
-        "Dã."
+        "Rúben."
       ]
     },
     {
@@ -1615,7 +1615,7 @@
       "answer": "Uma túnica de várias cores.",
       "reference": "Gn 37:3",
       "wrongs": [
-        "Um anel de ouro.",
+        "Um anel de ouro e prata.",
         "Um cajado de pastor.",
         "Um par de sandálias."
       ]
@@ -1630,7 +1630,7 @@
       "answer": "Dezessete.",
       "reference": "Gn 37:2",
       "wrongs": [
-        "Doze.",
+        "Treze.",
         "Vinte.",
         "Trinta."
       ]
@@ -1647,7 +1647,7 @@
       "wrongs": [
         "Zerá.",
         "Selá.",
-        "Er."
+        "Onã."
       ]
     },
     {
@@ -1692,7 +1692,7 @@
       "wrongs": [
         "Para o deserto.",
         "Para a casa de Jacó.",
-        "Para o palácio de Faraó."
+        "Para o palácio real."
       ]
     },
     {
@@ -1736,7 +1736,7 @@
       "reference": "Gn 40:8",
       "wrongs": [
         "Dos magos.",
-        "Do próprio José.",
+        "Dos sábios.",
         "De Faraó."
       ]
     },
@@ -1797,7 +1797,7 @@
       "wrongs": [
         "Dezessete.",
         "Quarenta.",
-        "Vinte e cinco."
+        "Vinte."
       ]
     },
     {
@@ -1840,9 +1840,9 @@
       "answer": "Sim, mas eles não o reconheceram.",
       "reference": "Gn 42:8",
       "wrongs": [
-        "Não, e eles também não o viram.",
-        "Sim, e eles o chamaram pelo nome.",
-        "Não, mas eles souberam quem era."
+        "Sim, e eles também o reconheceram.",
+        "Sim, mas só Benjamim o reconheceu.",
+        "Sim, e ele disse logo quem era."
       ]
     },
     {
@@ -1902,7 +1902,7 @@
       "wrongs": [
         "Uma prisão para Benjamim.",
         "Uma caravana de volta a Canaã.",
-        "Um altar no meio do palácio."
+        "Um banquete só para si mesmo."
       ]
     },
     {
@@ -1917,7 +1917,7 @@
       "wrongs": [
         "No saco de Judá.",
         "No saco de Rúben.",
-        "Na tenda de Simeão."
+        "No saco de Simeão."
       ]
     },
     {
@@ -1932,7 +1932,7 @@
       "wrongs": [
         "Faraó.",
         "Judá.",
-        "O copeiro."
+        "Rúben."
       ]
     },
     {
@@ -1975,7 +1975,7 @@
       "answer": "Deus.",
       "reference": "Gn 45:8",
       "wrongs": [
-        "Os irmãos.",
+        "Potifar.",
         "Jacó.",
         "Faraó."
       ]
@@ -2021,7 +2021,7 @@
       "reference": "Gn 46:27",
       "wrongs": [
         "Quarenta.",
-        "Cem.",
+        "Oitenta.",
         "Doze."
       ]
     },
@@ -2080,9 +2080,9 @@
       "answer": "Cento e quarenta e sete.",
       "reference": "Gn 47:28",
       "wrongs": [
-        "Cento e dez.",
+        "Cento e dezenove.",
         "Cento e setenta e cinco.",
-        "Cento e vinte."
+        "Cento e vinte e cinco."
       ]
     },
     {
@@ -2186,7 +2186,7 @@
       "reference": "Gn 50:26",
       "wrongs": [
         "Numa cova, em Hebrom.",
-        "Num altar, em Gósen.",
+        "Num sepulcro, em Gósen.",
         "Numa pira, no deserto."
       ]
     },
@@ -2200,9 +2200,9 @@
       "answer": "Deus o intentou para bem.",
       "reference": "Gn 50:20",
       "wrongs": [
-        "Deus o deixaria sem perdão.",
-        "Os irmãos pagariam com a vida.",
-        "O mal ficaria sem resposta."
+        "Deus o intentou para castigo.",
+        "Deus o intentou para a prova.",
+        "Deus o intentou para a glória."
       ]
     },
     {
@@ -2216,7 +2216,7 @@
       "reference": "Gn 50:25",
       "wrongs": [
         "O ouro de Faraó, para Canaã.",
-        "A arca da aliança, pelo deserto.",
+        "Os seus servos, para fora do Egito.",
         "O caixão de Jacó, para o Nilo."
       ]
     },
@@ -2232,7 +2232,7 @@
       "wrongs": [
         "No caminho de Efrata.",
         "No monte Seir.",
-        "Em Sucote."
+        "Em Sucote, no vale."
       ]
     },
     {

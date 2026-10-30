@@ -55,9 +55,9 @@
       "answer": "As pontas do altar.",
       "reference": "1Rs 1:50",
       "wrongs": [
-        "A mula do rei.",
-        "A espada de Joabe.",
-        "O manto de Davi."
+        "As bases do altar.",
+        "As laterais do altar.",
+        "As argolas da arca."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "O reino dele ficou muito firme.",
       "reference": "1Rs 2:12",
       "wrongs": [
-        "O reino se partiu em dois.",
-        "Israel o rejeitou de imediato.",
-        "O trono passou a Jeroboão."
+        "A fama dele ficou muito firme.",
+        "A coroa dele ficou muito firme.",
+        "A cidade dele ficou muito firme."
       ]
     },
     {
@@ -100,7 +100,7 @@
       "answer": "Na cidade de Davi.",
       "reference": "1Rs 2:10",
       "wrongs": [
-        "Em Hebrom, com os pais.",
+        "Na cidade de Hebrom.",
         "No monte das Oliveiras.",
         "No jardim de Uzá."
       ]
@@ -130,9 +130,9 @@
       "answer": "Um coração que distinguisse o bem do mal.",
       "reference": "1Rs 3:9",
       "wrongs": [
-        "Vida longa e muitas riquezas.",
-        "A morte de todos os inimigos.",
-        "Um exército maior que o de Davi."
+        "Um coração que distinguisse os ricos dos pobres.",
+        "Um coração que distinguisse o sábio do tolo.",
+        "Um coração que distinguisse Israel das nações."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "answer": "A mãe dele.",
       "reference": "1Rs 3:27",
       "wrongs": [
-        "A outra mulher, que mentiu.",
-        "A serva do palácio.",
-        "A rainha de Sabá."
+        "A ama do menino.",
+        "A avó do menino.",
+        "A tia do menino."
       ]
     },
     {
@@ -190,9 +190,9 @@
       "answer": "Sabedoria e um coração largo como a areia do mar.",
       "reference": "1Rs 4:29",
       "wrongs": [
-        "Um exército sem fim e carros de ferro.",
-        "A vitória sobre o Egito e sobre Tiro.",
-        "A vida eterna, sem velhice nem morte."
+        "Sabedoria e um coração largo como as estrelas do céu.",
+        "Sabedoria e um coração largo como o pó da terra.",
+        "Sabedoria e um coração largo como as águas do mar."
       ]
     },
     {
@@ -250,9 +250,9 @@
       "answer": "Um acordo, e houve paz entre os dois.",
       "reference": "1Rs 5:12",
       "wrongs": [
-        "Uma guerra, e houve ruptura entre os dois.",
-        "Uma troca de tronos, e houve disputa.",
-        "Um cerco, e houve tributo de Israel a Tiro."
+        "Uma partilha de terras, e houve paz entre os dois.",
+        "Um banquete de aliança, e houve paz entre os dois.",
+        "Uma troca de presentes, e houve paz entre os dois."
       ]
     },
     {
@@ -265,9 +265,9 @@
       "answer": "O rei de Tiro, que sempre teve amor por Davi.",
       "reference": "1Rs 5:1",
       "wrongs": [
-        "O rei de Moabe, que sempre foi inimigo de Davi.",
-        "O rei do Egito, que deu uma filha a Salomão.",
-        "O rei da Síria, que cercou as cidades do norte."
+        "O rei de Sidom, que sempre teve amor por Davi.",
+        "O rei de Moabe, que sempre teve amor por Davi.",
+        "O rei de Amom, que sempre teve amor por Davi."
       ]
     },
     {
@@ -310,9 +310,9 @@
       "answer": "A casa de Deus, no mês de Zive.",
       "reference": "1Rs 6:1",
       "wrongs": [
-        "O palácio real, no mês de etanim.",
-        "A frota de Ofir, no mês de bul.",
-        "A muralha de Jerusalém, no mês de nisã."
+        "O palácio real, no mês de Etanim.",
+        "O altar de bronze, no mês de Bul.",
+        "A muralha da cidade, no mês de Nisã."
       ]
     },
     {
@@ -340,9 +340,9 @@
       "answer": "Martelo, machado e nenhum outro ferro.",
       "reference": "1Rs 6:7",
       "wrongs": [
-        "Trombeta, címbalo e nenhum outro canto.",
-        "Corda, roldana e nenhum outro pano.",
-        "Tocha, incenso e nenhum outro fogo."
+        "Serra, enxó e nenhum outro bronze.",
+        "Picão, malho e nenhum outro cobre.",
+        "Cinzel, esquadro e nenhum outro aço."
       ]
     },
     {
@@ -370,9 +370,9 @@
       "answer": "Toda a obra que ele tinha planejado.",
       "reference": "1Rs 7:51",
       "wrongs": [
-        "Só o altar, e deixou o resto.",
-        "A muralha da cidade, nada mais.",
-        "A frota de Társis, no mesmo ano."
+        "Metade da obra que ele tinha planejado.",
+        "Boa parte da obra que ele tinha planejado.",
+        "Parte da obra que ele tinha planejado."
       ]
     },
     {
@@ -386,8 +386,8 @@
       "reference": "1Rs 7:14",
       "wrongs": [
         "Benaia, filho de Joiada.",
-        "Hirão, o rei de Tiro.",
-        "Bezalel, filho de Uri."
+        "Hirão, filho do rei de Tiro.",
+        "Bezalel, filho de Uri, de Judá."
       ]
     },
     {
@@ -416,8 +416,8 @@
       "reference": "1Rs 7:21",
       "wrongs": [
         "Boaz à direita e Jaquim à esquerda.",
-        "Sadraque à direita e Mesaque à esquerda.",
-        "Eliã à direita e Hebrom à esquerda."
+        "Jaquim à direita e Eliaquim à esquerda.",
+        "Eliaquim à direita e Boaz à esquerda."
       ]
     },
     {
@@ -460,9 +460,9 @@
       "answer": "Só as duas tábuas de pedra que Moisés colocou.",
       "reference": "1Rs 8:9",
       "wrongs": [
-        "O maná, a vara de Arão e as tábuas.",
-        "O livro da lei e uma urna de ouro.",
-        "Nada; a arca estava vazia."
+        "Só o maná, que Moisés guardou.",
+        "Só a vara de Arão, que floresceu.",
+        "Só as duas tábuas de pedra e o maná."
       ]
     },
     {
@@ -475,9 +475,9 @@
       "answer": "Vinte e duas mil vacas e cento e vinte mil ovelhas.",
       "reference": "1Rs 8:63",
       "wrongs": [
-        "Sete vacas e sete carneiros.",
-        "Mil vacas e mil ovelhas.",
-        "Três mil vacas e doze mil ovelhas."
+        "Vinte e duas mil vacas e doze mil ovelhas.",
+        "Vinte e duas mil vacas e vinte mil ovelhas.",
+        "Doze mil vacas e cento e vinte mil ovelhas."
       ]
     },
     {
@@ -490,9 +490,9 @@
       "answer": "Santificou-a, para o nome dele permanecer ali.",
       "reference": "1Rs 9:3",
       "wrongs": [
-        "Rejeitou-a, porque o lugar era alto demais.",
-        "Entregou-a a Hirão, em troca das cidades.",
-        "Escondeu-a, para o nome dele sair dali."
+        "Santificou o altar, para o nome dele permanecer ali.",
+        "Santificou o trono, para o nome dele permanecer ali.",
+        "Santificou a cidade, para o nome dele permanecer ali."
       ]
     },
     {
@@ -520,9 +520,9 @@
       "answer": "Destruiria Israel da terra e lançaria a casa para longe.",
       "reference": "1Rs 9:7",
       "wrongs": [
-        "Firmaria Israel na terra e traria a casa para perto.",
-        "Mudaria Israel para o Egito e guardaria a casa ali.",
-        "Entregaria Israel a Hirão e deixaria a casa no lugar."
+        "Destruiria Judá da terra e lançaria a casa para longe.",
+        "Destruiria Israel da terra e lançaria a arca para longe.",
+        "Destruiria Israel da terra e lançaria o altar para longe."
       ]
     },
     {
@@ -550,9 +550,9 @@
       "answer": "Porque ouviu a fama dele e veio prová-lo com questões difíceis.",
       "reference": "1Rs 10:1",
       "wrongs": [
-        "Porque fugia de um inimigo e buscava abrigo.",
-        "Porque queria o trono dele e mudar a corte.",
-        "Porque trazia um tributo de guerra e pedia paz."
+        "Porque ouviu a fama dele e veio conhecê-lo com presentes caros.",
+        "Porque ouviu a fama dele e veio pedir ajuda contra um rei.",
+        "Porque ouviu a fama dele e veio ver o reino de perto."
       ]
     },
     {
@@ -581,8 +581,8 @@
       "reference": "1Rs 10:14",
       "wrongs": [
         "Quatrocentos e vinte talentos.",
-        "Cem talentos.",
-        "Mil talentos."
+        "Duzentos e quarenta talentos.",
+        "Trezentos e trinta talentos."
       ]
     },
     {
@@ -610,9 +610,9 @@
       "answer": "Perverteram o coração dele para seguir outros deuses.",
       "reference": "1Rs 11:4",
       "wrongs": [
-        "Firmaram o coração dele só no Deus de Israel.",
-        "Afastaram o coração dele do trono e da corte.",
-        "Levaram o coração dele a deixar Jerusalém."
+        "Perverteram o coração do povo para seguir outros deuses.",
+        "Perverteram o coração dos filhos para seguir outros deuses.",
+        "Perverteram o coração dos servos para seguir outros deuses."
       ]
     },
     {
@@ -670,9 +670,9 @@
       "answer": "Israel se rebelou contra ela até hoje.",
       "reference": "1Rs 12:19",
       "wrongs": [
-        "Israel se uniu a ela até hoje.",
-        "Israel a serviu em paz até hoje.",
-        "Israel a mudou para Samaria até hoje."
+        "Judá se rebelou contra ela até hoje.",
+        "Israel se rebelou contra a casa de Saul até hoje.",
+        "Israel se queixou dela até hoje."
       ]
     },
     {
@@ -730,9 +730,9 @@
       "answer": "Quebrou-se, e a cinza se derramou.",
       "reference": "1Rs 13:5",
       "wrongs": [
-        "Ficou inteiro, e o fogo se apagou.",
-        "Afundou, e o ouro se derreteu.",
-        "Sumiu, e o bezerro se partiu."
+        "Quebrou-se, e o fogo se apagou.",
+        "Quebrou-se, e as pedras se espalharam.",
+        "Quebrou-se, e o bezerro caiu."
       ]
     },
     {
@@ -790,9 +790,9 @@
       "answer": "Ele morreu assim que ela chegou ao limiar.",
       "reference": "1Rs 14:17",
       "wrongs": [
-        "Ele sarou assim que ela chegou ao limiar.",
-        "Ele fugiu assim que ela chegou ao limiar.",
-        "Ele foi ungido assim que ela chegou ao limiar."
+        "Ele morreu assim que ela chegou à cidade.",
+        "Ele morreu assim que ela chegou ao palácio.",
+        "Ele morreu antes de ela chegar ao limiar."
       ]
     },
     {
@@ -850,9 +850,9 @@
       "answer": "Fez o que era certo, à maneira de Davi.",
       "reference": "1Rs 15:11",
       "wrongs": [
-        "Fez o que era mau, à maneira de Jeroboão.",
-        "Fez o que era certo, à maneira de Acabe.",
-        "Fez o que era mau, à maneira de Manassés."
+        "Fez o que era certo, à maneira de Josafá.",
+        "Fez o que era certo, à maneira de Ezequias.",
+        "Fez o que era certo, à maneira de Josias."
       ]
     },
     {
@@ -910,9 +910,9 @@
       "answer": "Fez o mal pior do que todos os de antes.",
       "reference": "1Rs 16:30",
       "wrongs": [
-        "Fez o bem melhor do que todos os de antes.",
-        "Fez o mal igual só ao de Davi, e nada além.",
-        "Fez o bem à maneira de Asa, sem ídolo."
+        "Fez o mal igual ao de todos os de antes.",
+        "Fez o mal pior do que todos os de Judá.",
+        "Fez o mal pior do que todos os de Tiro."
       ]
     },
     {
@@ -927,7 +927,7 @@
       "wrongs": [
         "Atalia, filha de Onri, rei de Israel.",
         "Maaca, filha de Absalão.",
-        "Abisague, a sunamita."
+        "Abisague, a sunamita de Davi."
       ]
     },
     {
@@ -956,8 +956,8 @@
       "reference": "1Rs 16:34",
       "wrongs": [
         "Do primogênito Segube e do filho mais novo Abirão.",
-        "Do rei Acabe e da rainha Jezabel.",
-        "Dos dois filhos de Jeroboão, Nadabe e Abias."
+        "Do primogênito Nadabe e do filho mais novo Abias.",
+        "Do primogênito Er e do filho mais novo Onã."
       ]
     },
     {
@@ -970,9 +970,9 @@
       "answer": "Não haveria orvalho nem chuva, senão pela palavra dele.",
       "reference": "1Rs 17:1",
       "wrongs": [
-        "Haveria orvalho e chuva abundante naquele mesmo dia.",
-        "Não haveria sol nem vento, senão pela ordem do rei.",
-        "A chuva viria só do Carmelo, sem nenhuma palavra."
+        "Não haveria orvalho nem chuva, senão pela ordem do rei.",
+        "Não haveria orvalho nem chuva, senão pela oração do povo.",
+        "Não haveria sol nem chuva, senão pela palavra dele."
       ]
     },
     {
@@ -987,7 +987,7 @@
       "wrongs": [
         "No monte Horebe, ao sul do deserto.",
         "Na caverna do Carmelo, junto ao mar.",
-        "Na casa da viúva em Sarepta, desde o primeiro dia."
+        "Na casa da viúva, em Sarepta."
       ]
     },
     {
@@ -1015,9 +1015,9 @@
       "answer": "A alma tornou a entrar nele, e o menino reviveu.",
       "reference": "1Rs 17:22",
       "wrongs": [
-        "A febre passou, mas o menino continuou dormindo.",
-        "O corpo foi sepultado, e o menino não voltou.",
-        "A alma subiu, e o menino ficou em paz."
+        "A febre o deixou, e o menino reviveu.",
+        "A alma tornou a entrar nele, e o menino acordou.",
+        "A força voltou a ele, e o menino reviveu."
       ]
     },
     {
@@ -1030,9 +1030,9 @@
       "answer": "Consumiu o holocausto, a lenha, as pedras, o pó e a água.",
       "reference": "1Rs 18:38",
       "wrongs": [
-        "Apagou o sacrifício e deixou a água intacta.",
-        "Queimou só a lenha e poupou o novilho.",
-        "Caiu no altar de Baal e não tocou o de Elias."
+        "Consumiu o holocausto, a lenha, o altar, o pó e a água.",
+        "Consumiu o holocausto, a lenha, as pedras, o pó e o ribeiro.",
+        "Consumiu o holocausto, a lenha, as pedras, a cinza e a água."
       ]
     },
     {
@@ -1075,9 +1075,9 @@
       "answer": "Quatrocentos e cinquenta.",
       "reference": "1Rs 18:22",
       "wrongs": [
-        "Quatrocentos.",
-        "Oitocentos e cinquenta.",
-        "Duzentos."
+        "Quatrocentos e quarenta.",
+        "Quatrocentos e sessenta.",
+        "Oitocentos e cinquenta."
       ]
     },
     {
@@ -1150,9 +1150,9 @@
       "answer": "Porque ele soltou o homem posto para destruição.",
       "reference": "1Rs 20:42",
       "wrongs": [
-        "Porque ele matou o homem posto para ser poupado.",
-        "Porque ele escondeu o homem posto para ser solto.",
-        "Porque ele coroou o homem posto para o trono."
+        "Porque ele soltou o homem posto para o trono.",
+        "Porque ele soltou o homem posto para a guerra.",
+        "Porque ele soltou o homem posto para o combate."
       ]
     },
     {
@@ -1180,9 +1180,9 @@
       "answer": "Em Afeque.",
       "reference": "1Rs 20:26",
       "wrongs": [
-        "Em Ramote de Gileade.",
+        "Em Jizreel.",
         "Em Megido.",
-        "Em Carquemis."
+        "Em Samaria."
       ]
     },
     {
@@ -1195,9 +1195,9 @@
       "answer": "Cem mil.",
       "reference": "1Rs 20:29",
       "wrongs": [
-        "Dez mil.",
-        "Vinte e sete mil.",
-        "Um milhão."
+        "Vinte mil.",
+        "Trinta mil.",
+        "Dois mil."
       ]
     },
     {
@@ -1210,9 +1210,9 @@
       "answer": "Tomar posse da vinha dele em Jizreel.",
       "reference": "1Rs 21:16",
       "wrongs": [
-        "Chorar no túmulo dele em Samaria.",
-        "Devolver a vinha à família dele.",
-        "Construir um altar no campo dele."
+        "Tomar posse do campo dele em Jizreel.",
+        "Tomar posse da vinha dele em Samaria.",
+        "Tomar posse da casa dele em Jizreel."
       ]
     },
     {
@@ -1271,7 +1271,7 @@
       "reference": "1Rs 22:34",
       "wrongs": [
         "Uma lança certeira atravessou o escudo.",
-        "Uma pedra de funda bateu na testa.",
+        "Uma pedra de funda o atingiu bem na testa.",
         "Uma espada de perto cortou o pescoço."
       ]
     },
@@ -1315,9 +1315,9 @@
       "answer": "Lamberam, como Deus já tinha dito.",
       "reference": "1Rs 22:38",
       "wrongs": [
-        "Fugiram, como o povo já esperava.",
-        "Beberam a água, sem tocar o sangue.",
-        "Guardaram o corpo, como Jezabel pediu."
+        "Morderam, como Deus já tinha dito.",
+        "Uivaram, como Deus já tinha dito.",
+        "Ladraram, como Deus já tinha dito."
       ]
     },
     {
@@ -1347,7 +1347,7 @@
       "wrongs": [
         "No tempo de Salomão, no século X antes de Cristo.",
         "No tempo dos juízes, no século XII antes de Cristo.",
-        "No século I, depois do nascimento de Cristo."
+        "No tempo de Cristo, no século I depois de Cristo."
       ]
     }
   ]

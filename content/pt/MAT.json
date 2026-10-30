@@ -11,7 +11,7 @@
       "reference": "Mt 1:21",
       "wrongs": [
         "Porque ele reinaria em Jerusalém no lugar de Herodes.",
-        "Porque ele nasceria em Belém, cidade de Davi.",
+        "Porque ele traria de volta os exilados da Babilônia.",
         "Porque ele seria o primogênito da casa de José."
       ]
     },
@@ -25,7 +25,7 @@
       "answer": "José.",
       "reference": "Mt 1:16",
       "wrongs": [
-        "Zacarias.",
+        "Simão.",
         "Joaquim.",
         "Eliú."
       ]
@@ -70,9 +70,9 @@
       "answer": "Adoraram o menino e entregaram ouro, incenso e mirra.",
       "reference": "Mt 2:11",
       "wrongs": [
-        "Pediram ao menino que fosse com eles até Herodes.",
-        "Esconderam o menino e partiram sem deixar presente.",
-        "Ofereceram pão, vinho e um manto novo."
+        "Adoraram o menino e entregaram ouro, incenso e especiarias.",
+        "Adoraram o menino e entregaram prata, incenso e mirra.",
+        "Adoraram o menino e entregaram ouro, canela e mirra."
       ]
     },
     {
@@ -85,9 +85,9 @@
       "answer": "O rei Herodes.",
       "reference": "Mt 2:16",
       "wrongs": [
-        "Pôncio Pilatos.",
-        "Caifás.",
-        "O rei Acaz."
+        "O rei Antipas.",
+        "O rei Acaz.",
+        "O rei Arquelau."
       ]
     },
     {
@@ -100,9 +100,9 @@
       "answer": "Para o Egito.",
       "reference": "Mt 2:14",
       "wrongs": [
-        "Para Damasco.",
-        "Para Jericó.",
-        "Para o deserto da Judeia."
+        "Para a Síria.",
+        "Para a Arábia.",
+        "Para a Samaria."
       ]
     },
     {
@@ -117,7 +117,7 @@
       "wrongs": [
         "De um ano para baixo.",
         "De cinco anos para baixo.",
-        "Só os recém-nascidos."
+        "De três anos para baixo."
       ]
     },
     {
@@ -130,9 +130,9 @@
       "answer": "O Espírito de Deus, em forma de pomba.",
       "reference": "Mt 3:16",
       "wrongs": [
-        "Uma nuvem escura, com som de trovão.",
-        "Fogo, como línguas sobre a cabeça dele.",
-        "Um anjo, em forma de homem."
+        "O Espírito de Deus, em forma de nuvem.",
+        "O Espírito de Deus, em forma de fogo.",
+        "O Espírito de Deus, em forma de vento."
       ]
     },
     {
@@ -145,9 +145,9 @@
       "answer": "João Batista.",
       "reference": "Mt 3:1",
       "wrongs": [
-        "Elias.",
-        "Isaías.",
-        "André."
+        "Elias, o profeta.",
+        "Isaías, o profeta.",
+        "João, o apóstolo."
       ]
     },
     {
@@ -160,9 +160,9 @@
       "answer": "No Jordão.",
       "reference": "Mt 3:13",
       "wrongs": [
-        "No mar da Galileia.",
-        "No tanque de Siloé.",
-        "No poço de Jacó."
+        "No Eufrates.",
+        "No Jaboque.",
+        "No Cedrom."
       ]
     },
     {
@@ -177,7 +177,7 @@
       "wrongs": [
         "De linho fino, com um cinto de ouro.",
         "De lã de ovelha, com um cinto de pano.",
-        "De pele de cabra, sem cinto algum."
+        "De pele de cabra, com um cinto de corda."
       ]
     },
     {
@@ -205,9 +205,9 @@
       "answer": "Simão Pedro e André, irmão dele.",
       "reference": "Mt 4:18",
       "wrongs": [
-        "Filipe e Bartolomeu.",
-        "Mateus e Tomé, cobradores.",
-        "Zebedeu e o filho mais novo."
+        "Filipe e Bartolomeu, irmãos dele.",
+        "Mateus e Tomé, irmãos dele.",
+        "Tiago e João, filhos de Zebedeu."
       ]
     },
     {
@@ -222,7 +222,7 @@
       "wrongs": [
         "Em Jerusalém, junto ao templo.",
         "Em Betsaida, na casa de André.",
-        "Em Jericó, cidade dos palmeirais."
+        "Em Jericó, cidade das palmeiras."
       ]
     },
     {
@@ -237,7 +237,7 @@
       "wrongs": [
         "Sete dias e sete noites.",
         "Três dias e três noites.",
-        "Vinte dias, sem as noites."
+        "Trinta dias e trinta noites."
       ]
     },
     {
@@ -250,9 +250,9 @@
       "answer": "O Reino dos céus.",
       "reference": "Mt 5:3",
       "wrongs": [
-        "Uma terra nova em Israel.",
-        "Riqueza e saúde nesta vida.",
-        "O trono de Davi em Jerusalém."
+        "O Reino de Israel.",
+        "O Reino dos justos.",
+        "O Reino da glória."
       ]
     },
     {
@@ -265,9 +265,9 @@
       "answer": "Num monte.",
       "reference": "Mt 5:1",
       "wrongs": [
-        "Num barco, junto à praia.",
-        "No pátio do templo.",
-        "Na sinagoga de Nazaré."
+        "Numa barca.",
+        "Na praia.",
+        "Numa sinagoga."
       ]
     },
     {
@@ -295,9 +295,9 @@
       "answer": "Amá-los e orar por quem os persegue.",
       "reference": "Mt 5:44",
       "wrongs": [
-        "Evitar o encontro e não lhes falar.",
-        "Pagar o mal com o mesmo mal.",
-        "Entregá-los aos juízes da cidade."
+        "Amá-los e jejuar por quem os persegue.",
+        "Amá-los e dar esmolas por quem os persegue.",
+        "Amá-los e pregar a quem os persegue."
       ]
     },
     {
@@ -311,8 +311,8 @@
       "reference": "Mt 6:9",
       "wrongs": [
         "Chamando a Deus de Rei, sentado no templo.",
-        "Pedindo primeiro o pão de cada dia.",
-        "Louvar o nome de Abraão, pai do povo."
+        "Chamando a Deus de Senhor, que reina em Sião.",
+        "Chamando a Deus de Pai nosso, que está no monte."
       ]
     },
     {
@@ -342,7 +342,7 @@
       "wrongs": [
         "À família.",
         "Ao sábado.",
-        "Aos sacerdotes."
+        "A Baal."
       ]
     },
     {
@@ -385,9 +385,9 @@
       "answer": "Apertada, e pouca gente a encontra.",
       "reference": "Mt 7:14",
       "wrongs": [
-        "Larga, e muita gente entra por ela.",
-        "Plana, e qualquer um a percorre.",
-        "Curta, e termina ainda nesta vida."
+        "Difícil, e muita gente a encontra.",
+        "Larga, e pouca gente a encontra.",
+        "Apertada, e muitos a encontram."
       ]
     },
     {
@@ -402,7 +402,7 @@
       "wrongs": [
         "Sobre a areia.",
         "Sobre o barro.",
-        "Sobre estacas de madeira."
+        "Sobre a lama."
       ]
     },
     {
@@ -416,8 +416,8 @@
       "reference": "Mt 8:26",
       "wrongs": [
         "Pediu aos discípulos que remassem até a praia.",
-        "A tormenta cresceu, e o barco começou a afundar.",
-        "Lançaram sortes para achar um culpado a bordo."
+        "Dormiu no barco até a tormenta passar.",
+        "Mandou os discípulos descerem em terra firme."
       ]
     },
     {
@@ -431,7 +431,7 @@
       "reference": "Mt 8:5",
       "wrongs": [
         "Um fariseu.",
-        "Jairo.",
+        "Um escriba.",
         "Um leproso."
       ]
     },
@@ -535,9 +535,9 @@
       "answer": "Às ovelhas perdidas de Israel.",
       "reference": "Mt 10:6",
       "wrongs": [
-        "Aos gentios das cidades costeiras.",
-        "Aos samaritanos de Sicar.",
-        "Aos sacerdotes de Jerusalém."
+        "Às ovelhas perdidas dos gentios.",
+        "Às ovelhas perdidas de Samaria.",
+        "Às ovelhas perdidas da Galileia."
       ]
     },
     {
@@ -551,7 +551,7 @@
       "reference": "Mt 10:4",
       "wrongs": [
         "Simão, o zelote.",
-        "Tomé.",
+        "Tomé, o gêmeo.",
         "Judas, filho de Tiago."
       ]
     },
@@ -567,7 +567,7 @@
       "wrongs": [
         "O de Jerusalém e as cidades da Judeia.",
         "O caminho do mar da Galileia.",
-        "As aldeias da Galileia."
+        "O das cidades da Galileia."
       ]
     },
     {
@@ -580,9 +580,9 @@
       "answer": "Por um asse.",
       "reference": "Mt 10:29",
       "wrongs": [
-        "Por duas moedas de prata.",
-        "Por um denário inteiro.",
-        "Por cinco moedas de ouro."
+        "Por dois asses.",
+        "Por um denário.",
+        "Por um siclo."
       ]
     },
     {
@@ -595,9 +595,9 @@
       "answer": "Aos cansados e oprimidos.",
       "reference": "Mt 11:28",
       "wrongs": [
-        "Aos ricos que já tinham cumprido a Lei.",
-        "Aos sacerdotes que serviam no templo.",
-        "Só aos doze que andavam com ele."
+        "Aos cansados e humilhados.",
+        "Aos tristes e oprimidos.",
+        "Aos pobres e aflitos."
       ]
     },
     {
@@ -612,7 +612,7 @@
       "wrongs": [
         "Pedro.",
         "André.",
-        "Nicodemos."
+        "Tiago."
       ]
     },
     {
@@ -640,9 +640,9 @@
       "answer": "O jugo é suave, e o fardo é leve.",
       "reference": "Mt 11:30",
       "wrongs": [
-        "O jugo é pesado, e a carga é dura.",
-        "O jugo é de ferro, e a carga não se move.",
-        "O jugo é curto, e a carga fica pela metade."
+        "O fardo é suave, e o jugo é leve.",
+        "O jugo é suave, e o fardo é pequeno.",
+        "O jugo é leve, e o fardo é pequeno."
       ]
     },
     {
@@ -655,9 +655,9 @@
       "answer": "A mão foi restaurada e ficou sã.",
       "reference": "Mt 12:13",
       "wrongs": [
-        "A mão continuou atrofiada como antes.",
-        "A mão inchou e doeu ainda mais.",
-        "A mão secou, e ele não pôde movê-la."
+        "O braço foi restaurado e ficou são.",
+        "A mão foi restaurada no sábado seguinte.",
+        "A mão foi restaurada e ficou limpa."
       ]
     },
     {
@@ -762,7 +762,7 @@
       "wrongs": [
         "Guardou os pães para a viagem do dia seguinte.",
         "Mandou a multidão comprar comida nas aldeias.",
-        "Devolveu os pães e serviu só os peixes."
+        "Repartiu os pães e deixou os peixes guardados."
       ]
     },
     {
@@ -820,9 +820,9 @@
       "answer": "A filha dela ficou curada naquela hora.",
       "reference": "Mt 15:28",
       "wrongs": [
-        "A filha ficou doente por mais sete dias.",
+        "A filha dela ficou curada naquela semana.",
         "A própria mulher foi curada da febre.",
-        "Jesus recusou o pedido e seguiu viagem."
+        "A serva dela ficou curada naquela hora."
       ]
     },
     {
@@ -851,7 +851,7 @@
       "reference": "Mt 15:34",
       "wrongs": [
         "Cinco, e mais dois peixes.",
-        "Doze, sem peixe algum.",
+        "Doze, e mais uns poucos peixes.",
         "Três, e um cesto de pão."
       ]
     },
@@ -940,9 +940,9 @@
       "answer": "O rosto brilhou feito o sol, e a roupa ficou branca.",
       "reference": "Mt 17:2",
       "wrongs": [
-        "O corpo ficou em sombra, e a roupa escureceu.",
-        "Surgiram chagas nas mãos, e a roupa rasgou.",
-        "O rosto se cobriu de nuvem, e a voz sumiu."
+        "O rosto brilhou feito a lua, e a roupa ficou branca.",
+        "O rosto brilhou feito o fogo, e a roupa ficou branca.",
+        "O rosto brilhou feito o sol, e a roupa ficou dourada."
       ]
     },
     {
@@ -985,9 +985,9 @@
       "answer": "Um estáter.",
       "reference": "Mt 17:27",
       "wrongs": [
-        "Uma pérola de grande valor.",
-        "Um anel de ouro.",
-        "Duas moedas pequenas."
+        "Um siclo.",
+        "Um denário.",
+        "Duas dracmas."
       ]
     },
     {
@@ -1002,7 +1002,7 @@
       "wrongs": [
         "Até sete vezes.",
         "Até três vezes.",
-        "Só uma vez."
+        "Até duas vezes."
       ]
     },
     {
@@ -1015,9 +1015,9 @@
       "answer": "Noventa e nove.",
       "reference": "Mt 18:12",
       "wrongs": [
-        "Cem.",
-        "Doze.",
-        "Sete."
+        "Noventa e oito.",
+        "Cinquenta.",
+        "Noventa e cinco."
       ]
     },
     {
@@ -1047,7 +1047,7 @@
       "wrongs": [
         "Porque não queria deixar o pai idoso.",
         "Porque os discípulos zombaram dele.",
-        "Porque Jesus recusou o cumprimento da Lei."
+        "Porque esperava outro Messias."
       ]
     },
     {
@@ -1105,9 +1105,9 @@
       "answer": "Os de trás ficam na frente, e os da frente, atrás.",
       "reference": "Mt 20:16",
       "wrongs": [
-        "Os de trás continuam atrás, e os da frente, na frente.",
-        "Os primeiros recebem o dobro, e os últimos, nada.",
-        "Todos ficam no mesmo lugar, sem mudança."
+        "Os de trás ficam na frente, e os da frente, no fundo.",
+        "Os de trás ficam no meio, e os da frente, atrás.",
+        "Os últimos ficam na frente, e os primeiros, à parte."
       ]
     },
     {
@@ -1120,9 +1120,9 @@
       "answer": "A mãe deles.",
       "reference": "Mt 20:20",
       "wrongs": [
-        "O pai deles, Zebedeu.",
-        "Pedro, em nome dos dois.",
-        "João, o mais novo dos dois."
+        "O pai deles.",
+        "A avó deles.",
+        "O irmão deles."
       ]
     },
     {
@@ -1165,9 +1165,9 @@
       "answer": "Hosana ao Filho de Davi, bendito o que vem em nome do Senhor.",
       "reference": "Mt 21:9",
       "wrongs": [
-        "Pedia que ele descesse do jumentinho.",
-        "Gritava que ele era enviado de Roma.",
-        "Clamava só por pão naquela hora."
+        "Hosana ao Filho de José, bendito o que vem em nome do Senhor.",
+        "Hosana ao Filho de Davi, bendito o que vem em nome dos profetas.",
+        "Hosana ao Filho de Davi, bendito o que vem em nome do povo."
       ]
     },
     {
@@ -1195,9 +1195,9 @@
       "answer": "As mesas de quem trocava dinheiro e os bancos das pombas.",
       "reference": "Mt 21:12",
       "wrongs": [
-        "O véu que fechava o lugar santo.",
-        "As colunas do pátio dos gentios.",
-        "O altar dos sacrifícios da manhã."
+        "As mesas de quem trocava dinheiro e as cadeiras dos anciãos.",
+        "As mesas de quem vendia pombas e os bancos dos cordeiros.",
+        "As mesas do dinheiro e os bancos dos vendedores de ovelhas."
       ]
     },
     {
@@ -1210,9 +1210,9 @@
       "answer": "Secou na mesma hora.",
       "reference": "Mt 21:19",
       "wrongs": [
-        "Floresceu e deu fruto na hora.",
-        "Ficou verde até o outro dia.",
-        "Foi cortada pelos discípulos."
+        "Secou no dia seguinte.",
+        "Secou depois de três dias.",
+        "Secou na semana seguinte."
       ]
     },
     {
@@ -1225,9 +1225,9 @@
       "answer": "Com o coração, a alma e o pensamento por inteiro.",
       "reference": "Mt 22:37",
       "wrongs": [
-        "Com ofertas, jejum e oração no templo.",
-        "Com medo, silêncio e distância.",
-        "Só de boca, sem envolver a vida."
+        "Com o coração, a voz e o pensamento por inteiro.",
+        "Com o coração, a alma e os bens por inteiro.",
+        "Com a mente, a alma e o pensamento por inteiro."
       ]
     },
     {
@@ -1257,7 +1257,7 @@
       "wrongs": [
         "Só os parentes do rei, já vestidos de festa.",
         "Os sacerdotes que serviam naquela semana.",
-        "Ninguém. A sala ficou vazia."
+        "Os convidados que voltaram arrependidos."
       ]
     },
     {
@@ -1270,9 +1270,9 @@
       "answer": "Como os anjos de Deus, sem se casarem.",
       "reference": "Mt 22:30",
       "wrongs": [
-        "Como nesta vida, formando novas famílias.",
-        "Como sombras, sem corpo nem voz.",
-        "Como reis, cada um no seu trono."
+        "Como os anjos de Deus, sem terem corpo.",
+        "Como os anjos de Deus, sem se multiplicarem.",
+        "Como os profetas de Deus, sem se casarem."
       ]
     },
     {
@@ -1345,9 +1345,9 @@
       "answer": "Sobre as nuvens, com poder e muita glória.",
       "reference": "Mt 24:30",
       "wrongs": [
-        "Em segredo, só para os doze.",
-        "Num cavalo, pelas ruas de Jerusalém.",
-        "De noite, sem que as tribos vejam."
+        "Sobre os montes, com poder e muita glória.",
+        "Sobre as nuvens, com poder e muita luz.",
+        "Sobre as nuvens, com grande poder e temor."
       ]
     },
     {
@@ -1390,9 +1390,9 @@
       "answer": "Nenhuma ficaria sobre a outra.",
       "reference": "Mt 24:2",
       "wrongs": [
-        "Ficariam de pé até o fim dos tempos.",
-        "Só o véu interno seria rasgado.",
-        "Seriam douradas de novo pelo rei."
+        "Nenhuma seria tirada do seu lugar.",
+        "Nenhuma cairia antes do fim dos tempos.",
+        "Nenhuma seria lançada fora do templo."
       ]
     },
     {
@@ -1405,9 +1405,9 @@
       "answer": "As ovelhas à direita e os bodes à esquerda.",
       "reference": "Mt 25:33",
       "wrongs": [
-        "As ovelhas à esquerda e os bodes à direita.",
-        "Todos juntos, no meio do trono.",
-        "Os bodes à direita e as ovelhas fora."
+        "As ovelhas à direita e os bodes à frente.",
+        "As ovelhas à direita e os bodes no meio.",
+        "As ovelhas à frente e os bodes à direita."
       ]
     },
     {
@@ -1421,7 +1421,7 @@
       "reference": "Mt 25:2",
       "wrongs": [
         "Sete. As outras três eram loucas.",
-        "Dez. Nenhuma delas era louca.",
+        "Quatro. As outras seis eram loucas.",
         "Três. As outras sete eram loucas."
       ]
     },
@@ -1450,9 +1450,9 @@
       "answer": "O sangue do novo testamento, derramado para remissão dos pecados.",
       "reference": "Mt 26:28",
       "wrongs": [
-        "O vinho novo da festa, só para os doze.",
-        "A água da purificação, guardada no templo.",
-        "O sinal de Moisés, lembrado uma vez por ano."
+        "O sangue do antigo testamento, derramado para remissão dos pecados.",
+        "O sangue do novo testamento, guardado para a remissão dos pecados.",
+        "O sangue dos cordeiros, derramado para remissão dos pecados."
       ]
     },
     {
@@ -1510,9 +1510,9 @@
       "answer": "Gritou bem alto e rendeu o espírito.",
       "reference": "Mt 27:50",
       "wrongs": [
-        "Desceu da cruz ainda com vida.",
-        "Ficou em silêncio e adormeceu.",
-        "Pediu água e continuou ali."
+        "Falou baixinho e rendeu o espírito.",
+        "Suspirou fundo e rendeu o espírito.",
+        "Gritou bem alto e baixou a cabeça."
       ]
     },
     {
@@ -1557,7 +1557,7 @@
       "wrongs": [
         "Da hora terceira até a hora sexta.",
         "Da hora nona até o pôr do sol.",
-        "Só na hora terceira, por um instante."
+        "Da hora terceira até a hora nona."
       ]
     },
     {
@@ -1570,9 +1570,9 @@
       "answer": "Que Jesus tinha ressuscitado e não estava ali.",
       "reference": "Mt 28:6",
       "wrongs": [
-        "Que o corpo tinha sido levado pelos soldados.",
-        "Que Jesus ainda dormia no sepulcro.",
-        "Que elas tinham ido ao túmulo errado."
+        "Que Jesus tinha sido levado e não estava ali.",
+        "Que Jesus tinha subido ao céu e não estava ali.",
+        "Que Jesus tinha ido à Galileia e não estava ali."
       ]
     },
     {

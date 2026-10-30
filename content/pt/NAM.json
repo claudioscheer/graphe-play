@@ -11,8 +11,8 @@
       "reference": "Na 1:8",
       "wrongs": [
         "Com um cerco de sete anos.",
-        "Com fome dentro da cidade.",
-        "Com fogo vindo do templo."
+        "Com uma peste que assola a cidade.",
+        "Com um fogo que desce do céu."
       ]
     },
     {
@@ -55,9 +55,9 @@
       "answer": "Uma fortaleza para quem confia nele.",
       "reference": "Na 1:7",
       "wrongs": [
-        "Um inimigo de quem confia nele.",
-        "Um juiz que esquece o seu povo.",
-        "Um refúgio guardado só para Nínive."
+        "Uma luz para quem confia nele.",
+        "Um pastor para quem confia nele.",
+        "Um escudo para quem confia nele."
       ]
     },
     {
@@ -70,9 +70,9 @@
       "answer": "Vazia, esgotada e devastada.",
       "reference": "Na 2:10",
       "wrongs": [
-        "Cheia, segura e em festa.",
-        "Rica, murada e em paz.",
-        "Nova, maior e em ordem."
+        "Faminta, sedenta e doente.",
+        "Sitiada, ferida e abandonada.",
+        "Queimada, fumegante e rendida."
       ]
     },
     {
@@ -130,9 +130,9 @@
       "answer": "Que está destruída e sem quem a console.",
       "reference": "Na 3:7",
       "wrongs": [
-        "Que está de pé e tem quem a defenda.",
-        "Que vai se erguer no dia seguinte.",
-        "Que o rei ainda a governa em paz."
+        "Que está sitiada e sem quem a socorra.",
+        "Que está entregue e sem quem a defenda.",
+        "Que está ferida e sem quem a cure."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "answer": "Jogaram sortes sobre eles.",
       "reference": "Na 3:10",
       "wrongs": [
-        "Deram-lhes coroas de ouro.",
-        "Mandaram-nos de volta a Judá.",
-        "Puseram-nos como juízes."
+        "Lançaram pedras sobre eles.",
+        "Puseram fardos sobre eles.",
+        "Puseram-lhes argolas no nariz."
       ]
     },
     {
@@ -205,9 +205,9 @@
       "answer": "Antes da queda de Nínive, em 612 antes de Cristo.",
       "reference": "Naum",
       "wrongs": [
-        "Depois da queda de Nínive, em 500 antes de Cristo.",
-        "No reinado de Davi, cerca de 1000 antes de Cristo.",
-        "No século I depois de Cristo, bem após Nínive."
+        "Antes da queda de Samaria, em 722 antes de Cristo.",
+        "No reinado de Josias, cerca de 630 antes de Cristo.",
+        "Depois do exílio, em 450 antes de Cristo."
       ]
     }
   ]
