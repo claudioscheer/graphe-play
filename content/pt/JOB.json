@@ -1102,13 +1102,13 @@
       "chapter": 34,
       "verseStart": 20,
       "kind": "curiosity",
-      "prompt": "Em que hora os povos são abalados, segundo Eliú?",
-      "answer": "No meio da noite, de um instante para outro.",
+      "prompt": "Até quando os povos são perturbados, segundo Eliú?",
+      "answer": "Até a meia-noite, num momento.",
       "reference": "Jó 34:20",
       "wrongs": [
-        "Ao meio-dia, depois de longo aviso.",
-        "Na festa, com música e banquete.",
-        "No sábado, só dentro do templo."
+        "Até o amanhecer, depois de longo aviso.",
+        "Até o meio-dia, em plena festa.",
+        "Até a noite seguinte, no sábado."
       ]
     },
     {
