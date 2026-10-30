@@ -7,7 +7,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "Como a cidade populosa de Jerusalém ficou?",
-      "answer": "Ficou sozinha, como viúva, e virou escrava.",
+      "answer": "Ficou solitária, como viúva, e virou tributária.",
       "wrongs": [
         "Ficou cheia, como noiva, e virou rainha.",
         "Ficou segura, como fortaleza, e virou capital.",
@@ -144,7 +144,7 @@
       "verseStart": 55,
       "kind": "place",
       "prompt": "De onde o homem aflito em Jerusalém chamou por Deus?",
-      "answer": "De uma cova profunda.",
+      "answer": "Da mais profunda masmorra.",
       "wrongs": [
         "De um muro alto.",
         "De um palácio real.",
@@ -174,11 +174,11 @@
       "verseStart": 16,
       "kind": "curiosity",
       "prompt": "Com o que Deus quebrou os dentes do homem aflito em Jerusalém?",
-      "answer": "Com cascalho, e o cobriu de cinzas.",
+      "answer": "Com cascalho, e o abaixou na cinza.",
       "wrongs": [
-        "Com mel, e o cobriu de óleo.",
-        "Com pão, e o cobriu de linho.",
-        "Com leite, e o cobriu de ouro."
+        "Com mel, e o abaixou no óleo.",
+        "Com pão, e o abaixou no linho.",
+        "Com leite, e o abaixou no ouro."
       ],
       "reference": "Lm 3:16"
     },
@@ -189,7 +189,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "Como os filhos preciosos de Sião passaram a ser vistos?",
-      "answer": "Como potes de barro, e não mais como ouro puro.",
+      "answer": "Como vasos de barro, e não mais como ouro puro.",
       "wrongs": [
         "Como coroas de ouro, e não mais como pó.",
         "Como taças de prata, e não mais como barro.",
@@ -233,7 +233,7 @@
       "chapter": 4,
       "verseStart": 20,
       "kind": "curiosity",
-      "prompt": "O que aconteceu com o ungido de Deus em Jerusalém?",
+      "prompt": "O que aconteceu com o ungido de Deus na queda de Jerusalém?",
       "answer": "Foi preso nas covas.",
       "wrongs": [
         "Foi coroado no palácio.",
@@ -294,11 +294,11 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "Como a fome deixou a pele do povo de Jerusalém?",
-      "answer": "Escura, da cor de um forno.",
+      "answer": "Queimada, como um forno.",
       "wrongs": [
-        "Clara, da cor da neve.",
-        "Dourada, da cor do trigo.",
-        "Branca, da cor do linho."
+        "Clara, como a neve.",
+        "Dourada, como o trigo.",
+        "Branca, como o linho."
       ],
       "reference": "Lm 5:10"
     },

@@ -249,7 +249,7 @@
       "verseEnd": 3,
       "kind": "place",
       "prompt": "Para onde iam o leproso e quem tivesse tocado um morto, em Números?",
-      "answer": "Para fora do acampamento.",
+      "answer": "Para fora do arraial.",
       "reference": "Nm 5:2-3",
       "wrongs": [
         "Para dentro da tenda.",
@@ -519,7 +519,7 @@
       "verseStart": 15,
       "kind": "curiosity",
       "prompt": "O que aparecia de tarde sobre a tenda, em Números?",
-      "answer": "Algo parecido com fogo, até de manhã.",
+      "answer": "Uma aparência de fogo, até de manhã.",
       "reference": "Nm 9:15",
       "wrongs": [
         "Uma nuvem escura, até o meio-dia.",
@@ -624,7 +624,7 @@
       "verseStart": 34,
       "kind": "place",
       "prompt": "Qual nome ganhou o lugar onde sepultaram os que tiveram desejo, em Números?",
-      "answer": "Quibrote-Hataavá.",
+      "answer": "Quibrote-Ataavá.",
       "reference": "Nm 11:34",
       "wrongs": [
         "Taberá.",
@@ -654,7 +654,7 @@
       "verseStart": 10,
       "kind": "subject",
       "prompt": "O que Arão viu em Miriã quando a nuvem se afastou?",
-      "answer": "Ela estava leprosa, branca feito neve.",
+      "answer": "Ficou leprosa como a neve.",
       "reference": "Nm 12:10",
       "wrongs": [
         "Ela estava curada e de pé.",
@@ -684,7 +684,7 @@
       "verseStart": 1,
       "kind": "curiosity",
       "prompt": "Por que Arão e Miriã se opuseram a Moisés?",
-      "answer": "Por causa da mulher cuxita com quem ele tinha casado.",
+      "answer": "Por causa da mulher cusita com quem ele tinha casado.",
       "reference": "Nm 12:1",
       "wrongs": [
         "Porque ele não os deixou entrar na tenda.",
@@ -850,7 +850,7 @@
       "verseEnd": 36,
       "kind": "subject",
       "prompt": "O que fizeram com o homem que juntou lenha no sábado, em Números?",
-      "answer": "Foi morto a pedradas, fora das tendas.",
+      "answer": "A congregação o apedrejou fora do arraial.",
       "reference": "Nm 15:32-36",
       "wrongs": [
         "Pagou uma oferta pelo pecado.",
@@ -864,8 +864,8 @@
       "chapter": 15,
       "verseStart": 38,
       "kind": "curiosity",
-      "prompt": "O que Israel devia pôr nas pontas das roupas?",
-      "answer": "Franjas, cada uma com um fio azul.",
+      "prompt": "O que Israel devia pôr nas pontas das roupas, em Números?",
+      "answer": "Franjas, com um cordão de azul.",
       "reference": "Nm 15:38",
       "wrongs": [
         "Um selo de ouro em cada ponta.",
@@ -910,7 +910,7 @@
       "verseStart": 32,
       "kind": "subject",
       "prompt": "O que a terra fez com os homens de Coré?",
-      "answer": "Abriu a boca e os engoliu com as casas.",
+      "answer": "Abriu a boca e os tragou com as casas.",
       "reference": "Nm 16:32",
       "wrongs": [
         "Os cobriu de granizo até morrerem.",
@@ -969,7 +969,7 @@
       "chapter": 17,
       "verseStart": 8,
       "kind": "subject",
-      "prompt": "O que aconteceu com a vara de Arão?",
+      "prompt": "O que aconteceu com a vara de Arão entre as doze varas?",
       "answer": "Brotou, floresceu e deu amêndoas.",
       "reference": "Nm 17:8",
       "wrongs": [
@@ -1120,8 +1120,8 @@
       "chapter": 19,
       "verseStart": 6,
       "kind": "curiosity",
-      "prompt": "O que jogavam no fogo em que a vaca ardia, em Números?",
-      "answer": "Madeira de cedro, hissopo e pano escarlate.",
+      "prompt": "O que jogavam no fogo em que a novilha ardia, em Números?",
+      "answer": "Pau de cedro, hissopo e carmesim.",
       "reference": "Nm 19:6",
       "wrongs": [
         "Farinha, azeite e incenso.",
@@ -1151,7 +1151,7 @@
       "verseStart": 12,
       "kind": "subject",
       "prompt": "Por que Moisés e Arão não levariam o povo à terra?",
-      "answer": "Porque não confiaram em Deus nem o honraram diante de Israel.",
+      "answer": "Porque não creram nele, para santificá-lo diante de Israel.",
       "reference": "Nm 20:12",
       "wrongs": [
         "Porque eram velhos demais para a viagem.",
@@ -1227,7 +1227,7 @@
       "verseStart": 9,
       "kind": "subject",
       "prompt": "O que fazia viver quem uma serpente mordia, em Números?",
-      "answer": "Olhar para a cobra de bronze feita por Moisés.",
+      "answer": "Olhar para a serpente de metal feita por Moisés.",
       "reference": "Nm 21:9",
       "wrongs": [
         "Beber a água tirada da rocha.",
@@ -1257,7 +1257,7 @@
       "verseStart": 26,
       "kind": "name",
       "prompt": "De quem Hesbom era a cidade?",
-      "answer": "De Seom, rei dos amorreus.",
+      "answer": "De Siom, rei dos amorreus.",
       "reference": "Nm 21:26",
       "wrongs": [
         "De Ogue, rei de Basã.",
@@ -1332,7 +1332,7 @@
       "verseStart": 41,
       "kind": "place",
       "prompt": "De onde Balaque mostrou a Balaão a ponta do povo?",
-      "answer": "Dos lugares altos de Baal.",
+      "answer": "Dos altos de Baal.",
       "reference": "Nm 22:41",
       "wrongs": [
         "Do cume do Pisga.",
@@ -1392,12 +1392,12 @@
       "verseStart": 1,
       "kind": "curiosity",
       "prompt": "Quantos altares Balaão pediu que Balaque fizesse?",
-      "answer": "Sete, com sete bezerros e sete carneiros.",
+      "answer": "Sete, com sete novilhos e sete carneiros.",
       "reference": "Nm 23:1",
       "wrongs": [
-        "Três, com três bezerros e três carneiros.",
+        "Três, com três novilhos e três carneiros.",
         "Doze, um por cada tribo de Israel.",
-        "Um só, com um bezerro e um carneiro."
+        "Um só, com um novilho e um carneiro."
       ]
     },
     {
@@ -1483,7 +1483,7 @@
       "verseStart": 14,
       "kind": "name",
       "prompt": "Quem era o israelita morto junto da midianita, em Números?",
-      "answer": "Zinri, filho de Salu, de Simeão.",
+      "answer": "Zimri, filho de Salu, dos simeonitas.",
       "reference": "Nm 25:14",
       "wrongs": [
         "Fineias, filho de Eleazar, de Levi.",
@@ -1575,7 +1575,7 @@
       "verseStart": 63,
       "kind": "place",
       "prompt": "Onde Moisés e Eleazar contaram os filhos de Israel?",
-      "answer": "Nas planícies de Moabe, perto de Jericó.",
+      "answer": "Nas campinas de Moabe, junto ao Jordão, na direção de Jericó.",
       "reference": "Nm 26:63",
       "wrongs": [
         "No deserto do Sinai, junto ao monte.",
@@ -2042,7 +2042,7 @@
       "verseStart": 55,
       "kind": "curiosity",
       "prompt": "O que Moisés disse que os moradores deixados em Canaã seriam?",
-      "answer": "Aguilhão no olho e espinho no flanco.",
+      "answer": "Espinhos nos olhos e aguilhões nas virilhas.",
       "reference": "Nm 33:55",
       "wrongs": [
         "Aliados fiéis e guardas das cidades.",
@@ -2193,7 +2193,7 @@
       "verseStart": 11,
       "kind": "name",
       "prompt": "Quem eram as filhas de Zelofeade que casaram?",
-      "answer": "Maalá, Tirsa, Hogla, Milca e Noa.",
+      "answer": "Maalá, Tirza, Hogla, Milca e Noa.",
       "reference": "Nm 36:11",
       "wrongs": [
         "Raabe, Rute, Débora, Miriã e Ana.",
@@ -2208,7 +2208,7 @@
       "verseStart": 13,
       "kind": "place",
       "prompt": "Onde Moisés deu a Israel a lei sobre as herdeiras?",
-      "answer": "Nas planícies de Moabe, perto de Jericó.",
+      "answer": "Nas campinas de Moabe, junto ao Jordão, na direção de Jericó.",
       "reference": "Nm 36:13",
       "wrongs": [
         "No deserto do Sinai, junto ao monte.",

@@ -246,7 +246,7 @@
       "chapter": 5,
       "verseStart": 3,
       "kind": "subject",
-      "prompt": "O que Jesus prometeu aos humildes de espírito?",
+      "prompt": "O que Jesus prometeu aos pobres de espírito?",
       "answer": "O Reino dos céus.",
       "reference": "Mt 5:3",
       "wrongs": [
@@ -337,7 +337,7 @@
       "verseStart": 24,
       "kind": "curiosity",
       "prompt": "A quem não se pode servir junto com Deus, em Mateus?",
-      "answer": "Às riquezas.",
+      "answer": "A Mamom.",
       "reference": "Mt 6:24",
       "wrongs": [
         "À família.",
@@ -471,8 +471,8 @@
       "chapter": 9,
       "verseStart": 6,
       "kind": "subject",
-      "prompt": "O que Jesus provou ao mandar o paralítico andar?",
-      "answer": "Que tinha poder na terra para perdoar pecados.",
+      "prompt": "O que Jesus provou ao mandar andar o paralítico trazido no leito?",
+      "answer": "Que tinha autoridade na terra para perdoar pecados.",
       "reference": "Mt 9:6",
       "wrongs": [
         "Que podia curar sem tocar no doente.",
@@ -516,8 +516,8 @@
       "chapter": 9,
       "verseStart": 25,
       "kind": "curiosity",
-      "prompt": "O que Jesus fez à menina dada como morta?",
-      "answer": "Tomou-a pela mão, e ela se ergueu.",
+      "prompt": "O que Jesus fez à menina que já davam por morta, em Mateus?",
+      "answer": "Levantou-a: pegou-lhe na mão, e ela se levantou.",
       "reference": "Mt 9:25",
       "wrongs": [
         "Mandou deixá-la descansar no leito.",
@@ -576,8 +576,8 @@
       "chapter": 10,
       "verseStart": 29,
       "kind": "curiosity",
-      "prompt": "Por quanto Jesus disse que se vendem dois pardais?",
-      "answer": "Por uma moeda pequena.",
+      "prompt": "Por quanto Jesus disse que se vendem dois passarinhos?",
+      "answer": "Por um asse.",
       "reference": "Mt 10:29",
       "wrongs": [
         "Por duas moedas de prata.",
@@ -592,7 +592,7 @@
       "verseStart": 28,
       "kind": "subject",
       "prompt": "A quem Jesus prometeu descanso?",
-      "answer": "Aos cansados e aos que carregam peso demais.",
+      "answer": "Aos cansados e oprimidos.",
       "reference": "Mt 11:28",
       "wrongs": [
         "Aos ricos que já tinham cumprido a Lei.",
@@ -637,7 +637,7 @@
       "verseStart": 30,
       "kind": "curiosity",
       "prompt": "Como Jesus descreveu o jugo e a carga dele?",
-      "answer": "O jugo é suave, e a carga é leve.",
+      "answer": "O jugo é suave, e o fardo é leve.",
       "reference": "Mt 11:30",
       "wrongs": [
         "O jugo é pesado, e a carga é dura.",
@@ -756,8 +756,8 @@
       "chapter": 14,
       "verseStart": 19,
       "kind": "subject",
-      "prompt": "O que Jesus fez com cinco pães e dois peixes?",
-      "answer": "Abençoou, partiu e deu aos discípulos para a multidão.",
+      "prompt": "O que Jesus fez com cinco pães e dois peixes para a multidão?",
+      "answer": "Multiplicou-os: abençoou, partiu e deu, e todos se saciaram.",
       "reference": "Mt 14:19",
       "wrongs": [
         "Guardou os pães para a viagem do dia seguinte.",
@@ -831,7 +831,7 @@
       "chapter": 15,
       "verseStart": 21,
       "kind": "place",
-      "prompt": "Para os lados de que cidades Jesus se retirou?",
+      "prompt": "Para os lados de que cidades Jesus se retirou, e a cananeia o achou?",
       "answer": "De Tiro e de Sidom.",
       "reference": "Mt 15:21",
       "wrongs": [
@@ -966,7 +966,7 @@
       "chapter": 17,
       "verseStart": 1,
       "kind": "place",
-      "prompt": "Aonde Jesus levou Pedro, Tiago e João na transfiguração?",
+      "prompt": "Aonde Jesus levou Pedro, Tiago e João na transfiguração, em Mateus?",
       "answer": "A um monte alto, a sós.",
       "reference": "Mt 17:1",
       "wrongs": [
@@ -982,7 +982,7 @@
       "verseStart": 27,
       "kind": "curiosity",
       "prompt": "O que Pedro acharia na boca do primeiro peixe?",
-      "answer": "Uma moeda de quatro dracmas.",
+      "answer": "Um estáter.",
       "reference": "Mt 17:27",
       "wrongs": [
         "Uma pérola de grande valor.",
@@ -1131,7 +1131,7 @@
       "chapter": 20,
       "verseStart": 29,
       "kind": "place",
-      "prompt": "De que cidade Jesus saía quando dois cegos clamaram?",
+      "prompt": "De que cidade Jesus saía quando dois cegos sentados clamaram?",
       "answer": "De Jericó.",
       "reference": "Mt 20:29",
       "wrongs": [
@@ -1147,7 +1147,7 @@
       "verseStart": 2,
       "kind": "curiosity",
       "prompt": "Que pagamento diário foi combinado na vinha, em Mateus?",
-      "answer": "Um denário.",
+      "answer": "Um dinheiro.",
       "reference": "Mt 20:2",
       "wrongs": [
         "Um talento.",
@@ -1161,8 +1161,8 @@
       "chapter": 21,
       "verseStart": 9,
       "kind": "subject",
-      "prompt": "O que a multidão clamava a Jesus no caminho?",
-      "answer": "Aclamava o Filho de Davi, que vinha da parte de Deus.",
+      "prompt": "O que a multidão clamava a Jesus na entrada em Jerusalém?",
+      "answer": "Hosana ao Filho de Davi, bendito o que vem em nome do Senhor.",
       "reference": "Mt 21:9",
       "wrongs": [
         "Pedia que ele descesse do jumentinho.",
@@ -1191,7 +1191,7 @@
       "chapter": 21,
       "verseStart": 12,
       "kind": "curiosity",
-      "prompt": "O que Jesus derrubou no Templo?",
+      "prompt": "O que Jesus derrubou no Templo no dia do jumentinho?",
       "answer": "As mesas de quem trocava dinheiro e os bancos das pombas.",
       "reference": "Mt 21:12",
       "wrongs": [
@@ -1222,7 +1222,7 @@
       "verseStart": 37,
       "kind": "subject",
       "prompt": "Como Jesus disse para amar a Deus?",
-      "answer": "Com o coração, a alma e o entendimento por inteiro.",
+      "answer": "Com o coração, a alma e o pensamento por inteiro.",
       "reference": "Mt 22:37",
       "wrongs": [
         "Com ofertas, jejum e oração no templo.",
@@ -1417,12 +1417,12 @@
       "verseStart": 2,
       "kind": "curiosity",
       "prompt": "Quantas das dez virgens eram prudentes, em Mateus?",
-      "answer": "Cinco. As outras cinco eram tolas.",
+      "answer": "Cinco. As outras cinco eram loucas.",
       "reference": "Mt 25:2",
       "wrongs": [
-        "Sete. As outras três eram tolas.",
-        "Dez. Nenhuma delas era tola.",
-        "Três. As outras sete eram tolas."
+        "Sete. As outras três eram loucas.",
+        "Dez. Nenhuma delas era louca.",
+        "Três. As outras sete eram loucas."
       ]
     },
     {
@@ -1447,7 +1447,7 @@
       "verseStart": 28,
       "kind": "subject",
       "prompt": "O que Jesus disse que o cálice era, na ceia?",
-      "answer": "O sangue da nova aliança, derramado para perdoar.",
+      "answer": "O sangue do novo testamento, derramado para remissão dos pecados.",
       "reference": "Mt 26:28",
       "wrongs": [
         "O vinho novo da festa, só para os doze.",
@@ -1476,7 +1476,7 @@
       "chapter": 26,
       "verseStart": 36,
       "kind": "place",
-      "prompt": "Onde Jesus orou com Pedro, Tiago e João antes da prisão?",
+      "prompt": "Onde Jesus orou com Pedro, Tiago e João antes da prisão, em Mateus?",
       "answer": "Num lugar chamado Getsêmani.",
       "reference": "Mt 26:36",
       "wrongs": [
@@ -1507,7 +1507,7 @@
       "verseStart": 50,
       "kind": "subject",
       "prompt": "Como Jesus morreu na cruz?",
-      "answer": "Gritou bem alto e entregou o espírito.",
+      "answer": "Gritou bem alto e rendeu o espírito.",
       "reference": "Mt 27:50",
       "wrongs": [
         "Desceu da cruz ainda com vida.",
@@ -1612,7 +1612,7 @@
       "verseStart": 19,
       "kind": "curiosity",
       "prompt": "Em nome de quem Jesus mandou batizar?",
-      "answer": "No nome do Pai e do Filho, com o Espírito Santo.",
+      "answer": "No nome do Pai, do Filho e do Espírito Santo.",
       "reference": "Mt 28:19",
       "wrongs": [
         "Só no nome de Jesus, o Cristo.",

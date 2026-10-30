@@ -188,7 +188,7 @@
       "verseStart": 42,
       "kind": "place",
       "prompt": "Para onde foram quinhentos homens de Simeão?",
-      "answer": "Para o monte de Seir.",
+      "answer": "Para as montanhas de Seir.",
       "reference": "1Cr 4:42",
       "wrongs": [
         "Para o monte Carmelo.",
@@ -248,7 +248,7 @@
       "verseStart": 1,
       "kind": "curiosity",
       "prompt": "Por que Rúben perdeu o direito de primogênito?",
-      "answer": "Porque profanou o leito do pai; o direito passou a José.",
+      "answer": "Porque profanou a cama do pai; o direito passou a José.",
       "reference": "1Cr 5:1",
       "wrongs": [
         "Porque vendeu o irmão; o direito passou a Judá.",
@@ -308,7 +308,7 @@
       "verseStart": 31,
       "kind": "curiosity",
       "prompt": "Para que serviço Davi separou levitas depois que a arca parou?",
-      "answer": "Para a música na casa de Deus.",
+      "answer": "Para o ofício do canto na casa de Deus.",
       "reference": "1Cr 6:31",
       "wrongs": [
         "Para a guerra nas fronteiras.",
@@ -322,7 +322,7 @@
       "chapter": 7,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "De quem são os filhos Tolá, Pua, Jasube e Sinrom?",
+      "prompt": "De quem são os filhos Tola, Pua, Jasube e Sinrom?",
       "answer": "De Issacar.",
       "reference": "1Cr 7:1",
       "wrongs": [
@@ -369,10 +369,10 @@
       "verseStart": 23,
       "kind": "curiosity",
       "prompt": "Por que Efraim chamou o filho de Berias?",
-      "answer": "Porque a desgraça tinha caído sobre a casa dele.",
+      "answer": "Porque ia mal na casa dele.",
       "reference": "1Cr 7:23",
       "wrongs": [
-        "Porque a bênção tinha enchido a casa dele.",
+        "Porque ia bem na casa dele.",
         "Porque o filho nasceu na viagem.",
         "Porque um voto tinha sido cumprido."
       ]
@@ -444,7 +444,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "Quem foram os primeiros a voltar às próprias cidades, em 1 Crônicas?",
-      "answer": "Israelitas, sacerdotes, levitas e servos do templo.",
+      "answer": "Israelitas, sacerdotes, levitas e netineus.",
       "reference": "1Cr 9:2",
       "wrongs": [
         "Só os príncipes da casa de Davi.",
@@ -518,7 +518,7 @@
       "chapter": 10,
       "verseStart": 1,
       "kind": "place",
-      "prompt": "Onde os homens de Israel caíram diante dos filisteus?",
+      "prompt": "Onde os homens de Israel caíram com Saul diante dos filisteus?",
       "answer": "No monte de Gilboa.",
       "reference": "1Cr 10:1",
       "wrongs": [
@@ -533,7 +533,7 @@
       "chapter": 10,
       "verseStart": 4,
       "kind": "curiosity",
-      "prompt": "Como Saul morreu?",
+      "prompt": "Como Saul morreu na batalha, em 1 Crônicas?",
       "answer": "Atirou-se sobre a própria espada.",
       "reference": "1Cr 10:4",
       "wrongs": [
@@ -623,7 +623,7 @@
       "chapter": 12,
       "verseStart": 1,
       "kind": "place",
-      "prompt": "Onde guerreiros acharam Davi, ainda escondido de Saul?",
+      "prompt": "Onde os arqueiros benjamitas acharam Davi, fugido de Saul?",
       "answer": "Em Ziclague.",
       "reference": "1Cr 12:1",
       "wrongs": [
@@ -718,7 +718,7 @@
       "reference": "1Cr 14:9",
       "wrongs": [
         "No vale de Ela.",
-        "No vale de Jezreel.",
+        "No vale de Jizreel.",
         "No vale das salinas."
       ]
     },
@@ -778,7 +778,7 @@
       "reference": "1Cr 15:25",
       "wrongs": [
         "Da casa de Abinadabe.",
-        "Do alto de Gibeão.",
+        "Do alto de Gibeom.",
         "De Siló."
       ]
     },
@@ -789,12 +789,12 @@
       "verseStart": 26,
       "kind": "curiosity",
       "prompt": "Quantos animais sacrificaram porque Deus ajudava os levitas, em 1 Crônicas?",
-      "answer": "Sete bois e sete carneiros.",
+      "answer": "Sete novilhos e sete carneiros.",
       "reference": "1Cr 15:26",
       "wrongs": [
-        "Doze bois e doze carneiros.",
+        "Doze novilhos e doze carneiros.",
         "Dois novilhos e dois cabritos.",
-        "Cem bois e cem carneiros."
+        "Cem novilhos e cem carneiros."
       ]
     },
     {
@@ -819,7 +819,7 @@
       "verseStart": 39,
       "kind": "place",
       "prompt": "Onde Zadoque e os sacerdotes continuaram a oferecer?",
-      "answer": "No alto de Gibeão, junto ao tabernáculo.",
+      "answer": "No alto de Gibeom, junto ao tabernáculo.",
       "reference": "1Cr 16:39",
       "wrongs": [
         "Em Hebrom, junto ao palácio.",
@@ -834,12 +834,12 @@
       "verseStart": 3,
       "kind": "curiosity",
       "prompt": "O que Davi deu a cada israelita quando a arca chegou?",
-      "answer": "Pão, uma porção de carne e passas.",
+      "answer": "Um pão, um bom pedaço de carne e um frasco de vinho.",
       "reference": "1Cr 16:3",
       "wrongs": [
         "Ouro, prata e um manto.",
         "Só uma bênção, sem comida.",
-        "Vinho, azeite e um cordeiro."
+        "Azeite, mel e um cordeiro."
       ]
     },
     {
@@ -879,7 +879,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "De onde Deus tirou Davi para ser príncipe de Israel?",
-      "answer": "Do curral, de trás do rebanho.",
+      "answer": "Do curral, de detrás das ovelhas.",
       "reference": "1Cr 17:7",
       "wrongs": [
         "Do palácio de Saul, de junto do trono.",
@@ -908,7 +908,7 @@
       "chapter": 18,
       "verseStart": 3,
       "kind": "place",
-      "prompt": "Até que rio Hadadezer queria estender o poder?",
+      "prompt": "Até que rio Hadar-Ezer queria estender o poder?",
       "answer": "Até o Eufrates.",
       "reference": "1Cr 18:3",
       "wrongs": [
@@ -923,7 +923,7 @@
       "chapter": 18,
       "verseStart": 4,
       "kind": "curiosity",
-      "prompt": "Quantos carros Davi tomou de Hadadezer, no relato de Crônicas?",
+      "prompt": "Quantos carros Davi tomou de Hadar-Ezer, no relato de Crônicas?",
       "answer": "Mil; dos cavalos, deixou só os de cem carros.",
       "reference": "1Cr 18:4",
       "wrongs": [
@@ -938,7 +938,7 @@
       "chapter": 19,
       "verseStart": 4,
       "kind": "subject",
-      "prompt": "O que Hanã fez com os mensageiros de Davi?",
+      "prompt": "O que Hanum fez com os mensageiros de Davi?",
       "answer": "Rapou-os, cortou a roupa no meio e os mandou embora.",
       "reference": "1Cr 19:4",
       "wrongs": [
@@ -953,7 +953,7 @@
       "chapter": 19,
       "verseStart": 7,
       "kind": "place",
-      "prompt": "Diante de qual cidade os aliados de Amom acamparam?",
+      "prompt": "Diante de qual cidade os aliados de Amom acamparam, em 1 Crônicas?",
       "answer": "Diante de Medeba.",
       "reference": "1Cr 19:7",
       "wrongs": [
@@ -1043,7 +1043,7 @@
       "chapter": 21,
       "verseStart": 1,
       "kind": "name",
-      "prompt": "Quem incitou Davi a contar Israel?",
+      "prompt": "Quem incitou Davi a contar Israel, em 1 Crônicas?",
       "answer": "Satanás.",
       "reference": "1Cr 21:1",
       "wrongs": [
@@ -1064,7 +1064,7 @@
       "wrongs": [
         "No monte Sinai.",
         "Na eira de Boaz, em Belém.",
-        "No alto de Gibeão."
+        "No alto de Gibeom."
       ]
     },
     {
@@ -1094,7 +1094,7 @@
       "wrongs": [
         "O palácio real de Israel.",
         "A muralha de Jerusalém.",
-        "Um altar só em Gibeão."
+        "Um altar só em Gibeom."
       ]
     },
     {
@@ -1133,7 +1133,7 @@
       "chapter": 23,
       "verseStart": 6,
       "kind": "subject",
-      "prompt": "De quem eram os turnos que Davi organizou?",
+      "prompt": "De quem eram os turnos dos contados de trinta anos para cima?",
       "answer": "Dos levitas: Gérson, Coate e Merari.",
       "reference": "1Cr 23:6",
       "wrongs": [
@@ -1269,7 +1269,7 @@
       "verseStart": 14,
       "kind": "place",
       "prompt": "Qual porta caiu na sorte de Selemias?",
-      "answer": "A do leste.",
+      "answer": "A do oriente.",
       "reference": "1Cr 26:14",
       "wrongs": [
         "A do norte.",
@@ -1284,12 +1284,12 @@
       "verseStart": 13,
       "kind": "curiosity",
       "prompt": "Como escolheram a porta de cada família, em 1 Crônicas?",
-      "answer": "Na sorte, misturando os mais novos e os chefes.",
+      "answer": "Na sorte, tanto os pequenos como os grandes.",
       "reference": "1Cr 26:13",
       "wrongs": [
-        "Pela idade, pondo os chefes na frente.",
-        "Pela força, sem misturar os mais novos.",
-        "Pela escolha do rei, sem sorteio."
+        "Pela idade, só os grandes na frente.",
+        "Pela força, sem os pequenos.",
+        "Pela escolha do rei, sem sorte."
       ]
     },
     {
@@ -1328,7 +1328,7 @@
       "chapter": 27,
       "verseStart": 34,
       "kind": "curiosity",
-      "prompt": "Quem era o general do exército de Davi?",
+      "prompt": "Quem 1 Crônicas nomeia como general do exército de Davi?",
       "answer": "Joabe.",
       "reference": "1Cr 27:34",
       "wrongs": [
@@ -1344,12 +1344,12 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "O que Deus escolheu Salomão para fazer?",
-      "answer": "Construir a casa e os pátios dele.",
+      "answer": "Construir a casa e os átrios dele.",
       "reference": "1Cr 28:6",
       "wrongs": [
         "Reinar no lugar de Davi e deixar a casa para outro.",
         "Guardar a arca e não construir nada.",
-        "Contar o povo e levantar um altar em Gibeão."
+        "Contar o povo e levantar um altar em Gibeom."
       ]
     },
     {
@@ -1374,7 +1374,7 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "O que Davi entregou a Salomão além da ordem de construir?",
-      "answer": "A planta do pórtico, das salas e do lugar do propiciatório.",
+      "answer": "A planta do alpendre e da casa do propiciatório.",
       "reference": "1Cr 28:11",
       "wrongs": [
         "Só o ouro e a prata, sem desenho algum.",
@@ -1388,7 +1388,7 @@
       "chapter": 29,
       "verseStart": 28,
       "kind": "subject",
-      "prompt": "Como terminou a vida de Davi?",
+      "prompt": "Como terminou a vida de Davi, em 1 Crônicas?",
       "answer": "Morreu velho, rico e honrado, e Salomão reinou no lugar dele.",
       "reference": "1Cr 29:28",
       "wrongs": [
@@ -1419,7 +1419,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "Como o povo contribuiu para a casa de Deus no tempo de Davi?",
-      "answer": "De livre vontade e com o coração inteiro.",
+      "answer": "De livre vontade e com o coração perfeito.",
       "reference": "1Cr 29:9",
       "wrongs": [
         "Por obrigação e com o coração dividido.",

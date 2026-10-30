@@ -6,11 +6,11 @@
       "chapter": 1,
       "verseStart": 22,
       "kind": "subject",
-      "prompt": "O que não basta fazer com a palavra?",
-      "answer": "Apenas ouvi-la; é preciso praticá-la.",
+      "prompt": "O que não basta fazer com a palavra, segundo Tiago?",
+      "answer": "Não ser somente ouvinte, mas cumpridor dela.",
       "reference": "Tg 1:22",
       "wrongs": [
-        "Decorá-la; a prática fica para depois.",
+        "Decorá-la; cumprir fica para depois.",
         "Discuti-la; quem ouve já obedeceu.",
         "Escondê-la; ela vale só para os mestres."
       ]
@@ -36,7 +36,7 @@
       "chapter": 1,
       "verseStart": 12,
       "kind": "curiosity",
-      "prompt": "Qual prêmio recebe quem suporta a provação?",
+      "prompt": "Qual prêmio recebe quem suporta a tentação?",
       "answer": "A coroa da vida.",
       "reference": "Tg 1:12",
       "wrongs": [
@@ -52,7 +52,7 @@
       "verseStart": 23,
       "kind": "curiosity",
       "prompt": "Com o que se parece quem só ouve a palavra?",
-      "answer": "Com um homem que observa o rosto no espelho.",
+      "answer": "Com um homem que contempla no espelho o seu rosto natural.",
       "reference": "Tg 1:23",
       "wrongs": [
         "Com um cego que guia outro cego.",
@@ -66,7 +66,7 @@
       "chapter": 2,
       "verseStart": 26,
       "kind": "subject",
-      "prompt": "Como está a fé que não vem acompanhada de obras?",
+      "prompt": "Como Tiago diz que está a fé sem obras?",
       "answer": "Está morta, como um corpo sem espírito.",
       "reference": "Tg 2:26",
       "wrongs": [
@@ -96,7 +96,7 @@
       "chapter": 2,
       "verseStart": 25,
       "kind": "name",
-      "prompt": "Qual mulher foi justificada ao acolher os mensageiros?",
+      "prompt": "Qual mulher foi justificada ao recolher os emissários?",
       "answer": "Raabe.",
       "reference": "Tg 2:25",
       "wrongs": [
@@ -111,12 +111,12 @@
       "chapter": 2,
       "verseStart": 2,
       "kind": "curiosity",
-      "prompt": "O que o rico usava ao entrar na reunião?",
-      "answer": "Anéis de ouro e roupa de alto valor.",
+      "prompt": "O que o rico usava ao entrar no ajuntamento?",
+      "answer": "Anel de ouro e trajes preciosos.",
       "reference": "Tg 2:2",
       "wrongs": [
         "Pano de saco e cinza na cabeça.",
-        "Uma túnica simples, como a dos pobres.",
+        "Um traje sórdido, como o dos pobres.",
         "O uniforme de soldado romano."
       ]
     },
@@ -126,7 +126,7 @@
       "chapter": 3,
       "verseStart": 5,
       "kind": "subject",
-      "prompt": "Qual membro pequeno se gaba de coisas grandes?",
+      "prompt": "Qual membro pequeno se gloria de grandes coisas?",
       "answer": "A língua.",
       "reference": "Tg 3:5",
       "wrongs": [
@@ -156,7 +156,7 @@
       "chapter": 3,
       "verseStart": 17,
       "kind": "curiosity",
-      "prompt": "Qual é a primeira qualidade da sabedoria lá de cima?",
+      "prompt": "Qual é a primeira qualidade da sabedoria do alto, em Tiago?",
       "answer": "Ela é pura.",
       "reference": "Tg 3:17",
       "wrongs": [
@@ -202,7 +202,7 @@
       "verseStart": 14,
       "kind": "curiosity",
       "prompt": "Com o que Tiago compara a vida humana?",
-      "answer": "Com um vapor que surge por pouco e desaparece.",
+      "answer": "Com um vapor que aparece por um pouco e depois se desvanece.",
       "reference": "Tg 4:14",
       "wrongs": [
         "Com uma rocha que dura para sempre.",
@@ -216,8 +216,8 @@
       "chapter": 4,
       "verseStart": 17,
       "kind": "curiosity",
-      "prompt": "O que faz quem conhece o bem e o deixa de lado?",
-      "answer": "Pratica o pecado.",
+      "prompt": "O que faz quem sabe fazer o bem e não o faz?",
+      "answer": "Comete pecado.",
       "reference": "Tg 4:17",
       "wrongs": [
         "Ganha mérito pela intenção.",
@@ -232,7 +232,7 @@
       "verseStart": 7,
       "kind": "subject",
       "prompt": "Até quando os irmãos devem ter paciência?",
-      "answer": "Até a vinda de Deus.",
+      "answer": "Até a vinda do Senhor.",
       "reference": "Tg 5:7",
       "wrongs": [
         "Até a colheita deste ano.",
@@ -246,7 +246,7 @@
       "chapter": 5,
       "verseStart": 11,
       "kind": "name",
-      "prompt": "Quem é citado como exemplo de paciência no sofrimento?",
+      "prompt": "Quem Tiago cita pelo nome como exemplo de paciência no sofrimento?",
       "answer": "Jó.",
       "reference": "Tg 5:11",
       "wrongs": [
@@ -261,8 +261,8 @@
       "chapter": 5,
       "verseStart": 14,
       "kind": "curiosity",
-      "prompt": "Com o que os anciãos ungem quem está doente?",
-      "answer": "Com azeite, em nome de Deus.",
+      "prompt": "Com o que os presbíteros ungem quem está doente?",
+      "answer": "Com azeite, em nome do Senhor.",
       "reference": "Tg 5:14",
       "wrongs": [
         "Com vinho, em nome dos apóstolos.",

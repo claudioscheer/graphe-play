@@ -7,7 +7,7 @@
       "verseStart": 5,
       "kind": "subject",
       "prompt": "Para que Paulo deixou Tito em Creta?",
-      "answer": "Para organizar o que faltava e nomear presbíteros.",
+      "answer": "Para pôr em boa ordem o que ainda resta e estabelecer presbíteros.",
       "reference": "Tt 1:5",
       "wrongs": [
         "Para recolher a oferta e levar a Paulo.",
@@ -37,7 +37,7 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "O que um profeta de Creta dizia do próprio povo?",
-      "answer": "Que eram mentirosos, bichos maus e preguiçosos para comer.",
+      "answer": "Que eram sempre mentirosos, bestas ruins e ventres preguiçosos.",
       "reference": "Tt 1:12",
       "wrongs": [
         "Que eram justos, hospitaleiros e prontos para o trabalho.",
@@ -52,10 +52,10 @@
       "verseStart": 12,
       "kind": "subject",
       "prompt": "Como a graça de Deus ensina a viver agora?",
-      "answer": "Com sobriedade, justiça e devoção, longe dos maus desejos.",
+      "answer": "Sóbria, justa e piamente, renunciando à impiedade e às concupiscências mundanas.",
       "reference": "Tt 2:12",
       "wrongs": [
-        "Com festa, folga e desejo, perto dos prazeres.",
+        "Com festa, folga e concupiscência, perto dos prazeres.",
         "Com medo, silêncio e dívida, debaixo da lei.",
         "Com orgulho, briga e pressa, como a cidade vive."
       ]
@@ -81,8 +81,8 @@
       "chapter": 2,
       "verseStart": 13,
       "kind": "curiosity",
-      "prompt": "O que os crentes ficam aguardando?",
-      "answer": "A esperança feliz e a glória de Jesus Cristo.",
+      "prompt": "O que os crentes ficam aguardando, segundo Paulo?",
+      "answer": "A bem-aventurada esperança e o aparecimento da glória de Jesus Cristo.",
       "reference": "Tt 2:13",
       "wrongs": [
         "A volta de Paulo e a oferta completa.",
@@ -97,7 +97,7 @@
       "verseStart": 5,
       "kind": "subject",
       "prompt": "Como Deus salvou, se não foi pelas obras?",
-      "answer": "Pela misericórdia, no banho do novo nascimento.",
+      "answer": "Pela misericórdia, pela lavagem da regeneração e da renovação do Espírito Santo.",
       "reference": "Tt 3:5",
       "wrongs": [
         "Pelo mérito, no cumprimento da lei.",
@@ -112,7 +112,7 @@
       "verseStart": 13,
       "kind": "name",
       "prompt": "Quem Tito devia ajudar na viagem?",
-      "answer": "Zenas, entendido na lei, e Apolo.",
+      "answer": "Zenas, doutor da lei, e Apolo.",
       "reference": "Tt 3:13",
       "wrongs": [
         "Timóteo, filho na fé, e Silas.",
@@ -126,7 +126,7 @@
       "chapter": 3,
       "verseStart": 12,
       "kind": "place",
-      "prompt": "Onde Paulo decidiu passar o inverno?",
+      "prompt": "Onde Paulo decidiu passar o inverno, em Tito?",
       "answer": "Em Nicópolis.",
       "reference": "Tt 3:12",
       "wrongs": [
@@ -141,11 +141,11 @@
       "chapter": 3,
       "verseStart": 10,
       "kind": "curiosity",
-      "prompt": "Depois de quantas advertências se rejeita o rebelde?",
-      "answer": "Depois de duas.",
+      "prompt": "Depois de quantas admoestações se evita o homem herege?",
+      "answer": "Depois de uma e outra.",
       "reference": "Tt 3:10",
       "wrongs": [
-        "Depois de uma.",
+        "Depois de uma só.",
         "Depois de sete.",
         "Depois de doze."
       ]

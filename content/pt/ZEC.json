@@ -6,8 +6,8 @@
       "chapter": 1,
       "verseStart": 16,
       "kind": "subject",
-      "prompt": "O que Zacarias diz que Deus promete a Jerusalém?",
-      "answer": "Voltar com misericórdia e refazer a casa.",
+      "prompt": "O que Deus promete a Jerusalém após os setenta anos, em Zacarias?",
+      "answer": "Voltar com misericórdia e edificar a casa.",
       "reference": "Zc 1:16",
       "wrongs": [
         "Ficar longe e deixar a casa em ruínas.",
@@ -21,8 +21,8 @@
       "chapter": 1,
       "verseStart": 1,
       "kind": "name",
-      "prompt": "Qual profeta recebeu a palavra no ano dois de Dario?",
-      "answer": "Zacarias, filho de Berequias.",
+      "prompt": "Qual profeta recebeu a palavra no oitavo mês do ano dois de Dario?",
+      "answer": "Zacarias, filho de Baraquias.",
       "reference": "Zc 1:1",
       "wrongs": [
         "Sofonias, filho de Cuxi.",
@@ -37,7 +37,7 @@
       "verseStart": 8,
       "kind": "place",
       "prompt": "Onde estava o homem no cavalo vermelho, em Zacarias?",
-      "answer": "Entre as murtas, num vale fundo.",
+      "answer": "Entre as murtas, na baixada.",
       "reference": "Zc 1:8",
       "wrongs": [
         "Entre os cedros, num monte alto.",
@@ -51,7 +51,7 @@
       "chapter": 1,
       "verseStart": 12,
       "kind": "curiosity",
-      "prompt": "Há quantos anos Deus estava irado com Jerusalém?",
+      "prompt": "Há quantos anos Deus estava irado com Jerusalém, em Zacarias?",
       "answer": "Havia setenta anos.",
       "reference": "Zc 1:12",
       "wrongs": [
@@ -97,7 +97,7 @@
       "verseStart": 1,
       "kind": "curiosity",
       "prompt": "O que o homem da visão de Zacarias tinha na mão?",
-      "answer": "Uma corda de medir.",
+      "answer": "Um cordel de medir.",
       "reference": "Zc 2:1",
       "wrongs": [
         "Uma espada de fogo.",
@@ -127,7 +127,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "O que tiram de Josué diante do anjo?",
-      "answer": "A roupa suja e a culpa.",
+      "answer": "As vestes sujas, e a iniquidade passa dele.",
       "reference": "Zc 3:4",
       "wrongs": [
         "A coroa e o cetro.",
@@ -247,7 +247,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "O que é o rolo que voa, em Zacarias?",
-      "answer": "A maldição contra quem rouba e quem jura falso.",
+      "answer": "A maldição contra quem furta e quem jura falso.",
       "reference": "Zc 5:3",
       "wrongs": [
         "A bênção sobre quem rouba e quem jura falso.",
@@ -292,7 +292,7 @@
       "verseStart": 8,
       "kind": "curiosity",
       "prompt": "Quem é lançada para dentro do cesto, em Zacarias?",
-      "answer": "A Perversidade.",
+      "answer": "A impiedade.",
       "reference": "Zc 5:8",
       "wrongs": [
         "A Justiça.",
@@ -322,12 +322,12 @@
       "verseStart": 11,
       "kind": "name",
       "prompt": "Na cabeça de quem põem a coroa, em Zacarias?",
-      "answer": "De Josué, filho de Jeozadaque.",
+      "answer": "De Josué, filho de Jozadaque.",
       "reference": "Zc 6:11",
       "wrongs": [
         "De Zorobabel, filho de Sealtiel.",
         "De Ageu, profeta em Judá.",
-        "De Zacarias, filho de Berequias."
+        "De Zacarias, filho de Baraquias."
       ]
     },
     {
@@ -367,7 +367,7 @@
       "verseStart": 9,
       "kind": "subject",
       "prompt": "O que Zacarias diz que Deus pede entre irmãos?",
-      "answer": "Justiça verdadeira, piedade e misericórdia.",
+      "answer": "Juízo verdadeiro, piedade e misericórdia.",
       "reference": "Zc 7:9",
       "wrongs": [
         "Jejum no quinto mês e também no sétimo.",
@@ -382,7 +382,7 @@
       "verseStart": 2,
       "kind": "name",
       "prompt": "Quem Betel enviou para buscar o favor de Deus?",
-      "answer": "Sarezer e Regém-Meleque.",
+      "answer": "Sarezer e Régen-Meleque.",
       "reference": "Zc 7:2",
       "wrongs": [
         "Heldai, Tobias e Jedaías.",
@@ -426,7 +426,7 @@
       "chapter": 8,
       "verseStart": 3,
       "kind": "subject",
-      "prompt": "O que Zacarias diz que Deus fará em Sião?",
+      "prompt": "O que Deus fará em Sião quando Jerusalém ganhar novo nome?",
       "answer": "Voltará a morar no meio delas.",
       "reference": "Zc 8:3",
       "wrongs": [
@@ -487,7 +487,7 @@
       "verseStart": 9,
       "kind": "subject",
       "prompt": "Como o rei chega até a filha de Sião?",
-      "answer": "Justo e humilde, montado num jumentinho.",
+      "answer": "Justo e Salvador, pobre, montado num jumentinho.",
       "reference": "Zc 9:9",
       "wrongs": [
         "Forte e armado, montado num cavalo.",
@@ -532,7 +532,7 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "O que Deus anuncia aos prisioneiros com esperança, em Zacarias?",
-      "answer": "Que vai recompensá-los em dobro.",
+      "answer": "Que vai restaurá-los em dobro.",
       "reference": "Zc 9:12",
       "wrongs": [
         "Que vão continuar presos.",
@@ -546,7 +546,7 @@
       "chapter": 10,
       "verseStart": 6,
       "kind": "subject",
-      "prompt": "O que Deus fará com Judá e com José?",
+      "prompt": "O que Deus fará com Judá e com José, em Zacarias?",
       "answer": "Fortalecerá Judá e salvará José.",
       "reference": "Zc 10:6",
       "wrongs": [
@@ -577,7 +577,7 @@
       "verseStart": 1,
       "kind": "curiosity",
       "prompt": "O que Zacarias manda pedir a Deus na estação?",
-      "answer": "A chuva tardia.",
+      "answer": "A chuva serôdia.",
       "reference": "Zc 10:1",
       "wrongs": [
         "A neve do inverno.",
@@ -591,8 +591,8 @@
       "chapter": 10,
       "verseStart": 4,
       "kind": "curiosity",
-      "prompt": "O que sairá de Judá junto com o dominador?",
-      "answer": "A pedra de esquina, a estaca e o arco.",
+      "prompt": "O que sairá de Judá junto com o opressor?",
+      "answer": "A pedra de esquina, a estaca e o arco de guerra.",
       "reference": "Zc 10:4",
       "wrongs": [
         "A coroa real, o cetro e o manto.",
@@ -606,7 +606,7 @@
       "chapter": 11,
       "verseStart": 10,
       "kind": "subject",
-      "prompt": "O que o pastor fez com a vara Agrado?",
+      "prompt": "O que o pastor fez com a vara Graça?",
       "answer": "Quebrou-a e desfez a aliança com os povos.",
       "reference": "Zc 11:10",
       "wrongs": [
@@ -697,7 +697,7 @@
       "verseStart": 3,
       "kind": "curiosity",
       "prompt": "O que Jerusalém será para as nações?",
-      "answer": "Uma pedra pesada, que fere quem a carrega.",
+      "answer": "Uma pedra pesada, que despedaça quem a carrega.",
       "reference": "Zc 12:3",
       "wrongs": [
         "Uma pedra leve, que todos levantam.",
@@ -726,7 +726,7 @@
       "chapter": 13,
       "verseStart": 9,
       "kind": "subject",
-      "prompt": "O que Deus fará com a terça parte, em Zacarias?",
+      "prompt": "O que Deus fará com a terça parte da terra, em Zacarias?",
       "answer": "Vai prová-la no fogo e dizer que é seu povo.",
       "reference": "Zc 13:9",
       "wrongs": [
@@ -742,7 +742,7 @@
       "verseStart": 1,
       "kind": "curiosity",
       "prompt": "O que será aberto para a casa de Davi?",
-      "answer": "Uma fonte contra o pecado e a sujeira.",
+      "answer": "Uma fonte contra o pecado e a imundícia.",
       "reference": "Zc 13:1",
       "wrongs": [
         "Uma porta larga para a guerra.",
@@ -832,7 +832,7 @@
       "verseStart": 20,
       "kind": "curiosity",
       "prompt": "O que estará escrito nos sinos dos cavalos, em Zacarias?",
-      "answer": "Consagrado a Deus.",
+      "answer": "Santidade ao Senhor.",
       "reference": "Zc 14:20",
       "wrongs": [
         "Pertence ao rei.",

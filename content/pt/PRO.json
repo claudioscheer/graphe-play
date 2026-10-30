@@ -97,7 +97,7 @@
       "verseStart": 23,
       "kind": "subject",
       "prompt": "O que os provérbios mandam guardar acima de tudo?",
-      "answer": "O coração, porque dele procede a vida.",
+      "answer": "O coração, porque dele procedem as fontes da vida.",
       "reference": "Pv 4:23",
       "wrongs": [
         "A bolsa, porque dela procede o pão.",
@@ -127,7 +127,7 @@
       "verseStart": 15,
       "kind": "subject",
       "prompt": "De onde o homem deve beber água, nos provérbios, em Provérbios?",
-      "answer": "Da cisterna dele e do poço dele.",
+      "answer": "Da própria fonte e das correntes do seu poço.",
       "reference": "Pv 5:15",
       "wrongs": [
         "Do rio do vizinho e do poço aberto.",
@@ -291,11 +291,11 @@
       "chapter": 10,
       "verseStart": 12,
       "kind": "curiosity",
-      "prompt": "O que o amor faz com as ofensas?",
-      "answer": "Cobre todas. O ódio só abre briga.",
+      "prompt": "O que o amor faz com os pecados?",
+      "answer": "Cobre todos. O ódio só abre briga.",
       "reference": "Pv 10:12",
       "wrongs": [
-        "Conta todas. O ódio também perdoa.",
+        "Conta todos. O ódio também perdoa.",
         "Esquece o amigo. O ódio guarda a casa.",
         "Cobra juros. O ódio paga a dívida."
       ]
@@ -307,7 +307,7 @@
       "verseStart": 22,
       "kind": "subject",
       "prompt": "A que se compara a mulher bela sem discrição?",
-      "answer": "A um enfeite no focinho de uma porca.",
+      "answer": "A uma joia de ouro no focinho de uma porca.",
       "reference": "Pv 11:22",
       "wrongs": [
         "A uma coroa na cabeça de uma rainha.",
@@ -337,12 +337,12 @@
       "verseStart": 10,
       "kind": "subject",
       "prompt": "Como o justo trata os animais dele?",
-      "answer": "Cuida da vida deles. A bondade do mau é cruel.",
+      "answer": "Cuida da vida deles. As afeições dos ímpios são cruéis.",
       "reference": "Pv 12:10",
       "wrongs": [
-        "Ignora a fome deles. A bondade do mau é terna.",
-        "Vende todos eles. A bondade do mau é fiel.",
-        "Prende a boca deles. A bondade do mau alimenta."
+        "Ignora a fome deles. As afeições dos ímpios são ternas.",
+        "Vende todos eles. As afeições dos ímpios são fiéis.",
+        "Prende a boca deles. As afeições dos ímpios alimentam."
       ]
     },
     {
@@ -367,7 +367,7 @@
       "verseStart": 24,
       "kind": "subject",
       "prompt": "O que faz quem nunca usa a vara no filho?",
-      "answer": "Odeia o filho. Quem ama o corrige desde cedo.",
+      "answer": "Odeia o filho. Quem ama o castiga desde cedo.",
       "reference": "Pv 13:24",
       "wrongs": [
         "Ama o filho. Quem corrige cedo o estraga.",
@@ -382,12 +382,12 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "O que a esperança atrasada faz ao coração?",
-      "answer": "O enfraquece. O desejo cumprido parece árvore de vida.",
+      "answer": "Desfalece o coração. O desejo atendido é árvore de vida.",
       "reference": "Pv 13:12",
       "wrongs": [
-        "O fortalece. O desejo cumprido parece fruto podre.",
-        "O enriquece. O desejo cumprido parece fardo.",
-        "O acalma sempre. O desejo cumprido parece espinho."
+        "Fortalece o coração. O desejo atendido parece fruto podre.",
+        "Enriquece o coração. O desejo atendido parece fardo.",
+        "Acalma o coração. O desejo atendido parece espinho."
       ]
     },
     {
@@ -396,7 +396,7 @@
       "chapter": 14,
       "verseStart": 4,
       "kind": "subject",
-      "prompt": "Como fica o depósito de grãos quando não há bois?",
+      "prompt": "Como fica o estábulo quando não há bois?",
       "answer": "Limpo, mas a força do boi traz colheita farta.",
       "reference": "Pv 14:4",
       "wrongs": [
@@ -412,12 +412,12 @@
       "verseStart": 30,
       "kind": "curiosity",
       "prompt": "O que a inveja faz nos ossos?",
-      "answer": "É como podridão. O coração tranquilo é vida para o corpo.",
+      "answer": "É como podridão. O sentimento sadio é vida para o corpo.",
       "reference": "Pv 14:30",
       "wrongs": [
-        "É como remédio. O coração tranquilo adoece o corpo.",
-        "É como mel. O coração tranquilo seca os ossos.",
-        "É como força. O coração tranquilo enfraquece."
+        "É como remédio. O sentimento sadio adoece o corpo.",
+        "É como mel. O sentimento sadio seca os ossos.",
+        "É como força. O sentimento sadio enfraquece."
       ]
     },
     {
@@ -441,8 +441,8 @@
       "chapter": 15,
       "verseStart": 17,
       "kind": "curiosity",
-      "prompt": "O que é melhor do que boi gordo servido com ódio?",
-      "answer": "Um prato de verduras onde existe amor.",
+      "prompt": "O que é melhor do que o boi cevado com ódio?",
+      "answer": "Uma comida de hortaliça onde há amor.",
       "reference": "Pv 15:17",
       "wrongs": [
         "Um banquete de carne onde existe briga.",
@@ -457,7 +457,7 @@
       "verseStart": 32,
       "kind": "subject",
       "prompt": "O que é melhor do que conquistar uma cidade?",
-      "answer": "Dominar o próprio espírito.",
+      "answer": "Controlar o próprio ânimo.",
       "reference": "Pv 16:32",
       "wrongs": [
         "Juntar um grande exército.",
@@ -471,8 +471,8 @@
       "chapter": 16,
       "verseStart": 24,
       "kind": "curiosity",
-      "prompt": "Como são as palavras agradáveis?",
-      "answer": "São favo de mel, doces na alma e remédio nos ossos.",
+      "prompt": "Como são as palavras suaves?",
+      "answer": "São favos de mel, doces para a alma e saúde para os ossos.",
       "reference": "Pv 16:24",
       "wrongs": [
         "São vinagre, amargas na alma e febre nos ossos.",
@@ -487,7 +487,7 @@
       "verseStart": 12,
       "kind": "subject",
       "prompt": "Quem é pior de encontrar do que uma ursa sem filhotes?",
-      "answer": "Um tolo no auge da loucura.",
+      "answer": "Um louco na sua estultícia.",
       "reference": "Pv 17:12",
       "wrongs": [
         "Um sábio no meio do caminho.",
@@ -561,8 +561,8 @@
       "chapter": 19,
       "verseStart": 24,
       "kind": "curiosity",
-      "prompt": "O que o preguiçoso faz com a mão no prato?",
-      "answer": "Pousa a mão e não a levanta de novo.",
+      "prompt": "O que o preguiçoso faz com a mão, em Provérbios?",
+      "answer": "Esconde-a no seio e nem a torna à boca.",
       "reference": "Pv 19:24",
       "wrongs": [
         "Leva a mão à boca sem parar.",
@@ -577,7 +577,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "Como os provérbios descrevem o vinho?",
-      "answer": "Como zombador. A bebida forte causa confusão.",
+      "answer": "Como escarnecedor. A bebida forte é alvoroçadora.",
       "reference": "Pv 20:1",
       "wrongs": [
         "Como médico. A bebida forte traz juízo.",
@@ -592,7 +592,7 @@
       "verseStart": 17,
       "kind": "curiosity",
       "prompt": "Como acaba o pão conseguido com mentira?",
-      "answer": "A boca se enche de pedrinhas.",
+      "answer": "A boca se enche de cascalho.",
       "reference": "Pv 20:17",
       "wrongs": [
         "A mesa se enche de mel.",
@@ -622,7 +622,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "Onde é melhor morar do que com mulher briguenta, em Provérbios?",
-      "answer": "Num canto do terraço.",
+      "answer": "Num canto do telhado.",
       "reference": "Pv 21:9",
       "wrongs": [
         "Num palácio com ela.",
@@ -637,7 +637,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "O que vale mais do que muita riqueza?",
-      "answer": "Um bom nome. Ser estimado vale mais que prata e ouro.",
+      "answer": "Um bom nome. Ser estimado vale mais que riqueza e ouro.",
       "reference": "Pv 22:1",
       "wrongs": [
         "Um cofre cheio. Ser temido vale mais que nome e fama.",
@@ -682,7 +682,7 @@
       "verseStart": 32,
       "kind": "curiosity",
       "prompt": "A que se parece o fim de quem bebe vinho?",
-      "answer": "À mordida de uma cobra e à picada da víbora.",
+      "answer": "À picada de uma cobra e à mordida da víbora.",
       "reference": "Pv 23:32",
       "wrongs": [
         "Ao abraço de um amigo e ao canto da festa.",
@@ -727,12 +727,12 @@
       "verseStart": 11,
       "kind": "subject",
       "prompt": "A que se compara a palavra dita na hora certa?",
-      "answer": "A maçãs de ouro sobre bandejas de prata.",
+      "answer": "A maçãs de ouro sobre salvas de prata.",
       "reference": "Pv 25:11",
       "wrongs": [
-        "A vinagre sobre bandejas de barro.",
-        "A palha sobre bandejas de madeira.",
-        "A cinza sobre bandejas de ferro."
+        "A vinagre sobre salvas de barro.",
+        "A palha sobre salvas de madeira.",
+        "A cinza sobre salvas de ferro."
       ]
     },
     {
@@ -787,7 +787,7 @@
       "verseStart": 14,
       "kind": "curiosity",
       "prompt": "A que se parece o preguiçoso na cama?",
-      "answer": "A uma porta girando nas dobradiças.",
+      "answer": "A uma porta girando nos gonzos.",
       "reference": "Pv 26:14",
       "wrongs": [
         "A um galo que sai antes do sol.",
@@ -861,13 +861,13 @@
       "chapter": 29,
       "verseStart": 18,
       "kind": "subject",
-      "prompt": "Como fica o povo quando falta visão profética?",
-      "answer": "Fica confuso. Guardar a lei traz felicidade.",
+      "prompt": "Como fica o povo quando falta profecia, em Provérbios?",
+      "answer": "Perece. Quem guarda a lei é bem-aventurado.",
       "reference": "Pv 29:18",
       "wrongs": [
-        "Fica em paz. Guardar a lei traz confusão.",
-        "Fica rico. Abandonar a lei traz felicidade.",
-        "Fica unido. Ignorar a lei traz ordem."
+        "Fica em paz. Quem guarda a lei se confunde.",
+        "Fica rico. Quem abandona a lei é feliz.",
+        "Fica unido. Quem ignora a lei se acerta."
       ]
     },
     {
@@ -877,12 +877,12 @@
       "verseStart": 25,
       "kind": "curiosity",
       "prompt": "O que o medo das pessoas prepara?",
-      "answer": "Uma armadilha. Confiar em Deus deixa seguro.",
+      "answer": "Laços. Quem confia no Senhor fica em alto retiro.",
       "reference": "Pv 29:25",
       "wrongs": [
-        "Um abrigo. Confiar em Deus deixa exposto.",
-        "Uma coroa. Confiar em Deus traz perigo.",
-        "Um atalho. Confiar em Deus fecha o caminho."
+        "Um abrigo. Quem confia no Senhor fica exposto.",
+        "Uma coroa. Quem confia no Senhor corre perigo.",
+        "Um atalho. Quem confia no Senhor fecha o caminho."
       ]
     },
     {
@@ -892,7 +892,7 @@
       "verseStart": 8,
       "kind": "subject",
       "prompt": "O que convém pedir, em vez de ser pobre ou rico?",
-      "answer": "Só o pão necessário, sem mentira nem o que não presta.",
+      "answer": "O pão da porção de costume, longe da vaidade e da mentira.",
       "reference": "Pv 30:8",
       "wrongs": [
         "Só tesouros a mais, com folga e sem medida.",
@@ -966,13 +966,13 @@
       "chapter": 31,
       "verseStart": 30,
       "kind": "curiosity",
-      "prompt": "O que engana e passa, ao contrário do temor a Deus?",
-      "answer": "A beleza e a boa aparência. Quem teme a Deus é elogiada.",
+      "prompt": "O que é enganoso e vão, ao contrário de temer ao Senhor?",
+      "answer": "A beleza e a formosura. Quem teme ao Senhor é louvada.",
       "reference": "Pv 31:30",
       "wrongs": [
-        "A sabedoria e o trabalho. Quem teme a Deus é esquecida.",
-        "A verdade e a palavra. Quem teme a Deus é zombada.",
-        "O nome e a honra. Quem teme a Deus fica sem louvor."
+        "A sabedoria e o trabalho. Quem teme ao Senhor é esquecida.",
+        "A verdade e a palavra. Quem teme ao Senhor é zombada.",
+        "O nome e a honra. Quem teme ao Senhor fica sem louvor."
       ]
     },
     {

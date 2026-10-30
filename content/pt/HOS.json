@@ -7,7 +7,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "Que esposa Deus mandou Oséias procurar?",
-      "answer": "Uma mulher ligada à prostituição.",
+      "answer": "Uma mulher de prostituições.",
       "reference": "Os 1:2",
       "wrongs": [
         "Uma princesa da corte de Israel.",
@@ -37,7 +37,7 @@
       "verseStart": 5,
       "kind": "place",
       "prompt": "Em que vale Deus quebraria o arco de Israel?",
-      "answer": "No vale de Jezreel.",
+      "answer": "No vale de Jizreel.",
       "reference": "Os 1:5",
       "wrongs": [
         "No vale de Acor.",
@@ -52,11 +52,11 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "Que nome mostra que Israel não era mais o povo de Deus?",
-      "answer": "Não-Meu-Povo.",
+      "answer": "Lo-Ami.",
       "reference": "Os 1:9",
       "wrongs": [
-        "Não-Amada.",
-        "Jezreel.",
+        "Lo-Ruama.",
+        "Jizreel.",
         "Emanuel."
       ]
     },
@@ -67,7 +67,7 @@
       "verseStart": 19,
       "kind": "subject",
       "prompt": "Até quando Deus promete se casar com Israel?",
-      "answer": "Para sempre, com justiça e bondade.",
+      "answer": "Para sempre, em justiça, juízo, benignidade e misericórdias.",
       "reference": "Os 2:19",
       "wrongs": [
         "Por um ano só, com temor e silêncio.",
@@ -127,7 +127,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "Por que Oséias devia amar uma mulher adúltera?",
-      "answer": "Porque assim Deus ama Israel, apesar dos ídolos.",
+      "answer": "Porque assim Deus ama Israel, que olha para outros deuses.",
       "reference": "Os 3:1",
       "wrongs": [
         "Porque ela era filha do rei, e não por Deus.",
@@ -141,7 +141,7 @@
       "chapter": 3,
       "verseStart": 5,
       "kind": "name",
-      "prompt": "Qual rei Israel voltará a buscar?",
+      "prompt": "Qual rei Israel voltará a buscar, em Oséias?",
       "answer": "Davi, o rei deles.",
       "reference": "Os 3:5",
       "wrongs": [
@@ -172,7 +172,7 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "O que faltará a Israel por muito tempo, em Oséias?",
-      "answer": "Rei, sacrifício, estátua e ídolo.",
+      "answer": "Rei, príncipe, sacrifício, estátua, éfode e terafim.",
       "reference": "Os 3:4",
       "wrongs": [
         "Pão, água e também a colheita.",
@@ -187,7 +187,7 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "Por que Oséias diz que o povo de Israel é destruído?",
-      "answer": "Porque abandonou o conhecimento de Deus.",
+      "answer": "Porque lhe faltou o conhecimento.",
       "reference": "Os 4:6",
       "wrongs": [
         "Porque perdeu o exército no Egito.",
@@ -261,7 +261,7 @@
       "chapter": 5,
       "verseStart": 14,
       "kind": "curiosity",
-      "prompt": "Como Deus age contra Efraim e Judá?",
+      "prompt": "Como Deus age contra Efraim e Judá quando a cura falha?",
       "answer": "Como leão que despedaça e vai embora.",
       "reference": "Os 5:14",
       "wrongs": [
@@ -351,7 +351,7 @@
       "chapter": 7,
       "verseStart": 1,
       "kind": "place",
-      "prompt": "Onde as maldades de Efraim ficam expostas?",
+      "prompt": "Onde as maldades de Efraim ficam expostas, em Oséias?",
       "answer": "Em Samaria.",
       "reference": "Os 7:1",
       "wrongs": [
@@ -382,7 +382,7 @@
       "verseStart": 7,
       "kind": "subject",
       "prompt": "O que Israel colhe depois de semear vento?",
-      "answer": "Tempestade, e a farinha não fica com ele.",
+      "answer": "Tormenta, e a erva não dará farinha.",
       "reference": "Os 8:7",
       "wrongs": [
         "Trigo, e o celeiro fica cheio dele.",
@@ -442,7 +442,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "Para onde Efraim vai em vez de ficar na terra?",
-      "answer": "Volta ao Egito e come coisa impura na Assíria.",
+      "answer": "Volta ao Egito e come comida imunda na Assíria.",
       "reference": "Os 9:3",
       "wrongs": [
         "Sobe a Sião e come o pão do templo de Deus.",
@@ -472,7 +472,7 @@
       "verseStart": 17,
       "kind": "curiosity",
       "prompt": "O que Deus fará com Israel por não ouvir, em Oséias?",
-      "answer": "Vai rejeitá-lo, e o povo anda sem direção entre as nações.",
+      "answer": "Vai rejeitá-lo, e errantes andarão entre as nações.",
       "reference": "Os 9:17",
       "wrongs": [
         "Vai curá-lo, e o povo volta em paz para a sua terra.",
@@ -487,7 +487,7 @@
       "verseStart": 15,
       "kind": "subject",
       "prompt": "Que fim tem o rei de Israel ligado a Betel?",
-      "answer": "De manhã ele é eliminado.",
+      "answer": "De madrugada ele será totalmente destruído.",
       "reference": "Os 10:15",
       "wrongs": [
         "À noite ele é coroado.",
@@ -517,7 +517,7 @@
       "verseStart": 6,
       "kind": "place",
       "prompt": "Para onde o bezerro segue como presente, em Oséias?",
-      "answer": "Para a Assíria, ao rei poderoso.",
+      "answer": "Para a Assíria, ao rei Jarebe.",
       "reference": "Os 10:6",
       "wrongs": [
         "Para o Egito, ao Faraó do Nilo.",
@@ -532,10 +532,10 @@
       "verseStart": 8,
       "kind": "curiosity",
       "prompt": "O que o povo gritará aos montes, em Oséias?",
-      "answer": "Que os cubram, e que os morros caiam em cima.",
+      "answer": "Que os cubram, e que os outeiros caiam em cima.",
       "reference": "Os 10:8",
       "wrongs": [
-        "Que os livrem, e que os morros os ergam.",
+        "Que os livrem, e que os outeiros os ergam.",
         "Que os ouçam, e que os vales se abram.",
         "Que os adorem, e que as pedras virem altar."
       ]
@@ -577,12 +577,12 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "Com que Deus puxou Israel para perto?",
-      "answer": "Com cordas de gente e de amor.",
+      "answer": "Com cordas humanas e laços de amor.",
       "reference": "Os 11:4",
       "wrongs": [
-        "Com correntes de ferro e de medo.",
-        "Com laços de couro e de dívida.",
-        "Com varas de guerra e de fome."
+        "Com correntes de ferro e laços de medo.",
+        "Com laços de couro e cordas de dívida.",
+        "Com varas de guerra e laços de fome."
       ]
     },
     {
@@ -592,7 +592,7 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "O que Jacó deve guardar diante de Deus, em Oséias?",
-      "answer": "Misericórdia, justiça e uma espera contínua.",
+      "answer": "A benevolência, o juízo e esperar sempre.",
       "reference": "Os 12:6",
       "wrongs": [
         "Sacrifício, jejum e silêncio no templo.",
@@ -651,7 +651,7 @@
       "chapter": 13,
       "verseStart": 4,
       "kind": "subject",
-      "prompt": "Quem é o salvador de Israel desde o Egito?",
+      "prompt": "Quem Oséias diz ser o salvador de Israel desde o Egito?",
       "answer": "Só Deus; não existe outro.",
       "reference": "Os 13:4",
       "wrongs": [
@@ -711,8 +711,8 @@
       "chapter": 14,
       "verseStart": 4,
       "kind": "subject",
-      "prompt": "O que Deus promete fazer com a rebelião de Israel, em Oséias?",
-      "answer": "Curá-la e amar por escolha dele.",
+      "prompt": "O que Deus promete fazer com a infidelidade de Israel, em Oséias?",
+      "answer": "Sarará a infidelidade e os amará voluntariamente.",
       "reference": "Os 14:4",
       "wrongs": [
         "Castigá-la sem nenhuma volta.",

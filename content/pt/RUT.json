@@ -127,7 +127,7 @@
       "verseStart": 9,
       "kind": "subject",
       "prompt": "O que Rute pediu a Boaz, parente da família?",
-      "answer": "Que a cobrisse com a capa, por ser parente próximo.",
+      "answer": "Que estendesse a capa sobre ela, por ser o remidor.",
       "reference": "Rt 3:9",
       "wrongs": [
         "Que a mandasse de volta ao campo de outro dono.",
@@ -157,7 +157,7 @@
       "verseStart": 6,
       "kind": "place",
       "prompt": "Para onde Rute desceu a fim de falar com Boaz?",
-      "answer": "Para o terreiro da colheita.",
+      "answer": "Para a eira.",
       "reference": "Rt 3:6",
       "wrongs": [
         "Para a porta da cidade.",
@@ -201,7 +201,7 @@
       "chapter": 4,
       "verseStart": 13,
       "kind": "name",
-      "prompt": "Quem se casou com Rute?",
+      "prompt": "Quem se casou com Rute depois que ela enviuvou?",
       "answer": "Boaz.",
       "reference": "Rt 4:13",
       "wrongs": [

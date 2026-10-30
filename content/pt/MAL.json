@@ -7,7 +7,7 @@
       "verseStart": 8,
       "kind": "subject",
       "prompt": "Que animais defeituosos os sacerdotes trazem em Malaquias?",
-      "answer": "O cego, o manco e o doente.",
+      "answer": "O cego, o coxo e o enfermo.",
       "reference": "Ml 1:8",
       "wrongs": [
         "O sadio, o forte e o inteiro.",
@@ -67,7 +67,7 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "Onde o nome de Deus será grande, em Malaquias?",
-      "answer": "Entre as nações, do leste até o oeste.",
+      "answer": "Entre os gentios, do nascente ao poente.",
       "reference": "Ml 1:11",
       "wrongs": [
         "Só em Jerusalém, dentro do templo.",
@@ -82,7 +82,7 @@
       "verseStart": 16,
       "kind": "subject",
       "prompt": "O que Malaquias diz que o Deus de Israel odeia?",
-      "answer": "O divórcio.",
+      "answer": "O repúdio.",
       "reference": "Ml 2:16",
       "wrongs": [
         "O sacrifício.",
@@ -112,7 +112,7 @@
       "verseStart": 3,
       "kind": "curiosity",
       "prompt": "O que Deus espalhará no rosto dos sacerdotes, em Malaquias?",
-      "answer": "A sujeira das festas deles.",
+      "answer": "O esterco das festas solenes.",
       "reference": "Ml 2:3",
       "wrongs": [
         "O óleo da unção santa.",
@@ -187,7 +187,7 @@
       "verseStart": 16,
       "kind": "curiosity",
       "prompt": "O que foi escrito diante de Deus sobre quem o teme, em Malaquias?",
-      "answer": "Um livro de memória.",
+      "answer": "Um memorial.",
       "reference": "Ml 3:16",
       "wrongs": [
         "Uma lista de culpas.",
@@ -247,7 +247,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "O que Elias fará com pais e filhos?",
-      "answer": "Unirá o coração deles uns aos outros.",
+      "answer": "Converterá o coração dos pais aos filhos e o dos filhos aos pais.",
       "reference": "Ml 4:6",
       "wrongs": [
         "Separará o coração deles para sempre.",

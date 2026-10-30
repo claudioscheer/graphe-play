@@ -127,7 +127,7 @@
       "verseStart": 21,
       "kind": "subject",
       "prompt": "Como Eúde matou Eglom, rei de Moabe?",
-      "answer": "Enfiou um punhal no ventre dele.",
+      "answer": "Cravou uma espada no ventre dele.",
       "reference": "Jz 3:21",
       "wrongs": [
         "Cravou uma lança nas costas dele.",
@@ -172,7 +172,7 @@
       "verseStart": 31,
       "kind": "curiosity",
       "prompt": "Com o que Sangar derrubou seiscentos filisteus?",
-      "answer": "Com uma vara de conduzir bois.",
+      "answer": "Com uma aguilhada de bois.",
       "reference": "Jz 3:31",
       "wrongs": [
         "Com uma queixada de jumento.",
@@ -232,7 +232,7 @@
       "verseStart": 21,
       "kind": "curiosity",
       "prompt": "Como Jael matou Sísera?",
-      "answer": "Cravou uma estaca de tenda na têmpora dele.",
+      "answer": "Cravou uma estaca da tenda na fonte dele.",
       "reference": "Jz 4:21",
       "wrongs": [
         "Cortou a cabeça dele com a espada.",
@@ -276,7 +276,7 @@
       "chapter": 5,
       "verseStart": 19,
       "kind": "place",
-      "prompt": "Perto de que águas os reis de Canaã lutaram?",
+      "prompt": "Perto de que águas os reis de Canaã pelejaram, no cântico de Débora?",
       "answer": "Das águas de Megido, em Taanaque.",
       "reference": "Jz 5:19",
       "wrongs": [
@@ -337,7 +337,7 @@
       "verseStart": 11,
       "kind": "place",
       "prompt": "Onde Gideão escondia o trigo dos midianitas?",
-      "answer": "No lagar, sob o carvalho em Ofra.",
+      "answer": "No lagar, em Ofra.",
       "reference": "Jz 6:11",
       "wrongs": [
         "Numa cova, perto da fonte de Harode.",
@@ -352,7 +352,7 @@
       "verseStart": 38,
       "kind": "curiosity",
       "prompt": "O que Gideão espremeu do pedaço de lã?",
-      "answer": "Água bastante para encher um vaso.",
+      "answer": "Água bastante para encher uma taça.",
       "reference": "Jz 6:38",
       "wrongs": [
         "Vinho bastante para encher um odre.",
@@ -442,7 +442,7 @@
       "verseStart": 21,
       "kind": "name",
       "prompt": "Quais reis de Midiã Gideão matou no fim da perseguição?",
-      "answer": "Zeba e Zalmuna.",
+      "answer": "Zeba e Salmuna.",
       "reference": "Jz 8:21",
       "wrongs": [
         "Orebe e Zeebe.",
@@ -591,7 +591,7 @@
       "chapter": 10,
       "verseStart": 4,
       "kind": "curiosity",
-      "prompt": "Quantas vilas tinham o nome de Jair?",
+      "prompt": "Quantas vilas tinham o nome de Jair, em Juízes?",
       "answer": "Trinta, na terra de Gileade.",
       "reference": "Jz 10:4",
       "wrongs": [
@@ -637,7 +637,7 @@
       "verseStart": 11,
       "kind": "place",
       "prompt": "Onde Jefté falou diante de Deus ao assumir a liderança?",
-      "answer": "Em Mispá.",
+      "answer": "Em Mizpá.",
       "reference": "Jz 11:11",
       "wrongs": [
         "Em Siló.",
@@ -652,7 +652,7 @@
       "verseStart": 31,
       "kind": "curiosity",
       "prompt": "O que Jefté prometeu se voltasse vencedor?",
-      "answer": "Oferecer em sacrifício queimado quem saísse da casa para recebê-lo.",
+      "answer": "Oferecer em holocausto quem saísse da casa para recebê-lo.",
       "reference": "Jz 11:31",
       "wrongs": [
         "Nunca mais cortar o cabelo, nem o dele nem o do filho.",
@@ -802,7 +802,7 @@
       "verseStart": 1,
       "kind": "place",
       "prompt": "Onde Sansão viu a mulher filisteia com quem quis casar?",
-      "answer": "Em Timna.",
+      "answer": "Em Timnate.",
       "reference": "Jz 14:1",
       "wrongs": [
         "Em Gaza.",
@@ -892,7 +892,7 @@
       "verseStart": 19,
       "kind": "curiosity",
       "prompt": "O que Deus fez sair quando Sansão teve sede?",
-      "answer": "Água, de uma cavidade em Leí.",
+      "answer": "Água, de uma cavidade na queixada.",
       "reference": "Jz 15:19",
       "wrongs": [
         "Mel, de uma fenda na rocha.",
@@ -952,7 +952,7 @@
       "verseStart": 3,
       "kind": "curiosity",
       "prompt": "O que Sansão carregou no ombro para fora de Gaza?",
-      "answer": "As portas, os postes e a tranca.",
+      "answer": "As portas, as umbreiras e a tranca.",
       "reference": "Jz 16:3",
       "wrongs": [
         "A arca, o altar e o éfode.",
@@ -967,7 +967,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "O que fizeram com parte da prata na casa de Mica?",
-      "answer": "Fundiram uma imagem e a puseram na casa dele.",
+      "answer": "Fizeram uma imagem de escultura e uma de fundição.",
       "reference": "Jz 17:4",
       "wrongs": [
         "Devolveram tudo à mãe, sem usar o metal.",
@@ -1012,7 +1012,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "O que cada um fazia em Israel quando não havia rei?",
-      "answer": "O que achava melhor.",
+      "answer": "O que parecia bem aos seus olhos.",
       "reference": "Jz 17:6",
       "wrongs": [
         "O que o rei mandava por escrito.",
@@ -1178,7 +1178,7 @@
       "verseStart": 1,
       "kind": "place",
       "prompt": "Onde todo Israel se reuniu, de Dã a Berseba?",
-      "answer": "Em Mispá.",
+      "answer": "Em Mizpá.",
       "reference": "Jz 20:1",
       "wrongs": [
         "Em Siló.",
@@ -1193,7 +1193,7 @@
       "verseStart": 16,
       "kind": "curiosity",
       "prompt": "O que os setecentos canhotos de Benjamim faziam com a funda?",
-      "answer": "Acertavam o alvo sem errar.",
+      "answer": "Atiravam uma pedra num cabelo, e não erravam.",
       "reference": "Jz 20:16",
       "wrongs": [
         "Erravam de propósito para assustar.",
@@ -1238,7 +1238,7 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "Quantas moças de Jabes-Gileade foram levadas vivas?",
-      "answer": "Quatrocentas que ainda não tinham marido.",
+      "answer": "Quatrocentas moças virgens.",
       "reference": "Jz 21:12",
       "wrongs": [
         "Duzentas já casadas com filhos.",
@@ -1253,7 +1253,7 @@
       "verseStart": 25,
       "kind": "curiosity",
       "prompt": "Como era a vida em Israel quando não havia rei?",
-      "answer": "Sem rei, e cada um fazia o que achava certo.",
+      "answer": "Sem rei, e cada um fazia o que parecia reto aos seus olhos.",
       "reference": "Jz 21:25",
       "wrongs": [
         "Com rei em Hebrom, e o povo seguia a lei.",

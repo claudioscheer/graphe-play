@@ -7,12 +7,12 @@
       "verseStart": 21,
       "kind": "subject",
       "prompt": "Quem produziu a profecia da Escritura?",
-      "answer": "Homens santos conduzidos pelo Espírito Santo, não pela vontade humana.",
+      "answer": "Homens santos de Deus, que falaram inspirados pelo Espírito Santo.",
       "reference": "2Pe 1:21",
       "wrongs": [
         "Anjos, que ditaram cada frase aos escribas.",
         "A igreja, reunida para decidir o que seria verdade.",
-        "Sábios, que escreveram só a partir da própria vontade."
+        "Homens, que falaram só por vontade própria."
       ]
     },
     {
@@ -52,7 +52,7 @@
       "verseStart": 14,
       "kind": "curiosity",
       "prompt": "O que Jesus Cristo revelou que estava perto para Pedro?",
-      "answer": "A saída da tenda em que ele vivia.",
+      "answer": "Deixar o seu tabernáculo.",
       "reference": "2Pe 1:14",
       "wrongs": [
         "A queda de Jerusalém naquele ano.",
@@ -66,8 +66,8 @@
       "chapter": 2,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "O que os falsos instrutores farão com quem os comprou?",
-      "answer": "Vão negá-lo e trazer destruição rápida sobre si.",
+      "prompt": "O que os falsos doutores farão com o Senhor que os resgatou?",
+      "answer": "Vão negá-lo e trazer sobre si repentina perdição.",
       "reference": "2Pe 2:1",
       "wrongs": [
         "Vão honrá-lo e trazer paz à igreja.",
@@ -82,7 +82,7 @@
       "verseStart": 5,
       "kind": "name",
       "prompt": "Quem foi preservado quando veio o dilúvio, em 2 Pedro?",
-      "answer": "Noé, pregador da justiça, e mais sete.",
+      "answer": "Noé, a oitava pessoa, pregador da justiça.",
       "reference": "2Pe 2:5",
       "wrongs": [
         "Ló, e as duas filhas.",
@@ -111,8 +111,8 @@
       "chapter": 2,
       "verseStart": 16,
       "kind": "curiosity",
-      "prompt": "Qual animal mudo falou com voz humana?",
-      "answer": "O animal de jugo.",
+      "prompt": "Qual animal mudo falou com voz humana, em 2 Pedro?",
+      "answer": "O mudo jumento.",
       "reference": "2Pe 2:16",
       "wrongs": [
         "A serpente do jardim.",
@@ -141,7 +141,7 @@
       "chapter": 3,
       "verseStart": 15,
       "kind": "name",
-      "prompt": "Qual irmão escreveu sobre a paciência de Deus?",
+      "prompt": "Qual irmão escreveu sobre a longanimidade do Senhor?",
       "answer": "Paulo.",
       "reference": "2Pe 3:15",
       "wrongs": [
@@ -171,8 +171,8 @@
       "chapter": 3,
       "verseStart": 10,
       "kind": "curiosity",
-      "prompt": "Como chegará o dia de Deus?",
-      "answer": "De surpresa, como ladrão à noite.",
+      "prompt": "Como chegará o dia do Senhor, segundo Pedro?",
+      "answer": "Como o ladrão de noite.",
       "reference": "2Pe 3:10",
       "wrongs": [
         "Com aviso, marcado no calendário.",

@@ -53,7 +53,7 @@
       "chapter": 1,
       "verseStart": 17,
       "kind": "curiosity",
-      "prompt": "Por quem Davi compôs um canto de luto?",
+      "prompt": "Por quem Davi compôs o canto de luto depois de Gilboa?",
       "answer": "Por Saul e pelo filho Jônatas.",
       "reference": "2Sm 1:17",
       "wrongs": [
@@ -114,7 +114,7 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "Por quanto tempo Davi foi rei em Hebrom, só sobre Judá?",
-      "answer": "Sete anos e meio.",
+      "answer": "Sete anos e seis meses.",
       "reference": "2Sm 2:11",
       "wrongs": [
         "Quarenta anos.",
@@ -222,10 +222,10 @@
       "verseStart": 12,
       "kind": "place",
       "prompt": "Onde enterraram a cabeça de Is-Bosete?",
-      "answer": "No túmulo de Abner, em Hebrom.",
+      "answer": "Na sepultura de Abner, em Hebrom.",
       "reference": "2Sm 4:12",
       "wrongs": [
-        "No túmulo de Quis, em Selá.",
+        "Na sepultura de Quis, em Zela.",
         "No monte Gilboa, sem sepultura.",
         "Em Jabes, debaixo da tamargueira."
       ]
@@ -252,7 +252,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "O que os anciãos fizeram com Davi em Hebrom?",
-      "answer": "Fizeram aliança e o ungiram rei sobre Israel.",
+      "answer": "Fizeram acordo e o ungiram rei sobre Israel.",
       "reference": "2Sm 5:3",
       "wrongs": [
         "Recusaram a coroa e voltaram para casa.",
@@ -418,7 +418,7 @@
       "verseStart": 8,
       "kind": "curiosity",
       "prompt": "De onde Deus tirou Davi para ser príncipe?",
-      "answer": "De detrás das ovelhas, no curral.",
+      "answer": "Da malhada, de detrás das ovelhas.",
       "reference": "2Sm 7:8",
       "wrongs": [
         "Do palácio de Saul, em Gibeá.",
@@ -448,7 +448,7 @@
       "verseStart": 15,
       "verseEnd": 16,
       "kind": "name",
-      "prompt": "Quem era o general do exército de Davi?",
+      "prompt": "Quem 2 Samuel nomeia como general do exército de Davi?",
       "answer": "Joabe, filho de Zeruia.",
       "reference": "2Sm 8:15-16",
       "wrongs": [
@@ -555,7 +555,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "O que Hanum fez com os servos de Davi?",
-      "answer": "Rapou metade da barba e cortou as roupas.",
+      "answer": "Raspou metade da barba e cortou metade das vestes.",
       "reference": "2Sm 10:4",
       "wrongs": [
         "Ungiu os servos e os mandou de volta com honra.",
@@ -645,7 +645,7 @@
       "chapter": 11,
       "verseStart": 1,
       "kind": "place",
-      "prompt": "Onde Davi ficou enquanto o exército foi à guerra?",
+      "prompt": "Onde Davi ficou enquanto o exército foi à guerra contra os amonitas?",
       "answer": "Em Jerusalém.",
       "reference": "2Sm 11:1",
       "wrongs": [
@@ -919,7 +919,7 @@
       "verseStart": 22,
       "kind": "subject",
       "prompt": "O que Absalão fez no terraço, à vista de Israel?",
-      "answer": "Entrou até as concubinas do pai.",
+      "answer": "Possuiu as concubinas do pai.",
       "reference": "2Sm 16:22",
       "wrongs": [
         "Devolveu as concubinas em paz.",
@@ -964,7 +964,7 @@
       "verseStart": 1,
       "kind": "curiosity",
       "prompt": "O que Ziba levou a Davi na fuga?",
-      "answer": "Dois jumentos com pão, frutas secas e vinho.",
+      "answer": "Um par de jumentos, pães, passas, frutas de verão e um odre de vinho.",
       "reference": "2Sm 16:1",
       "wrongs": [
         "Três camelos com ouro, azeite e incenso.",
@@ -1008,7 +1008,7 @@
       "chapter": 17,
       "verseStart": 24,
       "kind": "place",
-      "prompt": "A que cidade Davi chegou do outro lado do Jordão?",
+      "prompt": "A que cidade Davi chegou do outro lado do Jordão, fugindo de Absalão?",
       "answer": "A Maanaim.",
       "reference": "2Sm 17:24",
       "wrongs": [
@@ -1249,13 +1249,13 @@
       "chapter": 21,
       "verseStart": 14,
       "kind": "place",
-      "prompt": "Onde puseram os ossos de Saul e de Jônatas?",
-      "answer": "No túmulo de Quis, em Selá, na terra de Benjamim.",
+      "prompt": "Onde Davi mandou sepultar os ossos de Saul e de Jônatas?",
+      "answer": "Na sepultura de Quis, em Zela, na terra de Benjamim.",
       "reference": "2Sm 21:14",
       "wrongs": [
-        "No túmulo de Abner, em Hebrom.",
+        "Na sepultura de Abner, em Hebrom.",
         "No monte Gilboa, à vista dos filisteus.",
-        "Na cova de Adulão, na terra de Judá."
+        "Na caverna de Adulão, na terra de Judá."
       ]
     },
     {
@@ -1280,8 +1280,8 @@
       "verseStart": 1,
       "verseEnd": 2,
       "kind": "subject",
-      "prompt": "Como Davi chamou Deus no começo do cântico?",
-      "answer": "Sua rocha, sua fortaleza e seu libertador.",
+      "prompt": "Como Davi chamou Deus no começo do cântico de livramento?",
+      "answer": "Seu rochedo, seu lugar forte e seu libertador.",
       "reference": "2Sm 22:1-2",
       "wrongs": [
         "Seu rei, seu general e seu sacerdote.",
@@ -1326,7 +1326,7 @@
       "verseStart": 5,
       "kind": "subject",
       "prompt": "Que acordo Davi disse que Deus fez com ele?",
-      "answer": "Uma aliança permanente, firme em tudo.",
+      "answer": "Uma aliança eterna, bem ordenada e guardada.",
       "reference": "2Sm 23:5",
       "wrongs": [
         "Um acordo só até o fim da guerra.",
@@ -1385,7 +1385,7 @@
       "chapter": 24,
       "verseStart": 15,
       "kind": "subject",
-      "prompt": "Quantos morreram na pestilência mandada sobre Israel?",
+      "prompt": "Quantos morreram na pestilência depois do censo de Davi?",
       "answer": "Setenta mil, de Dã até Berseba.",
       "reference": "2Sm 24:15",
       "wrongs": [

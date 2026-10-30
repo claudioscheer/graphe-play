@@ -21,8 +21,8 @@
       "chapter": 1,
       "verseStart": 1,
       "kind": "name",
-      "prompt": "Quem, filho de Cuxi, falou nos dias de Josias?",
-      "answer": "Sofonias, filho de Cuxi.",
+      "prompt": "Quem, filho de Cusi, falou nos dias de Josias?",
+      "answer": "Sofonias, filho de Cusi.",
       "reference": "Sf 1:1",
       "wrongs": [
         "Jeremias, filho de Hilquias.",
@@ -52,7 +52,7 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "Com o que Deus vasculhará Jerusalém?",
-      "answer": "Com lâmpadas.",
+      "answer": "Com lanternas.",
       "reference": "Sf 1:12",
       "wrongs": [
         "Com espadas.",
@@ -82,7 +82,7 @@
       "verseStart": 4,
       "kind": "place",
       "prompt": "Quais quatro cidades Sofonias ameaça de ruína?",
-      "answer": "Gaza, Asquelom, Asdode e Ecrom.",
+      "answer": "Gaza, Ascalom, Asdode e Ecrom.",
       "reference": "Sf 2:4",
       "wrongs": [
         "Tiro, Sidom, Gebal e Arvade.",
@@ -111,7 +111,7 @@
       "chapter": 3,
       "verseStart": 15,
       "kind": "subject",
-      "prompt": "Quem está no meio de Sião como rei?",
+      "prompt": "Quem está no meio de Sião como rei, em Sofonias?",
       "answer": "Deus, o rei de Israel.",
       "reference": "Sf 3:15",
       "wrongs": [
@@ -127,7 +127,7 @@
       "verseStart": 10,
       "kind": "place",
       "prompt": "De onde virão adoradores com ofertas, em Sofonias?",
-      "answer": "De além dos rios de Cuxe.",
+      "answer": "De além dos rios da Etiópia.",
       "reference": "Sf 3:10",
       "wrongs": [
         "De além dos rios da Assíria.",
@@ -142,7 +142,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "O que Deus dará aos povos para que o sirvam unidos, em Sofonias?",
-      "answer": "Uma fala limpa.",
+      "answer": "Uma linguagem pura.",
       "reference": "Sf 3:9",
       "wrongs": [
         "Uma espada só.",
@@ -157,7 +157,7 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "Que povo Sofonias diz que vai restar?",
-      "answer": "Um grupo humilde e pobre.",
+      "answer": "Um povo humilde e pobre.",
       "reference": "Sf 3:12",
       "wrongs": [
         "Um grupo rico e orgulhoso.",

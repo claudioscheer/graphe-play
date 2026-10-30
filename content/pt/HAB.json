@@ -7,12 +7,12 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "Que nação Deus diz a Habacuque que vai levantar?",
-      "answer": "Os caldeus, povo amargo e veloz.",
+      "answer": "Os caldeus, nação amarga e impetuosa.",
       "reference": "Hc 1:6",
       "wrongs": [
-        "Os assírios, povo calmo e lento.",
-        "Os egípcios, povo antigo e quieto.",
-        "Os persas, povo distante e fraco."
+        "Os assírios, nação calma e lenta.",
+        "Os egípcios, nação antiga e quieta.",
+        "Os persas, nação distante e fraca."
       ]
     },
     {
@@ -52,7 +52,7 @@
       "verseStart": 16,
       "kind": "curiosity",
       "prompt": "A que o opressor oferece incenso, em Habacuque?",
-      "answer": "À própria rede.",
+      "answer": "À sua varredoura.",
       "reference": "Hc 1:16",
       "wrongs": [
         "Ao Deus de Israel.",
@@ -172,7 +172,7 @@
       "verseStart": 19,
       "kind": "curiosity",
       "prompt": "Com quais animais Deus compara os pés de Habacuque?",
-      "answer": "Com as corças.",
+      "answer": "Com as cervas.",
       "reference": "Hc 3:19",
       "wrongs": [
         "Com os leões.",

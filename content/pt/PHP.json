@@ -36,8 +36,8 @@
       "chapter": 1,
       "verseStart": 6,
       "kind": "curiosity",
-      "prompt": "Até quando Deus completa a boa obra nos filipenses?",
-      "answer": "Até o dia em que Jesus Cristo vier.",
+      "prompt": "Até quando Deus aperfeiçoará a boa obra nos filipenses?",
+      "answer": "Até o dia de Jesus Cristo.",
       "reference": "Fp 1:6",
       "wrongs": [
         "Até a morte de Paulo na prisão.",
@@ -52,7 +52,7 @@
       "verseStart": 13,
       "kind": "curiosity",
       "prompt": "A quem ficou claro que Paulo estava preso por Cristo?",
-      "answer": "A toda a guarda do pretório e aos demais.",
+      "answer": "A toda a guarda pretoriana e a todos os demais lugares.",
       "reference": "Fp 1:13",
       "wrongs": [
         "Só a Timóteo e a Lucas, na cela.",
@@ -82,7 +82,7 @@
       "verseStart": 25,
       "kind": "name",
       "prompt": "Quem Paulo enviou de volta aos filipenses?",
-      "answer": "Epafrodito, cooperador e companheiro de luta.",
+      "answer": "Epafrodito, irmão, cooperador e companheiro nos combates.",
       "reference": "Fp 2:25",
       "wrongs": [
         "Timóteo, filho na fé e mensageiro.",
@@ -112,7 +112,7 @@
       "verseStart": 27,
       "kind": "curiosity",
       "prompt": "Quão doente Epafrodito chegou a ficar?",
-      "answer": "Quase morreu, mas Deus teve misericórdia.",
+      "answer": "Quase à morte, mas Deus se apiedou dele.",
       "reference": "Fp 2:27",
       "wrongs": [
         "Sarou no mesmo dia, sem ficar grave.",
@@ -141,13 +141,13 @@
       "chapter": 3,
       "verseStart": 20,
       "kind": "place",
-      "prompt": "De onde Paulo diz que os crentes são cidadãos?",
-      "answer": "Do céu, de onde esperam o Salvador.",
+      "prompt": "Onde Paulo diz que está a cidade dos crentes?",
+      "answer": "Nos céus, de onde esperam o Salvador.",
       "reference": "Fp 3:20",
       "wrongs": [
-        "De Roma, onde César governa.",
-        "De Jerusalém, a cidade do templo.",
-        "Da terra, onde está a cidadania deles."
+        "Em Roma, onde César governa.",
+        "Em Jerusalém, a cidade do templo.",
+        "Na terra, onde está a cidade deles."
       ]
     },
     {
@@ -172,7 +172,7 @@
       "verseStart": 14,
       "kind": "curiosity",
       "prompt": "Para que alvo Paulo continua avançando?",
-      "answer": "O prêmio do chamado de Deus lá em cima.",
+      "answer": "O prêmio da soberana vocação de Deus em Cristo Jesus.",
       "reference": "Fp 3:14",
       "wrongs": [
         "A coroa de louro dos jogos romanos.",
@@ -186,13 +186,13 @@
       "chapter": 4,
       "verseStart": 6,
       "kind": "subject",
-      "prompt": "O que fazer em vez de viver ansioso?",
-      "answer": "Levar os pedidos a Deus, com gratidão.",
+      "prompt": "O que Paulo manda fazer em vez de ficar inquieto?",
+      "answer": "Fazer conhecidas as petições diante de Deus, com ação de graças.",
       "reference": "Fp 4:6",
       "wrongs": [
-        "Esconder a preocupação e não orar.",
-        "Resolver tudo sozinho, sem pedir nada.",
-        "Jejuar em silêncio até a ansiedade passar."
+        "Esconder a inquietação e não orar.",
+        "Resolver tudo sozinho, sem petição.",
+        "Jejuar em silêncio até a inquietação passar."
       ]
     },
     {
@@ -216,7 +216,7 @@
       "chapter": 4,
       "verseStart": 22,
       "kind": "place",
-      "prompt": "Onde estavam os santos que Paulo destaca na saudação?",
+      "prompt": "Onde estavam os santos que Paulo destaca na saudação de Filipenses?",
       "answer": "Na casa de César.",
       "reference": "Fp 4:22",
       "wrongs": [
@@ -232,7 +232,7 @@
       "verseStart": 13,
       "kind": "curiosity",
       "prompt": "Em quem Paulo diz que pode todas as coisas?",
-      "answer": "Em Cristo, que lhe dá força.",
+      "answer": "Em Cristo, que o fortalece.",
       "reference": "Fp 4:13",
       "wrongs": [
         "Em si mesmo, treinado desde jovem.",

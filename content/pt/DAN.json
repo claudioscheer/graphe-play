@@ -22,7 +22,7 @@
       "verseStart": 6,
       "kind": "name",
       "prompt": "Quais jovens de Judá entraram na corte da Babilônia?",
-      "answer": "Daniel, Ananias, Misael e Azarias.",
+      "answer": "Daniel, Hananias, Misael e Azarias.",
       "wrongs": [
         "Jeremias, Baruque, Ezequiel e Oséias.",
         "Josué, Zorobabel, Ageu e Zacarias.",
@@ -36,7 +36,7 @@
       "chapter": 1,
       "verseStart": 2,
       "kind": "place",
-      "prompt": "Para onde Nabucodonosor levou parte dos vasos do templo?",
+      "prompt": "Para onde Nabucodonosor levou parte dos vasos do templo, em Daniel?",
       "answer": "Para a terra de Sinar.",
       "wrongs": [
         "Para a terra do Egito.",
@@ -112,11 +112,11 @@
       "verseStart": 32,
       "kind": "curiosity",
       "prompt": "De que metal era a cabeça da estátua do sonho, em Daniel?",
-      "answer": "De ouro puro.",
+      "answer": "De ouro fino.",
       "wrongs": [
-        "De prata pura.",
-        "De bronze puro.",
-        "De ferro puro."
+        "De prata fina.",
+        "De bronze fino.",
+        "De ferro fino."
       ],
       "reference": "Dn 2:32"
     },
@@ -187,11 +187,11 @@
       "verseStart": 33,
       "kind": "subject",
       "prompt": "O que houve com Nabucodonosor quando a sentença caiu?",
-      "answer": "Comeu capim no campo até o cabelo crescer como pena.",
+      "answer": "Comeu erva como os bois, e o pelo cresceu como penas de águia.",
       "wrongs": [
-        "Comeu pão no palácio até a barba crescer como linho.",
-        "Bebeu água no rio até a pele ficar como bronze.",
-        "Dormiu na torre até o manto rasgar como rede."
+        "Comeu pão no palácio, e a barba cresceu como linho.",
+        "Bebeu água no rio, e a pele ficou como bronze.",
+        "Dormiu na torre, e o manto rasgou como rede."
       ],
       "reference": "Dn 4:33"
     },
@@ -292,7 +292,7 @@
       "verseStart": 25,
       "kind": "curiosity",
       "prompt": "Que palavras a mão escreveu para Belsazar?",
-      "answer": "Mene, mene, tequel, parsim.",
+      "answer": "Mene, mene, tequel, ufarsim.",
       "wrongs": [
         "Santo, santo, santo, Deus.",
         "Glória, glória, glória, rei.",
@@ -578,7 +578,7 @@
       "verseStart": 4,
       "kind": "place",
       "prompt": "À margem de qual rio Daniel teve a visão?",
-      "answer": "Do rio Tigre.",
+      "answer": "Do rio Hidequel.",
       "wrongs": [
         "Do rio Eufrates.",
         "Do rio Ulai.",
@@ -608,11 +608,11 @@
       "verseStart": 11,
       "kind": "subject",
       "prompt": "Quem luta contra o rei do norte na visão de Daniel?",
-      "answer": "O rei do sul, juntando uma multidão grande.",
+      "answer": "O rei do sul.",
       "wrongs": [
-        "O rei do leste, juntando uma multidão grande.",
-        "O rei do oeste, juntando uma frota grande.",
-        "O rei de Judá, juntando um resto pequeno."
+        "O rei do leste.",
+        "O rei do oeste.",
+        "O rei de Judá."
       ],
       "reference": "Dn 11:11"
     },
@@ -638,7 +638,7 @@
       "verseStart": 31,
       "kind": "curiosity",
       "prompt": "O que as tropas põem no santuário, em Daniel?",
-      "answer": "Uma abominação devastadora, no lugar do sacrifício.",
+      "answer": "Uma abominação desoladora, no lugar do sacrifício.",
       "wrongs": [
         "Um candelabro novo, no lugar da arca.",
         "Um altar de incenso, no lugar da mesa.",
@@ -653,7 +653,7 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "Para onde se reparte o reino quebrado em Daniel?",
-      "answer": "Para os quatro ventos, e não para os filhos dele.",
+      "answer": "Para os quatro ventos, e não para a posteridade dele.",
       "wrongs": [
         "Para os filhos dele, e não para os generais.",
         "Para um só herdeiro, e não para os ventos.",

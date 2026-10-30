@@ -7,10 +7,10 @@
       "verseStart": 16,
       "kind": "subject",
       "prompt": "Como Paulo pede que Filemom receba Onésimo?",
-      "answer": "Não mais como escravo, e sim como irmão querido.",
+      "answer": "Não já como servo, mas como irmão amado.",
       "reference": "Fm 1:16",
       "wrongs": [
-        "Ainda como escravo, e sem lugar à mesa.",
+        "Ainda como servo, e sem lugar à mesa.",
         "Como devedor, até pagar cada moeda.",
         "Como estranho, hospedado só uma noite."
       ]
@@ -37,7 +37,7 @@
       "verseStart": 2,
       "kind": "name",
       "prompt": "Quem Paulo saúda junto com Filemom?",
-      "answer": "Ápia e Arquipo.",
+      "answer": "Áfia e Arquipo.",
       "reference": "Fm 1:2",
       "wrongs": [
         "Priscila e Áquila.",
@@ -68,7 +68,7 @@
       "verseEnd": 19,
       "kind": "curiosity",
       "prompt": "O que Paulo manda fazer se Onésimo deve algo?",
-      "answer": "Lançar na conta dele, pois ele mesmo escreveu que pagará.",
+      "answer": "Pô-lo na conta de Paulo, pois ele mesmo pagará.",
       "reference": "Fm 1:18-19",
       "wrongs": [
         "Cobrar na hora, diante das testemunhas.",

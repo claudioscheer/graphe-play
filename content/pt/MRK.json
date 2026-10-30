@@ -112,7 +112,7 @@
       "verseStart": 27,
       "kind": "curiosity",
       "prompt": "Por causa de quem o sábado foi feito, em Marcos?",
-      "answer": "Por causa do ser humano, e não o contrário.",
+      "answer": "Por causa do homem, e não o contrário.",
       "reference": "Mc 2:27",
       "wrongs": [
         "Por causa dos sacerdotes, para o culto no templo.",
@@ -291,8 +291,8 @@
       "chapter": 6,
       "verseStart": 41,
       "kind": "subject",
-      "prompt": "O que Jesus fez com cinco pães e dois peixes?",
-      "answer": "Abençoou, partiu e deu aos discípulos para servirem.",
+      "prompt": "O que Jesus fez com cinco pães e dois peixes para a multidão, em Marcos?",
+      "answer": "Multiplicou-os: abençoou, partiu e repartiu, e todos ficaram fartos.",
       "reference": "Mc 6:41",
       "wrongs": [
         "Guardou os pães para o dia seguinte.",
@@ -501,7 +501,7 @@
       "chapter": 9,
       "verseStart": 2,
       "kind": "place",
-      "prompt": "Aonde Jesus levou Pedro, Tiago e João na transfiguração?",
+      "prompt": "Aonde Jesus levou Pedro, Tiago e João na transfiguração, em Marcos?",
       "answer": "A um alto monte, só os três.",
       "reference": "Mc 9:2",
       "wrongs": [
@@ -577,7 +577,7 @@
       "verseStart": 14,
       "kind": "curiosity",
       "prompt": "De quem Jesus disse que é o Reino de Deus?",
-      "answer": "Das crianças.",
+      "answer": "Dos meninos.",
       "reference": "Mc 10:14",
       "wrongs": [
         "Dos fariseus que guardam a Lei.",
@@ -621,7 +621,7 @@
       "chapter": 11,
       "verseStart": 15,
       "kind": "curiosity",
-      "prompt": "O que Jesus revirou ao entrar no Templo?",
+      "prompt": "O que Jesus revirou no Templo, ao voltar de Betânia?",
       "answer": "As mesas de quem trocava moeda e as cadeiras das pombas.",
       "reference": "Mc 11:15",
       "wrongs": [
@@ -697,7 +697,7 @@
       "verseStart": 42,
       "kind": "curiosity",
       "prompt": "Quanto a viúva pobre colocou na oferta, em Marcos?",
-      "answer": "Duas moedas mínimas.",
+      "answer": "Duas pequenas moedas, que valiam meio centavo.",
       "reference": "Mc 12:42",
       "wrongs": [
         "Um denário inteiro.",
@@ -772,7 +772,7 @@
       "verseStart": 24,
       "kind": "subject",
       "prompt": "O que Jesus disse que era o copo da ceia?",
-      "answer": "O sangue da nova aliança, derramado em favor de muitos.",
+      "answer": "O sangue do novo testamento, derramado por muitos.",
       "reference": "Mc 14:24",
       "wrongs": [
         "O vinho da festa, guardado para os doze.",
@@ -801,7 +801,7 @@
       "chapter": 14,
       "verseStart": 32,
       "kind": "place",
-      "prompt": "Onde Jesus orou com Pedro, Tiago e João antes da prisão?",
+      "prompt": "Onde Jesus orou com Pedro, Tiago e João antes da prisão, em Marcos?",
       "answer": "Em Getsêmani.",
       "reference": "Mc 14:32",
       "wrongs": [

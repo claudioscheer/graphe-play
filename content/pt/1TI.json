@@ -21,8 +21,8 @@
       "chapter": 1,
       "verseStart": 20,
       "kind": "name",
-      "prompt": "Quem Paulo entregou a Satanás?",
-      "answer": "Himeneu e Alexandre, para que parassem de blasfemar.",
+      "prompt": "Quem Paulo entregou a Satanás, em 1 Timóteo?",
+      "answer": "Himeneu e Alexandre, para que aprendam a não blasfemar.",
       "reference": "1Tm 1:20",
       "wrongs": [
         "Demas e Crescente, para que voltassem à viagem.",
@@ -67,7 +67,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "Por quem Paulo pede oração, além de todas as pessoas?",
-      "answer": "Pelos reis e por quem governa, para haver vida tranquila.",
+      "answer": "Pelos reis e pelos que estão em eminência, para uma vida quieta e sossegada.",
       "reference": "1Tm 2:2",
       "wrongs": [
         "Só pelos apóstolos, para a missão avançar.",
@@ -81,7 +81,7 @@
       "chapter": 2,
       "verseStart": 5,
       "kind": "name",
-      "prompt": "Quem é o único mediador entre Deus e as pessoas?",
+      "prompt": "Quem é o único mediador entre Deus e os homens?",
       "answer": "Cristo Jesus, que é homem.",
       "reference": "1Tm 2:5",
       "wrongs": [
@@ -111,8 +111,8 @@
       "chapter": 2,
       "verseStart": 9,
       "kind": "curiosity",
-      "prompt": "Com o que as mulheres não devem se enfeitar?",
-      "answer": "Com trança, ouro, pérola ou roupa de alto preço.",
+      "prompt": "Com o que as mulheres não devem se ataviar, segundo Paulo?",
+      "answer": "Com tranças, ouro, pérolas ou vestidos preciosos.",
       "reference": "1Tm 2:9",
       "wrongs": [
         "Com cinza, pano de saco e jejum.",
@@ -126,8 +126,8 @@
       "chapter": 3,
       "verseStart": 2,
       "kind": "subject",
-      "prompt": "Como deve ser quem deseja ser bispo?",
-      "answer": "Irrepreensível, esposo de uma só mulher e capaz de ensinar.",
+      "prompt": "Como deve ser o bispo, segundo Paulo?",
+      "answer": "Irrepreensível, marido de uma mulher e apto para ensinar.",
       "reference": "1Tm 3:2",
       "wrongs": [
         "Rico, de família nobre e amigo do governador.",
@@ -157,7 +157,7 @@
       "verseStart": 15,
       "kind": "curiosity",
       "prompt": "O que Paulo diz que a igreja é?",
-      "answer": "Coluna e base da verdade.",
+      "answer": "A coluna e firmeza da verdade.",
       "reference": "1Tm 3:15",
       "wrongs": [
         "Um clube sujeito ao imperador.",
@@ -171,8 +171,8 @@
       "chapter": 4,
       "verseStart": 3,
       "kind": "subject",
-      "prompt": "O que alguns vão proibir nos últimos tempos?",
-      "answer": "O casamento e o uso de alimentos.",
+      "prompt": "O que alguns vão proibir nos últimos tempos, segundo Paulo?",
+      "answer": "O casamento e a abstinência dos alimentos.",
       "reference": "1Tm 4:3",
       "wrongs": [
         "A oração e a leitura da Escritura.",
@@ -187,12 +187,12 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "O que Paulo diz de tudo o que Deus criou?",
-      "answer": "É bom, se for recebido com gratidão.",
+      "answer": "É boa, e deve ser recebida com ações de graças.",
       "reference": "1Tm 4:4",
       "wrongs": [
-        "É impuro, se não passar pelo altar.",
-        "É neutro, e a gratidão não muda nada.",
-        "É mau, e deve ser recusado."
+        "É impura, se não passar pelo altar.",
+        "É neutra, e a ação de graças não muda nada.",
+        "É má, e deve ser rejeitada."
       ]
     },
     {
@@ -201,8 +201,8 @@
       "chapter": 4,
       "verseStart": 14,
       "kind": "curiosity",
-      "prompt": "Como Timóteo recebeu o dom?",
-      "answer": "Por profecia, quando os presbíteros puseram as mãos sobre ele.",
+      "prompt": "Como Timóteo recebeu o dom, em 1 Timóteo?",
+      "answer": "Por profecia, com a imposição das mãos do presbitério.",
       "reference": "1Tm 4:14",
       "wrongs": [
         "Por herança, como filho de sacerdote.",
@@ -216,8 +216,8 @@
       "chapter": 5,
       "verseStart": 8,
       "kind": "subject",
-      "prompt": "O que faz quem não cuida da própria família?",
-      "answer": "Nega a fé e fica pior do que quem não crê.",
+      "prompt": "O que faz quem não cuida dos seus, segundo Paulo?",
+      "answer": "Nega a fé e é pior do que o infiel.",
       "reference": "1Tm 5:8",
       "wrongs": [
         "Ganha mérito e fica acima dos outros.",
@@ -262,7 +262,7 @@
       "verseStart": 23,
       "kind": "curiosity",
       "prompt": "Por que Paulo manda Timóteo beber um pouco de vinho?",
-      "answer": "Por causa do estômago e das doenças que se repetiam.",
+      "answer": "Por causa do estômago e das frequentes enfermidades.",
       "reference": "1Tm 5:23",
       "wrongs": [
         "Para brindar nas festas da igreja.",
@@ -276,7 +276,7 @@
       "chapter": 6,
       "verseStart": 10,
       "kind": "subject",
-      "prompt": "O que é raiz de todo tipo de mal?",
+      "prompt": "O que é a raiz de todos os males?",
       "answer": "O amor ao dinheiro.",
       "reference": "1Tm 6:10",
       "wrongs": [
@@ -321,11 +321,11 @@
       "chapter": 6,
       "verseStart": 15,
       "kind": "curiosity",
-      "prompt": "Que títulos Paulo dá ao único Soberano?",
-      "answer": "Rei dos reis, e ele governa todos os senhores.",
+      "prompt": "Que títulos Paulo dá ao único poderoso Senhor?",
+      "answer": "Rei dos reis e Senhor dos senhores.",
       "reference": "1Tm 6:15",
       "wrongs": [
-        "Servo dos servos, e ele obedece aos reis.",
+        "Servo dos servos, abaixo dos reis.",
         "Anjo dos anjos, abaixo do Pai.",
         "Juiz de Israel, só sobre o povo da lei."
       ]

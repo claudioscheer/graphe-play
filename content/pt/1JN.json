@@ -6,8 +6,8 @@
       "chapter": 1,
       "verseStart": 5,
       "kind": "subject",
-      "prompt": "Qual mensagem João anuncia a respeito de Deus?",
-      "answer": "Deus é luz, e nele não existe treva alguma.",
+      "prompt": "Qual mensagem 1 João anuncia no início a respeito de Deus?",
+      "answer": "Deus é luz, e não há nele trevas nenhumas.",
       "reference": "1Jo 1:5",
       "wrongs": [
         "Deus é sombra, e a luz fica fora dele.",
@@ -37,11 +37,11 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "O que Deus faz quando os pecados são confessados?",
-      "answer": "Perdoa e limpa toda injustiça.",
+      "answer": "Perdoa os pecados e purifica de toda injustiça.",
       "reference": "1Jo 1:9",
       "wrongs": [
         "Anota a culpa e espera o pagamento.",
-        "Esquece a confissão e não limpa nada.",
+        "Esquece a confissão e não purifica nada.",
         "Perdoa só uma parte, e o resto fica."
       ]
     },
@@ -52,10 +52,10 @@
       "verseStart": 22,
       "kind": "subject",
       "prompt": "Quem João chama de mentiroso e anticristo?",
-      "answer": "Quem não aceita Jesus como o Cristo.",
+      "answer": "Quem nega que Jesus é o Cristo.",
       "reference": "1Jo 2:22",
       "wrongs": [
-        "Quem confessa Jesus como o Cristo.",
+        "Quem confessa que Jesus é o Cristo.",
         "Quem guarda os mandamentos por amor.",
         "Quem ainda não ouviu o evangelho."
       ]
@@ -67,7 +67,7 @@
       "verseStart": 16,
       "kind": "curiosity",
       "prompt": "O que vem do mundo, e não do Pai?",
-      "answer": "Desejo da carne, desejo dos olhos e orgulho da vida.",
+      "answer": "A concupiscência da carne, a concupiscência dos olhos e a soberba da vida.",
       "reference": "1Jo 2:16",
       "wrongs": [
         "Fome, sede e nudez dos apóstolos.",
@@ -81,8 +81,8 @@
       "chapter": 2,
       "verseStart": 17,
       "kind": "curiosity",
-      "prompt": "Quem permanece quando o mundo e sua cobiça passam?",
-      "answer": "Quem pratica a vontade de Deus.",
+      "prompt": "Quem permanece quando o mundo e a sua concupiscência passam?",
+      "answer": "Quem faz a vontade de Deus.",
       "reference": "1Jo 2:17",
       "wrongs": [
         "Quem junta tesouro nesta vida.",
@@ -96,8 +96,8 @@
       "chapter": 3,
       "verseStart": 2,
       "kind": "subject",
-      "prompt": "O que acontece com os filhos de Deus quando ele aparecer?",
-      "answer": "Ficarão parecidos com ele, pois o verão como ele é.",
+      "prompt": "O que acontece com os filhos de Deus quando ele se manifestar?",
+      "answer": "Serão semelhantes a ele, porque o verão como ele é.",
       "reference": "1Jo 3:2",
       "wrongs": [
         "Continuarão como estão, sem mudança.",
@@ -142,12 +142,12 @@
       "verseStart": 18,
       "kind": "curiosity",
       "prompt": "Como João manda que o amor seja praticado?",
-      "answer": "Com atos e com verdade, não só com fala.",
+      "answer": "Em obra e em verdade, não de palavra nem de língua.",
       "reference": "1Jo 3:18",
       "wrongs": [
-        "Só com fala, bem alta, diante de todos.",
+        "De palavra e de língua, sem obra.",
         "Com ritos, e não com o próximo.",
-        "Com silêncio, sem obra nem palavra."
+        "Com silêncio, sem obra nem verdade."
       ]
     },
     {
@@ -187,10 +187,10 @@
       "verseStart": 2,
       "kind": "curiosity",
       "prompt": "Qual espírito é da parte de Deus?",
-      "answer": "O que confessa a vinda humana de Jesus Cristo.",
+      "answer": "O que confessa que Jesus Cristo veio em carne.",
       "reference": "1Jo 4:2",
       "wrongs": [
-        "O que nega que Jesus veio como homem.",
+        "O que nega que Jesus Cristo veio em carne.",
         "O que chama Jesus só de mestre.",
         "O que aceita qualquer espírito que faça sinal."
       ]
@@ -201,13 +201,13 @@
       "chapter": 4,
       "verseStart": 18,
       "kind": "curiosity",
-      "prompt": "O que o amor maduro faz com o medo?",
-      "answer": "Expulsa o medo.",
+      "prompt": "O que o perfeito amor faz com o temor?",
+      "answer": "Lança fora o temor.",
       "reference": "1Jo 4:18",
       "wrongs": [
-        "Alimenta o medo.",
-        "Convive com o medo.",
-        "Troca o medo por orgulho."
+        "Alimenta o temor.",
+        "Convive com o temor.",
+        "Troca o temor por orgulho."
       ]
     },
     {
@@ -216,7 +216,7 @@
       "chapter": 5,
       "verseStart": 4,
       "kind": "subject",
-      "prompt": "Qual é a vitória sobre o mundo?",
+      "prompt": "Qual João diz que é a vitória que vence o mundo?",
       "answer": "A nossa fé.",
       "reference": "1Jo 5:4",
       "wrongs": [
@@ -247,7 +247,7 @@
       "verseStart": 8,
       "kind": "curiosity",
       "prompt": "Quais três dão testemunho na terra?",
-      "answer": "A água, o sangue e o Espírito.",
+      "answer": "O Espírito, a água e o sangue.",
       "reference": "1Jo 5:8",
       "wrongs": [
         "A lei, o templo e o altar.",

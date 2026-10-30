@@ -52,7 +52,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "Por que Paulo já se via condenado à morte?",
-      "answer": "Para confiar em Deus, que levanta os mortos, e não em si.",
+      "answer": "Para não confiar em si, mas em Deus, que ressuscita os mortos.",
       "reference": "2Co 1:9",
       "wrongs": [
         "Para desistir da viagem e voltar a Tarso.",
@@ -96,8 +96,8 @@
       "chapter": 2,
       "verseStart": 12,
       "kind": "place",
-      "prompt": "Aonde Paulo foi anunciar Cristo e achou uma porta aberta?",
-      "answer": "A Troas.",
+      "prompt": "Aonde Paulo foi anunciar Cristo e achou uma porta, em 2 Coríntios?",
+      "answer": "A Trôade.",
       "reference": "2Co 2:12",
       "wrongs": [
         "A Filipos.",
@@ -112,7 +112,7 @@
       "verseStart": 15,
       "kind": "curiosity",
       "prompt": "Que cheiro Paulo diz que o grupo dele é diante de Deus?",
-      "answer": "O aroma de Cristo, para quem se salva e para quem se perde.",
+      "answer": "O bom perfume de Cristo, nos que se salvam e nos que se perdem.",
       "reference": "2Co 2:15",
       "wrongs": [
         "O cheiro do incenso, só dentro do templo.",
@@ -127,7 +127,7 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "A letra e o Espírito agem do mesmo jeito?",
-      "answer": "Não. A letra mata, e o Espírito dá vida.",
+      "answer": "Não. A letra mata, e o espírito vivifica.",
       "reference": "2Co 3:6",
       "wrongs": [
         "Sim. As duas condenam do mesmo modo.",
@@ -186,13 +186,13 @@
       "chapter": 4,
       "verseStart": 8,
       "kind": "curiosity",
-      "prompt": "As aflições esmagam Paulo?",
-      "answer": "Não. Ele sofre aperto, mas não chega a ser esmagado.",
+      "prompt": "A tribulação deixa Paulo angustiado?",
+      "answer": "Não. Ele é atribulado, mas não angustiado; perplexo, mas não desanimado.",
       "reference": "2Co 4:8",
       "wrongs": [
-        "Sim. A aflição o derruba, e ele não se levanta.",
-        "Sim. Ele fica preso, sem nenhuma saída.",
-        "Não. Ele não sofre aperto nenhum."
+        "Sim. Ele é atribulado e também angustiado.",
+        "Sim. Ele fica perplexo e desanimado.",
+        "Não. Ele não é atribulado em nada."
       ]
     },
     {
@@ -201,8 +201,8 @@
       "chapter": 4,
       "verseStart": 17,
       "kind": "curiosity",
-      "prompt": "O que a aflição leve de agora produz?",
-      "answer": "Um peso de glória que dura para sempre.",
+      "prompt": "O que a leve tribulação de agora produz, segundo Paulo?",
+      "answer": "Um peso eterno de glória mui excelente.",
       "reference": "2Co 4:17",
       "wrongs": [
         "Uma culpa que só aumenta com o tempo.",
@@ -231,8 +231,8 @@
       "chapter": 5,
       "verseStart": 1,
       "kind": "curiosity",
-      "prompt": "Que casa resta se a tenda da terra se desfizer?",
-      "answer": "Uma morada eterna no céu, de Deus, sem mão humana.",
+      "prompt": "Que casa Paulo diz que resta se o tabernáculo da terra se desfizer?",
+      "answer": "Um edifício de Deus, casa não feita por mãos, eterna, nos céus.",
       "reference": "2Co 5:1",
       "wrongs": [
         "Outra tenda na terra, feita por pedreiros.",
@@ -261,12 +261,12 @@
       "chapter": 6,
       "verseStart": 14,
       "kind": "subject",
-      "prompt": "Quem crê pode puxar a mesma canga com quem não crê?",
-      "answer": "Não. Justiça não faz par com injustiça.",
+      "prompt": "Paulo permite um jugo desigual com os infiéis?",
+      "answer": "Não. A justiça não tem sociedade com a injustiça.",
       "reference": "2Co 6:14",
       "wrongs": [
-        "Sim. A fé e a incredulidade caminham juntas.",
-        "Sim. O crente deve imitar quem não crê.",
+        "Sim. A justiça e a injustiça caminham juntas.",
+        "Sim. O crente deve imitar o infiel.",
         "Não. Os dois já são um só povo."
       ]
     },
@@ -292,12 +292,12 @@
       "verseStart": 2,
       "kind": "curiosity",
       "prompt": "Que tempo Paulo diz que é agora?",
-      "answer": "O dia da salvação, a hora em que Deus atende.",
+      "answer": "O tempo aceitável e o dia da salvação.",
       "reference": "2Co 6:2",
       "wrongs": [
-        "O dia da vingança, a hora em que Roma cai.",
-        "O sábado eterno, a hora em que a lei cessa.",
-        "O ano do jubileu, a hora de recuperar a terra."
+        "O dia da vingança e a hora em que Roma cai.",
+        "O sábado eterno e a hora em que a lei cessa.",
+        "O ano do jubileu e a hora de recuperar a terra."
       ]
     },
     {
@@ -307,10 +307,10 @@
       "verseStart": 10,
       "kind": "subject",
       "prompt": "A tristeza que vem de Deus e a do mundo dão no mesmo?",
-      "answer": "Não. A de Deus leva a uma mudança que salva; a do mundo, à morte.",
+      "answer": "Não. A de Deus opera arrependimento para a salvação; a do mundo, a morte.",
       "reference": "2Co 7:10",
       "wrongs": [
-        "Sim. As duas terminam em desespero.",
+        "Sim. As duas operam a morte.",
         "Sim. A do mundo salva, e a de Deus mata.",
         "Não. As duas são inúteis e não mudam nada."
       ]
@@ -398,12 +398,12 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "A doação é julgada pelo que a pessoa não tem?",
-      "answer": "Não. Se há boa vontade, vale o que ela tem.",
+      "answer": "Não. Se há prontidão de vontade, vale o que a pessoa tem.",
       "reference": "2Co 8:12",
       "wrongs": [
-        "Sim. Deus cobra também o que falta.",
+        "Sim. Deus cobra também o que a pessoa não tem.",
         "Sim. Só vale a oferta grande, de quem é rico.",
-        "Não. A boa vontade dispensa qualquer oferta."
+        "Não. A prontidão dispensa qualquer oferta."
       ]
     },
     {
@@ -413,12 +413,12 @@
       "verseStart": 7,
       "kind": "subject",
       "prompt": "Como a oferta agrada a Deus?",
-      "answer": "Quando a pessoa dá com alegria, de coração, sem tristeza nem obrigação.",
+      "answer": "Segundo o coração, sem tristeza nem necessidade, com alegria.",
       "reference": "2Co 9:7",
       "wrongs": [
-        "Quando a pessoa dá por vergonha, diante dos outros.",
-        "Quando a pessoa dá para receber o dobro de volta.",
-        "Quando a pessoa dá o que dói, mesmo sem querer."
+        "Com tristeza, diante dos outros, por necessidade.",
+        "Para receber o dobro, mesmo sem alegria.",
+        "O que dói, por necessidade, sem o coração."
       ]
     },
     {
@@ -442,11 +442,11 @@
       "chapter": 9,
       "verseStart": 6,
       "kind": "curiosity",
-      "prompt": "Quem planta pouco colhe quanto?",
-      "answer": "Pouco. Quem planta bastante também colhe bastante.",
+      "prompt": "Quem semeia pouco ceifa quanto, segundo Paulo?",
+      "answer": "Pouco. Quem semeia em abundância também ceifa em abundância.",
       "reference": "2Co 9:6",
       "wrongs": [
-        "Muito. A colheita não depende do que se planta.",
+        "Muito. A ceifa não depende do que se semeia.",
         "Nada. A terra devolve só o que Deus quer, sem regra.",
         "O mesmo que o vizinho, seja qual for a semente."
       ]
@@ -457,8 +457,8 @@
       "chapter": 10,
       "verseStart": 4,
       "kind": "subject",
-      "prompt": "As armas da batalha de Paulo são humanas?",
-      "answer": "Não. São fortes em Deus e derrubam fortalezas.",
+      "prompt": "As armas da milícia de Paulo são carnais?",
+      "answer": "Não. São poderosas em Deus, para destruição das fortalezas.",
       "reference": "2Co 10:4",
       "wrongs": [
         "Sim. São espadas, lanças e muros de cidade.",
@@ -473,11 +473,11 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "O que diziam das cartas de Paulo e da presença dele?",
-      "answer": "As cartas pesavam e eram fortes; o corpo era fraco e a fala sem valor.",
+      "answer": "As cartas são graves e fortes; o corpo é fraco, e a palavra desprezível.",
       "reference": "2Co 10:10",
       "wrongs": [
-        "As cartas eram leves; o corpo impunha medo e a fala arrastava.",
-        "As cartas e a presença tinham o mesmo peso.",
+        "As cartas são leves; o corpo impõe medo e a palavra arrasta.",
+        "As cartas e a presença têm o mesmo peso.",
         "Ninguém comentava as cartas nem a presença dele."
       ]
     },
@@ -578,7 +578,7 @@
       "verseStart": 9,
       "kind": "subject",
       "prompt": "O que Paulo ouviu sobre graça e fraqueza?",
-      "answer": "A graça basta, e o poder fica completo na fraqueza.",
+      "answer": "A graça basta, porque o poder se aperfeiçoa na fraqueza.",
       "reference": "2Co 12:9",
       "wrongs": [
         "A força humana basta, e a fraqueza atrapalha.",
@@ -608,7 +608,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "O que foi dado a Paulo para ele não se encher de orgulho?",
-      "answer": "Um espinho na carne, um enviado de Satanás, para o atormentar.",
+      "answer": "Um espinho na carne, um mensageiro de Satanás, para o esbofetear.",
       "reference": "2Co 12:7",
       "wrongs": [
         "Uma coroa de ouro, para lembrar a visão.",
@@ -637,7 +637,7 @@
       "chapter": 13,
       "verseStart": 5,
       "kind": "subject",
-      "prompt": "O que a igreja deve examinar em si?",
+      "prompt": "O que Paulo diz que a igreja deve examinar em si?",
       "answer": "Se está na fé, e se Jesus Cristo está nela.",
       "reference": "2Co 13:5",
       "wrongs": [

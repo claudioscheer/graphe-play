@@ -277,7 +277,7 @@
       "verseStart": 12,
       "kind": "place",
       "prompt": "Onde os apóstolos se reuniam com o povo em Jerusalém?",
-      "answer": "No pórtico de Salomão.",
+      "answer": "No alpendre de Salomão.",
       "reference": "At 5:12",
       "wrongs": [
         "Na porta Formosa.",
@@ -307,7 +307,7 @@
       "verseStart": 12,
       "kind": "subject",
       "prompt": "O que fizeram com Estêvão em Jerusalém?",
-      "answer": "Prenderam-no e o levaram ao conselho.",
+      "answer": "Arrebataram-no e o levaram ao conselho.",
       "reference": "At 6:12",
       "wrongs": [
         "Apedrejaram-no na mesma hora.",
@@ -337,7 +337,7 @@
       "verseStart": 9,
       "kind": "place",
       "prompt": "De que sinagoga saíram os que discutiam com Estêvão?",
-      "answer": "Da sinagoga dos libertos.",
+      "answer": "Da sinagoga dos libertinos.",
       "reference": "At 6:9",
       "wrongs": [
         "Da sinagoga de Damasco.",
@@ -564,7 +564,7 @@
       "verseStart": 1,
       "kind": "name",
       "prompt": "Qual era o ofício de Cornélio em Cesareia?",
-      "answer": "Centurião do esquadrão Italiano.",
+      "answer": "Centurião da coorte italiana.",
       "reference": "At 10:1",
       "wrongs": [
         "Tribuno da guarda do templo.",
@@ -669,7 +669,7 @@
       "verseStart": 7,
       "kind": "subject",
       "prompt": "Quem libertou Pedro da prisão de Herodes?",
-      "answer": "Um anjo, que soltou as correntes de Pedro.",
+      "answer": "Um anjo, e as cadeias caíram das mãos dele.",
       "reference": "At 12:7",
       "wrongs": [
         "Os irmãos, que subornaram os guardas.",
@@ -714,7 +714,7 @@
       "verseStart": 23,
       "kind": "curiosity",
       "prompt": "Como morreu o rei Herodes que prendeu Pedro?",
-      "answer": "Um anjo o feriu, e os vermes o consumiram.",
+      "answer": "Um anjo o feriu, e ele foi comido de bichos.",
       "reference": "At 12:23",
       "wrongs": [
         "Caiu da tribuna e quebrou o pescoço.",
@@ -849,7 +849,7 @@
       "verseStart": 29,
       "kind": "subject",
       "prompt": "O que a carta dos apóstolos pediu que os gentios evitassem, em Atos?",
-      "answer": "Ídolos, sangue, carne sufocada e imoralidade sexual.",
+      "answer": "Coisas sacrificadas a ídolos, sangue, carne sufocada e fornicação.",
       "reference": "At 15:29",
       "wrongs": [
         "Circuncisão, sábado e dízimo do templo.",
@@ -1014,7 +1014,7 @@
       "verseStart": 23,
       "kind": "curiosity",
       "prompt": "O que Paulo leu num altar em Atenas?",
-      "answer": "Uma dedicatória ao Deus que a cidade não conhecia.",
+      "answer": "Ao Deus desconhecido.",
       "reference": "At 17:23",
       "wrongs": [
         "Uma lista dos deuses da cidade.",
@@ -1134,7 +1134,7 @@
       "verseStart": 19,
       "kind": "curiosity",
       "prompt": "O que aconteceu com os livros de magia em Éfeso?",
-      "answer": "Foram queimados, e o preço somava cinquenta mil em prata.",
+      "answer": "Foram queimados, e o preço somava cinquenta mil peças de prata.",
       "reference": "At 19:19",
       "wrongs": [
         "Foram vendidos, e o lucro ficou com Paulo.",
@@ -1209,7 +1209,7 @@
       "verseStart": 30,
       "kind": "subject",
       "prompt": "O que a multidão fez com Paulo no templo de Jerusalém?",
-      "answer": "Tirou-o para fora e fechou as portas.",
+      "answer": "Arrastaram-no para fora e fecharam as portas.",
       "reference": "At 21:30",
       "wrongs": [
         "Entregou-o aos sacerdotes, dentro do pátio.",
@@ -1331,7 +1331,7 @@
       "verseEnd": 24,
       "kind": "subject",
       "prompt": "Para onde mandaram levar Paulo de noite, sob escolta?",
-      "answer": "A Cesareia, ao governador Félix.",
+      "answer": "A Cesareia, ao presidente Félix.",
       "reference": "At 23:23-24",
       "wrongs": [
         "A Jerusalém, ao sinédrio reunido.",
@@ -1587,7 +1587,7 @@
       "verseStart": 1,
       "kind": "name",
       "prompt": "Quem era o centurião da viagem de Paulo à Itália?",
-      "answer": "Júlio, da guarda imperial.",
+      "answer": "Júlio, da coorte augusta.",
       "reference": "At 27:1",
       "wrongs": [
         "Cornélio, do esquadrão Italiano.",
@@ -1679,11 +1679,11 @@
       "verseEnd": 5,
       "kind": "curiosity",
       "prompt": "O que Paulo fez quando a víbora mordeu a mão dele em Malta?",
-      "answer": "Sacudiu a cobra para o fogo e não se machucou.",
+      "answer": "Sacudiu a víbora no fogo e não sofreu mal.",
       "reference": "At 28:3-5",
       "wrongs": [
         "Cortou a mão para não morrer.",
-        "Matou a cobra com uma pedra e inchou.",
+        "Matou a víbora com uma pedra e inchou.",
         "Pediu óleo e ficou de cama."
       ]
     },

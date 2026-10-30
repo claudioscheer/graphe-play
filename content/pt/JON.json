@@ -6,7 +6,7 @@
       "chapter": 1,
       "verseStart": 3,
       "kind": "subject",
-      "prompt": "Para onde Jonas fugiu?",
+      "prompt": "Para onde Jonas fugiu, em vez de ir a Nínive?",
       "answer": "Para Társis, longe da presença do Senhor.",
       "reference": "Jn 1:3",
       "wrongs": [
@@ -82,7 +82,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "De onde Jonas orou ao Senhor?",
-      "answer": "Do ventre do peixe.",
+      "answer": "Das entranhas do peixe.",
       "reference": "Jn 2:1",
       "wrongs": [
         "Do convés do navio.",
@@ -97,7 +97,7 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "O que o peixe fez com Jonas?",
-      "answer": "Devolveu Jonas em terra seca.",
+      "answer": "Vomitou Jonas na terra seca.",
       "reference": "Jn 2:10",
       "wrongs": [
         "Levando Jonas até Nínive.",
@@ -127,7 +127,7 @@
       "verseStart": 5,
       "kind": "subject",
       "prompt": "Como Nínive reagiu à mensagem?",
-      "answer": "O povo creu em Deus e se arrependeu.",
+      "answer": "Creu em Deus, jejuou e vestiu saco.",
       "reference": "Jn 3:5",
       "wrongs": [
         "O povo riu e expulsou Jonas.",
@@ -172,7 +172,7 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "O que Deus fez ao ver o arrependimento de Nínive?",
-      "answer": "Não trouxe a destruição anunciada.",
+      "answer": "Arrependeu-se do mal anunciado e não o fez.",
       "reference": "Jn 3:10",
       "wrongs": [
         "Destruiu a cidade mesmo assim.",
@@ -186,7 +186,7 @@
       "chapter": 4,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "Por que Jonas ficou irritado?",
+      "prompt": "Por que Jonas se irritou com o que Deus fez a Nínive?",
       "answer": "Porque Deus poupou Nínive.",
       "reference": "Jn 4:1",
       "wrongs": [
@@ -202,7 +202,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "O que Deus preparou para sombrear Jonas?",
-      "answer": "Uma planta.",
+      "answer": "Uma aboboreira.",
       "reference": "Jn 4:6",
       "wrongs": [
         "Uma nuvem.",
@@ -232,7 +232,7 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "De quem Deus teve compaixão em Nínive?",
-      "answer": "De muita gente que não distinguia o bem do mal.",
+      "answer": "De mais de cento e vinte mil que não discernem a direita da esquerda.",
       "reference": "Jn 4:11",
       "wrongs": [
         "Só do rei e dos soldados, que sabiam o caminho.",

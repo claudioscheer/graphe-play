@@ -6,8 +6,8 @@
       "chapter": 1,
       "verseStart": 14,
       "kind": "subject",
-      "prompt": "O que a Palavra fez ao vir para as pessoas?",
-      "answer": "Tornou-se humana e viveu entre o povo.",
+      "prompt": "O que o Verbo fez ao vir ao mundo?",
+      "answer": "Fez-se carne e habitou entre nós.",
       "reference": "Jo 1:14",
       "wrongs": [
         "Ficou só no céu e enviou um anjo.",
@@ -143,7 +143,7 @@
       "verseEnd": 2,
       "kind": "name",
       "prompt": "Quem foi conversar com Jesus de noite?",
-      "answer": "Nicodemos, um líder dos judeus.",
+      "answer": "Nicodemos, príncipe dos judeus.",
       "reference": "Jo 3:1-2",
       "wrongs": [
         "José de Arimateia, um homem rico.",
@@ -204,7 +204,7 @@
       "verseStart": 46,
       "kind": "name",
       "prompt": "Quem tinha um filho doente em Cafarnaum?",
-      "answer": "Um nobre.",
+      "answer": "Um oficial do rei.",
       "reference": "Jo 4:46",
       "wrongs": [
         "Um centurião.",
@@ -248,13 +248,13 @@
       "chapter": 5,
       "verseStart": 8,
       "kind": "subject",
-      "prompt": "O que Jesus mandou ao doente do tanque em Jerusalém?",
-      "answer": "Que se levantasse, pegasse a cama e andasse.",
+      "prompt": "O que Jesus fez pelo doente do tanque em Jerusalém?",
+      "answer": "Curou-o e mandou que se levantasse, tomasse o leito e andasse.",
       "reference": "Jo 5:8",
       "wrongs": [
         "Que esperasse a água se mover.",
         "Que pedisse esmola na porta.",
-        "Que voltasse para casa sem a cama."
+        "Que voltasse para casa sem o leito."
       ]
     },
     {
@@ -324,7 +324,7 @@
       "verseStart": 1,
       "kind": "place",
       "prompt": "Como João também chama o mar da Galileia?",
-      "answer": "Mar de Tibérias.",
+      "answer": "Mar de Tiberíades.",
       "reference": "Jo 6:1",
       "wrongs": [
         "Mar Morto.",
@@ -353,7 +353,7 @@
       "chapter": 7,
       "verseStart": 37,
       "kind": "subject",
-      "prompt": "O que Jesus gritou no último dia da festa?",
+      "prompt": "O que Jesus gritou no último dia da festa dos Tabernáculos?",
       "answer": "Que quem tivesse sede viesse a ele beber.",
       "reference": "Jo 7:37",
       "wrongs": [
@@ -384,7 +384,7 @@
       "chapter": 7,
       "verseStart": 14,
       "kind": "place",
-      "prompt": "Onde Jesus ensinou no meio da festa?",
+      "prompt": "Onde Jesus ensinou no meio da festa dos Tabernáculos?",
       "answer": "No templo.",
       "reference": "Jo 7:14",
       "wrongs": [
@@ -460,7 +460,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "O que Jesus fazia no chão enquanto acusavam a mulher?",
-      "answer": "Rabiscava o chão com o dedo.",
+      "answer": "Escrevia com o dedo na terra.",
       "reference": "Jo 8:6",
       "wrongs": [
         "Lia em voz alta a acusação.",
@@ -505,12 +505,12 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "Com o que Jesus untou os olhos do cego de nascença?",
-      "answer": "Com lama feita de terra e saliva.",
+      "answer": "Com lodo feito de terra e saliva.",
       "reference": "Jo 9:6",
       "wrongs": [
         "Com óleo da lâmpada do templo.",
         "Com água pura do tanque.",
-        "Com um pano limpo, sem lama."
+        "Com um pano limpo, sem lodo."
       ]
     },
     {
@@ -549,7 +549,7 @@
       "chapter": 10,
       "verseStart": 41,
       "kind": "name",
-      "prompt": "Quem os visitantes disseram ter falado a verdade sobre Jesus?",
+      "prompt": "Quem, além do Jordão, disseram ter falado a verdade sobre Jesus?",
       "answer": "João.",
       "reference": "Jo 10:41",
       "wrongs": [
@@ -564,8 +564,8 @@
       "chapter": 10,
       "verseStart": 23,
       "kind": "place",
-      "prompt": "Por onde Jesus passeava dentro do templo?",
-      "answer": "Na entrada de Salomão.",
+      "prompt": "Por onde Jesus passeava no templo na festa da renovação?",
+      "answer": "No alpendre de Salomão.",
       "reference": "Jo 10:23",
       "wrongs": [
         "No pátio das mulheres.",
@@ -730,7 +730,7 @@
       "verseStart": 26,
       "kind": "name",
       "prompt": "A quem Jesus deu o pedaço de pão molhado?",
-      "answer": "A Judas, filho de Simão Iscariotes.",
+      "answer": "A Judas Iscariotes, filho de Simão.",
       "reference": "Jo 13:26",
       "wrongs": [
         "A Pedro, filho de Jonas.",
@@ -835,7 +835,7 @@
       "verseStart": 5,
       "kind": "subject",
       "prompt": "O que os discípulos são, se Jesus é a videira?",
-      "answer": "Os ramos, e sem ele nada conseguem fazer.",
+      "answer": "As varas, e sem ele nada conseguem fazer.",
       "reference": "Jo 15:5",
       "wrongs": [
         "O tronco, e o fruto nasce sem ele.",
@@ -865,7 +865,7 @@
       "verseStart": 15,
       "kind": "curiosity",
       "prompt": "Como Jesus passou a chamar os discípulos?",
-      "answer": "De amigos, e não mais de empregados.",
+      "answer": "De amigos, e não mais de servos.",
       "reference": "Jo 15:15",
       "wrongs": [
         "De servos, e não mais de irmãos.",
@@ -925,7 +925,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "O que é a vida eterna, na oração de Jesus?",
-      "answer": "Conhecer a Deus de verdade e aquele que ele enviou.",
+      "answer": "Conhecer o único Deus verdadeiro e a Jesus Cristo, a quem ele enviou.",
       "reference": "Jo 17:3",
       "wrongs": [
         "Guardar o sábado sem falhar um dia.",
@@ -954,7 +954,7 @@
       "chapter": 17,
       "verseStart": 20,
       "kind": "curiosity",
-      "prompt": "Por quem mais Jesus orou, além dos que estavam ali?",
+      "prompt": "Por quem mais Jesus orou em João 17, além dos discípulos?",
       "answer": "Pelos que ainda haveriam de crer.",
       "reference": "Jo 17:20",
       "wrongs": [
@@ -1000,7 +1000,7 @@
       "verseStart": 28,
       "kind": "place",
       "prompt": "Para onde levaram Jesus ao sair de Caifás?",
-      "answer": "Ao tribunal.",
+      "answer": "À audiência.",
       "reference": "Jo 18:28",
       "wrongs": [
         "De volta à casa de Anás.",
@@ -1015,7 +1015,7 @@
       "verseStart": 40,
       "kind": "curiosity",
       "prompt": "Quem a multidão pediu no lugar de Jesus?",
-      "answer": "Barrabás, um ladrão.",
+      "answer": "Barrabás, um salteador.",
       "reference": "Jo 18:40",
       "wrongs": [
         "Pedro, ainda armado.",
@@ -1090,12 +1090,12 @@
       "verseStart": 28,
       "kind": "subject",
       "prompt": "O que Tomé declarou ao ver Jesus ressuscitado?",
-      "answer": "Que Jesus era o Deus dele.",
+      "answer": "Senhor meu e Deus meu.",
       "reference": "Jo 20:28",
       "wrongs": [
-        "Que Jesus era só um fantasma.",
-        "Que ainda precisava de outro sinal.",
-        "Que Pedro devia confirmar primeiro."
+        "Só um fantasma, e não o Senhor.",
+        "Ainda preciso de outro sinal.",
+        "Pedro deve confirmar primeiro."
       ]
     },
     {
@@ -1135,7 +1135,7 @@
       "verseStart": 25,
       "kind": "curiosity",
       "prompt": "O que Tomé exigiu ver para crer?",
-      "answer": "A marca dos pregos e a ferida do lado.",
+      "answer": "O sinal dos cravos e o lado.",
       "reference": "Jo 20:25",
       "wrongs": [
         "O rosto e a voz, sem as chagas.",
@@ -1180,7 +1180,7 @@
       "verseStart": 1,
       "kind": "place",
       "prompt": "Junto a qual mar Jesus apareceu de novo?",
-      "answer": "Ao mar de Tibérias.",
+      "answer": "Ao mar de Tiberíades.",
       "reference": "Jo 21:1",
       "wrongs": [
         "Ao mar Morto.",

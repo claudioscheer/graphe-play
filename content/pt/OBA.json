@@ -6,7 +6,7 @@
       "chapter": 1,
       "verseStart": 10,
       "kind": "subject",
-      "prompt": "Por que Edom fica coberto de vergonha?",
+      "prompt": "Por que Edom fica coberto de vergonha, em Obadias?",
       "answer": "Pela violência feita ao irmão Jacó.",
       "reference": "Ob 1:10",
       "wrongs": [
@@ -36,7 +36,7 @@
       "chapter": 1,
       "verseStart": 17,
       "kind": "place",
-      "prompt": "Onde o povo de Jacó encontra livramento?",
+      "prompt": "Onde o povo de Jacó encontra livramento, em Obadias?",
       "answer": "No monte Sião.",
       "reference": "Ob 1:17",
       "wrongs": [

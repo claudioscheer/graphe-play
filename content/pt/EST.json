@@ -382,7 +382,7 @@
       "verseStart": 9,
       "kind": "name",
       "prompt": "Quem revelou ao rei a forca de Hamã?",
-      "answer": "Harbona, um dos eunucos.",
+      "answer": "Harbona, um dos camareiros.",
       "reference": "Et 7:9",
       "wrongs": [
         "Zeres, a mulher de Hamã.",
@@ -412,7 +412,7 @@
       "verseStart": 8,
       "kind": "curiosity",
       "prompt": "Onde estava Hamã quando o rei voltou?",
-      "answer": "No divã em que Ester se achava.",
+      "answer": "Sobre o leito em que Ester estava.",
       "reference": "Et 7:8",
       "wrongs": [
         "No jardim, aos pés do rei.",
@@ -457,7 +457,7 @@
       "verseStart": 9,
       "kind": "place",
       "prompt": "De onde até onde se estendia o reino no novo decreto, em Ester?",
-      "answer": "Da Índia até Cuxe.",
+      "answer": "Da Índia até a Etiópia.",
       "reference": "Et 8:9",
       "wrongs": [
         "Do Egito até a Assíria.",
@@ -577,7 +577,7 @@
       "verseStart": 2,
       "kind": "curiosity",
       "prompt": "Onde ficou registrada a grandeza de Mardoqueu?",
-      "answer": "No livro oficial dos reis medos e persas.",
+      "answer": "No livro das crônicas dos reis da Média e da Pérsia.",
       "reference": "Et 10:2",
       "wrongs": [
         "Só na memória do povo de Susã.",

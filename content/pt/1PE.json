@@ -21,7 +21,7 @@
       "chapter": 1,
       "verseStart": 1,
       "kind": "name",
-      "prompt": "Quem escreveu aos forasteiros do Ponto e da Galácia?",
+      "prompt": "Quem escreveu aos estrangeiros dispersos no Ponto e na Galácia?",
       "answer": "Pedro, apóstolo de Jesus Cristo.",
       "reference": "1Pe 1:1",
       "wrongs": [
@@ -36,7 +36,7 @@
       "chapter": 1,
       "verseStart": 1,
       "kind": "place",
-      "prompt": "Onde estavam os forasteiros a quem Pedro escreveu?",
+      "prompt": "Onde estavam os estrangeiros a quem Pedro escreveu?",
       "answer": "No Ponto, na Galácia, na Capadócia, na Ásia e na Bitínia.",
       "reference": "1Pe 1:1",
       "wrongs": [
@@ -52,7 +52,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "O que vale menos do que a prova da fé?",
-      "answer": "O ouro, que se acaba mesmo no fogo.",
+      "answer": "O ouro, que perece e é provado pelo fogo.",
       "reference": "1Pe 1:7",
       "wrongs": [
         "A prata, guardada no templo.",
@@ -67,7 +67,7 @@
       "verseStart": 9,
       "kind": "subject",
       "prompt": "Qual identidade Pedro dá a quem crê?",
-      "answer": "Geração escolhida, sacerdócio real, nação santa e povo adquirido.",
+      "answer": "Geração eleita, sacerdócio real, nação santa e povo adquirido.",
       "reference": "1Pe 2:9",
       "wrongs": [
         "Povo sem lei, sacerdócio acabado, nação qualquer e gente esquecida.",
@@ -171,8 +171,8 @@
       "chapter": 3,
       "verseStart": 21,
       "kind": "curiosity",
-      "prompt": "O que é o batismo, para além da limpeza do corpo?",
-      "answer": "Um pedido de boa consciência diante de Deus.",
+      "prompt": "O que Pedro diz que o batismo é, além da limpeza da carne?",
+      "answer": "A indagação de uma boa consciência para com Deus.",
       "reference": "1Pe 3:21",
       "wrongs": [
         "Um banho que lava a sujeira do corpo.",
@@ -202,7 +202,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "O que Pedro diz que está perto?",
-      "answer": "O final de todas as coisas.",
+      "answer": "O fim de todas as coisas.",
       "reference": "1Pe 4:7",
       "wrongs": [
         "O reinado de um novo César.",
@@ -216,7 +216,7 @@
       "chapter": 4,
       "verseStart": 8,
       "kind": "curiosity",
-      "prompt": "O que o amor intenso cobre?",
+      "prompt": "O que o amor ardente cobre, segundo Pedro?",
       "answer": "Uma multidão de pecados.",
       "reference": "1Pe 4:8",
       "wrongs": [
@@ -231,12 +231,12 @@
       "chapter": 5,
       "verseStart": 2,
       "kind": "subject",
-      "prompt": "Como os anciãos devem cuidar do rebanho de Deus?",
-      "answer": "De livre vontade, sem obrigação e sem ganância.",
+      "prompt": "Como os anciãos devem cuidar do rebanho, em 1 Pedro?",
+      "answer": "Voluntariamente, não por força nem por torpe ganância.",
       "reference": "1Pe 5:2",
       "wrongs": [
-        "Por obrigação, e de olho no lucro.",
-        "Com mão dura, como donos do rebanho.",
+        "Por força, e de olho na torpe ganância.",
+        "Como donos do rebanho, por força.",
         "De longe, deixando o rebanho por conta própria."
       ]
     },
@@ -277,7 +277,7 @@
       "verseStart": 8,
       "kind": "curiosity",
       "prompt": "Com qual animal Pedro compara o diabo?",
-      "answer": "Com um leão que ruge e procura quem devorar.",
+      "answer": "Com um leão que brama, buscando a quem tragar.",
       "reference": "1Pe 5:8",
       "wrongs": [
         "Com uma serpente quieta no jardim.",

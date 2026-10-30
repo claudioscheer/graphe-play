@@ -142,7 +142,7 @@
       "verseStart": 15,
       "kind": "curiosity",
       "prompt": "Quem ferirá a cabeça da serpente, em Gênesis?",
-      "answer": "A descendência da mulher.",
+      "answer": "A semente da mulher.",
       "reference": "Gn 3:15",
       "wrongs": [
         "A própria serpente.",
@@ -292,7 +292,7 @@
       "verseStart": 7,
       "kind": "subject",
       "prompt": "Quem entrou na arca com Noé?",
-      "answer": "Sua família, com os animais.",
+      "answer": "Sua família.",
       "reference": "Gn 7:7",
       "wrongs": [
         "Toda a cidade, com os rebanhos.",
@@ -397,7 +397,7 @@
       "verseStart": 18,
       "kind": "name",
       "prompt": "Quem foram os três filhos de Noé?",
-      "answer": "Sem, Cam e Jafé.",
+      "answer": "Sem, Cão e Jafé.",
       "reference": "Gn 9:18",
       "wrongs": [
         "Sem, Ló e Jafé.",
@@ -681,7 +681,7 @@
       "chapter": 16,
       "verseStart": 7,
       "kind": "place",
-      "prompt": "Onde o anjo achou Agar?",
+      "prompt": "Onde o anjo achou Agar, quando ela fugiu de Sarai?",
       "answer": "Junto à fonte no caminho de Sur.",
       "reference": "Gn 16:7",
       "wrongs": [
@@ -846,7 +846,7 @@
       "chapter": 20,
       "verseStart": 2,
       "kind": "name",
-      "prompt": "Quem era o rei de Gerar?",
+      "prompt": "Quem era o rei de Gerar quando Abraão chegou?",
       "answer": "Abimeleque.",
       "reference": "Gn 20:2",
       "wrongs": [
@@ -891,7 +891,7 @@
       "chapter": 21,
       "verseStart": 31,
       "kind": "place",
-      "prompt": "Como se chamou o poço do juramento, em Gênesis?",
+      "prompt": "Como se chamou o poço do juramento de Abraão?",
       "answer": "Berseba.",
       "reference": "Gn 21:31",
       "wrongs": [
@@ -922,7 +922,7 @@
       "verseStart": 13,
       "kind": "subject",
       "prompt": "O que foi oferecido no lugar de Isaque?",
-      "answer": "Um carneiro preso num arbusto.",
+      "answer": "Um carneiro travado num mato.",
       "reference": "Gn 22:13",
       "wrongs": [
         "Um cordeiro trazido de casa.",
@@ -967,7 +967,7 @@
       "verseStart": 19,
       "kind": "subject",
       "prompt": "Onde Abraão sepultou Sara?",
-      "answer": "Na caverna de Macpela, em Hebrom.",
+      "answer": "Na cova de Macpela, em Hebrom.",
       "reference": "Gn 23:19",
       "wrongs": [
         "No caminho de Efrata, em Belém.",
@@ -1102,7 +1102,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "O que Deus confirmou a Isaque?",
-      "answer": "A promessa feita a Abraão, seu pai.",
+      "answer": "O juramento feito a Abraão, seu pai.",
       "reference": "Gn 26:3",
       "wrongs": [
         "A aliança feita com Noé.",
@@ -1132,12 +1132,12 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "Quanto Isaque colheu no ano em que semeou em Gerar?",
-      "answer": "Cem por um.",
+      "answer": "Cem medidas.",
       "reference": "Gn 26:12",
       "wrongs": [
-        "Dez por um.",
-        "Trinta por um.",
-        "Sessenta por um."
+        "Dez medidas.",
+        "Trinta medidas.",
+        "Sessenta medidas."
       ]
     },
     {
@@ -1237,7 +1237,7 @@
       "verseStart": 25,
       "kind": "subject",
       "prompt": "Quem Labão deu a Jacó em lugar de Raquel?",
-      "answer": "Leia.",
+      "answer": "Lia.",
       "reference": "Gn 29:25",
       "wrongs": [
         "Bila.",
@@ -1252,7 +1252,7 @@
       "verseStart": 16,
       "kind": "name",
       "prompt": "Quem eram as filhas de Labão?",
-      "answer": "Leia e Raquel.",
+      "answer": "Lia e Raquel.",
       "reference": "Gn 29:16",
       "wrongs": [
         "Bila e Zilpa.",
@@ -1312,7 +1312,7 @@
       "verseStart": 22,
       "kind": "curiosity",
       "prompt": "O que Deus fez por Raquel, que ainda não tinha filho?",
-      "answer": "Lembrou-se dela, e ela teve um filho.",
+      "answer": "Lembrou-se dela e abriu a sua madre.",
       "reference": "Gn 30:22",
       "wrongs": [
         "Deu-lhe outra serva, e ela desistiu.",
@@ -1402,7 +1402,7 @@
       "verseStart": 24,
       "kind": "curiosity",
       "prompt": "Até quando Jacó lutou com o homem?",
-      "answer": "Até o romper do dia.",
+      "answer": "Até que a alva subiu.",
       "reference": "Gn 32:24",
       "wrongs": [
         "Até o meio-dia.",
@@ -1461,7 +1461,7 @@
       "chapter": 34,
       "verseStart": 1,
       "kind": "name",
-      "prompt": "Quem era a filha de Jacó e Leia?",
+      "prompt": "Quem era a filha de Jacó e Lia?",
       "answer": "Diná.",
       "reference": "Gn 34:1",
       "wrongs": [
@@ -1612,7 +1612,7 @@
       "verseStart": 3,
       "kind": "curiosity",
       "prompt": "O que Jacó deu de presente a José?",
-      "answer": "Uma túnica especial.",
+      "answer": "Uma túnica de várias cores.",
       "reference": "Gn 37:3",
       "wrongs": [
         "Um anel de ouro.",
@@ -1731,7 +1731,7 @@
       "chapter": 40,
       "verseStart": 8,
       "kind": "subject",
-      "prompt": "De quem são as interpretações, segundo José?",
+      "prompt": "De quem são as interpretações dos sonhos, segundo José na prisão?",
       "answer": "De Deus.",
       "reference": "Gn 40:8",
       "wrongs": [
@@ -1807,7 +1807,7 @@
       "verseStart": 45,
       "kind": "name",
       "prompt": "Que nome egípcio José recebeu?",
-      "answer": "Zafenate-Panéia.",
+      "answer": "Zafenate-Paneia.",
       "reference": "Gn 41:45",
       "wrongs": [
         "Potifar.",
@@ -1866,7 +1866,7 @@
       "chapter": 42,
       "verseStart": 6,
       "kind": "curiosity",
-      "prompt": "O que os irmãos fizeram diante de José?",
+      "prompt": "O que os irmãos fizeram diante de José na primeira viagem?",
       "answer": "Inclinaram-se até a terra.",
       "reference": "Gn 42:6",
       "wrongs": [
@@ -2167,7 +2167,7 @@
       "verseStart": 29,
       "kind": "place",
       "prompt": "Onde Jacó pediu para ser sepultado?",
-      "answer": "Na caverna com seus pais.",
+      "answer": "Na cova com seus pais.",
       "reference": "Gn 49:29",
       "wrongs": [
         "No Egito, junto a José.",
@@ -2197,7 +2197,7 @@
       "verseStart": 20,
       "kind": "curiosity",
       "prompt": "O que José disse do mal dos irmãos?",
-      "answer": "Deus o tinha tornado em bem.",
+      "answer": "Deus o intentou para bem.",
       "reference": "Gn 50:20",
       "wrongs": [
         "Deus o deixaria sem perdão.",
@@ -2227,7 +2227,7 @@
       "verseStart": 13,
       "kind": "place",
       "prompt": "Onde sepultaram Jacó?",
-      "answer": "Na caverna de Macpela.",
+      "answer": "Na cova de Macpela.",
       "reference": "Gn 50:13",
       "wrongs": [
         "No caminho de Efrata.",

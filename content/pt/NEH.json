@@ -7,7 +7,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "Como estava Jerusalém no relato feito a Neemias?",
-      "answer": "Com o muro rachado e as portas queimadas.",
+      "answer": "Com o muro fendido e as portas queimadas.",
       "reference": "Ne 1:3",
       "wrongs": [
         "Com o templo pronto e as portas de ouro.",
@@ -51,7 +51,7 @@
       "chapter": 1,
       "verseStart": 4,
       "kind": "curiosity",
-      "prompt": "O que Neemias fez ao ouvir as notícias?",
+      "prompt": "O que Neemias fez ao ouvir as notícias de Jerusalém?",
       "answer": "Chorou, jejuou e orou ao Deus dos céus.",
       "reference": "Ne 1:4",
       "wrongs": [
@@ -172,7 +172,7 @@
       "verseStart": 5,
       "kind": "curiosity",
       "prompt": "O que os mais ilustres de Tecoa não quiseram fazer?",
-      "answer": "Servir na obra do chefe deles.",
+      "answer": "Submeter a cerviz ao serviço do seu Senhor.",
       "reference": "Ne 3:5",
       "wrongs": [
         "Pagar o ouro do templo.",
@@ -381,7 +381,7 @@
       "chapter": 7,
       "verseStart": 2,
       "kind": "name",
-      "prompt": "Quem era o chefe fiel do palácio no tempo de Neemias?",
+      "prompt": "Quem era o líder fiel da fortaleza no tempo de Neemias?",
       "answer": "Hananias.",
       "reference": "Ne 7:2",
       "wrongs": [
@@ -457,7 +457,7 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "O que foi chamado de força do povo, em Neemias?",
-      "answer": "A alegria que vem de Deus.",
+      "answer": "A alegria do SENHOR.",
       "reference": "Ne 8:10",
       "wrongs": [
         "O muro recém-construído.",
@@ -471,13 +471,13 @@
       "chapter": 8,
       "verseStart": 17,
       "kind": "curiosity",
-      "prompt": "Desde que época Israel não fazia tendas assim?",
-      "answer": "Desde o tempo de Josué, filho de Num.",
+      "prompt": "Desde que época Israel não fazia tendas na festa, em Neemias?",
+      "answer": "Desde os dias de Jesua, filho de Num.",
       "reference": "Ne 8:17",
       "wrongs": [
-        "Desde o tempo de Moisés, no deserto.",
-        "Desde o tempo de Davi, em Sião.",
-        "Desde o tempo de Salomão, no templo."
+        "Desde os dias de Moisés, no deserto.",
+        "Desde os dias de Davi, em Sião.",
+        "Desde os dias de Salomão, no templo."
       ]
     },
     {
@@ -487,7 +487,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "O que Israel confessou no jejum depois de erguer o muro?",
-      "answer": "Seus pecados e as injustiças dos pais.",
+      "answer": "Seus pecados e as iniquidades dos pais.",
       "reference": "Ne 9:2",
       "wrongs": [
         "Só a falta de ouro para o templo.",
@@ -532,7 +532,7 @@
       "verseStart": 38,
       "kind": "curiosity",
       "prompt": "O que príncipes, levitas e sacerdotes selaram, em Neemias?",
-      "answer": "Uma aliança escrita e fiel.",
+      "answer": "Uma aliança firme, que escreveram.",
       "reference": "Ne 9:38",
       "wrongs": [
         "Um tratado de paz com Samaria.",
@@ -577,7 +577,7 @@
       "verseStart": 31,
       "kind": "curiosity",
       "prompt": "O que o povo prometeu não comprar no sábado, em Neemias?",
-      "answer": "Comida nem mercadoria dos povos vizinhos.",
+      "answer": "Mercadoria nem grão dos povos da terra.",
       "reference": "Ne 10:31",
       "wrongs": [
         "Lenha nem água dos levitas.",
@@ -652,7 +652,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "Quantos filhos de Perez moravam em Jerusalém?",
-      "answer": "478 homens valentes.",
+      "answer": "468 homens valentes.",
       "reference": "Ne 11:6",
       "wrongs": [
         "128 homens valentes.",
@@ -667,7 +667,7 @@
       "verseStart": 27,
       "kind": "subject",
       "prompt": "Como foi a dedicação dos muros de Jerusalém?",
-      "answer": "Com alegria, gratidão, cânticos e música.",
+      "answer": "Com alegria, louvores e canto.",
       "reference": "Ne 12:27",
       "wrongs": [
         "Em silêncio, com jejum e pano de saco.",
@@ -697,7 +697,7 @@
       "verseStart": 31,
       "kind": "place",
       "prompt": "Para que lado foi o primeiro coro no muro, em Neemias?",
-      "answer": "Pela direita, rumo à porta do Esterco.",
+      "answer": "Pela direita, rumo à porta do monturo.",
       "reference": "Ne 12:31",
       "wrongs": [
         "Pela esquerda, rumo à porta das Águas.",
@@ -727,7 +727,7 @@
       "verseStart": 30,
       "kind": "subject",
       "prompt": "O que Neemias fez com os estrangeiros no povo?",
-      "answer": "Separou-os e reordenou o serviço sagrado.",
+      "answer": "Limpou-os de todo estrangeiro e designou os cargos.",
       "reference": "Ne 13:30",
       "wrongs": [
         "Recebeu-os e deu-lhes salas no templo.",
@@ -757,7 +757,7 @@
       "verseStart": 7,
       "kind": "place",
       "prompt": "Onde Tobias tinha uma sala em Jerusalém?",
-      "answer": "Num cômodo nos pátios do templo.",
+      "answer": "Numa câmara nos pátios da casa de Deus.",
       "reference": "Ne 13:7",
       "wrongs": [
         "Num quarto do palácio do governador.",

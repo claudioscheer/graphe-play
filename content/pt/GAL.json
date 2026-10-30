@@ -7,7 +7,7 @@
       "verseStart": 8,
       "kind": "subject",
       "prompt": "O que Paulo diz de quem anunciar outro evangelho?",
-      "answer": "Que fique maldito, ainda que seja um anjo do céu.",
+      "answer": "Que seja anátema, ainda que seja um anjo do céu.",
       "reference": "Gl 1:8",
       "wrongs": [
         "Que seja ouvido, se for um anjo do céu.",
@@ -37,7 +37,7 @@
       "verseStart": 19,
       "kind": "name",
       "prompt": "Que outro apóstolo Paulo viu ao visitar Pedro em Jerusalém?",
-      "answer": "Somente Tiago, irmão de Jesus.",
+      "answer": "Somente Tiago, irmão do Senhor.",
       "reference": "Gl 1:19",
       "wrongs": [
         "Somente João, o discípulo amado.",
@@ -81,8 +81,8 @@
       "chapter": 2,
       "verseStart": 16,
       "kind": "subject",
-      "prompt": "De que modo a pessoa fica justa diante de Deus?",
-      "answer": "Pela fé em Jesus Cristo, e não por cumprir a lei.",
+      "prompt": "Como Paulo diz que a pessoa é justificada diante de Deus?",
+      "answer": "Pela fé em Jesus Cristo, e não pelas obras da lei.",
       "reference": "Gl 2:16",
       "wrongs": [
         "Pelas obras da lei, somadas à fé.",
@@ -142,7 +142,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "O que Tiago, Cefas e João estenderam a Paulo e Barnabé?",
-      "answer": "A mão direita, em sinal de parceria.",
+      "answer": "As destras, em comunhão.",
       "reference": "Gl 2:9",
       "wrongs": [
         "Uma carta, impondo a circuncisão.",
@@ -156,7 +156,7 @@
       "chapter": 3,
       "verseStart": 26,
       "kind": "subject",
-      "prompt": "Como alguém se torna filho de Deus?",
+      "prompt": "Como Paulo diz que alguém se torna filho de Deus?",
       "answer": "Pela fé em Cristo Jesus.",
       "reference": "Gl 3:26",
       "wrongs": [
@@ -171,7 +171,7 @@
       "chapter": 3,
       "verseStart": 6,
       "kind": "name",
-      "prompt": "Quem creu em Deus e isso lhe foi contado como justiça?",
+      "prompt": "Quem creu em Deus e isso lhe foi imputado como justiça?",
       "answer": "Abraão.",
       "reference": "Gl 3:6",
       "wrongs": [
@@ -201,8 +201,8 @@
       "chapter": 3,
       "verseStart": 13,
       "kind": "curiosity",
-      "prompt": "Como Cristo nos livrou da maldição da lei?",
-      "answer": "Tornando-se maldição, pendurado num madeiro.",
+      "prompt": "Como Cristo nos resgatou da maldição da lei?",
+      "answer": "Fazendo-se maldição por nós, pendurado no madeiro.",
       "reference": "Gl 3:13",
       "wrongs": [
         "Cumprindo a lei no lugar do povo, sem a cruz.",
@@ -217,7 +217,7 @@
       "verseStart": 5,
       "kind": "subject",
       "prompt": "Para que Deus enviou o Filho nascido de mulher?",
-      "answer": "Para libertar quem vivia sob a lei e nos adotar como filhos.",
+      "answer": "Para remir os que estavam debaixo da lei e recebermos a adoção de filhos.",
       "reference": "Gl 4:5",
       "wrongs": [
         "Para entregar uma lei nova, mais pesada que a antiga.",
@@ -292,7 +292,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "O que fazer com a liberdade que Cristo deu?",
-      "answer": "Ficar firme nela e não voltar à escravidão.",
+      "answer": "Ficar firme nela e não voltar ao jugo da servidão.",
       "reference": "Gl 5:1",
       "wrongs": [
         "Trocar a liberdade pela circuncisão.",
@@ -307,7 +307,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "O que vale em Cristo Jesus, e não a circuncisão?",
-      "answer": "A fé que age por meio do amor.",
+      "answer": "A fé que opera pelo amor.",
       "reference": "Gl 5:6",
       "wrongs": [
         "A circuncisão feita no oitavo dia.",
@@ -336,8 +336,8 @@
       "chapter": 5,
       "verseStart": 9,
       "kind": "curiosity",
-      "prompt": "O que um pouco de fermento faz com a massa?",
-      "answer": "Faz a massa inteira crescer.",
+      "prompt": "O que um pouco de fermento faz com a massa, segundo Paulo?",
+      "answer": "Leveda toda a massa.",
       "reference": "Gl 5:9",
       "wrongs": [
         "Não muda o restante da massa.",
@@ -397,7 +397,7 @@
       "verseStart": 17,
       "kind": "curiosity",
       "prompt": "O que Paulo diz que traz no corpo?",
-      "answer": "As marcas de Jesus.",
+      "answer": "As marcas do Senhor Jesus.",
       "reference": "Gl 6:17",
       "wrongs": [
         "A circuncisão, como prova da lei.",

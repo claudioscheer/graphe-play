@@ -6,8 +6,8 @@
       "chapter": 1,
       "verseStart": 6,
       "kind": "subject",
-      "prompt": "Em que Samaria vai ser transformada?",
-      "answer": "Em ruína no campo e em vinhas.",
+      "prompt": "Em que Miquéias diz que Samaria será transformada?",
+      "answer": "Num montão de pedras do campo e em terra de vinhas.",
       "reference": "Mq 1:6",
       "wrongs": [
         "Em capital mais forte e rica.",
@@ -52,7 +52,7 @@
       "verseStart": 8,
       "kind": "curiosity",
       "prompt": "Como Miquéias diz que vai chorar o desastre?",
-      "answer": "Descalço, nu, com uivo de chacal.",
+      "answer": "Despojado e nu, como chacais e avestruzes.",
       "reference": "Mq 1:8",
       "wrongs": [
         "Calado, sentado, com canto de festa.",
@@ -67,7 +67,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "O que os poderosos de Israel fazem com campos e casas, em Miquéias?",
-      "answer": "Cobiçam e tomam a terra e a moradia alheia.",
+      "answer": "Cobiçam os campos e os roubam, e arrebatam as casas.",
       "reference": "Mq 2:2",
       "wrongs": [
         "Compram e pagam o preço combinado.",
@@ -97,7 +97,7 @@
       "verseStart": 12,
       "kind": "place",
       "prompt": "Com ovelhas de qual lugar o rebanho é comparado, em Miquéias?",
-      "answer": "Com as de Bosra.",
+      "answer": "Com as de Bozra.",
       "reference": "Mq 2:12",
       "wrongs": [
         "Com as de Basã.",
@@ -157,7 +157,7 @@
       "verseStart": 5,
       "kind": "curiosity",
       "prompt": "Quando o profeta, em Miquéias, anuncia paz?",
-      "answer": "Quando ganha comida; se não, anuncia guerra.",
+      "answer": "Clama paz se algo lhe entra na boca; se não, prepara guerra.",
       "reference": "Mq 3:5",
       "wrongs": [
         "Quando o rei pede; se não, fica calado.",
@@ -172,7 +172,7 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "Por que juízes, sacerdotes e profetas de Miquéias julgam, ensinam e adivinham?",
-      "answer": "Por suborno, pagamento e dinheiro.",
+      "answer": "Por suborno, interesse e dinheiro.",
       "reference": "Mq 3:11",
       "wrongs": [
         "Por justiça, aliança e verdade.",
@@ -187,7 +187,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "Em que as nações vão transformar as armas, em Miquéias?",
-      "answer": "Em enxadas e foices, e acaba o treino de guerra.",
+      "answer": "Em pás e foices, e não aprendem mais a guerra.",
       "reference": "Mq 4:3",
       "wrongs": [
         "Em espadas e lanças, e começa o treino.",
@@ -307,7 +307,7 @@
       "verseStart": 8,
       "kind": "subject",
       "prompt": "O que Deus pede do ser humano em Miquéias?",
-      "answer": "Justiça, amor à bondade e um andar humilde.",
+      "answer": "Praticar a justiça, amar a benignidade e andar humildemente.",
       "reference": "Mq 6:8",
       "wrongs": [
         "Milhares de carneiros e rios de azeite.",
@@ -336,7 +336,7 @@
       "chapter": 6,
       "verseStart": 5,
       "kind": "place",
-      "prompt": "De Sitim, o caminho lembrado segue até onde?",
+      "prompt": "De Sitim, o caminho lembrado em Miquéias segue até onde?",
       "answer": "Até Gilgal.",
       "reference": "Mq 6:5",
       "wrongs": [
@@ -352,7 +352,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "Que ofertas enormes Miquéias põe em dúvida?",
-      "answer": "Milhares de carneiros e dez mil rios de azeite.",
+      "answer": "Milhares de carneiros e dez mil ribeiros de azeite.",
       "reference": "Mq 6:7",
       "wrongs": [
         "Um só cordeiro pequeno e um jarro de vinho.",
@@ -382,12 +382,12 @@
       "verseStart": 20,
       "kind": "name",
       "prompt": "A quem Deus guarda fidelidade e bondade, em Miquéias?",
-      "answer": "Fidelidade a Jacó e bondade a Abraão.",
+      "answer": "Fidelidade a Jacó e benignidade a Abraão.",
       "reference": "Mq 7:20",
       "wrongs": [
-        "Fidelidade a Esaú e bondade a Ló.",
-        "Fidelidade a Davi e bondade a Moisés.",
-        "Fidelidade a José e bondade a Arão."
+        "Fidelidade a Esaú e benignidade a Ló.",
+        "Fidelidade a Davi e benignidade a Moisés.",
+        "Fidelidade a José e benignidade a Arão."
       ]
     },
     {
@@ -412,7 +412,7 @@
       "verseStart": 19,
       "kind": "curiosity",
       "prompt": "Onde Deus joga os pecados do povo, em Miquéias?",
-      "answer": "No fundo do mar.",
+      "answer": "Nas profundezas do mar.",
       "reference": "Mq 7:19",
       "wrongs": [
         "No topo do monte.",

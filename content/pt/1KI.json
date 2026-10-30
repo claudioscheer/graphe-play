@@ -21,7 +21,7 @@
       "chapter": 1,
       "verseStart": 3,
       "kind": "name",
-      "prompt": "Que moça trouxeram ao rei Davi?",
+      "prompt": "Que moça trouxeram ao rei Davi na velhice?",
       "answer": "Abisague, a sunamita.",
       "reference": "1Rs 1:3",
       "wrongs": [
@@ -142,7 +142,7 @@
       "verseStart": 4,
       "kind": "place",
       "prompt": "Onde Salomão ofereceu mil holocaustos?",
-      "answer": "Em Gibeão, no principal lugar alto.",
+      "answer": "Em Gibeom, no alto maior.",
       "reference": "1Rs 3:4",
       "wrongs": [
         "Em Jerusalém, no monte Sião.",
@@ -216,7 +216,7 @@
       "chapter": 4,
       "verseStart": 26,
       "kind": "curiosity",
-      "prompt": "Quantos cavalos Salomão tinha para os carros, no relato de Reis?",
+      "prompt": "Quantas estrebarias de cavalos Salomão tinha para os carros?",
       "answer": "Quarenta mil, e também doze mil cavaleiros.",
       "reference": "1Rs 4:26",
       "wrongs": [
@@ -231,13 +231,13 @@
       "chapter": 4,
       "verseStart": 32,
       "kind": "curiosity",
-      "prompt": "Quantas parábolas Salomão compôs?",
-      "answer": "Três mil, além de mil e cinco versos.",
+      "prompt": "Quantos provérbios Salomão disse?",
+      "answer": "Três mil, além de mil e cinco cânticos.",
       "reference": "1Rs 4:32",
       "wrongs": [
-        "Mil, além de trezentos versos.",
-        "Quinhentas, além de cem versos.",
-        "Dez mil, além de dois mil versos."
+        "Mil, além de trezentos cânticos.",
+        "Quinhentos, além de cem cânticos.",
+        "Dez mil, além de dois mil cânticos."
       ]
     },
     {
@@ -247,7 +247,7 @@
       "verseStart": 12,
       "kind": "subject",
       "prompt": "O que Hirão e Salomão fizeram entre si?",
-      "answer": "Uma aliança, e houve paz entre os dois.",
+      "answer": "Um acordo, e houve paz entre os dois.",
       "reference": "1Rs 5:12",
       "wrongs": [
         "Uma guerra, e houve ruptura entre os dois.",
@@ -291,13 +291,13 @@
       "chapter": 5,
       "verseStart": 15,
       "kind": "curiosity",
-      "prompt": "Quantos carregadores e cortadores Salomão tinha?",
-      "answer": "Setenta mil carregadores e oitenta mil cortadores.",
+      "prompt": "Quantos levavam cargas e quantos talhavam pedra?",
+      "answer": "Setenta mil de carga e oitenta mil que talhavam pedra.",
       "reference": "1Rs 5:15",
       "wrongs": [
-        "Trinta mil carregadores e quarenta mil cortadores.",
-        "Dez mil carregadores e vinte mil cortadores.",
-        "Cem mil carregadores e cinquenta mil cortadores."
+        "Trinta mil de carga e quarenta mil que talhavam pedra.",
+        "Dez mil de carga e vinte mil que talhavam pedra.",
+        "Cem mil de carga e cinquenta mil que talhavam pedra."
       ]
     },
     {
@@ -307,7 +307,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "O que Salomão começou no quarto ano do reinado?",
-      "answer": "A casa de Deus, no mês de Zife.",
+      "answer": "A casa de Deus, no mês de Zive.",
       "reference": "1Rs 6:1",
       "wrongs": [
         "O palácio real, no mês de etanim.",
@@ -322,7 +322,7 @@
       "verseStart": 16,
       "kind": "place",
       "prompt": "Que sala interna Salomão fez na casa?",
-      "answer": "O lugar santíssimo, de madeira de cedro.",
+      "answer": "O Santo dos Santos, de tábuas de cedro.",
       "reference": "1Rs 6:16",
       "wrongs": [
         "O pátio externo, de pedra bruta.",
@@ -381,7 +381,7 @@
       "chapter": 7,
       "verseStart": 14,
       "kind": "name",
-      "prompt": "Quem fez a obra de bronze para Salomão?",
+      "prompt": "Quem fez a obra de cobre para Salomão?",
       "answer": "Hirão, filho de uma viúva de Naftali.",
       "reference": "1Rs 7:14",
       "wrongs": [
@@ -396,7 +396,7 @@
       "chapter": 7,
       "verseStart": 46,
       "kind": "place",
-      "prompt": "Onde o bronze da casa foi fundido, em 1 Reis?",
+      "prompt": "Onde o cobre da casa foi fundido, em 1 Reis?",
       "answer": "Na planície do Jordão, entre Sucote e Zaretã.",
       "reference": "1Rs 7:46",
       "wrongs": [
@@ -446,7 +446,7 @@
       "reference": "1Rs 8:1",
       "wrongs": [
         "De Siló, onde estava o tabernáculo.",
-        "De Gibeão, no principal lugar alto.",
+        "De Gibeom, no principal lugar alto.",
         "De Quiriate-Jearim, da casa de Abinadabe."
       ]
     },
@@ -456,7 +456,7 @@
       "chapter": 8,
       "verseStart": 9,
       "kind": "curiosity",
-      "prompt": "O que havia dentro da arca no templo de Salomão?",
+      "prompt": "O que 1 Reis diz que havia dentro da arca no templo de Salomão?",
       "answer": "Só as duas tábuas de pedra que Moisés colocou.",
       "reference": "1Rs 8:9",
       "wrongs": [
@@ -472,12 +472,12 @@
       "verseStart": 63,
       "kind": "curiosity",
       "prompt": "Quantos animais Salomão ofereceu na dedicação da casa?",
-      "answer": "Vinte e dois mil bois, mais cento e vinte mil ovelhas.",
+      "answer": "Vinte e duas mil vacas e cento e vinte mil ovelhas.",
       "reference": "1Rs 8:63",
       "wrongs": [
-        "Sete bois, mais sete carneiros.",
-        "Mil bois, mais mil ovelhas.",
-        "Três mil bois, mais doze mil ovelhas."
+        "Sete vacas e sete carneiros.",
+        "Mil vacas e mil ovelhas.",
+        "Três mil vacas e doze mil ovelhas."
       ]
     },
     {
@@ -516,13 +516,13 @@
       "chapter": 9,
       "verseStart": 7,
       "kind": "curiosity",
-      "prompt": "O que Deus disse a Salomão que faria com Israel e com a casa?",
-      "answer": "Tiraria Israel da terra e rejeitaria aquela casa.",
+      "prompt": "O que Deus disse a Salomão que faria com Israel e com a casa se o deixassem?",
+      "answer": "Destruiria Israel da terra e lançaria a casa para longe.",
       "reference": "1Rs 9:7",
       "wrongs": [
-        "Firmaria Israel na terra e honraria aquela casa.",
-        "Mudaria Israel para o Egito e venderia aquela casa.",
-        "Entregaria Israel a Hirão e mudaria aquela casa de lugar."
+        "Firmaria Israel na terra e traria a casa para perto.",
+        "Mudaria Israel para o Egito e guardaria a casa ali.",
+        "Entregaria Israel a Hirão e deixaria a casa no lugar."
       ]
     },
     {
@@ -546,8 +546,8 @@
       "chapter": 10,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "Por que a rainha de Sabá foi falar com Salomão?",
-      "answer": "Porque ouviu a fama dele e quis prová-lo com perguntas.",
+      "prompt": "Por que a rainha de Sabá foi até Salomão, segundo 1 Reis?",
+      "answer": "Porque ouviu a fama dele e veio prová-lo com questões difíceis.",
       "reference": "1Rs 10:1",
       "wrongs": [
         "Porque fugia de um inimigo e buscava abrigo.",
@@ -607,7 +607,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "O que as mulheres de Salomão fizeram na velhice dele?",
-      "answer": "Desviaram o coração dele para outros deuses.",
+      "answer": "Perverteram o coração dele para seguir outros deuses.",
       "reference": "1Rs 11:4",
       "wrongs": [
         "Firmaram o coração dele só no Deus de Israel.",
@@ -667,12 +667,12 @@
       "verseStart": 19,
       "kind": "subject",
       "prompt": "O que aconteceu entre Israel e a casa de Davi?",
-      "answer": "Israel se separou dela, e a divisão seguiu.",
+      "answer": "Israel se rebelou contra ela até hoje.",
       "reference": "1Rs 12:19",
       "wrongs": [
-        "Israel voltou a ela, e a união seguiu.",
-        "Israel a serviu em paz, e o tributo seguiu.",
-        "Israel a mudou para Samaria, e o culto seguiu."
+        "Israel se uniu a ela até hoje.",
+        "Israel a serviu em paz até hoje.",
+        "Israel a mudou para Samaria até hoje."
       ]
     },
     {
@@ -787,12 +787,12 @@
       "verseStart": 17,
       "kind": "subject",
       "prompt": "O que aconteceu ao filho de Jeroboão quando a mulher chegou a Tirza?",
-      "answer": "Ele morreu assim que ela entrou em casa.",
+      "answer": "Ele morreu assim que ela chegou ao limiar.",
       "reference": "1Rs 14:17",
       "wrongs": [
-        "Ele sarou assim que ela entrou em casa.",
-        "Ele fugiu assim que ela entrou em casa.",
-        "Ele foi ungido assim que ela entrou em casa."
+        "Ele sarou assim que ela chegou ao limiar.",
+        "Ele fugiu assim que ela chegou ao limiar.",
+        "Ele foi ungido assim que ela chegou ao limiar."
       ]
     },
     {
@@ -832,7 +832,7 @@
       "verseStart": 27,
       "kind": "curiosity",
       "prompt": "De que metal Roboão fez os escudos novos?",
-      "answer": "De bronze, e os entregou aos chefes da guarda.",
+      "answer": "De cobre, e os entregou aos chefes da guarda.",
       "reference": "1Rs 14:27",
       "wrongs": [
         "De ouro, e os entregou aos chefes da guarda.",
@@ -862,7 +862,7 @@
       "verseStart": 13,
       "kind": "name",
       "prompt": "Quem Asa afastou do posto de rainha-mãe?",
-      "answer": "A avó Maaca, que tinha feito um ídolo.",
+      "answer": "Maaca, sua mãe, que tinha feito um ídolo.",
       "reference": "1Rs 15:13",
       "wrongs": [
         "A rainha Jezabel, que tinha feito um ídolo.",
@@ -880,7 +880,7 @@
       "answer": "Ramá, para ninguém entrar nem sair.",
       "reference": "1Rs 15:17",
       "wrongs": [
-        "Gibeão, para ninguém entrar nem sair.",
+        "Gibeom, para ninguém entrar nem sair.",
         "Laquis, para ninguém entrar nem sair.",
         "Jericó, para ninguém entrar nem sair."
       ]
@@ -940,7 +940,7 @@
       "answer": "Samaria, usando o nome do antigo dono.",
       "reference": "1Rs 16:24",
       "wrongs": [
-        "Jezreel, usando o nome do antigo dono.",
+        "Jizreel, usando o nome do antigo dono.",
         "Tirza, usando o nome do antigo dono.",
         "Ramá, usando o nome do antigo dono."
       ]
@@ -1012,7 +1012,7 @@
       "verseStart": 22,
       "kind": "curiosity",
       "prompt": "O que Deus fez quando Elias orou pelo filho da viúva?",
-      "answer": "A vida voltou ao corpo, e o menino reviveu.",
+      "answer": "A alma tornou a entrar nele, e o menino reviveu.",
       "reference": "1Rs 17:22",
       "wrongs": [
         "A febre passou, mas o menino continuou dormindo.",
@@ -1027,7 +1027,7 @@
       "verseStart": 38,
       "kind": "subject",
       "prompt": "O que o fogo de Deus fez no altar de Elias?",
-      "answer": "Queimou o sacrifício, a lenha, as pedras, o pó e a água.",
+      "answer": "Consumiu o holocausto, a lenha, as pedras, o pó e a água.",
       "reference": "1Rs 18:38",
       "wrongs": [
         "Apagou o sacrifício e deixou a água intacta.",
@@ -1087,7 +1087,7 @@
       "verseStart": 12,
       "kind": "subject",
       "prompt": "Como Deus falou a Elias depois do fogo?",
-      "answer": "Numa voz suave e agradável.",
+      "answer": "Numa voz mansa e delicada.",
       "reference": "1Rs 19:12",
       "wrongs": [
         "Num trovão que partiu as pedras.",
@@ -1147,12 +1147,12 @@
       "verseStart": 42,
       "kind": "subject",
       "prompt": "Por que a vida de Acabe ficaria no lugar da do prisioneiro?",
-      "answer": "Porque ele soltou o homem que Deus tinha condenado.",
+      "answer": "Porque ele soltou o homem posto para destruição.",
       "reference": "1Rs 20:42",
       "wrongs": [
-        "Porque ele matou o homem que Deus tinha poupado.",
-        "Porque ele recusou o resgate que Deus tinha pedido.",
-        "Porque ele escondeu o homem que Deus tinha chamado."
+        "Porque ele matou o homem posto para ser poupado.",
+        "Porque ele escondeu o homem posto para ser solto.",
+        "Porque ele coroou o homem posto para o trono."
       ]
     },
     {
@@ -1207,7 +1207,7 @@
       "verseStart": 16,
       "kind": "subject",
       "prompt": "O que Acabe foi fazer quando soube que Nabote morreu?",
-      "answer": "Tomar posse da vinha dele em Jezreel.",
+      "answer": "Tomar posse da vinha dele em Jizreel.",
       "reference": "1Rs 21:16",
       "wrongs": [
         "Chorar no túmulo dele em Samaria.",
@@ -1222,12 +1222,12 @@
       "verseStart": 1,
       "kind": "name",
       "prompt": "De quem era a vinha ao lado do palácio de Acabe?",
-      "answer": "De Nabote, morador de Jezreel.",
+      "answer": "De Nabote, morador de Jizreel.",
       "reference": "1Rs 21:1",
       "wrongs": [
         "De Obadias, morador de Samaria.",
         "De Nabote, morador de Samaria.",
-        "De Geazi, morador de Jezreel."
+        "De Geazi, morador de Jizreel."
       ]
     },
     {
@@ -1251,8 +1251,8 @@
       "chapter": 21,
       "verseStart": 23,
       "kind": "curiosity",
-      "prompt": "O que aconteceria com Jezabel em Jezreel?",
-      "answer": "Os cães a comeriam junto ao muro.",
+      "prompt": "O que aconteceria com Jezabel em Jizreel?",
+      "answer": "Os cães a comeriam junto ao antemuro.",
       "reference": "1Rs 21:23",
       "wrongs": [
         "O fogo a consumiria no palácio.",
@@ -1267,7 +1267,7 @@
       "verseStart": 34,
       "kind": "subject",
       "prompt": "Como o rei Acabe foi ferido na batalha?",
-      "answer": "Uma flecha ao acaso entrou entre as peças da armadura.",
+      "answer": "Uma flecha a esmo o feriu entre as fivelas e as couraças.",
       "reference": "1Rs 22:34",
       "wrongs": [
         "Uma lança certeira atravessou o escudo.",
@@ -1296,7 +1296,7 @@
       "chapter": 22,
       "verseStart": 29,
       "kind": "place",
-      "prompt": "Para onde Acabe e Josafá subiram à guerra?",
+      "prompt": "Para onde Acabe e Jeosafá subiram à guerra?",
       "answer": "Para Ramote de Gileade.",
       "reference": "1Rs 22:29",
       "wrongs": [

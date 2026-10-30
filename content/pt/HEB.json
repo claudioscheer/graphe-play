@@ -7,7 +7,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "Como o Filho supera os anjos?",
-      "answer": "Recebeu um nome mais honrado que o deles.",
+      "answer": "Herdou um nome mais excelente do que o deles.",
       "reference": "Hb 1:4",
       "wrongs": [
         "Recebeu asas e ficou igual a eles.",
@@ -22,7 +22,7 @@
       "verseStart": 13,
       "kind": "curiosity",
       "prompt": "O que será feito dos inimigos do Filho?",
-      "answer": "Serão postos como apoio debaixo dos pés dele.",
+      "answer": "Serão postos por escabelo dos pés dele.",
       "reference": "Hb 1:13",
       "wrongs": [
         "Serão recebidos como irmãos no trono.",
@@ -36,8 +36,8 @@
       "chapter": 1,
       "verseStart": 14,
       "kind": "curiosity",
-      "prompt": "Para que os anjos são enviados?",
-      "answer": "Para ajudar quem vai herdar a salvação.",
+      "prompt": "Para que os anjos são enviados, em Hebreus?",
+      "answer": "Para servir aos que hão de herdar a salvação.",
       "reference": "Hb 1:14",
       "wrongs": [
         "Para serem adorados junto com o Filho.",
@@ -52,7 +52,7 @@
       "verseStart": 14,
       "kind": "subject",
       "prompt": "Por que Jesus compartilhou a carne e o sangue?",
-      "answer": "Para destruir o diabo, que tinha poder sobre a morte.",
+      "answer": "Para aniquilar o diabo, que tinha o império da morte.",
       "reference": "Hb 2:14",
       "wrongs": [
         "Para se tornar anjo e deixar a carne.",
@@ -66,7 +66,7 @@
       "chapter": 2,
       "verseStart": 16,
       "kind": "name",
-      "prompt": "De quem é a descendência que Jesus socorre?",
+      "prompt": "De quem é a descendência que Jesus tomou?",
       "answer": "De Abraão, e não dos anjos.",
       "reference": "Hb 2:16",
       "wrongs": [
@@ -96,13 +96,13 @@
       "chapter": 3,
       "verseStart": 3,
       "kind": "subject",
-      "prompt": "Por que há mais glória do que a de Moisés?",
-      "answer": "O construtor é mais honrado do que a própria casa.",
+      "prompt": "Por que Jesus tem mais glória do que Moisés?",
+      "answer": "Quem edificou a casa tem maior honra do que a casa.",
       "reference": "Hb 3:3",
       "wrongs": [
-        "Moisés construiu a casa, e por isso tem mais glória.",
-        "A casa vale mais do que quem a construiu.",
-        "Os dois têm a mesma glória, sem diferença."
+        "Moisés edificou a casa, e por isso tem mais glória.",
+        "A casa vale mais do que quem a edificou.",
+        "Os dois têm a mesma honra, sem diferença."
       ]
     },
     {
@@ -157,12 +157,12 @@
       "verseStart": 9,
       "kind": "subject",
       "prompt": "Qual descanso ainda resta ao povo de Deus?",
-      "answer": "Um repouso parecido com o do sábado.",
+      "answer": "Um repouso.",
       "reference": "Hb 4:9",
       "wrongs": [
-        "O sábado da lei, já cumprido por Josué.",
-        "Nenhum. O descanso acabou no deserto.",
-        "O sono da morte, sem mais nada."
+        "Nenhum. O repouso acabou no deserto.",
+        "O sono da morte, sem mais nada.",
+        "Só o sábado já cumprido por Josué."
       ]
     },
     {
@@ -186,7 +186,7 @@
       "chapter": 4,
       "verseStart": 14,
       "kind": "place",
-      "prompt": "Para onde entrou Jesus, o grande sacerdote?",
+      "prompt": "Para onde entrou Jesus, o grande sumo sacerdote?",
       "answer": "Nos céus.",
       "reference": "Hb 4:14",
       "wrongs": [
@@ -202,7 +202,7 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "Com o que a palavra de Deus se compara no corte?",
-      "answer": "Com uma espada de dois gumes, só que mais afiada.",
+      "answer": "Com uma espada de dois gumes, e ela é mais penetrante.",
       "reference": "Hb 4:12",
       "wrongs": [
         "Com um martelo que quebra a pedra.",
@@ -262,7 +262,7 @@
       "verseStart": 4,
       "verseEnd": 6,
       "kind": "subject",
-      "prompt": "O que é impossível para quem foi iluminado e depois caiu?",
+      "prompt": "O que é impossível para quem foi iluminado e recaiu, em Hebreus?",
       "answer": "Ser renovado outra vez para o arrependimento.",
       "reference": "Hb 6:4-6",
       "wrongs": [
@@ -292,7 +292,7 @@
       "chapter": 6,
       "verseStart": 19,
       "kind": "curiosity",
-      "prompt": "O que serve de âncora firme para a alma?",
+      "prompt": "O que serve de âncora da alma, em Hebreus?",
       "answer": "A esperança, que entra além do véu.",
       "reference": "Hb 6:19",
       "wrongs": [
@@ -368,7 +368,7 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "Qual aliança tem Jesus como mediador?",
-      "answer": "Uma aliança melhor, baseada em promessas melhores.",
+      "answer": "Uma melhor aliança, confirmada em melhores promessas.",
       "reference": "Hb 8:6",
       "wrongs": [
         "A mesma aliança do Sinai, sem mudança.",
@@ -413,7 +413,7 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "Onde Deus escreveria as leis na aliança com Israel?",
-      "answer": "Nas mentes e nos corações.",
+      "answer": "No entendimento e no coração deles.",
       "reference": "Hb 8:10",
       "wrongs": [
         "Nas tábuas de pedra.",
@@ -487,12 +487,12 @@
       "chapter": 10,
       "verseStart": 14,
       "kind": "subject",
-      "prompt": "Quantas ofertas aperfeiçoam para sempre quem é santificado, em Hebreus?",
-      "answer": "Uma só oferta.",
+      "prompt": "Quantas oblações aperfeiçoam para sempre quem é santificado, em Hebreus?",
+      "answer": "Uma só oblação.",
       "reference": "Hb 10:14",
       "wrongs": [
-        "Ofertas todo ano.",
-        "Sete ofertas.",
+        "Oblações todo ano.",
+        "Sete oblações.",
         "O sangue de cada festa."
       ]
     },
@@ -533,7 +533,7 @@
       "verseStart": 25,
       "kind": "curiosity",
       "prompt": "O que alguns já costumavam abandonar, segundo Hebreus?",
-      "answer": "A reunião da comunidade.",
+      "answer": "A mútua congregação.",
       "reference": "Hb 10:25",
       "wrongs": [
         "O sábado e a lua nova.",
@@ -547,8 +547,8 @@
       "chapter": 11,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "O que a fé garante a quem ainda espera?",
-      "answer": "A certeza daquilo que se espera e a prova do invisível.",
+      "prompt": "O que a carta aos Hebreus diz que a fé é?",
+      "answer": "O firme fundamento do que se espera e a prova do que não se vê.",
       "reference": "Hb 11:1",
       "wrongs": [
         "A vista daquilo que já se toca.",
@@ -607,7 +607,7 @@
       "chapter": 12,
       "verseStart": 2,
       "kind": "subject",
-      "prompt": "Quem é o autor e o aperfeiçoador da fé?",
+      "prompt": "Quem é o autor e o consumador da fé?",
       "answer": "Jesus.",
       "reference": "Hb 12:2",
       "wrongs": [
@@ -622,7 +622,7 @@
       "chapter": 12,
       "verseStart": 16,
       "kind": "name",
-      "prompt": "Quem vendeu o direito de filho mais velho por uma refeição?",
+      "prompt": "Quem vendeu o direito de primogenitura por uma refeição?",
       "answer": "Esaú.",
       "reference": "Hb 12:16",
       "wrongs": [
@@ -668,7 +668,7 @@
       "verseStart": 8,
       "kind": "subject",
       "prompt": "O que não muda em Jesus Cristo?",
-      "answer": "Ele é o mesmo no passado, agora e para sempre.",
+      "answer": "Ele é o mesmo ontem, hoje e eternamente.",
       "reference": "Hb 13:8",
       "wrongs": [
         "Ele muda conforme o tempo e a aliança.",
@@ -712,8 +712,8 @@
       "chapter": 13,
       "verseStart": 2,
       "kind": "curiosity",
-      "prompt": "Por que a hospitalidade não deve ser esquecida?",
-      "answer": "Porque alguns acolheram anjos sem saber.",
+      "prompt": "Por que não esquecer a hospitalidade, em Hebreus?",
+      "answer": "Porque alguns, sem o saber, hospedaram anjos.",
       "reference": "Hb 13:2",
       "wrongs": [
         "Porque a lei cobra pousada ao estrangeiro.",

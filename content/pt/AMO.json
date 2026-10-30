@@ -36,7 +36,7 @@
       "chapter": 1,
       "verseStart": 5,
       "kind": "place",
-      "prompt": "Para onde vai cativo o povo da Síria?",
+      "prompt": "Para onde vai cativo o povo da Síria, em Amós?",
       "answer": "Para Quir.",
       "reference": "Am 1:5",
       "wrongs": [
@@ -66,13 +66,13 @@
       "chapter": 2,
       "verseStart": 6,
       "kind": "subject",
-      "prompt": "Por que o castigo de Israel não é cancelado?",
-      "answer": "Vendem o justo por prata e o pobre por sandálias.",
+      "prompt": "Por que o castigo de Israel não é cancelado, em Amós?",
+      "answer": "Vendem o justo por dinheiro e o necessitado por um par de sapatos.",
       "reference": "Am 2:6",
       "wrongs": [
-        "Guardam o justo e dão sandálias ao pobre.",
-        "Compram o pobre por ouro e soltam o justo.",
-        "Escondem a prata e fecham o mercado da cidade."
+        "Guardam o justo e dão sapatos ao necessitado.",
+        "Compram o necessitado por ouro e soltam o justo.",
+        "Escondem o dinheiro e fecham o mercado da cidade."
       ]
     },
     {
@@ -96,7 +96,7 @@
       "chapter": 2,
       "verseStart": 10,
       "kind": "curiosity",
-      "prompt": "Por quantos anos Israel andou no deserto?",
+      "prompt": "Por quantos anos Israel andou no deserto, em Amós?",
       "answer": "Por quarenta anos.",
       "reference": "Am 2:10",
       "wrongs": [
@@ -127,7 +127,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "Por que Deus cobra Israel entre todos os povos?",
-      "answer": "Porque foi o único povo que ele conheceu de perto.",
+      "answer": "Porque, de todas as famílias, só a Israel ele conheceu.",
       "reference": "Am 3:2",
       "wrongs": [
         "Porque foi o povo mais numeroso da terra.",
@@ -217,7 +217,7 @@
       "verseStart": 24,
       "kind": "subject",
       "prompt": "O que deve correr como água em Israel?",
-      "answer": "O juízo, e a justiça como corrente forte.",
+      "answer": "O juízo como as águas, e a justiça como ribeiro impetuoso.",
       "reference": "Am 5:24",
       "wrongs": [
         "O vinho, e o azeite como rio largo.",
@@ -231,8 +231,8 @@
       "chapter": 5,
       "verseStart": 26,
       "kind": "name",
-      "prompt": "Que ídolo estrela acompanhava Sicute?",
-      "answer": "Quium.",
+      "prompt": "Qual deus Amós diz que Israel levou numa tenda?",
+      "answer": "Moloque.",
       "reference": "Am 5:26",
       "wrongs": [
         "Dagom.",
@@ -246,7 +246,7 @@
       "chapter": 5,
       "verseStart": 27,
       "kind": "place",
-      "prompt": "Para além de qual cidade Israel será exilado?",
+      "prompt": "Para além de qual cidade Israel será exilado, em Amós?",
       "answer": "Para além de Damasco.",
       "reference": "Am 5:27",
       "wrongs": [
@@ -262,7 +262,7 @@
       "verseStart": 8,
       "kind": "curiosity",
       "prompt": "Quais grupos de estrelas Amós diz que Deus fez?",
-      "answer": "As Plêiades e Órion.",
+      "answer": "O Sete-estrelo e o Órion.",
       "reference": "Am 5:8",
       "wrongs": [
         "A Ursa e o Dragão.",
@@ -307,7 +307,7 @@
       "verseStart": 14,
       "kind": "place",
       "prompt": "Até onde chega a nação que oprime Israel, em Amós?",
-      "answer": "Desde Hamate até o ribeiro Arabá.",
+      "answer": "Desde a entrada de Hamate até o ribeiro do deserto.",
       "reference": "Am 6:14",
       "wrongs": [
         "Desde Dã até a cidade de Berseba.",
@@ -337,7 +337,7 @@
       "verseStart": 8,
       "kind": "subject",
       "prompt": "O que Deus apoia no meio de Israel?",
-      "answer": "Um prumo, e diz que não aguenta mais.",
+      "answer": "Um prumo, e diz que não passará mais por ele.",
       "reference": "Am 7:8",
       "wrongs": [
         "Uma espada, e diz que vai poupar.",
@@ -367,7 +367,7 @@
       "verseStart": 13,
       "kind": "place",
       "prompt": "O que Amazias diz que há em Betel?",
-      "answer": "O santuário real e também o palácio.",
+      "answer": "O santuário do rei e a casa real.",
       "reference": "Am 7:13",
       "wrongs": [
         "O mercado real e também o porto.",
@@ -382,7 +382,7 @@
       "verseStart": 14,
       "kind": "curiosity",
       "prompt": "Que trabalho Amós fazia antes de ser profeta?",
-      "answer": "Criava gado e apanhava fruta de sicômoro.",
+      "answer": "Era boiadeiro e cultivador de sicômoros.",
       "reference": "Am 7:14",
       "wrongs": [
         "Era sacerdote e guardava o templo.",
@@ -397,7 +397,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "O que o cesto de frutas maduras anunciava a Amós?",
-      "answer": "O fim de Israel; Deus não ia aguentar mais.",
+      "answer": "O fim de Israel; Deus não passará mais por ele.",
       "reference": "Am 8:2",
       "wrongs": [
         "Uma boa colheita; Deus ia abençoar.",
@@ -442,12 +442,12 @@
       "verseStart": 5,
       "kind": "curiosity",
       "prompt": "O que os vendedores fazem com preço e medida, em Amós?",
-      "answer": "Aumentam o preço e encolhem a medida.",
+      "answer": "Diminuem o efa e aumentam o siclo.",
       "reference": "Am 8:5",
       "wrongs": [
-        "Baixam o preço e aumentam a medida.",
-        "Mantêm o preço e a medida justos.",
-        "Dão de graça e enchem a medida."
+        "Aumentam o efa e diminuem o siclo.",
+        "Mantêm o efa e o siclo justos.",
+        "Enchem o efa e dão o siclo de graça."
       ]
     },
     {
@@ -456,8 +456,8 @@
       "chapter": 9,
       "verseStart": 11,
       "kind": "subject",
-      "prompt": "O que Deus fará com a tenda caída de Davi?",
-      "answer": "Vai erguê-la de novo e fechar as brechas.",
+      "prompt": "O que Deus fará com o tabernáculo caído de Davi?",
+      "answer": "Vai levantá-lo de novo e reparar as brechas.",
       "reference": "Am 9:11",
       "wrongs": [
         "Vai derrubá-la de vez e queimar as cordas.",
@@ -501,7 +501,7 @@
       "chapter": 9,
       "verseStart": 15,
       "kind": "curiosity",
-      "prompt": "Por quanto tempo Israel ficará plantado na terra?",
+      "prompt": "Por quanto tempo Israel ficará plantado na terra, em Amós?",
       "answer": "Para sempre, sem ser arrancado outra vez.",
       "reference": "Am 9:15",
       "wrongs": [

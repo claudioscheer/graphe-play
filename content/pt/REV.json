@@ -6,8 +6,8 @@
       "chapter": 1,
       "verseStart": 13,
       "kind": "subject",
-      "prompt": "Quem estava no meio dos sete candelabros, no Apocalipse?",
-      "answer": "Alguém parecido com o Filho do homem.",
+      "prompt": "Quem estava no meio dos sete castiçais, no Apocalipse?",
+      "answer": "Alguém semelhante ao Filho do homem.",
       "reference": "Ap 1:13",
       "wrongs": [
         "Um anjo com as chaves da morte.",
@@ -21,7 +21,7 @@
       "chapter": 1,
       "verseStart": 1,
       "kind": "name",
-      "prompt": "Quem recebeu a revelação para os servos de Deus, no Apocalipse?",
+      "prompt": "A quem o anjo notificou a revelação, no Apocalipse?",
       "answer": "João.",
       "reference": "Ap 1:1",
       "wrongs": [
@@ -51,7 +51,7 @@
       "chapter": 1,
       "verseStart": 20,
       "kind": "curiosity",
-      "prompt": "O que significam os sete candelabros de ouro, no Apocalipse?",
+      "prompt": "O que significam os sete castiçais de ouro, no Apocalipse?",
       "answer": "As sete igrejas.",
       "reference": "Ap 1:20",
       "wrongs": [
@@ -67,7 +67,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "O que Jesus tinha contra a igreja de Éfeso?",
-      "answer": "Ela tinha abandonado o primeiro amor.",
+      "answer": "Ela deixou o primeiro amor.",
       "reference": "Ap 2:4",
       "wrongs": [
         "Ela negava o nome de Jesus.",
@@ -173,12 +173,12 @@
       "verseStart": 20,
       "kind": "curiosity",
       "prompt": "O que Jesus faz se alguém abre a porta em que ele bate?",
-      "answer": "Entra e come com essa pessoa.",
+      "answer": "Entra, ceia com essa pessoa, e ela com ele.",
       "reference": "Ap 3:20",
       "wrongs": [
         "Passa de longo e segue viagem.",
         "Fecha a porta e vai embora.",
-        "Manda um anjo entrar no lugar dele."
+        "Manda um anjo cear no lugar dele."
       ]
     },
     {
@@ -232,7 +232,7 @@
       "chapter": 4,
       "verseStart": 7,
       "kind": "curiosity",
-      "prompt": "Como eram os quatro seres ao redor do trono, no Apocalipse?",
+      "prompt": "Como eram os quatro animais ao redor do trono, no Apocalipse?",
       "answer": "Leão, bezerro, rosto de homem e águia.",
       "reference": "Ap 4:7",
       "wrongs": [
@@ -247,12 +247,12 @@
       "chapter": 5,
       "verseStart": 6,
       "kind": "subject",
-      "prompt": "Como era o Cordeiro junto ao trono?",
-      "answer": "Com jeito de morto, sete chifres e sete olhos.",
+      "prompt": "Como era o Cordeiro junto ao trono, no Apocalipse?",
+      "answer": "Como havendo sido morto, com sete chifres e sete olhos.",
       "reference": "Ap 5:6",
       "wrongs": [
         "Com coroa de ouro, sem ferida nenhuma.",
-        "Com asas, como um dos seres do trono.",
+        "Com asas, como um dos animais do trono.",
         "Com espada na boca e pés de bronze."
       ]
     },
@@ -262,8 +262,8 @@
       "chapter": 5,
       "verseStart": 5,
       "kind": "name",
-      "prompt": "Quem venceu para abrir os selos do livro?",
-      "answer": "O Leão de Judá, raiz de Davi.",
+      "prompt": "Quem venceu para abrir o livro e desatar os sete selos?",
+      "answer": "O Leão da tribo de Judá, a raiz de Davi.",
       "reference": "Ap 5:5",
       "wrongs": [
         "O anjo forte, com voz de trovão.",
@@ -292,8 +292,8 @@
       "chapter": 5,
       "verseStart": 8,
       "kind": "curiosity",
-      "prompt": "O que eram os perfumes nos vasos de ouro, no Apocalipse?",
-      "answer": "As orações do povo santo.",
+      "prompt": "O que era o incenso nas salvas de ouro, no Apocalipse?",
+      "answer": "As orações dos santos.",
       "reference": "Ap 5:8",
       "wrongs": [
         "O incenso do templo antigo.",
@@ -308,10 +308,10 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "Qual cavalo saiu no primeiro selo, no Apocalipse?",
-      "answer": "Um cavalo branco, e o cavaleiro foi conquistar.",
+      "answer": "Um cavalo branco, e o cavaleiro saiu vitorioso, para vencer.",
       "reference": "Ap 6:2",
       "wrongs": [
-        "Um cavalo vermelho, e o cavaleiro trouxe guerra.",
+        "Um cavalo vermelho, e o cavaleiro tirou a paz.",
         "Um cavalo preto, e o cavaleiro trouxe fome.",
         "Um cavalo amarelo, e o cavaleiro era a Morte."
       ]
@@ -398,7 +398,7 @@
       "verseStart": 17,
       "kind": "curiosity",
       "prompt": "O que Deus fará com as lágrimas da multidão de roupas brancas, no Apocalipse?",
-      "answer": "Vai enxugar os olhos deles.",
+      "answer": "Vai limpar dos olhos deles toda lágrima.",
       "reference": "Ap 7:17",
       "wrongs": [
         "Vai deixá-los chorar até o fim.",
@@ -428,7 +428,7 @@
       "verseStart": 1,
       "kind": "curiosity",
       "prompt": "Quanto tempo o céu ficou em silêncio no sétimo selo, no Apocalipse?",
-      "answer": "Cerca de meia hora.",
+      "answer": "Quase meia hora.",
       "reference": "Ap 8:1",
       "wrongs": [
         "Um dia inteiro.",
@@ -457,8 +457,8 @@
       "chapter": 8,
       "verseStart": 7,
       "kind": "curiosity",
-      "prompt": "O que caiu sobre a terra no primeiro toque de trombeta?",
-      "answer": "Pedra de gelo e fogo, com sangue.",
+      "prompt": "O que caiu sobre a terra no primeiro toque de trombeta, no Apocalipse?",
+      "answer": "Saraiva e fogo, misturados com sangue.",
       "reference": "Ap 8:7",
       "wrongs": [
         "Gafanhotos, com poder de escorpião.",
@@ -533,10 +533,10 @@
       "verseStart": 10,
       "kind": "subject",
       "prompt": "Como ficou o livrinho que João comeu?",
-      "answer": "Doce feito mel na boca, e amargo na barriga.",
+      "answer": "Doce como mel na boca, e o ventre ficou amargo.",
       "reference": "Ap 10:10",
       "wrongs": [
-        "Amargo na boca, e doce na barriga.",
+        "Amargo na boca, e doce no ventre.",
         "Doce o tempo todo, sem amargor.",
         "Amargo o tempo todo, como fel."
       ]
@@ -577,13 +577,13 @@
       "chapter": 10,
       "verseStart": 6,
       "kind": "curiosity",
-      "prompt": "O que o anjo jurou sobre o tempo, no Apocalipse?",
-      "answer": "Que não restaria mais tempo.",
+      "prompt": "O que o anjo jurou que não haveria mais, no Apocalipse?",
+      "answer": "Demora.",
       "reference": "Ap 10:6",
       "wrongs": [
-        "Que ainda faltavam mil anos.",
-        "Que o tempo voltaria atrás.",
-        "Que ninguém saberia a hora."
+        "Mil anos de espera.",
+        "Volta do tempo para trás.",
+        "Hora marcada para ninguém saber."
       ]
     },
     {
@@ -593,7 +593,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "O que são as duas testemunhas, no Apocalipse?",
-      "answer": "Duas oliveiras e dois candelabros.",
+      "answer": "Duas oliveiras e dois castiçais.",
       "reference": "Ap 11:4",
       "wrongs": [
         "Dois reis e dois sacerdotes.",
@@ -608,7 +608,7 @@
       "verseStart": 8,
       "kind": "place",
       "prompt": "Onde ficaram os corpos das duas testemunhas, no Apocalipse?",
-      "answer": "Na cidade que, no espírito, se chama Sodoma e Egito.",
+      "answer": "Na grande cidade que espiritualmente se chama Sodoma e Egito.",
       "reference": "Ap 11:8",
       "wrongs": [
         "Em Roma, chamada de Babilônia.",
@@ -697,13 +697,13 @@
       "chapter": 12,
       "verseStart": 3,
       "kind": "curiosity",
-      "prompt": "Como era o grande dragão vermelho?",
-      "answer": "Com sete cabeças, dez chifres e sete coroas.",
+      "prompt": "Como era o grande dragão vermelho, no Apocalipse?",
+      "answer": "Com sete cabeças, dez chifres e sete diademas.",
       "reference": "Ap 12:3",
       "wrongs": [
-        "Com duas cabeças, dois chifres e nenhuma coroa.",
-        "Com dez cabeças, sete chifres e doze coroas.",
-        "Com uma cabeça, sem chifre e sem coroa."
+        "Com duas cabeças, dois chifres e nenhum diadema.",
+        "Com dez cabeças, sete chifres e doze diademas.",
+        "Com uma cabeça, sem chifre e sem diadema."
       ]
     },
     {
@@ -712,7 +712,7 @@
       "chapter": 13,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "Como era a besta que subiu do mar?",
+      "prompt": "Como era a besta que subiu do mar, no Apocalipse?",
       "answer": "Com sete cabeças e dez chifres.",
       "reference": "Ap 13:1",
       "wrongs": [
@@ -742,7 +742,7 @@
       "chapter": 13,
       "verseStart": 16,
       "kind": "curiosity",
-      "prompt": "Onde era posta a marca da besta?",
+      "prompt": "Onde era posto o sinal da besta?",
       "answer": "Na mão direita ou na testa.",
       "reference": "Ap 13:16",
       "wrongs": [
@@ -772,7 +772,7 @@
       "chapter": 14,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "Quem estava de pé no monte Sião?",
+      "prompt": "Quem estava de pé no monte Sião, no Apocalipse?",
       "answer": "O Cordeiro, com 144 mil.",
       "reference": "Ap 14:1",
       "wrongs": [
@@ -787,7 +787,7 @@
       "chapter": 14,
       "verseStart": 8,
       "kind": "curiosity",
-      "prompt": "O que o anjo anunciou sobre Babilônia?",
+      "prompt": "O que o segundo anjo anunciou sobre Babilônia, no Apocalipse?",
       "answer": "Que a grande cidade tinha caído.",
       "reference": "Ap 14:8",
       "wrongs": [
@@ -803,12 +803,12 @@
       "verseStart": 16,
       "kind": "curiosity",
       "prompt": "O que aconteceu quando a foice caiu sobre a terra, no Apocalipse?",
-      "answer": "A plantação da terra foi colhida.",
+      "answer": "A terra foi segada.",
       "reference": "Ap 14:16",
       "wrongs": [
-        "A terra ficou sem colheita.",
+        "A terra ficou sem sega.",
         "Só o trigo foi queimado no campo.",
-        "A foice quebrou e nada foi colhido."
+        "A foice quebrou e nada foi segado."
       ]
     },
     {
@@ -862,8 +862,8 @@
       "chapter": 15,
       "verseStart": 2,
       "kind": "place",
-      "prompt": "Onde estavam os que venceram a besta?",
-      "answer": "Perto do mar de vidro, onde havia fogo.",
+      "prompt": "Onde estavam os que saíram vitoriosos da besta?",
+      "answer": "Junto ao mar de vidro misturado com fogo.",
       "reference": "Ap 15:2",
       "wrongs": [
         "No meio da Babilônia, em festa.",
@@ -922,8 +922,8 @@
       "chapter": 16,
       "verseStart": 2,
       "kind": "curiosity",
-      "prompt": "O que a primeira taça fez em quem tinha a marca da besta?",
-      "answer": "Causou uma ferida maligna.",
+      "prompt": "O que a primeira taça fez em quem tinha o sinal da besta?",
+      "answer": "Fez uma chaga má e maligna.",
       "reference": "Ap 16:2",
       "wrongs": [
         "Transformou a água em sangue.",
@@ -938,7 +938,7 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "O que aconteceu com a água do Eufrates na sexta taça?",
-      "answer": "Secou, e abriu caminho para os reis.",
+      "answer": "Secou-se, para preparar o caminho dos reis do oriente.",
       "reference": "Ap 16:12",
       "wrongs": [
         "Transbordou e alagou a terra.",
@@ -953,7 +953,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "Sobre o que a prostituta no deserto estava sentada, no Apocalipse?",
-      "answer": "Sobre uma besta vermelha de sete cabeças e dez chifres.",
+      "answer": "Sobre uma besta de cor de escarlata, com sete cabeças e dez chifres.",
       "reference": "Ap 17:3",
       "wrongs": [
         "Sobre um cavalo branco, chamado Fiel.",
@@ -983,7 +983,7 @@
       "verseStart": 18,
       "kind": "place",
       "prompt": "O que é a mulher sentada sobre a besta?",
-      "answer": "A grande cidade que governa os reis da terra.",
+      "answer": "A grande cidade que reina sobre os reis da terra.",
       "reference": "Ap 17:18",
       "wrongs": [
         "A noiva do Cordeiro, descida do céu.",
@@ -998,7 +998,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "Do que a mulher estava bêbada, no Apocalipse?",
-      "answer": "Do sangue do povo santo e das testemunhas de Jesus.",
+      "answer": "Do sangue dos santos e das testemunhas de Jesus.",
       "reference": "Ap 17:6",
       "wrongs": [
         "Do mel, que escorria da taça.",
@@ -1012,7 +1012,7 @@
       "chapter": 18,
       "verseStart": 2,
       "kind": "subject",
-      "prompt": "O que foi anunciado sobre a grande Babilônia?",
+      "prompt": "O que o anjo de grande poder anunciou sobre a grande Babilônia?",
       "answer": "Ela caiu e se tornou morada de demônios.",
       "reference": "Ap 18:2",
       "wrongs": [
@@ -1058,12 +1058,12 @@
       "verseStart": 21,
       "kind": "curiosity",
       "prompt": "O que o anjo fez com a grande pedra de moinho, no Apocalipse?",
-      "answer": "Atirou no mar, como figura da queda da cidade.",
+      "answer": "Lançou-a no mar, e com igual ímpeto será lançada Babilônia.",
       "reference": "Ap 18:21",
       "wrongs": [
-        "Pôs no templo, como oferta.",
-        "Quebrou no chão e guardou os pedaços.",
-        "Levantou como muro ao redor da cidade."
+        "Pôs a pedra no templo, como oferta.",
+        "Quebrou a pedra no chão e guardou os pedaços.",
+        "Levantou a pedra como muro ao redor da cidade."
       ]
     },
     {
@@ -1103,7 +1103,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "Que festa chegou para o Cordeiro?",
-      "answer": "A festa do casamento dele, com a esposa já pronta.",
+      "answer": "As bodas do Cordeiro, e a esposa já se aprontou.",
       "reference": "Ap 19:7",
       "wrongs": [
         "A festa da páscoa, com o cordeiro no altar.",
@@ -1193,7 +1193,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "Que cidade santa descia do céu, no Apocalipse?",
-      "answer": "A nova Jerusalém, enfeitada como noiva.",
+      "answer": "A nova Jerusalém, preparada como esposa adornada para o seu marido.",
       "reference": "Ap 21:2",
       "wrongs": [
         "A Babilônia, vestida de púrpura.",
@@ -1223,7 +1223,7 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "O que deixa de existir quando Deus mora com o povo, no Apocalipse?",
-      "answer": "A morte, o choro e a dor.",
+      "answer": "A morte, o pranto, o clamor e a dor.",
       "reference": "Ap 21:4",
       "wrongs": [
         "O trono de Deus e do Cordeiro.",

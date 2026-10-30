@@ -37,7 +37,7 @@
       "verseStart": 14,
       "kind": "place",
       "prompt": "Em que vinhas o amado é como um ramo de hena, em Cantares?",
-      "answer": "Nas vinhas de Engedi.",
+      "answer": "Nas vinhas de En-Gedi.",
       "reference": "Ct 1:14",
       "wrongs": [
         "Nas vinhas de Sarom.",
@@ -52,7 +52,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "A que o amado compara a mulher querida, em Cantares?",
-      "answer": "Às éguas que puxam a carruagem do faraó.",
+      "answer": "Às éguas dos carros de Faraó.",
       "reference": "Ct 1:9",
       "wrongs": [
         "Às leoas que rondam o deserto de Judá.",
@@ -67,7 +67,7 @@
       "verseStart": 12,
       "kind": "subject",
       "prompt": "Que sinais de primavera o amado anuncia, em Cantares?",
-      "answer": "Flores na terra, tempo de cantar e a voz da rolinha.",
+      "answer": "Flores na terra, tempo de cantar e a voz da rola.",
       "reference": "Ct 2:12",
       "wrongs": [
         "Neve no monte, tempo de calar e a voz do trovão.",
@@ -141,7 +141,7 @@
       "chapter": 3,
       "verseStart": 9,
       "kind": "place",
-      "prompt": "De onde veio a madeira da liteira de Salomão?",
+      "prompt": "De onde veio a madeira da carruagem de Salomão?",
       "answer": "Do Líbano.",
       "reference": "Ct 3:9",
       "wrongs": [
@@ -232,7 +232,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "O que os guardas da cidade fizeram à amada, em Cantares?",
-      "answer": "Bateram nela, a feriram e tiraram o véu.",
+      "answer": "Espancaram-na, a feriram e tiraram o manto.",
       "reference": "Ct 5:7",
       "wrongs": [
         "A coroaram, a perfumaram e abriram a porta.",
@@ -262,7 +262,7 @@
       "verseStart": 9,
       "kind": "subject",
       "prompt": "Como o amado chama a única filha da mãe, em Cantares?",
-      "answer": "De pomba perfeita.",
+      "answer": "De pomba imaculada.",
       "reference": "Ct 6:9",
       "wrongs": [
         "De leoa forte.",
@@ -336,13 +336,13 @@
       "chapter": 7,
       "verseStart": 4,
       "kind": "place",
-      "prompt": "A que tanques os olhos da amada se parecem, em Cantares?",
-      "answer": "Aos viveiros de peixe que há em Hesbom.",
+      "prompt": "A que piscinas os olhos da amada se parecem, em Cantares?",
+      "answer": "Às piscinas de Hesbom.",
       "reference": "Ct 7:4",
       "wrongs": [
-        "Aos poços de betume que há no vale.",
-        "Aos tanques de sal que há no mar Morto.",
-        "Aos canais de irrigação que há no Egito."
+        "Às piscinas de En-Gedi.",
+        "Às piscinas de Sarom.",
+        "Às piscinas de Tiro."
       ]
     },
     {

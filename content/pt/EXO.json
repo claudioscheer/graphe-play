@@ -367,7 +367,7 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "O que a vara de Arão fez com as varas dos magos?",
-      "answer": "Engoliu todas as outras.",
+      "answer": "Tragou as varas deles.",
       "reference": "Êx 7:12",
       "wrongs": [
         "Quebrou todas as outras.",
@@ -427,7 +427,7 @@
       "verseStart": 24,
       "kind": "subject",
       "prompt": "O que caiu sobre o Egito junto com fogo?",
-      "answer": "Um granizo enorme.",
+      "answer": "Uma saraiva muito grave.",
       "reference": "Êx 9:24",
       "wrongs": [
         "Uma chuva de enxofre.",
@@ -472,10 +472,10 @@
       "verseStart": 15,
       "kind": "subject",
       "prompt": "O que os gafanhotos fizeram com a vegetação do Egito?",
-      "answer": "Comeram tudo o que o granizo tinha deixado.",
+      "answer": "Comeram tudo o que a saraiva tinha deixado.",
       "reference": "Êx 10:15",
       "wrongs": [
-        "Deixaram intacto o que o granizo poupara.",
+        "Deixaram intacto o que a saraiva poupara.",
         "Plantaram de novo o que tinha caído.",
         "Cobriram as casas, sem tocar nas plantas."
       ]
@@ -577,12 +577,12 @@
       "verseStart": 29,
       "kind": "subject",
       "prompt": "O que Deus fez à meia-noite na terra do Egito?",
-      "answer": "Matou os primogênitos de gente e de animais.",
+      "answer": "Feriu todos os primogênitos de gente e de animais.",
       "reference": "Êx 12:29",
       "wrongs": [
         "Abriu o mar diante de Israel.",
         "Mandou trevas por três dias.",
-        "Derrubou as casas com granizo."
+        "Derrubou as casas com saraiva."
       ]
     },
     {
@@ -607,7 +607,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "Onde o sangue devia ser posto nas casas, em Êxodo?",
-      "answer": "Nos batentes e no alto da porta.",
+      "answer": "Nas ombreiras e na verga da porta.",
       "reference": "Êx 12:7",
       "wrongs": [
         "Só no chão, diante da cama.",
@@ -712,12 +712,12 @@
       "verseStart": 2,
       "kind": "place",
       "prompt": "Onde Israel acampou junto ao mar?",
-      "answer": "Junto a Pi-Hairote, entre Migdol e Baal-Zefom.",
+      "answer": "Diante de Pi-Hairote, entre Migdol e o mar.",
       "reference": "Êx 14:2",
       "wrongs": [
-        "Junto a Elim, entre Mara e o Sinai.",
-        "Junto a Cades, entre Edom e Moabe.",
-        "Junto a Sucote, entre Ramessés e Etã."
+        "Diante de Elim, entre Mara e o Sinai.",
+        "Diante de Cades, entre Edom e Moabe.",
+        "Diante de Sucote, entre Ramessés e Etã."
       ]
     },
     {
@@ -937,10 +937,10 @@
       "verseStart": 25,
       "kind": "subject",
       "prompt": "Que chefes Moisés colocou sobre o povo?",
-      "answer": "Líderes de mil, de cem, de cinquenta e de dez.",
+      "answer": "Maiorais de mil, de cem, de cinquenta e de dez.",
       "reference": "Êx 18:25",
       "wrongs": [
-        "Líderes só das doze tribos.",
+        "Maiorais só das doze tribos.",
         "Juízes de uma cidade apenas.",
         "Sacerdotes de cada família."
       ]
@@ -1027,7 +1027,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "O que Deus disse que Israel seria para ele?",
-      "answer": "Um reino de sacerdotes e um povo santo.",
+      "answer": "Um reino sacerdotal e um povo santo.",
       "reference": "Êx 19:6",
       "wrongs": [
         "Um exército de reis e um povo rico.",
@@ -1086,7 +1086,7 @@
       "chapter": 20,
       "verseStart": 19,
       "kind": "curiosity",
-      "prompt": "O que o povo pediu a Moisés, com medo de morrer?",
+      "prompt": "O que o povo pediu a Moisés, com medo de morrer, em Êxodo?",
       "answer": "Que ele falasse, e não Deus.",
       "reference": "Êx 20:19",
       "wrongs": [
@@ -1117,12 +1117,12 @@
       "verseStart": 24,
       "kind": "curiosity",
       "prompt": "O que a lei exigia em troca de um ferimento, em Êxodo?",
-      "answer": "Um dano igual ao que foi causado.",
+      "answer": "Olho por olho, dente por dente.",
       "reference": "Êx 21:24",
       "wrongs": [
-        "Uma multa fixa de prata.",
-        "O perdão, sem nenhuma pena.",
-        "A morte, em todo ferimento."
+        "Prata por olho, ouro por dente.",
+        "Perdão por olho, sem nenhuma pena.",
+        "Morte por todo ferimento leve."
       ]
     },
     {
@@ -1206,8 +1206,8 @@
       "chapter": 23,
       "verseStart": 31,
       "kind": "place",
-      "prompt": "Qual seria o limite da terra dada a Israel?",
-      "answer": "Do mar Vermelho ao mar da Filístia, e do deserto ao rio.",
+      "prompt": "Qual seria o limite da terra dada a Israel, em Êxodo?",
+      "answer": "Do mar Vermelho ao mar dos filisteus, e do deserto ao rio.",
       "reference": "Êx 23:31",
       "wrongs": [
         "Do Nilo ao monte Sinai, e de Gósen ao palácio.",
@@ -1432,7 +1432,7 @@
       "verseStart": 20,
       "kind": "curiosity",
       "prompt": "Que azeite devia alimentar as lâmpadas, em Êxodo?",
-      "answer": "Azeite puro de olivas, espremido.",
+      "answer": "Azeite puro de oliveiras, batido.",
       "reference": "Êx 27:20",
       "wrongs": [
         "Azeite comum, de várias sementes.",
@@ -1461,8 +1461,8 @@
       "chapter": 28,
       "verseStart": 2,
       "kind": "subject",
-      "prompt": "O que Deus mandou fazer para Arão?",
-      "answer": "Vestes sagradas, para honra e beleza.",
+      "prompt": "O que Deus mandou fazer para Arão vestir?",
+      "answer": "Vestes sagradas, para glória e ornamento.",
       "reference": "Êx 28:2",
       "wrongs": [
         "Uma coroa de rei, para governar o povo.",
@@ -1507,7 +1507,7 @@
       "verseStart": 36,
       "kind": "curiosity",
       "prompt": "O que Deus mandou gravar na placa de ouro, em Êxodo?",
-      "answer": "Santidade a Deus.",
+      "answer": "Santidade ao Senhor.",
       "reference": "Êx 28:36",
       "wrongs": [
         "Glória a Israel.",
@@ -1566,8 +1566,8 @@
       "chapter": 29,
       "verseStart": 14,
       "kind": "curiosity",
-      "prompt": "Onde se queimava a carne do bezerro da expiação, em Êxodo?",
-      "answer": "Fora do acampamento.",
+      "prompt": "Onde se queimava a carne do novilho da expiação, em Êxodo?",
+      "answer": "Fora do arraial.",
       "reference": "Êx 29:14",
       "wrongs": [
         "Sobre o altar de ouro.",
@@ -1611,7 +1611,7 @@
       "chapter": 30,
       "verseStart": 19,
       "kind": "curiosity",
-      "prompt": "O que Arão e os filhos dele deviam lavar?",
+      "prompt": "O que Arão e os filhos dele deviam lavar ao entrar na tenda?",
       "answer": "As mãos e os pés.",
       "reference": "Êx 30:19",
       "wrongs": [
@@ -1687,7 +1687,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "Que imagem Arão fez para Israel?",
-      "answer": "Um bezerro de metal fundido.",
+      "answer": "Um bezerro de fundição.",
       "reference": "Êx 32:4",
       "wrongs": [
         "Uma serpente de bronze.",
@@ -1776,13 +1776,13 @@
       "chapter": 33,
       "verseStart": 6,
       "kind": "place",
-      "prompt": "Desde que monte Israel deixou os enfeites?",
-      "answer": "Desde o monte Horebe.",
+      "prompt": "Onde Israel deixou os ornamentos, em Êxodo?",
+      "answer": "Ao pé do monte Horebe.",
       "reference": "Êx 33:6",
       "wrongs": [
-        "Desde o monte Seir.",
-        "Desde o monte Nebo.",
-        "Desde o monte Carmelo."
+        "Ao pé do monte Seir.",
+        "Ao pé do monte Nebo.",
+        "Ao pé do monte Carmelo."
       ]
     },
     {
@@ -1792,7 +1792,7 @@
       "verseStart": 22,
       "kind": "curiosity",
       "prompt": "Onde Deus pôs Moisés enquanto a glória passava?",
-      "answer": "Numa fenda da rocha, coberto pela mão de Deus.",
+      "answer": "Numa fenda da penha, coberto pela mão de Deus.",
       "reference": "Êx 33:22",
       "wrongs": [
         "No alto do monte, à vista do povo.",
@@ -1806,7 +1806,7 @@
       "chapter": 34,
       "verseStart": 27,
       "kind": "subject",
-      "prompt": "O que Deus firmou com Moisés e com Israel?",
+      "prompt": "O que Deus firmou com Moisés e com Israel depois do bezerro?",
       "answer": "Uma aliança.",
       "reference": "Êx 34:27",
       "wrongs": [
@@ -1822,7 +1822,7 @@
       "verseStart": 29,
       "kind": "curiosity",
       "prompt": "O que aconteceu com o rosto de Moisés ao descer do Sinai?",
-      "answer": "A pele ficou brilhando.",
+      "answer": "A pele do rosto resplandecia.",
       "reference": "Êx 34:29",
       "wrongs": [
         "A pele ficou coberta de cinza.",
@@ -1836,7 +1836,7 @@
       "chapter": 34,
       "verseStart": 28,
       "kind": "curiosity",
-      "prompt": "O que Moisés não consumiu naqueles quarenta dias?",
+      "prompt": "O que Moisés não consumiu nos quarenta dias no Sinai?",
       "answer": "Pão e água.",
       "reference": "Êx 34:28",
       "wrongs": [
@@ -1852,12 +1852,12 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "Como Deus se apresentou ao passar diante de Moisés?",
-      "answer": "Misericordioso, paciente e cheio de bondade.",
+      "answer": "Misericordioso e piedoso, tardio em irar-se e grande em beneficência e verdade.",
       "reference": "Êx 34:6",
       "wrongs": [
-        "Distante, apressado e sem perdão.",
-        "Temível, impaciente e cheio de ira.",
-        "Silencioso, oculto e sem nome."
+        "Impaciente, sem misericórdia e sem verdade.",
+        "Tardio em beneficência e grande em ira.",
+        "Oculto, sem nome e sem perdão."
       ]
     },
     {
@@ -1867,7 +1867,7 @@
       "verseStart": 21,
       "kind": "subject",
       "prompt": "O que o povo de coração disposto trouxe, em Êxodo?",
-      "answer": "Ofertas voluntárias para a obra do tabernáculo.",
+      "answer": "A oferta alçada para a obra da tenda da congregação.",
       "reference": "Êx 35:21",
       "wrongs": [
         "Tributos obrigatórios para o palácio de Faraó.",
@@ -1912,7 +1912,7 @@
       "verseStart": 22,
       "kind": "curiosity",
       "prompt": "Que joias de ouro os voluntários trouxeram para o tabernáculo, em Êxodo?",
-      "answer": "Correntes, pingentes, anéis e pulseiras.",
+      "answer": "Fivelas, pendentes, anéis e braceletes.",
       "reference": "Êx 35:22",
       "wrongs": [
         "Coroas, cetros, escudos e capacetes.",
@@ -2093,7 +2093,7 @@
       "verseStart": 30,
       "kind": "curiosity",
       "prompt": "O que gravaram na placa da coroa santa, em Êxodo?",
-      "answer": "Santidade a Deus.",
+      "answer": "Santidade ao Senhor.",
       "reference": "Êx 39:30",
       "wrongs": [
         "Glória a Israel.",

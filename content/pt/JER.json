@@ -22,11 +22,11 @@
       "verseStart": 13,
       "kind": "subject",
       "prompt": "Que dois males o povo de Israel cometeu contra Deus?",
-      "answer": "Abandonou a fonte viva e cavou cisternas rachadas.",
+      "answer": "Deixou o manancial de águas vivas e cavou cisternas rotas.",
       "wrongs": [
-        "Guardou a fonte viva e tampou cisternas novas.",
-        "Bebeu da fonte viva e encheu cisternas de ouro.",
-        "Buscou a fonte viva e quebrou cisternas alheias."
+        "Guardou o manancial de águas vivas e tampou cisternas novas.",
+        "Bebeu do manancial de águas vivas e encheu cisternas de ouro.",
+        "Buscou o manancial de águas vivas e quebrou cisternas alheias."
       ],
       "reference": "Jr 2:13"
     },
@@ -67,10 +67,10 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "O que Deus faria se achasse um homem justo em Jerusalém?",
-      "answer": "Perdoaria a cidade.",
+      "answer": "Perdoaria esse homem.",
       "wrongs": [
-        "A entregaria ao cerco.",
-        "Levaria só esse homem.",
+        "O entregaria ao cerco.",
+        "Levaria só a cidade.",
         "Dobraria o castigo."
       ],
       "reference": "Jr 5:1"
@@ -96,8 +96,8 @@
       "chapter": 7,
       "verseStart": 11,
       "kind": "subject",
-      "prompt": "O que Deus viu no templo de Jerusalém?",
-      "answer": "Uma caverna de assaltantes.",
+      "prompt": "O que Deus viu no templo de Jerusalém, em Jeremias?",
+      "answer": "Uma caverna de salteadores.",
       "wrongs": [
         "Uma casa cheia de oração.",
         "Um palácio de ouro fino.",
@@ -112,7 +112,7 @@
       "verseStart": 1,
       "verseEnd": 2,
       "kind": "subject",
-      "prompt": "O que seria tirado das sepulturas dos reis de Judá?",
+      "prompt": "No juízo, o que Deus tiraria das sepulturas dos reis de Judá?",
       "answer": "Os ossos deles, expostos ao sol e à lua.",
       "wrongs": [
         "As coroas deles, guardadas no templo.",
@@ -128,11 +128,11 @@
       "verseStart": 24,
       "kind": "subject",
       "prompt": "O que Deus disse a Jeremias sobre o orgulho?",
-      "answer": "Orgulhe-se de conhecê-lo, que faz o bem, o juízo e a justiça.",
+      "answer": "Glorie-se de entendê-lo e conhecê-lo, que faz beneficência, juízo e justiça.",
       "wrongs": [
-        "Orgulhe-se da sabedoria, da força e da muita riqueza.",
-        "Orgulhe-se do templo, do rei e do exército de Judá.",
-        "Orgulhe-se do ouro, da terra e da fama entre as nações."
+        "Glorie-se da sabedoria, da força e da muita riqueza.",
+        "Glorie-se do templo, do rei e do exército de Judá.",
+        "Glorie-se do ouro, da terra e da fama entre as nações."
       ],
       "reference": "Jr 9:24"
     },
@@ -143,11 +143,11 @@
       "verseStart": 5,
       "kind": "subject",
       "prompt": "A que Jeremias comparou os ídolos mudos e imóveis?",
-      "answer": "A espantalhos no meio de uma plantação.",
+      "answer": "A uma palmeira, obra torneada.",
       "wrongs": [
-        "A cedros plantados no Líbano.",
-        "A tochas acesas no santuário.",
-        "A soldados postos na muralha."
+        "A uns cedros plantados no Líbano.",
+        "A umas tochas acesas no santuário.",
+        "A uns soldados postos na muralha."
       ],
       "reference": "Jr 10:5"
     },
@@ -218,9 +218,9 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "O que Deus faria se Moisés e Samuel orassem pelo povo?",
-      "answer": "Não teria favor com o povo e o expulsaria da presença dele.",
+      "answer": "A alma dele não estaria com o povo, e o lançaria da face.",
       "wrongs": [
-        "Teria favor com o povo e o traria à presença dele.",
+        "A alma dele estaria com o povo, e o traria à face.",
         "Ouviria a oração e devolveria a terra aos pais.",
         "Calaria a ira e deixaria o rei firme no trono."
       ],
@@ -248,7 +248,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "Com que o pecado de Judá foi gravado?",
-      "answer": "Com um cinzel de ferro e uma ponta de diamante.",
+      "answer": "Com um ponteiro de ferro e uma ponta de diamante.",
       "wrongs": [
         "Com tinta preta e um pincel de junco.",
         "Com fogo brando e uma brasa do altar.",
@@ -263,7 +263,7 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "A que Deus comparou a casa de Israel, em Jeremias?",
-      "answer": "Ao barro na mão de quem o modela.",
+      "answer": "Ao barro na mão do oleiro.",
       "wrongs": [
         "À pedra na fundação do templo.",
         "Ao ouro no cofre do palácio.",
@@ -278,7 +278,7 @@
       "verseStart": 11,
       "kind": "subject",
       "prompt": "Como Deus comparou o fim do povo ao vaso de oleiro, em Jeremias?",
-      "answer": "Ele o quebraria, e não haveria conserto.",
+      "answer": "Ele o quebraria, e não se refaria.",
       "wrongs": [
         "Ele o guardaria, e haveria novo uso.",
         "Ele o venderia, e o oleiro faria outro.",
@@ -293,7 +293,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "O que Pasur fez com Jeremias na casa de Deus?",
-      "answer": "Bateu nele e o prendeu no tronco.",
+      "answer": "Feriu-o e o colocou no cepo.",
       "wrongs": [
         "Deu-lhe pão e o deixou ir embora.",
         "Leu-lhe a carta e a rasgou em silêncio.",
@@ -337,8 +337,8 @@
       "chapter": 23,
       "verseStart": 5,
       "kind": "subject",
-      "prompt": "O que Deus prometeu levantar para Davi?",
-      "answer": "Um rei justo, descendente de Davi, que reinaria.",
+      "prompt": "O que Deus prometeu levantar para Davi, em Jeremias?",
+      "answer": "Um Renovo justo, que reinaria e faria justiça.",
       "wrongs": [
         "Um sacerdote de Siló, que guardaria o altar.",
         "Um profeta de Anatote, que escreveria a lei.",
@@ -383,7 +383,7 @@
       "verseStart": 16,
       "kind": "subject",
       "prompt": "O que os príncipes e o povo decidiram sobre Jeremias?",
-      "answer": "Que ele não merecia morrer, pois falou da parte de Deus.",
+      "answer": "Que ele não era réu de morte, pois falou em nome de Deus.",
       "wrongs": [
         "Que ele devia morrer, pois falou contra o templo.",
         "Que ele devia calar, pois falou em nome próprio.",
@@ -398,7 +398,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "O que Deus mandou Jeremias pôr no pescoço?",
-      "answer": "Amarras e jugos.",
+      "answer": "Grilhões e jugos.",
       "wrongs": [
         "Coroas e cetros.",
         "Espadas e escudos.",
@@ -577,7 +577,7 @@
       "chapter": 30,
       "verseStart": 3,
       "kind": "subject",
-      "prompt": "O que Deus prometeu fazer com Israel e Judá?",
+      "prompt": "O que Deus prometeu fazer com o cativeiro de Israel e Judá?",
       "answer": "Trazê-los de volta à terra que deu aos pais.",
       "wrongs": [
         "Deixá-los para sempre na terra do exílio.",
@@ -623,11 +623,11 @@
       "verseStart": 18,
       "kind": "curiosity",
       "prompt": "O que Deus prometeu pôr outra vez no lugar de costume, em Jeremias?",
-      "answer": "O templo.",
+      "answer": "O palácio.",
       "wrongs": [
         "A arca.",
         "O muro.",
-        "O mercado."
+        "O templo."
       ],
       "reference": "Jr 30:18"
     },
@@ -667,7 +667,7 @@
       "chapter": 31,
       "verseStart": 5,
       "kind": "place",
-      "prompt": "Onde Israel voltaria a plantar vinhas?",
+      "prompt": "Onde Israel voltaria a plantar vinhas, em Jeremias?",
       "answer": "Nos montes de Samaria.",
       "wrongs": [
         "Nos montes de Judá.",
@@ -683,7 +683,7 @@
       "verseStart": 29,
       "kind": "curiosity",
       "prompt": "Qual dito sobre pais e filhos deixaria de ser repetido, em Jeremias?",
-      "answer": "O de que os pais comiam uvas verdes e os filhos sofriam por isso.",
+      "answer": "O de que os pais comeram uvas verdes e os dentes dos filhos se embotaram.",
       "wrongs": [
         "O de que o filho come o pão quente e o pai paga a conta.",
         "O de que a mãe guarda o ouro fino e a filha o perde todo.",
@@ -758,7 +758,7 @@
       "verseStart": 15,
       "kind": "subject",
       "prompt": "O que Deus faria brotar da família de Davi?",
-      "answer": "Um herdeiro justo, que faria justiça na terra.",
+      "answer": "Um Renovo de justiça, que faria juízo e justiça na terra.",
       "wrongs": [
         "Um sacerdote levítico, que queimaria incenso.",
         "Um escriba fiel, que copiaria a lei.",
@@ -772,7 +772,7 @@
       "chapter": 33,
       "verseStart": 17,
       "kind": "name",
-      "prompt": "Quem nunca ficaria sem alguém no trono de Israel?",
+      "prompt": "Quem nunca ficaria sem alguém no trono de Israel, em Jeremias?",
       "answer": "Davi.",
       "wrongs": [
         "Saul.",
@@ -803,11 +803,11 @@
       "verseStart": 16,
       "kind": "curiosity",
       "prompt": "Como chamariam Jerusalém quando ela estivesse segura?",
-      "answer": "Deus é a nossa justiça.",
+      "answer": "O Senhor é a nossa justiça.",
       "wrongs": [
-        "Deus está ali.",
-        "Deus é a minha bandeira.",
-        "Deus é a minha paz."
+        "O Senhor está ali.",
+        "O Senhor é a minha bandeira.",
+        "O Senhor é a minha paz."
       ],
       "reference": "Jr 33:16"
     },
@@ -938,7 +938,7 @@
       "verseStart": 23,
       "kind": "subject",
       "prompt": "O que Jeudi fez com o rolo depois de ler um trecho?",
-      "answer": "Rasgou-o e o queimou no braseiro.",
+      "answer": "Cortou-o com um canivete e o lançou no fogo.",
       "wrongs": [
         "Guardou-o e o levou ao templo.",
         "Copiou-o e o enviou ao Egito.",
@@ -967,7 +967,7 @@
       "chapter": 36,
       "verseStart": 22,
       "kind": "place",
-      "prompt": "Onde Jeoaquim estava quando o rolo foi lido?",
+      "prompt": "Onde Jeoiaquim estava quando o rolo foi lido?",
       "answer": "Na casa de inverno, diante de um braseiro aceso.",
       "wrongs": [
         "No terraço do palácio, debaixo do sol forte.",
@@ -982,7 +982,7 @@
       "chapter": 36,
       "verseStart": 23,
       "kind": "curiosity",
-      "prompt": "Quantas colunas Jeudi lia antes de cortar o rolo?",
+      "prompt": "Quantas folhas Jeudi lia antes de cortar o rolo?",
       "answer": "Três ou quatro.",
       "wrongs": [
         "Uma ou duas.",
@@ -998,7 +998,7 @@
       "verseStart": 15,
       "kind": "subject",
       "prompt": "Onde os príncipes prenderam Jeremias?",
-      "answer": "Na casa do escriba Jônatas, usada como prisão.",
+      "answer": "Na casa de Jônatas, o escrivão, feita cárcere.",
       "wrongs": [
         "Na cisterna de Malquias, no pátio da guarda.",
         "Na casa de Gedalias, já vazia em Mispa.",
@@ -1073,7 +1073,7 @@
       "verseStart": 10,
       "kind": "name",
       "prompt": "Quem o rei encarregou de tirar Jeremias da cisterna?",
-      "answer": "Ebede-Meleque, o cuxita.",
+      "answer": "Ebede-Meleque, o etíope.",
       "wrongs": [
         "Baruque, filho de Nerias.",
         "Gedalias, filho de Aicã.",
@@ -1178,7 +1178,7 @@
       "verseStart": 5,
       "kind": "subject",
       "prompt": "Quem passou a chefiar as cidades de Judá, posto pela Babilônia?",
-      "answer": "Gedalias, filho de Aicã.",
+      "answer": "Gedalias, filho de Aicão.",
       "wrongs": [
         "Ismael, filho de Netanias.",
         "Joanã, filho de Careá.",
@@ -1208,7 +1208,7 @@
       "verseStart": 6,
       "kind": "place",
       "prompt": "Onde Jeremias foi morar com Gedalias?",
-      "answer": "Em Mispá.",
+      "answer": "Em Mizpá.",
       "wrongs": [
         "Em Anatote.",
         "Em Hebrom.",
@@ -1433,7 +1433,7 @@
       "verseStart": 30,
       "kind": "name",
       "prompt": "Qual rei do Egito Deus entregaria aos inimigos?",
-      "answer": "O faraó Ofra.",
+      "answer": "O faraó Hofra.",
       "wrongs": [
         "O faraó Neco.",
         "O faraó Sisaque.",
@@ -1463,11 +1463,11 @@
       "verseStart": 19,
       "kind": "curiosity",
       "prompt": "O que as mulheres faziam para a rainha dos céus, em Jeremias?",
-      "answer": "Bolos para o culto e ofertas de bebida.",
+      "answer": "Bolos para a adorar e libações.",
       "wrongs": [
-        "Coroas para o culto e taças de ouro.",
-        "Véus para o culto e incenso em pó.",
-        "Pão para o culto e azeite de oliva."
+        "Coroas para a adorar e taças de ouro.",
+        "Véus para a adorar e incenso em pó.",
+        "Pão para a adorar e azeite de oliva."
       ],
       "reference": "Jr 44:19"
     },
@@ -1478,7 +1478,7 @@
       "verseStart": 5,
       "kind": "subject",
       "prompt": "O que Deus disse a Baruque sobre buscar grandezas?",
-      "answer": "Que não buscasse, pois a vida dele seria guardada.",
+      "answer": "Que não buscasse, pois teria a alma por despojo.",
       "wrongs": [
         "Que buscasse, pois a terra dele seria grande.",
         "Que esperasse, pois o trono dele seria firme.",
@@ -1508,7 +1508,7 @@
       "verseStart": 1,
       "kind": "curiosity",
       "prompt": "Quando Baruque escrevia as palavras de Jeremias?",
-      "answer": "No quinto ano de Jeoaquim, rei de Judá.",
+      "answer": "No quarto ano de Jeoiaquim, rei de Judá.",
       "wrongs": [
         "No décimo ano de Zedequias, rei de Judá.",
         "No primeiro ano de Joaquim, rei de Judá.",
@@ -1627,7 +1627,7 @@
       "chapter": 48,
       "verseStart": 42,
       "kind": "subject",
-      "prompt": "O que aconteceria a Moabe por se exaltar contra Deus?",
+      "prompt": "O que Deus faria no juízo a Moabe, por se exaltar contra ele?",
       "answer": "Seria destruído e deixaria de ser povo.",
       "wrongs": [
         "Seria poupado e continuaria como povo.",
@@ -1643,7 +1643,7 @@
       "verseStart": 7,
       "kind": "name",
       "prompt": "Quem iria ao cativeiro com os príncipes de Moabe?",
-      "answer": "Quemos, com os sacerdotes.",
+      "answer": "Quemós, com os sacerdotes.",
       "wrongs": [
         "Marduque, com os magos.",
         "Baal, com os profetas.",
@@ -1673,7 +1673,7 @@
       "verseStart": 47,
       "kind": "curiosity",
       "prompt": "O que Deus prometeu a Moabe nos últimos dias?",
-      "answer": "Restaurá-lo do infortúnio.",
+      "answer": "Fazer voltar os cativos dele.",
       "wrongs": [
         "Entregá-lo a Edom para sempre.",
         "Mudá-lo para o Egito sem volta.",
@@ -1717,8 +1717,8 @@
       "chapter": 49,
       "verseStart": 2,
       "kind": "place",
-      "prompt": "O que seria de Rabá dos filhos de Amom, em Jeremias?",
-      "answer": "Um monte de ruínas, com as vilas queimadas.",
+      "prompt": "O que Deus faria no juízo a Rabá dos filhos de Amom, em Jeremias?",
+      "answer": "Um montão de ruínas, com os lugares queimados.",
       "wrongs": [
         "Uma cidade nova, com os muros dourados.",
         "Um porto rico, com as naus carregadas.",
@@ -1747,8 +1747,8 @@
       "chapter": 50,
       "verseStart": 2,
       "kind": "subject",
-      "prompt": "O que devia ser anunciado sobre a Babilônia?",
-      "answer": "Que ela foi tomada, Bel humilhado e Merodaque quebrado.",
+      "prompt": "O que Jeremias devia anunciar sobre a Babilônia?",
+      "answer": "Que ela foi tomada, Bel confundido e Merodaque espatifado.",
       "wrongs": [
         "Que ela foi poupada, Bel coroado e Merodaque no trono.",
         "Que ela foi vendida, Bel escondido e Merodaque calado.",
@@ -1882,7 +1882,7 @@
       "chapter": 52,
       "verseStart": 31,
       "kind": "name",
-      "prompt": "Quem tirou o rei Joaquim da prisão?",
+      "prompt": "Quem tirou o rei Jeoiaquim da prisão?",
       "answer": "Evil-Merodaque, rei da Babilônia.",
       "wrongs": [
         "Nabucodonosor, rei da Babilônia.",

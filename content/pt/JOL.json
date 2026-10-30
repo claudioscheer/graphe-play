@@ -7,7 +7,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "O que comeu a plantação na profecia de Joel?",
-      "answer": "Gafanhotos, em levas, até acabar o resto.",
+      "answer": "A lagarta, o gafanhoto, a locusta e o pulgão.",
       "reference": "Jl 1:4",
       "wrongs": [
         "O granizo, numa noite, até acabar o trigo.",
@@ -52,7 +52,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "O que ficou branco na plantação devastada, em Joel?",
-      "answer": "Os ramos da videira.",
+      "answer": "Os ramos da figueira.",
       "reference": "Jl 1:7",
       "wrongs": [
         "As espigas de trigo.",
@@ -127,7 +127,7 @@
       "verseStart": 12,
       "kind": "subject",
       "prompt": "Onde Deus se senta para julgar as nações, em Joel?",
-      "answer": "No vale de Josafá.",
+      "answer": "No vale de Jeosafá.",
       "reference": "Jl 3:12",
       "wrongs": [
         "No vale de Jezreel.",
@@ -156,13 +156,13 @@
       "chapter": 3,
       "verseStart": 3,
       "kind": "curiosity",
-      "prompt": "Por que preço venderam os jovens de Judá?",
-      "answer": "Rapazes por prostitutas e moças por vinho.",
+      "prompt": "Por que preço as nações venderam os jovens de Judá?",
+      "answer": "Um menino por uma meretriz e uma menina por vinho.",
       "reference": "Jl 3:3",
       "wrongs": [
-        "Rapazes por prata e moças por ouro.",
-        "Rapazes por bois e moças por ovelhas.",
-        "Rapazes por trigo e moças por azeite."
+        "Um menino por prata e uma menina por ouro.",
+        "Um menino por um boi e uma menina por ovelha.",
+        "Um menino por trigo e uma menina por azeite."
       ]
     },
     {
@@ -172,12 +172,12 @@
       "verseStart": 18,
       "kind": "curiosity",
       "prompt": "O que corre dos montes quando Judá é restaurado, em Joel?",
-      "answer": "Suco doce, e leite dos morros.",
+      "answer": "Mosto dos montes, e leite dos outeiros.",
       "reference": "Jl 3:18",
       "wrongs": [
-        "Sangue, e fumaça dos morros.",
-        "Água salgada, e poeira dos vales.",
-        "Azeite, e cinza das colinas."
+        "Sangue dos montes, e fumaça dos outeiros.",
+        "Água salgada dos montes, e poeira dos vales.",
+        "Azeite dos montes, e cinza dos outeiros."
       ]
     },
     {

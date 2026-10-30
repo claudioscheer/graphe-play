@@ -7,7 +7,7 @@
       "verseStart": 7,
       "kind": "subject",
       "prompt": "O que temos em Cristo por meio do sangue dele?",
-      "answer": "A libertação e o perdão dos pecados.",
+      "answer": "A redenção pelo seu sangue e a remissão das ofensas.",
       "reference": "Ef 1:7",
       "wrongs": [
         "A riqueza desta vida e a saúde do corpo.",
@@ -37,7 +37,7 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "Quando Deus escolheu os crentes em Cristo?",
-      "answer": "Antes de o mundo existir.",
+      "answer": "Antes da fundação do mundo.",
       "reference": "Ef 1:4",
       "wrongs": [
         "Depois que a pessoa crê.",
@@ -51,8 +51,8 @@
       "chapter": 1,
       "verseStart": 13,
       "kind": "curiosity",
-      "prompt": "Com o que os crentes foram selados?",
-      "answer": "Com o Espírito Santo prometido.",
+      "prompt": "Com o que os crentes foram selados, segundo Paulo?",
+      "answer": "Com o Espírito Santo da promessa.",
       "reference": "Ef 1:13",
       "wrongs": [
         "Com o sangue de animais.",
@@ -66,8 +66,8 @@
       "chapter": 2,
       "verseStart": 8,
       "kind": "subject",
-      "prompt": "Como a pessoa é salva, se isso não vem dela?",
-      "answer": "Pela graça, por meio da fé, e isso é presente de Deus.",
+      "prompt": "Como a pessoa é salva, se isso não vem dela, segundo Paulo?",
+      "answer": "Pela graça, por meio da fé, e isso é dom de Deus.",
       "reference": "Ef 2:8",
       "wrongs": [
         "Pelas obras, como pagamento justo do esforço.",
@@ -97,7 +97,7 @@
       "verseStart": 14,
       "kind": "curiosity",
       "prompt": "O que Cristo derrubou entre os dois povos?",
-      "answer": "O muro que os separava.",
+      "answer": "A parede de separação.",
       "reference": "Ef 2:14",
       "wrongs": [
         "O templo, pedra por pedra.",
@@ -111,8 +111,8 @@
       "chapter": 2,
       "verseStart": 9,
       "kind": "curiosity",
-      "prompt": "Por que a salvação não depende de obras?",
-      "answer": "Para que ninguém se orgulhe.",
+      "prompt": "Por que a salvação não vem das obras, segundo Paulo?",
+      "answer": "Para que ninguém se glorie.",
       "reference": "Ef 2:9",
       "wrongs": [
         "Para que a lei fique sem uso.",
@@ -126,11 +126,11 @@
       "chapter": 3,
       "verseStart": 6,
       "kind": "subject",
-      "prompt": "Qual mistério Paulo diz que foi revelado?",
-      "answer": "Que os outros povos também herdam a promessa em Cristo.",
+      "prompt": "Qual mistério foi revelado aos apóstolos, em Efésios?",
+      "answer": "Que os gentios são coerdeiros, de um mesmo corpo, e participantes da promessa.",
       "reference": "Ef 3:6",
       "wrongs": [
-        "Que só Israel entra na promessa, e os outros ficam de fora.",
+        "Que só Israel entra na promessa, e os gentios ficam de fora.",
         "Que a lei nova substitui a promessa feita a Abraão.",
         "Que os gentios se salvam sem Cristo, pela própria sabedoria."
       ]
@@ -141,7 +141,7 @@
       "chapter": 3,
       "verseStart": 8,
       "kind": "name",
-      "prompt": "Quem se diz o menor dos santos?",
+      "prompt": "Quem se diz o mínimo de todos os santos?",
       "answer": "Paulo.",
       "reference": "Ef 3:8",
       "wrongs": [
@@ -187,10 +187,10 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "O que Paulo pede que se guarde entre os crentes?",
-      "answer": "A unidade do Espírito, ligada pela paz.",
+      "answer": "A unidade do Espírito, pelo vínculo da paz.",
       "reference": "Ef 4:3",
       "wrongs": [
-        "A uniformidade dos ritos, ligada pela lei.",
+        "A uniformidade dos ritos, pelo vínculo da lei.",
         "A separação dos grupos, para evitar mistura.",
         "A obediência a um só bispo, em cada cidade."
       ]
@@ -246,7 +246,7 @@
       "chapter": 5,
       "verseStart": 25,
       "kind": "subject",
-      "prompt": "Como o marido deve amar a esposa?",
+      "prompt": "Como Paulo diz que o marido deve amar a mulher?",
       "answer": "Do modo como Cristo amou a igreja, entregando-se por ela.",
       "reference": "Ef 5:25",
       "wrongs": [
@@ -276,8 +276,8 @@
       "chapter": 5,
       "verseStart": 31,
       "kind": "curiosity",
-      "prompt": "O que o homem e a mulher se tornam ao se unir?",
-      "answer": "Uma só carne.",
+      "prompt": "O que Paulo diz que o homem e a mulher se tornam ao se unir?",
+      "answer": "Dois numa carne.",
       "reference": "Ef 5:31",
       "wrongs": [
         "Dois espíritos sem corpo.",
@@ -291,8 +291,8 @@
       "chapter": 6,
       "verseStart": 11,
       "kind": "subject",
-      "prompt": "O que vestir para ficar firme contra o diabo?",
-      "answer": "A armadura completa de Deus.",
+      "prompt": "O que Paulo manda vestir para ficar firme contra o diabo?",
+      "answer": "Toda a armadura de Deus.",
       "reference": "Ef 6:11",
       "wrongs": [
         "A espada do soldado romano.",
@@ -307,7 +307,7 @@
       "verseStart": 21,
       "kind": "name",
       "prompt": "Quem Paulo enviou para contar como ele estava?",
-      "answer": "Tíquico, irmão querido e servidor fiel.",
+      "answer": "Tíquico, irmão amado e fiel ministro.",
       "reference": "Ef 6:21",
       "wrongs": [
         "Onésimo, que voltou à casa de Filemom.",
@@ -321,7 +321,7 @@
       "chapter": 6,
       "verseStart": 16,
       "kind": "curiosity",
-      "prompt": "Com o que se apagam as flechas de fogo do maligno?",
+      "prompt": "Com o que se apagam os dardos inflamados do maligno?",
       "answer": "Com o escudo da fé.",
       "reference": "Ef 6:16",
       "wrongs": [

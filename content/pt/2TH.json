@@ -7,12 +7,12 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "O que é justo Deus fazer com quem aflige os crentes?",
-      "answer": "Devolver aflição a quem causa aflição.",
+      "answer": "Dar em paga tribulação aos que atribulam.",
       "reference": "2Ts 1:6",
       "wrongs": [
-        "Ignorar a aflição e não julgar ninguém.",
-        "Afligir os crentes até eles se calarem.",
-        "Transferir a aflição para os anjos."
+        "Ignorar a tribulação e não julgar ninguém.",
+        "Dar tribulação aos crentes até eles se calarem.",
+        "Transferir a tribulação para os anjos."
       ]
     },
     {
@@ -36,8 +36,8 @@
       "chapter": 1,
       "verseStart": 8,
       "kind": "curiosity",
-      "prompt": "Com o que Jesus castiga quem não conhece a Deus?",
-      "answer": "Com chama de fogo.",
+      "prompt": "Com o que o Senhor toma vingança de quem não conhece a Deus?",
+      "answer": "Com labareda de fogo.",
       "reference": "2Ts 1:8",
       "wrongs": [
         "Com um dilúvio.",
@@ -52,7 +52,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "O que vem antes do dia de Cristo?",
-      "answer": "A rebelião e o aparecimento do homem do pecado.",
+      "answer": "A apostasia e a manifestação do homem do pecado.",
       "reference": "2Ts 2:3",
       "wrongs": [
         "A conversão de Israel e a paz de Roma.",
@@ -66,8 +66,8 @@
       "chapter": 2,
       "verseStart": 9,
       "kind": "name",
-      "prompt": "Quem age na vinda do injusto?",
-      "answer": "Satanás, com poder, sinais e prodígios falsos.",
+      "prompt": "Quem age na vinda do iníquo?",
+      "answer": "Satanás, com poder, sinais e prodígios de mentira.",
       "reference": "2Ts 2:9",
       "wrongs": [
         "Miguel, com os anjos fiéis.",
@@ -96,13 +96,13 @@
       "chapter": 2,
       "verseStart": 8,
       "kind": "curiosity",
-      "prompt": "Como Jesus destruirá o injusto?",
-      "answer": "Com o sopro da boca e com o brilho da vinda dele.",
+      "prompt": "Como o Senhor desfará o iníquo?",
+      "answer": "Pelo Espírito da sua boca, e o aniquilará pelo esplendor da sua vinda.",
       "reference": "2Ts 2:8",
       "wrongs": [
         "Com um exército de anjos em batalha longa.",
         "Com o fogo de Roma, na queda da cidade.",
-        "Com um acordo, se o injusto se arrepender."
+        "Com um acordo, se o iníquo se arrepender."
       ]
     },
     {
@@ -127,7 +127,7 @@
       "verseStart": 8,
       "kind": "curiosity",
       "prompt": "Como Paulo conseguia o próprio pão?",
-      "answer": "Trabalhando noite e dia, para não incomodar ninguém.",
+      "answer": "Trabalhando noite e dia, para não ser pesado a ninguém.",
       "reference": "2Ts 3:8",
       "wrongs": [
         "Pedindo esmola de igreja em igreja.",

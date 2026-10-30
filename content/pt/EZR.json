@@ -337,7 +337,7 @@
       "verseStart": 2,
       "kind": "place",
       "prompt": "Onde foi achado o livro do memorial, em Esdras?",
-      "answer": "Em Ecbatana, na província da Média.",
+      "answer": "Em Acmeta, na província da Média.",
       "reference": "Ed 6:2",
       "wrongs": [
         "Em Susã, na província de Elão.",
@@ -412,7 +412,7 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "O que Esdras decidiu no coração sobre a lei?",
-      "answer": "Buscá-la, praticá-la e ensiná-la em Israel.",
+      "answer": "Buscá-la, cumpri-la e ensiná-la em Israel.",
       "reference": "Ed 7:10",
       "wrongs": [
         "Escondê-la, copiá-la e guardá-la no templo.",
@@ -427,7 +427,7 @@
       "verseStart": 31,
       "kind": "subject",
       "prompt": "O que Deus fez na viagem de Esdras a Jerusalém?",
-      "answer": "Livrou o grupo de inimigos e assaltantes.",
+      "answer": "Livrou-os dos inimigos e dos que armavam ciladas.",
       "reference": "Ed 8:31",
       "wrongs": [
         "Entregou o grupo a salteadores no caminho.",
@@ -516,7 +516,7 @@
       "chapter": 9,
       "verseStart": 3,
       "kind": "curiosity",
-      "prompt": "O que Esdras fez ao ouvir a notícia?",
+      "prompt": "O que Esdras fez ao ouvir a notícia dos casamentos mistos?",
       "answer": "Rasgou a roupa e arrancou cabelos da barba.",
       "reference": "Ed 9:3",
       "wrongs": [
@@ -577,7 +577,7 @@
       "verseStart": 9,
       "kind": "place",
       "prompt": "Onde o povo se sentou, tremendo, na chuva, em Esdras?",
-      "answer": "Na praça do templo, em Jerusalém.",
+      "answer": "Na praça da casa de Deus, em Jerusalém.",
       "reference": "Ed 10:9",
       "wrongs": [
         "Na porta do Vale, em Jerusalém.",
@@ -592,7 +592,7 @@
       "verseStart": 8,
       "kind": "curiosity",
       "prompt": "No tempo de Esdras, o que ocorria a quem não viesse em três dias?",
-      "answer": "Perdia os bens e era cortado do povo.",
+      "answer": "A fazenda ficava em interdito e ele era separado da congregação.",
       "reference": "Ed 10:8",
       "wrongs": [
         "Pagava uma multa e voltava para casa.",

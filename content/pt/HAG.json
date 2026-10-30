@@ -37,7 +37,7 @@
       "verseStart": 1,
       "kind": "name",
       "prompt": "Quem era o sumo sacerdote no tempo de Ageu?",
-      "answer": "Josué, filho de Jeozadaque.",
+      "answer": "Josué, filho de Jozadaque.",
       "reference": "Ag 1:1",
       "wrongs": [
         "Zorobabel, filho de Sealtiel.",
@@ -52,7 +52,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "Onde o salário do trabalhador ia parar, em Ageu?",
-      "answer": "Numa bolsa furada.",
+      "answer": "Num saco furado.",
       "reference": "Ag 1:6",
       "wrongs": [
         "Num cofre cheio.",

@@ -7,7 +7,7 @@
       "verseStart": 8,
       "kind": "subject",
       "prompt": "Como Naum diz que Deus acabará com Nínive?",
-      "answer": "Com uma enchente violenta.",
+      "answer": "Com uma inundação transbordante.",
       "reference": "Na 1:8",
       "wrongs": [
         "Com um cerco de sete anos.",
@@ -67,7 +67,7 @@
       "verseStart": 10,
       "kind": "subject",
       "prompt": "Como Nínive fica no ataque descrito por Naum?",
-      "answer": "Vazia, devastada e em ruínas.",
+      "answer": "Vazia, esgotada e devastada.",
       "reference": "Na 2:10",
       "wrongs": [
         "Cheia, segura e em festa.",

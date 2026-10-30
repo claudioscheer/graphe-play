@@ -6,7 +6,7 @@
       "chapter": 1,
       "verseStart": 17,
       "kind": "subject",
-      "prompt": "Como morreu o rei Acazias?",
+      "prompt": "Como morreu Acazias, rei de Israel?",
       "answer": "Como Elias tinha anunciado da parte de Deus.",
       "reference": "2Rs 1:17",
       "wrongs": [
@@ -21,7 +21,7 @@
       "chapter": 1,
       "verseStart": 8,
       "kind": "name",
-      "prompt": "Quem era o homem vestido de pelos e cinto de couro, em 2 Reis?",
+      "prompt": "Quem era o homem peludo, com cinto de couro, em 2 Reis?",
       "answer": "Elias, o tisbita.",
       "reference": "2Rs 1:8",
       "wrongs": [
@@ -142,7 +142,7 @@
       "verseStart": 4,
       "kind": "name",
       "prompt": "Quem era o rei de Moabe que pagava tributo a Israel?",
-      "answer": "Messa, dono de grandes rebanhos.",
+      "answer": "Mesa, dono de grandes rebanhos.",
       "reference": "2Rs 3:4",
       "wrongs": [
         "Ben-Hadade, dono de grandes carros.",
@@ -171,8 +171,8 @@
       "chapter": 3,
       "verseStart": 27,
       "kind": "curiosity",
-      "prompt": "O que o rei de Moabe fez com o filho mais velho?",
-      "answer": "Ofereceu-o em sacrifício em cima do muro.",
+      "prompt": "O que o rei de Moabe fez com o filho primogênito?",
+      "answer": "Ofereceu-o em holocausto sobre o muro.",
       "reference": "2Rs 3:27",
       "wrongs": [
         "Escondeu-o numa cisterna, dentro da cidade.",
@@ -221,7 +221,7 @@
       "reference": "2Rs 4:8",
       "wrongs": [
         "Por Siló.",
-        "Por Jezreel.",
+        "Por Jizreel.",
         "Por Naim."
       ]
     },
@@ -232,7 +232,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "Quando parou o azeite da viúva a quem Eliseu atendeu?",
-      "answer": "Quando os vasos acabaram.",
+      "answer": "Quando as vasilhas acabaram.",
       "reference": "2Rs 4:6",
       "wrongs": [
         "Quando a jarra quebrou.",
@@ -247,12 +247,12 @@
       "verseStart": 14,
       "kind": "subject",
       "prompt": "O que aconteceu com Naamã no rio Jordão?",
-      "answer": "A pele se renovou como a de uma criança, e ele ficou limpo.",
+      "answer": "A carne ficou como a de um menino, e ele foi purificado.",
       "reference": "2Rs 5:14",
       "wrongs": [
-        "A pele continuou doente, e ele voltou triste.",
+        "A carne continuou doente, e ele voltou triste.",
         "Só as mãos ficaram limpas, e o resto não.",
-        "A pele escureceu, e a lepra piorou."
+        "A carne escureceu, e a lepra piorou."
       ]
     },
     {
@@ -307,7 +307,7 @@
       "verseStart": 17,
       "kind": "subject",
       "prompt": "O que o criado de Eliseu viu no monte?",
-      "answer": "Cavaleiros e carros de fogo em volta de Eliseu.",
+      "answer": "Cavalos e carros de fogo em volta de Eliseu.",
       "reference": "2Rs 6:17",
       "wrongs": [
         "O exército de Israel acampado no vale.",
@@ -387,7 +387,7 @@
       "wrongs": [
         "À porta de Damasco.",
         "À porta de Jerusalém.",
-        "À porta de Jezreel."
+        "À porta de Jizreel."
       ]
     },
     {
@@ -427,7 +427,7 @@
       "verseStart": 15,
       "kind": "subject",
       "prompt": "O que Hazael fez ao rei Ben-Hadade?",
-      "answer": "Estendeu um pano molhado no rosto dele, e o rei morreu.",
+      "answer": "Estendeu um cobertor molhado no rosto dele, e o rei morreu.",
       "reference": "2Rs 8:15",
       "wrongs": [
         "Deu-lhe um remédio, e o rei sarou.",
@@ -442,7 +442,7 @@
       "verseStart": 16,
       "kind": "name",
       "prompt": "Quem passou a reinar em Judá no quinto ano de Jorão?",
-      "answer": "Jeorão, filho de Josafá.",
+      "answer": "Jeorão, filho de Jeosafá.",
       "reference": "2Rs 8:16",
       "wrongs": [
         "Acazias, filho de Jeorão.",
@@ -487,7 +487,7 @@
       "verseStart": 24,
       "kind": "subject",
       "prompt": "Como Jeú matou o rei Jorão?",
-      "answer": "A flecha o atingiu entre as costas e saiu no coração.",
+      "answer": "A flecha o atingiu entre os braços e saiu no coração.",
       "reference": "2Rs 9:24",
       "wrongs": [
         "A espada o atingiu no palácio e parou no ombro.",
@@ -502,7 +502,7 @@
       "verseStart": 36,
       "kind": "name",
       "prompt": "O que Elias tinha anunciado sobre o corpo de Jezabel?",
-      "answer": "Os cães comeriam a carne dela na terra de Jezreel.",
+      "answer": "Os cães comeriam a carne dela no campo de Jizreel.",
       "reference": "2Rs 9:36",
       "wrongs": [
         "Ela morreria em paz, na terra de Sidom.",
@@ -517,12 +517,12 @@
       "verseStart": 21,
       "kind": "place",
       "prompt": "Onde Jeú encontrou Jorão e Acazias?",
-      "answer": "Na propriedade de Nabote, em Jezreel.",
+      "answer": "No pedaço de campo de Nabote, em Jizreel.",
       "reference": "2Rs 9:21",
       "wrongs": [
         "Na porta de Samaria, junto ao muro.",
         "Em Ramote de Gileade, no acampamento.",
-        "No palácio de Jezreel, dentro do quarto."
+        "No palácio de Jizreel, dentro do quarto."
       ]
     },
     {
@@ -532,7 +532,7 @@
       "verseStart": 35,
       "kind": "curiosity",
       "prompt": "O que restou de Jezabel para sepultar?",
-      "answer": "Só o crânio, os pés e as mãos.",
+      "answer": "Só a caveira, os pés e as palmas das mãos.",
       "reference": "2Rs 9:35",
       "wrongs": [
         "O corpo inteiro, sem faltar nada.",
@@ -576,7 +576,7 @@
       "chapter": 10,
       "verseStart": 7,
       "kind": "curiosity",
-      "prompt": "O que puseram em cestos e mandaram a Jezreel?",
+      "prompt": "O que puseram em cestos e mandaram a Jizreel?",
       "answer": "As cabeças de setenta filhos do rei.",
       "reference": "2Rs 10:7",
       "wrongs": [
@@ -637,7 +637,7 @@
       "verseStart": 2,
       "kind": "place",
       "prompt": "Onde Jeoseba escondeu o menino Joás?",
-      "answer": "No quarto das camas, com a ama dele.",
+      "answer": "Na recâmara, com a ama dele.",
       "reference": "2Rs 11:2",
       "wrongs": [
         "Numa cova fora da cidade, sem a ama.",
@@ -696,7 +696,7 @@
       "chapter": 12,
       "verseStart": 20,
       "kind": "place",
-      "prompt": "Onde os servos mataram o rei Joás?",
+      "prompt": "Onde os servos mataram o rei Joás, em 2 Reis?",
       "answer": "Na casa de Milo, a caminho de Sila.",
       "reference": "2Rs 12:20",
       "wrongs": [
@@ -712,7 +712,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "O que Joiada pôs junto ao altar para o dinheiro?",
-      "answer": "Uma arca com um furo na tampa.",
+      "answer": "Um cofre com um buraco na tampa.",
       "reference": "2Rs 12:9",
       "wrongs": [
         "Uma caixa fechada, sem abertura.",
@@ -742,7 +742,7 @@
       "verseStart": 14,
       "kind": "name",
       "prompt": "Que rei de Israel chorou diante de Eliseu doente?",
-      "answer": "Joás.",
+      "answer": "Jeoás.",
       "reference": "2Rs 13:14",
       "wrongs": [
         "Jeroboão.",
@@ -756,7 +756,7 @@
       "chapter": 13,
       "verseStart": 17,
       "kind": "place",
-      "prompt": "Onde Eliseu disse que Joás feriria os sírios?",
+      "prompt": "Onde Eliseu disse que Jeoás feriria os sírios?",
       "answer": "Em Afeque, até consumi-los.",
       "reference": "2Rs 13:17",
       "wrongs": [
@@ -771,7 +771,7 @@
       "chapter": 13,
       "verseStart": 18,
       "kind": "curiosity",
-      "prompt": "Quantas vezes Joás bateu no chão?",
+      "prompt": "Quantas vezes Jeoás bateu no chão?",
       "answer": "Três vezes, e então parou.",
       "reference": "2Rs 13:18",
       "wrongs": [
@@ -786,7 +786,7 @@
       "chapter": 14,
       "verseStart": 13,
       "kind": "subject",
-      "prompt": "O que Joás de Israel fez no muro de Jerusalém?",
+      "prompt": "O que Jeoás de Israel fez no muro de Jerusalém?",
       "answer": "Abriu uma brecha de quatrocentos côvados.",
       "reference": "2Rs 14:13",
       "wrongs": [
@@ -816,7 +816,7 @@
       "chapter": 14,
       "verseStart": 11,
       "kind": "place",
-      "prompt": "Onde Amazias enfrentou Joás, rei de Israel?",
+      "prompt": "Onde Amazias enfrentou Jeoás, rei de Israel?",
       "answer": "Em Bete-Semes, que fica em Judá.",
       "reference": "2Rs 14:11",
       "wrongs": [
@@ -831,7 +831,7 @@
       "chapter": 14,
       "verseStart": 7,
       "kind": "curiosity",
-      "prompt": "Quantos edomitas Amazias feriu no vale das salinas?",
+      "prompt": "Quantos edomitas Amazias feriu no vale do Sal?",
       "answer": "Dez mil, e mudou o nome de Selá para Jocteel.",
       "reference": "2Rs 14:7",
       "wrongs": [
@@ -1041,7 +1041,7 @@
       "chapter": 18,
       "verseStart": 13,
       "kind": "name",
-      "prompt": "Quem tomou as cidades fortes de Judá?",
+      "prompt": "Quem tomou as cidades fortes de Judá no tempo de Ezequias?",
       "answer": "Senaqueribe, rei da Assíria, no ano catorze de Ezequias.",
       "reference": "2Rs 18:13",
       "wrongs": [
@@ -1057,7 +1057,7 @@
       "verseStart": 17,
       "kind": "place",
       "prompt": "Onde pararam os mensageiros da Assíria em Jerusalém?",
-      "answer": "Junto ao canal do tanque superior.",
+      "answer": "Junto ao aqueduto da piscina superior.",
       "reference": "2Rs 18:17",
       "wrongs": [
         "Junto à porta das ovelhas.",
@@ -1071,8 +1071,8 @@
       "chapter": 18,
       "verseStart": 4,
       "kind": "curiosity",
-      "prompt": "O que Ezequias fez com a serpente de bronze de Moisés?",
-      "answer": "Fez-a em pedaços e lhe deu o nome de Neustã.",
+      "prompt": "O que Ezequias fez com a serpente de metal de Moisés?",
+      "answer": "Fez-a em pedaços; chamavam-na Neustã.",
       "reference": "2Rs 18:4",
       "wrongs": [
         "Guardou-a no templo e lhe deu o nome de Aserá.",
@@ -1146,7 +1146,7 @@
       "chapter": 20,
       "verseStart": 6,
       "kind": "subject",
-      "prompt": "Quantos anos Deus acrescentou à vida de Ezequias?",
+      "prompt": "O que Deus prometeu a Ezequias na doença, em 2 Reis?",
       "answer": "Quinze anos, e livraria a cidade do rei da Assíria.",
       "reference": "2Rs 20:6",
       "wrongs": [
@@ -1192,11 +1192,11 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "O que a sombra fez no relógio de Acaz?",
-      "answer": "Recuou dez degraus.",
+      "answer": "Voltou dez graus atrás.",
       "reference": "2Rs 20:11",
       "wrongs": [
-        "Avançou dez degraus.",
-        "Recuou três degraus.",
+        "Avançou dez graus.",
+        "Voltou três graus atrás.",
         "Ficou parada."
       ]
     },
@@ -1236,7 +1236,7 @@
       "chapter": 21,
       "verseStart": 18,
       "kind": "place",
-      "prompt": "Onde Manassés foi sepultado?",
+      "prompt": "Onde Manassés foi sepultado, em 2 Reis?",
       "answer": "No jardim da casa dele, o jardim de Uzá.",
       "reference": "2Rs 21:18",
       "wrongs": [
@@ -1266,7 +1266,7 @@
       "chapter": 22,
       "verseStart": 8,
       "kind": "subject",
-      "prompt": "O que Hilquias achou na casa de Deus?",
+      "prompt": "O que Hilquias achou na casa de Deus, em 2 Reis?",
       "answer": "O livro da lei.",
       "reference": "2Rs 22:8",
       "wrongs": [
@@ -1312,7 +1312,7 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "O que Josias fez ao ouvir o livro da lei?",
-      "answer": "Rasgou as próprias roupas.",
+      "answer": "Rasgou as próprias vestes.",
       "reference": "2Rs 22:11",
       "wrongs": [
         "Queimou o livro no fogo.",
@@ -1326,7 +1326,7 @@
       "chapter": 23,
       "verseStart": 22,
       "kind": "subject",
-      "prompt": "Desde quando não havia uma Páscoa como a de Josias?",
+      "prompt": "Desde quando não havia uma Páscoa como a de Josias, em 2 Reis?",
       "answer": "Desde o tempo dos juízes, e em nenhum reinado.",
       "reference": "2Rs 23:22",
       "wrongs": [
@@ -1357,7 +1357,7 @@
       "verseStart": 10,
       "kind": "place",
       "prompt": "Onde ficava Tofete, que Josias profanou?",
-      "answer": "No vale que tem o nome do filho de Hinom.",
+      "answer": "No vale dos filhos de Hinom.",
       "reference": "2Rs 23:10",
       "wrongs": [
         "No vale de Cedrom.",
@@ -1432,12 +1432,12 @@
       "verseStart": 16,
       "kind": "curiosity",
       "prompt": "Quantos homens de guerra foram levados cativos com Joaquim?",
-      "answer": "Sete mil, além de mil oficiais e ferreiros.",
+      "answer": "Sete mil, além de mil artífices e ferreiros.",
       "reference": "2Rs 24:16",
       "wrongs": [
-        "Três mil, além de quinhentos oficiais e ferreiros.",
-        "Doze mil, além de dois mil oficiais e ferreiros.",
-        "Quinhentos, além de cem oficiais e ferreiros."
+        "Três mil, além de quinhentos artífices e ferreiros.",
+        "Doze mil, além de dois mil artífices e ferreiros.",
+        "Quinhentos, além de cem artífices e ferreiros."
       ]
     },
     {

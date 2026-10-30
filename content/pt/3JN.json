@@ -22,7 +22,7 @@
       "chapter": 1,
       "verseStart": 1,
       "kind": "name",
-      "prompt": "Quem é o amado a quem o ancião escreve?",
+      "prompt": "Quem é o amado a quem o presbítero escreve?",
       "answer": "Gaio.",
       "reference": "3Jo 1:1",
       "wrongs": [
@@ -37,7 +37,7 @@
       "chapter": 1,
       "verseStart": 9,
       "kind": "name",
-      "prompt": "Quem queria mandar na igreja e rejeitava o ancião?",
+      "prompt": "Quem procurava ter o primado e não recebia o presbítero?",
       "answer": "Diótrefes.",
       "reference": "3Jo 1:9",
       "wrongs": [

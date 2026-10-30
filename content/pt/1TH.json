@@ -7,7 +7,7 @@
       "verseStart": 9,
       "kind": "subject",
       "prompt": "O que os tessalonicenses deixaram para servir a Deus?",
-      "answer": "Os ídolos, e passaram a servir o Deus vivo.",
+      "answer": "Os ídolos, para servir o Deus vivo e verdadeiro.",
       "reference": "1Ts 1:9",
       "wrongs": [
         "A lei de Moisés, e voltaram aos sacrifícios.",
@@ -52,7 +52,7 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "A quem os tessalonicenses esperam dos céus?",
-      "answer": "Jesus, a quem Deus ressuscitou e que livra da ira.",
+      "answer": "Jesus, a quem Deus ressuscitou e que livra da ira futura.",
       "reference": "1Ts 1:10",
       "wrongs": [
         "Elias, que há de voltar antes do grande dia.",
@@ -96,7 +96,7 @@
       "chapter": 2,
       "verseStart": 2,
       "kind": "place",
-      "prompt": "Onde Paulo já tinha sido maltratado?",
+      "prompt": "Onde Paulo foi maltratado antes de Tessalônica?",
       "answer": "Em Filipos.",
       "reference": "1Ts 2:2",
       "wrongs": [
@@ -127,7 +127,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "Para que Paulo enviou Timóteo aos tessalonicenses?",
-      "answer": "Para fortalecer e animar a fé deles.",
+      "answer": "Para confortar e exortar acerca da fé deles.",
       "reference": "1Ts 3:2",
       "wrongs": [
         "Para recolher a oferta e voltar logo.",
@@ -202,7 +202,7 @@
       "verseStart": 17,
       "kind": "place",
       "prompt": "Para onde os vivos e os mortos vão encontrar Jesus?",
-      "answer": "Às nuvens, para ficar com ele para sempre.",
+      "answer": "Nas nuvens, a encontrar o Senhor nos ares.",
       "reference": "1Ts 4:17",
       "wrongs": [
         "Ao monte Sinai, para ouvir a lei de novo.",
@@ -216,8 +216,8 @@
       "chapter": 4,
       "verseStart": 3,
       "kind": "curiosity",
-      "prompt": "Qual é a vontade de Deus para os tessalonicenses?",
-      "answer": "A santidade, afastando-se do pecado sexual.",
+      "prompt": "Qual é a vontade de Deus para o corpo dos tessalonicenses?",
+      "answer": "A santificação: que se abstenham da fornicação.",
       "reference": "1Ts 4:3",
       "wrongs": [
         "A riqueza, conseguida com o próprio trabalho.",
@@ -232,12 +232,12 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "O que Paulo manda fazer com as próprias mãos?",
-      "answer": "Trabalhar, vivendo em paz e cuidando da própria vida.",
+      "answer": "Trabalhar com as próprias mãos, viver quietos e tratar dos próprios negócios.",
       "reference": "1Ts 4:11",
       "wrongs": [
-        "Parar, e esperar o pão dos outros.",
-        "Protestar, e deixar o ofício de lado.",
-        "Jejuar, sem cuidar da própria casa."
+        "Parar de trabalhar e esperar o pão dos outros.",
+        "Protestar e deixar o ofício de lado.",
+        "Jejuar, sem tratar dos próprios negócios."
       ]
     },
     {
@@ -247,7 +247,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "Como Paulo descreve a chegada do dia final?",
-      "answer": "De repente, como ladrão durante a noite.",
+      "answer": "Como o ladrão de noite.",
       "reference": "1Ts 5:2",
       "wrongs": [
         "Com aviso, marcado no calendário.",
@@ -277,7 +277,7 @@
       "verseStart": 17,
       "kind": "curiosity",
       "prompt": "Com que frequência Paulo manda orar?",
-      "answer": "Sem parar.",
+      "answer": "Sem cessar.",
       "reference": "1Ts 5:17",
       "wrongs": [
         "Só no sábado.",
@@ -291,13 +291,13 @@
       "chapter": 5,
       "verseStart": 19,
       "kind": "curiosity",
-      "prompt": "O que não se deve fazer com o Espírito?",
-      "answer": "Não o apague.",
+      "prompt": "O que Paulo manda não fazer com o Espírito, em 1 Tessalonicenses?",
+      "answer": "Não o extinguir.",
       "reference": "1Ts 5:19",
       "wrongs": [
-        "Não o prenda numa regra.",
-        "Não o troque por um ídolo.",
-        "Não o confunda com o vinho."
+        "Não o prender numa regra.",
+        "Não o trocar por um ídolo.",
+        "Não o confundir com o vinho."
       ]
     },
     {

@@ -6,8 +6,8 @@
       "chapter": 1,
       "verseStart": 18,
       "kind": "subject",
-      "prompt": "Como a mensagem da cruz soa para quem se perde?",
-      "answer": "Como loucura. Para quem se salva, é poder de Deus.",
+      "prompt": "Como Paulo diz que a palavra da cruz soa para quem se perde?",
+      "answer": "Como loucura. Para quem se salva, é o poder de Deus.",
       "reference": "1Co 1:18",
       "wrongs": [
         "Como sabedoria. Para quem se salva, é peso da lei.",
@@ -21,13 +21,13 @@
       "chapter": 1,
       "verseStart": 11,
       "kind": "name",
-      "prompt": "Quem avisou Paulo das brigas na igreja?",
-      "answer": "Os da casa de Cloé.",
+      "prompt": "Quem avisou Paulo das contendas na igreja?",
+      "answer": "Os da família de Cloé.",
       "reference": "1Co 1:11",
       "wrongs": [
-        "Os da casa de Estéfanas.",
-        "Os da casa de César.",
-        "Os da casa de Lídia."
+        "Os da família de Estéfanas.",
+        "Os da família de César.",
+        "Os da família de Lídia."
       ]
     },
     {
@@ -67,7 +67,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "O que Paulo resolveu saber entre os coríntios?",
-      "answer": "Só Jesus Cristo, e ele na cruz.",
+      "answer": "Só Jesus Cristo, e este crucificado.",
       "reference": "1Co 2:2",
       "wrongs": [
         "A sabedoria grega, e os discursos dela.",
@@ -82,10 +82,10 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "A fala de Paulo convencia pela sabedoria humana?",
-      "answer": "Não. Pela ação do Espírito e do poder.",
+      "answer": "Não. Em demonstração do Espírito e de poder.",
       "reference": "1Co 2:4",
       "wrongs": [
-        "Sim. Pela eloquência e pelos argumentos finos.",
+        "Sim. Em palavras persuasivas de sabedoria humana.",
         "Sim. Pelo título de apóstolo e pelo medo.",
         "Sim. Pela fama dos milagres, sem a mensagem."
       ]
@@ -111,7 +111,7 @@
       "chapter": 3,
       "verseStart": 6,
       "kind": "subject",
-      "prompt": "O plantio e a rega fazem a igreja crescer?",
+      "prompt": "O plantio e a rega fazem a igreja crescer, segundo Paulo?",
       "answer": "Não. Quem faz crescer é Deus.",
       "reference": "1Co 3:6",
       "wrongs": [
@@ -187,7 +187,7 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "Como Paulo descreve a vida dos apóstolos?",
-      "answer": "Com fome, sede, sem roupa, espancados e sem casa.",
+      "answer": "Com fome, sede, nus, com bofetadas e sem pousada certa.",
       "reference": "1Co 4:11",
       "wrongs": [
         "Com honra, mesa farta, casa própria e descanso.",
@@ -217,8 +217,8 @@
       "chapter": 5,
       "verseStart": 6,
       "kind": "curiosity",
-      "prompt": "O que faz um pouco de fermento na massa?",
-      "answer": "Faz a massa toda crescer.",
+      "prompt": "O que um pouco de fermento faz na massa, segundo Paulo?",
+      "answer": "Faz levedar toda a massa.",
       "reference": "1Co 5:6",
       "wrongs": [
         "Não muda o restante da massa.",
@@ -247,13 +247,13 @@
       "chapter": 6,
       "verseStart": 19,
       "kind": "subject",
-      "prompt": "De quem é o corpo de quem crê?",
-      "answer": "De Deus. É templo do Espírito, e a pessoa não é dona dele.",
+      "prompt": "De quem Paulo diz que é o corpo de quem crê?",
+      "answer": "Não é da própria pessoa. É o templo do Espírito Santo.",
       "reference": "1Co 6:19",
       "wrongs": [
-        "Da pessoa. Ela faz com o corpo o que quiser.",
-        "Da cidade. O corpo serve aos costumes de Corinto.",
-        "Da lei. Só o casamento o torna propriedade."
+        "É da própria pessoa. Ela faz o que quiser.",
+        "É da cidade. O corpo segue os costumes.",
+        "É da lei. Só o casamento o torna propriedade."
       ]
     },
     {
@@ -263,10 +263,10 @@
       "verseStart": 1,
       "kind": "curiosity",
       "prompt": "Paulo aprova irmão processando irmão diante de gente injusta?",
-      "answer": "Não. A causa devia ficar entre o povo de Deus.",
+      "answer": "Não. A causa devia ir perante os santos.",
       "reference": "1Co 6:1",
       "wrongs": [
-        "Sim. O juiz da cidade é quem deve decidir.",
+        "Sim. A causa devia ir perante os injustos.",
         "Sim. O mais forte leva a causa, e pronto.",
         "Não. Irmão nenhum deve julgar outro irmão."
       ]
@@ -277,8 +277,8 @@
       "chapter": 6,
       "verseStart": 20,
       "kind": "curiosity",
-      "prompt": "Por que honrar a Deus com o corpo?",
-      "answer": "Porque a pessoa foi comprada por um preço alto.",
+      "prompt": "Por que Paulo manda glorificar a Deus no corpo?",
+      "answer": "Porque a pessoa foi comprada por bom preço.",
       "reference": "1Co 6:20",
       "wrongs": [
         "Porque o corpo vale menos que a alma.",
@@ -292,13 +292,13 @@
       "chapter": 7,
       "verseStart": 2,
       "kind": "subject",
-      "prompt": "Por causa do sexo fora do casamento, o que Paulo manda?",
-      "answer": "Que cada um tenha a própria esposa, e cada uma o próprio marido.",
+      "prompt": "Por causa da fornicação, o que Paulo manda?",
+      "answer": "Que cada um tenha a sua própria mulher, e cada uma o seu próprio marido.",
       "reference": "1Co 7:2",
       "wrongs": [
         "Que todos fiquem solteiros, sem exceção.",
         "Que o casamento seja proibido na igreja.",
-        "Que cada um tenha quantas esposas quiser."
+        "Que cada um tenha quantas mulheres quiser."
       ]
     },
     {
@@ -307,8 +307,8 @@
       "chapter": 7,
       "verseStart": 9,
       "kind": "curiosity",
-      "prompt": "O que é melhor para quem não consegue se controlar?",
-      "answer": "Casar, em vez de ficar queimando de desejo.",
+      "prompt": "O que é melhor para quem não pode conter-se, segundo Paulo?",
+      "answer": "Casar. É melhor casar do que arder.",
       "reference": "1Co 7:9",
       "wrongs": [
         "Jejuar, até o desejo passar de vez.",
@@ -322,8 +322,8 @@
       "chapter": 7,
       "verseStart": 39,
       "kind": "curiosity",
-      "prompt": "Quando a mulher fica livre para casar de novo?",
-      "answer": "Se o marido morrer, com quem ela quiser, desde que siga a Deus.",
+      "prompt": "Quando a mulher fica livre para casar de novo, segundo Paulo?",
+      "answer": "Se o marido falecer, com quem quiser, contanto que seja no Senhor.",
       "reference": "1Co 7:39",
       "wrongs": [
         "Quando quiser, mesmo com o marido vivo.",
@@ -337,8 +337,8 @@
       "chapter": 8,
       "verseStart": 13,
       "kind": "subject",
-      "prompt": "O que Paulo faz se a comida derruba o irmão?",
-      "answer": "Para de comer carne, para não fazê-lo cair.",
+      "prompt": "O que Paulo faz se a comida escandalizar o irmão?",
+      "answer": "Nunca mais come carne, para o irmão não se escandalizar.",
       "reference": "1Co 8:13",
       "wrongs": [
         "Continua comendo, porque o irmão é fraco.",
@@ -352,13 +352,13 @@
       "chapter": 8,
       "verseStart": 1,
       "kind": "curiosity",
-      "prompt": "O saber e o amor produzem o mesmo efeito?",
-      "answer": "Não. O saber enche de orgulho, e o amor faz crescer.",
+      "prompt": "O conhecimento e o amor fazem o mesmo, segundo Paulo?",
+      "answer": "Não. O conhecimento incha, mas o amor edifica.",
       "reference": "1Co 8:1",
       "wrongs": [
-        "Sim. Os dois só enchem a pessoa de orgulho.",
-        "Sim. Os dois produzem o mesmo crescimento.",
-        "Não. O saber humilha, e o amor divide."
+        "Sim. Os dois incham do mesmo modo.",
+        "Sim. Os dois edificam do mesmo modo.",
+        "Não. O conhecimento edifica, e o amor incha."
       ]
     },
     {
@@ -367,7 +367,7 @@
       "chapter": 8,
       "verseStart": 4,
       "kind": "curiosity",
-      "prompt": "O ídolo é um deus de verdade?",
+      "prompt": "O ídolo é um deus de verdade, segundo Paulo?",
       "answer": "Não. Ele não é nada, e só existe um Deus.",
       "reference": "1Co 8:4",
       "wrongs": [
@@ -412,8 +412,8 @@
       "chapter": 9,
       "verseStart": 9,
       "kind": "curiosity",
-      "prompt": "O que a lei não permite fazer com o boi que debulha?",
-      "answer": "Amarrar a boca dele.",
+      "prompt": "O que a lei não permite fazer com o boi que trilha o grão?",
+      "answer": "Atar a boca dele.",
       "reference": "1Co 9:9",
       "wrongs": [
         "Soltar o boi no pasto.",
@@ -427,11 +427,11 @@
       "chapter": 9,
       "verseStart": 25,
       "kind": "curiosity",
-      "prompt": "Que coroa os cristãos buscam, diferente da dos outros?",
-      "answer": "Uma que não se acaba.",
+      "prompt": "Que coroa Paulo diz que os cristãos buscam?",
+      "answer": "Uma incorruptível.",
       "reference": "1Co 9:25",
       "wrongs": [
-        "Uma de folhas, que seca logo.",
+        "Uma corruptível, de folhas que secam.",
         "Uma de ouro, dada pelo imperador.",
         "Uma de louro, como a dos atletas."
       ]
@@ -487,13 +487,13 @@
       "chapter": 10,
       "verseStart": 13,
       "kind": "curiosity",
-      "prompt": "Deus deixa a prova maior do que a pessoa aguenta?",
-      "answer": "Não. Ele é fiel e abre uma saída.",
+      "prompt": "Deus deixa tentar acima do que a pessoa pode, segundo Paulo?",
+      "answer": "Não. Ele é fiel e, com a tentação, dá o escape.",
       "reference": "1Co 10:13",
       "wrongs": [
-        "Sim. Algumas provas não têm saída.",
-        "Sim. Deus prova além das forças de propósito.",
-        "Não. A pessoa é que cria a própria saída."
+        "Sim. Algumas tentações não têm escape.",
+        "Sim. Deus tenta além das forças de propósito.",
+        "Não. A pessoa é que cria o próprio escape."
       ]
     },
     {
@@ -502,8 +502,8 @@
       "chapter": 11,
       "verseStart": 26,
       "kind": "subject",
-      "prompt": "Para que serve comer o pão e beber o copo?",
-      "answer": "Para anunciar a morte de Jesus até ele voltar.",
+      "prompt": "Para que Paulo diz que serve comer o pão e beber o cálice?",
+      "answer": "Para anunciar a morte do Senhor, até que ele venha.",
       "reference": "1Co 11:26",
       "wrongs": [
         "Para repetir o sacrifício cada vez que se come.",
@@ -517,8 +517,8 @@
       "chapter": 11,
       "verseStart": 15,
       "kind": "curiosity",
-      "prompt": "O cabelo comprido envergonha a mulher?",
-      "answer": "Não. É honra, e lhe serve de cobertura.",
+      "prompt": "O cabelo crescido envergonha a mulher, segundo Paulo?",
+      "answer": "Não. É honroso, porque o cabelo foi dado em lugar de véu.",
       "reference": "1Co 11:15",
       "wrongs": [
         "Sim. Ela deve cortá-lo para entrar na igreja.",
@@ -532,7 +532,7 @@
       "chapter": 11,
       "verseStart": 24,
       "kind": "curiosity",
-      "prompt": "O que Jesus disse que o pão é?",
+      "prompt": "O que Jesus disse que o pão é, em 1 Coríntios?",
       "answer": "O corpo dele, partido em favor do povo.",
       "reference": "1Co 11:24",
       "wrongs": [
@@ -547,8 +547,8 @@
       "chapter": 11,
       "verseStart": 25,
       "kind": "curiosity",
-      "prompt": "O que Jesus disse que o copo é?",
-      "answer": "A nova aliança, no sangue dele.",
+      "prompt": "O que Jesus disse que o cálice é, em 1 Coríntios?",
+      "answer": "O novo testamento, no sangue dele.",
       "reference": "1Co 11:25",
       "wrongs": [
         "A aliança antiga, gravada em pedra.",
@@ -593,7 +593,7 @@
       "verseStart": 28,
       "kind": "curiosity",
       "prompt": "Quem Deus pôs em primeiro, segundo e terceiro na igreja?",
-      "answer": "Apóstolos, profetas e mestres.",
+      "answer": "Apóstolos, profetas e doutores.",
       "reference": "1Co 12:28",
       "wrongs": [
         "Reis, sacerdotes e levitas.",
@@ -607,7 +607,7 @@
       "chapter": 13,
       "verseStart": 13,
       "kind": "subject",
-      "prompt": "Qual é o maior: a fé, a esperança ou o amor?",
+      "prompt": "Qual é o maior, segundo Paulo: a fé, a esperança ou o amor?",
       "answer": "O amor.",
       "reference": "1Co 13:13",
       "wrongs": [
@@ -622,8 +622,8 @@
       "chapter": 13,
       "verseStart": 1,
       "kind": "curiosity",
-      "prompt": "O que a pessoa vira se fala língua até de anjo, sem amor?",
-      "answer": "Barulho de metal ou de sino.",
+      "prompt": "O que Paulo diz que a pessoa é, se fala língua de anjo sem amor?",
+      "answer": "Como o metal que soa ou como o sino que tine.",
       "reference": "1Co 13:1",
       "wrongs": [
         "Voz de anjo, ainda sem amor.",
@@ -637,12 +637,12 @@
       "chapter": 13,
       "verseStart": 4,
       "kind": "curiosity",
-      "prompt": "O amor é apressado e invejoso?",
-      "answer": "Não. Tem paciência, é bondoso, e não inveja nem se acha.",
+      "prompt": "O amor é invejoso e se ensoberbece, segundo Paulo?",
+      "answer": "Não. É sofredor, é benigno, e não é invejoso nem se ensoberbece.",
       "reference": "1Co 13:4",
       "wrongs": [
+        "Sim. É invejoso, trata com leviandade e se ensoberbece.",
         "Sim. É apressado, e guarda a ofensa.",
-        "Sim. Inveja, se gaba e busca o próprio interesse.",
         "Não. É frio, e não se importa com ninguém."
       ]
     },
@@ -653,11 +653,11 @@
       "verseStart": 5,
       "kind": "subject",
       "prompt": "Paulo prefere línguas ou profecia na igreja?",
-      "answer": "Profecia, pois ela faz a igreja inteira crescer.",
+      "answer": "A profecia, porque o que profetiza edifica a igreja.",
       "reference": "1Co 14:5",
       "wrongs": [
-        "Línguas, pois o som impressiona mais.",
-        "As duas iguais, pois o efeito é o mesmo.",
+        "As línguas, porque o som impressiona mais.",
+        "As duas iguais, porque o efeito é o mesmo.",
         "Nenhuma. O silêncio é o que edifica."
       ]
     },
@@ -668,10 +668,10 @@
       "verseStart": 19,
       "kind": "curiosity",
       "prompt": "Quantas palavras claras Paulo prefere na igreja?",
-      "answer": "Cinco, que ensinam, em vez de dez mil numa língua estranha.",
+      "answer": "Cinco, para instruir, em vez de dez mil em língua desconhecida.",
       "reference": "1Co 14:19",
       "wrongs": [
-        "Dez mil, numa língua, em vez de uma frase clara.",
+        "Dez mil, em língua desconhecida, em vez de cinco.",
         "Cem, bem altas, em vez de uma oração simples.",
         "Uma, sussurrada, em vez de um canto da igreja."
       ]
@@ -683,12 +683,12 @@
       "verseStart": 27,
       "kind": "curiosity",
       "prompt": "Quantas pessoas podem falar em língua numa reunião, em 1 Coríntios?",
-      "answer": "No máximo três, uma por vez, com quem traduza.",
+      "answer": "Dois, ou quando muito três, por sua vez, e haja intérprete.",
       "reference": "1Co 14:27",
       "wrongs": [
-        "Quantas quiserem, todas juntas, sem tradução.",
-        "Só sete, ao mesmo tempo, com canto e grito.",
-        "Uma só, no fim do culto, sem intérprete."
+        "Quantos quiserem, todos juntos, sem intérprete.",
+        "Só sete, ao mesmo tempo, sem intérprete.",
+        "Um só, no fim, sem que haja intérprete."
       ]
     },
     {
@@ -697,8 +697,8 @@
       "chapter": 15,
       "verseStart": 20,
       "kind": "subject",
-      "prompt": "Cristo ficou entre os mortos?",
-      "answer": "Não. Ele ressuscitou e é o primeiro dos que morreram.",
+      "prompt": "Cristo ficou entre os mortos, segundo Paulo?",
+      "answer": "Não. Ele ressuscitou e foi feito as primícias dos que dormem.",
       "reference": "1Co 15:20",
       "wrongs": [
         "Sim. O corpo dele ficou no sepulcro.",
@@ -713,7 +713,7 @@
       "verseStart": 22,
       "kind": "name",
       "prompt": "Quem Paulo coloca ao lado de Cristo na morte de todos?",
-      "answer": "Adão. Nele todos morrem; em Cristo, todos viverão.",
+      "answer": "Adão. Nele todos morrem; em Cristo, todos serão vivificados.",
       "reference": "1Co 15:22",
       "wrongs": [
         "Moisés. Nele a lei mata; em Cristo, a lei salva.",
@@ -772,12 +772,12 @@
       "chapter": 16,
       "verseStart": 2,
       "kind": "subject",
-      "prompt": "O que cada um deve fazer no primeiro dia da semana?",
-      "answer": "Separar uma oferta, conforme o que tiver.",
+      "prompt": "O que Paulo manda cada um fazer no primeiro dia da semana?",
+      "answer": "Pôr de parte o que puder ajuntar, conforme a sua prosperidade.",
       "reference": "1Co 16:2",
       "wrongs": [
-        "Levar tudo de uma vez, só no fim do ano.",
-        "Esperar Paulo chegar para então separar.",
+        "Levar tudo de uma vez, só quando Paulo chegar.",
+        "Esperar o fim do ano para então ajuntar.",
         "Oferecer um animal no templo da cidade."
       ]
     },
@@ -817,8 +817,8 @@
       "chapter": 16,
       "verseStart": 20,
       "kind": "curiosity",
-      "prompt": "Como os irmãos deviam se saudar?",
-      "answer": "Com um beijo santo.",
+      "prompt": "Como Paulo manda que os irmãos se saúdem?",
+      "answer": "Com um ósculo santo.",
       "reference": "1Co 16:20",
       "wrongs": [
         "Com um aperto de mão.",

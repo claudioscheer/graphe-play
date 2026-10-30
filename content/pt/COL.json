@@ -22,7 +22,7 @@
       "verseStart": 7,
       "kind": "name",
       "prompt": "De quem os colossenses aprenderam o evangelho?",
-      "answer": "De Epafras, cooperador querido de Paulo.",
+      "answer": "De Epafras, amado conservo de Paulo.",
       "reference": "Cl 1:7",
       "wrongs": [
         "De Timóteo, filho de Paulo na fé.",
@@ -96,13 +96,13 @@
       "chapter": 2,
       "verseStart": 14,
       "kind": "curiosity",
-      "prompt": "O que Cristo fez com o documento da dívida?",
-      "answer": "Apagou e o pregou na cruz.",
+      "prompt": "O que Cristo fez com a cédula que era contra nós?",
+      "answer": "Riscou-a e a cravou na cruz.",
       "reference": "Cl 2:14",
       "wrongs": [
-        "Guardou no templo, para cobrar depois.",
-        "Copiou em pedra, como nova lei.",
-        "Entregou aos anjos, para eles cobrarem."
+        "Guardou-a no templo, para cobrar depois.",
+        "Copiou-a em pedra, como nova lei.",
+        "Entregou-a aos anjos, para eles cobrarem."
       ]
     },
     {
@@ -111,13 +111,13 @@
       "chapter": 2,
       "verseStart": 21,
       "kind": "curiosity",
-      "prompt": "Que ordens humanas Paulo diz para largar?",
-      "answer": "Não pegar, não provar e não tocar.",
+      "prompt": "Que ordens humanas Paulo cita para largar?",
+      "answer": "Não toques, não proves, não manuseies.",
       "reference": "Cl 2:21",
       "wrongs": [
-        "Não matar, não adulterar e não furtar.",
-        "Não orar, não jejuar e não ofertar.",
-        "Amar a Deus, ao próximo e ao estrangeiro."
+        "Não mates, não adulteres e não furtes.",
+        "Não ores, não jejues e não ofertes.",
+        "Ama a Deus, ao próximo e ao estrangeiro."
       ]
     },
     {
@@ -127,7 +127,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "O que deve buscar quem ressuscitou com Cristo?",
-      "answer": "As coisas do alto, onde Cristo está à direita de Deus.",
+      "answer": "As coisas de cima, onde Cristo está assentado à destra de Deus.",
       "reference": "Cl 3:1",
       "wrongs": [
         "As coisas da terra, os cargos e os bens.",
@@ -142,7 +142,7 @@
       "verseStart": 14,
       "kind": "curiosity",
       "prompt": "O que Paulo põe acima dos outros sentimentos?",
-      "answer": "O amor, que une tudo em perfeição.",
+      "answer": "O amor, que é o vínculo da perfeição.",
       "reference": "Cl 3:14",
       "wrongs": [
         "O medo, que segura os mais fracos.",
@@ -156,8 +156,8 @@
       "chapter": 3,
       "verseStart": 17,
       "kind": "curiosity",
-      "prompt": "Em nome de quem se deve fazer tudo?",
-      "answer": "No nome de Jesus.",
+      "prompt": "Em nome de quem Paulo diz que se deve fazer tudo?",
+      "answer": "No nome do Senhor Jesus.",
       "reference": "Cl 3:17",
       "wrongs": [
         "No nome de Moisés.",
@@ -171,8 +171,8 @@
       "chapter": 4,
       "verseStart": 3,
       "kind": "subject",
-      "prompt": "O que Paulo pede que orem para Deus abrir?",
-      "answer": "Uma porta para anunciar a palavra.",
+      "prompt": "O que Paulo pede aos colossenses que orem para Deus abrir?",
+      "answer": "A porta da palavra.",
       "reference": "Cl 4:3",
       "wrongs": [
         "Uma fuga da prisão naquela noite.",
@@ -216,13 +216,13 @@
       "chapter": 4,
       "verseStart": 6,
       "kind": "curiosity",
-      "prompt": "Como deve ser a fala dos crentes?",
-      "answer": "Com graça e temperada com sal.",
+      "prompt": "Como Paulo diz que deve ser a palavra dos crentes?",
+      "answer": "Sempre agradável, temperada com sal.",
       "reference": "Cl 4:6",
       "wrongs": [
-        "Com dureza, para vencer a discussão.",
-        "Com medo, para não ofender ninguém.",
-        "Com eloquência, mesmo sem verdade."
+        "Sempre dura, para vencer a discussão.",
+        "Sempre com medo, para não ofender ninguém.",
+        "Sempre eloquente, mesmo sem verdade."
       ]
     },
     {

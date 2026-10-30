@@ -412,7 +412,7 @@
       "verseStart": 21,
       "kind": "curiosity",
       "prompt": "O que Acã confessou ter pegado e escondido?",
-      "answer": "Um manto da Babilônia, além de prata e de ouro.",
+      "answer": "Uma capa babilônica, além de prata e de ouro.",
       "reference": "Js 7:21",
       "wrongs": [
         "Só um pouco de farinha e um odre.",
@@ -563,7 +563,7 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "O que matou mais fugitivos do que a espada, perto de Bete-Horom?",
-      "answer": "As pedras de granizo que caíram do céu.",
+      "answer": "As grandes pedras da saraiva que caíram do céu.",
       "reference": "Js 10:11",
       "wrongs": [
         "O fogo que caiu sobre o arraial.",
@@ -577,7 +577,7 @@
       "chapter": 11,
       "verseStart": 11,
       "kind": "subject",
-      "prompt": "O que aconteceu com a cidade de Hazor?",
+      "prompt": "O que aconteceu com Hazor quando Josué a tomou?",
       "answer": "Os moradores foram mortos e a cidade foi queimada.",
       "reference": "Js 11:11",
       "wrongs": [
@@ -607,7 +607,7 @@
       "chapter": 11,
       "verseStart": 5,
       "kind": "place",
-      "prompt": "Onde os reis acamparam para lutar contra Israel?",
+      "prompt": "Onde os reis reunidos por Jabim acamparam contra Josué?",
       "answer": "Nas águas de Merom.",
       "reference": "Js 11:5",
       "wrongs": [
@@ -623,7 +623,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "O que Josué fez aos cavalos e aos carros inimigos?",
-      "answer": "Aleijou os cavalos e queimou os carros.",
+      "answer": "Jarretou os cavalos e queimou os carros.",
       "reference": "Js 11:9",
       "wrongs": [
         "Repartiu os cavalos entre as tribos.",
@@ -653,7 +653,7 @@
       "verseStart": 2,
       "kind": "name",
       "prompt": "Quem reinava em Hesbom sobre os amorreus?",
-      "answer": "Seom.",
+      "answer": "Siom.",
       "reference": "Js 12:2",
       "wrongs": [
         "Ogue.",

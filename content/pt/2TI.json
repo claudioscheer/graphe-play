@@ -6,11 +6,11 @@
       "chapter": 1,
       "verseStart": 7,
       "kind": "subject",
-      "prompt": "Que espírito Deus deu, em vez do medo?",
-      "answer": "Força, amor e moderação.",
+      "prompt": "Que espírito Deus deu, em vez do temor?",
+      "answer": "Fortaleza, amor e moderação.",
       "reference": "2Tm 1:7",
       "wrongs": [
-        "Medo, dúvida e silêncio.",
+        "Temor, dúvida e silêncio.",
         "Poder, riqueza e fama.",
         "Lei, culpa e castigo."
       ]
@@ -22,7 +22,7 @@
       "verseStart": 5,
       "kind": "name",
       "prompt": "Em quem a fé de Timóteo morou primeiro?",
-      "answer": "Na avó Loide e na mãe Eunice.",
+      "answer": "Na avó Lóide e na mãe Eunice.",
       "reference": "2Tm 1:5",
       "wrongs": [
         "No pai grego e no irmão mais velho.",
@@ -52,7 +52,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "O que Timóteo deve fazer com o dom de Deus?",
-      "answer": "Reacendê-lo, pois veio pela imposição das mãos de Paulo.",
+      "answer": "Despertá-lo, pois veio pela imposição das mãos de Paulo.",
       "reference": "2Tm 1:6",
       "wrongs": [
         "Escondê-lo, para não chamar atenção.",
@@ -67,7 +67,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "A quem Timóteo deve passar o que ouviu de Paulo?",
-      "answer": "A pessoas fiéis, capazes de ensinar outras.",
+      "answer": "A homens fiéis, idôneos para também ensinarem os outros.",
       "reference": "2Tm 2:2",
       "wrongs": [
         "Só aos presbíteros de Jerusalém.",
@@ -96,12 +96,12 @@
       "chapter": 2,
       "verseStart": 5,
       "kind": "curiosity",
-      "prompt": "Quando o atleta recebe a coroa?",
-      "answer": "Somente se competir conforme as regras.",
+      "prompt": "Quando Paulo diz que alguém é coroado?",
+      "answer": "Se militar legitimamente.",
       "reference": "2Tm 2:5",
       "wrongs": [
-        "Sempre, mesmo se cortar o caminho.",
-        "Só se for o mais forte da pista.",
+        "Se militar de qualquer jeito.",
+        "Só se for o mais forte, sem regra.",
         "Nunca. A coroa é só para os juízes."
       ]
     },
@@ -111,8 +111,8 @@
       "chapter": 2,
       "verseStart": 20,
       "kind": "curiosity",
-      "prompt": "Além de ouro e prata, que utensílios há numa casa grande?",
-      "answer": "Os de madeira e os de barro.",
+      "prompt": "Além de ouro e prata, que vasos há numa casa grande?",
+      "answer": "Os de pau e os de barro.",
       "reference": "2Tm 2:20",
       "wrongs": [
         "Os de bronze e os de ferro.",
@@ -127,7 +127,7 @@
       "verseStart": 16,
       "kind": "subject",
       "prompt": "Para que serve toda a Escritura?",
-      "answer": "Para ensinar, corrigir e educar na justiça.",
+      "answer": "Para ensinar, repreender, corrigir e instruir em justiça.",
       "reference": "2Tm 3:16",
       "wrongs": [
         "Para substituir Cristo como mediador.",
@@ -156,7 +156,7 @@
       "chapter": 3,
       "verseStart": 11,
       "kind": "place",
-      "prompt": "Onde Paulo foi perseguido e mesmo assim foi livrado?",
+      "prompt": "Onde Paulo foi perseguido e livrado, em 2 Timóteo?",
       "answer": "Em Antioquia, Icônio e Listra.",
       "reference": "2Tm 3:11",
       "wrongs": [
@@ -172,7 +172,7 @@
       "verseStart": 15,
       "kind": "curiosity",
       "prompt": "Desde quando Timóteo conhece as Escrituras?",
-      "answer": "Desde a infância.",
+      "answer": "Desde a meninice.",
       "reference": "2Tm 3:15",
       "wrongs": [
         "Desde o batismo, já adulto.",
@@ -187,7 +187,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "O que Paulo pede que Timóteo faça com a palavra?",
-      "answer": "Que a pregue, haja tempo oportuno ou não.",
+      "answer": "Que a pregue, a tempo e fora de tempo.",
       "reference": "2Tm 4:2",
       "wrongs": [
         "Que a guarde em silêncio até haver paz.",
@@ -201,7 +201,7 @@
       "chapter": 4,
       "verseStart": 10,
       "kind": "name",
-      "prompt": "Quem abandonou Paulo por amar o tempo de agora?",
+      "prompt": "Quem abandonou Paulo por amar o presente século?",
       "answer": "Demas, e foi para Tessalônica.",
       "reference": "2Tm 4:10",
       "wrongs": [
@@ -247,12 +247,12 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "O que Paulo diz que já completou?",
-      "answer": "A boa luta, a corrida e a guarda da fé.",
+      "answer": "Combateu o bom combate, acabou a carreira e guardou a fé.",
       "reference": "2Tm 4:7",
       "wrongs": [
-        "A coleta, a viagem e a fundação de Roma.",
-        "A lei, o sacerdócio e o voto de nazireu.",
-        "Nada. A corrida ainda estava no começo."
+        "Acabou a coleta, a viagem e a fundação de Roma.",
+        "Cumpriu a lei, o sacerdócio e o voto de nazireu.",
+        "Nada. A carreira ainda estava no começo."
       ]
     },
     {

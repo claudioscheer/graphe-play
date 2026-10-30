@@ -7,7 +7,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "Qual fé Judas manda defender?",
-      "answer": "A que foi entregue uma única vez aos santos.",
+      "answer": "A que uma vez foi entregue aos santos.",
       "reference": "Jd 1:3",
       "wrongs": [
         "A que cada geração inventa de novo.",
@@ -36,8 +36,8 @@
       "chapter": 1,
       "verseStart": 7,
       "kind": "place",
-      "prompt": "Quais cidades ficaram como exemplo do fogo eterno?",
-      "answer": "Sodoma, Gomorra e as vizinhas.",
+      "prompt": "Quais cidades Judas cita como exemplo do fogo eterno?",
+      "answer": "Sodoma, Gomorra e as circunvizinhas.",
       "reference": "Jd 1:7",
       "wrongs": [
         "Nínive, Babilônia e as vizinhas.",

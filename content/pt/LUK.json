@@ -67,7 +67,7 @@
       "verseStart": 7,
       "kind": "subject",
       "prompt": "Onde Maria deitou Jesus ao nascer em Belém?",
-      "answer": "Numa manjedoura, porque a hospedaria estava lotada.",
+      "answer": "Numa manjedoura, porque não havia lugar na estalagem.",
       "reference": "Lc 2:7",
       "wrongs": [
         "Num berço do palácio de Herodes.",
@@ -96,7 +96,7 @@
       "chapter": 2,
       "verseStart": 4,
       "kind": "place",
-      "prompt": "Para que cidade José subiu com Maria, saindo de Nazaré?",
+      "prompt": "Para que cidade José subiu com Maria grávida, saindo de Nazaré?",
       "answer": "Para Belém, a cidade de Davi.",
       "reference": "Lc 2:4",
       "wrongs": [
@@ -156,7 +156,7 @@
       "chapter": 3,
       "verseStart": 3,
       "kind": "place",
-      "prompt": "Onde João pregava o batismo de arrependimento?",
+      "prompt": "Onde João pregava o batismo de arrependimento, em Lucas?",
       "answer": "Na região ao redor do Jordão.",
       "reference": "Lc 3:3",
       "wrongs": [
@@ -247,7 +247,7 @@
       "verseStart": 10,
       "kind": "subject",
       "prompt": "O que Jesus disse que Simão passaria a pescar?",
-      "answer": "Pessoas, dali em diante.",
+      "answer": "Homens, dali em diante.",
       "reference": "Lc 5:10",
       "wrongs": [
         "Moedas, dali em diante.",
@@ -412,12 +412,12 @@
       "verseStart": 41,
       "kind": "curiosity",
       "prompt": "Quanto deviam os dois homens da história de Jesus?",
-      "answer": "Um devia quinhentas moedas, e o outro cinquenta.",
+      "answer": "Um devia quinhentos dinheiros, e o outro cinquenta.",
       "reference": "Lc 7:41",
       "wrongs": [
-        "Um devia dez moedas, e o outro uma.",
+        "Um devia dez dinheiros, e o outro um.",
         "Os dois deviam a mesma quantia.",
-        "Um devia mil moedas, e o outro nada."
+        "Um devia mil dinheiros, e o outro nada."
       ]
     },
     {
@@ -516,7 +516,7 @@
       "chapter": 9,
       "verseStart": 28,
       "kind": "place",
-      "prompt": "Aonde Jesus subiu com três discípulos para orar?",
+      "prompt": "Aonde Jesus subiu com três discípulos para orar, na transfiguração?",
       "answer": "A um monte.",
       "reference": "Lc 9:28",
       "wrongs": [
@@ -561,7 +561,7 @@
       "chapter": 10,
       "verseStart": 38,
       "kind": "name",
-      "prompt": "Quem recebeu Jesus em casa, numa aldeia?",
+      "prompt": "Quem recebeu Jesus em casa, enquanto a irmã o ouvia sentada?",
       "answer": "Marta.",
       "reference": "Lc 10:38",
       "wrongs": [
@@ -651,7 +651,7 @@
       "chapter": 11,
       "verseStart": 5,
       "kind": "curiosity",
-      "prompt": "Quantos pães o homem pediu ao amigo de madrugada, em Lucas?",
+      "prompt": "Quantos pães o homem pediu ao amigo à meia-noite, em Lucas?",
       "answer": "Três.",
       "reference": "Lc 11:5",
       "wrongs": [
@@ -667,7 +667,7 @@
       "verseStart": 20,
       "kind": "subject",
       "prompt": "O que Deus disse ao rico dos celeiros novos, em Lucas?",
-      "answer": "Que naquela noite a vida dele seria pedida.",
+      "answer": "Que naquela noite lhe pediriam a alma.",
       "reference": "Lc 12:20",
       "wrongs": [
         "Que os celeiros novos durariam cem anos.",
@@ -697,7 +697,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "Por quanto Jesus disse que se vendiam cinco passarinhos?",
-      "answer": "Por duas moedinhas.",
+      "answer": "Por dois asses.",
       "reference": "Lc 12:6",
       "wrongs": [
         "Por um denário.",
@@ -802,11 +802,11 @@
       "verseStart": 19,
       "kind": "curiosity",
       "prompt": "Que desculpa deu quem tinha comprado bois, em Lucas?",
-      "answer": "Ia experimentar cinco pares de bois.",
+      "answer": "Ia experimentar cinco juntas de bois.",
       "reference": "Lc 14:19",
       "wrongs": [
-        "Ia experimentar dez pares de bois.",
-        "Ia vender um par de bois.",
+        "Ia experimentar dez juntas de bois.",
+        "Ia vender uma junta de bois.",
         "Precisava casar naquela tarde."
       ]
     },
@@ -832,7 +832,7 @@
       "verseStart": 23,
       "kind": "curiosity",
       "prompt": "Que animal mandaram matar na festa do filho, em Lucas?",
-      "answer": "O bezerro que estava engordado.",
+      "answer": "O bezerro cevado.",
       "reference": "Lc 15:23",
       "wrongs": [
         "O cabrito que era do filho mais velho.",
@@ -862,7 +862,7 @@
       "verseStart": 22,
       "kind": "subject",
       "prompt": "Para onde os anjos levaram o mendigo Lázaro?",
-      "answer": "Para o colo de Abraão.",
+      "answer": "Para o seio de Abraão.",
       "reference": "Lc 16:22",
       "wrongs": [
         "Para o palácio do rico.",
@@ -951,7 +951,7 @@
       "chapter": 17,
       "verseStart": 11,
       "kind": "place",
-      "prompt": "Por onde Jesus passava, a caminho de Jerusalém?",
+      "prompt": "Por onde Jesus passava rumo a Jerusalém, quando viu dez leprosos?",
       "answer": "Ele cruzou a Samaria e a Galileia.",
       "reference": "Lc 17:11",
       "wrongs": [
@@ -1027,7 +1027,7 @@
       "verseStart": 25,
       "kind": "curiosity",
       "prompt": "O que Jesus disse ser mais fácil do que um rico no Reino?",
-      "answer": "Um camelo passar no olho da agulha.",
+      "answer": "Um camelo entrar pelo fundo de uma agulha.",
       "reference": "Lc 18:25",
       "wrongs": [
         "Um cavalo passar pela porta da cidade.",
@@ -1057,7 +1057,7 @@
       "verseStart": 2,
       "kind": "name",
       "prompt": "Quem era Zaqueu?",
-      "answer": "O chefe dos cobradores de impostos, e era rico.",
+      "answer": "O chefe dos publicanos, e era rico.",
       "reference": "Lc 19:2",
       "wrongs": [
         "Um pescador pobre de Jericó.",
@@ -1102,12 +1102,12 @@
       "verseStart": 25,
       "kind": "subject",
       "prompt": "O que Jesus mandou fazer com o imposto de César?",
-      "answer": "Deem ao governante o que é dele, e a Deus o que lhe cabe.",
+      "answer": "Dar a César o que é de César, e a Deus o que é de Deus.",
       "reference": "Lc 20:25",
       "wrongs": [
-        "Guardem o imposto e não paguem a César.",
-        "Entreguem tudo a César, e nada a Deus.",
-        "Queimem a moeda no pátio do templo."
+        "Guardar o imposto e não dar nada a César.",
+        "Dar tudo a César e nada a Deus.",
+        "Queimar a moeda e não dar nada a Deus."
       ]
     },
     {
@@ -1343,7 +1343,7 @@
       "verseStart": 18,
       "kind": "name",
       "prompt": "Quem era um dos dois que iam para Emaús?",
-      "answer": "Cleofas.",
+      "answer": "Cléopas.",
       "reference": "Lc 24:18",
       "wrongs": [
         "Simão.",

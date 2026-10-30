@@ -67,7 +67,7 @@
       "verseStart": 7,
       "kind": "subject",
       "prompt": "Com o que Satanás feriu o corpo de Jó?",
-      "answer": "Com chagas malignas, dos pés até a cabeça.",
+      "answer": "Com úlceras malignas, dos pés até a cabeça.",
       "reference": "Jó 2:7",
       "wrongs": [
         "Com febre alta, só no peito.",
@@ -82,7 +82,7 @@
       "verseStart": 11,
       "kind": "name",
       "prompt": "Quem eram os três amigos que foram consolar Jó?",
-      "answer": "Elifaz, o temanita, Bildade, o suíta, e Zofar, o naamita.",
+      "answer": "Elifaz, o temanita, Bildade, o suíta, e Zofar, o naamatita.",
       "reference": "Jó 2:11",
       "wrongs": [
         "Eliú, o buzita, Elifaz, o temanita, e Bildade, o suíta.",
@@ -156,7 +156,7 @@
       "chapter": 4,
       "verseStart": 19,
       "kind": "curiosity",
-      "prompt": "A que Elifaz compara quem mora em casa de barro?",
+      "prompt": "A que Elifaz compara quem mora em casa de lodo?",
       "answer": "A uma traça, fácil de esmagar.",
       "reference": "Jó 4:19",
       "wrongs": [
@@ -172,7 +172,7 @@
       "verseStart": 18,
       "kind": "subject",
       "prompt": "O que Elifaz diz que Deus faz depois de ferir?",
-      "answer": "Abre a chaga, mas as mãos dele também curam.",
+      "answer": "Faz a chaga e a liga; as mãos dele curam.",
       "reference": "Jó 5:18",
       "wrongs": [
         "Fecha a porta e não volta a ouvir.",
@@ -232,7 +232,7 @@
       "verseStart": 12,
       "kind": "subject",
       "prompt": "A que Jó se compara, ao reclamar de ser vigiado?",
-      "answer": "Ao mar ou a um monstro marinho.",
+      "answer": "Ao mar ou à baleia.",
       "reference": "Jó 7:12",
       "wrongs": [
         "A um rebanho ou a um servo.",
@@ -307,7 +307,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "Quais astros Jó diz que Deus fez?",
-      "answer": "A Ursa, Órion e as Plêiades, mais as do sul.",
+      "answer": "A Ursa, o Órion, o Sete-estrelo e as recâmaras do sul.",
       "reference": "Jó 9:9",
       "wrongs": [
         "O Sol, a Lua e Vênus, mais as do norte.",
@@ -322,7 +322,7 @@
       "verseStart": 10,
       "kind": "subject",
       "prompt": "A que Jó compara o jeito como Deus o formou?",
-      "answer": "A leite derramado e a queijo que coalhou.",
+      "answer": "Como leite vazado e como queijo coalhado.",
       "reference": "Jó 10:10",
       "wrongs": [
         "A barro seco e a pedra que quebrou.",
@@ -352,7 +352,7 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "O que Zofar diz do castigo de Jó diante da culpa?",
-      "answer": "Que Deus pune menos do que a perversidade merece.",
+      "answer": "Que Deus exige menos do que a iniquidade merece.",
       "reference": "Jó 11:6",
       "wrongs": [
         "Que Deus pune além do que a culpa merece.",
@@ -367,7 +367,7 @@
       "verseStart": 8,
       "kind": "curiosity",
       "prompt": "Até onde chega a sabedoria de Deus, segundo Zofar?",
-      "answer": "Mais alta que os céus e mais funda que o mundo dos mortos.",
+      "answer": "Tão alta quanto os céus e mais funda que o inferno.",
       "reference": "Jó 11:8",
       "wrongs": [
         "Só até as nuvens baixas e rasa como um poço.",
@@ -412,7 +412,7 @@
       "verseStart": 15,
       "kind": "subject",
       "prompt": "O que Jó fará mesmo se Deus o matar?",
-      "answer": "Ainda espera nele e defende a própria conduta.",
+      "answer": "Ainda espera nele e defende os seus caminhos.",
       "reference": "Jó 13:15",
       "wrongs": [
         "Nega a Deus e admite toda a culpa.",
@@ -427,7 +427,7 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "Como Jó chama os amigos?",
-      "answer": "Inventores de mentira e médicos que não ajudam.",
+      "answer": "Inventores de mentira e médicos que não valem nada.",
       "reference": "Jó 13:4",
       "wrongs": [
         "Testemunhas fiéis e médicos que curam.",
@@ -457,7 +457,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "O que uma árvore cortada ainda pode fazer, segundo Jó?",
-      "answer": "Renovar-se, e os brotos não param.",
+      "answer": "Renovar-se, e os renovos não cessam.",
       "reference": "Jó 14:7",
       "wrongs": [
         "Secar de vez, e a raiz morre.",
@@ -472,7 +472,7 @@
       "verseStart": 17,
       "kind": "curiosity",
       "prompt": "Onde Jó queria a transgressão guardada?",
-      "answer": "Selada dentro de uma bolsa.",
+      "answer": "Selada num saco.",
       "reference": "Jó 14:17",
       "wrongs": [
         "Escrita na porta da cidade.",
@@ -502,7 +502,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "O que Elifaz pergunta sobre o nascimento de Jó?",
-      "answer": "Se ele foi o primeiro homem ou nasceu antes dos morros.",
+      "answer": "Se ele foi o primeiro homem ou nasceu antes dos outeiros.",
       "reference": "Jó 15:7",
       "wrongs": [
         "Se ele nasceu em Uz ou se veio lá do Egito.",
@@ -517,7 +517,7 @@
       "verseStart": 19,
       "kind": "subject",
       "prompt": "Onde está a testemunha de Jó, segundo ele?",
-      "answer": "No céu, e quem o defende está nas alturas.",
+      "answer": "No céu, e o testemunho dele está nas alturas.",
       "reference": "Jó 16:19",
       "wrongs": [
         "Na terra, e quem o defende são os amigos.",
@@ -547,7 +547,7 @@
       "verseStart": 14,
       "kind": "subject",
       "prompt": "Quem Jó chama de pai, mãe e irmã?",
-      "answer": "A cova é o pai; os vermes, a mãe e a irmã.",
+      "answer": "A corrupção é o pai; os vermes, a mãe e a irmã.",
       "reference": "Jó 17:14",
       "wrongs": [
         "Deus é o pai; a terra, a mãe e a irmã.",
@@ -561,13 +561,13 @@
       "chapter": 17,
       "verseStart": 6,
       "kind": "curiosity",
-      "prompt": "O que Jó diz que lhe fazem no rosto?",
-      "answer": "Cospem, e ele virou um ditado entre os povos.",
+      "prompt": "O que Jó diz que se tornou entre os povos?",
+      "answer": "Um provérbio, e uma abominação para eles.",
       "reference": "Jó 17:6",
       "wrongs": [
-        "Ungem, e ele virou exemplo de saúde.",
-        "Cobrem, e ninguém mais o reconhece.",
-        "Lavam, e a honra volta à praça."
+        "Um exemplo de saúde, e uma honra para eles.",
+        "Um rei do povo, e uma alegria para eles.",
+        "Um sacerdote fiel, e uma bênção para eles."
       ]
     },
     {
@@ -592,7 +592,7 @@
       "verseStart": 14,
       "kind": "curiosity",
       "prompt": "Para quem o perverso é levado, segundo Bildade?",
-      "answer": "Para o rei dos assombros.",
+      "answer": "Para o rei dos terrores.",
       "reference": "Jó 18:14",
       "wrongs": [
         "Para o sacerdote do templo.",
@@ -667,7 +667,7 @@
       "verseStart": 14,
       "kind": "curiosity",
       "prompt": "Em que a comida do perverso se transforma, segundo Zofar?",
-      "answer": "Em veneno de cobra, lá dentro.",
+      "answer": "Em fel de áspides, nas entranhas.",
       "reference": "Jó 20:14",
       "wrongs": [
         "Em pão doce, que sustenta.",
@@ -697,7 +697,7 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "Com que os filhos dos perversos se alegram, segundo Jó?",
-      "answer": "Com tamboril, harpa e flauta.",
+      "answer": "Com tamboril, harpa e órgão.",
       "reference": "Jó 21:12",
       "wrongs": [
         "Com cinza, pano de saco e jejum.",
@@ -727,12 +727,12 @@
       "verseStart": 24,
       "kind": "curiosity",
       "prompt": "O que Elifaz manda fazer com o ouro?",
-      "answer": "Jogá-lo no pó, também o que vem de Ofir.",
+      "answer": "Deitar o tesouro no pó e o ouro de Ofir nas pedras dos ribeiros.",
       "reference": "Jó 22:24",
       "wrongs": [
-        "Guardá-lo no cofre, também o de Ofir.",
-        "Ofertá-lo no templo, também o de Ofir.",
-        "Reparti-lo aos amigos, também o de Ofir."
+        "Guardar o tesouro no cofre e o ouro de Ofir no templo.",
+        "Ofertar o tesouro no altar e o ouro de Ofir aos amigos.",
+        "Repartir o tesouro na praça e o ouro de Ofir aos vizinhos."
       ]
     },
     {
@@ -743,7 +743,7 @@
       "verseEnd": 9,
       "kind": "subject",
       "prompt": "Em que direções Jó busca Deus sem o encontrar?",
-      "answer": "No oriente, no ocidente, no norte e no sul.",
+      "answer": "Adiante, atrás, à esquerda e à direita.",
       "reference": "Jó 23:8-9",
       "wrongs": [
         "Só no templo, no pátio e no altar.",
@@ -803,7 +803,7 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "A que Bildade compara o ser humano?",
-      "answer": "A uma larva, e o filho do homem a um verme.",
+      "answer": "A um verme, e o filho do homem a um vermezinho.",
       "reference": "Jó 25:6",
       "wrongs": [
         "A um anjo, e o filho do homem a uma estrela.",
@@ -847,13 +847,13 @@
       "chapter": 26,
       "verseStart": 12,
       "kind": "curiosity",
-      "prompt": "A quem Deus derruba ao agitar o mar, segundo Jó?",
-      "answer": "Ele abate Raabe.",
+      "prompt": "O que Deus abate ao fender o mar, segundo Jó?",
+      "answer": "A soberba.",
       "reference": "Jó 26:12",
       "wrongs": [
-        "Ele abate o leviatã.",
-        "Ele abate o Faraó.",
-        "Ele abate Golias."
+        "O leviatã.",
+        "O Faraó.",
+        "Golias."
       ]
     },
     {
@@ -938,7 +938,7 @@
       "verseStart": 15,
       "kind": "curiosity",
       "prompt": "O que Jó era para o cego e para o manco?",
-      "answer": "A vista de um e os pés do outro.",
+      "answer": "Os olhos de um e os pés do outro.",
       "reference": "Jó 29:15",
       "wrongs": [
         "O juiz de um e o credor do outro.",
@@ -968,12 +968,12 @@
       "verseStart": 31,
       "kind": "curiosity",
       "prompt": "O que aconteceu com a harpa e a flauta de Jó?",
-      "answer": "A harpa virou lamento, e a flauta, choro.",
+      "answer": "A harpa virou luto, e o órgão, voz de choro.",
       "reference": "Jó 30:31",
       "wrongs": [
-        "A harpa ficou em festa, e a flauta, dança.",
-        "A harpa calou de vez, e a flauta sumiu.",
-        "A harpa passou ao filho, e a flauta, à filha."
+        "A harpa ficou em festa, e o órgão, dança.",
+        "A harpa calou de vez, e o órgão sumiu.",
+        "A harpa passou ao filho, e o órgão, à filha."
       ]
     },
     {
@@ -983,7 +983,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "Que acordo Jó fez com os olhos?",
-      "answer": "O de não olhar com cobiça para uma virgem.",
+      "answer": "O de não fixar os olhos numa virgem.",
       "reference": "Jó 31:1",
       "wrongs": [
         "O de não chorar diante dos amigos.",
@@ -998,7 +998,7 @@
       "verseStart": 40,
       "kind": "curiosity",
       "prompt": "O que Jó pede que nasça no lugar do trigo?",
-      "answer": "Cardos no trigo, e mato na cevada.",
+      "answer": "Cardos no trigo, e joio na cevada.",
       "reference": "Jó 31:40",
       "wrongs": [
         "Lírios no trigo, e flores na cevada.",
@@ -1043,7 +1043,7 @@
       "verseStart": 19,
       "kind": "curiosity",
       "prompt": "A que Eliú compara o ventre cheio de palavras?",
-      "answer": "A vinho sem saída, como odres novos.",
+      "answer": "A mosto sem respiradouro, como odres novos.",
       "reference": "Jó 32:19",
       "wrongs": [
         "A poço seco, como cisterna rachada.",
@@ -1088,7 +1088,7 @@
       "verseStart": 12,
       "kind": "subject",
       "prompt": "O que Eliú diz que Deus não faz?",
-      "answer": "Não comete injustiça nem entorta o direito.",
+      "answer": "Não procede impiamente nem perverte o juízo.",
       "reference": "Jó 34:12",
       "wrongs": [
         "Não ouve o pobre nem vê o órfão.",
@@ -1118,7 +1118,7 @@
       "verseStart": 10,
       "kind": "subject",
       "prompt": "O que o Criador dá na noite, segundo Eliú?",
-      "answer": "Ele dá canções.",
+      "answer": "Ele dá salmos.",
       "reference": "Jó 35:10",
       "wrongs": [
         "Ele dá pesadelos.",
@@ -1148,7 +1148,7 @@
       "verseStart": 10,
       "kind": "subject",
       "prompt": "Para que Deus fala ao ouvido do aflito, segundo Eliú?",
-      "answer": "Para corrigi-las e elas deixarem a maldade.",
+      "answer": "Para a disciplina deles e que se convertam da maldade.",
       "reference": "Jó 36:10",
       "wrongs": [
         "Para assustá-las e elas fugirem da terra.",
@@ -1163,7 +1163,7 @@
       "verseStart": 27,
       "kind": "curiosity",
       "prompt": "O que Deus faz com as gotas de água, segundo Eliú?",
-      "answer": "Eleva-as, e elas descem em chuva.",
+      "answer": "Faz miúdas as gotas, e do vapor derramam a chuva.",
       "reference": "Jó 36:27",
       "wrongs": [
         "Seca-as, e o chão fica em pó.",
@@ -1193,7 +1193,7 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "O que o sopro de Deus produz, segundo Eliú?",
-      "answer": "Gelo, e as águas grandes ficam congeladas.",
+      "answer": "Geada, e as largas águas se congelam.",
       "reference": "Jó 37:10",
       "wrongs": [
         "Fogo, e as florestas se acendem.",
@@ -1223,7 +1223,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "O que faziam as estrelas da manhã e os filhos de Deus, em Jó?",
-      "answer": "Umas cantavam em coro; os filhos de Deus gritavam de alegria.",
+      "answer": "Cantavam juntas com alegria; os filhos de Deus jubilavam.",
       "reference": "Jó 38:7",
       "wrongs": [
         "Umas se apagavam; os filhos de Deus ficavam em silêncio.",
@@ -1253,7 +1253,7 @@
       "verseStart": 25,
       "kind": "subject",
       "prompt": "O que o cavalo fareja de longe, na fala de Deus, em Jó?",
-      "answer": "A batalha, junto com a gritaria dos chefes.",
+      "answer": "A guerra, o trovão dos capitães e o alarido.",
       "reference": "Jó 39:25",
       "wrongs": [
         "O pasto, junto com o cheiro da chuva.",
@@ -1284,7 +1284,7 @@
       "verseEnd": 6,
       "kind": "curiosity",
       "prompt": "Que casa Deus deu ao asno selvagem, em Jó?",
-      "answer": "O deserto sem gente e a terra salgada.",
+      "answer": "O ermo por casa e a terra salgada por morada.",
       "reference": "Jó 39:5-6",
       "wrongs": [
         "O curral do rico e o campo verde.",
@@ -1328,13 +1328,13 @@
       "chapter": 40,
       "verseStart": 17,
       "kind": "curiosity",
-      "prompt": "Como é a cauda do beemote, em Jó?",
-      "answer": "Fica rígida, parecida com um cedro.",
+      "prompt": "O que o beemote faz com a cauda, em Jó?",
+      "answer": "Move-a como um cedro, quando quer.",
       "reference": "Jó 40:17",
       "wrongs": [
-        "Fica mole, parecida com um junco.",
-        "Fica curta, parecida com a de um boi.",
-        "Fica fina, parecida com um chicote."
+        "Esconde-a como um junco, quando foge.",
+        "Corta-a como um boi, quando come.",
+        "Arrasta-a como um chicote, quando corre."
       ]
     },
     {
@@ -1344,7 +1344,7 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "O que Jó fez com a mão diante de Deus?",
-      "answer": "Levou-a à boca, por se achar pequeno demais.",
+      "answer": "Pôs a mão à boca, por se achar vil.",
       "reference": "Jó 40:4",
       "wrongs": [
         "Ergueu-a ao céu, por se achar inocente.",
@@ -1419,7 +1419,7 @@
       "verseStart": 14,
       "kind": "name",
       "prompt": "Quais nomes Jó deu às três filhas?",
-      "answer": "Jemima, Quézia e Quéren-Hapuque.",
+      "answer": "Jemima, Quezia e Quéren-Hapuque.",
       "reference": "Jó 42:14",
       "wrongs": [
         "Sara, Rebeca e Raquel.",
@@ -1449,7 +1449,7 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "O que Deus fez pelos bens de Jó enquanto ele orava?",
-      "answer": "Tirou o infortúnio e deu o dobro do que possuía.",
+      "answer": "Virou o cativeiro dele e deu o dobro do que possuía.",
       "reference": "Jó 42:10",
       "wrongs": [
         "Manteve a perda e deu só os filhos.",

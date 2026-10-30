@@ -67,7 +67,7 @@
       "verseStart": 11,
       "kind": "subject",
       "prompt": "O que o Pregador viu em tudo o que fez?",
-      "answer": "Que era fútil, como correr atrás do vento.",
+      "answer": "Que era vaidade e aflição de espírito.",
       "reference": "Ec 2:11",
       "wrongs": [
         "Que era eterno, como plantar um cedro.",
@@ -127,7 +127,7 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "O que Deus pôs no coração humano?",
-      "answer": "A sensação da eternidade.",
+      "answer": "O mundo, sem que o homem descubra toda a obra.",
       "reference": "Ec 3:11",
       "wrongs": [
         "A medida de todo o ouro.",
@@ -187,10 +187,10 @@
       "verseStart": 13,
       "kind": "curiosity",
       "prompt": "Quem é melhor do que um rei velho e tolo?",
-      "answer": "Um jovem pobre e sábio.",
+      "answer": "Uma criança pobre e sábia.",
       "reference": "Ec 4:13",
       "wrongs": [
-        "Um jovem rico e tolo.",
+        "Uma criança rica e tola.",
         "Um velho rico e surdo.",
         "Um rei novo e vaidoso."
       ]
@@ -276,8 +276,8 @@
       "chapter": 7,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "O que vale mais do que um bom perfume?",
-      "answer": "Uma boa reputação. O dia da morte supera o do nascimento.",
+      "prompt": "O que vale mais do que o melhor unguento?",
+      "answer": "A boa fama. O dia da morte supera o do nascimento.",
       "reference": "Ec 7:1",
       "wrongs": [
         "Uma boa festa. O dia do nascimento supera o da morte.",
@@ -381,12 +381,12 @@
       "chapter": 10,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "O que um pouco de tolice faz com a sabedoria?",
-      "answer": "Pesa mais do que ela, como moscas mortas estragam o perfume.",
+      "prompt": "O que um pouco de estultícia faz ao sábio famoso, em Eclesiastes?",
+      "answer": "O inutiliza, como moscas mortas estragam o unguento.",
       "reference": "Ec 10:1",
       "wrongs": [
-        "Some diante dela, como o sol seca o orvalho.",
-        "Vira tempero, como sal melhora a comida.",
+        "O engrandece, como o sol seca o orvalho.",
+        "O tempera, como o sal melhora a comida.",
         "Não muda nada, como água derramada em mais água."
       ]
     },
@@ -487,12 +487,12 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "O que acontece com a prata e o ouro na imagem da velhice?",
-      "answer": "A correia de prata se solta e a taça de ouro se quebra.",
+      "answer": "O cordão de prata se rompe e o copo de ouro se quebra.",
       "reference": "Ec 12:6",
       "wrongs": [
-        "A correia de prata aperta e a taça de ouro transborda.",
-        "A correia de prata vira ouro e a taça se multiplica.",
-        "A correia de prata some no poço e a taça fica nova."
+        "O cordão de prata aperta e o copo de ouro transborda.",
+        "O cordão de prata vira ouro e o copo se multiplica.",
+        "O cordão de prata some no poço e o copo fica novo."
       ]
     },
     {

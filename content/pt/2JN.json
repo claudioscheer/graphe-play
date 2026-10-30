@@ -7,10 +7,10 @@
       "verseStart": 7,
       "kind": "subject",
       "prompt": "Quem são os enganadores que surgiram no mundo, em 2 João?",
-      "answer": "Os que não afirmam que Jesus Cristo veio como homem.",
+      "answer": "Os que não confessam que Jesus Cristo veio em carne.",
       "reference": "2Jo 1:7",
       "wrongs": [
-        "Os que afirmam que Jesus Cristo veio como homem.",
+        "Os que confessam que Jesus Cristo veio em carne.",
         "Os que não pagam o imposto a Roma.",
         "Os que comem carne sacrificada aos ídolos."
       ]
@@ -21,7 +21,7 @@
       "chapter": 1,
       "verseStart": 1,
       "kind": "name",
-      "prompt": "Quem é a destinatária do ancião, com os filhos dela?",
+      "prompt": "Quem é a destinatária do presbítero, com os filhos dela?",
       "answer": "A senhora eleita.",
       "reference": "2Jo 1:1",
       "wrongs": [
@@ -38,11 +38,11 @@
       "verseEnd": 10,
       "kind": "curiosity",
       "prompt": "O que não se deve fazer com quem não traz a doutrina de Cristo?",
-      "answer": "Não o receber em casa nem cumprimentá-lo.",
+      "answer": "Não o receber em casa nem saudá-lo.",
       "reference": "2Jo 1:9-10",
       "wrongs": [
         "Recebê-lo em casa e ouvir o ensino.",
-        "Cumprimentá-lo na rua e seguir junto.",
+        "Saudá-lo na rua e seguir junto.",
         "Entregá-lo ao tribunal da cidade."
       ]
     },
@@ -52,8 +52,8 @@
       "chapter": 1,
       "verseStart": 12,
       "kind": "curiosity",
-      "prompt": "Com o que o ancião não quis escrever o restante?",
-      "answer": "Com papel e tinta; preferiu falar cara a cara.",
+      "prompt": "Com o que o presbítero não quis escrever o restante?",
+      "answer": "Com papel e tinta; preferiu falar face a face.",
       "reference": "2Jo 1:12",
       "wrongs": [
         "Com pergaminho caro; preferiu um mensageiro.",

@@ -67,7 +67,7 @@
       "verseStart": 24,
       "kind": "subject",
       "prompt": "Quem Deus entregou a Israel no ribeiro de Arnom?",
-      "answer": "Seom, rei de Hesbom, e a terra dele.",
+      "answer": "Siom, rei de Hesbom, e a terra dele.",
       "reference": "Dt 2:24",
       "wrongs": [
         "Ogue, rei de Basã, e as cidades dele.",
@@ -216,8 +216,8 @@
       "chapter": 4,
       "verseStart": 12,
       "kind": "curiosity",
-      "prompt": "O que Israel viu quando Deus falou do meio do fogo?",
-      "answer": "Nenhuma forma, apenas ouviu a voz.",
+      "prompt": "O que Israel viu quando Deus falou do meio do fogo, em Deuteronômio?",
+      "answer": "Nenhuma figura, apenas ouviu a voz.",
       "reference": "Dt 4:12",
       "wrongs": [
         "Um corpo de homem, em pé no fogo.",
@@ -262,7 +262,7 @@
       "verseStart": 15,
       "kind": "curiosity",
       "prompt": "Por que Deuteronômio manda Israel guardar o dia de repouso?",
-      "answer": "Porque foi escravo no Egito, e Deus o tirou de lá.",
+      "answer": "Porque foi servo no Egito, e o Senhor o tirou de lá.",
       "reference": "Dt 5:15",
       "wrongs": [
         "Porque Deus descansou no sétimo dia da criação.",
@@ -276,7 +276,7 @@
       "chapter": 5,
       "verseStart": 27,
       "kind": "curiosity",
-      "prompt": "O que o povo pediu a Moisés ao pé do monte?",
+      "prompt": "O que o povo pediu a Moisés ao pé do monte, em Deuteronômio?",
       "answer": "Que ouvisse Deus e contasse tudo, e eles obedeceriam.",
       "reference": "Dt 5:27",
       "wrongs": [
@@ -322,7 +322,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "Onde as palavras de Deus deviam ficar na casa, em Deuteronômio?",
-      "answer": "Nos batentes e nas entradas.",
+      "answer": "Nos umbrais da casa e nas portas.",
       "reference": "Dt 6:9",
       "wrongs": [
         "Só na arca, dentro da tenda.",
@@ -382,7 +382,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "De que o homem vive, além do pão, em Deuteronômio?",
-      "answer": "De cada palavra que Deus fala.",
+      "answer": "De tudo o que sai da boca do Senhor.",
       "reference": "Dt 8:3",
       "wrongs": [
         "Do maná que caía no deserto.",
@@ -397,7 +397,7 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "O que a roupa e o pé de Israel não sofreram no deserto?",
-      "answer": "A roupa não se acabou, e o pé não inchou.",
+      "answer": "A roupa não envelheceu, e o pé não inchou.",
       "reference": "Dt 8:4",
       "wrongs": [
         "A roupa ficou nova todo ano, e o pé não cansou.",
@@ -427,10 +427,10 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "O que Moisés negou sobre a justiça de Israel na boa terra?",
-      "answer": "Não por mérito do povo, que era teimoso.",
+      "answer": "Não por justiça do povo, que era obstinado.",
       "reference": "Dt 9:6",
       "wrongs": [
-        "Foi por mérito do povo, que era fiel.",
+        "Foi pela justiça do povo, que era fiel.",
         "Foi porque Israel nunca murmurou.",
         "Foi só pela força dos exércitos."
       ]
@@ -607,7 +607,7 @@
       "verseStart": 23,
       "kind": "curiosity",
       "prompt": "Por que não se podia comer o sangue, em Deuteronômio?",
-      "answer": "Porque o sangue é a própria alma do animal.",
+      "answer": "Porque o sangue é a vida.",
       "reference": "Dt 12:23",
       "wrongs": [
         "Porque o sangue era só dos sacerdotes.",
@@ -682,7 +682,7 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "O que identificava o animal terrestre que Israel podia comer?",
-      "answer": "O que rumina e tem o casco partido em dois.",
+      "answer": "O que tem unhas fendidas, divididas em duas, e rumina.",
       "reference": "Dt 14:6",
       "wrongs": [
         "O que tem asa e anda sobre a terra.",
@@ -772,12 +772,12 @@
       "verseStart": 16,
       "kind": "subject",
       "prompt": "Quantas vezes por ano os homens iam diante de Deus, em Deuteronômio?",
-      "answer": "Três: pães sem fermento, semanas e cabanas.",
+      "answer": "Três: pães ázimos, semanas e tabernáculos.",
       "reference": "Dt 16:16",
       "wrongs": [
         "Duas: Páscoa e o dia do perdão.",
         "Sete: uma em cada mês santo.",
-        "Uma: só na festa das cabanas."
+        "Uma: só na festa dos tabernáculos."
       ]
     },
     {
@@ -847,7 +847,7 @@
       "verseStart": 18,
       "kind": "curiosity",
       "prompt": "O que o rei devia escrever ao sentar no trono, em Deuteronômio?",
-      "answer": "Uma cópia da lei, conforme o texto dos sacerdotes.",
+      "answer": "Um traslado desta lei, do original dos sacerdotes.",
       "reference": "Dt 17:18",
       "wrongs": [
         "A lista dos cavalos e das mulheres.",
@@ -922,7 +922,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "Quem podia fugir para a cidade e continuar vivo, em Deuteronômio?",
-      "answer": "Quem matasse sem querer e sem inimizade.",
+      "answer": "Quem ferisse o próximo por engano, sem o odiar antes.",
       "reference": "Dt 19:4",
       "wrongs": [
         "Quem matasse de propósito, por ódio.",
@@ -1013,7 +1013,7 @@
       "verseStart": 19,
       "kind": "curiosity",
       "prompt": "Que árvores não se derrubavam no cerco, em Deuteronômio?",
-      "answer": "As frutíferas, porque alimentam e não lutam.",
+      "answer": "O arvoredo, porque dele se come.",
       "reference": "Dt 20:19",
       "wrongs": [
         "Os cedros, porque eram altos demais.",
@@ -1027,13 +1027,13 @@
       "chapter": 21,
       "verseStart": 4,
       "kind": "subject",
-      "prompt": "O que faziam com a bezerra se o assassino fosse desconhecido, em Deuteronômio?",
-      "answer": "Cortavam o pescoço num vale de água, nunca lavrado.",
+      "prompt": "O que faziam com a novilha se o assassino fosse desconhecido, em Deuteronômio?",
+      "answer": "Degolavam a novilha num vale áspero, nunca lavrado.",
       "reference": "Dt 21:4",
       "wrongs": [
-        "Queimavam a bezerra sobre o altar de pedra.",
-        "Soltavam a bezerra no deserto, rumo ao crime.",
-        "Davam a bezerra de herança à viúva."
+        "Queimavam a novilha sobre o altar de pedra.",
+        "Soltavam a novilha no deserto, rumo ao crime.",
+        "Davam a novilha de herança à viúva."
       ]
     },
     {
@@ -1058,7 +1058,7 @@
       "verseStart": 23,
       "kind": "curiosity",
       "prompt": "Até quando o condenado podia ficar no madeiro, em Deuteronômio?",
-      "answer": "Não passava a noite, pois o pendurado era maldição.",
+      "answer": "Não permanecia no madeiro; o pendurado é maldito de Deus.",
       "reference": "Dt 21:23",
       "wrongs": [
         "Ficava três dias, para exemplo da cidade.",
@@ -1133,7 +1133,7 @@
       "chapter": 22,
       "verseStart": 12,
       "kind": "curiosity",
-      "prompt": "O que Israel punha nas quatro pontas do manto?",
+      "prompt": "O que Israel punha nas quatro pontas do manto, em Deuteronômio?",
       "answer": "Franjas.",
       "reference": "Dt 22:12",
       "wrongs": [
@@ -1269,7 +1269,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "Quantos açoites o juiz podia aplicar, no máximo, em Deuteronômio?",
-      "answer": "Quarenta, para não humilhar o irmão além disso.",
+      "answer": "Quarenta, para o irmão não ficar envilecido.",
       "reference": "Dt 25:3",
       "wrongs": [
         "Vinte, e nem um a mais.",
@@ -1284,12 +1284,12 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "O que não se colocava no boi durante a debulha, em Deuteronômio?",
-      "answer": "Uma mordaça.",
+      "answer": "Não se atava a boca do boi.",
       "reference": "Dt 25:4",
       "wrongs": [
-        "Um cabresto.",
-        "Uma corda.",
-        "Um jugo."
+        "Atava-se a boca com uma corda.",
+        "Punha-se um jugo novo.",
+        "Cobriam-se os olhos do boi."
       ]
     },
     {
@@ -1299,11 +1299,11 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "O que a cunhada fazia se o cunhado recusasse casar, em Deuteronômio?",
-      "answer": "Tirava a sandália dele e cuspia no rosto.",
+      "answer": "Descalçava o sapato dele e cuspia no rosto.",
       "reference": "Dt 25:9",
       "wrongs": [
         "Rasgava o manto dele e saía calada.",
-        "Queimava a sandália dele na porta.",
+        "Queimava o sapato dele na porta.",
         "Cobrava o dote diante dos anciãos."
       ]
     },
@@ -1329,7 +1329,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "O que se levava ao lugar escolhido por Deus, em Deuteronômio?",
-      "answer": "Um cesto com as primeiras frutas da terra.",
+      "answer": "Um cesto com as primícias dos frutos da terra.",
       "reference": "Dt 26:2",
       "wrongs": [
         "O dízimo de todo o gado do ano.",
@@ -1344,7 +1344,7 @@
       "verseStart": 5,
       "kind": "curiosity",
       "prompt": "Como a confissão descrevia o pai de Israel?",
-      "answer": "Como um arameu quase morto, que desceu ao Egito.",
+      "answer": "Um arameu prestes a perecer, que desceu ao Egito.",
       "reference": "Dt 26:5",
       "wrongs": [
         "Como um egípcio rico, que subiu a Canaã.",
@@ -1405,7 +1405,7 @@
       "verseEnd": 6,
       "kind": "curiosity",
       "prompt": "Como deviam ser as pedras do altar, em Deuteronômio?",
-      "answer": "Inteiras, e sem ferro passado nelas.",
+      "answer": "De pedras brutas, sem instrumento de ferro.",
       "reference": "Dt 27:5-6",
       "wrongs": [
         "Cortadas, e polidas com ferro.",
@@ -1525,7 +1525,7 @@
       "verseStart": 5,
       "kind": "curiosity",
       "prompt": "O que não envelheceu nos quarenta anos de deserto, em Deuteronômio?",
-      "answer": "Nem a roupa nem o calçado.",
+      "answer": "Nem as vestes nem o sapato.",
       "reference": "Dt 29:5",
       "wrongs": [
         "Nem o pão nem o odre de água.",
@@ -1585,7 +1585,7 @@
       "verseStart": 3,
       "kind": "curiosity",
       "prompt": "O que Deus faria se Israel se convertesse no exílio?",
-      "answer": "Teria misericórdia e o recolheria de todos os povos.",
+      "answer": "Compadecer-se-ia dele e o ajuntaria de todas as nações.",
       "reference": "Dt 30:3",
       "wrongs": [
         "Esqueceria o povo e escolheria outra nação.",
@@ -1630,7 +1630,7 @@
       "verseStart": 14,
       "kind": "place",
       "prompt": "Onde Moisés e Josué esperaram Deus falar?",
-      "answer": "Na tenda do testemunho.",
+      "answer": "Na tenda da congregação.",
       "reference": "Dt 31:14",
       "wrongs": [
         "No cume do Pisga.",
@@ -1645,7 +1645,7 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "Quando a lei seria lida diante de todo Israel?",
-      "answer": "No ano sétimo, na festa das cabanas.",
+      "answer": "Ao fim de cada sete anos, na festa dos tabernáculos.",
       "reference": "Dt 31:10",
       "wrongs": [
         "Todo ano, na Páscoa.",
@@ -1660,7 +1660,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "Como o cântico final de Moisés apresenta Deus?",
-      "answer": "Como Rocha, cuja obra não tem falha.",
+      "answer": "Como Rocha, cuja obra é perfeita.",
       "reference": "Dt 32:4",
       "wrongs": [
         "Como vento, que muda a cada manhã.",
@@ -1705,7 +1705,7 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "Como Deus guardou Israel no deserto, no cântico?",
-      "answer": "Como a menina dos olhos.",
+      "answer": "Como a menina do seu olho.",
       "reference": "Dt 32:10",
       "wrongs": [
         "Como um servo esquecido no campo.",
@@ -1750,7 +1750,7 @@
       "verseStart": 2,
       "kind": "place",
       "prompt": "De onde a bênção de Moisés diz que Deus veio?",
-      "answer": "Do Sinai, e brilhou desde o Parã.",
+      "answer": "Do Sinai, e resplandeceu desde o Parã.",
       "reference": "Dt 33:2",
       "wrongs": [
         "Do Egito, e subiu desde o Nilo.",
@@ -1809,7 +1809,7 @@
       "chapter": 34,
       "verseStart": 1,
       "kind": "place",
-      "prompt": "A que monte Moisés subiu para ver a terra?",
+      "prompt": "A que monte Moisés subiu dos campos de Moabe para ver a terra?",
       "answer": "Ao Nebo, no cume do Pisga, diante de Jericó.",
       "reference": "Dt 34:1",
       "wrongs": [
@@ -1855,11 +1855,11 @@
       "verseStart": 10,
       "kind": "curiosity",
       "prompt": "Quantos profetas como Moisés se levantaram em Israel?",
-      "answer": "Nenhum, e ninguém falou com Deus cara a cara como ele.",
+      "answer": "Nenhum, e o Senhor o conheceu face a face.",
       "reference": "Dt 34:10",
       "wrongs": [
         "Muitos, em cada geração seguinte.",
-        "Só Josué, que também falou cara a cara.",
+        "Só Josué, a quem o Senhor também conheceu face a face.",
         "Doze, um em cada tribo."
       ]
     },

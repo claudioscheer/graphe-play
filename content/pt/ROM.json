@@ -51,8 +51,8 @@
       "chapter": 1,
       "verseStart": 23,
       "kind": "curiosity",
-      "prompt": "Por que figura as pessoas trocaram a glória de Deus?",
-      "answer": "Pela de gente, pássaros, animais de quatro patas e bichos rastejantes.",
+      "prompt": "Por que figura as pessoas trocaram a glória de Deus, em Romanos?",
+      "answer": "Pela imagem de homem corruptível, de aves, de quadrúpedes e de répteis.",
       "reference": "Rm 1:23",
       "wrongs": [
         "Pela glória dos anjos e das estrelas do céu.",
@@ -81,13 +81,13 @@
       "chapter": 2,
       "verseStart": 6,
       "kind": "curiosity",
-      "prompt": "Como Deus vai retribuir cada pessoa?",
-      "answer": "Conforme o que cada uma fez.",
+      "prompt": "Como Paulo diz que Deus recompensará cada um?",
+      "answer": "Segundo as suas obras.",
       "reference": "Rm 2:6",
       "wrongs": [
-        "Conforme a família em que nasceu.",
-        "Conforme o que cada uma prometeu.",
-        "Conforme os anos que cada uma viveu."
+        "Segundo a família em que nasceu.",
+        "Segundo o que cada um prometeu.",
+        "Segundo os anos que cada um viveu."
       ]
     },
     {
@@ -96,8 +96,8 @@
       "chapter": 2,
       "verseStart": 16,
       "kind": "curiosity",
-      "prompt": "O que Deus vai julgar por meio de Jesus?",
-      "answer": "Os segredos das pessoas.",
+      "prompt": "O que Deus vai julgar por meio de Jesus, em Romanos?",
+      "answer": "Os segredos dos homens.",
       "reference": "Rm 2:16",
       "wrongs": [
         "Só os atos feitos em público.",
@@ -126,7 +126,7 @@
       "chapter": 3,
       "verseStart": 10,
       "kind": "curiosity",
-      "prompt": "Há alguém justo por conta própria?",
+      "prompt": "Há alguém justo por conta própria, segundo Paulo?",
       "answer": "Ninguém. Nem sequer um.",
       "reference": "Rm 3:10",
       "wrongs": [
@@ -156,13 +156,13 @@
       "chapter": 4,
       "verseStart": 3,
       "kind": "subject",
-      "prompt": "Como Abraão foi aceito como justo?",
-      "answer": "Ele confiou em Deus, e isso foi contado como justiça.",
+      "prompt": "Como Abraão foi aceito como justo, em Romanos?",
+      "answer": "Creu em Deus, e isso lhe foi imputado como justiça.",
       "reference": "Rm 4:3",
       "wrongs": [
-        "Ele obedeceu à lei, e isso pagou a dívida.",
-        "Ele ofereceu Isaque, e isso comprou o perdão.",
-        "Ele foi circuncidado, e isso o tornou justo."
+        "Obedeceu à lei, e isso pagou a dívida.",
+        "Ofereceu Isaque, e isso comprou o perdão.",
+        "Foi circuncidado, e isso o tornou justo."
       ]
     },
     {
@@ -201,7 +201,7 @@
       "chapter": 5,
       "verseStart": 12,
       "kind": "subject",
-      "prompt": "O que entrou no mundo por um só homem?",
+      "prompt": "O que Paulo diz que entrou no mundo por um só homem?",
       "answer": "O pecado, e por meio dele a morte.",
       "reference": "Rm 5:12",
       "wrongs": [
@@ -231,13 +231,13 @@
       "chapter": 5,
       "verseStart": 8,
       "kind": "curiosity",
-      "prompt": "Em que condição as pessoas estavam quando Cristo morreu por elas?",
-      "answer": "Ainda eram pecadoras.",
+      "prompt": "Em que condição estávamos quando Cristo morreu por nós, na prova do amor de Deus?",
+      "answer": "Ainda éramos pecadores.",
       "reference": "Rm 5:8",
       "wrongs": [
-        "Já eram justas pela lei.",
-        "Já tinham se arrependido.",
-        "Já viviam sem pecado."
+        "Já éramos justos pela lei.",
+        "Já tínhamos nos arrependido.",
+        "Já vivíamos sem pecado."
       ]
     },
     {
@@ -246,7 +246,7 @@
       "chapter": 6,
       "verseStart": 11,
       "kind": "subject",
-      "prompt": "Como quem crê deve se ver diante do pecado?",
+      "prompt": "Como Paulo diz que quem crê deve se ver diante do pecado?",
       "answer": "Como alguém morto para o pecado e vivo para Deus, em Jesus.",
       "reference": "Rm 6:11",
       "wrongs": [
@@ -261,8 +261,8 @@
       "chapter": 6,
       "verseStart": 4,
       "kind": "curiosity",
-      "prompt": "Para que a pessoa é sepultada com Cristo no batismo?",
-      "answer": "Para viver de um modo novo, já que ele ressuscitou.",
+      "prompt": "Para que Paulo diz que a pessoa é sepultada com Cristo no batismo?",
+      "answer": "Para andar em novidade de vida.",
       "reference": "Rm 6:4",
       "wrongs": [
         "Para apagar os pecados só com a água.",
@@ -276,13 +276,13 @@
       "chapter": 6,
       "verseStart": 23,
       "kind": "curiosity",
-      "prompt": "Qual é o pagamento de quem peca?",
-      "answer": "A morte. A vida sem fim é um presente de Deus, em Jesus.",
+      "prompt": "Qual é o salário do pecado, segundo Paulo?",
+      "answer": "A morte. O dom gratuito de Deus é a vida eterna.",
       "reference": "Rm 6:23",
       "wrongs": [
-        "Uma multa. A vida sem fim se compra com obras.",
-        "O exílio. A vida sem fim vem de cumprir a lei.",
-        "Uma advertência. A vida sem fim se ganha no templo."
+        "Uma multa. A vida eterna se compra com obras.",
+        "O exílio. A vida eterna vem de cumprir a lei.",
+        "Uma advertência. A vida eterna se ganha no templo."
       ]
     },
     {
@@ -306,7 +306,7 @@
       "chapter": 7,
       "verseStart": 2,
       "kind": "curiosity",
-      "prompt": "Até quando a mulher casada fica presa ao marido pela lei?",
+      "prompt": "Até quando a mulher casada fica presa ao marido pela lei, segundo Paulo?",
       "answer": "Enquanto o marido viver.",
       "reference": "Rm 7:2",
       "wrongs": [
@@ -321,13 +321,13 @@
       "chapter": 7,
       "verseStart": 12,
       "kind": "curiosity",
-      "prompt": "A lei é algo ruim?",
-      "answer": "Não. Ela é santa, e a ordem dela é justa e boa.",
+      "prompt": "A lei é algo ruim, segundo Paulo?",
+      "answer": "Não. A lei é santa, e o mandamento é santo, justo e bom.",
       "reference": "Rm 7:12",
       "wrongs": [
-        "Sim. Ela é má, e a ordem dela só condena.",
-        "Sim. Ela veio do pecado, e Deus a rejeita.",
-        "Sim. Ela é inútil, e já não vale nada."
+        "Sim. A lei é má, e o mandamento só condena.",
+        "Sim. A lei veio do pecado, e Deus a rejeita.",
+        "Sim. A lei é inútil, e o mandamento não vale."
       ]
     },
     {
@@ -351,8 +351,8 @@
       "chapter": 8,
       "verseStart": 28,
       "kind": "curiosity",
-      "prompt": "Para quem todas as coisas ajudam no bem?",
-      "answer": "Para quem ama a Deus e é chamado pelo plano dele.",
+      "prompt": "Para quem Paulo diz que todas as coisas contribuem para o bem?",
+      "answer": "Para os que amam a Deus e são chamados segundo o seu propósito.",
       "reference": "Rm 8:28",
       "wrongs": [
         "Para qualquer pessoa, ame a Deus ou não.",
@@ -367,7 +367,7 @@
       "verseStart": 38,
       "verseEnd": 39,
       "kind": "curiosity",
-      "prompt": "A morte ou alguma criatura separa do amor de Deus?",
+      "prompt": "A morte ou alguma criatura separa do amor de Deus, segundo Paulo?",
       "answer": "Não. Nada disso separa quem está em Jesus.",
       "reference": "Rm 8:38-39",
       "wrongs": [
@@ -382,13 +382,13 @@
       "chapter": 9,
       "verseStart": 16,
       "kind": "subject",
-      "prompt": "A compaixão de Deus depende de quem se esforça?",
-      "answer": "Não. Ela vem dele, que escolhe ter pena.",
+      "prompt": "A compaixão de Deus depende de quem quer ou corre, segundo Paulo?",
+      "answer": "Não. Depende de Deus, que se compadece.",
       "reference": "Rm 9:16",
       "wrongs": [
-        "Sim. Ela premia quem corre e se esforça.",
-        "Sim. Ela segue o mérito que Deus previu.",
-        "Não. Ela depende de quem nasceu em Israel."
+        "Sim. Depende de quem quer e de quem corre.",
+        "Sim. Depende do mérito que Deus previu.",
+        "Não. Depende de quem nasceu em Israel."
       ]
     },
     {
@@ -428,12 +428,12 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "Qual filho serviria o outro, na palavra citada por Paulo?",
-      "answer": "O mais velho serviria o mais novo.",
+      "answer": "O maior servirá ao menor.",
       "reference": "Rm 9:12",
       "wrongs": [
-        "O mais novo serviria o mais velho.",
-        "Os dois serviriam a Faraó.",
-        "Nenhum dos dois serviria o outro."
+        "O menor servirá ao maior.",
+        "Os dois servirão a Faraó.",
+        "Nenhum dos dois servirá o outro."
       ]
     },
     {
@@ -442,13 +442,13 @@
       "chapter": 10,
       "verseStart": 9,
       "kind": "subject",
-      "prompt": "O que é preciso dizer e crer para ser salvo?",
-      "answer": "Dizer que Jesus é o dono, e crer que Deus o fez viver de novo.",
+      "prompt": "O que Paulo diz que é preciso confessar e crer para ser salvo?",
+      "answer": "Que Jesus é o Senhor, e que Deus o ressuscitou dentre os mortos.",
       "reference": "Rm 10:9",
       "wrongs": [
-        "Cumprir a lei de Moisés e guardar o sábado.",
-        "Oferecer sacrifícios e jejuar duas vezes por semana.",
-        "Dizer que Jesus foi só um mestre, e crer nas próprias obras."
+        "Que a lei de Moisés basta, e que o sábado salva.",
+        "Que os sacrifícios bastam, e que o jejum salva.",
+        "Que Jesus foi só um mestre, e que as obras salvam."
       ]
     },
     {
@@ -457,7 +457,7 @@
       "chapter": 10,
       "verseStart": 8,
       "kind": "curiosity",
-      "prompt": "A palavra da fé está longe de quem crê?",
+      "prompt": "A palavra da fé está longe de quem crê, segundo Paulo?",
       "answer": "Não. Está perto, na boca e no coração.",
       "reference": "Rm 10:8",
       "wrongs": [
@@ -547,11 +547,11 @@
       "chapter": 12,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "O que Paulo pede que se entregue a Deus?",
-      "answer": "O corpo, como oferta viva, santa e que agrada a ele.",
+      "prompt": "O que Paulo pede, pela compaixão de Deus, que se entregue a Deus?",
+      "answer": "Os corpos, em sacrifício vivo, santo e agradável a Deus.",
       "reference": "Rm 12:1",
       "wrongs": [
-        "Um animal, como oferta queimada no altar.",
+        "Um animal, em sacrifício queimado no altar.",
         "Dinheiro, como taxa devida ao templo.",
         "O sábado, como prova de obediência à lei."
       ]
@@ -562,7 +562,7 @@
       "chapter": 12,
       "verseStart": 5,
       "kind": "curiosity",
-      "prompt": "O que muitas pessoas formam em Cristo?",
+      "prompt": "O que muitas pessoas formam em Cristo, em Romanos?",
       "answer": "Um só corpo, e cada uma é membro das outras.",
       "reference": "Rm 12:5",
       "wrongs": [
@@ -577,7 +577,7 @@
       "chapter": 12,
       "verseStart": 21,
       "kind": "curiosity",
-      "prompt": "Como o mal deve ser vencido?",
+      "prompt": "Como Paulo diz que o mal deve ser vencido?",
       "answer": "Com o bem, sem deixar que ele ganhe.",
       "reference": "Rm 12:21",
       "wrongs": [
@@ -592,7 +592,7 @@
       "chapter": 13,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "Por que a pessoa deve obedecer às autoridades?",
+      "prompt": "Por que a pessoa deve obedecer às autoridades, em Romanos?",
       "answer": "Porque toda autoridade que existe vem de Deus.",
       "reference": "Rm 13:1",
       "wrongs": [
@@ -608,12 +608,12 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "O que Paulo manda entregar a cada um, conforme o caso?",
-      "answer": "Imposto, taxa, respeito e honra.",
+      "answer": "Tributo, imposto, temor e honra.",
       "reference": "Rm 13:7",
       "wrongs": [
         "Oração, jejum, esmola e voto.",
         "Culto, incenso, sacrifício e festa.",
-        "Medo, suborno, silêncio e fuga."
+        "Suborno, silêncio, fuga e medo."
       ]
     },
     {
@@ -622,7 +622,7 @@
       "chapter": 13,
       "verseStart": 10,
       "kind": "curiosity",
-      "prompt": "O que cumpre a lei no trato com o próximo?",
+      "prompt": "O que Paulo diz que cumpre a lei no trato com o próximo?",
       "answer": "O amor, pois ele não machuca ninguém.",
       "reference": "Rm 13:10",
       "wrongs": [
@@ -638,7 +638,7 @@
       "verseStart": 17,
       "kind": "subject",
       "prompt": "O reino de Deus é comida e bebida?",
-      "answer": "Não. É justiça, paz e alegria dadas pelo Espírito.",
+      "answer": "Não. É justiça, paz e alegria no Espírito Santo.",
       "reference": "Rm 14:17",
       "wrongs": [
         "Sim. É o cardápio puro da lei de Moisés.",
@@ -652,8 +652,8 @@
       "chapter": 14,
       "verseStart": 2,
       "kind": "curiosity",
-      "prompt": "O que come quem é fraco na fé?",
-      "answer": "Só vegetais.",
+      "prompt": "O que come quem é fraco na fé, segundo Paulo?",
+      "answer": "Legumes.",
       "reference": "Rm 14:2",
       "wrongs": [
         "Só carne.",
@@ -667,7 +667,7 @@
       "chapter": 14,
       "verseStart": 23,
       "kind": "curiosity",
-      "prompt": "O que vira pecado para quem age em dúvida?",
+      "prompt": "O que vira pecado para quem age em dúvida, segundo Paulo?",
       "answer": "O que não é feito com fé.",
       "reference": "Rm 14:23",
       "wrongs": [
@@ -682,13 +682,13 @@
       "chapter": 15,
       "verseStart": 1,
       "kind": "subject",
-      "prompt": "O que os fortes devem fazer com os fracos?",
-      "answer": "Aguentar as fraquezas deles e não buscar o próprio gosto.",
+      "prompt": "O que os fortes devem fazer com os fracos, em Romanos?",
+      "answer": "Suportar as fraquezas dos fracos e não agradar a si mesmos.",
       "reference": "Rm 15:1",
       "wrongs": [
-        "Corrigi-los em público até eles mudarem.",
-        "Separar-se deles para não se contaminar.",
-        "Obrigá-los a seguir o próprio gosto."
+        "Corrigir os fracos em público até eles mudarem.",
+        "Separar-se dos fracos para não se contaminar.",
+        "Obrigar os fracos a seguir o próprio gosto."
       ]
     },
     {
@@ -742,7 +742,7 @@
       "chapter": 16,
       "verseStart": 17,
       "kind": "subject",
-      "prompt": "O que Paulo pede quanto a quem causa divisão?",
+      "prompt": "O que Paulo pede quanto a quem causa divisão, em Romanos?",
       "answer": "Que a igreja tome cuidado e se afaste dessa gente.",
       "reference": "Rm 16:17",
       "wrongs": [
@@ -787,8 +787,8 @@
       "chapter": 16,
       "verseStart": 20,
       "kind": "curiosity",
-      "prompt": "O que o Deus da paz fará com Satanás?",
-      "answer": "Vai despedaçá-lo sob os pés do povo.",
+      "prompt": "O que Paulo diz que o Deus da paz fará com Satanás?",
+      "answer": "Vai esmagá-lo em breve debaixo dos pés deles.",
       "reference": "Rm 16:20",
       "wrongs": [
         "Vai entregá-lo para sempre ao mar.",

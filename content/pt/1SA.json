@@ -188,7 +188,7 @@
       "verseStart": 1,
       "kind": "curiosity",
       "prompt": "Como estava a palavra de Deus nos dias do jovem Samuel?",
-      "answer": "Era rara, e quase não havia visão.",
+      "answer": "Era de muita valia, e não havia visão manifesta.",
       "reference": "1Sm 3:1",
       "wrongs": [
         "Era diária, e todo jovem tinha visão.",
@@ -264,7 +264,7 @@
       "verseStart": 4,
       "kind": "subject",
       "prompt": "O que aconteceu com a imagem de Dagom diante da arca?",
-      "answer": "Caiu, e a cabeça e as mãos se separaram do corpo.",
+      "answer": "Caiu, e ficaram cortadas a cabeça e as palmas das mãos.",
       "reference": "1Sm 5:4",
       "wrongs": [
         "Ficou de pé e recebeu a arca ao lado.",
@@ -294,7 +294,7 @@
       "verseStart": 5,
       "kind": "curiosity",
       "prompt": "O que os sacerdotes de Dagom não pisam em Asdode?",
-      "answer": "A soleira do templo dele.",
+      "answer": "O limiar de Dagom.",
       "reference": "1Sm 5:5",
       "wrongs": [
         "O pátio de fora.",
@@ -354,7 +354,7 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "Que presente de ouro acompanhou a arca, em 1 Samuel?",
-      "answer": "Cinco imagens das feridas e o mesmo número de ratos.",
+      "answer": "Cinco hemorróidas de ouro e cinco ratos de ouro.",
       "reference": "1Sm 6:4",
       "wrongs": [
         "Dez taças de ouro e uma coroa.",
@@ -413,7 +413,7 @@
       "chapter": 7,
       "verseStart": 2,
       "kind": "curiosity",
-      "prompt": "Por quantos anos a arca ficou em Quriate-Jearim?",
+      "prompt": "Por quantos anos a arca ficou em Quiriate-Jearim?",
       "answer": "Vinte anos.",
       "reference": "1Sm 7:2",
       "wrongs": [
@@ -446,7 +446,7 @@
       "verseEnd": 2,
       "kind": "name",
       "prompt": "Como se chamavam os filhos de Samuel?",
-      "answer": "Joel e Abias.",
+      "answer": "Joel e Abia.",
       "reference": "1Sm 8:1-2",
       "wrongs": [
         "Hofni e Fineias.",
@@ -490,7 +490,7 @@
       "chapter": 9,
       "verseStart": 17,
       "kind": "subject",
-      "prompt": "Quem Deus mostrou a Samuel como futuro líder?",
+      "prompt": "Quem Deus mostrou a Samuel quando as jumentas se perderam?",
       "answer": "Saul, que governaria o povo de Israel.",
       "reference": "1Sm 9:17",
       "wrongs": [
@@ -520,7 +520,7 @@
       "chapter": 9,
       "verseStart": 5,
       "kind": "place",
-      "prompt": "Em que terra Saul pensou em voltar da busca?",
+      "prompt": "Em que terra Saul pensou em voltar da busca das jumentas?",
       "answer": "Na terra de Zufe.",
       "reference": "1Sm 9:5",
       "wrongs": [
@@ -551,7 +551,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "O que Samuel derramou na cabeça de Saul?",
-      "answer": "Azeite, e o ungiu líder do povo.",
+      "answer": "Azeite, e o ungiu por capitão da herança.",
       "reference": "1Sm 10:1",
       "wrongs": [
         "Água, e o lavou diante do povo.",
@@ -581,7 +581,7 @@
       "verseStart": 17,
       "kind": "place",
       "prompt": "Onde Samuel reuniu o povo para escolher o rei?",
-      "answer": "Em Mispá.",
+      "answer": "Em Mizpá.",
       "reference": "1Sm 10:17",
       "wrongs": [
         "Em Gilgal.",
@@ -671,7 +671,7 @@
       "chapter": 12,
       "verseStart": 18,
       "kind": "subject",
-      "prompt": "O que Deus enviou quando Samuel clamou?",
+      "prompt": "O que Deus enviou quando Samuel clamou por causa do rei?",
       "answer": "Trovões e chuva naquele dia.",
       "reference": "1Sm 12:18",
       "wrongs": [
@@ -687,7 +687,7 @@
       "verseStart": 17,
       "kind": "curiosity",
       "prompt": "Em que época Samuel pediu trovão e chuva como sinal?",
-      "answer": "Na colheita do trigo.",
+      "answer": "Na sega do trigo.",
       "reference": "1Sm 12:17",
       "wrongs": [
         "Na colheita da cevada.",
@@ -823,7 +823,7 @@
       "verseStart": 23,
       "verseEnd": 24,
       "kind": "subject",
-      "prompt": "Por que Deus rejeitou Saul como rei?",
+      "prompt": "Por que Deus rejeitou Saul como rei após Amaleque?",
       "answer": "Porque Saul rejeitou a palavra de Deus.",
       "reference": "1Sm 15:23-24",
       "wrongs": [
@@ -884,7 +884,7 @@
       "chapter": 16,
       "verseStart": 13,
       "kind": "subject",
-      "prompt": "Quem Samuel ungiu, e o espírito de Deus tomou?",
+      "prompt": "Quem Samuel ungiu em Belém, e o espírito de Deus tomou?",
       "answer": "Davi.",
       "reference": "1Sm 16:13",
       "wrongs": [
@@ -959,7 +959,7 @@
       "chapter": 17,
       "verseStart": 4,
       "kind": "name",
-      "prompt": "Quem era o guerreiro filisteu de Gate?",
+      "prompt": "Quem era o guerreiro de Gate que desafiou Israel?",
       "answer": "Golias.",
       "reference": "1Sm 17:4",
       "wrongs": [
@@ -975,7 +975,7 @@
       "verseStart": 2,
       "kind": "place",
       "prompt": "Em que vale Davi enfrentou o guerreiro filisteu de Gate?",
-      "answer": "No vale de Elá.",
+      "answer": "No vale do carvalho.",
       "reference": "1Sm 17:2",
       "wrongs": [
         "No vale do Sal.",
@@ -1125,7 +1125,7 @@
       "verseStart": 13,
       "kind": "curiosity",
       "prompt": "O que Mical colocou na cama no lugar de Davi?",
-      "answer": "Uma estátua, com pelos de cabra na cabeceira.",
+      "answer": "Uma estátua, com uma pele de cabra na cabeceira.",
       "reference": "1Sm 19:13",
       "wrongs": [
         "Um monte de roupas e a lança de Saul.",
@@ -1201,7 +1201,7 @@
       "verseEnd": 13,
       "kind": "subject",
       "prompt": "O que Davi fingiu diante de Aquis, rei de Gate?",
-      "answer": "Que estava louco, com saliva na barba.",
+      "answer": "Que estava doido, com saliva na barba.",
       "reference": "1Sm 21:12-13",
       "wrongs": [
         "Que era embaixador de Saul.",
@@ -1246,7 +1246,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "Que espada Aimeleque guardava atrás do éfode?",
-      "answer": "A de Golias, o filisteu vencido no vale de Elá.",
+      "answer": "A de Golias, o filisteu vencido no vale do carvalho.",
       "reference": "1Sm 21:9",
       "wrongs": [
         "A de Saul, guardada desde Gilgal.",
@@ -1261,7 +1261,7 @@
       "verseStart": 18,
       "kind": "subject",
       "prompt": "Quem Saul mandou matar os sacerdotes?",
-      "answer": "Doegue, o edomita, e caíram oitenta e cinco.",
+      "answer": "Doegue, o edomeu, e caíram oitenta e cinco.",
       "reference": "1Sm 22:18",
       "wrongs": [
         "Abner, o comandante, e caíram cinquenta.",
@@ -1290,8 +1290,8 @@
       "chapter": 22,
       "verseStart": 1,
       "kind": "place",
-      "prompt": "Para onde Davi fugiu, e a família se juntou?",
-      "answer": "Para a cova de Adulão.",
+      "prompt": "Para onde Davi fugiu de Saul, e a família se juntou a ele?",
+      "answer": "Para a caverna de Adulão.",
       "reference": "1Sm 22:1",
       "wrongs": [
         "Para a fortaleza de En-Gedi.",
@@ -1306,7 +1306,7 @@
       "verseStart": 1,
       "verseEnd": 2,
       "kind": "curiosity",
-      "prompt": "Quantos homens em aperto se uniram a Davi ali?",
+      "prompt": "Quantos homens em aperto se uniram a Davi na cova de Adulão?",
       "answer": "Cerca de quatrocentos.",
       "reference": "1Sm 22:1-2",
       "wrongs": [
@@ -1351,7 +1351,7 @@
       "chapter": 23,
       "verseStart": 29,
       "kind": "place",
-      "prompt": "Onde Davi passou a morar em lugares fortificados?",
+      "prompt": "Onde Davi passou a morar nos lugares fortes depois de Maom?",
       "answer": "Em En-Gedi.",
       "reference": "1Sm 23:29",
       "wrongs": [
@@ -1413,10 +1413,10 @@
       "verseStart": 4,
       "kind": "curiosity",
       "prompt": "O que Davi cortou do manto de Saul em segredo?",
-      "answer": "A borda da capa.",
+      "answer": "A orla do manto.",
       "reference": "1Sm 24:4",
       "wrongs": [
-        "A lança e a vasilha de água.",
+        "A lança e a bilha de água.",
         "Um pedaço da barba.",
         "O cinto da espada."
       ]
@@ -1473,7 +1473,7 @@
       "chapter": 25,
       "verseStart": 38,
       "kind": "curiosity",
-      "prompt": "O que aconteceu com Nabal dez dias depois?",
+      "prompt": "O que aconteceu com Nabal dez dias depois do recado de Abigail?",
       "answer": "Deus o feriu, e ele morreu.",
       "reference": "1Sm 25:38",
       "wrongs": [
@@ -1489,10 +1489,10 @@
       "verseStart": 12,
       "kind": "subject",
       "prompt": "O que Davi tirou de Saul enquanto ele dormia?",
-      "answer": "A lança e a vasilha de água.",
+      "answer": "A lança e a bilha de água.",
       "reference": "1Sm 26:12",
       "wrongs": [
-        "A borda da capa.",
+        "A orla do manto.",
         "A coroa e o bracelete.",
         "A espada e o escudo."
       ]
@@ -1519,7 +1519,7 @@
       "verseStart": 3,
       "kind": "place",
       "prompt": "Onde Saul acampou quando Davi lhe tirou a lança?",
-      "answer": "No morro de Haquilá.",
+      "answer": "No outeiro de Haquilá.",
       "reference": "1Sm 26:3",
       "wrongs": [
         "Na caverna de En-Gedi.",
@@ -1534,7 +1534,7 @@
       "verseStart": 9,
       "kind": "curiosity",
       "prompt": "Por que Davi impediu Abisai de matar o ungido?",
-      "answer": "Porque não se devia ferir o escolhido de Deus.",
+      "answer": "Porque ninguém fica inocente ao ferir o ungido do SENHOR.",
       "reference": "1Sm 26:9",
       "wrongs": [
         "Porque Saul já tinha entregue a coroa.",
@@ -1595,7 +1595,7 @@
       "verseStart": 7,
       "kind": "curiosity",
       "prompt": "Quanto tempo Davi morou na terra dos filisteus?",
-      "answer": "Pouco mais de quatro meses.",
+      "answer": "Um ano e quatro meses.",
       "reference": "1Sm 27:7",
       "wrongs": [
         "Cerca de duas semanas.",

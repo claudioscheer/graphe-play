@@ -82,7 +82,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "Entre o que Ezequiel ficaria ao falar a Israel?",
-      "answer": "Entre sarças, espinheiros e escorpiões.",
+      "answer": "Entre sarças, espinhos e escorpiões.",
       "wrongs": [
         "Entre cantores, levitas e sacerdotes.",
         "Entre príncipes, guardas e mensageiros.",
@@ -217,7 +217,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "Como Ezequiel devia cortar o cabelo e a barba?",
-      "answer": "Com uma espada afiada, usada como navalha.",
+      "answer": "Com uma faca afiada, como navalha de barbeiro.",
       "wrongs": [
         "Com uma tesoura de bronze, usada como foice.",
         "Com uma pedra afiada, usada como serra.",
@@ -262,7 +262,7 @@
       "verseStart": 3,
       "kind": "curiosity",
       "prompt": "Onde Ezequiel guardou alguns fios de cabelo?",
-      "answer": "Nas bordas da roupa.",
+      "answer": "Nas bordas do manto.",
       "wrongs": [
         "No fundo da panela.",
         "Debaixo do tijolo.",
@@ -307,7 +307,7 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "Que gesto Ezequiel devia fazer ao anunciar o ai?",
-      "answer": "Bater a mão e pisar o pé.",
+      "answer": "Bater a mão e bater o pé.",
       "wrongs": [
         "Levantar a mão e cobrir o rosto.",
         "Ajoelhar em silêncio e rasgar o manto.",
@@ -381,10 +381,10 @@
       "chapter": 8,
       "verseStart": 11,
       "kind": "name",
-      "prompt": "Quem estava no meio dos anciãos de Israel?",
-      "answer": "Jazanias, filho de Safã.",
+      "prompt": "Quem Ezequiel viu no meio dos anciãos de Israel?",
+      "answer": "Jaazanias, filho de Safã.",
       "wrongs": [
-        "Pelatias, filho de Benaías.",
+        "Pelatias, filho de Benaia.",
         "Daniel, da linhagem real de Judá.",
         "Baruque, filho de Nerias."
       ],
@@ -441,7 +441,7 @@
       "chapter": 9,
       "verseStart": 6,
       "kind": "place",
-      "prompt": "Onde começou a matança em Jerusalém?",
+      "prompt": "Onde começou a matança em Jerusalém, na visão de Ezequiel?",
       "answer": "No santuário, pelos anciãos que estavam ali.",
       "wrongs": [
         "Na porta da cidade, pelos mercadores.",
@@ -457,7 +457,7 @@
       "verseStart": 2,
       "kind": "curiosity",
       "prompt": "Quantos homens armados Ezequiel viu chegar?",
-      "answer": "Seis, e um deles trazia estojo de escriba.",
+      "answer": "Seis, e um deles trazia um tinteiro de escrivão.",
       "wrongs": [
         "Doze, e um deles trazia uma espada de fogo.",
         "Três, e um deles trazia um vaso de óleo.",
@@ -547,9 +547,9 @@
       "verseStart": 13,
       "kind": "name",
       "prompt": "Quem morreu enquanto Ezequiel profetizava?",
-      "answer": "Pelatias, filho de Benaías.",
+      "answer": "Pelatias, filho de Benaia.",
       "wrongs": [
-        "Jazanias, filho de Safã.",
+        "Jaazanias, filho de Safã.",
         "Jaazanias, filho de Azur.",
         "Baruque, filho de Nerias."
       ],
@@ -606,7 +606,7 @@
       "chapter": 12,
       "verseStart": 13,
       "kind": "place",
-      "prompt": "Para onde o príncipe de Jerusalém seria levado?",
+      "prompt": "Para onde Deus exilaria o príncipe de Jerusalém?",
       "answer": "Para a Babilônia, onde morreria sem vê-la.",
       "wrongs": [
         "Para o Egito, onde reinaria sem voltar.",
@@ -621,8 +621,8 @@
       "chapter": 12,
       "verseStart": 19,
       "kind": "curiosity",
-      "prompt": "Como os moradores de Jerusalém comeriam o pão?",
-      "answer": "Com ansiedade, e beberiam a água com espanto.",
+      "prompt": "Como os moradores de Jerusalém comeriam o pão, em Ezequiel?",
+      "answer": "Com receio, e beberiam a água com susto.",
       "wrongs": [
         "Com festa, e beberiam o vinho com canto.",
         "Com pressa, e beberiam a água com riso.",
@@ -637,7 +637,7 @@
       "verseStart": 10,
       "kind": "subject",
       "prompt": "Com o que os falsos profetas cobriam a parede, em Ezequiel?",
-      "answer": "Com cal solta, por cima da parede.",
+      "answer": "Com argamassa não temperada.",
       "wrongs": [
         "Com tinta azul, por cima da porta.",
         "Com ouro fino, por cima do altar.",
@@ -667,7 +667,7 @@
       "verseStart": 18,
       "kind": "curiosity",
       "prompt": "O que as profetisas costuravam para caçar gente, em Ezequiel?",
-      "answer": "Almofadas de pulso e lenços para a cabeça.",
+      "answer": "Almofadas para as axilas e véus para a cabeça.",
       "wrongs": [
         "Sandálias de couro e cintos para a cintura.",
         "Coroas de flores e anéis para a mão.",
@@ -697,7 +697,7 @@
       "verseStart": 21,
       "kind": "curiosity",
       "prompt": "Quais quatro males Deus mandaria a Jerusalém?",
-      "answer": "Espada, fome, bichos perigosos e peste.",
+      "answer": "Espada, fome, feras e peste.",
       "wrongs": [
         "Seca, gafanhoto, granizo e trevas.",
         "Fogo, enxofre, sal e poeira.",
@@ -711,7 +711,7 @@
       "chapter": 14,
       "verseStart": 3,
       "kind": "curiosity",
-      "prompt": "O que os anciãos de Israel tinham no coração?",
+      "prompt": "O que os anciãos tinham no coração ao consultar Ezequiel?",
       "answer": "Ídolos que eles mesmos tinham erguido.",
       "wrongs": [
         "A lei que Deus tinha escrito.",
@@ -727,7 +727,7 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "A que Deus comparou os moradores de Jerusalém?",
-      "answer": "À madeira da videira, entregue ao fogo.",
+      "answer": "À árvore da videira, entregue ao fogo.",
       "wrongs": [
         "Ao cedro do Líbano, guardado para o templo.",
         "Ao ouro de Ofir, guardado para a coroa.",
@@ -816,8 +816,8 @@
       "chapter": 17,
       "verseStart": 3,
       "kind": "subject",
-      "prompt": "O que a grande águia tomou no Líbano?",
-      "answer": "O galho mais alto de um cedro.",
+      "prompt": "O que a grande águia tomou no Líbano, em Ezequiel?",
+      "answer": "O ramo mais alto de um cedro.",
       "wrongs": [
         "A raiz mais funda de uma videira.",
         "A pedra do topo de uma torre.",
@@ -891,8 +891,8 @@
       "chapter": 18,
       "verseStart": 2,
       "kind": "curiosity",
-      "prompt": "Qual provérbio o povo dizia em Israel?",
-      "answer": "Os pais comiam uvas azedas, e os filhos sofriam.",
+      "prompt": "Qual provérbio o povo dizia em Israel, em Ezequiel?",
+      "answer": "Os pais comeram uvas verdes, e os dentes dos filhos se embotaram.",
       "wrongs": [
         "Os filhos comiam pão doce, e os pais adoeciam.",
         "Os reis bebiam vinho, e os servos pagavam.",
@@ -907,7 +907,7 @@
       "verseStart": 23,
       "kind": "curiosity",
       "prompt": "O que Deus prefere à morte do injusto, em Ezequiel?",
-      "answer": "Que ele mude de caminho e viva.",
+      "answer": "Que ele se converta dos seus caminhos e viva.",
       "wrongs": [
         "Que ele siga no caminho e morra.",
         "Que ele pague com ouro e fique.",
@@ -937,7 +937,7 @@
       "verseStart": 4,
       "kind": "place",
       "prompt": "Para onde levaram o primeiro filhote da leoa, em Ezequiel?",
-      "answer": "Para o Egito, trazido com ganchos.",
+      "answer": "Para o Egito, trazido com cadeias.",
       "wrongs": [
         "Para a Assíria, trazido com correntes.",
         "Para Tiro, trazido com presentes.",
@@ -952,7 +952,7 @@
       "verseStart": 9,
       "kind": "place",
       "prompt": "Para onde levaram o segundo leãozinho, em Ezequiel?",
-      "answer": "Ao rei da Babilônia, fechado numa fortaleza.",
+      "answer": "Ao rei da Babilônia, fechado numa jaula.",
       "wrongs": [
         "Ao rei do Egito, solto num campo.",
         "Ao rei de Tiro, posto num navio.",
@@ -981,7 +981,7 @@
       "chapter": 20,
       "verseStart": 12,
       "kind": "subject",
-      "prompt": "Para que serviam os sábados dados a Israel?",
+      "prompt": "Para que serviam os sábados dados a Israel, em Ezequiel?",
       "answer": "De sinal entre Deus e o povo.",
       "wrongs": [
         "De pagamento entre Deus e o rei.",
@@ -1026,12 +1026,12 @@
       "chapter": 20,
       "verseStart": 26,
       "kind": "curiosity",
-      "prompt": "Quem Israel fazia passar pelo fogo?",
-      "answer": "Todo primogênito.",
+      "prompt": "Quem Israel fazia passar pelo fogo, em Ezequiel?",
+      "answer": "Tudo o que abre a madre.",
       "wrongs": [
-        "Todo estrangeiro.",
-        "Todo levita.",
-        "Todo cativo."
+        "Tudo o que é estrangeiro.",
+        "Tudo o que é levita.",
+        "Tudo o que é cativo."
       ],
       "reference": "Ez 20:26"
     },
@@ -1042,7 +1042,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "O que Deus tiraria da bainha contra Israel?",
-      "answer": "A espada, contra o justo e o injusto.",
+      "answer": "A espada, contra o justo e o ímpio.",
       "wrongs": [
         "O cajado, contra o rico e o estrangeiro.",
         "A balança, contra o sacerdote e o levita.",
@@ -1072,7 +1072,7 @@
       "verseStart": 21,
       "kind": "curiosity",
       "prompt": "Como o rei da Babilônia tentou escolher o caminho?",
-      "answer": "Com flechas, ídolos e um olhar no fígado.",
+      "answer": "Com flechas, imagens e um olhar no fígado.",
       "wrongs": [
         "Com mapas, conselhos e um olhar no céu.",
         "Com dados, sonhos e um olhar no rio.",
@@ -1087,7 +1087,7 @@
       "verseStart": 26,
       "kind": "curiosity",
       "prompt": "O que devia ser tirado do príncipe de Israel?",
-      "answer": "O turbante e a coroa.",
+      "answer": "O diadema e a coroa.",
       "wrongs": [
         "O manto e o cajado.",
         "O anel e o selo.",
@@ -1146,7 +1146,7 @@
       "chapter": 23,
       "verseStart": 4,
       "kind": "subject",
-      "prompt": "Quem eram as irmãs Oolá e Oolibá?",
+      "prompt": "Quem eram as irmãs Aolá e Aolibá?",
       "answer": "Samaria e Jerusalém.",
       "wrongs": [
         "Damasco e Tiro.",
@@ -1161,7 +1161,7 @@
       "chapter": 23,
       "verseStart": 5,
       "kind": "curiosity",
-      "prompt": "Por quem Oolá se apaixonou?",
+      "prompt": "Por quem Aolá se apaixonou?",
       "answer": "Pelos assírios, seus vizinhos.",
       "wrongs": [
         "Pelos edomitas, seus vizinhos do sul.",
@@ -1176,7 +1176,7 @@
       "chapter": 23,
       "verseStart": 14,
       "kind": "curiosity",
-      "prompt": "O que fez Oolibá olhar para os caldeus?",
+      "prompt": "O que fez Aolibá olhar para os caldeus?",
       "answer": "Figuras de homens pintadas na parede.",
       "wrongs": [
         "Cartas de reis lidas na praça.",
@@ -1191,8 +1191,8 @@
       "chapter": 23,
       "verseStart": 33,
       "kind": "curiosity",
-      "prompt": "Que cálice Oolibá teria de beber?",
-      "answer": "O cálice de medo e desolação da irmã Samaria.",
+      "prompt": "Que cálice Aolibá teria de beber?",
+      "answer": "O cálice de espanto e assolação da irmã Samaria.",
       "wrongs": [
         "O cálice de festa e honra da irmã Tiro.",
         "O cálice de leite e mel da irmã Hebrom.",
@@ -1281,8 +1281,8 @@
       "chapter": 25,
       "verseStart": 5,
       "kind": "place",
-      "prompt": "Em que a cidade de Rabá seria transformada, em Ezequiel?",
-      "answer": "Em estábulo de camelos.",
+      "prompt": "Em que Deus transformaria Rabá no juízo, em Ezequiel?",
+      "answer": "Em estrebaria de camelos.",
       "wrongs": [
         "Em palácio de reis.",
         "Em porto de navios.",
@@ -1296,7 +1296,7 @@
       "chapter": 25,
       "verseStart": 9,
       "kind": "place",
-      "prompt": "Quais cidades da fronteira de Moabe seriam atingidas?",
+      "prompt": "Quais cidades da fronteira Deus abriria no juízo contra Moabe?",
       "answer": "Bete-Jesimote, Baal-Meom e Quiriataim.",
       "wrongs": [
         "Hesbom, Dibom e Aroer.",
@@ -1311,7 +1311,7 @@
       "chapter": 25,
       "verseStart": 13,
       "kind": "place",
-      "prompt": "Que regiões de Edom cairiam à espada?",
+      "prompt": "Que regiões de Edom Deus feriria à espada, em Ezequiel?",
       "answer": "Temã e Dedã.",
       "wrongs": [
         "Bozra e Sela.",
@@ -1387,11 +1387,11 @@
       "verseStart": 5,
       "kind": "curiosity",
       "prompt": "Para que Tiro serviria no meio do mar?",
-      "answer": "Para estender redes.",
+      "answer": "De enxugadouro das redes.",
       "wrongs": [
-        "Para fundir coroas.",
-        "Para guardar trigo.",
-        "Para ancorar frotas."
+        "De fundição de coroas.",
+        "De celeiro de trigo.",
+        "De porto de frotas."
       ],
       "reference": "Ez 26:5"
     },
@@ -1432,10 +1432,10 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "De que madeira eram os bancos do navio de Tiro?",
-      "answer": "De cipreste das ilhas de Chipre, com marfim.",
+      "answer": "De marfim engastado em buxo das ilhas dos quiteus.",
       "wrongs": [
         "De cedro do Líbano, com ouro.",
-        "De carvalho de Basã, com bronze.",
+        "De faia de Senir, com bronze.",
         "De oliveira do Carmelo, com prata."
       ],
       "reference": "Ez 27:6"
@@ -1447,11 +1447,11 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "O que o príncipe de Tiro afirmava ser?",
-      "answer": "Um deus, sentado no trono de Deus.",
+      "answer": "Um deus, sentado na cadeira de Deus.",
       "wrongs": [
-        "Um homem, sentado no trono de Tiro.",
-        "Um rei, sentado no trono de Davi.",
-        "Um anjo, sentado no trono de Israel."
+        "Um homem, sentado na cadeira de Tiro.",
+        "Um rei, sentado na cadeira de Davi.",
+        "Um anjo, sentado na cadeira de Israel."
       ],
       "reference": "Ez 28:2"
     },
@@ -1551,7 +1551,7 @@
       "chapter": 29,
       "verseStart": 14,
       "kind": "place",
-      "prompt": "Para que terra os egípcios seriam trazidos de volta, em Ezequiel?",
+      "prompt": "Para que terra Deus traria os egípcios do exílio, em Ezequiel?",
       "answer": "Para Patros, onde tinham nascido.",
       "wrongs": [
         "Para Zoã, onde tinham negociado.",
@@ -1581,7 +1581,7 @@
       "chapter": 30,
       "verseStart": 4,
       "kind": "subject",
-      "prompt": "O que viria sobre o Egito e causaria dor em Cuxe?",
+      "prompt": "O que viria sobre o Egito e causaria dor na Etiópia?",
       "answer": "A espada, e os mortos cairiam no Egito.",
       "wrongs": [
         "A chuva, e os celeiros transbordariam no Egito.",
@@ -1612,11 +1612,11 @@
       "verseStart": 15,
       "kind": "place",
       "prompt": "Qual fortaleza do Egito receberia a ira de Deus?",
-      "answer": "Pelúsio.",
+      "answer": "Sim, a fortaleza do Egito.",
       "wrongs": [
-        "Gaza.",
-        "Tiro.",
-        "Sidom."
+        "Gaza, a fortaleza da Filístia.",
+        "Tiro, a fortaleza da Fenícia.",
+        "Sidom, a fortaleza da costa."
       ],
       "reference": "Ez 30:15"
     },
@@ -1642,7 +1642,7 @@
       "verseStart": 18,
       "kind": "subject",
       "prompt": "O que aconteceria ao faraó, igualado às árvores do Éden?",
-      "answer": "Seria derrubado para debaixo da terra.",
+      "answer": "Seria precipitado às partes mais baixas da terra.",
       "wrongs": [
         "Seria plantado por cima dos montes.",
         "Seria coroado no meio do palácio.",
@@ -1687,7 +1687,7 @@
       "verseStart": 2,
       "kind": "subject",
       "prompt": "Como Deus descreveu o faraó dentro dos mares, em Ezequiel?",
-      "answer": "Como um monstro que turvava as águas.",
+      "answer": "Como uma baleia que turvava as águas.",
       "wrongs": [
         "Como um pastor que clareava as águas.",
         "Como um barco que abria as águas.",
@@ -1702,11 +1702,11 @@
       "verseStart": 22,
       "kind": "place",
       "prompt": "Que nação já estava na cova, com seus túmulos, em Ezequiel?",
-      "answer": "A Assíria, com os túmulos ao redor.",
+      "answer": "Assur, com os sepulcros ao redor.",
       "wrongs": [
-        "O Egito, com os túmulos ao redor.",
-        "Edom, com os túmulos ao redor.",
-        "Tiro, com os túmulos ao redor."
+        "O Egito, com os sepulcros ao redor.",
+        "Edom, com os sepulcros ao redor.",
+        "Tiro, com os sepulcros ao redor."
       ],
       "reference": "Ez 32:22"
     },
@@ -1747,7 +1747,7 @@
       "verseStart": 7,
       "kind": "subject",
       "prompt": "Que tarefa Deus deu a Ezequiel para Israel?",
-      "answer": "Ser o vigilante que alerta o povo.",
+      "answer": "Ser a atalaia que alerta o povo.",
       "wrongs": [
         "Ser o rei que cobra o tributo.",
         "Ser o sacerdote que guarda o altar.",
@@ -1777,7 +1777,7 @@
       "verseStart": 11,
       "kind": "curiosity",
       "prompt": "O que Deus prefere à morte de quem faz o mal, em Ezequiel?",
-      "answer": "Que a pessoa mude de caminho e viva.",
+      "answer": "Que a pessoa se converta do caminho e viva.",
       "wrongs": [
         "Que a pessoa siga no caminho e morra.",
         "Que a pessoa pague com prata e fique.",
@@ -1792,7 +1792,7 @@
       "verseStart": 22,
       "kind": "curiosity",
       "prompt": "O que mudou na boca de Ezequiel pela manhã?",
-      "answer": "Ela abriu, e ele não voltou a ficar mudo.",
+      "answer": "Ela abriu, e ele não ficou mais calado.",
       "wrongs": [
         "Ela fechou, e ele passou a falar baixo.",
         "Ela doeu, e ele passou a comer pouco.",
@@ -1806,7 +1806,7 @@
       "chapter": 34,
       "verseStart": 2,
       "kind": "subject",
-      "prompt": "O que havia de errado com os pastores de Israel?",
+      "prompt": "O que havia de errado com os pastores de Israel, em Ezequiel?",
       "answer": "Cuidavam de si mesmos e não das ovelhas.",
       "wrongs": [
         "Cuidavam das ovelhas e não de si mesmos.",
@@ -1836,7 +1836,7 @@
       "chapter": 34,
       "verseStart": 13,
       "kind": "place",
-      "prompt": "Onde as ovelhas de Israel seriam cuidadas?",
+      "prompt": "Onde Deus cuidaria das ovelhas de Israel, em Ezequiel?",
       "answer": "Nos montes de Israel, perto das águas.",
       "wrongs": [
         "Nos montes de Seir, longe das águas.",
@@ -1867,7 +1867,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "O que Deus faria com o monte de Seir?",
-      "answer": "O deixaria desolado e devastado.",
+      "answer": "O faria em maior desolação.",
       "wrongs": [
         "O encheria de rebanhos e de trigo.",
         "O daria a Israel como jardim.",
@@ -1897,7 +1897,7 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "Por que o sangue perseguiria o monte de Seir?",
-      "answer": "Porque esse monte não detestou o sangue.",
+      "answer": "Porque esse monte não odiou o sangue.",
       "wrongs": [
         "Porque esse monte detestou o ouro.",
         "Porque esse monte escondeu o trigo.",
@@ -1941,7 +1941,7 @@
       "chapter": 36,
       "verseStart": 35,
       "kind": "place",
-      "prompt": "A que a terra desolada de Israel seria comparada?",
+      "prompt": "A que Deus compararia a terra desolada de Israel, em Ezequiel?",
       "answer": "Ao jardim do Éden.",
       "wrongs": [
         "Ao deserto do Sinai.",
@@ -2001,7 +2001,7 @@
       "chapter": 37,
       "verseStart": 24,
       "kind": "name",
-      "prompt": "Quem seria o rei sobre o povo de Israel?",
+      "prompt": "Quem Deus faria rei sobre o povo de Israel, em Ezequiel?",
       "answer": "Davi, o servo de Deus.",
       "wrongs": [
         "Saul, o servo de Deus.",
@@ -2108,7 +2108,7 @@
       "verseStart": 22,
       "kind": "curiosity",
       "prompt": "Que castigos cairiam sobre Gogue e seus aliados?",
-      "answer": "Chuva forte, granizo, fogo e enxofre.",
+      "answer": "Peste, sangue, chuva inundante, saraiva, fogo e enxofre.",
       "wrongs": [
         "Orvalho leve, brisa, pó e silêncio.",
         "Seca longa, gafanhoto, vento e trevas.",
@@ -2137,7 +2137,7 @@
       "chapter": 39,
       "verseStart": 11,
       "kind": "place",
-      "prompt": "Que nome dariam ao lugar onde Gogue seria enterrado?",
+      "prompt": "Que nome Israel daria, no juízo, ao lugar do túmulo de Gogue?",
       "answer": "Vale da multidão de Gogue.",
       "wrongs": [
         "Vale da vinha de Israel.",
@@ -2153,7 +2153,7 @@
       "verseStart": 12,
       "kind": "curiosity",
       "prompt": "Por quanto tempo Israel sepultaria o exército de Gogue?",
-      "answer": "Durante sete meses, para limpar a terra.",
+      "answer": "Durante sete meses, para purificar a terra.",
       "wrongs": [
         "Durante sete dias, para marcar a terra.",
         "Durante sete anos, para queimar a terra.",
@@ -2242,7 +2242,7 @@
       "chapter": 41,
       "verseStart": 4,
       "kind": "subject",
-      "prompt": "Qual era a medida do Santo dos Santos?",
+      "prompt": "Qual era a medida do Santo dos Santos, na visão de Ezequiel?",
       "answer": "Vinte côvados de cada lado.",
       "wrongs": [
         "Dez côvados de cada lado.",
@@ -2258,11 +2258,11 @@
       "verseStart": 6,
       "kind": "curiosity",
       "prompt": "Quantas salas havia em cada andar ao lado do templo, em Ezequiel?",
-      "answer": "Trinta salas, em três andares.",
+      "answer": "Trinta em cada um dos três andares.",
       "wrongs": [
-        "Vinte salas, em dois andares.",
-        "Dez salas, em um andar só.",
-        "Quarenta salas, em quatro andares."
+        "Vinte em cada um dos dois andares.",
+        "Dez em um andar só.",
+        "Quarenta em cada um dos quatro andares."
       ],
       "reference": "Ez 41:6"
     },
@@ -2318,7 +2318,7 @@
       "verseStart": 13,
       "kind": "place",
       "prompt": "Onde os sacerdotes comiam as ofertas mais santas, em Ezequiel?",
-      "answer": "Nas salas do norte e nas do sul.",
+      "answer": "Nas câmaras do norte e nas do sul.",
       "wrongs": [
         "Nas salas do leste e nas do oeste.",
         "No pátio de fora e na porta da cidade.",
@@ -2362,7 +2362,7 @@
       "chapter": 43,
       "verseStart": 19,
       "kind": "name",
-      "prompt": "De que família seriam os sacerdotes do altar, em Ezequiel?",
+      "prompt": "De que família Deus escolheria os sacerdotes do altar, em Ezequiel?",
       "answer": "A descendência de Zadoque.",
       "wrongs": [
         "A descendência de Eli.",
@@ -2453,10 +2453,10 @@
       "chapter": 44,
       "verseStart": 28,
       "kind": "curiosity",
-      "prompt": "Qual era a herança dos sacerdotes em Israel?",
-      "answer": "O próprio Deus, não um terreno.",
+      "prompt": "Qual era a herança dos sacerdotes em Israel, em Ezequiel?",
+      "answer": "O próprio Deus; não uma possessão na terra.",
       "wrongs": [
-        "Um terreno largo, não o próprio Deus.",
+        "Uma possessão larga, não o próprio Deus.",
         "O dízimo do trigo, não o próprio Deus.",
         "As cidades de refúgio, não o próprio Deus."
       ],
@@ -2483,7 +2483,7 @@
       "chapter": 45,
       "verseStart": 7,
       "kind": "place",
-      "prompt": "Onde ficava a terra do príncipe de Israel?",
+      "prompt": "Onde ficava a terra do príncipe de Israel, na visão de Ezequiel?",
       "answer": "Dos dois lados da área santa e da cidade.",
       "wrongs": [
         "Só no lado norte da área santa e da cidade.",
@@ -2513,7 +2513,7 @@
       "chapter": 45,
       "verseStart": 21,
       "kind": "curiosity",
-      "prompt": "Em que data seria a Páscoa de Israel?",
+      "prompt": "Em que data Deus marcaria a Páscoa na visão de Ezequiel?",
       "answer": "No dia catorze do primeiro mês.",
       "wrongs": [
         "No dia dez do sétimo mês.",
@@ -2544,7 +2544,7 @@
       "verseStart": 24,
       "kind": "place",
       "prompt": "Onde os trabalhadores cozinhavam o sacrifício do povo, em Ezequiel?",
-      "answer": "Nas cozinhas dos trabalhadores da casa.",
+      "answer": "Nas cozinhas dos ministros da casa.",
       "wrongs": [
         "Nas salas dos sacerdotes, no norte.",
         "No pátio de fora, junto à porta.",
@@ -2574,7 +2574,7 @@
       "verseStart": 17,
       "kind": "curiosity",
       "prompt": "Até quando durava o presente do príncipe a um servo, em Ezequiel?",
-      "answer": "Até o ano em que havia libertação.",
+      "answer": "Até o ano da liberdade.",
       "wrongs": [
         "Até o mês em que havia colheita.",
         "Até o dia em que havia lua nova.",
@@ -2664,10 +2664,10 @@
       "verseStart": 35,
       "kind": "subject",
       "prompt": "Que nome a cidade teria na visão final de Ezequiel?",
-      "answer": "Deus está ali.",
+      "answer": "O Senhor está ali.",
       "wrongs": [
-        "Deus é a nossa justiça.",
-        "Deus é a minha bandeira.",
+        "O Senhor é a nossa justiça.",
+        "O Senhor é a minha bandeira.",
         "O Senhor é a paz."
       ],
       "reference": "Ez 48:35"
@@ -2708,7 +2708,7 @@
       "chapter": 48,
       "verseStart": 35,
       "kind": "curiosity",
-      "prompt": "Quantos côvados a cidade teria ao redor, na visão de Ezequiel?",
+      "prompt": "Quantas canas a cidade teria ao redor, na visão de Ezequiel?",
       "answer": "Dezoito mil.",
       "wrongs": [
         "Doze mil.",

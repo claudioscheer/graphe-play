@@ -22,7 +22,7 @@
       "verseStart": 1,
       "kind": "subject",
       "prompt": "De que se compõe a oferta de alimentos, em Levítico?",
-      "answer": "De farinha boa, azeite e incenso.",
+      "answer": "De flor de farinha, azeite e incenso.",
       "reference": "Lv 2:1",
       "wrongs": [
         "De carne, sangue e vinho.",
@@ -52,7 +52,7 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "O que o sacerdote ungido oferece pelo próprio pecado, em Levítico?",
-      "answer": "Um bezerro sem defeito, para expiar esse pecado.",
+      "answer": "Um novilho sem defeito, por expiação do pecado.",
       "reference": "Lv 4:3",
       "wrongs": [
         "Um bode sem defeito, pela culpa do povo.",
@@ -127,7 +127,7 @@
       "verseStart": 24,
       "kind": "subject",
       "prompt": "O que o fogo vindo de Deus fez no altar de Arão?",
-      "answer": "Consumiu a oferta queimada e a gordura.",
+      "answer": "Consumiu o holocausto e a gordura.",
       "reference": "Lv 9:24",
       "wrongs": [
         "Apagou o fogo que já estava ali.",
@@ -143,7 +143,7 @@
       "verseEnd": 2,
       "kind": "subject",
       "prompt": "O que houve com Nadabe e Abiú no santuário?",
-      "answer": "Morreram queimados por um fogo que Deus não pediu.",
+      "answer": "Morreram ao oferecer fogo estranho.",
       "reference": "Lv 10:1-2",
       "wrongs": [
         "Foram elogiados por trazer fogo novo.",
@@ -158,12 +158,12 @@
       "verseStart": 3,
       "kind": "subject",
       "prompt": "Que animal da terra a lei permite comer, em Levítico?",
-      "answer": "O que tem o casco fendido e rumina.",
+      "answer": "O que tem unhas fendidas e rumina.",
       "reference": "Lv 11:3",
       "wrongs": [
-        "O que tem o casco inteiro e rumina.",
+        "O que tem unhas inteiras e rumina.",
         "O que rasteja e tem muitas patas.",
-        "O que tem casco fendido e não rumina."
+        "O que tem unhas fendidas e não rumina."
       ]
     },
     {
@@ -189,7 +189,7 @@
       "verseEnd": 46,
       "kind": "subject",
       "prompt": "Onde o leproso mora enquanto está impuro, em Levítico?",
-      "answer": "Sozinho, fora do acampamento.",
+      "answer": "Sozinho, fora do arraial.",
       "reference": "Lv 13:45-46",
       "wrongs": [
         "Em casa, com a família.",
@@ -219,7 +219,7 @@
       "verseStart": 13,
       "kind": "subject",
       "prompt": "O que o homem faz depois que o fluxo passa, antes de oferecer, em Levítico?",
-      "answer": "Espera sete dias e lava a roupa e o corpo.",
+      "answer": "Conta sete dias, lava a roupa e banha a carne.",
       "reference": "Lv 15:13",
       "wrongs": [
         "Oferece no mesmo dia, sem lavar nada.",
@@ -264,7 +264,7 @@
       "verseStart": 6,
       "kind": "subject",
       "prompt": "O que a lei proíbe com um parente próximo, em Levítico?",
-      "answer": "É proibido ter relação sexual com essa pessoa.",
+      "answer": "É proibido chegar-se a ela para descobrir a sua nudez.",
       "reference": "Lv 18:6",
       "wrongs": [
         "É proibido sentar à mesa com essa pessoa.",
@@ -310,7 +310,7 @@
       "verseEnd": 2,
       "kind": "subject",
       "prompt": "Por quem o sacerdote pode se contaminar, se alguém morrer, em Levítico?",
-      "answer": "Só por um parente bem próximo.",
+      "answer": "Só pelo parente mais chegado.",
       "reference": "Lv 21:1-2",
       "wrongs": [
         "Por qualquer pessoa do povo.",
@@ -355,7 +355,7 @@
       "verseStart": 16,
       "kind": "subject",
       "prompt": "Qual é a pena de quem insulta o nome de Deus, em Levítico?",
-      "answer": "A morte, e todo o povo atira pedras.",
+      "answer": "A morte, e a congregação o apedreja.",
       "reference": "Lv 24:16",
       "wrongs": [
         "Uma multa, e a pessoa sai livre.",
@@ -370,7 +370,7 @@
       "verseStart": 10,
       "kind": "subject",
       "prompt": "O que se proclama no jubileu, o ano cinquenta, em Levítico?",
-      "answer": "Liberdade na terra, e cada família volta ao seu lugar.",
+      "answer": "Liberdade na terra, e cada um volta à sua possessão.",
       "reference": "Lv 25:10",
       "wrongs": [
         "Guerra santa, e o povo sai para lutar.",
@@ -400,13 +400,13 @@
       "chapter": 27,
       "verseStart": 2,
       "kind": "subject",
-      "prompt": "Como se resgata quem foi dedicado a Deus num voto, em Levítico?",
-      "answer": "Paga-se o valor em que a pessoa foi avaliada.",
+      "prompt": "Como ficam as pessoas de um voto particular, em Levítico?",
+      "answer": "Segundo a avaliação, serão do Senhor.",
       "reference": "Lv 27:2",
       "wrongs": [
-        "A pessoa fica no santuário para sempre.",
-        "Oferece-se outro animal no lugar dela.",
-        "O voto não pode ser desfeito de modo algum."
+        "Ficam no santuário para sempre.",
+        "São trocadas por outro animal.",
+        "O voto não vale de modo algum."
       ]
     },
     {
