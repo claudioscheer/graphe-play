@@ -77,6 +77,7 @@ class QuizTest {
         assertEquals(4, question.options.size)
         assertEquals(1, question.options.count { it.correct })
         assertEquals(correct.text, question.options.first { it.correct }.text)
+        assertEquals(QuizTopic.VERSE, question.topic)
     }
 
     @Test
@@ -101,4 +102,116 @@ class QuizTest {
         assertEquals("João 3:16", passageLabel(500, 3, 16, 16))
         assertEquals("João 3:16–18", passageLabel(500, 3, 16, 18))
     }
+
+    @Test
+    fun quizPlanGivesFiveFixedTopicsForFiveQuestions() {
+        val plan = quizPlan(5, Random(1))
+        assertEquals(0, plan.random)
+        assertEquals(5, plan.fixed.size)
+        assertTrue(plan.fixed.values.all { it == 1 })
+        assertEquals(5, plan.total)
+    }
+
+    @Test
+    fun quizPlanGivesTheRandomSliceOneInFive() {
+        val ten = quizPlan(10, Random(1))
+        assertEquals(2, ten.random)
+        assertEquals(8, ten.fixed.values.sum())
+        assertTrue(ten.fixed.values.all { it in 1..2 })
+        assertEquals(10, ten.total)
+
+        val twenty = quizPlan(20, Random(1))
+        assertEquals(4, twenty.random)
+        assertEquals(16, twenty.fixed.values.sum())
+        assertTrue(twenty.fixed.values.all { it in 3..4 })
+        assertEquals(20, twenty.total)
+    }
+
+    @Test
+    fun theLeftoverFixedQuestionsRotate() {
+        val withTwo = (1..50).flatMap { seed ->
+            quizPlan(10, Random(seed)).fixed.filterValues { it == 2 }.keys
+        }.toSet()
+        assertEquals(QuizTopic.entries.toSet(), withTwo)
+    }
+
+    @Test
+    fun aFiveQuestionQuizUsesOneOfEachFixedTopic() {
+        val cards = mixedCards()
+        val verses = (1..8).map { verseQuestion(it) }
+        val quiz = buildMixedQuiz(cards, cards, verses, count = 5, random = Random(7))
+        assertEquals(5, quiz.size)
+        QuizTopic.entries.forEach { topic ->
+            assertEquals(1, quiz.count { it.topic == topic })
+        }
+    }
+
+    @Test
+    fun aMixedQuizUsesEveryTopicAndTheRandomSlice() {
+        val cards = mixedCards()
+        val verses = (1..8).map { verseQuestion(it) }
+        val quiz = buildMixedQuiz(cards, cards, verses, count = 10, random = Random(3))
+        assertEquals(10, quiz.size)
+        assertEquals(10, quiz.map { it.cardId }.distinct().size)
+        QuizTopic.entries.forEach { topic ->
+            assertTrue("missing $topic", quiz.any { it.topic == topic })
+        }
+    }
+
+    @Test
+    fun aBookQuizDropsHistoryAndStillFillsTheCount() {
+        val cards = mixedCards().filter { it.bookNumber != HISTORY_BOOK_NUMBER }
+        val verses = (1..6).map { verseQuestion(it) }
+        val quiz = buildMixedQuiz(cards, cards, verses, count = 10, random = Random(4))
+        assertEquals(10, quiz.size)
+        assertTrue(quiz.none { it.topic == QuizTopic.HISTORY })
+        assertTrue(quiz.any { it.topic == QuizTopic.VERSE })
+    }
+
+    @Test
+    fun aHistoryQuizIsAllHistoryAndNoVerse() {
+        val cards = (1..20).map { index ->
+            card("H$index", bookNumber = HISTORY_BOOK_NUMBER, kind = CardKind.CURIOSITY)
+        }
+        val quiz = buildMixedQuiz(cards, cards, emptyList(), count = 10, random = Random(5))
+        assertEquals(10, quiz.size)
+        assertTrue(quiz.all { it.topic == QuizTopic.HISTORY })
+    }
+
+    @Test
+    fun aShortScopeFillsWithVerseQuestions() {
+        val cards = listOf(
+            card("C1", kind = CardKind.CURIOSITY),
+            card("S1", kind = CardKind.SUBJECT),
+            card("N1", kind = CardKind.NAME),
+        )
+        val verses = (1..10).map { verseQuestion(it) }
+        val quiz = buildMixedQuiz(cards, cards, verses, count = 10, random = Random(6))
+        assertEquals(10, quiz.size)
+        assertEquals(3, quiz.count { it.topic != QuizTopic.VERSE })
+        assertEquals(7, quiz.count { it.topic == QuizTopic.VERSE })
+    }
 }
+
+private fun mixedCards(): List<Card> {
+    val cards = mutableListOf<Card>()
+    repeat(8) { index ->
+        cards += card("H$index", bookNumber = HISTORY_BOOK_NUMBER, kind = CardKind.CURIOSITY)
+        cards += card("C$index", kind = CardKind.CURIOSITY)
+        cards += card("S$index", kind = CardKind.SUBJECT)
+        cards += card("N$index", kind = CardKind.NAME)
+        cards += card("P$index", kind = CardKind.PLACE)
+    }
+    return cards
+}
+
+private fun verseQuestion(index: Int): QuizQuestion = QuizQuestion(
+    cardId = "verse.$index",
+    prompt = "O que está escrito em Livro 1:$index?",
+    reference = "Livro 1:$index",
+    options = listOf(
+        QuizOption("Certa $index", true),
+        QuizOption("Errada $index", false),
+    ),
+    topic = QuizTopic.VERSE,
+)

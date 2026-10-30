@@ -44,6 +44,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import app.graphe.cartoes.domain.QuizTopic
 import app.graphe.cartoes.ui.theme.Cream
 import kotlin.math.roundToInt
 import kotlinx.coroutines.coroutineScope
@@ -80,6 +81,22 @@ fun QuizScreen(viewModel: QuizViewModel, onHome: () -> Unit) {
 
 @Composable
 private fun QuizSetup(state: QuizUiState, viewModel: QuizViewModel) {
+    val mix = when {
+        state.scope.history -> "História e geografia"
+        state.count <= 5 && state.scope.isAll() ->
+            "Versículo · História · Curiosidade · Assunto · Nomes e lugares"
+        state.count <= 5 ->
+            "Versículo · Curiosidade · Assunto · Nomes e lugares"
+        state.scope.isAll() ->
+            "Versículo · História · Curiosidade · Assunto · Nomes e lugares · Carta aleatória"
+        else ->
+            "Versículo · Curiosidade · Assunto · Nomes e lugares · Carta aleatória"
+    }
+    val mixNote = when {
+        state.scope.history -> "Todas as perguntas são de história e geografia."
+        state.count <= 5 -> "Uma pergunta de cada tipo disponível."
+        else -> "1 em cada 5 é uma carta aleatória."
+    }
     Column(Modifier.fillMaxSize()) {
         Column(
             Modifier
@@ -120,6 +137,20 @@ private fun QuizSetup(state: QuizUiState, viewModel: QuizViewModel) {
                     )
                 }
             }
+            Spacer(Modifier.height(24.dp))
+            Text("Mistura", color = Mist, style = MaterialTheme.typography.labelLarge)
+            Spacer(Modifier.height(6.dp))
+            Text(
+                mix,
+                color = Cream,
+                style = MaterialTheme.typography.bodyLarge,
+            )
+            Spacer(Modifier.height(4.dp))
+            Text(
+                mixNote,
+                color = Mist,
+                style = MaterialTheme.typography.labelLarge,
+            )
             state.message?.let {
                 Spacer(Modifier.height(16.dp))
                 Text(it, color = Peach, style = MaterialTheme.typography.bodyLarge)
@@ -236,6 +267,10 @@ private fun QuizResult(state: QuizUiState, onDone: () -> Unit) {
             Spacer(Modifier.height(24.dp))
             missed.forEach { (question, mark) ->
                 Column(Modifier.padding(bottom = 22.dp)) {
+                    question.topic?.let { topic ->
+                        Text(topic.label(), color = Mist, style = MaterialTheme.typography.labelLarge)
+                        Spacer(Modifier.height(4.dp))
+                    }
                     Text(
                         question.prompt,
                         color = Cream,
@@ -276,6 +311,14 @@ private fun BottomAction(label: String, enabled: Boolean, onClick: () -> Unit) {
         fontWeight = FontWeight.SemiBold,
         fontSize = 22.sp,
     )
+}
+
+private fun QuizTopic.label(): String = when (this) {
+    QuizTopic.VERSE -> "VERSÍCULO"
+    QuizTopic.HISTORY -> "HISTÓRIA E GEOGRAFIA"
+    QuizTopic.CURIOSITY -> "CURIOSIDADE"
+    QuizTopic.SUBJECT -> "ASSUNTO"
+    QuizTopic.NAME_PLACE -> "NOMES E LUGARES"
 }
 
 @Composable

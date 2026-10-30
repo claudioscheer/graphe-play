@@ -8,8 +8,10 @@ import app.graphe.cartoes.data.QuizAnswerEntity
 import app.graphe.cartoes.data.StudyRepository
 import app.graphe.cartoes.domain.QuizOption
 import app.graphe.cartoes.domain.QuizQuestion
+import app.graphe.cartoes.domain.QuizTopic
 import app.graphe.cartoes.domain.Scope
-import app.graphe.cartoes.domain.buildQuiz
+import app.graphe.cartoes.domain.buildMixedQuiz
+import app.graphe.cartoes.domain.quizPlan
 import app.graphe.cartoes.domain.quizPrompts
 import app.graphe.cartoes.domain.scopeLabel
 import app.graphe.cartoes.domain.verseQuizQuestion
@@ -85,10 +87,10 @@ class QuizViewModel(
         viewModelScope.launch {
             val loaded = study.load()
             val prompts = quizPrompts(loaded.cards, state.scope)
-            val verseSlots = if (state.scope.history) 0 else (state.count / 2).coerceAtMost(state.count)
-            val cardQuestions = buildQuiz(prompts, loaded.cards, (state.count - verseSlots).coerceAtLeast(0), random)
-            val verseQuestions = verseQuestions(state.scope, state.count - cardQuestions.size)
-            val questions = (cardQuestions + verseQuestions).shuffled(random).take(state.count)
+            val plan = quizPlan(state.count, random)
+            val verseTarget = plan.fixed[QuizTopic.VERSE] ?: 0
+            val verses = verseQuestions(state.scope, verseTarget + 2)
+            val questions = buildMixedQuiz(prompts, loaded.cards, verses, plan, random)
             if (questions.isEmpty()) {
                 _ui.update { it.copy(message = "Não há perguntas neste contexto.") }
                 return@launch

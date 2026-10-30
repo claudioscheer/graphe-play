@@ -7,18 +7,35 @@ data class QuizOption(
     val correct: Boolean,
 )
 
+/** The kind of question a quiz slice asks. */
+enum class QuizTopic {
+    VERSE,
+    HISTORY,
+    CURIOSITY,
+    SUBJECT,
+    NAME_PLACE,
+}
+
 data class QuizQuestion(
     val cardId: String,
     val prompt: String,
     val reference: String,
     val options: List<QuizOption>,
+    /** Null for questions rebuilt from a saved quiz, which does not store the type. */
+    val topic: QuizTopic? = null,
 )
 
 /**
- * Builds a multiple-choice quiz from [prompts], which must already be limited
- * to the active scope. Wrong options are the three written on the card.
- * If a card has none yet, other answers of the same kind fill in.
+ * How many questions each slice gets. [fixed] covers the five content types;
+ * [random] is the joker that draws any card from the scope.
  */
+data class QuizPlan(
+    val fixed: Map<QuizTopic, Int>,
+    val random: Int,
+) {
+    val total: Int get() = fixed.values.sum() + random
+}
+
 /**
  * Cards the quiz may ask. A book or chapter also includes that book's own
  * history notes (chapter 0). The whole Bible also includes church history.
@@ -38,6 +55,39 @@ fun quizPrompts(all: List<Card>, scope: Scope): List<Card> {
         emptyList()
     }
     return (matched + bookNotes + churchHistory).distinctBy { it.id }
+}
+
+/** Which fixed slice a card belongs to. History is its own deck. */
+fun Card.quizTopic(): QuizTopic = when {
+    bookNumber == HISTORY_BOOK_NUMBER -> QuizTopic.HISTORY
+    kind == CardKind.CURIOSITY -> QuizTopic.CURIOSITY
+    kind == CardKind.SUBJECT -> QuizTopic.SUBJECT
+    else -> QuizTopic.NAME_PLACE
+}
+
+/**
+ * Splits [count] questions across the six slices. The random slice takes one
+ * in five; the five fixed topics share the rest. Leftover fixed questions
+ * rotate, so no topic is always short. A quiz of five or fewer uses only the
+ * fixed topics, one for each topic that fits, because there is no room for the
+ * joker.
+ */
+fun quizPlan(count: Int, random: Random): QuizPlan {
+    if (count <= 0) {
+        return QuizPlan(emptyMap(), 0)
+    }
+    if (count <= QuizTopic.entries.size) {
+        return QuizPlan(QuizTopic.entries.take(count).associateWith { 1 }, 0)
+    }
+    val randomSlots = maxOf(1, count / 5)
+    val fixedCount = count - randomSlots
+    val base = fixedCount / QuizTopic.entries.size
+    val extra = fixedCount % QuizTopic.entries.size
+    val fixed = QuizTopic.entries.associateWith { base }.toMutableMap()
+    QuizTopic.entries.shuffled(random).take(extra).forEach { topic ->
+        fixed[topic] = (fixed[topic] ?: 0) + 1
+    }
+    return QuizPlan(fixed, randomSlots)
 }
 
 fun verseQuizQuestion(
@@ -61,9 +111,92 @@ fun verseQuizQuestion(
         prompt = "O que está escrito em $reference?",
         reference = reference,
         options = options,
+        topic = QuizTopic.VERSE,
     )
 }
 
+/**
+ * Builds a quiz with the mix from [quizPlan]. [prompts] must already be limited
+ * to the active scope. [verseQuestions] are the pre-built "O que está escrito"
+ * questions; the builder takes only the verse slice from them. If a slice runs
+ * out, the remaining cards fill in, then verse questions.
+ */
+fun buildMixedQuiz(
+    prompts: List<Card>,
+    distractorPool: List<Card>,
+    verseQuestions: List<QuizQuestion>,
+    count: Int,
+    random: Random,
+): List<QuizQuestion> {
+    if (count <= 0) {
+        return emptyList()
+    }
+    return buildMixedQuiz(prompts, distractorPool, verseQuestions, quizPlan(count, random), random)
+}
+
+/** Same as [buildMixedQuiz], with a plan already drawn so the caller can size the verse pool. */
+fun buildMixedQuiz(
+    prompts: List<Card>,
+    distractorPool: List<Card>,
+    verseQuestions: List<QuizQuestion>,
+    plan: QuizPlan,
+    random: Random,
+): List<QuizQuestion> {
+    if (plan.total <= 0) {
+        return emptyList()
+    }
+    val count = plan.total
+    val pool = prompts.distinctBy { it.id }
+    val byTopic = pool.groupBy { it.quizTopic() }
+    val used = mutableSetOf<String>()
+    val cards = mutableListOf<Card>()
+    val verses = verseQuestions.distinctBy { it.cardId }.shuffled(random)
+    var verseCount = 0
+
+    plan.fixed.forEach { (topic, target) ->
+        if (topic == QuizTopic.VERSE) {
+            verseCount = minOf(target, verses.size)
+        } else {
+            val picks = byTopic[topic].orEmpty()
+                .filter { it.id !in used }
+                .shuffled(random)
+                .take(target)
+            cards += picks
+            used += picks.map { it.id }
+        }
+    }
+
+    if (plan.random > 0) {
+        val picks = pool.filter { it.id !in used }
+            .shuffled(random)
+            .take(plan.random)
+        cards += picks
+        used += picks.map { it.id }
+    }
+
+    val missing = count - verseCount - cards.size
+    if (missing > 0) {
+        val fill = pool.filter { it.id !in used }
+            .shuffled(random)
+            .take(missing)
+        cards += fill
+        used += fill.map { it.id }
+    }
+
+    val verseMissing = count - verseCount - cards.size
+    if (verseMissing > 0) {
+        verseCount = minOf(verses.size, verseCount + verseMissing)
+    }
+
+    val cardQuestions = cards.map { card -> cardQuizQuestion(card, distractorPool, random) }
+    return (cardQuestions + verses.take(verseCount)).shuffled(random)
+}
+
+/**
+ * Builds a multiple-choice quiz from [prompts], which must already be limited
+ * to the active scope. Wrong options are the three written on the card.
+ * If a card has none yet, other answers of the same kind fill in.
+ */
 fun buildQuiz(
     prompts: List<Card>,
     distractorPool: List<Card>,
@@ -74,16 +207,25 @@ fun buildQuiz(
         return emptyList()
     }
     return prompts.shuffled(random).take(count).map { card ->
-        val wrongAnswers = wrongAnswers(card, distractorPool, random)
-        val options = (wrongAnswers.map { QuizOption(it, false) } + QuizOption(card.answer, true))
-            .shuffled(random)
-        QuizQuestion(
-            cardId = card.id,
-            prompt = card.prompt,
-            reference = card.reference,
-            options = options,
-        )
+        cardQuizQuestion(card, distractorPool, random)
     }
+}
+
+private fun cardQuizQuestion(
+    card: Card,
+    distractorPool: List<Card>,
+    random: Random,
+): QuizQuestion {
+    val wrongAnswers = wrongAnswers(card, distractorPool, random)
+    val options = (wrongAnswers.map { QuizOption(it, false) } + QuizOption(card.answer, true))
+        .shuffled(random)
+    return QuizQuestion(
+        cardId = card.id,
+        prompt = card.prompt,
+        reference = card.reference,
+        options = options,
+        topic = card.quizTopic(),
+    )
 }
 
 private fun wrongAnswers(card: Card, pool: List<Card>, random: Random): List<String> {
