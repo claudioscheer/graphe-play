@@ -11,6 +11,7 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
@@ -18,6 +19,7 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material.icons.filled.KeyboardArrowDown
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.BottomSheetDefaults
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -43,20 +45,32 @@ import androidx.compose.ui.window.DialogWindowProvider
 import androidx.core.view.WindowCompat
 import app.graphe.cartoes.ui.theme.Cream
 import app.graphe.cartoes.ui.theme.Fraunces
+import app.graphe.cartoes.ui.theme.Mist
 
 @Composable
 fun ContextTitle(title: String, onClick: () -> Unit, modifier: Modifier = Modifier) {
     Box(modifier, contentAlignment = Alignment.Center) {
-        Text(
-            text = title,
-            color = Cream,
-            style = MaterialTheme.typography.titleLarge,
-            textAlign = TextAlign.Center,
+        Row(
+            verticalAlignment = Alignment.CenterVertically,
             modifier = Modifier
                 .clip(RoundedCornerShape(8.dp))
                 .clickable(onClick = onClick)
                 .padding(horizontal = 12.dp, vertical = 6.dp),
-        )
+        ) {
+            Text(
+                text = title,
+                color = Cream,
+                style = MaterialTheme.typography.titleLarge,
+                textAlign = TextAlign.Center,
+            )
+            Spacer(Modifier.width(6.dp))
+            Icon(
+                imageVector = Icons.Filled.KeyboardArrowDown,
+                contentDescription = null,
+                tint = Mist,
+                modifier = Modifier.size(18.dp),
+            )
+        }
     }
 }
 

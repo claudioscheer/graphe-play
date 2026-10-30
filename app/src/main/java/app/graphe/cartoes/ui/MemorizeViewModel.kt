@@ -41,13 +41,19 @@ class MemorizeViewModel(
     init {
         viewModelScope.launch {
             val saved = practice.memorySelection()
-            val count = verseCount(saved.scope)
+            val scope = if (saved.scope.history) Scope.all else saved.scope
+            val verseStart = if (saved.scope.history) null else saved.verseStart
+            val verseEnd = if (saved.scope.history) null else saved.verseEnd
+            if (saved.scope.history) {
+                practice.setMemorySelection(Scope.all, null, null)
+            }
+            val count = verseCount(scope)
             _ui.value = MemorizeUiState(
                 ready = true,
-                scope = saved.scope,
-                scopeLabel = label(saved.scope, saved.verseStart, saved.verseEnd, count),
-                verseStart = saved.verseStart,
-                verseEnd = saved.verseEnd,
+                scope = scope,
+                scopeLabel = label(scope, verseStart, verseEnd, count),
+                verseStart = verseStart,
+                verseEnd = verseEnd,
                 verseCount = count,
             )
             draw(avoid = false)

@@ -95,6 +95,7 @@ fun MemorizeScreen(viewModel: MemorizeViewModel, onHome: () -> Unit) {
                             onFlip = viewModel::onFlip,
                             onVerse = viewModel::openVerse,
                             showReference = false,
+                            autoSizeAnswer = true,
                             modifier = Modifier.fillMaxSize(),
                         )
                     }
@@ -112,6 +113,7 @@ fun MemorizeScreen(viewModel: MemorizeViewModel, onHome: () -> Unit) {
                 scope = state.scope,
                 onChoose = viewModel::chooseScope,
                 modifier = Modifier.fillMaxSize(),
+                showHistory = false,
             )
         }
     }

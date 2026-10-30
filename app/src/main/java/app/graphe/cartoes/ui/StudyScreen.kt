@@ -212,6 +212,7 @@ internal fun FlashCard(
     onFlip: () -> Unit,
     onVerse: () -> Unit,
     showReference: Boolean = true,
+    autoSizeAnswer: Boolean = false,
     modifier: Modifier = Modifier,
 ) {
     val rotation = remember { Animatable(0f) }
@@ -284,34 +285,43 @@ internal fun FlashCard(
             contentAlignment = Alignment.Center,
         ) {
             if (showingBack) {
-                Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                    Text(
-                        card.answer,
+                if (autoSizeAnswer) {
+                    AutoSizeText(
+                        text = card.answer,
                         color = Color.White,
                         style = MaterialTheme.typography.headlineMedium,
-                        textAlign = TextAlign.Center,
+                        modifier = Modifier.fillMaxSize(),
                     )
-                    if (showReference) {
-                        Spacer(Modifier.height(28.dp))
-                        val referenceStyle = MaterialTheme.typography.titleMedium
-                        if (card.pointsToVerse()) {
-                            Text(
-                                card.reference,
-                                color = Navy,
-                                style = referenceStyle,
-                                modifier = Modifier
-                                    .clip(CircleShape)
-                                    .background(Cream)
-                                    .clickable(onClick = onVerse)
-                                    .padding(horizontal = 16.dp, vertical = 8.dp),
-                            )
-                        } else {
-                            Text(
-                                card.reference,
-                                color = Cream.copy(alpha = 0.75f),
-                                style = referenceStyle,
-                                textAlign = TextAlign.Center,
-                            )
+                } else {
+                    Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                        Text(
+                            card.answer,
+                            color = Color.White,
+                            style = MaterialTheme.typography.headlineMedium,
+                            textAlign = TextAlign.Center,
+                        )
+                        if (showReference) {
+                            Spacer(Modifier.height(28.dp))
+                            val referenceStyle = MaterialTheme.typography.titleMedium
+                            if (card.pointsToVerse()) {
+                                Text(
+                                    card.reference,
+                                    color = Navy,
+                                    style = referenceStyle,
+                                    modifier = Modifier
+                                        .clip(CircleShape)
+                                        .background(Cream)
+                                        .clickable(onClick = onVerse)
+                                        .padding(horizontal = 16.dp, vertical = 8.dp),
+                                )
+                            } else {
+                                Text(
+                                    card.reference,
+                                    color = Cream.copy(alpha = 0.75f),
+                                    style = referenceStyle,
+                                    textAlign = TextAlign.Center,
+                                )
+                            }
                         }
                     }
                 }

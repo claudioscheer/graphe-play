@@ -71,6 +71,7 @@ fun ScopeSheet(
     scope: Scope,
     onChoose: (Scope) -> Unit,
     modifier: Modifier = Modifier,
+    showHistory: Boolean = true,
 ) {
     var expandedBook by rememberSaveable { mutableIntStateOf(-1) }
     Column(modifier.fillMaxSize().navigationBarsPadding()) {
@@ -97,7 +98,9 @@ fun ScopeSheet(
                 { onChoose(Scope(testament = Testament.NEW)) },
                 "Novo Testamento",
             )
-            ScopeChip(scope.history, { onChoose(Scope.history) }, "História e geografia")
+            if (showHistory) {
+                ScopeChip(scope.history, { onChoose(Scope.history) }, "História e geografia")
+            }
         }
         LazyColumn(
             contentPadding = PaddingValues(horizontal = 16.dp, vertical = 12.dp),
