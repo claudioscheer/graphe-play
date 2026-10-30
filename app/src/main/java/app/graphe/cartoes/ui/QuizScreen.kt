@@ -31,6 +31,7 @@ import androidx.compose.material3.Text
 import androidx.compose.material3.rememberModalBottomSheetState
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.key
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -160,11 +161,13 @@ private fun QuizSetup(state: QuizUiState, viewModel: QuizViewModel) {
                 Text("Resultados", color = Mist, style = MaterialTheme.typography.labelLarge)
                 Spacer(Modifier.height(8.dp))
                 state.history.forEach { row ->
-                    HistoryRow(
-                        row,
-                        onOpen = { viewModel.openHistory(row.id) },
-                        onDelete = { viewModel.deleteHistory(row.id) },
-                    )
+                    key(row.id) {
+                        HistoryRow(
+                            row,
+                            onOpen = { viewModel.openHistory(row.id) },
+                            onDelete = { viewModel.deleteHistory(row.id) },
+                        )
+                    }
                 }
             }
         }
