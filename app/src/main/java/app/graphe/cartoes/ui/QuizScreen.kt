@@ -2,12 +2,21 @@ package app.graphe.cartoes.ui
 
 import androidx.activity.compose.BackHandler
 import androidx.compose.animation.core.Animatable
+import androidx.compose.animation.core.FastOutSlowInEasing
+import androidx.compose.animation.core.LinearEasing
+import androidx.compose.animation.core.RepeatMode
+import androidx.compose.animation.core.animateFloat
+import androidx.compose.animation.core.infiniteRepeatable
+import androidx.compose.animation.core.keyframes
+import androidx.compose.animation.core.rememberInfiniteTransition
 import androidx.compose.animation.core.tween
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.gestures.detectHorizontalDragGestures
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -18,6 +27,7 @@ import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.offset
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
@@ -25,11 +35,13 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.ModalBottomSheet
 import androidx.compose.material3.Text
 import androidx.compose.material3.rememberModalBottomSheetState
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.key
 import androidx.compose.runtime.remember
@@ -37,14 +49,21 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.TransformOrigin
+import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.IntOffset
+import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.LineHeightStyle
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.em
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import app.graphe.cartoes.R
 import app.graphe.cartoes.domain.QuizTopic
 import app.graphe.cartoes.ui.theme.Cream
 import kotlin.math.roundToInt
@@ -247,6 +266,10 @@ private fun OptionButton(
 @Composable
 private fun QuizResult(state: QuizUiState, onDone: () -> Unit) {
     val correct = state.marks.count { it.correct }
+    if (correct == state.questions.size) {
+        PerfectQuizResult(correct, state.questions.size, onDone)
+        return
+    }
     val missed = state.questions.zip(state.marks).filter { !it.second.correct }
     Column(Modifier.fillMaxSize()) {
         Column(
@@ -263,7 +286,7 @@ private fun QuizResult(state: QuizUiState, onDone: () -> Unit) {
                 fontSize = 48.sp,
             )
             Text(
-                if (correct == state.questions.size) "Tudo certo." else "Respostas para rever.",
+                "Respostas para rever.",
                 color = Mist,
                 style = MaterialTheme.typography.titleMedium,
             )
@@ -294,6 +317,234 @@ private fun QuizResult(state: QuizUiState, onDone: () -> Unit) {
         }
         BottomAction("Concluir", enabled = true, onClick = onDone)
     }
+}
+
+@Composable
+private fun PerfectQuizResult(correct: Int, total: Int, onDone: () -> Unit) {
+    val entrance = remember { Animatable(0f) }
+    LaunchedEffect(Unit) {
+        entrance.animateTo(1f, tween(durationMillis = 700, easing = FastOutSlowInEasing))
+    }
+    Column(
+        Modifier
+            .fillMaxSize()
+            .graphicsLayer {
+                alpha = entrance.value
+                translationY = (1f - entrance.value) * 20.dp.toPx()
+            },
+    ) {
+        Column(
+            Modifier
+                .weight(1f)
+                .padding(horizontal = 24.dp)
+                .padding(top = 8.dp),
+        ) {
+            Row {
+                Text(
+                    correct.toString(),
+                    color = Cream,
+                    style = TextStyle(
+                        fontFamily = Fraunces,
+                        fontWeight = FontWeight.SemiBold,
+                        fontSize = 208.sp,
+                        lineHeight = 208.sp,
+                        letterSpacing = (-0.04f).em,
+                        lineHeightStyle = LineHeightStyle(
+                            alignment = LineHeightStyle.Alignment.Center,
+                            trim = LineHeightStyle.Trim.Both,
+                        ),
+                    ),
+                    modifier = Modifier.alignByBaseline(),
+                )
+                Spacer(Modifier.width(14.dp))
+                Text(
+                    "de $total",
+                    color = Mist,
+                    fontSize = 27.sp,
+                    lineHeight = 32.sp,
+                    modifier = Modifier.alignByBaseline(),
+                )
+            }
+            Spacer(Modifier.height(8.dp))
+            Text(
+                "Tudo certo.",
+                color = Cream,
+                fontFamily = Fraunces,
+                fontWeight = FontWeight.SemiBold,
+                fontSize = 38.sp,
+                lineHeight = 44.sp,
+            )
+            Spacer(Modifier.height(8.dp))
+            Text(
+                "Você acertou todas.",
+                color = Mist,
+                style = MaterialTheme.typography.bodyLarge,
+            )
+            PerfectTrophy(
+                Modifier
+                    .weight(1f)
+                    .fillMaxWidth(),
+            )
+            Box(
+                Modifier
+                    .fillMaxWidth()
+                    .height(1.dp)
+                    .background(Cream.copy(alpha = 0.16f)),
+            )
+            Row(
+                Modifier
+                    .fillMaxWidth()
+                    .padding(top = 16.dp, bottom = 18.dp),
+                horizontalArrangement = Arrangement.SpaceBetween,
+            ) {
+                Text(
+                    if (correct == 1) "1 acerto" else "$correct acertos",
+                    color = Mist.copy(alpha = 0.76f),
+                    style = MaterialTheme.typography.labelLarge,
+                )
+                Text(
+                    "0 para rever",
+                    color = Mist.copy(alpha = 0.76f),
+                    style = MaterialTheme.typography.labelLarge,
+                )
+            }
+        }
+        BottomAction("Concluir", enabled = true, onClick = onDone)
+    }
+}
+
+@Composable
+private fun PerfectTrophy(modifier: Modifier = Modifier) {
+    val transition = rememberInfiniteTransition(label = "perfect")
+    val bob by transition.animateFloat(
+        initialValue = 0f,
+        targetValue = 1f,
+        animationSpec = infiniteRepeatable(
+            animation = keyframes {
+                durationMillis = 6000
+                0f at 0
+                1f at 2520
+                0.3f at 3720
+                0f at 6000
+            },
+            repeatMode = RepeatMode.Restart,
+        ),
+        label = "bob",
+    )
+    val tiltProgress by transition.animateFloat(
+        initialValue = 0f,
+        targetValue = 1f,
+        animationSpec = infiniteRepeatable(
+            animation = keyframes {
+                durationMillis = 9000
+                0f at 0
+                0f at 7380
+                1f at 9000
+            },
+            repeatMode = RepeatMode.Restart,
+        ),
+        label = "tilt",
+    )
+    val tilt = when {
+        tiltProgress < 0.82f -> 0f
+        tiltProgress < 0.86f -> -3f * ((tiltProgress - 0.82f) / 0.04f)
+        tiltProgress < 0.90f -> -3f + 6f * ((tiltProgress - 0.86f) / 0.04f)
+        tiltProgress < 0.94f -> 3f - 4.2f * ((tiltProgress - 0.90f) / 0.04f)
+        tiltProgress < 0.97f -> -1.2f + 1.6f * ((tiltProgress - 0.94f) / 0.03f)
+        else -> 0.4f * (1f - (tiltProgress - 0.97f) / 0.03f)
+    }
+    val sparkle by transition.animateFloat(
+        initialValue = 0f,
+        targetValue = 1f,
+        animationSpec = infiniteRepeatable(
+            animation = tween(durationMillis = 4600, easing = LinearEasing),
+            repeatMode = RepeatMode.Restart,
+        ),
+        label = "sparkle",
+    )
+
+    BoxWithConstraints(modifier, contentAlignment = Alignment.Center) {
+        val scale = minOf(maxWidth.value / 220f, maxHeight.value / 230f, 1f).coerceAtLeast(0.05f)
+        Box(
+            Modifier
+                .size(220.dp * scale, 230.dp * scale)
+                .graphicsLayer {
+                    translationY = -7.dp.toPx() * bob * scale
+                    rotationZ = tilt
+                    transformOrigin = TransformOrigin(0.5f, 0.92f)
+                },
+        ) {
+            Image(
+                painter = painterResource(R.drawable.ic_trophy),
+                contentDescription = null,
+                modifier = Modifier
+                    .align(Alignment.Center)
+                    .size(156.dp * scale, 180.dp * scale),
+            )
+            Sparkle(
+                progress = sparkle,
+                phase = 0.05f,
+                color = Peach,
+                modifier = Modifier
+                    .align(Alignment.TopStart)
+                    .offset(x = 30.dp * scale, y = 24.dp * scale)
+                    .size(11.dp * scale),
+            )
+            Sparkle(
+                progress = sparkle,
+                phase = 0.38f,
+                color = Mint,
+                modifier = Modifier
+                    .align(Alignment.TopStart)
+                    .offset(x = 176.dp * scale, y = 50.dp * scale)
+                    .size(9.dp * scale),
+            )
+            Sparkle(
+                progress = sparkle,
+                phase = 0.63f,
+                color = Cream,
+                modifier = Modifier
+                    .align(Alignment.TopStart)
+                    .offset(x = 42.dp * scale, y = 190.dp * scale)
+                    .size(7.dp * scale),
+            )
+            Sparkle(
+                progress = sparkle,
+                phase = 0.82f,
+                color = Peach,
+                modifier = Modifier
+                    .align(Alignment.TopStart)
+                    .offset(x = 176.dp * scale, y = 164.dp * scale)
+                    .size(6.dp * scale),
+            )
+        }
+    }
+}
+
+@Composable
+private fun Sparkle(
+    progress: Float,
+    phase: Float,
+    color: Color,
+    modifier: Modifier = Modifier,
+) {
+    val local = (progress + phase) % 1f
+    val wave = when {
+        local < 0.45f -> local / 0.45f
+        local < 0.62f -> 1f - (local - 0.45f) / 0.17f * 0.65f
+        else -> 0.35f * (1f - (local - 0.62f) / 0.38f)
+    }
+    Icon(
+        painter = painterResource(R.drawable.ic_spark),
+        contentDescription = null,
+        tint = color,
+        modifier = modifier.graphicsLayer {
+            alpha = 0.18f + 0.82f * wave
+            scaleX = 0.65f + 0.45f * wave
+            scaleY = 0.65f + 0.45f * wave
+            rotationZ = 18f * wave
+        },
+    )
 }
 
 @Composable
