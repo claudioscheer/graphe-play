@@ -81,7 +81,7 @@ vindo de `wrongAnswers`, com as três erradas escritas na carta.
 
 - **Preparação**: abaixo de "Quantas perguntas", uma seção "Mistura" com a
   linha dos seis tipos e a nota "1 em cada 5 é uma carta aleatória." Para 5
-  perguntas, "Uma pergunta de cada tipo."
+  perguntas, "Uma pergunta de cada tipo disponível."
 - **Resultado**: um rótulo pequeno acima de cada pergunta errada
   (`VERSÍCULO`, `HISTÓRIA E GEOGRAFIA`, `CURIOSIDADE`, `ASSUNTO`,
   `NOMES E LUGARES`). O histórico antigo não tem rótulo.
